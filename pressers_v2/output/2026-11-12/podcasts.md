@@ -44,7 +44,17 @@ From: [Andre Drummond Reveals the NBA’s Best Shooting Big Man, Talks Knicks Im
 
 <small>[Clip it](presserclips://clip?v=suUlGWLpykg&t=6&q=1) · [Send to Slack](presserclips://clip?v=suUlGWLpykg&t=6&q=1&slack=1)</small>
 
-**5. Theo Pinson — "I've been hearing a lot of noise and usually the noise on doesn't bother me, doesn't bother Ayesha." — Steph Curry's response to criticism regarding Ayesha Curry's career** [11:43](https://www.youtube.com/watch?v=xDhdSNEQJP4&t=703s)
+**5. Shams Charania — "Warriors are expecting Stephen Curry to be sidelined for about a month with this oblique abdominal tear" — Stephen Curry expected to miss about a month with oblique tear** [03:23](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=203s)
+
+Shams Charania: "I'm told that the Warriors are expecting **Stephen Curry** to be sidelined for about a month with this oblique abdominal tear, and they're going to re-evaluate him officially in about 14 days. At that point, they're going to get a better feel for what his recovery looks like, what the rehab looks like. Could it be three weeks? Could it be four weeks? Could it be a little bit more than that? That's what they're going to know in about 14 days, but they're bracing for him to be out at least a double-digit sum of games."
+
+[https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=203s](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=203s)
+
+From: [Update on Steph Curry & Luka Doncic's recovery timelines 🚨 \| SportsCenter](https://www.youtube.com/watch?v=vEiJ-OxA6UI) · *NBA on ESPN*
+
+<small>[Clip it](presserclips://clip?v=vEiJ-OxA6UI&t=203&q=2) · [Send to Slack](presserclips://clip?v=vEiJ-OxA6UI&t=203&q=2&slack=1)</small>
+
+**6. Theo Pinson — "I've been hearing a lot of noise and usually the noise on doesn't bother me, doesn't bother Ayesha." — Steph Curry's response to criticism regarding Ayesha Curry's career** [11:43](https://www.youtube.com/watch?v=xDhdSNEQJP4&t=703s)
 
 Theo Pinson: "I've been hearing a lot of noise and usually the noise on doesn't bother me, doesn't bother Ayesha, but this one in particular when you're trying to step on the accomplishments of my wife and you know obviously needing podcast tapings and topics and giving opinions on somebody else's wife. Nick, Gil, Emmanuel, and anybody else who feels the need to want to have to jump in and give an opinion on something you don't really know about, something that kind of speaks to the bigger conversation on how you view women in this world and what they're allowed and what they're not allowed to do."
 
@@ -54,7 +64,7 @@ From: [Are the SPURS the CLEAR favorites? Steph Curry says STFU 🤫 James Harde
 
 <small>[Clip it](presserclips://clip?v=xDhdSNEQJP4&t=703&q=4) · [Send to Slack](presserclips://clip?v=xDhdSNEQJP4&t=703&q=4&slack=1)</small>
 
-**6. Iman Shumpert — "If he pull up in a suit, somebody got to get credit where credit is due." — Luka Doncic's MVP case and the Mavericks' team success** [00:21](https://www.youtube.com/watch?v=1ARnk6Gw-O8&t=21s)
+**7. Iman Shumpert — "If he pull up in a suit, somebody got to get credit where credit is due." — Luka Doncic's MVP case and the Mavericks' team success** [00:21](https://www.youtube.com/watch?v=1ARnk6Gw-O8&t=21s)
 
 **Iman Shumpert:** "That Croatian motherfucker, there's something wrong. That's one white boy you don't want to see pulling up in a suit. If he pull up in a suit, somebody got to get credit where credit is due. Yes, it is Luka right now. We know."
 
@@ -66,7 +76,7 @@ From: [Luka, Wemby, Tatum and the NBA MVP Race (So Far)](https://www.youtube.com
 
 <small>[Clip it](presserclips://clip?v=1ARnk6Gw-O8&t=21&q=1) · [Send to Slack](presserclips://clip?v=1ARnk6Gw-O8&t=21&q=1&slack=1)</small>
 
-**7. Tim Hardaway Sr. — "I didn't like that. I thought it was bush league. I thought it was terrible." — Tim Hardaway Sr. on Doc Rivers' apology to Giannis Antetokounmpo** [24:03](https://www.youtube.com/watch?v=_VXmmKeSLSk&t=1443s)
+**8. Tim Hardaway Sr. — "I didn't like that. I thought it was bush league. I thought it was terrible." — Tim Hardaway Sr. on Doc Rivers' apology to Giannis Antetokounmpo** [24:03](https://www.youtube.com/watch?v=_VXmmKeSLSk&t=1443s)
 
 Tim Hardaway Sr.: "I didn't like that. I thought it was bush league. I thought it was terrible. When I first heard it, I was like, oh, you can't say that. You know, not not you can't say he don't have basketball IQ. If he didn't have basketball IQ, he wouldn't be a professional basketball player. He wouldn't be an MVP. He wouldn't have won a championship. You know, he wouldn't have figured out a lot of things out there on the court that needed to be figured out when they won a championship. So yeah, that was kind of harsh and I and I and I and I'm happy that he apologized and and called them up, text them, whatever, because, you know, walking into a room, you got to interview him, walking, you know, past somebody in the hallway, you you don't know what might trigger somebody when you say something like that."
 
@@ -76,7 +86,7 @@ From: [Steph Curry INJURED, Warriors Win Streak ENDS + Brown & Tatum DRAMA!](htt
 
 <small>[Clip it](presserclips://clip?v=_VXmmKeSLSk&t=1443&q=7) · [Send to Slack](presserclips://clip?v=_VXmmKeSLSk&t=1443&q=7&slack=1)</small>
 
-**8. Chandler Parsons — "Paul George clearly took that personal, has been in the lab because he looks unbelievable." — Chandler Parsons on Paul George's trade and current form** [06:53](https://www.youtube.com/watch?v=94gHdn4s7hA&t=413s)
+**9. Chandler Parsons — "Paul George clearly took that personal, has been in the lab because he looks unbelievable." — Chandler Parsons on Paul George's trade and current form** [06:53](https://www.youtube.com/watch?v=94gHdn4s7hA&t=413s)
 
 Chandler Parsons: "**Paul George** clearly took that personal, has been in the lab because he looks unbelievable. He looks prime **Paul George**. He looks athletic, he looks in shape, he looks healthy. And that's the only issue ever with **Paul George** is health. When he's on, he's one of the best two-way players ever in this league. He is cold-blooded and he is showing that. **Paul George** is playing the way he's playing, it's making it look like a pretty solid deal."
 
@@ -86,7 +96,17 @@ From: [Will Boston BOO Jaylen Brown? PG13 STEALS Spotlight From Brown-Tatum Beef
 
 <small>[Clip it](presserclips://clip?v=94gHdn4s7hA&t=413&q=4) · [Send to Slack](presserclips://clip?v=94gHdn4s7hA&t=413&q=4&slack=1)</small>
 
-**9. Lou Williams — "They don't have that one marquee guy to finish games." — Warriors' struggle to finish games without a marquee scorer** [00:23](https://www.youtube.com/watch?v=yTUw7TItmQA&t=23s)
+**10. Danny Green — "they've had a group and a system that has allowed them to play well without Steph" — Warriors' system allows them to compete without Stephen Curry** [00:27](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=27s)
+
+Danny Green: "It's a tough blow, but they've been playing really good basketball. Luckily for them, they've had a group and a system that has allowed them to play well without Steph this year. Unfortunately, last year it was a struggle for them. Luckily for them, this is an oblique situation, he can come back full health in a couple of weeks, hopefully in that three-week period. It does affect everything that you do. They do have a favorable schedule the next two weeks. It may take a little longer for him to come back than two weeks, but this is something that's going to nag him, but at the end of the day, he'll be back and be Steph Curry when he's healthy."
+
+[https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=27s](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=27s)
+
+From: [Update on Steph Curry & Luka Doncic's recovery timelines 🚨 \| SportsCenter](https://www.youtube.com/watch?v=vEiJ-OxA6UI) · *NBA on ESPN*
+
+<small>[Clip it](presserclips://clip?v=vEiJ-OxA6UI&t=27&q=1) · [Send to Slack](presserclips://clip?v=vEiJ-OxA6UI&t=27&q=1&slack=1)</small>
+
+**11. Lou Williams — "They don't have that one marquee guy to finish games." — Warriors' struggle to finish games without a marquee scorer** [00:23](https://www.youtube.com/watch?v=yTUw7TItmQA&t=23s)
 
 **Lou Williams:** "Last night was a sample size. Those guys competed. They did everything they could to continue to get themselves in the game. They just didn't have enough to finish. They don't have that one marquee guy to finish games. **Yaxel Lendeborg** is playing lights out as a rookie. Super impressed with what he's doing and the way that he carries himself, the way that he plays, his pace. Sometimes he brings the ball up, he can create off the dribble, you can throw it to him in the post, he's going to take advantage of his size. He's a three-level scorer at this point in his young career, but he hasn't markeed himself to be the guy that can finish games for them in that **Steph Curry**."
 
@@ -98,7 +118,7 @@ From: [Will Yaxel Lendeborg CARRY Warriors with Steph Curry INJURED?!](https://w
 
 <small>[Clip it](presserclips://clip?v=yTUw7TItmQA&t=23&q=1) · [Send to Slack](presserclips://clip?v=yTUw7TItmQA&t=23&q=1&slack=1)</small>
 
-**10. Michelle Beadle — "He set the record for the most points by any rookie point guard in NBA history." — Darius Acuff's historic start as a rookie point guard** [05:11](https://www.youtube.com/watch?v=yTUw7TItmQA&t=311s)
+**12. Michelle Beadle — "He set the record for the most points by any rookie point guard in NBA history." — Darius Acuff's historic start as a rookie point guard** [05:11](https://www.youtube.com/watch?v=yTUw7TItmQA&t=311s)
 
 Michelle Beadle: "**Darius Acuff** set the record for the most points by any rookie point guard in NBA history through 10 games. Do the Kings have their new franchise player?"
 
@@ -108,7 +128,7 @@ From: [Will Yaxel Lendeborg CARRY Warriors with Steph Curry INJURED?!](https://w
 
 <small>[Clip it](presserclips://clip?v=yTUw7TItmQA&t=311&q=4) · [Send to Slack](presserclips://clip?v=yTUw7TItmQA&t=311&q=4&slack=1)</small>
 
-**11. Arhii Shumpert — "He also controls the game pace at will, meaning sometimes you could tell he's not really trying." — Shai Gilgeous-Alexander's ability to control game pace and defensive reads** [03:38](https://www.youtube.com/watch?v=1ARnk6Gw-O8&t=218s)
+**13. Arhii Shumpert — "He also controls the game pace at will, meaning sometimes you could tell he's not really trying." — Shai Gilgeous-Alexander's ability to control game pace and defensive reads** [03:38](https://www.youtube.com/watch?v=1ARnk6Gw-O8&t=218s)
 
 **Arhii Shumpert:** "Not only does he control the free throw pace, but he also controls the game pace at will, meaning sometimes you could tell he's not really trying as hard as most players do to control this game, but yet he is controlling the fuck out of this game. Defensively and offensively, he's not doing nothing but playing the passing lane, being a good teammate, but he's so good and so inept at reading the defenses, it's kind of tough to deal with."
 
@@ -120,7 +140,7 @@ From: [Luka, Wemby, Tatum and the NBA MVP Race (So Far)](https://www.youtube.com
 
 <small>[Clip it](presserclips://clip?v=1ARnk6Gw-O8&t=218&q=5) · [Send to Slack](presserclips://clip?v=1ARnk6Gw-O8&t=218&q=5&slack=1)</small>
 
-**12. Gilbert Arenas — "I get in the gym, as soon as I walk in, I look left, ball goes off the backboard, Boozer coming down the middle." — Gilbert Arenas on his first day in the gym and breaking the backboard** [05:15](https://www.youtube.com/watch?v=8PGgXwwFuH0&t=315s)
+**14. Gilbert Arenas — "I get in the gym, as soon as I walk in, I look left, ball goes off the backboard, Boozer coming down the middle." — Gilbert Arenas on his first day in the gym and breaking the backboard** [05:15](https://www.youtube.com/watch?v=8PGgXwwFuH0&t=315s)
 
 Gilbert Arenas: "I get in the gym, as soon as I walk in, I look left, ball goes off the backboard, **Boozer** coming down the middle. Boom, broke the backboard. I said, yeah. Let me go to the league, I'm sneaking, I'm sneaking, yeah, this nigga long, where to go. I'm done, I got a long way to go. Ain't no point, just get through this and start working at McDonald's out this bitch because this ain't it for me."
 
@@ -130,7 +150,7 @@ From: [Gilbert Arenas on feeling he wasn't even GOOD enough for varsity basketba
 
 <small>[Clip it](presserclips://clip?v=8PGgXwwFuH0&t=315&q=8) · [Send to Slack](presserclips://clip?v=8PGgXwwFuH0&t=315&q=8&slack=1)</small>
 
-**13. Charlie Villanueva — "Demar is one of the the best scorers in NBA history." — Charlie Villanueva on the legacy of Demar DeRozan** [2:03:30](https://www.youtube.com/watch?v=xDhdSNEQJP4&t=7410s)
+**15. Charlie Villanueva — "Demar is one of the the best scorers in NBA history." — Charlie Villanueva on the legacy of Demar DeRozan** [2:03:30](https://www.youtube.com/watch?v=xDhdSNEQJP4&t=7410s)
 
 Charlie Villanueva: "Demar is one of the the best scorers in NBA history. But he is not **LeBron James**."
 
@@ -139,16 +159,6 @@ Charlie Villanueva: "Demar is one of the the best scorers in NBA history. But he
 From: [Are the SPURS the CLEAR favorites? Steph Curry says STFU 🤫 James Harden has a PROBLEM?](https://www.youtube.com/watch?v=xDhdSNEQJP4) · *To The Baha*
 
 <small>[Clip it](presserclips://clip?v=xDhdSNEQJP4&t=7410&q=29) · [Send to Slack](presserclips://clip?v=xDhdSNEQJP4&t=7410&q=29&slack=1)</small>
-
-**14. Stephen Jackson — "I don't think there will ever be somebody that go from point guard to center and win the finals." — Stephen Jackson on the rarity of a player transitioning from point guard to center** [2:02:17](https://www.youtube.com/watch?v=M4Laj7hWujU&t=7337s)
-
-Stephen Jackson: "I don't think there will ever be somebody that go from point guard to center and win the finals, like Magic did. It'll never happen again. I don't think nobody can go from forward, point guard to center. Nah, I don't even think LeBron could do that."
-
-[https://www.youtube.com/watch?v=M4Laj7hWujU&t=7337s](https://www.youtube.com/watch?v=M4Laj7hWujU&t=7337s)
-
-From: [Marques Johnson Tells the Truth About Giannis’ Final Bucks Season](https://www.youtube.com/watch?v=M4Laj7hWujU) · *ALL THE SMOKE*
-
-<small>[Clip it](presserclips://clip?v=M4Laj7hWujU&t=7337&q=10) · [Send to Slack](presserclips://clip?v=M4Laj7hWujU&t=7337&q=10&slack=1)</small>
 
 ---
 
@@ -1079,6 +1089,54 @@ Josh Hart: "You know me, when watching a basketball game and someone scores a bi
 [https://www.youtube.com/watch?v=suUlGWLpykg&t=3877s](https://www.youtube.com/watch?v=suUlGWLpykg&t=3877s)
 
 <small>[Clip it](presserclips://clip?v=suUlGWLpykg&t=3877&q=26) · [Send to Slack](presserclips://clip?v=suUlGWLpykg&t=3877&q=26&slack=1)</small>
+
+---
+
+## Update on Steph Curry & Luka Doncic's recovery timelines 🚨 | SportsCenter — *NBA on ESPN*
+
+Source: [https://www.youtube.com/watch?v=vEiJ-OxA6UI](https://www.youtube.com/watch?v=vEiJ-OxA6UI)
+
+_Speakers identified: Danny Green, Shams Charania, Christine_
+
+**1. Danny Green — "they've had a group and a system that has allowed them to play well without Steph" — Warriors' system allows them to compete without Stephen Curry** [00:27](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=27s)
+
+Danny Green: "It's a tough blow, but they've been playing really good basketball. Luckily for them, they've had a group and a system that has allowed them to play well without Steph this year. Unfortunately, last year it was a struggle for them. Luckily for them, this is an oblique situation, he can come back full health in a couple of weeks, hopefully in that three-week period. It does affect everything that you do. They do have a favorable schedule the next two weeks. It may take a little longer for him to come back than two weeks, but this is something that's going to nag him, but at the end of the day, he'll be back and be Steph Curry when he's healthy."
+
+[https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=27s](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=27s)
+
+<small>[Clip it](presserclips://clip?v=vEiJ-OxA6UI&t=27&q=1) · [Send to Slack](presserclips://clip?v=vEiJ-OxA6UI&t=27&q=1&slack=1)</small>
+
+**2. Shams Charania — "Warriors are expecting Stephen Curry to be sidelined for about a month with this oblique abdominal tear" — Stephen Curry expected to miss about a month with oblique tear** [03:23](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=203s)
+
+Shams Charania: "I'm told that the Warriors are expecting **Stephen Curry** to be sidelined for about a month with this oblique abdominal tear, and they're going to re-evaluate him officially in about 14 days. At that point, they're going to get a better feel for what his recovery looks like, what the rehab looks like. Could it be three weeks? Could it be four weeks? Could it be a little bit more than that? That's what they're going to know in about 14 days, but they're bracing for him to be out at least a double-digit sum of games."
+
+[https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=203s](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=203s)
+
+<small>[Clip it](presserclips://clip?v=vEiJ-OxA6UI&t=203&q=2) · [Send to Slack](presserclips://clip?v=vEiJ-OxA6UI&t=203&q=2&slack=1)</small>
+
+**3. Shams Charania — "he woke up with no pain today in that ankle, that he's doing good" — Luka Doncic avoiding serious injury after turning his ankle** [04:15](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=255s)
+
+Shams Charania: "Good news for **Luka Doncic**. I'm told by one source that he woke up with no pain today in that ankle, that he's doing good, and the plan is for **Luka Doncic** to go through his normal treatment process in the lead up to Sunday's game in Phoenix. We know **Luka Doncic** has been on an MVP-caliber run this year. It looks like he's avoided anything serious."
+
+[https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=255s](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=255s)
+
+<small>[Clip it](presserclips://clip?v=vEiJ-OxA6UI&t=255&q=3) · [Send to Slack](presserclips://clip?v=vEiJ-OxA6UI&t=255&q=3&slack=1)</small>
+
+**4. Shams Charania — "JJ Redick has said that he's going to undergo testing today on that heel injury" — Austin Reaves undergoing testing on heel injury** [04:38](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=278s)
+
+Shams Charania: "**Austin Reaves** on the other hand, **JJ Redick** has said that he's going to undergo testing today on that heel injury that he suffered, but I'm told as of now, no MRI has been taken or is planned for today. It remains to be seen whether he's going to have one either tomorrow or on Saturday in the lead up to Sunday's game, so certainly could be a sign that he's avoided anything major."
+
+[https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=278s](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=278s)
+
+<small>[Clip it](presserclips://clip?v=vEiJ-OxA6UI&t=278&q=4) · [Send to Slack](presserclips://clip?v=vEiJ-OxA6UI&t=278&q=4&slack=1)</small>
+
+**5. Shams Charania — "it is a fractured right hand, he's undergoing surgery, he's going to miss four to six weeks" — Caleb Wilson to miss 4-6 weeks following hand surgery** [05:00](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=300s)
+
+Shams Charania: "In Chicago with **Caleb Wilson**, their prized rookie, I'm told it is a fractured right hand, he's undergoing surgery, he's going to miss four to six weeks for the Bulls. This is his shooting hand, but certainly a setback for **Caleb Wilson** and the team, as he's been the young face of this rebuild that the Bulls are on. He'd been averaging 19 points and six rebounds in his first 10 games."
+
+[https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=300s](https://www.youtube.com/watch?v=vEiJ-OxA6UI&t=300s)
+
+<small>[Clip it](presserclips://clip?v=vEiJ-OxA6UI&t=300&q=5) · [Send to Slack](presserclips://clip?v=vEiJ-OxA6UI&t=300&q=5&slack=1)</small>
 
 ---
 
