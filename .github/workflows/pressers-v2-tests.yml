@@ -13,6 +13,11 @@ on:
       - '.github/workflows/pressers-v2-tests.yml'
   workflow_dispatch:
 
+# A newer push to the same PR/branch cancels the older, now-outdated run.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: read
 

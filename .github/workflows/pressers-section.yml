@@ -79,7 +79,11 @@ jobs:
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "Pressers section: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # [skip ci]: these data/ files are internal and not under docs/, so the
+          # GitHub Pages rebuild this push used to start published identical pages
+          # (about 3 billed minutes each). It also skips push-triggered workflows;
+          # none of them watch data/.
+          git commit -m "Pressers section: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
           # Same retry as the Pressers v2 run. Only these data/ files are ours,
           # which that run never writes, so a rebase has nothing to conflict on.
           max_retries=4

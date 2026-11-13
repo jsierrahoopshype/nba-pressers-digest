@@ -197,7 +197,10 @@ jobs:
             echo "Slack state unchanged."
             exit 0
           fi
-          git commit -m "Pressers v2 Slack state: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # [skip ci]: slack_alerted.json is not mirrored into docs/, so a Pages
+          # rebuild for this commit would publish identical pages (and used to
+          # cancel the still-running build of this run's real output).
+          git commit -m "Pressers v2 Slack state: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
           attempt=0
           until git push origin "HEAD:${GITHUB_REF_NAME}"; do
             attempt=$((attempt + 1))

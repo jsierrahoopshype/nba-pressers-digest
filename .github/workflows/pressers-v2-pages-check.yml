@@ -20,6 +20,11 @@ on:
         required: false
         default: 'https://jsierrahoopshype.github.io/nba-pressers-digest/pressers_v2/2026-09-30/digest-manual-1118.html'
 
+# A newer push to the same PR/branch cancels the older, now-outdated run.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: read
 
