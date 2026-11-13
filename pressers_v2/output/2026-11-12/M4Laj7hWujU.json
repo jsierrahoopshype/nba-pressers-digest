@@ -528,8 +528,8 @@
       "team": "ALL THE SMOKE"
     }
   ],
-  "content_type": "podcast",
-  "content_type_source": "yt-quotes rotation",
+  "content_type": "oneoff",
+  "content_type_source": "yt-quotes one-off",
   "source": "hoopshype-yt-quotes",
   "format": "ytq-1",
   "video_id": "M4Laj7hWujU",
@@ -539,5 +539,5 @@
   "duration_seconds": 6091,
   "processed_at": "2026-11-12T17:38:54Z",
   "run_id": "2026-11-12-overnight",
-  "is_one_off": false
+  "is_one_off": true
 }

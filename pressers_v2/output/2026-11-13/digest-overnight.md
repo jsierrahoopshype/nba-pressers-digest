@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-13
 
+[Podcasts & shows](podcasts-overnight.md)
+
 # Best of the best
 
 **1. Tyrese Maxey — "I knew that he didn't twist it or anything. I knew it was like a knee-to-knee." — Tyrese Maxey discusses Joel Embiid's knee injury** [01:09](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=69s)
