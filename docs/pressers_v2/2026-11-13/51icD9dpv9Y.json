@@ -1,0 +1,194 @@
+{
+  "video_title": "\"Tonight We Hung Our Hats On The Defensive End.\" | Chris Finch Postgame Sound | 11.12.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:00",
+      "summary_phrase": "Chris Finch on Timberwolves' offensive versatility and mid-range scoring",
+      "names_mentioned": [
+        "Rudy Gobert",
+        "Jaden McDaniels"
+      ],
+      "excerpt": "we can get to guys in the pocket, different guys in the pocket, that often leads to maybe a mid-range shot",
+      "quote": "It feels like we can get to guys in the pocket, different guys in the pocket, that often leads to maybe a mid-range shot. We face a lot of drop coverage when you have Rudy Gobert on the floor, so you have to be ready to get to that spot. I think we have guys who can get clean there and get off good looks, Jaden McDaniels is chief among them, but also Nickeil Alexander-Walker has been good in that capacity too.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch says the Timberwolves are leaning into mid-range shots when facing drop coverage, noting that Jaden McDaniels and Nickeil Alexander-Walker have been effective at getting to those spots.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert",
+          "Jaden McDaniels",
+          "Nickeil Alexander-Walker"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Chris Finch discusses the team's offensive execution against drop coverage and highlights specific players who excel in those situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:40",
+      "summary_phrase": "Chris Finch on defensive strategy against Cooper Flagg",
+      "names_mentioned": [
+        "Cooper Flagg",
+        "Jaden McDaniels",
+        "Nickeil Alexander-Walker"
+      ],
+      "excerpt": "he's a great young player, no doubt about it. He's got such a high motor so you got to match that",
+      "quote": "He's a great young player, no doubt about it. He's got such a high motor so you got to match that first and foremost. He's a physical player, so he loves to draw contact and play off of that creative advantage. He gets to the line a lot. Tonight I thought we did a good job of keeping him off the line, that's huge. He has his big games, he's getting there about eight, nine times a game. We're lucky enough to have guys like Jaden McDaniels who have size to be able to bother him. When he can get to his pull-up, he's big, he's a big player. But Jaden's also got equal length and Nickeil Alexander-Walker did a really good job with him too, taking away his space to be creative.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch on defending Cooper Flagg: The key was keeping him off the free throw line. Finch credited Jaden McDaniels and Nickeil Alexander-Walker for using their length to bother Flagg and take away his space.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cooper Flagg",
+          "Jaden McDaniels",
+          "Nickeil Alexander-Walker"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the defensive game plan used to limit the impact of Cooper Flagg during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:48",
+      "summary_phrase": "Chris Finch on stylistic similarities between LaMelo Ball and Bones Hyland",
+      "names_mentioned": [
+        "LaMelo Ball",
+        "Bones Hyland"
+      ],
+      "excerpt": "both of them fit the system. Particularly when Bones Hyland is playing the way he is, getting downhill, creating for people",
+      "quote": "Both of them fit the system. Particularly when Bones Hyland is playing the way he is, getting downhill, creating for people as well as for himself. Both of them play fast, both of them are looking to throw the ball down the floor. I think the tempo even goes up a tick when Bones Hyland goes in there right now, which is a good change of pace. I would say probably, but I'm not sure.",
+      "text_blocks": [],
+      "start_seconds": 108,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Chris Finch notes that the team tempo goes up a tick when Bones Hyland is on the floor, comparing his playstyle to LaMelo Ball in terms of playing fast and looking to push the ball down the floor.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball",
+          "Bones Hyland"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch compares the playing styles and tempo impact of LaMelo Ball and Bones Hyland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "02:32",
+      "summary_phrase": "Chris Finch on Anthony Edwards' growth as a leader",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "he's grown in so many ways. Obviously whether it be habits, he's found his voice within the last two seasons",
+      "quote": "He's grown in so many ways. Obviously whether it be habits, he's found his voice within the last two seasons, and then he's found the right messaging within that. I think he realizes that the leadership also comes with the responsibility of holding yourself accountable to a different standard. I saw that all through training camp and in the first week of the season. Just a little bit more thoughtful in some of the things he sees and suggests about the team or whatever it might be, the game plan. It's been fun to watch, it really has been. He's staying connected with the guys even though he's not always on a daily basis or has a slightly different schedule sometimes, and he loves his team and his personality is still infused through the team, there's no doubt about it.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Chris Finch on Anthony Edwards' growth as a leader: He has found his voice and realizes that leadership comes with the responsibility of holding himself accountable to a different standard.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch reflects on the growth and development of Anthony Edwards as a leader within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "03:49",
+      "summary_phrase": "Chris Finch on Anthony Edwards' defensive impact and consistency",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "he's an outstanding defensive playmaker. He's a very good defender in his own right, but he just makes plays",
+      "quote": "He's an outstanding defensive playmaker. He's a very good defender in his own right, but he just makes plays. He makes things happen. He goes and gets steals, he gets 50-50 balls, he gets his hands on things, he steals inbound passes, all kinds of things as a possessions guy, and those guys are super valuable. We've challenged him to be way more consistent in the things that he does and he's really responded both ends of the floor. That's what happens to guys that are third, fourth year in the league, they become now a way more consistent player and then that gives him a platform to build on going forward to add more to their game.",
+      "text_blocks": [],
+      "start_seconds": 229,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch calls Anthony Edwards an outstanding defensive playmaker who makes things happen by getting steals and 50-50 balls. Finch says Edwards has responded well to the challenge of being more consistent.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch praises Anthony Edwards for his defensive playmaking and his increased consistency on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "51icD9dpv9Y",
+  "url": "https://www.youtube.com/watch?v=51icD9dpv9Y",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-13T05:41:41Z",
+  "duration_seconds": 289,
+  "processed_at": "2026-11-13T06:11:22Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

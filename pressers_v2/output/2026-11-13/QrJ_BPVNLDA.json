@@ -1,0 +1,183 @@
+{
+  "video_title": "\"We Have A Lot Of Fun Playing Defense.\" | Jonathan Kuminga Postgame Sound | 11.12.26",
+  "speakers_seen": [
+    "Jonathan Kuminga"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "00:12",
+      "summary_phrase": "Jonathan Kuminga on the Timberwolves' defensive-first team identity",
+      "names_mentioned": [],
+      "excerpt": "The better we play defense, the better we going to be on offense.",
+      "quote": "I think we don't got to find that. I think our main focus off the game is not offense. The better we play defense, the better we going to be on offense. And I think it's been a thing collectively, including all of us, just to guard. Get a foul, don't worry about it as much. It's not just foul that match, but if you out there guarding and you're battling, that's I think that's our first thing going out there. Just focusing on guarding and the rest will handle itself.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga says the Timberwolves are prioritizing defense over offense this season. He believes that if the team focuses on guarding and battling on every possession the rest of the game will handle itself.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga discusses the Timberwolves' defensive-first team identity during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "00:49",
+      "summary_phrase": "Jonathan Kuminga on Jaden McDaniels' defensive impact",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "We got one of the best defenders, guarding him Jaden.",
+      "quote": "We got one of the best defenders, guarding him Jaden. You know, he just try to make us hard as he can. It's not going to be out there stopping everything, but you know, it's not that easy playing against Jaden. I think we trust him. We let him handle and we going to handle the rest behind him and make his life even easier.",
+      "text_blocks": [],
+      "start_seconds": 49,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga on playing alongside Jaden McDaniels. He says the team trusts McDaniels to take the toughest defensive assignments and they focus on making his life easier by handling the rest behind him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jonathan Kuminga praises Jaden McDaniels for his defensive impact and the trust the team has in him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "01:18",
+      "summary_phrase": "Jonathan Kuminga on Rudy Gobert's defensive energy",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "When he gets on our floor, just his energy just feeds off everybody.",
+      "quote": "Rudy's been great. I think he's one of those guys that you got to rely on all the time because we know when he gets on our floor, just his energy just feeds off everybody and he gets all of us going. And as you guys seen today, once again on our floor, his energy just helps us, lift us off the off the gate and that's why we start to separate and take the lead.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga credits Rudy Gobert for the Timberwolves defensive energy. He says Goberts presence on the floor feeds off everybody and helps the team separate from opponents early in games.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jonathan Kuminga explains how Rudy Gobert's defensive energy helps the team gain momentum during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "01:44",
+      "summary_phrase": "Jonathan Kuminga on the team's enjoyment of playing defense",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Rudy Gobert",
+        "Jonathan Kuminga",
+        "Kyle Anderson"
+      ],
+      "excerpt": "It's fun playing defense. Getting stops, you know, that feels good.",
+      "quote": "It's fun playing defense. Getting stops, you know, that feels good. Especially our feet, I feed off that. It's a challenge every day going out there and trying to guard some of these best players in the world. Getting a couple stops, seeing that, you know, it makes you want to defend and feel good. So I think so far it's been fun just being a part of this guys and helping them just win games.",
+      "text_blocks": [],
+      "start_seconds": 104,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga says it is fun playing defense. He describes the challenge of guarding the best players in the world as something that makes him want to defend and feel good.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga describes the enjoyment he and his teammates find in playing defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "03:23",
+      "summary_phrase": "Jonathan Kuminga on LaMelo Ball's competitive nature",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "He's one of the best players in this league and he's all about winning.",
+      "quote": "I just knew he was one of the best players in this league and he's all about winning. And as he's been providing, we see he's all about winning and I think that's pretty much all I knew about. And I knew he was a little little crazy, but in a good way.",
+      "text_blocks": [],
+      "start_seconds": 203,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Jonathan Kuminga on LaMelo Ball. He says he knew Ball was one of the best players in the league and all about winning, adding that he knew he was a little crazy but in a good way.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga shares his thoughts on LaMelo Ball's competitive nature and winning mentality.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "QrJ_BPVNLDA",
+  "url": "https://www.youtube.com/watch?v=QrJ_BPVNLDA",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-13T05:39:47Z",
+  "duration_seconds": 286,
+  "processed_at": "2026-11-13T06:11:22Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

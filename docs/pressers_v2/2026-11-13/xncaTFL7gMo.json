@@ -1,0 +1,247 @@
+{
+  "video_title": "\"We Want To Continue To Build Winning Habits.\" | LaMelo Ball Postgame Sound | 11.12.26",
+  "speakers_seen": [
+    "LaMelo Ball"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:12",
+      "summary_phrase": "LaMelo Ball on maintaining intensity during games",
+      "names_mentioned": [],
+      "excerpt": "never getting comfortable, always just building habits, good habits, just trying to win and do the right stuff",
+      "quote": "Never getting comfortable, always just building habits, good habits, just trying to win and do the right stuff. You don't want to work on no bad habits.",
+      "verbatim_original_language": "",
+      "start_seconds": 12,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on the team mindset after a big lead: Never getting comfortable, always just building habits, good habits, just trying to win and do the right stuff.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball discusses the team's focus on maintaining good habits during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:30",
+      "summary_phrase": "LaMelo Ball on the importance of staying hungry",
+      "names_mentioned": [],
+      "excerpt": "human nature, you know how it goes when you up 30 usually, everybody take their foot off",
+      "quote": "Human nature, you know how it goes when you up 30 usually. Everybody take their foot off the gas. I mean everyone, for real, the fans, the refs, I mean everybody just take a little seat back. So I mean, you just keep going, I feel like it just gets the game over with.",
+      "verbatim_original_language": "",
+      "start_seconds": 30,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "LaMelo Ball on human nature when up 30: Everybody take their foot off the gas. I mean everyone, for real, the fans, the refs, I mean everybody just take a little seat back. So I mean, you just keep going.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball explains the importance of maintaining intensity even when the team has a large lead.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:46",
+      "summary_phrase": "LaMelo Ball on the impact of teammate Bones",
+      "names_mentioned": [
+        "Bones"
+      ],
+      "excerpt": "Bones been great for real, he been helping us tremendously, just the time he in the game",
+      "quote": "Bones been great for real, he been helping us tremendously, just the time he in the game, he doing everything right from the defense to the offense, so it's helping a lot.",
+      "verbatim_original_language": "",
+      "start_seconds": 46,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "LaMelo Ball praises Bones for his impact on the floor: Bones been great for real, he been helping us tremendously, just the time he in the game, he doing everything right from the defense to the offense.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bones Hyland"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball praises the contributions of his teammate Bones Hyland during his time on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:00",
+      "summary_phrase": "LaMelo Ball on Bones' scoring ability",
+      "names_mentioned": [
+        "Bones"
+      ],
+      "excerpt": "once he rolling, it's just tough to stop him, you know, he shot the midrange, he got it all",
+      "quote": "Once he rolling, it's just tough to stop him, you know, he shot the midrange, he got it all.",
+      "verbatim_original_language": "",
+      "start_seconds": 60,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on the difficulty of guarding Bones: Once he rolling, it's just tough to stop him, you know, he shot the midrange, he got it all.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bones Hyland"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball comments on the offensive scoring versatility of his teammate Bones Hyland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "LaMelo Ball",
+      "timestamp": "02:16",
+      "summary_phrase": "LaMelo Ball on his connection with Rudy Gobert",
+      "names_mentioned": [
+        "Rudy"
+      ],
+      "excerpt": "Rudy is center and the point guard, so just that combination right there got to be real strong",
+      "quote": "Rudy is center and the point guard, so just that combination right there got to be real strong, got to work. So definitely just talk to Rudy a lot, ask what he see, I let him know what I see, and try to put our minds together and just go from there.",
+      "verbatim_original_language": "",
+      "start_seconds": 136,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on his chemistry with Rudy Gobert: Rudy is center and the point guard, so just that combination right there got to be real strong, got to work.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball describes his communication and on-court chemistry with teammate Rudy Gobert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "LaMelo Ball",
+      "timestamp": "02:46",
+      "summary_phrase": "LaMelo Ball on adjusting to playing without Anthony Edwards",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "I think we all know, just in between us, playing and night in, night out, it get easier",
+      "quote": "I think we all know, just in between us, playing and night in, night out, it get easier and easier, and I think everybody just starting to know their role and what they could do and what's going to happen.",
+      "verbatim_original_language": "",
+      "start_seconds": 166,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on the team adjusting to life without Anthony Edwards: It get easier and easier, and I think everybody just starting to know their role and what they could do and what's going to happen.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball discusses how the team is adjusting their roles while playing without Anthony Edwards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "LaMelo Ball",
+      "timestamp": "03:14",
+      "summary_phrase": "LaMelo Ball on playing with Pablo Prigioni",
+      "names_mentioned": [
+        "Pablo"
+      ],
+      "excerpt": "two point guards, so it's going to be great no matter what",
+      "quote": "Two point guards, so it's going to be great no matter what. Pablo, he just knows life, he knows basketball, great dude, easy to talk to, so love him too.",
+      "verbatim_original_language": "",
+      "start_seconds": 194,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on working with Pablo Prigioni: Two point guards, so it's going to be great no matter what. Pablo, he just knows life, he knows basketball, great dude, easy to talk to.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Pablo Prigioni"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "LaMelo Ball shares his positive experience working with assistant coach Pablo Prigioni.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "xncaTFL7gMo",
+  "url": "https://www.youtube.com/watch?v=xncaTFL7gMo",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-13T05:39:50Z",
+  "duration_seconds": 236,
+  "processed_at": "2026-11-13T06:11:20Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

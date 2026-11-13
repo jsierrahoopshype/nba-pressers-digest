@@ -1,0 +1,244 @@
+{
+  "video_title": "\"We're Building A Brotherhood That Translates To Winning.\" | Bones Hyland Postgame Sound | 11.12.26",
+  "speakers_seen": [
+    "Bones Hyland"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bones Hyland",
+      "speakers": [
+        "Unidentified speaker",
+        "Bones Hyland"
+      ],
+      "timestamp": "00:42",
+      "summary_phrase": "Bones Hyland and LaMelo Ball's leadership as point guards",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "I think that's when we really come in, you know, and talk about what we need to do.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You and LaMelo, it's kind of one of the two of you are out on the floor at all times. Just talk about what as the point guards you want to have."
+        },
+        {
+          "speaker": "Bones Hyland",
+          "text": "Of course, all the time, especially at halftime. I think that's when we really come in, you know, and talk about what we need to do, whether that's limit turnovers, find pass-pass options, drive behind, you know, the roller. Just little stuff, you know what I'm saying? I think that helps us as a team. But yeah, we always the ones that, me, Ayo, LaMelo, just talking about stuff like that."
+        }
+      ],
+      "start_seconds": 42,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bones Hyland on the point guard rotation with LaMelo Ball and Ayo Dosunmu: We focus on limiting turnovers and finding the right options at halftime to keep the team on the same page.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball",
+          "Ayo Dosunmu"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bones Hyland discusses how he and other point guards communicate during games to improve team performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Bones Hyland",
+      "speakers": [
+        "Unidentified reporter",
+        "Bones Hyland"
+      ],
+      "timestamp": "01:17",
+      "summary_phrase": "Comparing Bones Hyland and LaMelo Ball's playing styles",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "I think that opens up the floor for everyone. Himself, teammates, he's finding guys so easily.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "For me, for us, an outsider, I see similarities in your game and LaMelo's. Do you feel that? Does that help having one style?"
+        },
+        {
+          "speaker": "Bones Hyland",
+          "text": "Yeah, for sure. I think, you know, just obviously because, you know, LaMelo is the first unit, but the scoring ability, getting downhill, passing ability, I think that opens up the floor for everyone. Himself, teammates, he's finding guys so easily. So, I think when I come in, just changing, keeping the same thing on, pace, more pace, getting downhill, making threes, making shots, finding others, I think that just gives the team something that is hard to defend."
+        }
+      ],
+      "start_seconds": 77,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Bones Hyland sees similarities between his game and LaMelo Ball: When I come in, I try to keep the same pace, get downhill, and make shots to keep the defense guessing.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Bones Hyland explains the similarities between his playing style and LaMelo Ball's style.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Bones Hyland",
+      "speakers": [
+        "Unidentified reporter",
+        "Bones Hyland"
+      ],
+      "timestamp": "02:22",
+      "summary_phrase": "The team's collective joy in playing high-energy defense",
+      "names_mentioned": [],
+      "excerpt": "I think it starts in the locker room, bro. I ain't gonna lie, I think winning starts in locker room.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "It looks like you guys have a lot of fun playing defense, which is not something that you say a lot, right? Why what is it about this team that makes it fun to play defense?"
+        },
+        {
+          "speaker": "Bones Hyland",
+          "text": "I think it's just the joy, you know what I'm saying? Joy of like brothers, like locker room. I think it starts in the locker room, bro. I ain't gonna lie, I think winning starts in locker room, the high energy vibes. You can just hear LaMelo screaming, you know what I'm saying? Just little stuff like that, bro. I think we just all on one accord, and being in the locker room after the games, in practices, even in the locker room, so I think our juices is always high. That translates to winning, man, for sure."
+        }
+      ],
+      "start_seconds": 142,
+      "end_seconds": 194,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Bones Hyland says the team's defensive energy starts in the locker room: You can hear LaMelo screaming out there. We are all on one accord and that joy translates to winning.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bones Hyland describes how the team's locker room culture and high energy contribute to their defensive effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Bones Hyland",
+      "speakers": [
+        "Unidentified reporter",
+        "Bones Hyland"
+      ],
+      "timestamp": "03:20",
+      "summary_phrase": "Bones Hyland's offseason preparation and role expectations",
+      "names_mentioned": [],
+      "excerpt": "I worked out to exhaustion. I pushed myself a lot. I ran a lot.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "As you were kind of working through things this summer and kind of getting back to here again, is this the role that you were envisioning or did you kind of wonder about how it was going to fit?"
+        },
+        {
+          "speaker": "Bones Hyland",
+          "text": "No, for sure. This is definitely the role I was envisioning, for sure. That's why I worked out so hard this summer. I worked out to exhaustion. I pushed myself a lot. I ran a lot. I worked out four times a day for like a month and a half straight, you know what I'm saying? Ramping up for the season, so I envisioned this, for sure."
+        }
+      ],
+      "start_seconds": 200,
+      "end_seconds": 241,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Bones Hyland on his offseason grind: I worked out to exhaustion, four times a day for a month and a half straight. I envisioned this role for myself and I put in the work to get here.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Bones Hyland reflects on his intense offseason training regimen to prepare for his current role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Bones Hyland",
+      "speakers": [
+        "Unidentified reporter",
+        "Bones Hyland"
+      ],
+      "timestamp": "04:17",
+      "summary_phrase": "LaMelo Ball's leadership and impact on the team",
+      "names_mentioned": [
+        "LaMelo Ball",
+        "Ayo"
+      ],
+      "excerpt": "He helps us, he leads us. I tell Ayo the same thing, like lead us on the court.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How would you describe LaMelo's leadership on and off the court?"
+        },
+        {
+          "speaker": "Bones Hyland",
+          "text": "Man, it's huge for us. Like I said, start with his personality. I think that engages the locker room first, and then he just speaks up on everything that we need, you know what I'm saying? I think that's what you need from a starting point guard. He helps us, he leads us. I tell Ayo the same thing, like lead us on the court, you know what I'm saying? You guys are the ones that started it, you need you guys to lead. So, yeah, we tell LaMelo all the time, we're thankful that we have him, but lead us, man, that's big for us."
+        }
+      ],
+      "start_seconds": 257,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Bones Hyland on LaMelo Ball as a leader: It starts with his personality. He engages the locker room and speaks up on everything we need. We tell him all the time that we are thankful to have him leading us.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball",
+          "Ayo Dosunmu"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bones Hyland explains the importance of LaMelo Ball's leadership to the team's success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Cv9AcdMd_c4",
+  "url": "https://www.youtube.com/watch?v=Cv9AcdMd_c4",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-13T05:32:38Z",
+  "duration_seconds": 306,
+  "processed_at": "2026-11-13T06:11:37Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

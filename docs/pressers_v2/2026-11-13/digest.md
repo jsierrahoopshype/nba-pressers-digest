@@ -22,7 +22,31 @@ From: [Philadelphia 76ers Postgame Media Availability 🎙️ \| Coach Nurse \| 
 
 <small>[Clip it](presserclips://clip?v=-fmHG2CBPEA&t=457&q=7) · [Send to Slack](presserclips://clip?v=-fmHG2CBPEA&t=457&q=7&slack=1)</small>
 
-**3. Jaylen Brown — "Tyrese Maxey is a dog. He was aggressive tonight, he looked good tonight on both ends." — Jaylen Brown praises Tyrese Maxey's aggressive play on both ends** [00:26](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=26s)
+**3. Charles Lee — "You got to be better about grabbing defensive rebounds and 50/50 balls." — Charles Lee on Hornets' rebounding and turnover issues** [00:20](https://www.youtube.com/watch?v=ssZzwatsnPw&t=20s)
+
+**Charles Lee:** "You got to be better about grabbing defensive rebounds and 50/50 balls. But, you know, at the end of the day, you lose a five point game, you have 27 turnovers, that's like way too many opportunities for the other team to capitalize."
+
+**Unidentified reporter:** "I know you've said so many times that every single turnover is different. What did you see collectively tonight?"
+
+**Charles Lee:** "I can't wait to go back and watch the film, but we love to evaluate, was it forced or was it unforced? And I think that of the 27, too many of them are going to be unforced, and so we got to look in the mirror all of us, myself included, and figure out how we can keep tightening that up."
+
+[https://www.youtube.com/watch?v=ssZzwatsnPw&t=20s](https://www.youtube.com/watch?v=ssZzwatsnPw&t=20s)
+
+From: [Hornets at Suns: Coach Charles Lee Postgame Media Availability \| 11/12/2026](https://www.youtube.com/watch?v=ssZzwatsnPw) · *Charlotte Hornets*
+
+<small>[Clip it](presserclips://clip?v=ssZzwatsnPw&t=20&q=2) · [Send to Slack](presserclips://clip?v=ssZzwatsnPw&t=20&q=2&slack=1)</small>
+
+**4. Jonathan Kuminga — "He's one of the best players in this league and he's all about winning." — Jonathan Kuminga on LaMelo Ball's competitive nature** [03:23](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=203s)
+
+Jonathan Kuminga: "I just knew he was one of the best players in this league and he's all about winning. And as he's been providing, we see he's all about winning and I think that's pretty much all I knew about. And I knew he was a little little crazy, but in a good way."
+
+[https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=203s](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=203s)
+
+From: ["We Have A Lot Of Fun Playing Defense." \| Jonathan Kuminga Postgame Sound \| 11.12.26](https://www.youtube.com/watch?v=QrJ_BPVNLDA) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=QrJ_BPVNLDA&t=203&q=5) · [Send to Slack](presserclips://clip?v=QrJ_BPVNLDA&t=203&q=5&slack=1)</small>
+
+**5. Jaylen Brown — "Tyrese Maxey is a dog. He was aggressive tonight, he looked good tonight on both ends." — Jaylen Brown praises Tyrese Maxey's aggressive play on both ends** [00:26](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=26s)
 
 Jaylen Brown: "**Tyrese Maxey** is a dog. He was aggressive tonight, he looked good tonight on both ends, on offense and defense. You know, Tyrese is just going to continue to accelerate his game and it's a joy to watch."
 
@@ -32,7 +56,7 @@ From: [Philadelphia 76ers Postgame Media Availability 🎙️ \| Jaylen Brown \|
 
 <small>[Clip it](presserclips://clip?v=i3TcvvNLxn8&t=26&q=2) · [Send to Slack](presserclips://clip?v=i3TcvvNLxn8&t=26&q=2&slack=1)</small>
 
-**4. Grant Williams — "Our team is doing everything possible that takes to win." — Grant Williams on team competitiveness and reducing turnovers** [00:34](https://www.youtube.com/watch?v=-JmLHY5Ontg&t=34s)
+**6. Grant Williams — "Our team is doing everything possible that takes to win." — Grant Williams on team competitiveness and reducing turnovers** [00:34](https://www.youtube.com/watch?v=-JmLHY5Ontg&t=34s)
 
 Grant Williams: "Our team is doing everything possible that takes to win. You hold a team like that, to off wings offense to under 100 points, it's one of those where you're competing to the maximum. We just got to tighten up on things that we can control. The turnovers, 27 turnovers, it's something that you're hard to come back from when they get 20 more shots than you do. Just making sure that we're prioritizing the right things when it comes to free throws and coming in matchups and just being more truly focused in on the things that we can control."
 
@@ -42,19 +66,29 @@ From: [Hornets at Suns: Grant Williams Postgame Media Availability \| 11/12/2026
 
 <small>[Clip it](presserclips://clip?v=-JmLHY5Ontg&t=34&q=2) · [Send to Slack](presserclips://clip?v=-JmLHY5Ontg&t=34&q=2&slack=1)</small>
 
-**5. Jonathan Kuminga — "I just got to learn how to set the screen with different type of angles" — Jonathan Kuminga on handling defensive pressure in pick-and-roll** [01:11](https://www.youtube.com/watch?v=4cotZeJFXG8&t=71s)
+**7. Bones Hyland — "I think it starts in the locker room, bro. I ain't gonna lie, I think winning starts in locker room." — The team's collective joy in playing high-energy defense** [02:22](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=142s)
 
-**Alan Horton:** "It seems like you and LaMelo are developing a nice rhythm on that pick-and-roll. You come up there and spring back off that pick-and-roll and you catch that kind of at the free-throw line with a lot of space to work with."
+**Unidentified reporter:** "It looks like you guys have a lot of fun playing defense, which is not something that you say a lot, right? Why what is it about this team that makes it fun to play defense?"
 
-**Jonathan Kuminga:** "I think it's going to be a lot of pressure, as you guys see. They are going to try to double LaMelo, they are going to try to put the best defender on LaMelo, so I just got to learn how to set the screen with different type of angles, even when the big comes back. Wherever I got to set the screen for, I just got to learn how to pick the angles to set the right screen so I can get the ball in the pocket and make plays from there."
+**Bones Hyland:** "I think it's just the joy, you know what I'm saying? Joy of like brothers, like locker room. I think it starts in the locker room, bro. I ain't gonna lie, I think winning starts in locker room, the high energy vibes. You can just hear LaMelo screaming, you know what I'm saying? Just little stuff like that, bro. I think we just all on one accord, and being in the locker room after the games, in practices, even in the locker room, so I think our juices is always high. That translates to winning, man, for sure."
 
-[https://www.youtube.com/watch?v=4cotZeJFXG8&t=71s](https://www.youtube.com/watch?v=4cotZeJFXG8&t=71s)
+[https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=142s](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=142s)
 
-From: [Jonathan Kuminga Postgame Interview With Alan Horton \| 11.12.26](https://www.youtube.com/watch?v=4cotZeJFXG8) · *Minnesota Timberwolves*
+From: ["We're Building A Brotherhood That Translates To Winning." \| Bones Hyland Postgame Sound \| 11.12.26](https://www.youtube.com/watch?v=Cv9AcdMd_c4) · *Minnesota Timberwolves*
 
-<small>[Clip it](presserclips://clip?v=4cotZeJFXG8&t=71&q=3) · [Send to Slack](presserclips://clip?v=4cotZeJFXG8&t=71&q=3&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=Cv9AcdMd_c4&t=142&q=3) · [Send to Slack](presserclips://clip?v=Cv9AcdMd_c4&t=142&q=3&slack=1)</small>
 
-**6. Terance Mann — "Just come out with more urgency, more energy, more fight." — Terance Mann on the need for more urgency and effort** [04:28](https://www.youtube.com/watch?v=NP9hYeq4kMw&t=268s)
+**8. LaMelo Ball — "Rudy is center and the point guard, so just that combination right there got to be real strong" — LaMelo Ball on his connection with Rudy Gobert** [02:16](https://www.youtube.com/watch?v=xncaTFL7gMo&t=136s)
+
+LaMelo Ball: "**Rudy** is center and the point guard, so just that combination right there got to be real strong, got to work. So definitely just talk to **Rudy** a lot, ask what he see, I let him know what I see, and try to put our minds together and just go from there."
+
+[https://www.youtube.com/watch?v=xncaTFL7gMo&t=136s](https://www.youtube.com/watch?v=xncaTFL7gMo&t=136s)
+
+From: ["We Want To Continue To Build Winning Habits." \| LaMelo Ball Postgame Sound \| 11.12.26](https://www.youtube.com/watch?v=xncaTFL7gMo) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=xncaTFL7gMo&t=136&q=5) · [Send to Slack](presserclips://clip?v=xncaTFL7gMo&t=136&q=5&slack=1)</small>
+
+**9. Terance Mann — "Just come out with more urgency, more energy, more fight." — Terance Mann on the need for more urgency and effort** [04:28](https://www.youtube.com/watch?v=NP9hYeq4kMw&t=268s)
 
 Terance Mann: "Just come out with more urgency, more energy, more fight. You know the coaches, they do a good job with the game plans. Yeah, we have to execute the game plan, but it also comes with effort, and I think we just lacked effort last game."
 
@@ -63,16 +97,6 @@ Terance Mann: "Just come out with more urgency, more energy, more fight. You kno
 From: [Media Availability (11/12/26) \| LA Clippers](https://www.youtube.com/watch?v=NP9hYeq4kMw) · *LA Clippers*
 
 <small>[Clip it](presserclips://clip?v=NP9hYeq4kMw&t=268&q=6) · [Send to Slack](presserclips://clip?v=NP9hYeq4kMw&t=268&q=6&slack=1)</small>
-
-**7. Immanuel Quickley — "it's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back" — Immanuel Quickley on the need for team-wide effort without Scottie Barnes and Kawhi Leonard** [00:50](https://www.youtube.com/watch?v=lNJBW32daqs&t=50s)
-
-Immanuel Quickley: "Not right now, we need more. It's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back, we got to do it as a team. You can't win as individuals. It's not an individual sport. It's not swimming, not boxing, so you need everybody."
-
-[https://www.youtube.com/watch?v=lNJBW32daqs&t=50s](https://www.youtube.com/watch?v=lNJBW32daqs&t=50s)
-
-From: [Immanuel Quickley \| Post Game at Philadelphia 76ers \| November 12, 2026](https://www.youtube.com/watch?v=lNJBW32daqs) · *Toronto Raptors*
-
-<small>[Clip it](presserclips://clip?v=lNJBW32daqs&t=50&q=3) · [Send to Slack](presserclips://clip?v=lNJBW32daqs&t=50&q=3&slack=1)</small>
 
 ---
 
@@ -230,6 +254,112 @@ _Speakers identified: Alan Horton, Jonathan Kuminga_
 
 ---
 
+## "Tonight We Hung Our Hats On The Defensive End." | Chris Finch Postgame Sound | 11.12.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=51icD9dpv9Y](https://www.youtube.com/watch?v=51icD9dpv9Y)
+
+_Speakers identified: Chris Finch_
+
+**1. Chris Finch — "we can get to guys in the pocket, different guys in the pocket, that often leads to maybe a mid-range shot" — Chris Finch on Timberwolves' offensive versatility and mid-range scoring** [00:00](https://www.youtube.com/watch?v=51icD9dpv9Y&t=0s)
+
+Chris Finch: "It feels like we can get to guys in the pocket, different guys in the pocket, that often leads to maybe a mid-range shot. We face a lot of drop coverage when you have **Rudy Gobert** on the floor, so you have to be ready to get to that spot. I think we have guys who can get clean there and get off good looks, **Jaden McDaniels** is chief among them, but also Nickeil Alexander-Walker has been good in that capacity too."
+
+[https://www.youtube.com/watch?v=51icD9dpv9Y&t=0s](https://www.youtube.com/watch?v=51icD9dpv9Y&t=0s)
+
+<small>[Clip it](presserclips://clip?v=51icD9dpv9Y&t=0&q=1) · [Send to Slack](presserclips://clip?v=51icD9dpv9Y&t=0&q=1&slack=1)</small>
+
+**2. Chris Finch — "he's a great young player, no doubt about it. He's got such a high motor so you got to match that" — Chris Finch on defensive strategy against Cooper Flagg** [00:40](https://www.youtube.com/watch?v=51icD9dpv9Y&t=40s)
+
+Chris Finch: "He's a great young player, no doubt about it. He's got such a high motor so you got to match that first and foremost. He's a physical player, so he loves to draw contact and play off of that creative advantage. He gets to the line a lot. Tonight I thought we did a good job of keeping him off the line, that's huge. He has his big games, he's getting there about eight, nine times a game. We're lucky enough to have guys like **Jaden McDaniels** who have size to be able to bother him. When he can get to his pull-up, he's big, he's a big player. But Jaden's also got equal length and **Nickeil Alexander-Walker** did a really good job with him too, taking away his space to be creative."
+
+[https://www.youtube.com/watch?v=51icD9dpv9Y&t=40s](https://www.youtube.com/watch?v=51icD9dpv9Y&t=40s)
+
+<small>[Clip it](presserclips://clip?v=51icD9dpv9Y&t=40&q=2) · [Send to Slack](presserclips://clip?v=51icD9dpv9Y&t=40&q=2&slack=1)</small>
+
+**3. Chris Finch — "both of them fit the system. Particularly when Bones Hyland is playing the way he is, getting downhill, creating for people" — Chris Finch on stylistic similarities between LaMelo Ball and Bones Hyland** [01:48](https://www.youtube.com/watch?v=51icD9dpv9Y&t=108s)
+
+Chris Finch: "Both of them fit the system. Particularly when **Bones Hyland** is playing the way he is, getting downhill, creating for people as well as for himself. Both of them play fast, both of them are looking to throw the ball down the floor. I think the tempo even goes up a tick when **Bones Hyland** goes in there right now, which is a good change of pace. I would say probably, but I'm not sure."
+
+[https://www.youtube.com/watch?v=51icD9dpv9Y&t=108s](https://www.youtube.com/watch?v=51icD9dpv9Y&t=108s)
+
+<small>[Clip it](presserclips://clip?v=51icD9dpv9Y&t=108&q=3) · [Send to Slack](presserclips://clip?v=51icD9dpv9Y&t=108&q=3&slack=1)</small>
+
+**4. Chris Finch — "he's grown in so many ways. Obviously whether it be habits, he's found his voice within the last two seasons" — Chris Finch on Anthony Edwards' growth as a leader** [02:32](https://www.youtube.com/watch?v=51icD9dpv9Y&t=152s)
+
+Chris Finch: "He's grown in so many ways. Obviously whether it be habits, he's found his voice within the last two seasons, and then he's found the right messaging within that. I think he realizes that the leadership also comes with the responsibility of holding yourself accountable to a different standard. I saw that all through training camp and in the first week of the season. Just a little bit more thoughtful in some of the things he sees and suggests about the team or whatever it might be, the game plan. It's been fun to watch, it really has been. He's staying connected with the guys even though he's not always on a daily basis or has a slightly different schedule sometimes, and he loves his team and his personality is still infused through the team, there's no doubt about it."
+
+[https://www.youtube.com/watch?v=51icD9dpv9Y&t=152s](https://www.youtube.com/watch?v=51icD9dpv9Y&t=152s)
+
+<small>[Clip it](presserclips://clip?v=51icD9dpv9Y&t=152&q=4) · [Send to Slack](presserclips://clip?v=51icD9dpv9Y&t=152&q=4&slack=1)</small>
+
+**5. Chris Finch — "he's an outstanding defensive playmaker. He's a very good defender in his own right, but he just makes plays" — Chris Finch on Anthony Edwards' defensive impact and consistency** [03:49](https://www.youtube.com/watch?v=51icD9dpv9Y&t=229s)
+
+Chris Finch: "He's an outstanding defensive playmaker. He's a very good defender in his own right, but he just makes plays. He makes things happen. He goes and gets steals, he gets 50-50 balls, he gets his hands on things, he steals inbound passes, all kinds of things as a possessions guy, and those guys are super valuable. We've challenged him to be way more consistent in the things that he does and he's really responded both ends of the floor. That's what happens to guys that are third, fourth year in the league, they become now a way more consistent player and then that gives him a platform to build on going forward to add more to their game."
+
+[https://www.youtube.com/watch?v=51icD9dpv9Y&t=229s](https://www.youtube.com/watch?v=51icD9dpv9Y&t=229s)
+
+<small>[Clip it](presserclips://clip?v=51icD9dpv9Y&t=229&q=5) · [Send to Slack](presserclips://clip?v=51icD9dpv9Y&t=229&q=5&slack=1)</small>
+
+---
+
+## "We're Building A Brotherhood That Translates To Winning." | Bones Hyland Postgame Sound | 11.12.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=Cv9AcdMd_c4](https://www.youtube.com/watch?v=Cv9AcdMd_c4)
+
+_Speakers identified: Bones Hyland_
+
+**1. Bones Hyland — "I think that's when we really come in, you know, and talk about what we need to do." — Bones Hyland and LaMelo Ball's leadership as point guards** [00:42](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=42s)
+
+**Unidentified speaker:** "You and LaMelo, it's kind of one of the two of you are out on the floor at all times. Just talk about what as the point guards you want to have."
+
+**Bones Hyland:** "Of course, all the time, especially at halftime. I think that's when we really come in, you know, and talk about what we need to do, whether that's limit turnovers, find pass-pass options, drive behind, you know, the roller. Just little stuff, you know what I'm saying? I think that helps us as a team. But yeah, we always the ones that, me, Ayo, LaMelo, just talking about stuff like that."
+
+[https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=42s](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=42s)
+
+<small>[Clip it](presserclips://clip?v=Cv9AcdMd_c4&t=42&q=1) · [Send to Slack](presserclips://clip?v=Cv9AcdMd_c4&t=42&q=1&slack=1)</small>
+
+**2. Bones Hyland — "I think that opens up the floor for everyone. Himself, teammates, he's finding guys so easily." — Comparing Bones Hyland and LaMelo Ball's playing styles** [01:17](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=77s)
+
+**Unidentified reporter:** "For me, for us, an outsider, I see similarities in your game and LaMelo's. Do you feel that? Does that help having one style?"
+
+**Bones Hyland:** "Yeah, for sure. I think, you know, just obviously because, you know, LaMelo is the first unit, but the scoring ability, getting downhill, passing ability, I think that opens up the floor for everyone. Himself, teammates, he's finding guys so easily. So, I think when I come in, just changing, keeping the same thing on, pace, more pace, getting downhill, making threes, making shots, finding others, I think that just gives the team something that is hard to defend."
+
+[https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=77s](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=77s)
+
+<small>[Clip it](presserclips://clip?v=Cv9AcdMd_c4&t=77&q=2) · [Send to Slack](presserclips://clip?v=Cv9AcdMd_c4&t=77&q=2&slack=1)</small>
+
+**3. Bones Hyland — "I think it starts in the locker room, bro. I ain't gonna lie, I think winning starts in locker room." — The team's collective joy in playing high-energy defense** [02:22](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=142s)
+
+**Unidentified reporter:** "It looks like you guys have a lot of fun playing defense, which is not something that you say a lot, right? Why what is it about this team that makes it fun to play defense?"
+
+**Bones Hyland:** "I think it's just the joy, you know what I'm saying? Joy of like brothers, like locker room. I think it starts in the locker room, bro. I ain't gonna lie, I think winning starts in locker room, the high energy vibes. You can just hear LaMelo screaming, you know what I'm saying? Just little stuff like that, bro. I think we just all on one accord, and being in the locker room after the games, in practices, even in the locker room, so I think our juices is always high. That translates to winning, man, for sure."
+
+[https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=142s](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=142s)
+
+<small>[Clip it](presserclips://clip?v=Cv9AcdMd_c4&t=142&q=3) · [Send to Slack](presserclips://clip?v=Cv9AcdMd_c4&t=142&q=3&slack=1)</small>
+
+**4. Bones Hyland — "I worked out to exhaustion. I pushed myself a lot. I ran a lot." — Bones Hyland's offseason preparation and role expectations** [03:20](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=200s)
+
+**Unidentified reporter:** "As you were kind of working through things this summer and kind of getting back to here again, is this the role that you were envisioning or did you kind of wonder about how it was going to fit?"
+
+**Bones Hyland:** "No, for sure. This is definitely the role I was envisioning, for sure. That's why I worked out so hard this summer. I worked out to exhaustion. I pushed myself a lot. I ran a lot. I worked out four times a day for like a month and a half straight, you know what I'm saying? Ramping up for the season, so I envisioned this, for sure."
+
+[https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=200s](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=200s)
+
+<small>[Clip it](presserclips://clip?v=Cv9AcdMd_c4&t=200&q=4) · [Send to Slack](presserclips://clip?v=Cv9AcdMd_c4&t=200&q=4&slack=1)</small>
+
+**5. Bones Hyland — "He helps us, he leads us. I tell Ayo the same thing, like lead us on the court." — LaMelo Ball's leadership and impact on the team** [04:17](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=257s)
+
+**Unidentified reporter:** "How would you describe LaMelo's leadership on and off the court?"
+
+**Bones Hyland:** "Man, it's huge for us. Like I said, start with his personality. I think that engages the locker room first, and then he just speaks up on everything that we need, you know what I'm saying? I think that's what you need from a starting point guard. He helps us, he leads us. I tell **Ayo** the same thing, like lead us on the court, you know what I'm saying? You guys are the ones that started it, you need you guys to lead. So, yeah, we tell LaMelo all the time, we're thankful that we have him, but lead us, man, that's big for us."
+
+[https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=257s](https://www.youtube.com/watch?v=Cv9AcdMd_c4&t=257s)
+
+<small>[Clip it](presserclips://clip?v=Cv9AcdMd_c4&t=257&q=5) · [Send to Slack](presserclips://clip?v=Cv9AcdMd_c4&t=257&q=5&slack=1)</small>
+
+---
+
 ## Bones Hyland Postgame On Court Interview Vs The Dallas Mavericks | 11.12.26 — *Minnesota Timberwolves*
 
 Source: [https://www.youtube.com/watch?v=LV1SmElzhD4](https://www.youtube.com/watch?v=LV1SmElzhD4)
@@ -369,6 +499,54 @@ Amir Coffey: "It should be our our identity to play one way regardless of how ma
 [https://www.youtube.com/watch?v=NP9hYeq4kMw&t=541s](https://www.youtube.com/watch?v=NP9hYeq4kMw&t=541s)
 
 <small>[Clip it](presserclips://clip?v=NP9hYeq4kMw&t=541&q=12) · [Send to Slack](presserclips://clip?v=NP9hYeq4kMw&t=541&q=12&slack=1)</small>
+
+---
+
+## "We Have A Lot Of Fun Playing Defense." | Jonathan Kuminga Postgame Sound | 11.12.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=QrJ_BPVNLDA](https://www.youtube.com/watch?v=QrJ_BPVNLDA)
+
+_Speakers identified: Jonathan Kuminga_
+
+**1. Jonathan Kuminga — "The better we play defense, the better we going to be on offense." — Jonathan Kuminga on the Timberwolves' defensive-first team identity** [00:12](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=12s)
+
+Jonathan Kuminga: "I think we don't got to find that. I think our main focus off the game is not offense. The better we play defense, the better we going to be on offense. And I think it's been a thing collectively, including all of us, just to guard. Get a foul, don't worry about it as much. It's not just foul that match, but if you out there guarding and you're battling, that's I think that's our first thing going out there. Just focusing on guarding and the rest will handle itself."
+
+[https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=12s](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=12s)
+
+<small>[Clip it](presserclips://clip?v=QrJ_BPVNLDA&t=12&q=1) · [Send to Slack](presserclips://clip?v=QrJ_BPVNLDA&t=12&q=1&slack=1)</small>
+
+**2. Jonathan Kuminga — "We got one of the best defenders, guarding him Jaden." — Jonathan Kuminga on Jaden McDaniels' defensive impact** [00:49](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=49s)
+
+Jonathan Kuminga: "We got one of the best defenders, guarding him Jaden. You know, he just try to make us hard as he can. It's not going to be out there stopping everything, but you know, it's not that easy playing against Jaden. I think we trust him. We let him handle and we going to handle the rest behind him and make his life even easier."
+
+[https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=49s](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=49s)
+
+<small>[Clip it](presserclips://clip?v=QrJ_BPVNLDA&t=49&q=2) · [Send to Slack](presserclips://clip?v=QrJ_BPVNLDA&t=49&q=2&slack=1)</small>
+
+**3. Jonathan Kuminga — "When he gets on our floor, just his energy just feeds off everybody." — Jonathan Kuminga on Rudy Gobert's defensive energy** [01:18](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=78s)
+
+Jonathan Kuminga: "Rudy's been great. I think he's one of those guys that you got to rely on all the time because we know when he gets on our floor, just his energy just feeds off everybody and he gets all of us going. And as you guys seen today, once again on our floor, his energy just helps us, lift us off the off the gate and that's why we start to separate and take the lead."
+
+[https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=78s](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=78s)
+
+<small>[Clip it](presserclips://clip?v=QrJ_BPVNLDA&t=78&q=3) · [Send to Slack](presserclips://clip?v=QrJ_BPVNLDA&t=78&q=3&slack=1)</small>
+
+**4. Jonathan Kuminga — "It's fun playing defense. Getting stops, you know, that feels good." — Jonathan Kuminga on the team's enjoyment of playing defense** [01:44](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=104s)
+
+Jonathan Kuminga: "It's fun playing defense. Getting stops, you know, that feels good. Especially our feet, I feed off that. It's a challenge every day going out there and trying to guard some of these best players in the world. Getting a couple stops, seeing that, you know, it makes you want to defend and feel good. So I think so far it's been fun just being a part of this guys and helping them just win games."
+
+[https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=104s](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=104s)
+
+<small>[Clip it](presserclips://clip?v=QrJ_BPVNLDA&t=104&q=4) · [Send to Slack](presserclips://clip?v=QrJ_BPVNLDA&t=104&q=4&slack=1)</small>
+
+**5. Jonathan Kuminga — "He's one of the best players in this league and he's all about winning." — Jonathan Kuminga on LaMelo Ball's competitive nature** [03:23](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=203s)
+
+Jonathan Kuminga: "I just knew he was one of the best players in this league and he's all about winning. And as he's been providing, we see he's all about winning and I think that's pretty much all I knew about. And I knew he was a little little crazy, but in a good way."
+
+[https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=203s](https://www.youtube.com/watch?v=QrJ_BPVNLDA&t=203s)
+
+<small>[Clip it](presserclips://clip?v=QrJ_BPVNLDA&t=203&q=5) · [Send to Slack](presserclips://clip?v=QrJ_BPVNLDA&t=203&q=5&slack=1)</small>
 
 ---
 
@@ -703,3 +881,67 @@ _Speakers identified: Unidentified speaker, Collin Gillespie_
 [https://www.youtube.com/watch?v=xdckmqdAuuc&t=51s](https://www.youtube.com/watch?v=xdckmqdAuuc&t=51s)
 
 <small>[Clip it](presserclips://clip?v=xdckmqdAuuc&t=51&q=3) · [Send to Slack](presserclips://clip?v=xdckmqdAuuc&t=51&q=3&slack=1)</small>
+
+---
+
+## "We Want To Continue To Build Winning Habits." | LaMelo Ball Postgame Sound | 11.12.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=xncaTFL7gMo](https://www.youtube.com/watch?v=xncaTFL7gMo)
+
+_Speakers identified: LaMelo Ball_
+
+**1. LaMelo Ball — "never getting comfortable, always just building habits, good habits, just trying to win and do the right stuff" — LaMelo Ball on maintaining intensity during games** [00:12](https://www.youtube.com/watch?v=xncaTFL7gMo&t=12s)
+
+LaMelo Ball: "Never getting comfortable, always just building habits, good habits, just trying to win and do the right stuff. You don't want to work on no bad habits."
+
+[https://www.youtube.com/watch?v=xncaTFL7gMo&t=12s](https://www.youtube.com/watch?v=xncaTFL7gMo&t=12s)
+
+<small>[Clip it](presserclips://clip?v=xncaTFL7gMo&t=12&q=1) · [Send to Slack](presserclips://clip?v=xncaTFL7gMo&t=12&q=1&slack=1)</small>
+
+**2. LaMelo Ball — "human nature, you know how it goes when you up 30 usually, everybody take their foot off" — LaMelo Ball on the importance of staying hungry** [00:30](https://www.youtube.com/watch?v=xncaTFL7gMo&t=30s)
+
+LaMelo Ball: "Human nature, you know how it goes when you up 30 usually. Everybody take their foot off the gas. I mean everyone, for real, the fans, the refs, I mean everybody just take a little seat back. So I mean, you just keep going, I feel like it just gets the game over with."
+
+[https://www.youtube.com/watch?v=xncaTFL7gMo&t=30s](https://www.youtube.com/watch?v=xncaTFL7gMo&t=30s)
+
+<small>[Clip it](presserclips://clip?v=xncaTFL7gMo&t=30&q=2) · [Send to Slack](presserclips://clip?v=xncaTFL7gMo&t=30&q=2&slack=1)</small>
+
+**3. LaMelo Ball — "Bones been great for real, he been helping us tremendously, just the time he in the game" — LaMelo Ball on the impact of teammate Bones** [00:46](https://www.youtube.com/watch?v=xncaTFL7gMo&t=46s)
+
+LaMelo Ball: "**Bones** been great for real, he been helping us tremendously, just the time he in the game, he doing everything right from the defense to the offense, so it's helping a lot."
+
+[https://www.youtube.com/watch?v=xncaTFL7gMo&t=46s](https://www.youtube.com/watch?v=xncaTFL7gMo&t=46s)
+
+<small>[Clip it](presserclips://clip?v=xncaTFL7gMo&t=46&q=3) · [Send to Slack](presserclips://clip?v=xncaTFL7gMo&t=46&q=3&slack=1)</small>
+
+**4. LaMelo Ball — "once he rolling, it's just tough to stop him, you know, he shot the midrange, he got it all" — LaMelo Ball on Bones' scoring ability** [01:00](https://www.youtube.com/watch?v=xncaTFL7gMo&t=60s)
+
+LaMelo Ball: "Once he rolling, it's just tough to stop him, you know, he shot the midrange, he got it all."
+
+[https://www.youtube.com/watch?v=xncaTFL7gMo&t=60s](https://www.youtube.com/watch?v=xncaTFL7gMo&t=60s)
+
+<small>[Clip it](presserclips://clip?v=xncaTFL7gMo&t=60&q=4) · [Send to Slack](presserclips://clip?v=xncaTFL7gMo&t=60&q=4&slack=1)</small>
+
+**5. LaMelo Ball — "Rudy is center and the point guard, so just that combination right there got to be real strong" — LaMelo Ball on his connection with Rudy Gobert** [02:16](https://www.youtube.com/watch?v=xncaTFL7gMo&t=136s)
+
+LaMelo Ball: "**Rudy** is center and the point guard, so just that combination right there got to be real strong, got to work. So definitely just talk to **Rudy** a lot, ask what he see, I let him know what I see, and try to put our minds together and just go from there."
+
+[https://www.youtube.com/watch?v=xncaTFL7gMo&t=136s](https://www.youtube.com/watch?v=xncaTFL7gMo&t=136s)
+
+<small>[Clip it](presserclips://clip?v=xncaTFL7gMo&t=136&q=5) · [Send to Slack](presserclips://clip?v=xncaTFL7gMo&t=136&q=5&slack=1)</small>
+
+**6. LaMelo Ball — "I think we all know, just in between us, playing and night in, night out, it get easier" — LaMelo Ball on adjusting to playing without Anthony Edwards** [02:46](https://www.youtube.com/watch?v=xncaTFL7gMo&t=166s)
+
+LaMelo Ball: "I think we all know, just in between us, playing and night in, night out, it get easier and easier, and I think everybody just starting to know their role and what they could do and what's going to happen."
+
+[https://www.youtube.com/watch?v=xncaTFL7gMo&t=166s](https://www.youtube.com/watch?v=xncaTFL7gMo&t=166s)
+
+<small>[Clip it](presserclips://clip?v=xncaTFL7gMo&t=166&q=6) · [Send to Slack](presserclips://clip?v=xncaTFL7gMo&t=166&q=6&slack=1)</small>
+
+**7. LaMelo Ball — "two point guards, so it's going to be great no matter what" — LaMelo Ball on playing with Pablo Prigioni** [03:14](https://www.youtube.com/watch?v=xncaTFL7gMo&t=194s)
+
+LaMelo Ball: "Two point guards, so it's going to be great no matter what. **Pablo**, he just knows life, he knows basketball, great dude, easy to talk to, so love him too."
+
+[https://www.youtube.com/watch?v=xncaTFL7gMo&t=194s](https://www.youtube.com/watch?v=xncaTFL7gMo&t=194s)
+
+<small>[Clip it](presserclips://clip?v=xncaTFL7gMo&t=194&q=7) · [Send to Slack](presserclips://clip?v=xncaTFL7gMo&t=194&q=7&slack=1)</small>
