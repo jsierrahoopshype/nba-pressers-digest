@@ -2755,5 +2755,22 @@
    "slot_date": "2026-11-03"
   }
  },
- "pending": {}
+ "pending": {
+  "NP9hYeq4kMw": {
+   "channel": "LA Clippers",
+   "clip_count": 12,
+   "content_type": "presser",
+   "date": "2026-11-13",
+   "is_one_off": false,
+   "queued_at": "2026-11-13T01:55:29Z",
+   "run_id": "2026-11-13-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-13",
+   "speaker": "Tyronn Lue",
+   "title": "Media Availability (11/12/26) | LA Clippers",
+   "top_quote": "I think it starts with not making a lot of game plan mistakes. That's one. And I think two, we got to communicate. I think our guys on the floor are not talking through situations. We're not calling the actions out early enough. And now when the actions do happen, everybody's kind of all over the place and surprised. So we got to do a better job communicating, getting back in transition. It's not a lack of effort, it's like communication and talking and getting to the right spots.",
+   "video_id": "NP9hYeq4kMw"
+  }
+ }
 }

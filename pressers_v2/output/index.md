@@ -2,6 +2,8 @@
 
 Clip manifest: [latest_clips.json](latest_clips.json)
 
+- 2026-11-13: [Press conferences](2026-11-13/digest.md)
+  - overnight: [Press conferences](2026-11-13/digest-overnight.md)
 - 2026-11-12: [Press conferences](2026-11-12/digest.md) · [Podcasts & shows](2026-11-12/podcasts.md) · [One-offs](2026-11-12/oneoffs.md)
   - overnight: [Press conferences](2026-11-12/digest-overnight.md) · [Podcasts & shows](2026-11-12/podcasts-overnight.md) · [One-offs](2026-11-12/oneoffs-overnight.md)
   - 14utc: [Press conferences](2026-11-12/digest-14utc.md) · [Podcasts & shows](2026-11-12/podcasts-14utc.md)

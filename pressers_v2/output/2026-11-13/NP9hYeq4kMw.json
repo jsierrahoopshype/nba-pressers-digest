@@ -1,0 +1,384 @@
+{
+  "video_title": "Media Availability (11/12/26) | LA Clippers",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Terance Mann",
+    "Amir Coffey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:06",
+      "summary_phrase": "Tyronn Lue on the Clippers' need for better communication and transition defense",
+      "names_mentioned": [],
+      "excerpt": "It's not a lack of effort, it's like communication and talking and getting to the right spots.",
+      "quote": "I think it starts with not making a lot of game plan mistakes. That's one. And I think two, we got to communicate. I think our guys on the floor are not talking through situations. We're not calling the actions out early enough. And now when the actions do happen, everybody's kind of all over the place and surprised. So we got to do a better job communicating, getting back in transition. It's not a lack of effort, it's like communication and talking and getting to the right spots.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Tyronn Lue says the Clippers defensive struggles are not about effort but communication. We are not calling actions out early enough and guys are surprised when things happen.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue discusses the team's defensive struggles and the need for better communication in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:40",
+      "summary_phrase": "Tyronn Lue on the need to adapt to the faster pace of the modern NBA",
+      "names_mentioned": [],
+      "excerpt": "the way the game is played now, it's totally different than how it was played four or five years ago.",
+      "quote": "The pace of the game, the way the game is played now, it's totally different than how it was played four or five years ago. So we got to take a different approach. I thought earlier in the season, the first four or five games, we really talked about getting out in transition, advancing the ball, attacking early, crashing more, and then every game it's kind of gone down, got less and less. And so we talked about that today as well.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Tyronn Lue notes the team has moved away from their early season goal of pushing the pace. We talked today about getting back to advancing the ball and attacking early.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue explains the need for the team to adapt to the faster pace of the modern NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:24",
+      "summary_phrase": "Tyronn Lue on why defensive communication is essential for the team",
+      "names_mentioned": [],
+      "excerpt": "to play defense you can't be quiet, you got to talk, you got to talk the coverages.",
+      "quote": "Some guys are quiet by nature, but to play defense you can't be quiet, you got to talk, you got to talk the coverages, you got to talk the actions, what you're doing if you're switching, if you're staying at home. A lot of it just goes into just playing the game, understanding the game, but our mistakes are coming off of communication, not lack of effort, not lack of intensity, but we got to be better with communication and talking so we can fix these problems.",
+      "text_blocks": [],
+      "start_seconds": 84,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on defensive communication: Some guys are quiet by nature but to play defense you cannot be quiet. You have to talk the coverages and the actions.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue emphasizes why defensive communication is essential for the team to avoid mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:20",
+      "summary_phrase": "Tyronn Lue on the confidence and development of Keon Johnson",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Sam Cassell",
+        "Keon Johnson"
+      ],
+      "excerpt": "Keon is the same way, you know, picks up things very quick, very confident player.",
+      "quote": "Shai was very confident, they said when Sam Cassell had him, so he was very confident when Sam worked with him every single day. Keon is the same way, you know, picks up things very quick, very confident player. Even when he's missing shots, you never see him get discouraged and things like that. So those similarities, but I wasn't around Shai enough to really understand.",
+      "text_blocks": [],
+      "start_seconds": 140,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Tyronn Lue sees similarities in confidence between Keon Johnson and Shai Gilgeous-Alexander. Keon picks up things very quick and even when he is missing shots you never see him get discouraged.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keon Johnson",
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "LAC",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue compares the confidence of Keon Johnson to that of Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyronn Lue",
+      "timestamp": "03:35",
+      "summary_phrase": "Tyronn Lue on how to help Amir Coffey improve his decision-making",
+      "names_mentioned": [
+        "Amir Coffey"
+      ],
+      "excerpt": "just making a simple play, I think not getting too deep on his penetration.",
+      "quote": "Just making a simple play, I think not getting too deep on his penetration. When he gets into the paint and now there's six guys around him, it makes it tough on him. So just making his decision before he crosses the free throw line of his shot, floater, or he's making the pass out. But I think now he understands like when we get off of it and get it back, he has more space and more room to play in.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on Amir Coffey: He needs to make his decision before he crosses the free throw line. When he gets too deep into the paint and there are six guys around him it makes it tough.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Amir Coffey"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses how Amir Coffey can improve his decision-making when penetrating into the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Terance Mann",
+      "timestamp": "04:28",
+      "summary_phrase": "Terance Mann on the need for more urgency and effort",
+      "names_mentioned": [],
+      "excerpt": "Just come out with more urgency, more energy, more fight.",
+      "quote": "Just come out with more urgency, more energy, more fight. You know the coaches, they do a good job with the game plans. Yeah, we have to execute the game plan, but it also comes with effort, and I think we just lacked effort last game.",
+      "text_blocks": [],
+      "start_seconds": 268,
+      "end_seconds": 286,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Terance Mann says the Clippers lacked effort in their last game. We have to execute the game plan but it also comes with effort.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Terance Mann reflects on the team's lack of effort and urgency during their previous game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Terance Mann",
+      "timestamp": "05:11",
+      "summary_phrase": "Terance Mann on getting back to basics after a loss",
+      "names_mentioned": [],
+      "excerpt": "Just get back to the basics. Anytime, especially when you have a loss like that, you know, watch tape.",
+      "quote": "Just get back to the basics. Anytime, especially when you have a loss like that, you know, watch tape, get back to the drawing board, fix what we need to fix, and you know, hopefully we come out with more urgency, execute, and come out with a win.",
+      "text_blocks": [],
+      "start_seconds": 311,
+      "end_seconds": 329,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Terance Mann on the team approach after a loss: Just get back to the basics. Watch tape, get back to the drawing board, fix what we need to fix.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Terance Mann discusses the team's need to get back to basics following a recent loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Terance Mann",
+      "timestamp": "05:38",
+      "summary_phrase": "Terance Mann on his role in mentoring younger players like Keon Johnson",
+      "names_mentioned": [
+        "Keon Johnson"
+      ],
+      "excerpt": "He's young, you know, he got to go through his own process.",
+      "quote": "He's young, you know, he got to go through his own process. Me and him, we had a conversation after the last game. I just like to see what he sees. The main thing, like we always say, is just stay aggressive, stay confident, don't never let that waver. That's the biggest thing I learned, being a top-five pick, coming from the top of the world and then had to work my way back up, never lose confidence.",
+      "text_blocks": [],
+      "start_seconds": 338,
+      "end_seconds": 368,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Terance Mann on mentoring Keon Johnson: The biggest thing I learned is never lose confidence. I told him to stay aggressive and do not let that waver.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Keon Johnson"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Terance Mann discusses his role in mentoring rookie Keon Johnson and the importance of maintaining confidence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Terance Mann",
+      "timestamp": "06:21",
+      "summary_phrase": "Terance Mann on Keon Johnson's ability to learn and stay aggressive",
+      "names_mentioned": [
+        "Keon Johnson"
+      ],
+      "excerpt": "He doesn't change his attitude on the court, he actually stays aggressive, and that's what you want.",
+      "quote": "He does a little bit of both, and I think that's a good thing. He has questions when he needs to, and you know he's very observant. Like I said before, you know he picks up on things very fast, and that's a good thing, especially as a rookie. I think the biggest thing that I've learned from him, he doesn't waver. His confidence, even when I tell him like, make sure you keep your confidence high, if you watch him in the game, he can miss four or five shots, he doesn't change his attitude on the court, he actually stays aggressive, and that's what you want.",
+      "text_blocks": [],
+      "start_seconds": 381,
+      "end_seconds": 423,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Terance Mann praises Keon Johnson for his mindset: He can miss four or five shots and he does not change his attitude on the court. He actually stays aggressive and that is what you want.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Keon Johnson"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Terance Mann praises Keon Johnson for his ability to learn quickly and maintain his confidence despite missing shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Terance Mann",
+      "timestamp": "07:11",
+      "summary_phrase": "Terance Mann on the importance of defensive communication in transition",
+      "names_mentioned": [],
+      "excerpt": "I think the communication definitely can rise. I think that can help us out a lot, especially in transition.",
+      "quote": "I think personality-wise off the court, the team is gelling really well. Even on the court, you know, we communicate when we need to, but I think the communication definitely can rise. I think that can help us out a lot, especially in transition. When you're playing against a team that has multiple guards that can get in the paint where you need to communicate high, I think we can get better at that, and that comes with, you know, just keep practicing and keep harping on it, and then hopefully, you know, we drill it into our minds.",
+      "text_blocks": [],
+      "start_seconds": 431,
+      "end_seconds": 469,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Terance Mann says the Clippers need to improve defensive communication in transition. When you are playing against a team that has multiple guards that can get in the paint you need to communicate high.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Terance Mann discusses the importance of improving defensive communication, particularly in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Amir Coffey",
+      "timestamp": "08:21",
+      "summary_phrase": "Amir Coffey on the importance of not underestimating the Thunder",
+      "names_mentioned": [],
+      "excerpt": "You can't go out there and just because they down a few players, you can't go out there.",
+      "quote": "At the end of the day, they're a team. All the guys is in the league for a reason. They got the talent to be here. So you can't go out there and just because they down a few players, you can't go out there and think it's it's going to be easy game because those are the games that you get blown out the water. So we got to go in there with the with the mindset that it's their best version of the Oklahoma City Thunder we're going to play.",
+      "text_blocks": [],
+      "start_seconds": 501,
+      "end_seconds": 536,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Amir Coffey warns against underestimating the Thunder: You cannot go out there and think it is going to be an easy game because those are the games that you get blown out the water.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Amir Coffey warns against underestimating the Oklahoma City Thunder regardless of their roster availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Amir Coffey",
+      "timestamp": "09:01",
+      "summary_phrase": "Amir Coffey on the team's need to maintain a consistent identity",
+      "names_mentioned": [],
+      "excerpt": "It should be our our identity to play one way regardless of how many games they played.",
+      "quote": "It should be our our identity to play one way regardless of how many games they played or who they played before us. I mean it's just it should be our our identity to play one way regardless of how many games they played or what game they played at or whatever they at. It shouldn't be we get we should we thinking about an excuse, so we thinking about something that should be a reason why we should play a little bit better. We should play that way regardless of who we playing or how many games they played or who they played before us.",
+      "text_blocks": [],
+      "start_seconds": 541,
+      "end_seconds": 582,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Amir Coffey says the Clippers need to maintain their identity regardless of the opponent. It should not be that we are thinking about an excuse or a reason why we should play better.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Amir Coffey discusses the importance of the team maintaining a consistent identity regardless of the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "NP9hYeq4kMw",
+  "url": "https://www.youtube.com/watch?v=NP9hYeq4kMw",
+  "channel_team": "LA Clippers",
+  "published": "2026-11-13T01:39:19Z",
+  "duration_seconds": 607,
+  "processed_at": "2026-11-13T01:55:29Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}
