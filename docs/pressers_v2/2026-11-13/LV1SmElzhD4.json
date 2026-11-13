@@ -1,0 +1,142 @@
+{
+  "video_title": "Bones Hyland Postgame On Court Interview Vs The Dallas Mavericks | 11.12.26",
+  "speakers_seen": [
+    "Meghan McPeak",
+    "Bones Hyland"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bones Hyland",
+      "speakers": [
+        "Unidentified reporter",
+        "Bones Hyland"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Bones Hyland on Timberwolves' offensive execution and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "Honestly, my teammates just finding me. I think it was the flow of the offense.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "For you offensively, in practice the other day, you spoke about just being able to get downhill, ball in your hand. You know what play is the best play to make. What plays were you able to make tonight?"
+        },
+        {
+          "speaker": "Bones Hyland",
+          "text": "Honestly, my teammates just finding me. I think it was the flow of the offense. We played really well tonight. We had four days off and it just translated to today."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bones Hyland says the Timberwolves offensive flow against Dallas was a direct result of their four days of practice translating to the court",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Bones Hyland discusses his offensive performance and the team's flow following a four-day break.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Bones Hyland",
+      "speakers": [
+        "Unidentified reporter",
+        "Bones Hyland"
+      ],
+      "timestamp": "00:18",
+      "summary_phrase": "Bones Hyland on cleaning up turnovers and transition defense",
+      "names_mentioned": [],
+      "excerpt": "Honestly just getting back in transition, clean up the turnovers, see the early easy pass.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "In the first half you guys were turning the ball over, it led to some points. You cleaned it up in the second half. What was the message at halftime to clean that up?"
+        },
+        {
+          "speaker": "Bones Hyland",
+          "text": "Honestly just getting back in transition, clean up the turnovers, see the early easy pass. I think we did that at a high level tonight and it translated to the win, so I'm proud of our guys. We got to keep it rolling."
+        }
+      ],
+      "start_seconds": 18,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bones Hyland on the halftime adjustments against the Mavericks: We focused on getting back in transition and seeing the early easy pass to clean up the turnovers",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Bones Hyland explains the halftime adjustments made to reduce turnovers and improve transition defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Bones Hyland",
+      "speakers": [
+        "Unidentified reporter",
+        "Bones Hyland"
+      ],
+      "timestamp": "00:36",
+      "summary_phrase": "Bones Hyland on the second unit's consistency and impact",
+      "names_mentioned": [],
+      "excerpt": "Whatever the game needs, we come in and as a second unit we talk as a unit.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "As a bench, you guys take a lot of pride in when you step onto the floor, you take it up a notch. What have you guys been able to do, the consistency to start this season, especially at home?"
+        },
+        {
+          "speaker": "Bones Hyland",
+          "text": "Honestly just giving the game a different look. Whether the game needs pace, scoring, playmaking, whatever the game needs, we come in and as a second unit we talk as a unit. Let's change the game, come in, let's make sure we do what we got to do when we're checking in the floor to get the other team a different look."
+        }
+      ],
+      "start_seconds": 36,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bones Hyland says the Timberwolves second unit takes pride in changing the game by giving opponents a different look with their pace and playmaking",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Bones Hyland describes the approach and impact of the Timberwolves second unit during home games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "LV1SmElzhD4",
+  "url": "https://www.youtube.com/watch?v=LV1SmElzhD4",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-13T03:40:15Z",
+  "duration_seconds": 64,
+  "processed_at": "2026-11-13T04:28:33Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

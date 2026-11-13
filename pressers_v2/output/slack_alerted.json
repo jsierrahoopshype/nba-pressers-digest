@@ -2756,6 +2756,22 @@
   }
  },
  "pending": {
+  "LV1SmElzhD4": {
+   "channel": "Minnesota Timberwolves",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-13",
+   "is_one_off": false,
+   "queued_at": "2026-11-13T04:28:33Z",
+   "run_id": "2026-11-13-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-13",
+   "speaker": "Bones Hyland",
+   "title": "Bones Hyland Postgame On Court Interview Vs The Dallas Mavericks | 11.12.26",
+   "top_quote": "For you offensively, in practice the other day, you spoke about just being able to get downhill, ball in your hand. You know what play is the best play to make. What plays were you able to make tonight? Honestly, my teammates just finding me. I think it was the flow of the offense. We played really well tonight. We had four days off and it just translated to today.",
+   "video_id": "LV1SmElzhD4"
+  },
   "NP9hYeq4kMw": {
    "channel": "LA Clippers",
    "clip_count": 12,
