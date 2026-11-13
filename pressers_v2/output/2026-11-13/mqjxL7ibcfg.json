@@ -1,0 +1,345 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Tyrese Maxey | 11.12.26",
+  "speakers_seen": [
+    "Tyrese Maxey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "00:00",
+      "summary_phrase": "Tyrese Maxey praises Kentavious Caldwell-Pope and Eric Gordon's contributions",
+      "names_mentioned": [
+        "Kentavious Caldwell-Pope",
+        "Eric Gordon"
+      ],
+      "excerpt": "They were really good. Made shots, played great defense.",
+      "quote": "They were really good. Made shots, played great defense. Kentavious Caldwell-Pope, he has been really steady all season. He has been there every single night. He came off the bench, he started a couple of times, but he has been great for us.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 17,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyrese Maxey on the impact of Kentavious Caldwell-Pope this season: He has been really steady all night and has been great for us.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kentavious Caldwell-Pope",
+          "Eric Gordon"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Maxey discusses the contributions of his teammates after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "00:17",
+      "summary_phrase": "Tyrese Maxey highlights Kentavious Caldwell-Pope's defensive and communicative impact",
+      "names_mentioned": [
+        "Kentavious Caldwell-Pope"
+      ],
+      "excerpt": "His defense, his communication, and his availability.",
+      "quote": "His defense, his communication, and his availability. He has been there every single night. He came off the bench, he started a couple of times, but he has been great for us.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyrese Maxey credits Kentavious Caldwell-Pope for his defensive consistency and communication on the floor.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kentavious Caldwell-Pope"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Maxey describes the specific qualities Kentavious Caldwell-Pope brings to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "00:32",
+      "summary_phrase": "Tyrese Maxey on team's improved offensive spacing and pace",
+      "names_mentioned": [],
+      "excerpt": "Our spacing was better tonight and our pace was better tonight.",
+      "quote": "Our spacing was better tonight and our pace was better tonight. We played with a little more purpose, a little more pep in our step, which is better for us. When we do that, we are hard to guard, harder to guard.",
+      "text_blocks": [],
+      "start_seconds": 32,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyrese Maxey says the Sixers played with more purpose and better spacing tonight: When we do that we are harder to guard.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey reflects on the team's offensive performance and pace during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "00:51",
+      "summary_phrase": "Tyrese Maxey praises Joel Embiid's aggressive play",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I think he was aggressive. He didn't think, he was just aggressive.",
+      "quote": "I think he was aggressive. He didn't think, he was just aggressive. He was getting to his mid-range. He was just aggressive and that is good for him.",
+      "text_blocks": [],
+      "start_seconds": 51,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tyrese Maxey on Joel Embiid: I think he was aggressive. He did not think he was just aggressive and that is good for him.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Maxey comments on Joel Embiid's aggressive style of play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "01:09",
+      "summary_phrase": "Tyrese Maxey discusses Joel Embiid's knee injury",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I knew that he didn't twist it or anything. I knew it was like a knee-to-knee.",
+      "quote": "I knew that he didn't twist it or anything. I knew it was like a knee-to-knee. So I wasn't too worried because that was just a contusion. He kept saying, 'I just got kneed.' That still hurts though.",
+      "text_blocks": [],
+      "start_seconds": 69,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 4,
+      "social_post": "Tyrese Maxey provides an update on Joel Embiid after his knee injury: I knew it was just a knee to knee contusion so I was not too worried.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyrese Maxey provides an update on Joel Embiid after he suffered a knee injury during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "01:21",
+      "summary_phrase": "Tyrese Maxey on De'Anthony Melton's playmaking ability",
+      "names_mentioned": [
+        "De'Anthony Melton"
+      ],
+      "excerpt": "He is one of our better playmakers and he is really good at just getting downhill.",
+      "quote": "He is one of our better playmakers and he is really good at just getting downhill and creating for himself and others. We have to find him more opportunities to do that.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyrese Maxey says the team needs to find more opportunities for De Anthony Melton to get downhill and create for himself and others.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "De'Anthony Melton"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Maxey discusses the playmaking abilities of De'Anthony Melton.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "01:49",
+      "summary_phrase": "Tyrese Maxey reflects on the team's 7-2 stretch",
+      "names_mentioned": [],
+      "excerpt": "I guess that is pretty good, huh? 7-2. We will take it.",
+      "quote": "I guess that is pretty good, huh? 7-2. We will take it. I feel pretty good.",
+      "text_blocks": [],
+      "start_seconds": 109,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Tyrese Maxey on the Sixers current 7-2 stretch: I guess that is pretty good huh? We will take it.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey reacts to the team's recent record over their last nine games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "02:04",
+      "summary_phrase": "Tyrese Maxey on the importance of making three-pointers for floor spacing",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "Anytime we make threes, it opens up space for each other.",
+      "quote": "Anytime we make threes, it opens up space for each other. I think that is the biggest thing that we have to do. We have to shoot and make threes. If we are able to do that, then guys get into the paint, create for themselves. Jaylen Brown has more room, Process has more room.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyrese Maxey emphasizes the importance of shooting and making threes to open up the floor for the rest of the team.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaylen Brown",
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey explains the importance of three-point shooting for team spacing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "02:40",
+      "summary_phrase": "Tyrese Maxey on encouraging De'Anthony Melton's aggressive playstyle",
+      "names_mentioned": [
+        "De'Anthony Melton"
+      ],
+      "excerpt": "I just tell him to go do that De'Anthony Melton stuff.",
+      "quote": "I just tell him to go do that De'Anthony Melton stuff. Literally, that is exactly what I tell him. I say, 'Hey man, go do that De'Anthony Melton stuff that you do.' He literally goes out there and does De'Anthony Melton stuff. He gets us loose balls, he makes winning plays, he defends, he scores, he does it all.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Tyrese Maxey on his advice to De Anthony Melton: I just tell him to go do that De Anthony Melton stuff. He makes winning plays and does it all.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "De'Anthony Melton"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Maxey describes how he encourages De'Anthony Melton to play aggressively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "03:12",
+      "summary_phrase": "Tyrese Maxey on holding his daughter after the game",
+      "names_mentioned": [],
+      "excerpt": "I am just happy that she is happy and she is blessed and she is healthy.",
+      "quote": "I am just happy that she is happy and she is blessed and she is healthy. That makes me happy. She has probably no idea what is going on, but it is a really cool moment just for her to be there.",
+      "text_blocks": [],
+      "start_seconds": 192,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 9,
+      "social_post": "Tyrese Maxey shares a sweet moment about holding his daughter after the game: I am just happy that she is happy and she is blessed and she is healthy.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey shares a personal moment about having his daughter present at the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "mqjxL7ibcfg",
+  "url": "https://www.youtube.com/watch?v=mqjxL7ibcfg",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-13T05:06:24Z",
+  "duration_seconds": 226,
+  "processed_at": "2026-11-13T05:19:59Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

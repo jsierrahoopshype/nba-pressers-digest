@@ -1,0 +1,236 @@
+{
+  "video_title": "Jonathan Kuminga Postgame Interview With Alan Horton | 11.12.26",
+  "speakers_seen": [
+    "Alan Horton",
+    "Jonathan Kuminga"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Unidentified reporter",
+        "Jonathan Kuminga"
+      ],
+      "timestamp": "00:15",
+      "summary_phrase": "Jonathan Kuminga on team performance and areas for improvement",
+      "names_mentioned": [],
+      "excerpt": "we all came out here playing hard we all played together",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How did that one feel tonight?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "It felt great. We all came out here playing hard, we all played together, and obviously we got this win. There is some stuff we got to correct, you know, like turning the ball over, fouling, but everything was well, so I'm happy for the guys. I'm happy for all of us."
+        }
+      ],
+      "start_seconds": 15,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga on the win over the Timberwolves: We all came out here playing hard, we all played together, and obviously we got this win. There is some stuff we got to correct, like turning the ball over and fouling.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga reacts to the team performance and the win against their opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Unidentified reporter",
+        "Jonathan Kuminga"
+      ],
+      "timestamp": "00:47",
+      "summary_phrase": "Jonathan Kuminga on pick-and-roll chemistry with LaMelo Ball",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "it was just a play and it ended up the ball ended up in my hands",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "They got you involved right on the first play of the game. Was that called for you?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "It was just a play and it ended up the ball ended up in my hands so I had to make a play somehow. But you know, we were all involved in it."
+        }
+      ],
+      "start_seconds": 47,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga on his involvement in the opening play: It was just a play and it ended up the ball ended up in my hands so I had to make a play somehow.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jonathan Kuminga discusses his involvement in the opening play of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Alan Horton",
+        "Jonathan Kuminga"
+      ],
+      "timestamp": "01:11",
+      "summary_phrase": "Jonathan Kuminga on handling defensive pressure in pick-and-roll",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "I just got to learn how to set the screen with different type of angles",
+      "text_blocks": [
+        {
+          "speaker": "Alan Horton",
+          "text": "It seems like you and LaMelo are developing a nice rhythm on that pick-and-roll. You come up there and spring back off that pick-and-roll and you catch that kind of at the free-throw line with a lot of space to work with."
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "I think it's going to be a lot of pressure, as you guys see. They are going to try to double LaMelo, they are going to try to put the best defender on LaMelo, so I just got to learn how to set the screen with different type of angles, even when the big comes back. Wherever I got to set the screen for, I just got to learn how to pick the angles to set the right screen so I can get the ball in the pocket and make plays from there."
+        }
+      ],
+      "start_seconds": 71,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga on his pick and roll chemistry with LaMelo Ball: I just got to learn how to set the screen with different type of angles so I can get the ball in the pocket and make plays from there.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jonathan Kuminga explains his process for setting screens and navigating defensive pressure while playing with LaMelo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Unidentified reporter",
+        "Jonathan Kuminga"
+      ],
+      "timestamp": "01:44",
+      "summary_phrase": "Jonathan Kuminga on his approach to contributing beyond scoring",
+      "names_mentioned": [],
+      "excerpt": "I just let the game comes to me I just try to make as many plays as I can",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "It feels like through these first 12 games of the year you've been able to showcase what you're able to bring to a game. Do you feel like that's been the case?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "I just let the game comes to me. I just try to make as many plays as I can and just being involved in the game somehow, not just scoring, defensively wise, and you know, just try to do my best so I could help my teammates. I could give them space and help them be comfortable with me on the floor and try to win as many games as we can."
+        }
+      ],
+      "start_seconds": 104,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga on his role beyond scoring: I just let the game come to me. I try to make as many plays as I can and just be involved in the game somehow, not just scoring, defensively wise.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga reflects on his overall contribution to the team beyond scoring through the first 12 games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Unidentified reporter",
+        "Jonathan Kuminga"
+      ],
+      "timestamp": "02:15",
+      "summary_phrase": "Jonathan Kuminga on maintaining focus during the winning streak",
+      "names_mentioned": [],
+      "excerpt": "we can't be so happy about those wins we just got to keep winning as much as we can",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What are your thoughts on a nine and three start to the season and you guys have won now five in a row?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "It feels good, but we just can't be so happy about those wins. We just got to keep winning as much as we can and I think the main focus every single day it's been on us winning, no matter what. I just try as much as I can, as much as we can to win every game until, you know, everything comes back and comes back and help us."
+        }
+      ],
+      "start_seconds": 135,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga on the team's five game win streak: It feels good, but we just cannot be so happy about those wins. We just have to keep winning as much as we can.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga discusses the team's current winning streak and maintaining focus for the remainder of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "4cotZeJFXG8",
+  "url": "https://www.youtube.com/watch?v=4cotZeJFXG8",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-13T04:51:16Z",
+  "duration_seconds": 174,
+  "processed_at": "2026-11-13T05:20:12Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

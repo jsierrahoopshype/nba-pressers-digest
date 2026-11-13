@@ -1,0 +1,204 @@
+{
+  "video_title": "Toronto Full Media Availabilities | Post Game at Philadelphia 76ers | November 12, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic",
+    "Immanuel Quickley",
+    "RJ Barrett"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:00",
+      "summary_phrase": "Darko Rajakovic on the team's growth and development",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "I think it raises the level for everybody else.",
+      "quote": "I am really satisfied with the effort that our team put together. A lot of young guys getting a lot of opportunities, a lot of minutes, playing against elite players out there. I think this was a really good game for us. I think we stayed in the game all the way down to the fourth quarter. We had a fight, we had energy. We were trying to figure out how to take them, how to share the ball. We missed some layups, we missed some wide-open shots, but I am really happy with the all looks that we created tonight.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says he is satisfied with the effort from his young players despite the loss, noting that the team stayed competitive against an elite opponent until the fourth quarter.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the team's effort and performance following a loss to the Philadelphia 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "ZnEYOhUFYmQ",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:00",
+      "summary_phrase": "Darko Rajakovic on the importance of player development",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "When Scottie and Kawhi are back, we need this type of performances from those two guys.",
+      "quote": "Especially when you put it in perspective when key players come back. When Scottie and Kawhi are back, we need this type of performances from those two guys. And I think it raises the level for everybody else. Obviously right now everybody is playing outside of their positions, playing a lot more minutes than when we have full roster. But I think this is amazing for us. I think this is a great growing opportunities for us. I think in all of those games that were so, so close, I think all of this is going to make us just better and stronger.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic believes the current rotation minutes for young players will pay off once Scottie Barnes and Kawhi Leonard return, stating that these close games are going to make the team better and stronger.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic discusses the impact of missing key players and the developmental value of the current rotation.",
+        "best": true,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "ZnEYOhUFYmQ",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "03:02",
+      "summary_phrase": "Immanuel Quickley on defensive lapses and rebounding",
+      "names_mentioned": [],
+      "excerpt": "It just seemed like defense a little bit kind of slowed up for us.",
+      "quote": "It just seemed like defense a little bit kind of slowed up for us. That's who we are. Rebounding, they made a lot of shots, but I have to go back and watch it.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Immanuel Quickley says the team defense slowed down against Philadelphia and plans to review the film to address the rebounding issues.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley comments on the team's defensive performance and rebounding struggles during the post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "lNJBW32daqs",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "03:46",
+      "summary_phrase": "Immanuel Quickley on team accountability during injuries",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "It's not just on one person. It's on our whole team.",
+      "quote": "Not enough right now. We need more. It's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back, we got to do it as a team. You can't win as individuals. It's not an individual sport. It's not swimming, not boxing, so you need everybody.",
+      "text_blocks": [],
+      "start_seconds": 226,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley says the team needs more accountability across the board, reminding everyone that basketball is not an individual sport and you cannot win without the whole team.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Immanuel Quickley emphasizes the need for collective team accountability regardless of the status of injured teammates.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "lNJBW32daqs",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "RJ Barrett",
+      "timestamp": "04:48",
+      "summary_phrase": "RJ Barrett on team consistency and closing games",
+      "names_mentioned": [],
+      "excerpt": "We're putting ourselves in a good position where we're actually getting out to big leads.",
+      "quote": "Everybody has to step up including us. I think right now it's been tough. We just got to figure it out. I think we're starting games off better. We're putting ourselves in a good position where we're actually getting out to big leads. We just have to sustain those and figure out how to win.",
+      "text_blocks": [],
+      "start_seconds": 288,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Chris Boucher says the Raptors are doing a better job of starting games with big leads but must figure out how to sustain that intensity to close out wins.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Chris Boucher discusses the team's need to maintain consistency and close out games more effectively.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "ssAzV93N67Y",
+        "rank": 1
+      },
+      "speaker_source": "single-speaker video"
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "hkL5xyNzcXk",
+  "url": "https://www.youtube.com/watch?v=hkL5xyNzcXk",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-13T05:17:29Z",
+  "duration_seconds": 410,
+  "processed_at": "2026-11-13T05:19:41Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

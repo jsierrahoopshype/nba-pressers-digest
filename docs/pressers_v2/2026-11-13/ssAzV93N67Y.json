@@ -1,0 +1,108 @@
+{
+  "video_title": "RJ Barrett | Post Game at Philadelphia 76ers | November 12, 2026",
+  "speakers_seen": [
+    "RJ Barrett"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:13",
+      "summary_phrase": "RJ Barrett on the Raptors' need for collective effort",
+      "names_mentioned": [
+        "Kawhi Leonard",
+        "Scottie Barnes"
+      ],
+      "excerpt": "Everybody has to step up, including us. Right now it's been tough. We just got to figure it out.",
+      "quote": "Everybody has to step up, including us. Right now it's been tough. We just got to figure it out. I think we're starting to play games off better. We're putting ourselves in a good position where we're actually getting out to big leads. We just have to sustain those and figure out how to win.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "RJ Barrett on the Raptors recent struggles: Everybody has to step up. We are putting ourselves in a good position where we are actually getting out to big leads. We just have to sustain those and figure out how to win.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett discusses the need for the Raptors to maintain leads and improve their collective effort after a game against the Philadelphia 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:38",
+      "summary_phrase": "RJ Barrett on the challenge of sustaining leads",
+      "names_mentioned": [],
+      "excerpt": "We're putting ourselves in a good position to win these games. We just got to go back to the film.",
+      "quote": "We're putting ourselves in a good position to win these games. We just got to go back to the film, sustain it. Little key moments, I would say, that were letting teams get these runs. But it's a long season and we'll continue to get better at that.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "RJ Barrett says the Raptors are looking at film to address their late game issues: Little key moments I would say that were letting teams get these runs. But it is a long season and we will continue to get better at that.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett explains that the team needs to review film to identify the key moments where they allow opponents to go on runs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "RJ Barrett",
+      "timestamp": "01:19",
+      "summary_phrase": "RJ Barrett on bouncing back from a tough schedule",
+      "names_mentioned": [],
+      "excerpt": "Got to bounce back. Those don't really matter, back-to-back or not. You got to find a way, find energy.",
+      "quote": "Got to bounce back. Those don't really matter, back-to-back or not. You got to find a way, find energy to do it. We put ourselves in a good position against a good team, and we'll figure it out.",
+      "text_blocks": [],
+      "start_seconds": 79,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "RJ Barrett on playing through a tough schedule: Got to bounce back. Those do not really matter, back to back or not. You got to find a way, find energy to do it.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett comments on the team's need to find energy and bounce back despite the challenges of a difficult schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "ssAzV93N67Y",
+  "url": "https://www.youtube.com/watch?v=ssAzV93N67Y",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-13T05:00:20Z",
+  "duration_seconds": 136,
+  "processed_at": "2026-11-13T05:19:54Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

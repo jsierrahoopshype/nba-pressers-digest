@@ -1,0 +1,142 @@
+{
+  "video_title": "Immanuel Quickley | Post Game at Philadelphia 76ers | November 12, 2026",
+  "speakers_seen": [
+    "Immanuel Quickley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:05",
+      "summary_phrase": "Immanuel Quickley on Toronto's defensive struggles in the second half",
+      "names_mentioned": [],
+      "excerpt": "it just seemed like defense a little bit kind of slowed up for us, that's who we are",
+      "quote": "I have to go back and watch the film, but it just seemed like defense a little bit kind of slowed up for us, that's who we are. Rebounding, they made a lot of shots, but I have to go back and watch it.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley says the Raptors defensive intensity slowed down in the second half against Philadelphia and he needs to review the film to see what went wrong.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley reflects on the defensive performance of the Toronto Raptors during their game against the Philadelphia 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:24",
+      "summary_phrase": "Immanuel Quickley on maintaining aggression despite missing shots",
+      "names_mentioned": [],
+      "excerpt": "I try to just take it one game at a time. I feel like a lot of shots",
+      "quote": "I try to just take it one game at a time. I feel like a lot of shots that I missed were shots that I make, so I try to not think about that too much, but yeah, just try to come and be aggressive every single game.",
+      "text_blocks": [],
+      "start_seconds": 24,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley says he is trying not to overthink his recent shooting struggles and remains focused on staying aggressive every single game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses his mindset regarding his shooting performance and maintaining aggression on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:50",
+      "summary_phrase": "Immanuel Quickley on the need for team-wide effort without Scottie Barnes and Kawhi Leonard",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "it's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back",
+      "quote": "Not right now, we need more. It's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back, we got to do it as a team. You can't win as individuals. It's not an individual sport. It's not swimming, not boxing, so you need everybody.",
+      "text_blocks": [],
+      "start_seconds": 50,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley emphasizes that the Raptors cannot rely on individuals to win games. He says even when Scottie Barnes and Kawhi Leonard return it has to be a team effort because basketball is not an individual sport.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley explains the need for a collective team effort while teammates Scottie Barnes and Kawhi Leonard are sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "01:14",
+      "summary_phrase": "Immanuel Quickley on the importance of long-term process despite current struggles",
+      "names_mentioned": [],
+      "excerpt": "if you do the right step every single day, you eventually see the results",
+      "quote": "I think if you do the right step every single day, you eventually see the results. Results aren't always shown immediately, even though we all want it right away. Right now, obviously it's tough because we want to win, but you got to find a way to continue to keep doing the right stuff. You got to find a way to learn.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley says the Raptors are focused on the long term process despite the current losing stretch, noting that you have to keep doing the right things even when results are not immediate.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses the importance of trusting the team process and focusing on daily improvement despite recent losses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "lNJBW32daqs",
+  "url": "https://www.youtube.com/watch?v=lNJBW32daqs",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-13T04:54:04Z",
+  "duration_seconds": 105,
+  "processed_at": "2026-11-13T05:20:04Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

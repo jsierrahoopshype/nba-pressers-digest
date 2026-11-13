@@ -1,0 +1,176 @@
+{
+  "video_title": "Darko Rajakovic | Post Game at Philadelphia 76ers | November 12, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:11",
+      "summary_phrase": "Darko Rajakovic on the team's effort against the 76ers",
+      "names_mentioned": [],
+      "excerpt": "I am really satisfied with the effort that our team put together.",
+      "quote": "We played against a really good team. I am really satisfied with the effort that our team put together. A lot of young guys getting a lot of opportunities, a lot of minutes, playing against elite players out there. I think this was a really good game for us. I think we stayed in the game all the way down to the fourth quarter. We had a fight, we had energy. We were trying to figure out how to take them. We were trying to figure out how to share the ball. We missed some layups, we missed some wide-open shots, but I am really happy with the all looks that we created tonight.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says he is satisfied with the effort from his young players against the 76ers despite the loss, noting they stayed in the game until the fourth quarter.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the team's overall effort and performance following a loss to the Philadelphia 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:00",
+      "summary_phrase": "Importance of RJ Barrett and Immanuel Quickley's performance",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "When Scottie and Kawhi they're back, we need this type of performances from those two guys.",
+      "quote": "It is very important, especially when you put it in perspective when key players come back. When Scottie and Kawhi they're back, we need this type of performances from those two guys. And I think it raises the level for everybody else. Obviously right now everybody is playing outside of their positions, playing a lot more minutes than when we have full roster. But I think this is amazing for us. I think this is a great growing opportunities for us. I think in all of those games that were so, so close, I think all of this is going to make us just better and stronger.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic says the current performances from RJ Barrett and Immanuel Quickley will raise the level for the whole team once Scottie Barnes and Kawhi Leonard return to the lineup.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "RJ Barrett",
+          "Immanuel Quickley",
+          "Scottie Barnes",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the importance of RJ Barrett and Immanuel Quickley stepping up while Scottie Barnes and Kawhi Leonard are sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:41",
+      "summary_phrase": "Darko Rajakovic on RJ Barrett and Immanuel Quickley's resilience",
+      "names_mentioned": [
+        "RJ Barrett",
+        "Immanuel Quickley"
+      ],
+      "excerpt": "Those two guys are competitors, they're winners, they're going to do everything whatever it takes.",
+      "quote": "We talked about it and they responded. Those two guys are competitors, they're winners, they're going to do everything whatever it takes to help the team and they bounce back tonight.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic praises the resilience of RJ Barrett and Immanuel Quickley, calling them competitors and winners who do whatever it takes to help the team.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "RJ Barrett",
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic praises the competitive nature and resilience of RJ Barrett and Immanuel Quickley after their performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:07",
+      "summary_phrase": "Development of young players through increased playing time",
+      "names_mentioned": [],
+      "excerpt": "When all of those guys when they're getting minutes against all-star caliber players, I think there is a lot of growth.",
+      "quote": "When all of those guys when they're getting minutes against all-star caliber players, I think there is a lot of growth right there in that. And the film that provided us, information that provides us what we need to focus on and to grow, I think it's super important. Our goal is with all of those guys to make them better week by week and I think we're on that path now.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic emphasizes that the increased minutes for young players against all star caliber competition is a vital part of the team's development path.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the developmental benefits for young players receiving increased minutes against elite competition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:41",
+      "summary_phrase": "Addressing the team's high turnover rate",
+      "names_mentioned": [],
+      "excerpt": "Looks like every time that we turn the ball over it ends up being easy layup or a three.",
+      "quote": "That is a very good point there. Looks like every time that we turn the ball over it ends up being easy layup or a three. So that's why the stressing importance of those is super, super important for us.",
+      "text_blocks": [],
+      "start_seconds": 161,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic addresses the team's turnover issues, noting that every mistake is currently leading to easy layups or threes for the opponent.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic addresses the team's high turnover rate and the negative impact of those mistakes during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "ZnEYOhUFYmQ",
+  "url": "https://www.youtube.com/watch?v=ZnEYOhUFYmQ",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-13T04:52:46Z",
+  "duration_seconds": 182,
+  "processed_at": "2026-11-13T05:20:12Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

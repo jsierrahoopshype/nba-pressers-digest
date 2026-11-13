@@ -1,0 +1,171 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Jaylen Brown | 11.12.26",
+  "speakers_seen": [
+    "Jaylen Brown"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaylen Brown",
+      "timestamp": "00:00",
+      "summary_phrase": "Jaylen Brown on the 76ers' improved offensive movement and execution",
+      "names_mentioned": [],
+      "excerpt": "we had some more movement. We was able to get some easy baskets instead of everything being so hard.",
+      "quote": "We had some more movement. We was able to get some easy baskets instead of everything being so hard. And I think that was key for us, that we can utilize the talent that we have. Easy opportunities for guys, I think that's a key emphasis for us moving forward.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 19,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaylen Brown says the 76ers are focusing on better offensive movement to create easy baskets instead of making everything hard for themselves.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown discusses the team's offensive performance and the importance of better ball movement during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaylen Brown",
+      "timestamp": "00:26",
+      "summary_phrase": "Jaylen Brown praises Tyrese Maxey's aggressive play on both ends",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "Tyrese Maxey is a dog. He was aggressive tonight, he looked good tonight on both ends.",
+      "quote": "Tyrese Maxey is a dog. He was aggressive tonight, he looked good tonight on both ends, on offense and defense. You know, Tyrese is just going to continue to accelerate his game and it's a joy to watch.",
+      "verbatim_original_language": "",
+      "start_seconds": 26,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Jaylen Brown on Tyrese Maxey after tonight's performance: Tyrese Maxey is a dog. He was aggressive on both ends and it is a joy to watch him continue to accelerate his game.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Brown praises the aggressive play and defensive effort of his teammate Tyrese Maxey following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaylen Brown",
+      "timestamp": "00:50",
+      "summary_phrase": "Jaylen Brown on the importance of taking available open shots",
+      "names_mentioned": [],
+      "excerpt": "We got to take the early easy available shots because they just opens up the floor for everybody else.",
+      "quote": "We got to take the early easy available shots because they just opens up the floor for everybody else. So when those guys got it going, it makes my job a little easier too.",
+      "verbatim_original_language": "",
+      "start_seconds": 50,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jaylen Brown emphasizes the importance of taking early open shots to open up the floor for the rest of the 76ers roster.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown explains the tactical importance of taking open shots to improve floor spacing for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaylen Brown",
+      "timestamp": "01:13",
+      "summary_phrase": "Jaylen Brown on his close friendship and shared values with PJ Tucker",
+      "names_mentioned": [
+        "PJ Tucker"
+      ],
+      "excerpt": "PJ Tucker is a great human being, humanitarian, all about the community, all about giving back.",
+      "quote": "PJ Tucker is a great human being, humanitarian, all about the community, all about giving back to where he's from. So me and him, we like to spend our time thinking about how we can help different parts of the world. So I think that's where our friendship is based, but it's good to see him out there.",
+      "verbatim_original_language": "",
+      "start_seconds": 73,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "Jaylen Brown shares that his friendship with PJ Tucker is built on shared values and a mutual commitment to humanitarian work and giving back to the community.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "PJ Tucker"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown reflects on his personal friendship and shared philanthropic values with PJ Tucker.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaylen Brown",
+      "timestamp": "02:27",
+      "summary_phrase": "Jaylen Brown on the challenge of building chemistry with a new roster",
+      "names_mentioned": [],
+      "excerpt": "We got like six or seven new guys that are here, so on one foot we just got to figure out the spacing.",
+      "quote": "We got like six or seven new guys that are here, so on one foot we just got to figure out the spacing and be disciplined in that. And on another note, sometimes you just got to go out and play. Sometimes I get caught thinking a little bit too much, trying to make sure everybody's in their spots, and you just got to go get a basket because that's what the team needs.",
+      "verbatim_original_language": "",
+      "start_seconds": 147,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jaylen Brown admits he sometimes gets caught thinking too much about spacing with the new 76ers roster and needs to focus on just going out and getting a basket when the team needs it.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jaylen Brown discusses the challenges of integrating several new players and balancing discipline with instinctive play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "i3TcvvNLxn8",
+  "url": "https://www.youtube.com/watch?v=i3TcvvNLxn8",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-13T05:13:22Z",
+  "duration_seconds": 202,
+  "processed_at": "2026-11-13T05:19:35Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

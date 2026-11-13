@@ -1,0 +1,160 @@
+{
+  "video_title": "Hornets at Suns: Coach Charles Lee Postgame Media Availability | 11/12/2026",
+  "speakers_seen": [
+    "Charles Lee",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "speakers": [
+        "Unidentified reporter",
+        "Charles Lee"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Charles Lee on Hornets' defensive strategy against Devin Booker",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "I thought we did a pretty good job of defensively trying to guard, trying to throw some different looks at Booker.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "There's an and everyone on this squad is end of game situations. What did you see in this one?"
+        },
+        {
+          "speaker": "Charles Lee",
+          "text": "I thought we did a pretty good job of defensively trying to guard, trying to throw some different looks at Booker. You know, he hits a big time shot there at the end to make it a six point game, but I thought for the most part, the defensive intensity, the communication was really good, switching up coverages on him a couple possessions there."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Charles Lee on the defensive plan against Devin Booker: I thought we did a pretty good job of trying to throw some different looks at him. The intensity and communication were really good.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "CHA",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Charles Lee discusses the defensive strategy used by the Hornets to guard Devin Booker during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "speakers": [
+        "Charles Lee",
+        "Unidentified reporter",
+        "Charles Lee"
+      ],
+      "timestamp": "00:20",
+      "summary_phrase": "Charles Lee on Hornets' rebounding and turnover issues",
+      "names_mentioned": [],
+      "excerpt": "You got to be better about grabbing defensive rebounds and 50/50 balls.",
+      "text_blocks": [
+        {
+          "speaker": "Charles Lee",
+          "text": "You got to be better about grabbing defensive rebounds and 50/50 balls. But, you know, at the end of the day, you lose a five point game, you have 27 turnovers, that's like way too many opportunities for the other team to capitalize."
+        },
+        {
+          "speaker": "Unidentified reporter",
+          "text": "I know you've said so many times that every single turnover is different. What did you see collectively tonight?"
+        },
+        {
+          "speaker": "Charles Lee",
+          "text": "I can't wait to go back and watch the film, but we love to evaluate, was it forced or was it unforced? And I think that of the 27, too many of them are going to be unforced, and so we got to look in the mirror all of us, myself included, and figure out how we can keep tightening that up."
+        }
+      ],
+      "start_seconds": 20,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Charles Lee on the Hornets 27 turnovers in a 5 point loss: You have 27 turnovers, that is way too many opportunities for the other team to capitalize. We have to look in the mirror and figure out how to tighten that up.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee addresses the team's high turnover count and rebounding struggles following their loss to the Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "speakers": [
+        "Unidentified reporter",
+        "Charles Lee"
+      ],
+      "timestamp": "00:49",
+      "summary_phrase": "Charles Lee on Hornets' progress and team chemistry",
+      "names_mentioned": [
+        "Kobe Bryant",
+        "Naz Reid"
+      ],
+      "excerpt": "Having Kobe out there, pushing the pace, I think it becomes contagious, the ball has energy.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Monday night, you said we're a work in progress. Where did you see progress tonight?"
+        },
+        {
+          "speaker": "Charles Lee",
+          "text": "Like I said, defensively, we switched up a ton of coverages off ball and pick and roll, so I thought that the group did a great job of communicating and executing them for the most part. And I think offensively, we continue to move the ball. Having Kobe out there, pushing the pace, I think it becomes contagious, the ball has energy. And then I think our after actions are getting a little bit better to see Naz kind of playmaking out of the post for himself and other guys and it's creating some great looks for us."
+        }
+      ],
+      "start_seconds": 49,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Charles Lee on the Hornets progress: Defensively we switched a ton of coverages and executed well. Offensively we continue to move the ball and having Kobe out there pushing the pace makes the ball have energy.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kobe Bufkin",
+          "Naz Reid"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee evaluates the team's progress in ball movement and offensive execution while highlighting the contributions of Kobe Bufkin and Naz Reid.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ssZzwatsnPw",
+  "url": "https://www.youtube.com/watch?v=ssZzwatsnPw",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-13T04:56:48Z",
+  "duration_seconds": 78,
+  "processed_at": "2026-11-13T05:19:59Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

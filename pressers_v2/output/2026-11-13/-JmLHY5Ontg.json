@@ -1,0 +1,79 @@
+{
+  "video_title": "Hornets at Suns: Grant Williams Postgame Media Availability | 11/12/2026",
+  "speakers_seen": [
+    "Grant Williams"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Grant Williams",
+      "timestamp": "00:01",
+      "summary_phrase": "Grant Williams on returning from injury and team performance",
+      "names_mentioned": [],
+      "excerpt": "No issues when it comes to the maintenance of the injury and things like that.",
+      "quote": "No issues when it comes to the maintenance of the injury and things like that. You just want to play more, but that's how return from injury comes. I think that we did a lot of great things tonight as a group. I tried to just add to that. We also got things that we got to clean up, whether it's executing coverages and out of timeouts, things of that nature. Just being more focused and attentive. I could have been more vocal in that capacity.",
+      "text_blocks": [],
+      "start_seconds": 1,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Grant Williams says he felt no issues with his injury in his return to the court tonight but admits the team needs to be more focused and attentive on executing coverages out of timeouts",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Grant Williams discusses his physical condition after returning from an injury and reflects on the team's defensive execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Grant Williams",
+      "timestamp": "00:34",
+      "summary_phrase": "Grant Williams on team competitiveness and reducing turnovers",
+      "names_mentioned": [],
+      "excerpt": "Our team is doing everything possible that takes to win.",
+      "quote": "Our team is doing everything possible that takes to win. You hold a team like that, to off wings offense to under 100 points, it's one of those where you're competing to the maximum. We just got to tighten up on things that we can control. The turnovers, 27 turnovers, it's something that you're hard to come back from when they get 20 more shots than you do. Just making sure that we're prioritizing the right things when it comes to free throws and coming in matchups and just being more truly focused in on the things that we can control.",
+      "text_blocks": [],
+      "start_seconds": 34,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Grant Williams on the Hornets loss: It is hard to come back when you have 27 turnovers and the opponent gets 20 more shots than you do",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Grant Williams addresses the team's high turnover count and the need for better focus to remain competitive.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "-JmLHY5Ontg",
+  "url": "https://www.youtube.com/watch?v=-JmLHY5Ontg",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-13T05:03:28Z",
+  "duration_seconds": 70,
+  "processed_at": "2026-11-13T05:19:49Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

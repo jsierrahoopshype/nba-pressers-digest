@@ -1,0 +1,158 @@
+{
+  "video_title": "Collin Gillespie Postgame On-Court Interview after Suns win against Charlotte Hornets | 11-12-26",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Collin Gillespie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Collin Gillespie",
+      "speakers": [
+        "Unidentified reporter",
+        "Collin Gillespie"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Collin Gillespie on his postgame interaction with Grayson Allen",
+      "names_mentioned": [
+        "Grayson Allen"
+      ],
+      "excerpt": "He was just talking about trying to get more threes up, so we love G.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "I just watched you talk to Grayson Allen and hug it out. What did you two say to each other?"
+        },
+        {
+          "speaker": "Collin Gillespie",
+          "text": "He was just talking about trying to get more threes up, so we love G. Obviously we miss him, but wish him a lot of luck in his new journey over there."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Collin Gillespie on his postgame moment with Grayson Allen: He was just talking about trying to get more threes up, so we love G. Obviously we miss him, but wish him a lot of luck in his new journey over there.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Grayson Allen"
+        ],
+        "teams": [
+          "PHX",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Gillespie discusses his postgame conversation with former teammate Grayson Allen.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Collin Gillespie",
+      "speakers": [
+        "Unidentified reporter",
+        "Collin Gillespie"
+      ],
+      "timestamp": "00:24",
+      "summary_phrase": "Collin Gillespie credits team defense for Phoenix Suns win",
+      "names_mentioned": [
+        "Josh Okogie",
+        "Luke Kennard"
+      ],
+      "excerpt": "Our defense. Okogie got stops, got steals, turned the ball over. It's good to have him back.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What allowed you to pull away at the end?"
+        },
+        {
+          "speaker": "Collin Gillespie",
+          "text": "Our defense. Okogie got stops, got steals, turned the ball over. It's good to have him back. He changes the game all the time. Luke made some big shots down the stretch, and the second unit got going. I think we got out to like an 18-point lead. We got to be better with that and just continue to put it on people when we're up like that. A lot of room to grow, a lot to learn from, but it's always good when you win."
+        }
+      ],
+      "start_seconds": 24,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Collin Gillespie credits the Suns defense for the win against Charlotte: Okogie got stops, got steals, turned the ball over. It is good to have him back. He changes the game all the time.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Josh Okogie",
+          "Luke Kennard"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Gillespie explains how the team defense and contributions from Josh Okogie and Luke Kennard helped secure the win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Collin Gillespie",
+      "speakers": [
+        "Unidentified reporter",
+        "Collin Gillespie"
+      ],
+      "timestamp": "00:51",
+      "summary_phrase": "Collin Gillespie on Suns' focus for upcoming game against Lakers",
+      "names_mentioned": [],
+      "excerpt": "Just continue to stack days, obviously stack good reps. We're excited. It's the journey of a season.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What are you looking to see carry over as you close out this homestand against the Lakers on Sunday?"
+        },
+        {
+          "speaker": "Collin Gillespie",
+          "text": "Just continue to stack days, obviously stack good reps. We're excited. It's the journey of a season. You go through a lot of ups and downs and we're just looking forward to continue to get better."
+        }
+      ],
+      "start_seconds": 51,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Collin Gillespie on the Suns approach heading into the Lakers game: Just continue to stack days, obviously stack good reps. We are excited. It is the journey of a season.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Collin Gillespie describes the team mindset heading into their upcoming game against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "xdckmqdAuuc",
+  "url": "https://www.youtube.com/watch?v=xdckmqdAuuc",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-13T05:08:21Z",
+  "duration_seconds": 78,
+  "processed_at": "2026-11-13T05:19:44Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

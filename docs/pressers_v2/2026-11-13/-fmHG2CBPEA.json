@@ -1,0 +1,276 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.12.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:03",
+      "summary_phrase": "Nick Nurse on the team's struggles with open three-point shooting",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I get tough to watch wide open three after wide open three not going in",
+      "quote": "This is at least the second time this has happened where we come down and get a whole bunch of wide open threes and nobody makes one. Then they come in and break the seal on the basket and then we start making a few more across the board. That is huge. I think Joel got it started. Both of them, I guess, right at the same time were alternating. That sparked us energy-wise. It gets tough for me to watch wide open three after wide open three not going in. It gets a little energy-draining. So it was a huge lift from that standpoint.",
+      "verbatim_original_language": "",
+      "start_seconds": 3,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Nick Nurse admits watching his team miss wide open threes is energy draining for him on the sidelines",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nick Nurse discusses the team's struggles with open three-point shooting and how Joel Embiid helped spark their energy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:08",
+      "summary_phrase": "Nick Nurse on the importance of bench production during back-to-back games",
+      "names_mentioned": [],
+      "excerpt": "somebody is going to have to pick up those minutes and for the most part we were able",
+      "quote": "It helps from a number of standpoints. You are down somebody, so somebody is going to have to pick up those minutes and for the most part we were able to keep the minute targets where we wanted them. That was because those guys got to play mid-twenties. That is good. They took extended runs because they were playing well and that keeps the other guys in level territory.",
+      "verbatim_original_language": "",
+      "start_seconds": 68,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Nick Nurse on managing rotation minutes during a back to back set",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse explains the benefits of bench production and managing player minutes during a back-to-back schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:40",
+      "summary_phrase": "Nick Nurse on Joel Embiid's improved movement and rim protection",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "when he is driving the ball he is feeling pretty good",
+      "quote": "Again, this is a really big positive. You heard me say this early in the season, he is just moving better. I am not sure that was the case for a couple games here recently and it is nice to see the movement spark come back. When he is driving the ball, he is feeling pretty good. He came over and blocked a shot and then he started getting just enough rim protection to detour a few shots and those turn into off-the-front-of-the-rim misses because they change the angle and usually those were out the other way pretty quickly.",
+      "verbatim_original_language": "",
+      "start_seconds": 100,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Nick Nurse says it is a big positive to see Joel Embiid moving better and regaining his rim protection ability",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse comments on Joel Embiid's improved movement and defensive impact on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:48",
+      "summary_phrase": "Nick Nurse on Tyrese Maxey's playmaking and aggressive paint attacks",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "LeBron James"
+      ],
+      "excerpt": "he made some really decisive moves in the open floor",
+      "quote": "Again, this is the second time he has done this as well, when we are down somebody, he just comes out a little bit more lively and assertive. I thought again he came out and made some really decisive moves in the open floor, not necessarily break situations, but the flow is still going and he is punching through. He kicked out a few of those and even on some of the half-court sets, he attacked aggressively to the paint and that is where some of those assists were coming from. He did come with an extra pop and he has done that a couple times now this year.",
+      "verbatim_original_language": "",
+      "start_seconds": 168,
+      "end_seconds": 210,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Nick Nurse praises Tyrese Maxey for being more lively and assertive when the team is shorthanded",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse praises Tyrese Maxey for his aggressive playmaking and ability to attack the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nick Nurse",
+      "timestamp": "03:54",
+      "summary_phrase": "Nick Nurse on the team's need for rest after a busy schedule",
+      "names_mentioned": [],
+      "excerpt": "we are looking forward to the day off tomorrow",
+      "quote": "First of all, we are looking forward to the day off tomorrow. I know they are to have a full day off away from everything tomorrow, much needed. It has been a little sporadic in play, but I think probably that some of that should be expected and accepted as it is still very early. For the most part, you have to be fairly happy where you are sitting at least on the knowledge part. We are seeing a ton of stuff that we need to polish up and shine up.",
+      "verbatim_original_language": "",
+      "start_seconds": 234,
+      "end_seconds": 269,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Nick Nurse says the team is looking forward to a much needed day off tomorrow",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the team's need for a day off and his assessment of their early-season progress.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nick Nurse",
+      "timestamp": "06:11",
+      "summary_phrase": "Nick Nurse on the team's slow starts and the need for consistency",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I just want the players to play well",
+      "quote": "My main thoughts at the start of this when it was going, I just want the players to play well. I think a couple of them were trying to work their way into some kind of rhythm or shake something off from the last game. That is the part you hope changes more than anything. You want them to snap out of it. If Joe kind of snapping out of it and doing stuff, that is more what I am probably rooting for because it is more of a big picture over the course of a season thing.",
+      "verbatim_original_language": "",
+      "start_seconds": 371,
+      "end_seconds": 409,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nick Nurse on the team needing to find consistency and snap out of slow starts",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses his desire for players to find their rhythm and snap out of slow starts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nick Nurse",
+      "timestamp": "07:37",
+      "summary_phrase": "Nick Nurse on Joel Embiid's knee injury scare",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I thought just from what I could see from where I was that it might have been something serious",
+      "quote": "I thought just from what I could see from where I was that it might have been something serious because I thought he was holding his knee, which could be anything fairly serious. But I guess he just knocked knees and it was very painful for a bit and they checked him out and he was fine. But I was like, he is not hobbling on an ankle or reaching to his ankle, he is grabbing his knee and that always gets you really nervous.",
+      "verbatim_original_language": "",
+      "start_seconds": 457,
+      "end_seconds": 490,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 5,
+      "social_post": "Nick Nurse admits he was nervous when he saw Joel Embiid grabbing his knee during the game",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Nick Nurse addresses a knee injury scare involving Joel Embiid during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Nick Nurse",
+      "timestamp": "08:28",
+      "summary_phrase": "Nick Nurse on Tyrese Maxey and Tyrese Haliburton's rim attacks",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "we certainly have been viewing a lot of spacing improvement stuff",
+      "quote": "We certainly have been viewing a lot of spacing improvement stuff and repping it to the best we can in a busy schedule. I touched on it earlier, that was one of our top improvement areas we needed to get to. That certainly was the case tonight and just being a little bit more assertive when there is the gap. The gap is there and it maybe does not look super inviting, but it is still inviting and you still got to kind of punch through it and I think they were doing that a little better tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 508,
+      "end_seconds": 546,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Nick Nurse on the importance of spacing and being assertive when attacking gaps in the defense",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey",
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "PHI",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the team's focus on spacing and aggressive rim attacks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "-fmHG2CBPEA",
+  "url": "https://www.youtube.com/watch?v=-fmHG2CBPEA",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-13T05:18:42Z",
+  "duration_seconds": 574,
+  "processed_at": "2026-11-13T05:19:42Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

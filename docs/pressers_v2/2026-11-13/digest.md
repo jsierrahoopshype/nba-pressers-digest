@@ -2,7 +2,59 @@
 
 # Best of the best
 
-**1. Terance Mann — "Just come out with more urgency, more energy, more fight." — Terance Mann on the need for more urgency and effort** [04:28](https://www.youtube.com/watch?v=NP9hYeq4kMw&t=268s)
+**1. Tyrese Maxey — "I knew that he didn't twist it or anything. I knew it was like a knee-to-knee." — Tyrese Maxey discusses Joel Embiid's knee injury** [01:09](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=69s)
+
+Tyrese Maxey: "I knew that he didn't twist it or anything. I knew it was like a knee-to-knee. So I wasn't too worried because that was just a contusion. He kept saying, 'I just got kneed.' That still hurts though."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=69s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=69s)
+
+From: [Philadelphia 76ers Postgame Media Availability 🎙️ \| Tyrese Maxey \| 11.12.26](https://www.youtube.com/watch?v=mqjxL7ibcfg) · *Philadelphia 76ers*
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=69&q=5) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=69&q=5&slack=1)</small>
+
+**2. Nick Nurse — "I thought just from what I could see from where I was that it might have been something serious" — Nick Nurse on Joel Embiid's knee injury scare** [07:37](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=457s)
+
+Nick Nurse: "I thought just from what I could see from where I was that it might have been something serious because I thought he was holding his knee, which could be anything fairly serious. But I guess he just knocked knees and it was very painful for a bit and they checked him out and he was fine. But I was like, he is not hobbling on an ankle or reaching to his ankle, he is grabbing his knee and that always gets you really nervous."
+
+[https://www.youtube.com/watch?v=-fmHG2CBPEA&t=457s](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=457s)
+
+From: [Philadelphia 76ers Postgame Media Availability 🎙️ \| Coach Nurse \| 11.12.26](https://www.youtube.com/watch?v=-fmHG2CBPEA) · *Philadelphia 76ers*
+
+<small>[Clip it](presserclips://clip?v=-fmHG2CBPEA&t=457&q=7) · [Send to Slack](presserclips://clip?v=-fmHG2CBPEA&t=457&q=7&slack=1)</small>
+
+**3. Jaylen Brown — "Tyrese Maxey is a dog. He was aggressive tonight, he looked good tonight on both ends." — Jaylen Brown praises Tyrese Maxey's aggressive play on both ends** [00:26](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=26s)
+
+Jaylen Brown: "**Tyrese Maxey** is a dog. He was aggressive tonight, he looked good tonight on both ends, on offense and defense. You know, Tyrese is just going to continue to accelerate his game and it's a joy to watch."
+
+[https://www.youtube.com/watch?v=i3TcvvNLxn8&t=26s](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=26s)
+
+From: [Philadelphia 76ers Postgame Media Availability 🎙️ \| Jaylen Brown \| 11.12.26](https://www.youtube.com/watch?v=i3TcvvNLxn8) · *Philadelphia 76ers*
+
+<small>[Clip it](presserclips://clip?v=i3TcvvNLxn8&t=26&q=2) · [Send to Slack](presserclips://clip?v=i3TcvvNLxn8&t=26&q=2&slack=1)</small>
+
+**4. Grant Williams — "Our team is doing everything possible that takes to win." — Grant Williams on team competitiveness and reducing turnovers** [00:34](https://www.youtube.com/watch?v=-JmLHY5Ontg&t=34s)
+
+Grant Williams: "Our team is doing everything possible that takes to win. You hold a team like that, to off wings offense to under 100 points, it's one of those where you're competing to the maximum. We just got to tighten up on things that we can control. The turnovers, 27 turnovers, it's something that you're hard to come back from when they get 20 more shots than you do. Just making sure that we're prioritizing the right things when it comes to free throws and coming in matchups and just being more truly focused in on the things that we can control."
+
+[https://www.youtube.com/watch?v=-JmLHY5Ontg&t=34s](https://www.youtube.com/watch?v=-JmLHY5Ontg&t=34s)
+
+From: [Hornets at Suns: Grant Williams Postgame Media Availability \| 11/12/2026](https://www.youtube.com/watch?v=-JmLHY5Ontg) · *Charlotte Hornets*
+
+<small>[Clip it](presserclips://clip?v=-JmLHY5Ontg&t=34&q=2) · [Send to Slack](presserclips://clip?v=-JmLHY5Ontg&t=34&q=2&slack=1)</small>
+
+**5. Jonathan Kuminga — "I just got to learn how to set the screen with different type of angles" — Jonathan Kuminga on handling defensive pressure in pick-and-roll** [01:11](https://www.youtube.com/watch?v=4cotZeJFXG8&t=71s)
+
+**Alan Horton:** "It seems like you and LaMelo are developing a nice rhythm on that pick-and-roll. You come up there and spring back off that pick-and-roll and you catch that kind of at the free-throw line with a lot of space to work with."
+
+**Jonathan Kuminga:** "I think it's going to be a lot of pressure, as you guys see. They are going to try to double LaMelo, they are going to try to put the best defender on LaMelo, so I just got to learn how to set the screen with different type of angles, even when the big comes back. Wherever I got to set the screen for, I just got to learn how to pick the angles to set the right screen so I can get the ball in the pocket and make plays from there."
+
+[https://www.youtube.com/watch?v=4cotZeJFXG8&t=71s](https://www.youtube.com/watch?v=4cotZeJFXG8&t=71s)
+
+From: [Jonathan Kuminga Postgame Interview With Alan Horton \| 11.12.26](https://www.youtube.com/watch?v=4cotZeJFXG8) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=4cotZeJFXG8&t=71&q=3) · [Send to Slack](presserclips://clip?v=4cotZeJFXG8&t=71&q=3&slack=1)</small>
+
+**6. Terance Mann — "Just come out with more urgency, more energy, more fight." — Terance Mann on the need for more urgency and effort** [04:28](https://www.youtube.com/watch?v=NP9hYeq4kMw&t=268s)
 
 Terance Mann: "Just come out with more urgency, more energy, more fight. You know the coaches, they do a good job with the game plans. Yeah, we have to execute the game plan, but it also comes with effort, and I think we just lacked effort last game."
 
@@ -12,27 +64,169 @@ From: [Media Availability (11/12/26) \| LA Clippers](https://www.youtube.com/wat
 
 <small>[Clip it](presserclips://clip?v=NP9hYeq4kMw&t=268&q=6) · [Send to Slack](presserclips://clip?v=NP9hYeq4kMw&t=268&q=6&slack=1)</small>
 
-**2. Bones Hyland — "Honestly just getting back in transition, clean up the turnovers, see the early easy pass." — Bones Hyland on cleaning up turnovers and transition defense** [00:18](https://www.youtube.com/watch?v=LV1SmElzhD4&t=18s)
+**7. Immanuel Quickley — "it's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back" — Immanuel Quickley on the need for team-wide effort without Scottie Barnes and Kawhi Leonard** [00:50](https://www.youtube.com/watch?v=lNJBW32daqs&t=50s)
 
-**Unidentified reporter:** "In the first half you guys were turning the ball over, it led to some points. You cleaned it up in the second half. What was the message at halftime to clean that up?"
+Immanuel Quickley: "Not right now, we need more. It's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back, we got to do it as a team. You can't win as individuals. It's not an individual sport. It's not swimming, not boxing, so you need everybody."
 
-**Bones Hyland:** "Honestly just getting back in transition, clean up the turnovers, see the early easy pass. I think we did that at a high level tonight and it translated to the win, so I'm proud of our guys. We got to keep it rolling."
+[https://www.youtube.com/watch?v=lNJBW32daqs&t=50s](https://www.youtube.com/watch?v=lNJBW32daqs&t=50s)
 
-[https://www.youtube.com/watch?v=LV1SmElzhD4&t=18s](https://www.youtube.com/watch?v=LV1SmElzhD4&t=18s)
+From: [Immanuel Quickley \| Post Game at Philadelphia 76ers \| November 12, 2026](https://www.youtube.com/watch?v=lNJBW32daqs) · *Toronto Raptors*
 
-From: [Bones Hyland Postgame On Court Interview Vs The Dallas Mavericks \| 11.12.26](https://www.youtube.com/watch?v=LV1SmElzhD4) · *Minnesota Timberwolves*
+<small>[Clip it](presserclips://clip?v=lNJBW32daqs&t=50&q=3) · [Send to Slack](presserclips://clip?v=lNJBW32daqs&t=50&q=3&slack=1)</small>
 
-<small>[Clip it](presserclips://clip?v=LV1SmElzhD4&t=18&q=2) · [Send to Slack](presserclips://clip?v=LV1SmElzhD4&t=18&q=2&slack=1)</small>
+---
 
-**3. Amir Coffey — "You can't go out there and just because they down a few players, you can't go out there." — Amir Coffey on the importance of not underestimating the Thunder** [08:21](https://www.youtube.com/watch?v=NP9hYeq4kMw&t=501s)
+## Hornets at Suns: Grant Williams Postgame Media Availability | 11/12/2026 — *Charlotte Hornets*
 
-Amir Coffey: "At the end of the day, they're a team. All the guys is in the league for a reason. They got the talent to be here. So you can't go out there and just because they down a few players, you can't go out there and think it's it's going to be easy game because those are the games that you get blown out the water. So we got to go in there with the with the mindset that it's their best version of the Oklahoma City Thunder we're going to play."
+Source: [https://www.youtube.com/watch?v=-JmLHY5Ontg](https://www.youtube.com/watch?v=-JmLHY5Ontg)
 
-[https://www.youtube.com/watch?v=NP9hYeq4kMw&t=501s](https://www.youtube.com/watch?v=NP9hYeq4kMw&t=501s)
+_Speakers identified: Grant Williams_
 
-From: [Media Availability (11/12/26) \| LA Clippers](https://www.youtube.com/watch?v=NP9hYeq4kMw) · *LA Clippers*
+**1. Grant Williams — "No issues when it comes to the maintenance of the injury and things like that." — Grant Williams on returning from injury and team performance** [00:01](https://www.youtube.com/watch?v=-JmLHY5Ontg&t=1s)
 
-<small>[Clip it](presserclips://clip?v=NP9hYeq4kMw&t=501&q=11) · [Send to Slack](presserclips://clip?v=NP9hYeq4kMw&t=501&q=11&slack=1)</small>
+Grant Williams: "No issues when it comes to the maintenance of the injury and things like that. You just want to play more, but that's how return from injury comes. I think that we did a lot of great things tonight as a group. I tried to just add to that. We also got things that we got to clean up, whether it's executing coverages and out of timeouts, things of that nature. Just being more focused and attentive. I could have been more vocal in that capacity."
+
+[https://www.youtube.com/watch?v=-JmLHY5Ontg&t=1s](https://www.youtube.com/watch?v=-JmLHY5Ontg&t=1s)
+
+<small>[Clip it](presserclips://clip?v=-JmLHY5Ontg&t=1&q=1) · [Send to Slack](presserclips://clip?v=-JmLHY5Ontg&t=1&q=1&slack=1)</small>
+
+**2. Grant Williams — "Our team is doing everything possible that takes to win." — Grant Williams on team competitiveness and reducing turnovers** [00:34](https://www.youtube.com/watch?v=-JmLHY5Ontg&t=34s)
+
+Grant Williams: "Our team is doing everything possible that takes to win. You hold a team like that, to off wings offense to under 100 points, it's one of those where you're competing to the maximum. We just got to tighten up on things that we can control. The turnovers, 27 turnovers, it's something that you're hard to come back from when they get 20 more shots than you do. Just making sure that we're prioritizing the right things when it comes to free throws and coming in matchups and just being more truly focused in on the things that we can control."
+
+[https://www.youtube.com/watch?v=-JmLHY5Ontg&t=34s](https://www.youtube.com/watch?v=-JmLHY5Ontg&t=34s)
+
+<small>[Clip it](presserclips://clip?v=-JmLHY5Ontg&t=34&q=2) · [Send to Slack](presserclips://clip?v=-JmLHY5Ontg&t=34&q=2&slack=1)</small>
+
+---
+
+## Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.12.26 — *Philadelphia 76ers*
+
+Source: [https://www.youtube.com/watch?v=-fmHG2CBPEA](https://www.youtube.com/watch?v=-fmHG2CBPEA)
+
+_Speakers identified: Nick Nurse_
+
+**1. Nick Nurse — "I get tough to watch wide open three after wide open three not going in" — Nick Nurse on the team's struggles with open three-point shooting** [00:03](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=3s)
+
+Nick Nurse: "This is at least the second time this has happened where we come down and get a whole bunch of wide open threes and nobody makes one. Then they come in and break the seal on the basket and then we start making a few more across the board. That is huge. I think Joel got it started. Both of them, I guess, right at the same time were alternating. That sparked us energy-wise. It gets tough for me to watch wide open three after wide open three not going in. It gets a little energy-draining. So it was a huge lift from that standpoint."
+
+[https://www.youtube.com/watch?v=-fmHG2CBPEA&t=3s](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=3s)
+
+<small>[Clip it](presserclips://clip?v=-fmHG2CBPEA&t=3&q=1) · [Send to Slack](presserclips://clip?v=-fmHG2CBPEA&t=3&q=1&slack=1)</small>
+
+**2. Nick Nurse — "somebody is going to have to pick up those minutes and for the most part we were able" — Nick Nurse on the importance of bench production during back-to-back games** [01:08](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=68s)
+
+Nick Nurse: "It helps from a number of standpoints. You are down somebody, so somebody is going to have to pick up those minutes and for the most part we were able to keep the minute targets where we wanted them. That was because those guys got to play mid-twenties. That is good. They took extended runs because they were playing well and that keeps the other guys in level territory."
+
+[https://www.youtube.com/watch?v=-fmHG2CBPEA&t=68s](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=68s)
+
+<small>[Clip it](presserclips://clip?v=-fmHG2CBPEA&t=68&q=2) · [Send to Slack](presserclips://clip?v=-fmHG2CBPEA&t=68&q=2&slack=1)</small>
+
+**3. Nick Nurse — "when he is driving the ball he is feeling pretty good" — Nick Nurse on Joel Embiid's improved movement and rim protection** [01:40](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=100s)
+
+Nick Nurse: "Again, this is a really big positive. You heard me say this early in the season, he is just moving better. I am not sure that was the case for a couple games here recently and it is nice to see the movement spark come back. When he is driving the ball, he is feeling pretty good. He came over and blocked a shot and then he started getting just enough rim protection to detour a few shots and those turn into off-the-front-of-the-rim misses because they change the angle and usually those were out the other way pretty quickly."
+
+[https://www.youtube.com/watch?v=-fmHG2CBPEA&t=100s](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=100s)
+
+<small>[Clip it](presserclips://clip?v=-fmHG2CBPEA&t=100&q=3) · [Send to Slack](presserclips://clip?v=-fmHG2CBPEA&t=100&q=3&slack=1)</small>
+
+**4. Nick Nurse — "he made some really decisive moves in the open floor" — Nick Nurse on Tyrese Maxey's playmaking and aggressive paint attacks** [02:48](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=168s)
+
+Nick Nurse: "Again, this is the second time he has done this as well, when we are down somebody, he just comes out a little bit more lively and assertive. I thought again he came out and made some really decisive moves in the open floor, not necessarily break situations, but the flow is still going and he is punching through. He kicked out a few of those and even on some of the half-court sets, he attacked aggressively to the paint and that is where some of those assists were coming from. He did come with an extra pop and he has done that a couple times now this year."
+
+[https://www.youtube.com/watch?v=-fmHG2CBPEA&t=168s](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=168s)
+
+<small>[Clip it](presserclips://clip?v=-fmHG2CBPEA&t=168&q=4) · [Send to Slack](presserclips://clip?v=-fmHG2CBPEA&t=168&q=4&slack=1)</small>
+
+**5. Nick Nurse — "we are looking forward to the day off tomorrow" — Nick Nurse on the team's need for rest after a busy schedule** [03:54](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=234s)
+
+Nick Nurse: "First of all, we are looking forward to the day off tomorrow. I know they are to have a full day off away from everything tomorrow, much needed. It has been a little sporadic in play, but I think probably that some of that should be expected and accepted as it is still very early. For the most part, you have to be fairly happy where you are sitting at least on the knowledge part. We are seeing a ton of stuff that we need to polish up and shine up."
+
+[https://www.youtube.com/watch?v=-fmHG2CBPEA&t=234s](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=234s)
+
+<small>[Clip it](presserclips://clip?v=-fmHG2CBPEA&t=234&q=5) · [Send to Slack](presserclips://clip?v=-fmHG2CBPEA&t=234&q=5&slack=1)</small>
+
+**6. Nick Nurse — "I just want the players to play well" — Nick Nurse on the team's slow starts and the need for consistency** [06:11](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=371s)
+
+Nick Nurse: "My main thoughts at the start of this when it was going, I just want the players to play well. I think a couple of them were trying to work their way into some kind of rhythm or shake something off from the last game. That is the part you hope changes more than anything. You want them to snap out of it. If Joe kind of snapping out of it and doing stuff, that is more what I am probably rooting for because it is more of a big picture over the course of a season thing."
+
+[https://www.youtube.com/watch?v=-fmHG2CBPEA&t=371s](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=371s)
+
+<small>[Clip it](presserclips://clip?v=-fmHG2CBPEA&t=371&q=6) · [Send to Slack](presserclips://clip?v=-fmHG2CBPEA&t=371&q=6&slack=1)</small>
+
+**7. Nick Nurse — "I thought just from what I could see from where I was that it might have been something serious" — Nick Nurse on Joel Embiid's knee injury scare** [07:37](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=457s)
+
+Nick Nurse: "I thought just from what I could see from where I was that it might have been something serious because I thought he was holding his knee, which could be anything fairly serious. But I guess he just knocked knees and it was very painful for a bit and they checked him out and he was fine. But I was like, he is not hobbling on an ankle or reaching to his ankle, he is grabbing his knee and that always gets you really nervous."
+
+[https://www.youtube.com/watch?v=-fmHG2CBPEA&t=457s](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=457s)
+
+<small>[Clip it](presserclips://clip?v=-fmHG2CBPEA&t=457&q=7) · [Send to Slack](presserclips://clip?v=-fmHG2CBPEA&t=457&q=7&slack=1)</small>
+
+**8. Nick Nurse — "we certainly have been viewing a lot of spacing improvement stuff" — Nick Nurse on Tyrese Maxey and Tyrese Haliburton's rim attacks** [08:28](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=508s)
+
+Nick Nurse: "We certainly have been viewing a lot of spacing improvement stuff and repping it to the best we can in a busy schedule. I touched on it earlier, that was one of our top improvement areas we needed to get to. That certainly was the case tonight and just being a little bit more assertive when there is the gap. The gap is there and it maybe does not look super inviting, but it is still inviting and you still got to kind of punch through it and I think they were doing that a little better tonight."
+
+[https://www.youtube.com/watch?v=-fmHG2CBPEA&t=508s](https://www.youtube.com/watch?v=-fmHG2CBPEA&t=508s)
+
+<small>[Clip it](presserclips://clip?v=-fmHG2CBPEA&t=508&q=8) · [Send to Slack](presserclips://clip?v=-fmHG2CBPEA&t=508&q=8&slack=1)</small>
+
+---
+
+## Jonathan Kuminga Postgame Interview With Alan Horton | 11.12.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=4cotZeJFXG8](https://www.youtube.com/watch?v=4cotZeJFXG8)
+
+_Speakers identified: Alan Horton, Jonathan Kuminga_
+
+**1. Jonathan Kuminga — "we all came out here playing hard we all played together" — Jonathan Kuminga on team performance and areas for improvement** [00:15](https://www.youtube.com/watch?v=4cotZeJFXG8&t=15s)
+
+**Unidentified reporter:** "How did that one feel tonight?"
+
+**Jonathan Kuminga:** "It felt great. We all came out here playing hard, we all played together, and obviously we got this win. There is some stuff we got to correct, you know, like turning the ball over, fouling, but everything was well, so I'm happy for the guys. I'm happy for all of us."
+
+[https://www.youtube.com/watch?v=4cotZeJFXG8&t=15s](https://www.youtube.com/watch?v=4cotZeJFXG8&t=15s)
+
+<small>[Clip it](presserclips://clip?v=4cotZeJFXG8&t=15&q=1) · [Send to Slack](presserclips://clip?v=4cotZeJFXG8&t=15&q=1&slack=1)</small>
+
+**2. Jonathan Kuminga — "it was just a play and it ended up the ball ended up in my hands" — Jonathan Kuminga on pick-and-roll chemistry with LaMelo Ball** [00:47](https://www.youtube.com/watch?v=4cotZeJFXG8&t=47s)
+
+**Unidentified reporter:** "They got you involved right on the first play of the game. Was that called for you?"
+
+**Jonathan Kuminga:** "It was just a play and it ended up the ball ended up in my hands so I had to make a play somehow. But you know, we were all involved in it."
+
+[https://www.youtube.com/watch?v=4cotZeJFXG8&t=47s](https://www.youtube.com/watch?v=4cotZeJFXG8&t=47s)
+
+<small>[Clip it](presserclips://clip?v=4cotZeJFXG8&t=47&q=2) · [Send to Slack](presserclips://clip?v=4cotZeJFXG8&t=47&q=2&slack=1)</small>
+
+**3. Jonathan Kuminga — "I just got to learn how to set the screen with different type of angles" — Jonathan Kuminga on handling defensive pressure in pick-and-roll** [01:11](https://www.youtube.com/watch?v=4cotZeJFXG8&t=71s)
+
+**Alan Horton:** "It seems like you and LaMelo are developing a nice rhythm on that pick-and-roll. You come up there and spring back off that pick-and-roll and you catch that kind of at the free-throw line with a lot of space to work with."
+
+**Jonathan Kuminga:** "I think it's going to be a lot of pressure, as you guys see. They are going to try to double LaMelo, they are going to try to put the best defender on LaMelo, so I just got to learn how to set the screen with different type of angles, even when the big comes back. Wherever I got to set the screen for, I just got to learn how to pick the angles to set the right screen so I can get the ball in the pocket and make plays from there."
+
+[https://www.youtube.com/watch?v=4cotZeJFXG8&t=71s](https://www.youtube.com/watch?v=4cotZeJFXG8&t=71s)
+
+<small>[Clip it](presserclips://clip?v=4cotZeJFXG8&t=71&q=3) · [Send to Slack](presserclips://clip?v=4cotZeJFXG8&t=71&q=3&slack=1)</small>
+
+**4. Jonathan Kuminga — "I just let the game comes to me I just try to make as many plays as I can" — Jonathan Kuminga on his approach to contributing beyond scoring** [01:44](https://www.youtube.com/watch?v=4cotZeJFXG8&t=104s)
+
+**Unidentified reporter:** "It feels like through these first 12 games of the year you've been able to showcase what you're able to bring to a game. Do you feel like that's been the case?"
+
+**Jonathan Kuminga:** "I just let the game comes to me. I just try to make as many plays as I can and just being involved in the game somehow, not just scoring, defensively wise, and you know, just try to do my best so I could help my teammates. I could give them space and help them be comfortable with me on the floor and try to win as many games as we can."
+
+[https://www.youtube.com/watch?v=4cotZeJFXG8&t=104s](https://www.youtube.com/watch?v=4cotZeJFXG8&t=104s)
+
+<small>[Clip it](presserclips://clip?v=4cotZeJFXG8&t=104&q=4) · [Send to Slack](presserclips://clip?v=4cotZeJFXG8&t=104&q=4&slack=1)</small>
+
+**5. Jonathan Kuminga — "we can't be so happy about those wins we just got to keep winning as much as we can" — Jonathan Kuminga on maintaining focus during the winning streak** [02:15](https://www.youtube.com/watch?v=4cotZeJFXG8&t=135s)
+
+**Unidentified reporter:** "What are your thoughts on a nine and three start to the season and you guys have won now five in a row?"
+
+**Jonathan Kuminga:** "It feels good, but we just can't be so happy about those wins. We just got to keep winning as much as we can and I think the main focus every single day it's been on us winning, no matter what. I just try as much as I can, as much as we can to win every game until, you know, everything comes back and comes back and help us."
+
+[https://www.youtube.com/watch?v=4cotZeJFXG8&t=135s](https://www.youtube.com/watch?v=4cotZeJFXG8&t=135s)
+
+<small>[Clip it](presserclips://clip?v=4cotZeJFXG8&t=135&q=5) · [Send to Slack](presserclips://clip?v=4cotZeJFXG8&t=135&q=5&slack=1)</small>
 
 ---
 
@@ -175,3 +369,337 @@ Amir Coffey: "It should be our our identity to play one way regardless of how ma
 [https://www.youtube.com/watch?v=NP9hYeq4kMw&t=541s](https://www.youtube.com/watch?v=NP9hYeq4kMw&t=541s)
 
 <small>[Clip it](presserclips://clip?v=NP9hYeq4kMw&t=541&q=12) · [Send to Slack](presserclips://clip?v=NP9hYeq4kMw&t=541&q=12&slack=1)</small>
+
+---
+
+## Darko Rajakovic | Post Game at Philadelphia 76ers | November 12, 2026 — *Toronto Raptors*
+
+Source: [https://www.youtube.com/watch?v=ZnEYOhUFYmQ](https://www.youtube.com/watch?v=ZnEYOhUFYmQ)
+
+_Speakers identified: Darko Rajakovic_
+
+**1. Darko Rajakovic — "I am really satisfied with the effort that our team put together." — Darko Rajakovic on the team's effort against the 76ers** [00:11](https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=11s)
+
+Darko Rajakovic: "We played against a really good team. I am really satisfied with the effort that our team put together. A lot of young guys getting a lot of opportunities, a lot of minutes, playing against elite players out there. I think this was a really good game for us. I think we stayed in the game all the way down to the fourth quarter. We had a fight, we had energy. We were trying to figure out how to take them. We were trying to figure out how to share the ball. We missed some layups, we missed some wide-open shots, but I am really happy with the all looks that we created tonight."
+
+[https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=11s](https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=11s)
+
+<small>[Clip it](presserclips://clip?v=ZnEYOhUFYmQ&t=11&q=1) · [Send to Slack](presserclips://clip?v=ZnEYOhUFYmQ&t=11&q=1&slack=1)</small>
+
+**2. Darko Rajakovic — "When Scottie and Kawhi they're back, we need this type of performances from those two guys." — Importance of RJ Barrett and Immanuel Quickley's performance** [01:00](https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=60s)
+
+Darko Rajakovic: "It is very important, especially when you put it in perspective when key players come back. When Scottie and Kawhi they're back, we need this type of performances from those two guys. And I think it raises the level for everybody else. Obviously right now everybody is playing outside of their positions, playing a lot more minutes than when we have full roster. But I think this is amazing for us. I think this is a great growing opportunities for us. I think in all of those games that were so, so close, I think all of this is going to make us just better and stronger."
+
+[https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=60s](https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=60s)
+
+<small>[Clip it](presserclips://clip?v=ZnEYOhUFYmQ&t=60&q=2) · [Send to Slack](presserclips://clip?v=ZnEYOhUFYmQ&t=60&q=2&slack=1)</small>
+
+**3. Darko Rajakovic — "Those two guys are competitors, they're winners, they're going to do everything whatever it takes." — Darko Rajakovic on RJ Barrett and Immanuel Quickley's resilience** [01:41](https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=101s)
+
+Darko Rajakovic: "We talked about it and they responded. Those two guys are competitors, they're winners, they're going to do everything whatever it takes to help the team and they bounce back tonight."
+
+[https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=101s](https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=101s)
+
+<small>[Clip it](presserclips://clip?v=ZnEYOhUFYmQ&t=101&q=3) · [Send to Slack](presserclips://clip?v=ZnEYOhUFYmQ&t=101&q=3&slack=1)</small>
+
+**4. Darko Rajakovic — "When all of those guys when they're getting minutes against all-star caliber players, I think there is a lot of growth." — Development of young players through increased playing time** [02:07](https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=127s)
+
+Darko Rajakovic: "When all of those guys when they're getting minutes against all-star caliber players, I think there is a lot of growth right there in that. And the film that provided us, information that provides us what we need to focus on and to grow, I think it's super important. Our goal is with all of those guys to make them better week by week and I think we're on that path now."
+
+[https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=127s](https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=127s)
+
+<small>[Clip it](presserclips://clip?v=ZnEYOhUFYmQ&t=127&q=4) · [Send to Slack](presserclips://clip?v=ZnEYOhUFYmQ&t=127&q=4&slack=1)</small>
+
+**5. Darko Rajakovic — "Looks like every time that we turn the ball over it ends up being easy layup or a three." — Addressing the team's high turnover rate** [02:41](https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=161s)
+
+Darko Rajakovic: "That is a very good point there. Looks like every time that we turn the ball over it ends up being easy layup or a three. So that's why the stressing importance of those is super, super important for us."
+
+[https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=161s](https://www.youtube.com/watch?v=ZnEYOhUFYmQ&t=161s)
+
+<small>[Clip it](presserclips://clip?v=ZnEYOhUFYmQ&t=161&q=5) · [Send to Slack](presserclips://clip?v=ZnEYOhUFYmQ&t=161&q=5&slack=1)</small>
+
+---
+
+## Philadelphia 76ers Postgame Media Availability 🎙️ | Jaylen Brown | 11.12.26 — *Philadelphia 76ers*
+
+Source: [https://www.youtube.com/watch?v=i3TcvvNLxn8](https://www.youtube.com/watch?v=i3TcvvNLxn8)
+
+_Speakers identified: Jaylen Brown_
+
+**1. Jaylen Brown — "we had some more movement. We was able to get some easy baskets instead of everything being so hard." — Jaylen Brown on the 76ers' improved offensive movement and execution** [00:00](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=0s)
+
+Jaylen Brown: "We had some more movement. We was able to get some easy baskets instead of everything being so hard. And I think that was key for us, that we can utilize the talent that we have. Easy opportunities for guys, I think that's a key emphasis for us moving forward."
+
+[https://www.youtube.com/watch?v=i3TcvvNLxn8&t=0s](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=0s)
+
+<small>[Clip it](presserclips://clip?v=i3TcvvNLxn8&t=0&q=1) · [Send to Slack](presserclips://clip?v=i3TcvvNLxn8&t=0&q=1&slack=1)</small>
+
+**2. Jaylen Brown — "Tyrese Maxey is a dog. He was aggressive tonight, he looked good tonight on both ends." — Jaylen Brown praises Tyrese Maxey's aggressive play on both ends** [00:26](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=26s)
+
+Jaylen Brown: "**Tyrese Maxey** is a dog. He was aggressive tonight, he looked good tonight on both ends, on offense and defense. You know, Tyrese is just going to continue to accelerate his game and it's a joy to watch."
+
+[https://www.youtube.com/watch?v=i3TcvvNLxn8&t=26s](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=26s)
+
+<small>[Clip it](presserclips://clip?v=i3TcvvNLxn8&t=26&q=2) · [Send to Slack](presserclips://clip?v=i3TcvvNLxn8&t=26&q=2&slack=1)</small>
+
+**3. Jaylen Brown — "We got to take the early easy available shots because they just opens up the floor for everybody else." — Jaylen Brown on the importance of taking available open shots** [00:50](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=50s)
+
+Jaylen Brown: "We got to take the early easy available shots because they just opens up the floor for everybody else. So when those guys got it going, it makes my job a little easier too."
+
+[https://www.youtube.com/watch?v=i3TcvvNLxn8&t=50s](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=50s)
+
+<small>[Clip it](presserclips://clip?v=i3TcvvNLxn8&t=50&q=3) · [Send to Slack](presserclips://clip?v=i3TcvvNLxn8&t=50&q=3&slack=1)</small>
+
+**4. Jaylen Brown — "PJ Tucker is a great human being, humanitarian, all about the community, all about giving back." — Jaylen Brown on his close friendship and shared values with PJ Tucker** [01:13](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=73s)
+
+Jaylen Brown: "**PJ Tucker** is a great human being, humanitarian, all about the community, all about giving back to where he's from. So me and him, we like to spend our time thinking about how we can help different parts of the world. So I think that's where our friendship is based, but it's good to see him out there."
+
+[https://www.youtube.com/watch?v=i3TcvvNLxn8&t=73s](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=73s)
+
+<small>[Clip it](presserclips://clip?v=i3TcvvNLxn8&t=73&q=4) · [Send to Slack](presserclips://clip?v=i3TcvvNLxn8&t=73&q=4&slack=1)</small>
+
+**5. Jaylen Brown — "We got like six or seven new guys that are here, so on one foot we just got to figure out the spacing." — Jaylen Brown on the challenge of building chemistry with a new roster** [02:27](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=147s)
+
+Jaylen Brown: "We got like six or seven new guys that are here, so on one foot we just got to figure out the spacing and be disciplined in that. And on another note, sometimes you just got to go out and play. Sometimes I get caught thinking a little bit too much, trying to make sure everybody's in their spots, and you just got to go get a basket because that's what the team needs."
+
+[https://www.youtube.com/watch?v=i3TcvvNLxn8&t=147s](https://www.youtube.com/watch?v=i3TcvvNLxn8&t=147s)
+
+<small>[Clip it](presserclips://clip?v=i3TcvvNLxn8&t=147&q=5) · [Send to Slack](presserclips://clip?v=i3TcvvNLxn8&t=147&q=5&slack=1)</small>
+
+---
+
+## Immanuel Quickley | Post Game at Philadelphia 76ers | November 12, 2026 — *Toronto Raptors*
+
+Source: [https://www.youtube.com/watch?v=lNJBW32daqs](https://www.youtube.com/watch?v=lNJBW32daqs)
+
+_Speakers identified: Immanuel Quickley_
+
+**1. Immanuel Quickley — "it just seemed like defense a little bit kind of slowed up for us, that's who we are" — Immanuel Quickley on Toronto's defensive struggles in the second half** [00:05](https://www.youtube.com/watch?v=lNJBW32daqs&t=5s)
+
+Immanuel Quickley: "I have to go back and watch the film, but it just seemed like defense a little bit kind of slowed up for us, that's who we are. Rebounding, they made a lot of shots, but I have to go back and watch it."
+
+[https://www.youtube.com/watch?v=lNJBW32daqs&t=5s](https://www.youtube.com/watch?v=lNJBW32daqs&t=5s)
+
+<small>[Clip it](presserclips://clip?v=lNJBW32daqs&t=5&q=1) · [Send to Slack](presserclips://clip?v=lNJBW32daqs&t=5&q=1&slack=1)</small>
+
+**2. Immanuel Quickley — "I try to just take it one game at a time. I feel like a lot of shots" — Immanuel Quickley on maintaining aggression despite missing shots** [00:24](https://www.youtube.com/watch?v=lNJBW32daqs&t=24s)
+
+Immanuel Quickley: "I try to just take it one game at a time. I feel like a lot of shots that I missed were shots that I make, so I try to not think about that too much, but yeah, just try to come and be aggressive every single game."
+
+[https://www.youtube.com/watch?v=lNJBW32daqs&t=24s](https://www.youtube.com/watch?v=lNJBW32daqs&t=24s)
+
+<small>[Clip it](presserclips://clip?v=lNJBW32daqs&t=24&q=2) · [Send to Slack](presserclips://clip?v=lNJBW32daqs&t=24&q=2&slack=1)</small>
+
+**3. Immanuel Quickley — "it's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back" — Immanuel Quickley on the need for team-wide effort without Scottie Barnes and Kawhi Leonard** [00:50](https://www.youtube.com/watch?v=lNJBW32daqs&t=50s)
+
+Immanuel Quickley: "Not right now, we need more. It's not just on one person. It's on our whole team. Even when Scottie and Kawhi come back, we got to do it as a team. You can't win as individuals. It's not an individual sport. It's not swimming, not boxing, so you need everybody."
+
+[https://www.youtube.com/watch?v=lNJBW32daqs&t=50s](https://www.youtube.com/watch?v=lNJBW32daqs&t=50s)
+
+<small>[Clip it](presserclips://clip?v=lNJBW32daqs&t=50&q=3) · [Send to Slack](presserclips://clip?v=lNJBW32daqs&t=50&q=3&slack=1)</small>
+
+**4. Immanuel Quickley — "if you do the right step every single day, you eventually see the results" — Immanuel Quickley on the importance of long-term process despite current struggles** [01:14](https://www.youtube.com/watch?v=lNJBW32daqs&t=74s)
+
+Immanuel Quickley: "I think if you do the right step every single day, you eventually see the results. Results aren't always shown immediately, even though we all want it right away. Right now, obviously it's tough because we want to win, but you got to find a way to continue to keep doing the right stuff. You got to find a way to learn."
+
+[https://www.youtube.com/watch?v=lNJBW32daqs&t=74s](https://www.youtube.com/watch?v=lNJBW32daqs&t=74s)
+
+<small>[Clip it](presserclips://clip?v=lNJBW32daqs&t=74&q=4) · [Send to Slack](presserclips://clip?v=lNJBW32daqs&t=74&q=4&slack=1)</small>
+
+---
+
+## Philadelphia 76ers Postgame Media Availability 🎙️ | Tyrese Maxey | 11.12.26 — *Philadelphia 76ers*
+
+Source: [https://www.youtube.com/watch?v=mqjxL7ibcfg](https://www.youtube.com/watch?v=mqjxL7ibcfg)
+
+_Speakers identified: Tyrese Maxey_
+
+**1. Tyrese Maxey — "They were really good. Made shots, played great defense." — Tyrese Maxey praises Kentavious Caldwell-Pope and Eric Gordon's contributions** [00:00](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=0s)
+
+Tyrese Maxey: "They were really good. Made shots, played great defense. **Kentavious Caldwell-Pope**, he has been really steady all season. He has been there every single night. He came off the bench, he started a couple of times, but he has been great for us."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=0s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=0s)
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=0&q=1) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=0&q=1&slack=1)</small>
+
+**2. Tyrese Maxey — "His defense, his communication, and his availability." — Tyrese Maxey highlights Kentavious Caldwell-Pope's defensive and communicative impact** [00:17](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=17s)
+
+Tyrese Maxey: "His defense, his communication, and his availability. He has been there every single night. He came off the bench, he started a couple of times, but he has been great for us."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=17s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=17s)
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=17&q=2) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=17&q=2&slack=1)</small>
+
+**3. Tyrese Maxey — "Our spacing was better tonight and our pace was better tonight." — Tyrese Maxey on team's improved offensive spacing and pace** [00:32](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=32s)
+
+Tyrese Maxey: "Our spacing was better tonight and our pace was better tonight. We played with a little more purpose, a little more pep in our step, which is better for us. When we do that, we are hard to guard, harder to guard."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=32s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=32s)
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=32&q=3) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=32&q=3&slack=1)</small>
+
+**4. Tyrese Maxey — "I think he was aggressive. He didn't think, he was just aggressive." — Tyrese Maxey praises Joel Embiid's aggressive play** [00:51](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=51s)
+
+Tyrese Maxey: "I think he was aggressive. He didn't think, he was just aggressive. He was getting to his mid-range. He was just aggressive and that is good for him."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=51s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=51s)
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=51&q=4) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=51&q=4&slack=1)</small>
+
+**5. Tyrese Maxey — "I knew that he didn't twist it or anything. I knew it was like a knee-to-knee." — Tyrese Maxey discusses Joel Embiid's knee injury** [01:09](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=69s)
+
+Tyrese Maxey: "I knew that he didn't twist it or anything. I knew it was like a knee-to-knee. So I wasn't too worried because that was just a contusion. He kept saying, 'I just got kneed.' That still hurts though."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=69s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=69s)
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=69&q=5) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=69&q=5&slack=1)</small>
+
+**6. Tyrese Maxey — "He is one of our better playmakers and he is really good at just getting downhill." — Tyrese Maxey on De'Anthony Melton's playmaking ability** [01:21](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=81s)
+
+Tyrese Maxey: "He is one of our better playmakers and he is really good at just getting downhill and creating for himself and others. We have to find him more opportunities to do that."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=81s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=81s)
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=81&q=6) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=81&q=6&slack=1)</small>
+
+**7. Tyrese Maxey — "I guess that is pretty good, huh? 7-2. We will take it." — Tyrese Maxey reflects on the team's 7-2 stretch** [01:49](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=109s)
+
+Tyrese Maxey: "I guess that is pretty good, huh? 7-2. We will take it. I feel pretty good."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=109s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=109s)
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=109&q=7) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=109&q=7&slack=1)</small>
+
+**8. Tyrese Maxey — "Anytime we make threes, it opens up space for each other." — Tyrese Maxey on the importance of making three-pointers for floor spacing** [02:04](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=124s)
+
+Tyrese Maxey: "Anytime we make threes, it opens up space for each other. I think that is the biggest thing that we have to do. We have to shoot and make threes. If we are able to do that, then guys get into the paint, create for themselves. **Jaylen Brown** has more room, Process has more room."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=124s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=124s)
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=124&q=8) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=124&q=8&slack=1)</small>
+
+**9. Tyrese Maxey — "I just tell him to go do that De'Anthony Melton stuff." — Tyrese Maxey on encouraging De'Anthony Melton's aggressive playstyle** [02:40](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=160s)
+
+Tyrese Maxey: "I just tell him to go do that **De'Anthony Melton** stuff. Literally, that is exactly what I tell him. I say, 'Hey man, go do that **De'Anthony Melton** stuff that you do.' He literally goes out there and does **De'Anthony Melton** stuff. He gets us loose balls, he makes winning plays, he defends, he scores, he does it all."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=160s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=160s)
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=160&q=9) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=160&q=9&slack=1)</small>
+
+**10. Tyrese Maxey — "I am just happy that she is happy and she is blessed and she is healthy." — Tyrese Maxey on holding his daughter after the game** [03:12](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=192s)
+
+Tyrese Maxey: "I am just happy that she is happy and she is blessed and she is healthy. That makes me happy. She has probably no idea what is going on, but it is a really cool moment just for her to be there."
+
+[https://www.youtube.com/watch?v=mqjxL7ibcfg&t=192s](https://www.youtube.com/watch?v=mqjxL7ibcfg&t=192s)
+
+<small>[Clip it](presserclips://clip?v=mqjxL7ibcfg&t=192&q=10) · [Send to Slack](presserclips://clip?v=mqjxL7ibcfg&t=192&q=10&slack=1)</small>
+
+---
+
+## RJ Barrett | Post Game at Philadelphia 76ers | November 12, 2026 — *Toronto Raptors*
+
+Source: [https://www.youtube.com/watch?v=ssAzV93N67Y](https://www.youtube.com/watch?v=ssAzV93N67Y)
+
+_Speakers identified: RJ Barrett_
+
+**1. RJ Barrett — "Everybody has to step up, including us. Right now it's been tough. We just got to figure it out." — RJ Barrett on the Raptors' need for collective effort** [00:13](https://www.youtube.com/watch?v=ssAzV93N67Y&t=13s)
+
+RJ Barrett: "Everybody has to step up, including us. Right now it's been tough. We just got to figure it out. I think we're starting to play games off better. We're putting ourselves in a good position where we're actually getting out to big leads. We just have to sustain those and figure out how to win."
+
+[https://www.youtube.com/watch?v=ssAzV93N67Y&t=13s](https://www.youtube.com/watch?v=ssAzV93N67Y&t=13s)
+
+<small>[Clip it](presserclips://clip?v=ssAzV93N67Y&t=13&q=1) · [Send to Slack](presserclips://clip?v=ssAzV93N67Y&t=13&q=1&slack=1)</small>
+
+**2. RJ Barrett — "We're putting ourselves in a good position to win these games. We just got to go back to the film." — RJ Barrett on the challenge of sustaining leads** [00:38](https://www.youtube.com/watch?v=ssAzV93N67Y&t=38s)
+
+RJ Barrett: "We're putting ourselves in a good position to win these games. We just got to go back to the film, sustain it. Little key moments, I would say, that were letting teams get these runs. But it's a long season and we'll continue to get better at that."
+
+[https://www.youtube.com/watch?v=ssAzV93N67Y&t=38s](https://www.youtube.com/watch?v=ssAzV93N67Y&t=38s)
+
+<small>[Clip it](presserclips://clip?v=ssAzV93N67Y&t=38&q=2) · [Send to Slack](presserclips://clip?v=ssAzV93N67Y&t=38&q=2&slack=1)</small>
+
+**3. RJ Barrett — "Got to bounce back. Those don't really matter, back-to-back or not. You got to find a way, find energy." — RJ Barrett on bouncing back from a tough schedule** [01:19](https://www.youtube.com/watch?v=ssAzV93N67Y&t=79s)
+
+RJ Barrett: "Got to bounce back. Those don't really matter, back-to-back or not. You got to find a way, find energy to do it. We put ourselves in a good position against a good team, and we'll figure it out."
+
+[https://www.youtube.com/watch?v=ssAzV93N67Y&t=79s](https://www.youtube.com/watch?v=ssAzV93N67Y&t=79s)
+
+<small>[Clip it](presserclips://clip?v=ssAzV93N67Y&t=79&q=3) · [Send to Slack](presserclips://clip?v=ssAzV93N67Y&t=79&q=3&slack=1)</small>
+
+---
+
+## Hornets at Suns: Coach Charles Lee Postgame Media Availability | 11/12/2026 — *Charlotte Hornets*
+
+Source: [https://www.youtube.com/watch?v=ssZzwatsnPw](https://www.youtube.com/watch?v=ssZzwatsnPw)
+
+_Speakers identified: Charles Lee, Unidentified speaker_
+
+**1. Charles Lee — "I thought we did a pretty good job of defensively trying to guard, trying to throw some different looks at Booker." — Charles Lee on Hornets' defensive strategy against Devin Booker** [00:00](https://www.youtube.com/watch?v=ssZzwatsnPw&t=0s)
+
+**Unidentified reporter:** "There's an and everyone on this squad is end of game situations. What did you see in this one?"
+
+**Charles Lee:** "I thought we did a pretty good job of defensively trying to guard, trying to throw some different looks at Booker. You know, he hits a big time shot there at the end to make it a six point game, but I thought for the most part, the defensive intensity, the communication was really good, switching up coverages on him a couple possessions there."
+
+[https://www.youtube.com/watch?v=ssZzwatsnPw&t=0s](https://www.youtube.com/watch?v=ssZzwatsnPw&t=0s)
+
+<small>[Clip it](presserclips://clip?v=ssZzwatsnPw&t=0&q=1) · [Send to Slack](presserclips://clip?v=ssZzwatsnPw&t=0&q=1&slack=1)</small>
+
+**2. Charles Lee — "You got to be better about grabbing defensive rebounds and 50/50 balls." — Charles Lee on Hornets' rebounding and turnover issues** [00:20](https://www.youtube.com/watch?v=ssZzwatsnPw&t=20s)
+
+**Charles Lee:** "You got to be better about grabbing defensive rebounds and 50/50 balls. But, you know, at the end of the day, you lose a five point game, you have 27 turnovers, that's like way too many opportunities for the other team to capitalize."
+
+**Unidentified reporter:** "I know you've said so many times that every single turnover is different. What did you see collectively tonight?"
+
+**Charles Lee:** "I can't wait to go back and watch the film, but we love to evaluate, was it forced or was it unforced? And I think that of the 27, too many of them are going to be unforced, and so we got to look in the mirror all of us, myself included, and figure out how we can keep tightening that up."
+
+[https://www.youtube.com/watch?v=ssZzwatsnPw&t=20s](https://www.youtube.com/watch?v=ssZzwatsnPw&t=20s)
+
+<small>[Clip it](presserclips://clip?v=ssZzwatsnPw&t=20&q=2) · [Send to Slack](presserclips://clip?v=ssZzwatsnPw&t=20&q=2&slack=1)</small>
+
+**3. Charles Lee — "Having Kobe out there, pushing the pace, I think it becomes contagious, the ball has energy." — Charles Lee on Hornets' progress and team chemistry** [00:49](https://www.youtube.com/watch?v=ssZzwatsnPw&t=49s)
+
+**Unidentified reporter:** "Monday night, you said we're a work in progress. Where did you see progress tonight?"
+
+**Charles Lee:** "Like I said, defensively, we switched up a ton of coverages off ball and pick and roll, so I thought that the group did a great job of communicating and executing them for the most part. And I think offensively, we continue to move the ball. Having Kobe out there, pushing the pace, I think it becomes contagious, the ball has energy. And then I think our after actions are getting a little bit better to see Naz kind of playmaking out of the post for himself and other guys and it's creating some great looks for us."
+
+[https://www.youtube.com/watch?v=ssZzwatsnPw&t=49s](https://www.youtube.com/watch?v=ssZzwatsnPw&t=49s)
+
+<small>[Clip it](presserclips://clip?v=ssZzwatsnPw&t=49&q=3) · [Send to Slack](presserclips://clip?v=ssZzwatsnPw&t=49&q=3&slack=1)</small>
+
+---
+
+## Collin Gillespie Postgame On-Court Interview after Suns win against Charlotte Hornets | 11-12-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=xdckmqdAuuc](https://www.youtube.com/watch?v=xdckmqdAuuc)
+
+_Speakers identified: Unidentified speaker, Collin Gillespie_
+
+**1. Collin Gillespie — "He was just talking about trying to get more threes up, so we love G." — Collin Gillespie on his postgame interaction with Grayson Allen** [00:00](https://www.youtube.com/watch?v=xdckmqdAuuc&t=0s)
+
+**Unidentified reporter:** "I just watched you talk to **Grayson Allen** and hug it out. What did you two say to each other?"
+
+**Collin Gillespie:** "He was just talking about trying to get more threes up, so we love G. Obviously we miss him, but wish him a lot of luck in his new journey over there."
+
+[https://www.youtube.com/watch?v=xdckmqdAuuc&t=0s](https://www.youtube.com/watch?v=xdckmqdAuuc&t=0s)
+
+<small>[Clip it](presserclips://clip?v=xdckmqdAuuc&t=0&q=1) · [Send to Slack](presserclips://clip?v=xdckmqdAuuc&t=0&q=1&slack=1)</small>
+
+**2. Collin Gillespie — "Our defense. Okogie got stops, got steals, turned the ball over. It's good to have him back." — Collin Gillespie credits team defense for Phoenix Suns win** [00:24](https://www.youtube.com/watch?v=xdckmqdAuuc&t=24s)
+
+**Unidentified reporter:** "What allowed you to pull away at the end?"
+
+**Collin Gillespie:** "Our defense. Okogie got stops, got steals, turned the ball over. It's good to have him back. He changes the game all the time. Luke made some big shots down the stretch, and the second unit got going. I think we got out to like an 18-point lead. We got to be better with that and just continue to put it on people when we're up like that. A lot of room to grow, a lot to learn from, but it's always good when you win."
+
+[https://www.youtube.com/watch?v=xdckmqdAuuc&t=24s](https://www.youtube.com/watch?v=xdckmqdAuuc&t=24s)
+
+<small>[Clip it](presserclips://clip?v=xdckmqdAuuc&t=24&q=2) · [Send to Slack](presserclips://clip?v=xdckmqdAuuc&t=24&q=2&slack=1)</small>
+
+**3. Collin Gillespie — "Just continue to stack days, obviously stack good reps. We're excited. It's the journey of a season." — Collin Gillespie on Suns' focus for upcoming game against Lakers** [00:51](https://www.youtube.com/watch?v=xdckmqdAuuc&t=51s)
+
+**Unidentified reporter:** "What are you looking to see carry over as you close out this homestand against the Lakers on Sunday?"
+
+**Collin Gillespie:** "Just continue to stack days, obviously stack good reps. We're excited. It's the journey of a season. You go through a lot of ups and downs and we're just looking forward to continue to get better."
+
+[https://www.youtube.com/watch?v=xdckmqdAuuc&t=51s](https://www.youtube.com/watch?v=xdckmqdAuuc&t=51s)
+
+<small>[Clip it](presserclips://clip?v=xdckmqdAuuc&t=51&q=3) · [Send to Slack](presserclips://clip?v=xdckmqdAuuc&t=51&q=3&slack=1)</small>
