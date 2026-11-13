@@ -1,0 +1,614 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keife, Trae Young, and Alex Sarr vs. Detroit Pistons | 11.12.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Trae Young",
+    "Alex Sarr"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe on the team's resilience and growth after a long trip",
+      "names_mentioned": [
+        "Trae Young"
+      ],
+      "excerpt": "Our guys dug in and found ways to keep that game in reach.",
+      "quote": "I liked our fight tonight. I liked our resilience coming off a long trip. Obviously, it was the second night of a back-to-back. Our guys dug in and found ways to keep that game in reach, and then we made some big plays to drive that game into overtime. Great growth by our team. Trae Young was fantastic tonight, leading us. I thought our bigs were dominant in their contributions to the game. A lot of people stepped up and made big plays. We didn't get it done, we're still not happy about that, these are things we're going to learn and grow, but I love the fight of our team tonight and the resilience they showed in a tough game.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the Wizards resilience after a long road trip and back to back: I liked our fight tonight. I liked our resilience coming off a long trip. Great growth by our team.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trae Young"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brian Keefe praises the team's resilience and Trae Young's leadership following a double-overtime loss to the Detroit Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:35",
+      "summary_phrase": "Brian Keefe on the team's developmental goals for the season",
+      "names_mentioned": [
+        "Anthony",
+        "Trae",
+        "DeAndre",
+        "Chris Middleton"
+      ],
+      "excerpt": "This is a season for growth for us.",
+      "quote": "This is a season for growth for us. There's a reason we brought Anthony, Trae, DeAndre, and Chris Middleton back to put us in these situations to learn and grow. We felt like our guys were ready for that next step. We're not happy we lost the game, but we're going to take this information, look at it, grow from it, and keep getting better. That's the challenge for us, and that's what this group wants to do.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the developmental goals for the Wizards: This is a season for growth for us. We are not happy we lost the game but we are going to take this information look at it grow from it and keep getting better.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony",
+          "Trae Young",
+          "DeAndre",
+          "Chris Middleton"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe explains the developmental goals for the season and the rationale behind the team's veteran acquisitions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:18",
+      "summary_phrase": "Brian Keefe on the chemistry of the big-to-big passing connection",
+      "names_mentioned": [
+        "Alex"
+      ],
+      "excerpt": "Their connection with their big-to-big passing, you can see that, how they space together, how they communicate defensively.",
+      "quote": "Their connection with their big-to-big passing, you can see that, how they space together, how they communicate defensively, how they can kind of carry us in the paint, that's going to be the hallmark. Obviously, Alex had a big offensive game tonight. We know that he's capable of that, but for us, it starts on the defensive end and controlling that paint, and I thought they did a great job of that tonight.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the big to big passing connection: Their connection with their big to big passing you can see that how they space together how they communicate defensively that is going to be the hallmark.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alex Sarr"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses the chemistry and defensive impact of the team's big men, specifically highlighting Alex Sarr's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:57",
+      "summary_phrase": "Brian Keefe on Trae Young's impact beyond his shooting performance",
+      "names_mentioned": [
+        "Trae Young"
+      ],
+      "excerpt": "Trae Young is a dual-impact player. He's not a one-sided player.",
+      "quote": "Trae Young is a dual-impact player. He's not a one-sided player. His ability to get loose ball rebounds, guard the other team's best player, and oh yeah, he did hit a shot to send the game into overtime also. So, a guy who was not shooting the ball well had no problem stepping up when it mattered and made the shot to help us get into the second overtime. Trae Young does winning things.",
+      "text_blocks": [],
+      "start_seconds": 177,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Brian Keefe on Trae Young: Trae Young is a dual impact player. He is not a one sided player. His ability to get loose ball rebounds guard the other team best player and he did hit a shot to send the game into overtime.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trae Young"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe describes Trae Young as a dual-impact player who contributes through rebounding, defense, and clutch shot-making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Keefe",
+      "timestamp": "03:35",
+      "summary_phrase": "Brian Keefe on the team's offensive pace and decision-making",
+      "names_mentioned": [
+        "Trae"
+      ],
+      "excerpt": "I think we talked about our pace, getting into things quickly, having organized spacing, and making the quick decisions.",
+      "quote": "I think we talked about our pace, getting into things quickly, having organized spacing, and making the quick decisions. You saw that, and obviously, Trae was the leader of that, but I thought other guys were doing the same thing. You saw a crowd, you got off it quickly, and then the ball finds energy. When you hit the right man, guys are going to be in rhythm to shoot, and I thought our guys were really terrific with that. That's something we can build on and take going forward.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 250,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brian Keefe on offensive pace: I think we talked about our pace getting into things quickly having organized spacing and making the quick decisions. The ball finds energy.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trae Young"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe analyzes the team's offensive pace and decision-making, crediting Trae Young for leading the ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Trae Young",
+      "timestamp": "07:46",
+      "summary_phrase": "Trae Young on the team's fighting spirit despite the loss",
+      "names_mentioned": [],
+      "excerpt": "I'm just proud of the way we fought. I mean we played, played to the end and battled.",
+      "quote": "I wish we weren't coming off a back-to-back. Probably would have been even a better finish for us. I'm just proud of the way we fought. I mean we played, played to the end and battled. Obviously, we played last night in Indiana and got here late and still showing the fight and the effort after them having a few days off and being here getting ready for us. I love the way we fought, gave ourselves a chance, we just got to be a little bit better on certain details to finish out the game, but I was proud of the way we fought. For sure, it was good.",
+      "text_blocks": [],
+      "start_seconds": 466,
+      "end_seconds": 508,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Trae Young on the team fighting spirit: I am just proud of the way we fought. We played to the end and battled. I love the way we fought gave ourselves a chance we just got to be a little bit better on certain details.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Trae Young reflects on the team's fighting spirit during a double-overtime loss despite playing on the second night of a back-to-back.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Trae Young",
+      "timestamp": "08:38",
+      "summary_phrase": "Trae Young on trusting his teammates in high-pressure moments",
+      "names_mentioned": [
+        "AJ"
+      ],
+      "excerpt": "I'm trying to put our team in winning situations and letting our young guys try to thrive.",
+      "quote": "For me, I'm looking at it a little, I mean obviously different. Obviously, the wins and losses are the most important thing, but for me, I'm trying to put our team in winning situations and letting our young guys try to thrive and playing in these big moments, I think it's important for us. Obviously, we're a team that's trying to grow and get better and show improvement, and I think like us just being in that moment, for me, I'm I'm going to make the right play, and to be honest, I trust those young guys and I want to let them, you know what I'm saying, play in those in those moments and make plays, and I trust AJ when he gets the ball, and no matter what type of game he's had in the first three quarters, I'm going to give him the ball and let him let him go, I mean make a play if he has a if he has an opportunity.",
+      "text_blocks": [],
+      "start_seconds": 518,
+      "end_seconds": 582,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Trae Young on trusting his teammates: I trust those young guys and I want to let them play in those moments and make plays. I trust AJ when he gets the ball and no matter what type of game he has had I am going to give him the ball.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trae Young discusses his philosophy of trusting young teammates to make plays in high-pressure situations to aid their development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Trae Young",
+      "timestamp": "09:39",
+      "summary_phrase": "Trae Young on the team's improved communication and difficulty",
+      "names_mentioned": [
+        "Kade Cunningham"
+      ],
+      "excerpt": "I think we just did a better job of just communicating, making things difficult.",
+      "quote": "I think we just did a better job of just communicating, making things difficult. Obviously, he's a great player, so he's going to make tough shots. We both got to the line 17-18 times. He knows how to score, and he had a good game, but I think we did a good job of just trying to try to make it tough on the other guys, and I mean we just did a we did a good job just competing and fighting. I think that was the difference. Sometimes you just don't have the necessary fight that you need to to compete with teams like like we've been playing. We've been playing all playoff teams from previous years and it's shown, and but I love how we fought and bounced back tonight, especially on a second night of a back-to-back.",
+      "text_blocks": [],
+      "start_seconds": 579,
+      "end_seconds": 633,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trae Young on defensive communication: I think we just did a better job of just communicating making things difficult. We did a good job just competing and fighting. I think that was the difference.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young highlights the importance of improved communication and defensive effort in competing against playoff-caliber teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Trae Young",
+      "timestamp": "10:38",
+      "summary_phrase": "Trae Young on the team's huddle and late-game execution",
+      "names_mentioned": [
+        "AJ"
+      ],
+      "excerpt": "Everybody in the huddle wanted me to go get the ball and make a play.",
+      "quote": "Everybody in the huddle wanted me to go get the ball and make a play, and everybody was just obviously wanting me to go go make a play for our team, and obviously the first in the regulation, the first play, I mean they're not it's not going to be perfect. I think we're still we're still obviously still learning, like the spacing was terrible, some some some things we wanted to do, I mean like you said, it's our first time being in that situation this year, so we're learning. Good thing we were able to play a couple of overtimes and learn and play in those type of situations.",
+      "text_blocks": [],
+      "start_seconds": 638,
+      "end_seconds": 681,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Trae Young on late game execution: Everybody in the huddle wanted me to go get the ball and make a play. It is not going to be perfect. I think we are still learning like the spacing was terrible.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young discusses the team's late-game execution and the learning process involved in playing through multiple overtimes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Trae Young",
+      "timestamp": "12:13",
+      "summary_phrase": "Trae Young on the team's offensive improvements and areas for growth",
+      "names_mentioned": [
+        "Keeshon",
+        "AJ"
+      ],
+      "excerpt": "We want to get AJ going a little bit more and get him some easy baskets.",
+      "quote": "I don't know if there's anything, I mean if we play like we did tonight, obviously we don't want Keeshon fouling as much as he did. As much as he did, he was very efficient when he was in the game. We want to get AJ going a little bit more and get him some easy baskets. But besides that, I think we, I mean guys, guys made plays. Trae took a lot of shots and a lot of threes that I like. So that's good. I mean there's there's a lot of things that we did good offensively. If we would have stopped them a few more possessions, I think we get a win. So I think we continue to to play the way we did tonight, and we'll win more than we lose, for sure.",
+      "text_blocks": [],
+      "start_seconds": 733,
+      "end_seconds": 786,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trae Young on offensive improvements: We want to get AJ going a little bit more and get him some easy baskets. If we would have stopped them a few more possessions I think we get a win.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Keeshon",
+          "AJ"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young evaluates the team's offensive performance and identifies specific areas for improvement regarding player efficiency and shot selection.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Trae Young",
+      "timestamp": "13:05",
+      "summary_phrase": "Trae Young on handling criticism and focusing on team success",
+      "names_mentioned": [],
+      "excerpt": "I'm more focused on our wins and losses and for me just putting ourselves in in winning situations.",
+      "quote": "This is, I mean this is what I do. I'm not I'm I was never like worried about it. Like I'm not I'm not phased about like my what I've been doing early on in the season. I'm like you said, more focused on our wins and losses and for me just putting ourselves in in winning situations and I don't think I did a a good enough job in the the road games of putting us in winning situations and obviously there's a lot that goes into winning. I mean it's not just me that's going to help our team win. It's a lot of things that go into it and we're a new team, we're learning things and um it's a long season. I know it's it's easy to just judge a team off the first 13-12 games, but um it's such a long season and I mean my my hopes are still high for this team. I feel like we got a lot of a lot of things that we can we can uh we can string off from this game. So I mean it's important for me, but it's more important for our team to be in our I mean in a situation like we were tonight.",
+      "text_blocks": [],
+      "start_seconds": 785,
+      "end_seconds": 866,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Trae Young on early season criticism: I am not phased about what I have been doing early on in the season. I am more focused on our wins and losses. It is easy to judge a team off the first 12 games but it is such a long season.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young addresses his early-season performance and emphasizes his commitment to team success over individual statistics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Trae Young",
+      "timestamp": "15:13",
+      "summary_phrase": "Trae Young on the skill and mental aspects of the game",
+      "names_mentioned": [],
+      "excerpt": "It's more than just effort. It's more than just effort, it's things that go on in a game.",
+      "quote": "It's more than just effort. It's more than just effort, it's things that go on in a game. Like it's a skill part of the game. If it was just effort, I mean there's a lot of guys out here, a lot of regular people that can just give a lot of effort, but it's skill that goes into this game too and a lot of mental things that go into this game and um the teams that we've been playing have been playoff teams in the recent years and uh not just 5-6 seeds, like 1-2 seeds. So I mean they kind of showed us I mean what it's like to to win, I mean in the regular season and what it takes to win. Um and that's just that's part of being a young team and learning through that. I'm glad we're going through this now rather than in game 60. Um I could imagine what you would say then. So it's uh it's a good thing we're going through this now and learning through it. Um because every good team has a learning phase that go through.",
+      "text_blocks": [],
+      "start_seconds": 913,
+      "end_seconds": 986,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Trae Young on the learning curve: Every good team has a learning phase they go through. I am glad we are going through this now rather than in game 60. I could imagine what you would say then.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young explains that winning requires more than just effort, citing the skill and mental maturity needed to beat playoff teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Alex Sarr",
+      "timestamp": "16:16",
+      "summary_phrase": "Alex Sarr on the team's goal to end the losing streak",
+      "names_mentioned": [],
+      "excerpt": "It's really more about our goal for the team, trying to snap that losing stretch that we got.",
+      "quote": "Yeah, I mean I think it's good. I obviously get individual game, but at the end of the day, um it's really more about our goal for the team, trying to snap that losing stretch that we got. So you know that's really where my main focus is.",
+      "text_blocks": [],
+      "start_seconds": 976,
+      "end_seconds": 994,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Alex Sarr on the losing streak: It is really more about our goal for the team trying to snap that losing stretch that we got. So you know that is really where my main focus is.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Alex Sarr states that his primary focus is helping the team end their current losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Alex Sarr",
+      "timestamp": "16:51",
+      "summary_phrase": "Alex Sarr on the different playstyles of Trae Young and Keeshon",
+      "names_mentioned": [
+        "Trae",
+        "Keeshon"
+      ],
+      "excerpt": "I think they have different playstyles. Obviously Trae has a lot of gravity, Keeshon also has gravity on the ball.",
+      "quote": "I think they have different playstyles. Obviously Trae has a lot of gravity, Keeshon also has gravity on the ball. Um but you know they they do a good job facilitating for the whole team, trying to get guys open shot and they can be aggressive too to to score. So uh it's good having them both out there or if it's one of them, uh you know it's been good for us.",
+      "text_blocks": [],
+      "start_seconds": 1011,
+      "end_seconds": 1039,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Alex Sarr on the playstyles of Trae Young and Keeshon: They have different playstyles. Obviously Trae has a lot of gravity Keeshon also has gravity on the ball. They do a good job facilitating for the whole team.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trae Young",
+          "Keeshon"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Alex Sarr compares the playstyles of Trae Young and Keeshon, noting their ability to facilitate and create opportunities for teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Alex Sarr",
+      "timestamp": "18:15",
+      "summary_phrase": "Alex Sarr on the team's spacing and shooting strategy",
+      "names_mentioned": [],
+      "excerpt": "C'est juste que le jeu me donne. Voilà, quand tu es en double big, forcément tu dois plus écarter le terrain.",
+      "quote": "C'est juste que le jeu me donne. Voilà, quand tu es en double big, forcément tu dois plus écarter le terrain et pouvoir tirer à trois points et voilà, mettre des tirs. Donc voilà, c'est c'est plus les endroits où je suis ouvert sur le terrain, c'est c'est voilà, c'est beaucoup les trois points.",
+      "verbatim_original_language": "C'est juste que le jeu me donne. Voilà, quand tu es en double big, forcément tu dois plus écarter le terrain et pouvoir tirer à trois points et voilà, mettre des tirs. Donc voilà, c'est c'est plus les endroits où je suis ouvert sur le terrain, c'est c'est voilà, c'est beaucoup les trois points.",
+      "text_blocks": [],
+      "start_seconds": 1095,
+      "end_seconds": 1116,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Alex Sarr on spacing: When you are in double big you have to spread the floor and shoot threes. It is more about the spots where I am open on the floor.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Alex Sarr explains his role in the double-big lineup, emphasizing the need to space the floor and shoot three-pointers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Alex Sarr",
+      "timestamp": "18:39",
+      "summary_phrase": "Alex Sarr on the team's performance and areas for improvement",
+      "names_mentioned": [
+        "AD"
+      ],
+      "excerpt": "Ouais, je pense, ouais, c'était un très long match aussi, mais juste le fait d'avoir des paniers faciles.",
+      "quote": "Ouais, je pense, ouais, c'était un très long match aussi, mais juste le fait d'avoir des paniers faciles et et d'avoir un un haut taux de réussite à nous deux, euh mais voilà, après maintenant c'est à nous de continuer à trouver des des manières pour pour gagner les matchs.",
+      "verbatim_original_language": "Ouais, je pense, ouais, c'était un très long match aussi, mais juste le fait d'avoir des paniers faciles et et d'avoir un un haut taux de réussite à nous deux, euh mais voilà, après maintenant c'est à nous de continuer à trouver des des manières pour pour gagner les matchs.",
+      "text_blocks": [],
+      "start_seconds": 1119,
+      "end_seconds": 1138,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Alex Sarr on finding easy baskets: It was a very long match but just the fact of having easy baskets and having a high success rate for both of us. Now it is up to us to continue to find ways to win games.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Alex Sarr reflects on the team's offensive efficiency and the ongoing challenge of finding ways to secure wins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Alex Sarr",
+      "timestamp": "19:12",
+      "summary_phrase": "Alex Sarr on learning from close games",
+      "names_mentioned": [],
+      "excerpt": "Yeah, I mean I think there's a lot we can learn from it, definitely.",
+      "quote": "Yeah, I mean I think there's a lot we can learn from it, definitely. Um, you know, obviously we don't want no more victories at this point. We still want to get the win. Um, but you know, there's a lot we can see just from how we went on our runs, how they went on their runs. Um, so yeah, it's a lot we can learn from it.",
+      "text_blocks": [],
+      "start_seconds": 1152,
+      "end_seconds": 1179,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Alex Sarr on learning from close games: There is a lot we can learn from it. We still want to get the win but there is a lot we can see just from how we went on our runs and how they went on their runs.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Alex Sarr discusses the lessons the team can take from analyzing their runs and defensive lapses in close games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Alex Sarr",
+      "timestamp": "19:48",
+      "summary_phrase": "Alex Sarr on improving team ball movement",
+      "names_mentioned": [],
+      "excerpt": "I think we can, you know, keep being a better team with the ball movement.",
+      "quote": "I think we can, you know, keep being a better team with the ball movement. Um, you know, I think that's something that we put a big emphasis on and everyone knows about it. Um, we want to play fast also because that's the guys we got. Um, so you know, if we just focus on on those two, we'll we'll be good.",
+      "text_blocks": [],
+      "start_seconds": 1188,
+      "end_seconds": 1212,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Alex Sarr on ball movement: I think we can keep being a better team with the ball movement. That is something that we put a big emphasis on. We want to play fast also because that is the guys we got.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Alex Sarr identifies ball movement and playing at a fast pace as key areas for the team to focus on for improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Alex Sarr",
+      "timestamp": "20:21",
+      "summary_phrase": "Alex Sarr on team ball movement and player roles",
+      "names_mentioned": [],
+      "excerpt": "It's just getting the ball to the second side, making the extra pass.",
+      "quote": "It's just getting the ball to the second side, making the extra pass. Um, everybody on the team is willing to do that, but you just got to know where your teammates are, what's their spot. Um, so you know, it just takes a little bit of time.",
+      "text_blocks": [],
+      "start_seconds": 1221,
+      "end_seconds": 1239,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Alex Sarr on team chemistry: It is just getting the ball to the second side making the extra pass. Everybody on the team is willing to do that but you just have to know where your teammates are.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Alex Sarr explains that effective ball movement requires time and a better understanding of teammates' preferred spots on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "BFz_1JXJRmU",
+  "url": "https://www.youtube.com/watch?v=BFz_1JXJRmU",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-13T12:53:57Z",
+  "duration_seconds": 1302,
+  "processed_at": "2026-11-13T16:32:19Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}

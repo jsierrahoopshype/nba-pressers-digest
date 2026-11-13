@@ -1,0 +1,172 @@
+{
+  "video_title": "NBA Expansion to Mexico City? Adam Silver's Comments Change Everything",
+  "speakers_seen": [
+    "Belen Duran",
+    "Cyro Asseo",
+    "Adam Silver",
+    "Pascal Siakam",
+    "Raúl Zárraga",
+    "Nikola Jokić"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Adam Silver",
+      "timestamp": "00:31",
+      "summary_phrase": "Adam Silver on the potential for an NBA team in Mexico City",
+      "names_mentioned": [
+        "Adam Silver"
+      ],
+      "excerpt": "Mexico City is the largest city in North America. It has a huge basketball base.",
+      "quote": "Mexico City is the largest city in North America. It has a huge basketball base. We also point to a large Mexican-American population.",
+      "text_blocks": [],
+      "start_seconds": 31,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 5,
+      "social_post": "Adam Silver highlights Mexico City as a prime market for the NBA, citing its status as the largest city in North America and its massive basketball fan base.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [],
+        "teams": [],
+        "topics": [],
+        "context": "Adam Silver discusses the potential for an NBA expansion team in Mexico City due to its large population and basketball fan base.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Raúl Zárraga",
+      "timestamp": "01:11",
+      "summary_phrase": "Raúl Zárraga on Mexico's massive NBA fan base",
+      "names_mentioned": [],
+      "excerpt": "Mexico has one of the largest NBA fan bases in Latin America.",
+      "quote": "According to the NBA's data, 21.6 million fans in Mexico watched live NBA games during the 2025-2026 NBA season. Alongside Brazil, Mexico has one of the largest NBA fan bases in Latin America.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "NBA data shows 21.6 million fans in Mexico watched live games during the 2025-2026 season, cementing the country as one of the league's largest fan bases in Latin America.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [],
+        "teams": [],
+        "topics": [],
+        "context": "Raúl Zárraga highlights the significant number of NBA fans in Mexico based on league data.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Pascal Siakam",
+      "timestamp": "01:42",
+      "summary_phrase": "Pascal Siakam on the excitement of playing in Mexico City",
+      "names_mentioned": [
+        "Nikola Jokić",
+        "Jamal Murray",
+        "Pascal Siakam"
+      ],
+      "excerpt": "It's going to be a fun game and we're excited for the matchup.",
+      "quote": "On behalf of obviously Nikola Jokić and a great team, Jamal Murray and all the guys over there, it's going to be a fun game and we're excited for the matchup.",
+      "text_blocks": [],
+      "start_seconds": 102,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Pascal Siakam says he and the Nuggets are excited for their upcoming matchup in Mexico City.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokić",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Pascal Siakam expresses excitement about playing a game in Mexico City against Nikola Jokić and Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Raúl Zárraga",
+      "timestamp": "03:52",
+      "summary_phrase": "Raúl Zárraga on Mexico City's readiness for an NBA team",
+      "names_mentioned": [],
+      "excerpt": "The proximity, the time zone, the fans, the structure, the economy, everything else complies perfectly with the requirements.",
+      "quote": "The proximity, the time zone, the fans, the structure, the economy, everything else complies perfectly with the requirements. Right now, the attention is completely dedicated to Las Vegas and Seattle.",
+      "verbatim_original_language": "La cercanía, la zona horaria, la afición, la estructura, la economía, todo lo demás cumple perfectamente con los requisitos. Ahorita la atención está completamente dedicada a Las Vegas y Seattle.",
+      "text_blocks": [],
+      "start_seconds": 232,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Raul Zarraga says Mexico City meets all requirements for an NBA team, but notes the league's current focus remains on expansion in Las Vegas and Seattle.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [],
+        "teams": [],
+        "topics": [],
+        "context": "Raúl Zárraga explains that while Mexico City meets the requirements for an NBA team, the league is currently focused on Las Vegas and Seattle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nikola Jokić",
+      "timestamp": "05:27",
+      "summary_phrase": "Nikola Jokić on the passion of Mexican basketball fans",
+      "names_mentioned": [
+        "Nikola Jokić"
+      ],
+      "excerpt": "I think the Mexican people have that power, that passion in themselves.",
+      "quote": "I think it's going to be great, you know. I think just because I think the Mexican people have that power, that passion in themselves. I think that the game is going to be amazing.",
+      "text_blocks": [],
+      "start_seconds": 327,
+      "end_seconds": 340,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Nikola Jokic praises the energy of Mexican basketball fans ahead of the game in Mexico City.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [],
+        "topics": [],
+        "context": "Nikola Jokić shares his thoughts on the passion of basketball fans in Mexico ahead of a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "vZo5Cz_SfcI",
+  "url": "https://www.youtube.com/watch?v=vZo5Cz_SfcI",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-13T13:43:18Z",
+  "duration_seconds": 424,
+  "processed_at": "2026-11-13T16:31:49Z",
+  "run_id": "2026-11-13-overnight",
+  "is_one_off": false
+}
