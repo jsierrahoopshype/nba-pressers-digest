@@ -1,0 +1,385 @@
+{
+  "video_title": "Yaxel Ready For Go-To Guy Responsibilities?",
+  "speakers_seen": [
+    "Brian Windhorst",
+    "Tim Bontemps",
+    "Tim MacMahon"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tim Bontemps",
+      "timestamp": "00:03",
+      "summary_phrase": "Warriors are performing better than expected without Stephen Curry",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "the Warriors are ahead of where probably we anticipated they would be",
+      "quote": "The Warriors, especially after they went down 0-3, are ahead of where probably we anticipated they would be. That is in large part, obviously Stephen Curry has been sensational, but also in large part because they found an instant impact rookie, which is a rookie who is impacting winning, which is pretty rare.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "The Warriors are performing better than expected without Stephen Curry, largely thanks to an immediate impact from their rookie who is truly impacting winning.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 2,
+      "speaker": "Tim Bontemps",
+      "timestamp": "00:28",
+      "summary_phrase": "Victor Wembanyama will be the focus of the Warriors' offense",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "the spotlight really shifts to Victor Wembanyama",
+      "quote": "As Stephen Curry sits and recovers, the spotlight really shifts to Victor Wembanyama. If it's a month, we're going to get a one-month peak at Victor Wembanyama as the go-to guy.",
+      "text_blocks": [],
+      "start_seconds": 28,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "With Stephen Curry sidelined, the spotlight shifts to Victor Wembanyama. We are about to get a month-long look at him as the go-to guy for this offense.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 3,
+      "speaker": "Tim MacMahon",
+      "speakers": [
+        "Tim MacMahon",
+        "Tim Bontemps",
+        "Brian Windhorst"
+      ],
+      "timestamp": "00:59",
+      "summary_phrase": "The Warriors' high payroll without Stephen Curry is significant",
+      "names_mentioned": [
+        "Jimmy Butler",
+        "Stephen Curry",
+        "Lauri Markkanen",
+        "Kristaps Porzingis"
+      ],
+      "excerpt": "that's 160 million dollars in payroll that they're going to be without",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Tim MacMahon",
+          "text": "Between Jimmy Butler, Stephen Curry, Lauri Markkanen, and Kristaps Porzingis, that's 160 million dollars in payroll that they're going to be without. I mean, this has been, it's not the first time this number has been used, it's 160 million dollars in payroll that they're going to be without."
+        },
+        {
+          "speaker": "Brian Windhorst",
+          "text": "What's the salary cap?"
+        },
+        {
+          "speaker": "Tim MacMahon",
+          "text": "It's about that. Without Stephen Curry, who obviously is on a max contract, it was 41 percent. So whatever percent Stephen Curry is making, it was 41 percent of their salary."
+        },
+        {
+          "speaker": "Brian Windhorst",
+          "text": "Well, Stephen Curry is making 35 percent because that's what he's making."
+        },
+        {
+          "speaker": "Tim MacMahon",
+          "text": "So yeah, you're talking over 70, blah, blah, blah. So yeah, it's significant."
+        }
+      ],
+      "start_seconds": 59,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "The Warriors are dealing with a massive amount of missing payroll with Stephen Curry and others out, accounting for a significant portion of their salary cap.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 4,
+      "speaker": "Tim Bontemps",
+      "timestamp": "01:35",
+      "summary_phrase": "Warriors are prioritizing operational discipline and accountability this season",
+      "names_mentioned": [
+        "Frank Vogel",
+        "Stephen Curry"
+      ],
+      "excerpt": "they just felt they were going to clean up their operation",
+      "quote": "Last year, they felt organizationally that they whined too much about the injuries and their age and the schedule and the back-to-backs. They intentionally this offseason went into it saying, we're going to bring back together a majority of a 37-win team, get ridiculed in a lot of ways for doing it, but they just felt they were going to clean up their operation. They were going to take the day-to-day more serious. They hired Frank Vogel to run the defense, he's getting rave reviews. Stephen Curry is reinvigorated, that was part of his three-week contemplation of coming back.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "After a season of complaining about injuries and schedule, the Warriors are prioritizing operational discipline and accountability this year, with Frank Vogel getting rave reviews for the defense.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Windhorst",
+      "timestamp": "02:56",
+      "summary_phrase": "Victor Wembanyama's status for the season remains uncertain",
+      "names_mentioned": [
+        "Jimmy Butler",
+        "Victor Wembanyama"
+      ],
+      "excerpt": "it told all of them that they weren't going to have Victor Wembanyama",
+      "quote": "I know they went to Hawaii, but I've also heard that the mini-camp that they had at Jimmy Butler's house, it told all of them that they weren't going to have Victor Wembanyama because Victor Wembanyama was there but very clearly not ready to play.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 193,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "It was clear early on that Victor Wembanyama was not ready to play during the team's mini-camp at Jimmy Butler's house.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 6,
+      "speaker": "Tim Bontemps",
+      "timestamp": "04:57",
+      "summary_phrase": "Victor Wembanyama's personality has won over his teammates",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "they also came to really like Victor Wembanyama's personality too",
+      "quote": "They also came to really like Victor Wembanyama's personality too. That was the big thing, because he's funny. You guys have been around people that are naturally funny. Somebody put it to me like he doesn't have an egotistical bone in his body, partly because of his basketball upbringing. He's just liked, he's constantly saying stuff that has the veterans like, even if it's like, man, you probably shouldn't have said that, they're laughing at it.",
+      "text_blocks": [],
+      "start_seconds": 297,
+      "end_seconds": 326,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 9,
+      "social_post": "Victor Wembanyama has won over his teammates with his personality. He does not have an egotistical bone in his body and is constantly saying things that make the veterans laugh.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 7,
+      "speaker": "Tim Bontemps",
+      "timestamp": "05:48",
+      "summary_phrase": "Warriors have historically struggled with heavy locker room dynamics",
+      "names_mentioned": [
+        "Draymond Green",
+        "Jordan Poole",
+        "Kevin Durant",
+        "Stephen Curry"
+      ],
+      "excerpt": "the Warriors have had some heavy locker rooms over the years",
+      "quote": "The Warriors have had some heavy locker rooms over the years. Last year was one at this time. Draymond Green punches Jordan Poole, Kevin Durant and Stephen Curry are yelling at each other. The entire last Kevin Durant season. You can tell this team's got a light locker room. It's light.",
+      "text_blocks": [],
+      "start_seconds": 348,
+      "end_seconds": 368,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "After years of heavy locker rooms and internal drama, you can tell this Warriors team has a light locker room. It is light.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 8,
+      "speaker": "Brian Windhorst",
+      "timestamp": "06:38",
+      "summary_phrase": "Victor Wembanyama's early praise from Draymond Green is unusual",
+      "names_mentioned": [
+        "Draymond Green",
+        "Victor Wembanyama"
+      ],
+      "excerpt": "Draymond Green praising Victor Wembanyama from day one",
+      "quote": "Draymond Green praising Victor Wembanyama from day one, Draymond Green is not going to hand out praise to a rookie. That didn't happen every year. You can tell this team's got a light locker room.",
+      "text_blocks": [],
+      "start_seconds": 398,
+      "end_seconds": 411,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Draymond Green is not one to hand out praise to a rookie, so his early endorsement of Victor Wembanyama is notable.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 9,
+      "speaker": "Tim Bontemps",
+      "timestamp": "07:07",
+      "summary_phrase": "Victor Wembanyama's toughness and selflessness define his game",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "there is a toughness to him under the goofiness",
+      "quote": "There is an unselfishness to his game that people like to play with. And also, there is a toughness to him under the goofiness. I mentioned the Summer League, the fact he just played every game, he showed up to work every single day.",
+      "text_blocks": [],
+      "start_seconds": 427,
+      "end_seconds": 444,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Beyond the goofiness, there is a real toughness to Victor Wembanyama. He showed up to work every single day during Summer League.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 10,
+      "speaker": "Tim Bontemps",
+      "timestamp": "07:27",
+      "summary_phrase": "Victor Wembanyama's commitment to playing through injury",
+      "names_mentioned": [
+        "Luka Doncic",
+        "Victor Wembanyama"
+      ],
+      "excerpt": "he went to the finish line",
+      "quote": "They get their first win in Denver when they were 0-3. He plays well in it, but he stumbled over his foot and basically he kicked his left foot, he had a huge knot, it was swollen. Between the two games, he had Luka Doncic on Friday, they had a Wednesday game in Minnesota before Luka on Friday, which everybody knew what was coming. I'd heard considering how sore the foot was, they were like, hey, maybe take the Minnesota game off. And he said, no, I want to play, I'm going to play.",
+      "text_blocks": [],
+      "start_seconds": 447,
+      "end_seconds": 483,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 6,
+      "social_post": "Victor Wembanyama wanted to play through a swollen foot injury against Minnesota, despite the team suggesting he take the game off.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 11,
+      "speaker": "Brian Windhorst",
+      "timestamp": "08:51",
+      "summary_phrase": "Pelicans' recent defensive struggles against Warriors and Nets",
+      "names_mentioned": [
+        "Julius Randle",
+        "Bobby Portis"
+      ],
+      "excerpt": "the Pelicans have lost the last two games by 51 to the Warriors",
+      "quote": "The Pelicans have lost the last two games by 51 to the Warriors and then gave up 145 to the Nets. They got Julius Randle and Bobby Portis, they got some scores.",
+      "text_blocks": [],
+      "start_seconds": 531,
+      "end_seconds": 543,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "The Pelicans are struggling defensively, giving up 51 points to the Warriors and 145 to the Nets in back-to-back losses.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 12,
+      "speaker": "Tim Bontemps",
+      "timestamp": "09:23",
+      "summary_phrase": "Victor Wembanyama's dunking progress this season",
+      "names_mentioned": [
+        "Victor Wembanyama",
+        "Cade Cunningham"
+      ],
+      "excerpt": "he had the dunk where he took off",
+      "quote": "He had the dunk where he took off, he catches it at the three-point line, took two steps and took off and dunked it with two hands. So how many dunks is he up to now? 57 going into Chicago.",
+      "text_blocks": [],
+      "start_seconds": 563,
+      "end_seconds": 578,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Victor Wembanyama is up to 57 dunks on the season heading into the Chicago game.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 13,
+      "speaker": "Brian Windhorst",
+      "timestamp": "09:40",
+      "summary_phrase": "Victor Wembanyama's dunking average is consistent",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "he has 62 dunks in 12 games",
+      "quote": "When we last visited you, it was 57 in 11 games and we were saying he was averaging over five a game. How many do you think he had on Wednesday? He has 62 dunks in 12 games. It's an average night of five.",
+      "text_blocks": [],
+      "start_seconds": 580,
+      "end_seconds": 597,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Victor Wembanyama is averaging five dunks a game, totaling 62 dunks in his first 12 games.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 14,
+      "speaker": "Tim Bontemps",
+      "timestamp": "10:05",
+      "summary_phrase": "Victor Wembanyama's impressive finger rolls and skill set",
+      "names_mentioned": [
+        "George Gervin",
+        "Victor Wembanyama"
+      ],
+      "excerpt": "the man has sat on George Gervin's ice throne, he should have some very impressive finger rolls",
+      "quote": "The man has sat on George Gervin's ice throne, he should have some very impressive finger rolls. But yeah, when again, one where he catches it at the three-point line, takes two big steps, takes off just a little bit inside the free-throw line and bang a roll. It's just silly watching him. The best comp I can say is Nerf basketball. It looks like he's playing with his little brother's on a Nerf hoop.",
+      "text_blocks": [],
+      "start_seconds": 605,
+      "end_seconds": 634,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 8,
+      "social_post": "Watching Victor Wembanyama dunk is just silly. It looks like he is playing on a Nerf hoop.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 15,
+      "speaker": "Tim Bontemps",
+      "timestamp": "10:58",
+      "summary_phrase": "Victor Wembanyama's net rating is statistically staggering",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "his net rating is now plus 30",
+      "quote": "His net rating is now plus 30. They're outscoring teams by 30 points per 100 possessions with him on the floor, and when he's off the floor, it's minus 18.4. That's damn near a 50-point swing. It's just mind-boggling.",
+      "text_blocks": [],
+      "start_seconds": 658,
+      "end_seconds": 673,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 4,
+      "social_post": "The statistical impact of Victor Wembanyama is staggering. His net rating is plus 30 with him on the floor, creating a nearly 50-point swing for the team.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 16,
+      "speaker": "Tim Bontemps",
+      "timestamp": "11:25",
+      "summary_phrase": "Comparing Victor Wembanyama's impact to Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Victor Wembanyama"
+      ],
+      "excerpt": "I'm curious where that number ends up at the end of the season compared to like the best Nikola Jokic version",
+      "quote": "I'm curious where that number ends up at the end of the season compared to like the best Nikola Jokic version of that, right? Because remember that was the story with Nikola Jokic, and still really is in a lot of ways. But he had some insane differentials and I just wonder where Victor Wembanyama ends this year compared to that.",
+      "text_blocks": [],
+      "start_seconds": 685,
+      "end_seconds": 708,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "It will be fascinating to see how Victor Wembanyama's net rating compares to the historical differentials posted by Nikola Jokic by the end of the season.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 17,
+      "speaker": "Brian Windhorst",
+      "timestamp": "11:41",
+      "summary_phrase": "Teams are beginning to game plan specifically for Victor Wembanyama",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "now the teams are going to be able to specifically game plan for him",
+      "quote": "Victor Wembanyama is getting seen a little bit in the league and now the teams are going to be able to specifically game plan for him and they will. I'm fascinated to watch him play this role.",
+      "text_blocks": [],
+      "start_seconds": 701,
+      "end_seconds": 715,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Now that Victor Wembanyama is getting more exposure, teams are going to start specifically game planning for him. It will be fascinating to watch.",
+      "team": "NBA on ESPN"
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "yt-quotes rotation",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "JgQpQGjYhhg",
+  "url": "https://www.youtube.com/watch?v=JgQpQGjYhhg",
+  "channel_team": "NBA on ESPN",
+  "published": "2026-11-13T17:15:37Z",
+  "duration_seconds": 749,
+  "processed_at": "2026-11-13T20:53:41Z",
+  "run_id": "2026-11-13T2053Z-14utc",
+  "is_one_off": false
+}
