@@ -1309,6 +1309,12 @@
    "seeded": true,
    "slot_date": "2026-11-05"
   },
+  "RfaqD9CLzf0": {
+   "at": "2026-11-14T00:53:50Z",
+   "quote": "there s no more light than the statements that have both been put out by both parties and i think that s for when it comes to that matter we re leaving it at that when it comes to both the statements ",
+   "run_id": "2026-11-14T0052Z-20utc",
+   "slot_date": "2026-11-13"
+  },
   "SCtvtGnUMWU": {
    "at": "2026-11-05T21:05:03Z",
    "quote": "it s been great so far just being around great guys i think that kind of helped me feel more comfortable as long as i m more comfortable around the guys i think the rest of the basketball handles itse",
@@ -2271,6 +2277,12 @@
    "seeded": true,
    "slot_date": "2026-11-06"
   },
+  "nHH2zQONk9Y": {
+   "at": "2026-11-14T00:53:50Z",
+   "quote": "we don t want to be in that same position we want to stack up some wins here but it also gives us good perspective all of us that have been in the league for long we understand how extremely long this",
+   "run_id": "2026-11-14T0052Z-20utc",
+   "slot_date": "2026-11-13"
+  },
   "n_MlmBEX6A0": {
    "at": "2026-10-31T07:06:01Z",
    "quote": "as a rookie that s a way to earn minutes go out there and make a statement on defense specifically another reason because i grew up watching those players and when i see the hype about them i want to ",
@@ -2840,38 +2852,5 @@
    "slot_date": "2026-11-03"
   }
  },
- "pending": {
-  "RfaqD9CLzf0": {
-   "channel": "New Orleans Pelicans",
-   "clip_count": 8,
-   "content_type": "presser",
-   "date": "2026-11-13",
-   "is_one_off": false,
-   "queued_at": "2026-11-14T00:53:50Z",
-   "run_id": "2026-11-14T0052Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-13",
-   "speaker": "Jamahl Mosley",
-   "title": "LIVE: Pelicans vs. Grizzlies Pregame w/ Jamahl Mosley 11/13/2026",
-   "top_quote": "There's no more light than the statements that have both been put out by both parties. And I think that's for when it comes to that matter, we're leaving it at that when it comes to both the statements being made.",
-   "video_id": "RfaqD9CLzf0"
-  },
-  "nHH2zQONk9Y": {
-   "channel": "HoopsHype",
-   "clip_count": 1,
-   "content_type": "presser",
-   "date": "2026-11-13",
-   "is_one_off": false,
-   "queued_at": "2026-11-14T00:53:50Z",
-   "run_id": "2026-11-14T0052Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-13",
-   "speaker": "Kenny Atkinson",
-   "title": "Kenny Atkinson on Cavaliers urgency this season due to East competition vs last year’s 17-16 stretch",
-   "top_quote": "We don't want to be in that same position. We want to stack up some wins here, but it also gives us good perspective. All of us that have been in the league for long, we understand how extremely long this season is. You just got to be careful going with the ebb and flow. We started off 15 and 0 two years ago. This year and last year, even, but we're playing the long game on this. It's going to give you guys perspective, but I said it the other night, there's also a sense of urgency because my belief is that because the East has gotten better, and when I look at the teams in the East, I'm like, man, it's going to be a dog fight to get in those top six, which is where you want to be. So yes, perspective, but on the other hand, I think we need to have a little more sense of urgency cause of the competition this year in the East.",
-   "video_id": "nHH2zQONk9Y"
-  }
- }
+ "pending": {}
 }
