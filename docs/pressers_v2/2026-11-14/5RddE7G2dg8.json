@@ -1,0 +1,192 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026",
+  "speakers_seen": [
+    "Micah Nori",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:50",
+      "summary_phrase": "Micah Nori praises Toumani Camara's defensive effort against De'Aaron Fox",
+      "names_mentioned": [
+        "Toumani Camara",
+        "De'Aaron Fox"
+      ],
+      "excerpt": "to hold him for six for 19 and he only went to the free throw line two times",
+      "quote": "I would be remiss if I did not shout out to Toumani Camara's job on De'Aaron Fox, who is an extremely good player as we have seen, but to hold him for six for 19 and he only went to the free throw line two times was a phenomenal job by him.",
+      "text_blocks": [],
+      "start_seconds": 50,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Micah Nori praised Toumani Camara for his defensive effort on De Aaron Fox, noting that holding him to 6 of 19 shooting and only two free throw attempts was a phenomenal job.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Toumani Camara",
+          "De'Aaron Fox"
+        ],
+        "teams": [
+          "POR",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Micah Nori praises Toumani Camara for his defensive performance against De'Aaron Fox during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "01:18",
+      "summary_phrase": "Micah Nori on Donovan Clingan's rim protection and foul trouble",
+      "names_mentioned": [
+        "Donovan Clingan"
+      ],
+      "excerpt": "he is a super, super elite rim protector",
+      "quote": "I think that he did a really good job when he was on the floor. He is a super, super elite rim protector and just he is catching himself getting one or two cheap ones and then it starts to we didn't want to foul him out, but he played the whole fourth quarter with the four fouls, but just Rob was really good in his minutes.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Micah Nori says Donovan Clingan is a super elite rim protector but needs to avoid picking up cheap fouls to stay on the floor longer.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Clingan"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses Donovan Clingan's rim protection and his ability to manage foul trouble during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "02:35",
+      "summary_phrase": "Micah Nori on Damian Lillard's role and off-ball movement",
+      "names_mentioned": [
+        "Damian Lillard",
+        "Ja Morant"
+      ],
+      "excerpt": "he has played more off the ball than he ever has in his career",
+      "quote": "I think with Dame it was more when I first met with him, health-wise, and once we knew that he was okay, it was also just basically we needed the best version of him. I think the one thing that Dame has accepted when you are talking about one of the best to do it and the way that he has essentially accepted not having the ball in his hands all the time, especially when they have Ja, and so he has played more off the ball than he ever has in his career to the point where I think I saw something early in the year, it is about 25% of the time he had the ball in his hands and for most of his career it is over 50%.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Micah Nori notes that Damian Lillard has embraced a new role, playing off the ball significantly more than at any other point in his career.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard",
+          "Ja Morant"
+        ],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Nori explains how Damian Lillard has adjusted to playing off-ball more frequently this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "03:46",
+      "summary_phrase": "Damian Lillard's singular focus on winning at the highest level",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "all he told me is he said, 'Mike, I just want to win.'",
+      "quote": "Dame was phenomenal from the get-go, never demanded anything from minutes to shots or this. All he told me is he said, 'Mike, I just want to win.' He said, 'You know, I have been in the playoffs several times, I have never gotten to the point in the playoffs where I want to, but I just, the only thing I am missing is winning at the highest level.'",
+      "text_blocks": [],
+      "start_seconds": 226,
+      "end_seconds": 253,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 6,
+      "social_post": "Micah Nori says Damian Lillard has been phenomenal and never demanded shots or minutes, telling him simply that the only thing he is missing is winning at the highest level.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori shares a conversation with Damian Lillard regarding his singular focus on winning an NBA championship.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "04:16",
+      "summary_phrase": "Damian Lillard's diligent recovery and return to form",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "he is a poster child for recovery from this",
+      "quote": "Just watching him, especially late in the summer when he finally did get back on the court, and I think that he was very diligent and very patient with his recovery. He is a poster child for recovery from this and just watching him, the one thing that you see is the start-stop and the stopping. He has his breaks, he has his change of pace, and so I think the only thing that is coming back for him gradually is just his timing.",
+      "text_blocks": [],
+      "start_seconds": 256,
+      "end_seconds": 288,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori says Damian Lillard was diligent and patient with his recovery and is now working on getting his timing back on the court.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Micah Nori describes Damian Lillard's recovery process and his gradual return to form after an injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "5RddE7G2dg8",
+  "url": "https://www.youtube.com/watch?v=5RddE7G2dg8",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-14T06:33:34Z",
+  "duration_seconds": 393,
+  "processed_at": "2026-11-14T06:51:34Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}

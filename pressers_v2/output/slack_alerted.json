@@ -2853,6 +2853,22 @@
   }
  },
  "pending": {
+  "5RddE7G2dg8": {
+   "channel": "Portland Trail Blazers",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-14",
+   "is_one_off": false,
+   "queued_at": "2026-11-14T06:51:35Z",
+   "run_id": "2026-11-14-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-14",
+   "speaker": "Micah Nori",
+   "title": "Micah Nori Postgame Interview | Portland Trail Blazers 120, Sacramento Kings 107 | Nov. 13, 2026",
+   "top_quote": "I would be remiss if I did not shout out to Toumani Camara's job on De'Aaron Fox, who is an extremely good player as we have seen, but to hold him for six for 19 and he only went to the free throw line two times was a phenomenal job by him.",
+   "video_id": "5RddE7G2dg8"
+  },
   "Ed4m2yyzlts": {
    "channel": "Memphis Grizzlies",
    "clip_count": 4,
