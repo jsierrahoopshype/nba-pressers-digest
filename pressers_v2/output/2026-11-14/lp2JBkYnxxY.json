@@ -1,0 +1,188 @@
+{
+  "video_title": "Head Coach Jordan Ott Practice Media Availability | 11-14-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:15",
+      "summary_phrase": "Luka Doncic's evolving role and impact on the team",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "When he's got everything going, that's what makes him the toughest.",
+      "quote": "I do think the shift in his role and responsibility even with some of the roster changes, not that he has the ball in his hands more, but he is in a place where it is his ball. When he has everything going, that's what makes him the toughest. It is the three-point line, it is the fouling, it is the rim, and then he is one of the elite passers in the league. He is one of those guys if you give him a consistent look, he is going to figure it out. He plays at his own pace.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott on the challenge of defending Luka Doncic: If you give him a consistent look he is going to figure it out. He plays at his own pace.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "PHX",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the offensive challenges and versatility of Luka Doncic ahead of their matchup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:22",
+      "summary_phrase": "Balancing physical defense with disciplined play to avoid fouls",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "How physical can you be, but also disciplined at the same time?",
+      "quote": "It does not matter who you play, it is how physical can you be, but also disciplined at the same time knowing that there is a higher likelihood of drawing a foul in certain areas. We have to take those out. Knowing that there is going to be some 50-50 calls not go your way, or the foul in the three-point shooter. Some of those things you just have to take out, knowing that Luka is going to get some and-ones. They are going to have some for sure. Can we be disciplined enough in certain areas not to put them to the free-throw line to just get a great impact?",
+      "text_blocks": [],
+      "start_seconds": 82,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott emphasizes the need for defensive discipline against Luka Doncic: We have to take those out. Knowing that there is going to be some 50-50 calls not go your way.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "PHX",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains the need for disciplined defense to limit foul trouble when playing against Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:37",
+      "summary_phrase": "Integrating Miles Bridges into the team's high-usage rotation",
+      "names_mentioned": [
+        "Miles Bridges"
+      ],
+      "excerpt": "We did add another high-usage wing in Miles.",
+      "quote": "We did add another high-usage wing in Miles. Everyone, when we are healthy, this is new season stuff and we cannot forget that we have four really high-usage players and everyone is going to have to sacrifice a little bit because when we are all healthy, we have enough offensive talent to get to where we want to get to, but it does take the group moving in the right direction. I think we are still trying to figure some of that out for sure.",
+      "text_blocks": [],
+      "start_seconds": 157,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Jordan Ott on integrating Miles Bridges into the Suns rotation: Everyone is going to have to sacrifice a little bit because when we are all healthy we have enough offensive talent.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Miles Bridges"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Ott discusses the challenge of integrating Miles Bridges into a rotation with multiple high-usage players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "06:47",
+      "summary_phrase": "Assessing the impact of new additions Miles Bridges and DeAndre Ayton",
+      "names_mentioned": [
+        "DeAndre Ayton",
+        "Miles Bridges"
+      ],
+      "excerpt": "He applies his force on both ends.",
+      "quote": "We can feel where DeAndre Ayton is heading. Every time he steps on the floor, he applies his force on both ends. Again, that is something that we are going to need. He is strong enough, his IQ is high enough, he is competitive enough, he is going to get it. When an opportunity comes, he will be ready. Miles, it is always about his physicality and size. We are learning his game. I think he is significantly more versatile than I thought. He can score in a bunch of different ways.",
+      "text_blocks": [],
+      "start_seconds": 407,
+      "end_seconds": 442,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott on Miles Bridges: I think he is significantly more versatile than I thought. He can score in a bunch of different ways.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "DeAndre Ayton",
+          "Miles Bridges"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott evaluates the early contributions and skill sets of DeAndre Ayton and Miles Bridges.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "08:12",
+      "summary_phrase": "Devin Booker's ability to maximize his playmaking without a traditional point guard",
+      "names_mentioned": [
+        "Devin Booker",
+        "Jalen Brunson"
+      ],
+      "excerpt": "That is what superstars do, they find ways to be effective in a bunch of different areas.",
+      "quote": "That is what superstars do, they find ways to be effective in a bunch of different areas. That is part of being a really high-level player, is always being effective and trying to get your team to win no matter what the circumstance is. It is not surprising. Every night is different. He is the one that is figuring out those things on the fly a lot of times, who to attack. He has seen so many different scenarios in his career. That is why we rely on him so much because he has been through it all.",
+      "text_blocks": [],
+      "start_seconds": 492,
+      "end_seconds": 530,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordan Ott on Devin Booker: That is what superstars do, they find ways to be effective in a bunch of different areas.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott praises Devin Booker for his ability to adapt his playmaking style to different game scenarios.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "lp2JBkYnxxY",
+  "url": "https://www.youtube.com/watch?v=lp2JBkYnxxY",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-14T21:10:15Z",
+  "duration_seconds": 738,
+  "processed_at": "2026-11-14T23:54:53Z",
+  "run_id": "2026-11-14T2354Z-20utc",
+  "is_one_off": false
+}

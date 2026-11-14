@@ -1,0 +1,172 @@
+{
+  "video_title": "Ryan Dunn Practice Media Availability | 11-14-26",
+  "speakers_seen": [
+    "Ryan Dunn"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ryan Dunn",
+      "timestamp": "00:07",
+      "summary_phrase": "Ryan Dunn on the Suns' recent defensive intensity and chemistry",
+      "names_mentioned": [],
+      "excerpt": "I think we're just gelling together a little more, finding our strengths from the starting five to the backups.",
+      "quote": "I think we're just gelling together a little more, finding our strengths from the starting five to the backups to the bench. Higher intensity on defense, more sound on offense, being more physical as much as we can, trying to limit fouls, just trying to play a good 48 minutes of Suns basketball.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ryan Dunn says the Suns are gelling more as a unit and focusing on playing more physical basketball to limit fouls and maintain intensity for a full 48 minutes.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn discusses the Phoenix Suns' recent improvements in defensive intensity and team chemistry during a practice media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ryan Dunn",
+      "timestamp": "00:36",
+      "summary_phrase": "Ryan Dunn on his offensive development and impact beyond scoring",
+      "names_mentioned": [],
+      "excerpt": "I don't feel like my impact is just all scoring. I feel like it's more than just that.",
+      "quote": "I don't feel like my impact is just all scoring. I feel like it's more than just that. That's a cherry on top for me right now. But, you know, hitting catch-and-shoot threes, getting out in transition, sometimes just working on trying to get to the rim and creating. That's something I've been working on since this whole offseason, so it's great to see it coming to fruition.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Ryan Dunn says his impact goes beyond scoring. He is focused on hitting catch and shoot threes and creating in transition, noting that his offseason work is finally coming to fruition.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn reflects on his offensive development and his contributions beyond scoring during a practice media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ryan Dunn",
+      "timestamp": "01:33",
+      "summary_phrase": "Ryan Dunn credits Darnell and Bradley Beal for his offensive growth",
+      "names_mentioned": [
+        "Darnell",
+        "Bradley Beal"
+      ],
+      "excerpt": "Shoutout to Darnell, we work on stuff like that, Bradley Beal, the work I put in the offseason.",
+      "quote": "Shoutout to Darnell, we work on stuff like that, Bradley Beal, the work I put in the offseason, stuff that I had when I was younger, just trying to go out there and just play the game. And that time is working on my game a little bit, which is good to have, and doing that more when it's in a serious situation or in a higher situation for me.",
+      "text_blocks": [],
+      "start_seconds": 93,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ryan Dunn credits Darnell and Bradley Beal for helping him develop his offensive game and preparing him to perform in high pressure situations.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bradley Beal"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Dunn credits Bradley Beal and staff for his offensive growth during a practice media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ryan Dunn",
+      "timestamp": "02:06",
+      "summary_phrase": "Ryan Dunn on the challenge of defending high-scoring players",
+      "names_mentioned": [],
+      "excerpt": "Limit the free throw line as much as we can, limit his threes as much as we can.",
+      "quote": "Limit the free throw line as much as we can, limit his threes as much as we can. He's going to get to it regardless, so just making it tough. He's not going to have a zero-point night. Hopefully keep him to a low-scoring game, but I'm not going to say what we want to get him to. Just trying to make it tough on him all night as much as we can.",
+      "text_blocks": [],
+      "start_seconds": 126,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "On defending high scoring players, Ryan Dunn says the goal is simply to make it tough on them all night by limiting their free throw attempts and three pointers.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn explains the defensive strategy for limiting high-scoring opponents during a practice media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ryan Dunn",
+      "timestamp": "03:37",
+      "summary_phrase": "Ryan Dunn on team defensive rotations and rim protection",
+      "names_mentioned": [],
+      "excerpt": "We have great rim protection with Nemanja and Oso, and we have good long defenders.",
+      "quote": "Being in the gap more, showing a body when an offensive player is driving to the rim, trying to get more deflections, trying to get more blocks. We have great rim protection with Nemanja and Oso, and we have good long defenders with me, Goody, Okogie, everybody else. And CG coming down and being scrappy, and we're trying to protect everybody else. So I think that's what we're trying to do and playing team defense, just be able to shift together and be on a string.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ryan Dunn highlights the Suns defensive identity, noting that the team is prioritizing rim protection and playing together on a string to generate more deflections and blocks.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nemanja Dangubic",
+          "Oso Ighodaro",
+          "Josh Okogie"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Ryan Dunn details the team defensive rotations and rim protection efforts of the Phoenix Suns during a practice media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "bM6DdEimtro",
+  "url": "https://www.youtube.com/watch?v=bM6DdEimtro",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-14T21:03:13Z",
+  "duration_seconds": 248,
+  "processed_at": "2026-11-14T23:55:02Z",
+  "run_id": "2026-11-14T2354Z-20utc",
+  "is_one_off": false
+}

@@ -1,0 +1,237 @@
+{
+  "video_title": "Jordan Goodwin Practice Media Availability | 11-14-26",
+  "speakers_seen": [
+    "Jordan Goodwin"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "00:07",
+      "summary_phrase": "Jordan Goodwin on the value of plus-minus statistics",
+      "names_mentioned": [],
+      "excerpt": "I like the plus-minus. It lets you know how you're impacting the game.",
+      "quote": "I do. I like the plus-minus. It lets you know how you're impacting the game if you're doing your thing out there. I like the plus-minus, I do.",
+      "verbatim_original_language": "",
+      "start_seconds": 7,
+      "end_seconds": 18,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jordan Goodwin says he is a fan of plus-minus stats because it lets him know if he is truly impacting the game while he is on the floor.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin discusses his personal perspective on the value of plus-minus statistics during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "00:25",
+      "summary_phrase": "Jordan Goodwin on his role outside of scoring",
+      "names_mentioned": [],
+      "excerpt": "My role needs me to do little things outside of scoring, so I do that.",
+      "quote": "I'm just trying to make winning plays. For me personally, I know if I do those things I get the opportunity to be on the floor. I'm just trying to be a star in my role, and that's the thing my role needs me to do is to do little things outside of scoring, so I do that.",
+      "verbatim_original_language": "",
+      "start_seconds": 25,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Goodwin on his approach to his role with the Suns: I am just trying to be a star in my role and do the little things outside of scoring.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin explains his mindset regarding his role on the team and his focus on making winning plays beyond scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "00:51",
+      "summary_phrase": "Jordan Goodwin on his defensive approach against Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "I'm just going to be myself, attack him how I attack everybody else.",
+      "quote": "I'm just going to go there and compete. Luka Doncic is a great player, can put the ball in the hole, can manipulate the game with fouls and his savvy play, but I'm just going to be myself, attack him how I attack everybody else, watch my film, and I'm just going to check the ball up.",
+      "verbatim_original_language": "",
+      "start_seconds": 51,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Jordan Goodwin on facing Luka Doncic: I am just going to go there and compete. He can manipulate the game with fouls and his savvy play but I am just going to be myself.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "PHX",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin describes his defensive approach and mindset heading into a matchup against Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "01:21",
+      "summary_phrase": "Jordan Goodwin on the team's defensive improvement",
+      "names_mentioned": [
+        "Bradley Beal"
+      ],
+      "excerpt": "We're figuring out how Bradley Beal wants to come down on certain type of screens.",
+      "quote": "We're definitely picking it up on defense. We've been watching it, and we're starting to get it back, compacting in. It's a new group, definitely different from last year, so we're still learning each other. We're still learning how Bradley Beal wants to come down on certain type of screens and stuff like that, so we're figuring out we're turning in the right way.",
+      "verbatim_original_language": "",
+      "start_seconds": 81,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Goodwin says the Suns are still learning each other on defense and figuring out how Bradley Beal wants to handle screens.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bradley Beal"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin discusses the team's defensive progress and the ongoing process of learning defensive schemes involving Bradley Beal.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "01:54",
+      "summary_phrase": "Jordan Goodwin on defending against larger opponents",
+      "names_mentioned": [],
+      "excerpt": "We're putting emphasis on it, just got to get a hit.",
+      "quote": "It's the smaller guys going down on their bigs, which is a tough rotation. These guys are seven-foot, some of us six-four, trying to go down there, so we're putting emphasis on it, just got to get a hit. We got to send two guys to get the big off the glass to go get it, but we do what our big to go protect the rim, so it's on the backside guards to go get that.",
+      "verbatim_original_language": "",
+      "start_seconds": 114,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jordan Goodwin explains the defensive challenge of smaller guards having to rotate down to help against seven-footers on the glass.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin explains the defensive challenges and rebounding responsibilities for guards when defending against larger opposing players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "02:32",
+      "summary_phrase": "Jordan Goodwin on his offensive role and spacing",
+      "names_mentioned": [
+        "Bradley Beal"
+      ],
+      "excerpt": "Once I set the screen, everybody is shifting and usually my man, so I'm wide open.",
+      "quote": "Whatever I can do to make the game easier for him. Just by me having a lesser defender on me, if I can go set that screen and stick it and get him a better chance to create, I'm going to do that. But another thing is once I set the screen, everybody is shifting and usually my man, so that's why recently a lot of my shots been coming off Bradley Beal because I'm wide open because he's drawing two and I'm right there in the right spot.",
+      "verbatim_original_language": "",
+      "start_seconds": 152,
+      "end_seconds": 186,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Goodwin on his offensive chemistry with Bradley Beal: I am just trying to make the game easier for him by setting screens and being in the right spot when he draws two defenders.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bradley Beal"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Goodwin explains how he creates offensive opportunities for himself by setting screens for Bradley Beal.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Goodwin",
+      "timestamp": "03:09",
+      "summary_phrase": "Jordan Goodwin on his relationship with Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "Me and Luka Doncic we're real cool, we're real close.",
+      "quote": "Me and Luka Doncic we're real cool, we're real close. He posted when I was in LA, so we always talk. It's going to be talking crazy, but it's going to be respectable basketball. It's going to be a good bump tomorrow, so we'll see. If he starts talking, he starts talking, but we just got a game to go.",
+      "verbatim_original_language": "",
+      "start_seconds": 189,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 7,
+      "social_post": "Jordan Goodwin on his upcoming matchup with Luka Doncic: Me and Luka are real cool and real close. It is going to be talking crazy but it is going to be respectable basketball.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "PHX",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Jordan Goodwin comments on his personal relationship with Luka Doncic ahead of their upcoming game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "iJoY-PAM8W4",
+  "url": "https://www.youtube.com/watch?v=iJoY-PAM8W4",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-14T21:04:42Z",
+  "duration_seconds": 209,
+  "processed_at": "2026-11-14T23:54:50Z",
+  "run_id": "2026-11-14T2354Z-20utc",
+  "is_one_off": false
+}

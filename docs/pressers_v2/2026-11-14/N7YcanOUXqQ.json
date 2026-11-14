@@ -1,0 +1,298 @@
+{
+  "video_title": "LIVE: Pelicans vs. Nuggets Pregame w/ Jamahl Mosley 11/14/2026",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "09:59",
+      "summary_phrase": "Jamahl Mosley on managing Eve Missi's minutes",
+      "names_mentioned": [
+        "Eve Missi"
+      ],
+      "excerpt": "It's more about when than anything and I'll keep testing him and seeing how he feels",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "It sounds like Eve Missi is doing a lot better tonight too. How are you planning to utilize him this evening?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "As best as we can. There would be a minutes restriction with him just to make sure. It's more about when than anything and I'll keep testing him and seeing how he feels throughout the game."
+        }
+      ],
+      "start_seconds": 599,
+      "end_seconds": 621,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says Eve Missi will be on a minutes restriction tonight as he returns to the lineup. The team is monitoring how he feels throughout the game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Eve Missi"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Jamahl Mosley discusses the minutes restriction for Eve Missi as he returns from injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "10:18",
+      "summary_phrase": "Jamahl Mosley provides update on Trey Murphy's recovery",
+      "names_mentioned": [
+        "Trey Murphy"
+      ],
+      "excerpt": "He's just responding back to treatment well and to his rehabilitation process",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How about Trey Murphy? An update on him?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "No update today. He's responding back to treatment well and to his rehabilitation process. He's been responding well but just not to the point where he's able to get on the court and go yet."
+        }
+      ],
+      "start_seconds": 618,
+      "end_seconds": 635,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "No update on Trey Murphy today. Jamahl Mosley says he is responding well to treatment but is not yet ready to return to the court.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Murphy"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Jamahl Mosley provides an update on the rehabilitation process for Trey Murphy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "10:32",
+      "summary_phrase": "Jamahl Mosley on defensive strategy against Nikola Jokic and Jamal Murray",
+      "names_mentioned": [
+        "Jamal Murray",
+        "Nikola Jokic",
+        "Cam"
+      ],
+      "excerpt": "The two-man game is obviously something we just got finished with our walk-through",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Third time you played Denver, obviously no real surprises here. Trying to get a hold of the two-man game with Murray and Jokic?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "They've added some pieces. Cam didn't play against us last time, the last couple times, and him being back gives them another shooting threat that we've got to make sure we take care of. But the two-man game is obviously something we just got finished with our walk-through and the ability to cover them the right way and mix up coverages and what we're willing to take away and what we're wanting to take away and then what we're willing to live with with those two."
+        }
+      ],
+      "start_seconds": 632,
+      "end_seconds": 674,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on facing the Nuggets: The focus is on mixing up coverages against the Jokic and Murray two-man game while keeping an eye on the shooting threats around them.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley explains the defensive strategy for handling the two-man game between Nikola Jokic and Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "11:04",
+      "summary_phrase": "Jamahl Mosley on Eve Missi's defensive impact",
+      "names_mentioned": [
+        "Eve Missi",
+        "Nikola Jokic"
+      ],
+      "excerpt": "His ability to be the low man coming across the lane protecting, being able to guard Jokic",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "In what ways can Eve Missi help y'all out just by being out there?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "More than anything and what we've been missing a little bit of is rim protection. We talked about those straight-line drives last night and guys getting to the rim. His ability to be the low man coming across the lane protecting, being able to guard Jokic in different areas and using his length and his basketball IQ is going to definitely help us out in a lot of ways tonight."
+        }
+      ],
+      "start_seconds": 664,
+      "end_seconds": 696,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says Eve Missi will provide much needed rim protection tonight, noting his ability to be the low man and use his length to guard Jokic.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Eve Missi"
+        ],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley explains how Eve Missi will provide rim protection against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "11:32",
+      "summary_phrase": "Jamahl Mosley declines to discuss Dejounte Murray's future",
+      "names_mentioned": [
+        "Dejounte Murray"
+      ],
+      "excerpt": "Speculation of things is not where I'm suited to go",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "About Dejounte, do you think he's played his last game with the Pelicans?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "We put out the statements the other day and that's what I'm going to continue to rely upon. Speculation of things is not where I'm suited to go and so I'll leave it at what the statements were and then let the parties that are handling it handle it the correct way and I'll continue to focus on our locker room and the games that we have coming up throughout this week."
+        }
+      ],
+      "start_seconds": 692,
+      "end_seconds": 725,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 4,
+      "social_post": "Jamahl Mosley declined to comment on the future of Dejounte Murray, stating he will rely on previous team statements and focus on the games ahead.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dejounte Murray"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley declines to comment on speculation regarding the future of Dejounte Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "12:07",
+      "summary_phrase": "Jamahl Mosley on Saddiq Bey's impact and professionalism",
+      "names_mentioned": [
+        "Saddiq Bey"
+      ],
+      "excerpt": "His professionalism, his consistency, his toughness, his focus to the attention to details",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Saddiq with a 30-point game last night, first Pelicans player this season to do so. Regardless if he's coming off the bench or starting, he's always seemed to make the impact. Just talk about what he's meant to the team so far this season."
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "I can't say enough about Saddiq. His professionalism, his consistency, his toughness, his focus to the attention to details, just the little things he does for our team is huge. Just because guys know they can rely on him night in and night out. You know what you're going to get from him every single night. Not going to say much, but he's going to bring that lunch pail and go to work every night and that's what we appreciate about him and our guys definitely have so much love for the way that he approaches the game and just the way he is with them."
+        }
+      ],
+      "start_seconds": 727,
+      "end_seconds": 785,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley praised Saddiq Bey for his consistency and professionalism, calling him a guy who brings his lunch pail to work every single night.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Saddiq Bey"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Jamahl Mosley praises the professionalism and consistency of Saddiq Bey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "N7YcanOUXqQ",
+  "url": "https://www.youtube.com/watch?v=N7YcanOUXqQ",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-14T22:27:31Z",
+  "duration_seconds": 809,
+  "processed_at": "2026-11-14T23:54:54Z",
+  "run_id": "2026-11-14T2354Z-20utc",
+  "is_one_off": false
+}
