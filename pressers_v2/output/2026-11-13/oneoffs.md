@@ -4,7 +4,27 @@
 
 # Best of the best
 
-**1. Danilo Gallinari — "Superstars cannot manage themselves in the field. If they don't do a lot of statistics, they break." — Danilo Gallinari on the difficulty of managing superstars** [19:54](https://www.youtube.com/watch?v=okAkJYFyMhU&t=1194s)
+**1. Shams Charania — "Dejounte Murray has requested a trade out of the organization" — Dejounte Murray requests a trade from the New Orleans Pelicans** [00:09](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=9s)
+
+Shams Charania: "Pelicans guard **Dejounte Murray** has requested a trade out of the organization and now his agent **Rich Paul** and the franchise are working toward a resolution. In the last several days, Murray has met with the organization and has made it clear that he wants to go somewhere else and play a meaningful key role on another team. We have seen **Dejounte Murray**, especially on social media, express his frustration with how things are going there. Clearly, it is not working out there. He is not going to be playing basketball in New Orleans for the time moving forward here. In his absence now, the Pelicans will be turning over that lead guard position to **Jeremiah Fears**, who has shined without **Dejounte Murray** in that lineup so far this year. Both sides will be working now on a trade for **Dejounte Murray** out of New Orleans."
+
+[https://www.youtube.com/watch?v=ayD_Q-G3iio&t=9s](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=9s)
+
+From: [Dejounte Murray REQUESTS A TRADE from the Pelicans 🚨 Could Zion be next? \| NBA Today](https://www.youtube.com/watch?v=ayD_Q-G3iio) · *NBA on ESPN*
+
+<small>[Clip it](presserclips://clip?v=ayD_Q-G3iio&t=9&q=1) · [Send to Slack](presserclips://clip?v=ayD_Q-G3iio&t=9&q=1&slack=1)</small>
+
+**2. Tim Bontemps — "Can you trade Zion? Sure. Can you get a big return for him? No way." — Pelicans face difficulty finding a trade market for Zion Williamson** [4:14](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=254s)
+
+Tim Bontemps: "I was texting with an executive asking about a potential Zion market. He says, can you trade Zion? Sure. Can you get a big return for him? No way."
+
+[https://www.youtube.com/watch?v=ayD_Q-G3iio&t=254s](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=254s)
+
+From: [Dejounte Murray REQUESTS A TRADE from the Pelicans 🚨 Could Zion be next? \| NBA Today](https://www.youtube.com/watch?v=ayD_Q-G3iio) · *NBA on ESPN*
+
+<small>[Clip it](presserclips://clip?v=ayD_Q-G3iio&t=254&q=5) · [Send to Slack](presserclips://clip?v=ayD_Q-G3iio&t=254&q=5&slack=1)</small>
+
+**3. Danilo Gallinari — "Superstars cannot manage themselves in the field. If they don't do a lot of statistics, they break." — Danilo Gallinari on the difficulty of managing superstars** [19:54](https://www.youtube.com/watch?v=okAkJYFyMhU&t=1194s)
 
 Danilo Gallinari: "The superstars cannot manage themselves in the field. One like me, I prefer to play all the games, but I know how to manage myself in the field. There are moments in which or games in which you push a little less, moments in which you push a little less, you understand that maybe you push more from one part and from the other, you don't risk in a situation, you can do it. The superstars, if they don't do a lot of statistics, they break their balls, okay? Because it is all based on statistics, statistics, statistics. This makes it so that when the superstars play, they must in some way arrive at those statistics there."
 
@@ -14,7 +34,7 @@ From: [S3 Ep. 42 - DITA STRANE E "PACHULIA"  - A CRESTA ALTA PODCAST](https://ww
 
 <small>[Clip it](presserclips://clip?v=okAkJYFyMhU&t=1194&q=5) · [Send to Slack](presserclips://clip?v=okAkJYFyMhU&t=1194&q=5&slack=1)</small>
 
-**2. Simone Sandri — "Historically, there is a player Bruce Brown of the Spurs who did this thing voluntarily." — Simone Sandri on the Bruce Brown strategy** [23:11](https://www.youtube.com/watch?v=okAkJYFyMhU&t=1391s)
+**4. Simone Sandri — "Historically, there is a player Bruce Brown of the Spurs who did this thing voluntarily." — Simone Sandri on the Bruce Brown strategy** [23:11](https://www.youtube.com/watch?v=okAkJYFyMhU&t=1391s)
 
 Simone Sandri: "Historically, there is a player **Bruce Brown** of the Spurs who did this thing voluntarily, who put his foot under the shooters of three to not make them land in a comfortable way, because this way also psychologically, when you know that you go down and there is a defender who is so attached, that he is so attached and you risk that maybe when you land, you don't have the position for to make a landing, let's say, correct, you are not so concentrated on the shot. And it is a thing done of purpose in those years, according to me, there is a famous injury of Kawhi Leonard, for example, against Golden State in the playoffs of several years ago of Pachulia who made this step over."
 
@@ -24,15 +44,53 @@ From: [S3 Ep. 42 - DITA STRANE E "PACHULIA"  - A CRESTA ALTA PODCAST](https://ww
 
 <small>[Clip it](presserclips://clip?v=okAkJYFyMhU&t=1391&q=6) · [Send to Slack](presserclips://clip?v=okAkJYFyMhU&t=1391&q=6&slack=1)</small>
 
-**3. Carl Herrera — "Gabriel called me after the game and said, I have a surprise. I have an I-20." — Carl Herrera on receiving a scholarship to play in the US** [07:25](https://www.youtube.com/watch?v=lt2F6cR_qag&t=445s)
+---
 
-Carl Herrera: "**Gabriel** called me after the game and said, I have a surprise. I have an I-20, I have a scholarship for you to go to the United States. I sat down and I really didn't believe it. I said, **Gabriel**, you are lying to me. He said, no, I have it. He showed it to me and I cried, I hugged him, I thanked him because it was what I wanted, the opportunity to go to the United States to study, to get my family ahead."
+## Dejounte Murray REQUESTS A TRADE from the Pelicans 🚨 Could Zion be next? | NBA Today — *NBA on ESPN*
 
-[https://www.youtube.com/watch?v=lt2F6cR_qag&t=445s](https://www.youtube.com/watch?v=lt2F6cR_qag&t=445s)
+Source: [https://www.youtube.com/watch?v=ayD_Q-G3iio](https://www.youtube.com/watch?v=ayD_Q-G3iio)
 
-From: [🇻🇪 Carl Herrera ABRE su corazón y manda un GRAN mensaje \| E4 T1 Voces NBA](https://www.youtube.com/watch?v=lt2F6cR_qag) · *NBA En Español*
+_Speakers identified: Malika Andrews, Shams Charania, Tim Bontemps, Kendrick Perkins, Chiney Ogwumike_
 
-<small>[Clip it](presserclips://clip?v=lt2F6cR_qag&t=445&q=5) · [Send to Slack](presserclips://clip?v=lt2F6cR_qag&t=445&q=5&slack=1)</small>
+**1. Shams Charania — "Dejounte Murray has requested a trade out of the organization" — Dejounte Murray requests a trade from the New Orleans Pelicans** [00:09](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=9s)
+
+Shams Charania: "Pelicans guard **Dejounte Murray** has requested a trade out of the organization and now his agent **Rich Paul** and the franchise are working toward a resolution. In the last several days, Murray has met with the organization and has made it clear that he wants to go somewhere else and play a meaningful key role on another team. We have seen **Dejounte Murray**, especially on social media, express his frustration with how things are going there. Clearly, it is not working out there. He is not going to be playing basketball in New Orleans for the time moving forward here. In his absence now, the Pelicans will be turning over that lead guard position to **Jeremiah Fears**, who has shined without **Dejounte Murray** in that lineup so far this year. Both sides will be working now on a trade for **Dejounte Murray** out of New Orleans."
+
+[https://www.youtube.com/watch?v=ayD_Q-G3iio&t=9s](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=9s)
+
+<small>[Clip it](presserclips://clip?v=ayD_Q-G3iio&t=9&q=1) · [Send to Slack](presserclips://clip?v=ayD_Q-G3iio&t=9&q=1&slack=1)</small>
+
+**2. Tim Bontemps — "It is like he is almost overcompensating trying to make sure that he can win a press conference." — Joe Dumars overcompensating in trade negotiations after past criticism** [01:11](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s)
+
+Tim Bontemps: "It has not been a great run for **Joe Dumars** since he has been in that chair in New Orleans. He got ridiculed for what he gave up to get **Derrick Queen**. He got ridiculed for the **CJ McCollum** for **Jordan Poole** trade. And so when teams are calling, hey, we are interested in trading **Dejounte Murray**, **Herb Jones**, he is asking for the moon. It is like he is almost overcompensating trying to make sure that he can win a press conference after getting just hammered in the media over the deals that he has made."
+
+[https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s)
+
+<small>[Clip it](presserclips://clip?v=ayD_Q-G3iio&t=71&q=2) · [Send to Slack](presserclips://clip?v=ayD_Q-G3iio&t=71&q=2&slack=1)</small>
+
+**3. Kendrick Perkins — "You have some really good pieces that would fit in some other places, just have not fit together." — New Orleans Pelicans roster pieces do not complement each other** [01:11](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s)
+
+Kendrick Perkins: "One of the things that I look at that team is, I know some guys that do this all the time. They have a lot of designer clothes on, but they just don't match. You have the Versace and the Gucci, but you are not supposed to wear it all at one time. And so you have some really good pieces that would fit in some other places, just have not fit together. Now, did you know that was going to happen if you are **Joe Dumars**? Possibly, obviously not. But to me, the pieces don't fit and they don't complement each other."
+
+[https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s)
+
+<small>[Clip it](presserclips://clip?v=ayD_Q-G3iio&t=71&q=3) · [Send to Slack](presserclips://clip?v=ayD_Q-G3iio&t=71&q=3&slack=1)</small>
+
+**4. Chiney Ogwumike — "I always say you have to pick a direction, either you are moving up or you are moving down." — Pelicans need a cultural reset and direction during Zion Williamson era** [01:11](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s)
+
+Chiney Ogwumike: "It is time for the cultural reset. Because I think of, we all love basketball, I think of the fans, and you want a product that you can believe in. And when I think of the Pelicans, this is year eight of Zion. I know that makes us feel old. I know that he sat out, it has been a time here or there. This is not where you want to go. I always say you have to pick a direction, either you are moving up or you are moving down. They have had the fourth-worst record in the league cumulatively ever since they have got Zion. They have got to make a choice on how they want to build the future with their identity, with the stars that they champion."
+
+[https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=71s)
+
+<small>[Clip it](presserclips://clip?v=ayD_Q-G3iio&t=71&q=4) · [Send to Slack](presserclips://clip?v=ayD_Q-G3iio&t=71&q=4&slack=1)</small>
+
+**5. Tim Bontemps — "Can you trade Zion? Sure. Can you get a big return for him? No way." — Pelicans face difficulty finding a trade market for Zion Williamson** [4:14](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=254s)
+
+Tim Bontemps: "I was texting with an executive asking about a potential Zion market. He says, can you trade Zion? Sure. Can you get a big return for him? No way."
+
+[https://www.youtube.com/watch?v=ayD_Q-G3iio&t=254s](https://www.youtube.com/watch?v=ayD_Q-G3iio&t=254s)
+
+<small>[Clip it](presserclips://clip?v=ayD_Q-G3iio&t=254&q=5) · [Send to Slack](presserclips://clip?v=ayD_Q-G3iio&t=254&q=5&slack=1)</small>
 
 ---
 

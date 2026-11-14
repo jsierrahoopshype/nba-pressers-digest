@@ -1,0 +1,512 @@
+{
+  "video_title": "Clippers vs. Thunder | Postgame Interviews | Nov. 13, 2026 | LA Clippers",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Darius Garland"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:31",
+      "summary_phrase": "Tyronn Lue on the impact of Darius Garland's closing performance",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "Darius Garland came back in the game and really pulled us through in this game.",
+      "quote": "Darius Garland came back in the game and really pulled us through in this game. I think we were down six, we brought him back, and he carried the load scoring the basketball, passing the basketball, and made some huge shots for us.",
+      "text_blocks": [],
+      "start_seconds": 31,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tyronn Lue on Darius Garland closing out the win: Darius Garland came back in the game and really pulled us through. He carried the load scoring the basketball, passing the basketball, and made some huge shots for us.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyronn Lue discusses Darius Garland's performance in the closing minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:18",
+      "summary_phrase": "Tyronn Lue praises Darius Garland's composure after early turnovers",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "He had those two turnovers back to back, but after that it felt like he really willed us.",
+      "quote": "He had those two turnovers back to back, but after that it felt like he really willed us to that victory. We have seen that go the other direction in a few games, so I am very proud of him that he was able to shake that off and bounce back.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tyronn Lue on Darius Garland bouncing back from early turnovers: He had those two turnovers back to back, but after that it felt like he really willed us to that victory. I am very proud of him that he was able to shake that off.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue praises Darius Garland for overcoming early turnovers to help secure the win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:18",
+      "summary_phrase": "Tyronn Lue discusses Derek Jones's defensive impact on Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Derek Jones",
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "Derek Jones was huge tonight making stuff difficult for Shai Gilgeous-Alexander.",
+      "quote": "Derek Jones was huge tonight making stuff difficult for Shai Gilgeous-Alexander. When he went out, Shai Gilgeous-Alexander seemed like he went at everybody else but Derek Jones. He is an elite defender, and him and Darius Garland on a night-to-night basis have the toughest assignment every single night.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Tyronn Lue on Derek Jones defending Shai Gilgeous-Alexander: Derek Jones was huge tonight making stuff difficult for Shai. When he went out, Shai seemed like he went at everybody else but Derek Jones. He is an elite defender.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Derek Jones",
+          "Shai Gilgeous-Alexander",
+          "Darius Garland"
+        ],
+        "teams": [
+          "LAC",
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyronn Lue highlights the defensive impact of Derek Jones against Shai Gilgeous-Alexander.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyronn Lue",
+      "timestamp": "04:14",
+      "summary_phrase": "Tyronn Lue on Brook Lopez's calming presence and post play",
+      "names_mentioned": [
+        "Brook Lopez"
+      ],
+      "excerpt": "Brook Lopez has done a lot for us at his age and what he is able to do.",
+      "quote": "Brook Lopez has done a lot for us at his age and what he is able to do by staying prepared and keeping his body right. If we need him to start, he is ready. If we need him to come off the bench, he is ready. Tonight, he was a calming presence to get the ball in the paint and for him to make some baskets that we really needed.",
+      "text_blocks": [],
+      "start_seconds": 254,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on Brook Lopez: Brook Lopez has done a lot for us at his age. If we need him to start, he is ready. If we need him to come off the bench, he is ready. Tonight, he was a calming presence.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brook Lopez"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the versatility and professionalism of veteran Brook Lopez.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darius Garland",
+      "text_blocks": [
+        {
+          "speaker": "Darius Garland",
+          "text": "I definitely blacked out. I did not see nobody for real."
+        },
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Did you see the fan pointing at you like eight different times? He was hyped up just as much as you."
+        }
+      ],
+      "timestamp": "07:48",
+      "summary_phrase": "Darius Garland on his game-winning play and fan reaction",
+      "names_mentioned": [],
+      "excerpt": "I definitely blacked out. I did not see nobody for real.",
+      "start_seconds": 468,
+      "end_seconds": 480,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 9,
+      "social_post": "Darius Garland on his game-winning performance: I definitely blacked out. I did not see nobody for real.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland reacts to a question about his game-winning play and a fan's reaction.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darius Garland",
+      "timestamp": "08:40",
+      "summary_phrase": "Darius Garland on Brook Lopez's veteran leadership and work ethic",
+      "names_mentioned": [
+        "Brook Lopez"
+      ],
+      "excerpt": "He is down there battling, getting extra possessions for us, getting and-ones, tipping the ball back to us.",
+      "quote": "He is down there battling, getting extra possessions for us, getting and-ones, tipping the ball back to us, getting extra possessions like I said. But man, he has been great for us, bro. It is crazy to say this that he is 40 and playing this high of a level. This is literally his third stint of an NBA career basically. It is incredible to see, and I tip my hat to him every night.",
+      "text_blocks": [],
+      "start_seconds": 520,
+      "end_seconds": 549,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 8,
+      "social_post": "Darius Garland on 40-year-old Brook Lopez: It is crazy to say this that he is 40 and playing this high of a level. This is literally his third stint of an NBA career basically. It is incredible to see, and I tip my hat to him every night.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brook Lopez"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darius Garland praises the veteran leadership and high-level play of Brook Lopez.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darius Garland",
+      "timestamp": "10:06",
+      "summary_phrase": "Darius Garland on Derek Jones's defensive and offensive contributions",
+      "names_mentioned": [
+        "Derek Jones"
+      ],
+      "excerpt": "He is spacing the floor for us really well. Everybody sees him dunking and flying in the air.",
+      "quote": "He is spacing the floor for us really well. Everybody sees him dunking and flying in the air, his athleticism, but him stretching the floor, making the defense really got to guess a little bit with him. We run a lot of backdoors for him as well, but just keeping them on his toes and he is making step-back threes now, which is super good. It is just opening up the floor for all the guards to get downhill.",
+      "text_blocks": [],
+      "start_seconds": 606,
+      "end_seconds": 636,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darius Garland on Derek Jones: He is spacing the floor for us really well. Everybody sees him dunking and flying in the air, but him stretching the floor, making the defense really got to guess a little bit with him.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Derek Jones"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darius Garland explains how Derek Jones helps space the floor for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darius Garland",
+      "timestamp": "11:16",
+      "summary_phrase": "Darius Garland on Brook Lopez's energy off the bench",
+      "names_mentioned": [
+        "Brook Lopez"
+      ],
+      "excerpt": "Brook Lopez has been really good for us. He brings a lot of energy to our entire team.",
+      "quote": "Brook Lopez has been really good for us. He brings a lot of energy to our entire team. He gives us a lot of extra possessions as well. He is super active defensively, and he is a great cutter off the ball as well, which I like a lot, especially with driving and he is just flying in, coming in for layups and even on missed shots he is getting tip-ins, tip-dunks, always running the floor.",
+      "text_blocks": [],
+      "start_seconds": 676,
+      "end_seconds": 705,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darius Garland on Brook Lopez: Brook Lopez has been really good for us. He brings a lot of energy to our entire team. He gives us a lot of extra possessions as well. He is super active defensively.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brook Lopez"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darius Garland describes the energy and hustle Brook Lopez brings off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Darius Garland",
+      "timestamp": "14:17",
+      "summary_phrase": "Darius Garland on his defensive mindset and foul management",
+      "names_mentioned": [],
+      "excerpt": "I just try my hardest to keep him on the right side of the floor.",
+      "quote": "I know he likes to go left and get to his step-back, but I just try my hardest to keep him on the right side of the floor and just get a contest up. I mean, he is an MVP of this league for a reason, so we know he is going to do what he is going to do on the offensive end and try to score a lot, but for me, I just try to try to get a good contest and live with the results.",
+      "text_blocks": [],
+      "start_seconds": 857,
+      "end_seconds": 891,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Darius Garland on defending Shai Gilgeous-Alexander: I know he likes to go left and get to his step-back, but I just try my hardest to keep him on the right side of the floor and just get a contest up.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "LAC",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Darius Garland discusses his defensive approach when guarding Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darius Garland",
+      "timestamp": "14:50",
+      "summary_phrase": "Darius Garland on the importance of defense in the modern NBA",
+      "names_mentioned": [],
+      "excerpt": "I feel like for me as a defender, I don't have the leeway on the defensive end.",
+      "quote": "I feel like for me as a defender, I don't have the leeway on the defensive end sometimes, but I mean, it is the game of basketball. You can't just dwell on the calls that are called, but for me personally, I just go out there and just put my best foot forward regardless. I just try to keep my man in front of me, try to keep my hands to myself.",
+      "text_blocks": [],
+      "start_seconds": 890,
+      "end_seconds": 918,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Darius Garland on defensive officiating: I don't have the leeway on the defensive end sometimes, but it is the game of basketball. You can't just dwell on the calls that are called.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland talks about his mindset regarding defensive officiating and staying disciplined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Darius Garland",
+      "timestamp": "15:42",
+      "summary_phrase": "Darius Garland on his personal work ethic and shooting confidence",
+      "names_mentioned": [
+        "Derek Jones",
+        "Brook Lopez"
+      ],
+      "excerpt": "It is just personal work. I work so hard on my game year-in, year-out, throughout the summertime.",
+      "quote": "It is just personal work. I work so hard on my game year-in, year-out, throughout the summertime. I don't remember the last time I took vacation really, so it is literally season's over, I get right back in the lab. For me, that is just how I am, but yeah, it is just my work being off. I am just going to keep shooting the ball whenever they leave me open, then ball going up and they don't want to close out.",
+      "text_blocks": [],
+      "start_seconds": 942,
+      "end_seconds": 974,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Darius Garland on his work ethic: I don't remember the last time I took vacation really, so it is literally season's over, I get right back in the lab. For me, that is just how I am.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland attributes his shooting confidence to his rigorous offseason work ethic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Darius Garland",
+      "timestamp": "16:30",
+      "summary_phrase": "Darius Garland on Brook Lopez's all-around impact",
+      "names_mentioned": [
+        "Brook Lopez"
+      ],
+      "excerpt": "He protects the rim at a high level and we shoot the ball at a high level.",
+      "quote": "He protects the rim at a high level and we shoot the ball at a high level. He gets to that paint and finishes under the rim layups at a high level. So it is like, I mean, he he does a lot of great things for us and and we we appreciate everything he does out there.",
+      "text_blocks": [],
+      "start_seconds": 990,
+      "end_seconds": 1012,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darius Garland on Brook Lopez: He protects the rim at a high level and we shoot the ball at a high level. He gets to that paint and finishes under the rim layups at a high level.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brook Lopez"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darius Garland details the specific ways Brook Lopez contributes to the team's success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Darius Garland",
+      "timestamp": "17:12",
+      "summary_phrase": "Darius Garland on mentoring Brook Lopez",
+      "names_mentioned": [
+        "Brook Lopez"
+      ],
+      "excerpt": "I just to be who he is. We knew what type of player he was.",
+      "quote": "I just to be who he is. We knew what type of player he was. It wasn't it wasn't no shock for us. We know he can shoot the ball, we know he can finish the ball at a high level, and whenever he get a chance he he can put the ball on the floor and create for himself and create for others. It is just it is just a game of basketball. You just got to go out there and and play confident and not let anything take your confidence away.",
+      "text_blocks": [],
+      "start_seconds": 1032,
+      "end_seconds": 1068,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Darius Garland on Brook Lopez: We knew what type of player he was. It wasn't no shock for us. We know he can shoot the ball, we know he can finish the ball at a high level.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brook Lopez"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darius Garland discusses the confidence and skill set Brook Lopez brings to the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Darius Garland",
+      "timestamp": "18:13",
+      "summary_phrase": "Darius Garland on his pride in playing elite defense",
+      "names_mentioned": [],
+      "excerpt": "I haven't yet in my career been able to be blessed to be on the all-defensive team.",
+      "quote": "I haven't yet in my career been able to be blessed to be on the all-defensive team. One is because I haven't I haven't been able to be healthy all year long to to get the right amount of minutes for it, but for me that is that is my goal. I feel like every year I I contribute on the floor at a high level on the defensive end, and for me to be able to have that accolade, but just never been able to have the right amount of games for me.",
+      "text_blocks": [],
+      "start_seconds": 1093,
+      "end_seconds": 1129,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Darius Garland on his goal to make an All-Defensive team: I haven't yet in my career been able to be blessed to be on the all-defensive team. For me that is my goal.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Darius Garland expresses his ambition to be named to an all-defensive team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Darius Garland",
+      "timestamp": "19:12",
+      "summary_phrase": "Darius Garland on team chemistry and trusting his teammates",
+      "names_mentioned": [],
+      "excerpt": "You could tell when a when a group got it going and they having fun out there.",
+      "quote": "You could tell when a when a group got it going and they having fun out there. The ball moving around, everything is going well. So I mean for me, they they called me up and they told me just give them one second and it wasn't a problem for me. Regardless, I I want to see my guys shine. I mean if they out there they they doing well bringing the game back, I I feel like I'd be selfish for me to just hang my head and and pout for me not being in the game.",
+      "text_blocks": [],
+      "start_seconds": 1152,
+      "end_seconds": 1190,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Darius Garland on team chemistry: I feel like I'd be selfish for me to just hang my head and pout for me not being in the game. I want to see my guys shine.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darius Garland explains his selfless attitude regarding team chemistry and playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "MwXVqr4mGD8",
+  "url": "https://www.youtube.com/watch?v=MwXVqr4mGD8",
+  "channel_team": "LA Clippers",
+  "published": "2026-11-14T11:29:10Z",
+  "duration_seconds": 1216,
+  "processed_at": "2026-11-14T15:11:08Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}
