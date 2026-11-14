@@ -1067,6 +1067,12 @@
    "seeded": true,
    "slot_date": "2026-11-12"
   },
+  "N7YcanOUXqQ": {
+   "at": "2026-11-14T23:55:03Z",
+   "quote": "it sounds like eve missi is doing a lot better tonight too how are you planning to utilize him this evening as best as we can there would be a minutes restriction with him just to make sure it s more ",
+   "run_id": "2026-11-14T2354Z-20utc",
+   "slot_date": "2026-11-14"
+  },
   "NP9hYeq4kMw": {
    "at": "2026-11-13T16:32:22Z",
    "quote": "i think it starts with not making a lot of game plan mistakes that s one and i think two we got to communicate i think our guys on the floor are not talking through situations we re not calling the ac",
@@ -1744,6 +1750,12 @@
    "seeded": true,
    "slot_date": "2026-11-01"
   },
+  "bM6DdEimtro": {
+   "at": "2026-11-14T23:55:03Z",
+   "quote": "i think we re just gelling together a little more finding our strengths from the starting five to the backups to the bench higher intensity on defense more sound on offense being more physical as much",
+   "run_id": "2026-11-14T2354Z-20utc",
+   "slot_date": "2026-11-14"
+  },
   "bNhhML9DzWc": {
    "at": "2026-11-01T07:38:47Z",
    "quote": "that was great it was part of our film session this morning so it s nice to see transfer reward these guys they re both playing great 16 shot attempts we were very intentional about getting them the b",
@@ -2008,6 +2020,12 @@
    "seeded": true,
    "slot_date": "2026-11-03"
   },
+  "iJoY-PAM8W4": {
+   "at": "2026-11-14T23:55:03Z",
+   "quote": "i do i like the plus minus it lets you know how you re impacting the game if you re doing your thing out there i like the plus minus i do",
+   "run_id": "2026-11-14T2354Z-20utc",
+   "slot_date": "2026-11-14"
+  },
   "iVVB6v5vRnQ": {
    "at": "2026-11-03T08:03:12Z",
    "quote": "maxey s been leading the way 100 he s been here this is his team him and joel have been here for a while so the mindset has been to compliment those guys i m finding my footing but maxey s been leadin",
@@ -2159,6 +2177,12 @@
    "quote": "i have to go back and watch the film but it just seemed like defense a little bit kind of slowed up for us that s who we are rebounding they made a lot of shots but i have to go back and watch it",
    "run_id": "2026-11-13-overnight",
    "slot_date": "2026-11-13"
+  },
+  "lp2JBkYnxxY": {
+   "at": "2026-11-14T23:55:03Z",
+   "quote": "i do think the shift in his role and responsibility even with some of the roster changes not that he has the ball in his hands more but he is in a place where it is his ball when he has everything goi",
+   "run_id": "2026-11-14T2354Z-20utc",
+   "slot_date": "2026-11-14"
   },
   "lpCRmF3xIJA": {
    "at": "2026-11-12T17:39:12Z",
@@ -2758,70 +2782,5 @@
    "slot_date": "2026-11-03"
   }
  },
- "pending": {
-  "N7YcanOUXqQ": {
-   "channel": "New Orleans Pelicans",
-   "clip_count": 6,
-   "content_type": "presser",
-   "date": "2026-11-14",
-   "is_one_off": false,
-   "queued_at": "2026-11-14T23:55:03Z",
-   "run_id": "2026-11-14T2354Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-14",
-   "speaker": "Jamahl Mosley",
-   "title": "LIVE: Pelicans vs. Nuggets Pregame w/ Jamahl Mosley 11/14/2026",
-   "top_quote": "It sounds like Eve Missi is doing a lot better tonight too. How are you planning to utilize him this evening? As best as we can. There would be a minutes restriction with him just to make sure. It's more about when than anything and I'll keep testing him and seeing how he feels throughout the game.",
-   "video_id": "N7YcanOUXqQ"
-  },
-  "bM6DdEimtro": {
-   "channel": "Phoenix Suns",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-14",
-   "is_one_off": false,
-   "queued_at": "2026-11-14T23:55:03Z",
-   "run_id": "2026-11-14T2354Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-14",
-   "speaker": "Ryan Dunn",
-   "title": "Ryan Dunn Practice Media Availability | 11-14-26",
-   "top_quote": "I think we're just gelling together a little more, finding our strengths from the starting five to the backups to the bench. Higher intensity on defense, more sound on offense, being more physical as much as we can, trying to limit fouls, just trying to play a good 48 minutes of Suns basketball.",
-   "video_id": "bM6DdEimtro"
-  },
-  "iJoY-PAM8W4": {
-   "channel": "Phoenix Suns",
-   "clip_count": 7,
-   "content_type": "presser",
-   "date": "2026-11-14",
-   "is_one_off": false,
-   "queued_at": "2026-11-14T23:55:03Z",
-   "run_id": "2026-11-14T2354Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-14",
-   "speaker": "Jordan Goodwin",
-   "title": "Jordan Goodwin Practice Media Availability | 11-14-26",
-   "top_quote": "I do. I like the plus-minus. It lets you know how you're impacting the game if you're doing your thing out there. I like the plus-minus, I do.",
-   "video_id": "iJoY-PAM8W4"
-  },
-  "lp2JBkYnxxY": {
-   "channel": "Phoenix Suns",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-14",
-   "is_one_off": false,
-   "queued_at": "2026-11-14T23:55:03Z",
-   "run_id": "2026-11-14T2354Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-14",
-   "speaker": "Jordan Ott",
-   "title": "Head Coach Jordan Ott Practice Media Availability | 11-14-26",
-   "top_quote": "I do think the shift in his role and responsibility even with some of the roster changes, not that he has the ball in his hands more, but he is in a place where it is his ball. When he has everything going, that's what makes him the toughest. It is the three-point line, it is the fouling, it is the rim, and then he is one of the elite passers in the league. He is one of those guys if you give him a consistent look, he is going to figure it out. He plays at his own pace.",
-   "video_id": "lp2JBkYnxxY"
-  }
- }
+ "pending": {}
 }
