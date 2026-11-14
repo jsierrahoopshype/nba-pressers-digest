@@ -1,0 +1,226 @@
+{
+  "video_title": "Postgame Media Availability with Coach Daigneault, JMac, and Shai | OKC Thunder | November 13, 2026",
+  "speakers_seen": [
+    "Mark Daigneault",
+    "Jalen Williams",
+    "Shai Gilgeous-Alexander"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "02:57",
+      "summary_phrase": "Mark Daigneault on Shai Gilgeous-Alexander's consistent approach despite injury-impacted lineups",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "the thing that he's great at is staying consistent in all circumstances",
+      "quote": "I think stylistically at times, there's times where he's out there and he's got to be more of a point of attack guy. We're not able to move him around quite as much with certain lineups. But I was talking pregame, he hasn't changed very much. The thing that he's great at is staying consistent in all circumstances and his approach and the way that he's gone about this has been very consistent. Now obviously, how we play and what our style looks like at a given point in time is dependent on who's on the court and that's changed significantly obviously with the guys that we have out, but we're working through that and trying to grow that to the best degree that we can.",
+      "start_seconds": 177,
+      "end_seconds": 225,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mark Daigneault on Shai Gilgeous-Alexander: He has not changed very much despite the shifting lineups. The thing that he is great at is staying consistent in all circumstances.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Mark Daigneault discusses how Shai Gilgeous-Alexander maintains consistency despite lineup changes caused by injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "timestamp": "04:55",
+      "summary_phrase": "Mark Daigneault on Jalen Williams' ability to remain aggressive despite shooting struggles",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "his ability to stay confident really in all situations is impressive",
+      "quote": "His ability to stay confident really in all situations is impressive because he has not shot the ball up to probably his level so far this season. His three-point percentage coming into the game is not reflective of how good of a shooter he is and yet it has not changed his aggression one bit and it hasn't changed the way he plays one bit. He does not shrink regardless of the circumstances and even in a half where we seemingly can't find a way to make a couple threes, he comes right out of halftime and gets that flurry going for us.",
+      "start_seconds": 295,
+      "end_seconds": 335,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mark Daigneault on Jalen Williams: His three-point percentage is not reflective of how good of a shooter he is and yet it has not changed his aggression one bit. He does not shrink regardless of the circumstances.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault praises Jalen Williams for maintaining his confidence and aggression despite a recent shooting slump.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Williams",
+      "timestamp": "06:48",
+      "summary_phrase": "Jalen Williams on the team's maturity and ability to adjust at halftime",
+      "names_mentioned": [],
+      "excerpt": "that speaks to the maturity of this group, being able to translate stuff that we speak about",
+      "quote": "That speaks to the maturity of this group, being able to translate stuff that we speak about in the locker room to the court, especially coming out in the third quarter. We were down 12 at halftime and those are big swings, especially that first five minutes. So coming out, being ready to play and make those adjustments that we needed to at halftime is good for us.",
+      "start_seconds": 408,
+      "end_seconds": 434,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jalen Williams on the Thunder comeback: That speaks to the maturity of this group, being able to translate stuff that we speak about in the locker room to the court.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams discusses the team's ability to make halftime adjustments during a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Williams",
+      "timestamp": "09:32",
+      "summary_phrase": "Jalen Williams on the importance of gratitude and his brother's influence on his career",
+      "names_mentioned": [],
+      "excerpt": "gratitude is probably the biggest thing that has led me to the success in the NBA",
+      "quote": "I try to be positive in every situation I'm in, whether it's a shooting slump, whether it's not playing as much. Whatever it is, I try to find something to be grateful for and I think gratitude is probably the biggest thing that has led me to the success in the NBA. My brother is probably my biggest inspiration. He believed in me since I was young and since I had no offers for high school, so that's my inspiration and why I play all the time.",
+      "start_seconds": 572,
+      "end_seconds": 605,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 8,
+      "social_post": "Jalen Williams on his journey: I try to find something to be grateful for and I think gratitude is probably the biggest thing that has led me to the success in the NBA. My brother is my biggest inspiration.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jalen Williams reflects on his personal mindset and the influence his brother has had on his basketball career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "11:10",
+      "summary_phrase": "Shai Gilgeous-Alexander on the team's resilience and embracing adversity",
+      "names_mentioned": [],
+      "excerpt": "we've kind of had the win in our back for the last couple years",
+      "quote": "We didn't have much of a choice. That's how basketball games go. Sometimes you make a run, sometimes they make a run and you got to get back to your core principles and what makes you a good team. We did that for enough of the game in the second half to get ourselves back in it. We didn't close it out, but we give ourselves a chance. Honestly speaking, it's kind of fun. We've kind of had the win in our back for the last couple years and had our way a lot of nights and to have the adversity, it's kind of fun. I embrace it. It'll make me better, it'll make us better.",
+      "start_seconds": 670,
+      "end_seconds": 715,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 7,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder facing adversity: We have had the wind in our back for the last couple years and had our way a lot of nights and to have the adversity, it is kind of fun. I embrace it.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses the team's approach to handling adversity during recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "14:44",
+      "summary_phrase": "Shai Gilgeous-Alexander on Cason Wallace's potential and development",
+      "names_mentioned": [
+        "Cason Wallace"
+      ],
+      "excerpt": "he's a good player, he's a good feel, can really shoot",
+      "quote": "He's a good player, he's a good feel, can really shoot. Usually when you have those things, the game will slow down for you eventually. He's in a good situation, he'll get to play a lot. It's good coaches over there, so he'll learn the game the right way. It's nice to see he works hard, he should have the whole runway to be whoever he wants to be.",
+      "start_seconds": 884,
+      "end_seconds": 911,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Shai Gilgeous-Alexander on Cason Wallace: He is a good player, he has a good feel, and can really shoot. He should have the whole runway to be whoever he wants to be.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cason Wallace"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander shares his thoughts on the development and potential of teammate Cason Wallace.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "17:00",
+      "summary_phrase": "Shai Gilgeous-Alexander on his leadership style and growth with the Thunder",
+      "names_mentioned": [],
+      "excerpt": "I try to be the best player I can be and try to lead by example",
+      "quote": "I try to be the best player I can be and try to lead by example, try to do the right things out there on the floor. I've just been given the runway to grow as a leader, grow as a player my whole time here. They just put the ball in my hands and I've been able to kind of experiment with the game and figure out what I like and don't like and it's because of my hard work, things have kind of worked out for me.",
+      "start_seconds": 1020,
+      "end_seconds": 1054,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Shai Gilgeous-Alexander on his growth in OKC: They just put the ball in my hands and I have been able to kind of experiment with the game and figure out what I like and do not like.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander describes his leadership style and his growth as a player during his tenure with the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "GbjHGGq7tQ0",
+  "url": "https://www.youtube.com/watch?v=GbjHGGq7tQ0",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-14T06:57:55Z",
+  "duration_seconds": 1116,
+  "processed_at": "2026-11-14T07:39:50Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}

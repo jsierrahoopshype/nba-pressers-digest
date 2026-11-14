@@ -12,7 +12,17 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. MILWUAKEE BUCKS \| COACH SWEENEY, FRANZ
 
 <small>[Clip it](presserclips://clip?v=UBfPvL4vRF0&t=648&q=12) · [Send to Slack](presserclips://clip?v=UBfPvL4vRF0&t=648&q=12&slack=1)</small>
 
-**2. Saddiq Bey — "it's a business, some of those things that can't really talk about" — Saddiq Bey on team chemistry and handling internal business** [01:52](https://www.youtube.com/watch?v=Ynw51plEkWY&t=112s)
+**2. Jalen Williams — "gratitude is probably the biggest thing that has led me to the success in the NBA" — Jalen Williams on the importance of gratitude and his brother's influence on his career** [09:32](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=572s)
+
+Jalen Williams: "I try to be positive in every situation I'm in, whether it's a shooting slump, whether it's not playing as much. Whatever it is, I try to find something to be grateful for and I think gratitude is probably the biggest thing that has led me to the success in the NBA. My brother is probably my biggest inspiration. He believed in me since I was young and since I had no offers for high school, so that's my inspiration and why I play all the time."
+
+[https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=572s](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=572s)
+
+From: [Postgame Media Availability with Coach Daigneault, JMac, and Shai \| OKC Thunder \| November 13, 2026](https://www.youtube.com/watch?v=GbjHGGq7tQ0) · *Oklahoma City Thunder*
+
+<small>[Clip it](presserclips://clip?v=GbjHGGq7tQ0&t=572&q=4) · [Send to Slack](presserclips://clip?v=GbjHGGq7tQ0&t=572&q=4&slack=1)</small>
+
+**3. Saddiq Bey — "it's a business, some of those things that can't really talk about" — Saddiq Bey on team chemistry and handling internal business** [01:52](https://www.youtube.com/watch?v=Ynw51plEkWY&t=112s)
 
 Saddiq Bey: "It's a business. And especially we can, honestly, you know we love him. I personally love him. I've known him for years and it's a business, it's some of those things that can't really talk about and just close. But you know, we're brothers for life. Just keep the main thing the main thing and know this is a business. Everyone has to do the best for them and their family and the team and just know he's a great guy and I love him for every day in this time I've been around him, man."
 
@@ -22,7 +32,7 @@ From: [Saddiq Bey \| Pelicans vs. Grizzlies Postgame Interview 11/13/26](https:/
 
 <small>[Clip it](presserclips://clip?v=Ynw51plEkWY&t=112&q=3) · [Send to Slack](presserclips://clip?v=Ynw51plEkWY&t=112&q=3&slack=1)</small>
 
-**3. Coach Sweeney — "Just trying to make sure that we manage the game." — Coach Sweeney on managing Jaylen Brown after injury** [02:32](https://www.youtube.com/watch?v=UBfPvL4vRF0&t=152s)
+**4. Coach Sweeney — "Just trying to make sure that we manage the game." — Coach Sweeney on managing Jaylen Brown after injury** [02:32](https://www.youtube.com/watch?v=UBfPvL4vRF0&t=152s)
 
 Coach Sweeney: "Just trying to make sure that we manage the game. Talked a little bit before the game about with certain guys when they come back from injury, you're trying to manage it, making it a 40 minute game instead of a 48 minute game. But his impact was felt immediately and although he didn't have a great shooting night, he impacts the game in so many different areas on the basketball with his point of attack defense, his ability to penetrate and make the right play in limited minutes."
 
@@ -32,7 +42,17 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. MILWUAKEE BUCKS \| COACH SWEENEY, FRANZ
 
 <small>[Clip it](presserclips://clip?v=UBfPvL4vRF0&t=152&q=4) · [Send to Slack](presserclips://clip?v=UBfPvL4vRF0&t=152&q=4&slack=1)</small>
 
-**4. Kyle Kuzma — "Anytime he gets smaller defenders on him, he takes advantage. He has the ball all night." — Kyle Kuzma on Franz Wagner's offensive impact against the Wizards** [00:34](https://www.youtube.com/watch?v=U_H20UPQnj8&t=34s)
+**5. Shai Gilgeous-Alexander — "we've kind of had the win in our back for the last couple years" — Shai Gilgeous-Alexander on the team's resilience and embracing adversity** [11:10](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=670s)
+
+Shai Gilgeous-Alexander: "We didn't have much of a choice. That's how basketball games go. Sometimes you make a run, sometimes they make a run and you got to get back to your core principles and what makes you a good team. We did that for enough of the game in the second half to get ourselves back in it. We didn't close it out, but we give ourselves a chance. Honestly speaking, it's kind of fun. We've kind of had the win in our back for the last couple years and had our way a lot of nights and to have the adversity, it's kind of fun. I embrace it. It'll make me better, it'll make us better."
+
+[https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=670s](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=670s)
+
+From: [Postgame Media Availability with Coach Daigneault, JMac, and Shai \| OKC Thunder \| November 13, 2026](https://www.youtube.com/watch?v=GbjHGGq7tQ0) · *Oklahoma City Thunder*
+
+<small>[Clip it](presserclips://clip?v=GbjHGGq7tQ0&t=670&q=5) · [Send to Slack](presserclips://clip?v=GbjHGGq7tQ0&t=670&q=5&slack=1)</small>
+
+**6. Kyle Kuzma — "Anytime he gets smaller defenders on him, he takes advantage. He has the ball all night." — Kyle Kuzma on Franz Wagner's offensive impact against the Wizards** [00:34](https://www.youtube.com/watch?v=U_H20UPQnj8&t=34s)
 
 Kyle Kuzma: "He is a big boy. Anytime he gets smaller defenders on him, he takes advantage. He has the ball all night, he has great rhythm, and he is just a phenomenal player."
 
@@ -129,6 +149,70 @@ Tuomas Iisalo: "The biggest thing is just to bring the energy. Our playstyle and
 [https://www.youtube.com/watch?v=Ed4m2yyzlts&t=220s](https://www.youtube.com/watch?v=Ed4m2yyzlts&t=220s)
 
 <small>[Clip it](presserclips://clip?v=Ed4m2yyzlts&t=220&q=4) · [Send to Slack](presserclips://clip?v=Ed4m2yyzlts&t=220&q=4&slack=1)</small>
+
+---
+
+## Postgame Media Availability with Coach Daigneault, JMac, and Shai | OKC Thunder | November 13, 2026 — *Oklahoma City Thunder*
+
+Source: [https://www.youtube.com/watch?v=GbjHGGq7tQ0](https://www.youtube.com/watch?v=GbjHGGq7tQ0)
+
+_Speakers identified: Mark Daigneault, Jalen Williams, Shai Gilgeous-Alexander_
+
+**1. Mark Daigneault — "the thing that he's great at is staying consistent in all circumstances" — Mark Daigneault on Shai Gilgeous-Alexander's consistent approach despite injury-impacted lineups** [02:57](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=177s)
+
+Mark Daigneault: "I think stylistically at times, there's times where he's out there and he's got to be more of a point of attack guy. We're not able to move him around quite as much with certain lineups. But I was talking pregame, he hasn't changed very much. The thing that he's great at is staying consistent in all circumstances and his approach and the way that he's gone about this has been very consistent. Now obviously, how we play and what our style looks like at a given point in time is dependent on who's on the court and that's changed significantly obviously with the guys that we have out, but we're working through that and trying to grow that to the best degree that we can."
+
+[https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=177s](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=177s)
+
+<small>[Clip it](presserclips://clip?v=GbjHGGq7tQ0&t=177&q=1) · [Send to Slack](presserclips://clip?v=GbjHGGq7tQ0&t=177&q=1&slack=1)</small>
+
+**2. Mark Daigneault — "his ability to stay confident really in all situations is impressive" — Mark Daigneault on Jalen Williams' ability to remain aggressive despite shooting struggles** [04:55](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=295s)
+
+Mark Daigneault: "His ability to stay confident really in all situations is impressive because he has not shot the ball up to probably his level so far this season. His three-point percentage coming into the game is not reflective of how good of a shooter he is and yet it has not changed his aggression one bit and it hasn't changed the way he plays one bit. He does not shrink regardless of the circumstances and even in a half where we seemingly can't find a way to make a couple threes, he comes right out of halftime and gets that flurry going for us."
+
+[https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=295s](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=295s)
+
+<small>[Clip it](presserclips://clip?v=GbjHGGq7tQ0&t=295&q=2) · [Send to Slack](presserclips://clip?v=GbjHGGq7tQ0&t=295&q=2&slack=1)</small>
+
+**3. Jalen Williams — "that speaks to the maturity of this group, being able to translate stuff that we speak about" — Jalen Williams on the team's maturity and ability to adjust at halftime** [06:48](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=408s)
+
+Jalen Williams: "That speaks to the maturity of this group, being able to translate stuff that we speak about in the locker room to the court, especially coming out in the third quarter. We were down 12 at halftime and those are big swings, especially that first five minutes. So coming out, being ready to play and make those adjustments that we needed to at halftime is good for us."
+
+[https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=408s](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=408s)
+
+<small>[Clip it](presserclips://clip?v=GbjHGGq7tQ0&t=408&q=3) · [Send to Slack](presserclips://clip?v=GbjHGGq7tQ0&t=408&q=3&slack=1)</small>
+
+**4. Jalen Williams — "gratitude is probably the biggest thing that has led me to the success in the NBA" — Jalen Williams on the importance of gratitude and his brother's influence on his career** [09:32](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=572s)
+
+Jalen Williams: "I try to be positive in every situation I'm in, whether it's a shooting slump, whether it's not playing as much. Whatever it is, I try to find something to be grateful for and I think gratitude is probably the biggest thing that has led me to the success in the NBA. My brother is probably my biggest inspiration. He believed in me since I was young and since I had no offers for high school, so that's my inspiration and why I play all the time."
+
+[https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=572s](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=572s)
+
+<small>[Clip it](presserclips://clip?v=GbjHGGq7tQ0&t=572&q=4) · [Send to Slack](presserclips://clip?v=GbjHGGq7tQ0&t=572&q=4&slack=1)</small>
+
+**5. Shai Gilgeous-Alexander — "we've kind of had the win in our back for the last couple years" — Shai Gilgeous-Alexander on the team's resilience and embracing adversity** [11:10](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=670s)
+
+Shai Gilgeous-Alexander: "We didn't have much of a choice. That's how basketball games go. Sometimes you make a run, sometimes they make a run and you got to get back to your core principles and what makes you a good team. We did that for enough of the game in the second half to get ourselves back in it. We didn't close it out, but we give ourselves a chance. Honestly speaking, it's kind of fun. We've kind of had the win in our back for the last couple years and had our way a lot of nights and to have the adversity, it's kind of fun. I embrace it. It'll make me better, it'll make us better."
+
+[https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=670s](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=670s)
+
+<small>[Clip it](presserclips://clip?v=GbjHGGq7tQ0&t=670&q=5) · [Send to Slack](presserclips://clip?v=GbjHGGq7tQ0&t=670&q=5&slack=1)</small>
+
+**6. Shai Gilgeous-Alexander — "he's a good player, he's a good feel, can really shoot" — Shai Gilgeous-Alexander on Cason Wallace's potential and development** [14:44](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=884s)
+
+Shai Gilgeous-Alexander: "He's a good player, he's a good feel, can really shoot. Usually when you have those things, the game will slow down for you eventually. He's in a good situation, he'll get to play a lot. It's good coaches over there, so he'll learn the game the right way. It's nice to see he works hard, he should have the whole runway to be whoever he wants to be."
+
+[https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=884s](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=884s)
+
+<small>[Clip it](presserclips://clip?v=GbjHGGq7tQ0&t=884&q=6) · [Send to Slack](presserclips://clip?v=GbjHGGq7tQ0&t=884&q=6&slack=1)</small>
+
+**7. Shai Gilgeous-Alexander — "I try to be the best player I can be and try to lead by example" — Shai Gilgeous-Alexander on his leadership style and growth with the Thunder** [17:00](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=1020s)
+
+Shai Gilgeous-Alexander: "I try to be the best player I can be and try to lead by example, try to do the right things out there on the floor. I've just been given the runway to grow as a leader, grow as a player my whole time here. They just put the ball in my hands and I've been able to kind of experiment with the game and figure out what I like and don't like and it's because of my hard work, things have kind of worked out for me."
+
+[https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=1020s](https://www.youtube.com/watch?v=GbjHGGq7tQ0&t=1020s)
+
+<small>[Clip it](presserclips://clip?v=GbjHGGq7tQ0&t=1020&q=7) · [Send to Slack](presserclips://clip?v=GbjHGGq7tQ0&t=1020&q=7&slack=1)</small>
 
 ---
 
