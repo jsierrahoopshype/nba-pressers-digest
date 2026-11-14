@@ -1,0 +1,252 @@
+{
+  "video_title": "LIVE: Pelicans vs. Grizzlies Pregame w/ Jamahl Mosley 11/13/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:46",
+      "summary_phrase": "Jamahl Mosley addresses the team statement regarding recent news",
+      "names_mentioned": [],
+      "excerpt": "there's no more light than the statements that have both been put out by both parties",
+      "quote": "There's no more light than the statements that have both been put out by both parties. And I think that's for when it comes to that matter, we're leaving it at that when it comes to both the statements being made.",
+      "text_blocks": [],
+      "start_seconds": 346,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the team is moving on from recent off court news, stating there is no more light to shed beyond the official statements already released by both parties.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley addresses questions regarding recent team statements during a pregame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:12",
+      "summary_phrase": "Jamahl Mosley on the team's recent poor performance",
+      "names_mentioned": [],
+      "excerpt": "have not been a representation of this organization, the city, the way we said we were going to play",
+      "quote": "As the leader of this group, and what we've how we've been playing these last three games have not been a representation of this organization, the city, the way we said we were going to play. And that's been my focus over this last day or so. How do we get back to that style of basketball that we know represents this organization the right way?",
+      "text_blocks": [],
+      "start_seconds": 372,
+      "end_seconds": 397,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley admits the Pelicans recent play has not been a representation of the organization and says his focus is on getting back to their intended style of basketball.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's recent poor performance and the need to return to their established style of play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:46",
+      "summary_phrase": "Jamahl Mosley confirms injury status for player with ankle sprain",
+      "names_mentioned": [],
+      "excerpt": "He will not be in the building from what I've been told.",
+      "quote": "He will not be in the building from what I've been told.",
+      "text_blocks": [],
+      "start_seconds": 466,
+      "end_seconds": 471,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley confirms an injured player will not be in the building for tonight's game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jamahl Mosley confirms that an injured player will not be present at the arena.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:58",
+      "summary_phrase": "Jamahl Mosley on roster depth and opportunities for younger players",
+      "names_mentioned": [],
+      "excerpt": "it's an opportunity for guys to step up and hit the standard of how we want to play",
+      "quote": "This is the league, 82 games, a lot of games. You're not going to go through an entire season with guys not being bumped up, bruised, injured. So it's an opportunity for guys to step up and hit the standard of how we want to play, how hard we play, how together we play, how focused we play.",
+      "text_blocks": [],
+      "start_seconds": 478,
+      "end_seconds": 500,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the team dealing with injuries, saying it is an opportunity for other players to step up and hit the standard of how they want to play.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jamahl Mosley explains the necessity for depth and younger players stepping up due to the physical toll of an 82-game season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "09:19",
+      "summary_phrase": "Jamahl Mosley on supporting the development of the squad",
+      "names_mentioned": [],
+      "excerpt": "I'm there to support B. Great in everything he does and the squadron there.",
+      "quote": "I'm there to support B. Great in everything he does and the squadron there. That's what this is about. That's the collaboration, that's the connection of the squadron as well as us. And I think it's great if we can get up and go to that game tomorrow, it'll be absolutely fantastic to be able to support them.",
+      "text_blocks": [],
+      "start_seconds": 559,
+      "end_seconds": 581,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley discusses the importance of supporting the team's G League affiliate and the collaboration between the two squads.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley speaks about supporting the development of the team and the G League affiliate squad.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "09:35",
+      "summary_phrase": "Jamahl Mosley on the importance of the player's first NBA bucket",
+      "names_mentioned": [],
+      "excerpt": "getting his first NBA bucket was big time. We definitely handed him the game ball",
+      "quote": "Getting his first NBA bucket was big time. We definitely handed him the game ball, which was exactly what he's deserved and earned. And that's what this thing is for us, to be able to pour into these guys and support them as best as possible on their journey.",
+      "text_blocks": [],
+      "start_seconds": 575,
+      "end_seconds": 594,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Jamahl Mosley says the team made sure to hand a player the game ball after he scored his first NBA bucket, calling it big time.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley reflects on a player scoring their first NBA basket and the team's commitment to supporting player development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "09:55",
+      "summary_phrase": "Jamahl Mosley on focusing on controllable aspects of the game",
+      "names_mentioned": [],
+      "excerpt": "what you can focus on is the court and how you play",
+      "quote": "What you can focus on is the court and how you play. The effort you put out, the defense you decide to play, how together you are with your teammates. Those are things you can control, and that's all we focused on. That's all we're going to focus on is the things that we can control. We'll control them, the things we can't, you've got to let them go.",
+      "text_blocks": [],
+      "start_seconds": 595,
+      "end_seconds": 622,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the team's mindset, saying they are focused on the things they can control like effort and defense.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley emphasizes the importance of focusing on controllable aspects like effort and team unity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "10:36",
+      "summary_phrase": "Jamahl Mosley on the need for aggressive starts",
+      "names_mentioned": [],
+      "excerpt": "come out with a level of aggression. I think that's just the start of it right now",
+      "quote": "Come out with a level of aggression. I think that's just the start of it right now, and I think our guys knowing that, that's something that you can put on our plate to understand that we got to come out and strike first.",
+      "text_blocks": [],
+      "start_seconds": 636,
+      "end_seconds": 653,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the Pelicans need to come out with a level of aggression and understand they have to strike first.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley highlights the need for the team to play with aggression from the start of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "RfaqD9CLzf0",
+  "url": "https://www.youtube.com/watch?v=RfaqD9CLzf0",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-13T23:24:21Z",
+  "duration_seconds": 685,
+  "processed_at": "2026-11-14T00:53:48Z",
+  "run_id": "2026-11-14T0052Z-20utc",
+  "is_one_off": false
+}

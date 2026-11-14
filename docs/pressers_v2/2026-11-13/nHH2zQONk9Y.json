@@ -1,0 +1,49 @@
+{
+  "video_title": "Kenny Atkinson on Cavaliers urgency this season due to East competition vs last year’s 17-16 stretch",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:17",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' need for urgency in the East",
+      "names_mentioned": [],
+      "excerpt": "I think we need to have a little more sense of urgency cause of the competition",
+      "quote": "We don't want to be in that same position. We want to stack up some wins here, but it also gives us good perspective. All of us that have been in the league for long, we understand how extremely long this season is. You just got to be careful going with the ebb and flow. We started off 15 and 0 two years ago. This year and last year, even, but we're playing the long game on this. It's going to give you guys perspective, but I said it the other night, there's also a sense of urgency because my belief is that because the East has gotten better, and when I look at the teams in the East, I'm like, man, it's going to be a dog fight to get in those top six, which is where you want to be. So yes, perspective, but on the other hand, I think we need to have a little more sense of urgency cause of the competition this year in the East.",
+      "verbatim_original_language": "",
+      "start_seconds": 17,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson says the Cavaliers need a sense of urgency this season because the Eastern Conference has gotten better. He believes it is going to be a dog fight to secure a top six seed.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the importance of maintaining a sense of urgency for the Cavaliers due to the increased competitiveness of the Eastern Conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "nHH2zQONk9Y",
+  "url": "https://www.youtube.com/watch?v=nHH2zQONk9Y",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-14T00:32:45Z",
+  "duration_seconds": 84,
+  "processed_at": "2026-11-14T00:53:38Z",
+  "run_id": "2026-11-14T0052Z-20utc",
+  "is_one_off": false
+}
