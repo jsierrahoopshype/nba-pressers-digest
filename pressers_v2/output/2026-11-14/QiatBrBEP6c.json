@@ -1,0 +1,184 @@
+{
+  "video_title": "Will Hardy talks competitiveness, character, and execution vs Houston",
+  "speakers_seen": [
+    "Will Hardy"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Will Hardy",
+      "timestamp": "00:02",
+      "summary_phrase": "Will Hardy on the team's need for better execution",
+      "names_mentioned": [],
+      "excerpt": "ultimately for us to get the result that we want, our execution needs to meet the level",
+      "quote": "Proud of the team. Another night where the competitiveness continues to shine through. Ultimately for us to get the result that we want, our execution needs to meet the level of our competitiveness, I think. We're competing at a really high level, we are not executing at a high enough level right now.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Will Hardy says the Jazz are competing at a high level but need to improve their execution to get better results. He noted that while the effort is there, the team is not executing at the level required right now.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Will Hardy discusses the team's need to improve execution to match their competitiveness following a game against Houston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Will Hardy",
+      "timestamp": "00:24",
+      "summary_phrase": "Will Hardy criticizes team's defensive performance against Sengun",
+      "names_mentioned": [
+        "Sengun"
+      ],
+      "excerpt": "the number of missed double teams on Sengun is unacceptable",
+      "quote": "The biggest one tonight is the number of missed double teams on Sengun is unacceptable. There's no way around that detail of the game. But again, I'm really proud of the competitiveness from the team, their collective spirit every night, battling through adversity and guys getting injured. It's been very revealing of the character of the team. This is a high-character group of guys we have in our locker room.",
+      "text_blocks": [],
+      "start_seconds": 24,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Will Hardy called the Jazz missing double teams on Alperen Sengun unacceptable. He emphasized that while he is proud of the team character and competitiveness, the defensive details against Sengun were a major issue tonight.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alperen Sengun"
+        ],
+        "teams": [
+          "UTA",
+          "HOU"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Will Hardy criticizes the team's failure to execute double teams on Alperen Sengun during their game against Houston.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Will Hardy",
+      "timestamp": "01:11",
+      "summary_phrase": "Will Hardy on Keyonte George's offensive development",
+      "names_mentioned": [
+        "Keyonte"
+      ],
+      "excerpt": "he just picked his spots well",
+      "quote": "I think he just picked his spots well. We talk all the time about being a scorer in our league, it's not every other possession. It's about understanding how we're trying to execute as a team and then when you get your opportunities, trying to capitalize in those moments. Based on matchups and coverages, Keyonte didn't get as much early in the game, and as the game went, some things changed and he did a really good job of adjusting.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Will Hardy praised Keyonte George for his patience and ability to adjust to defensive coverages, noting that the young guard is learning how to pick his spots within the team offense.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keyonte George"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy evaluates Keyonte George's offensive performance and his ability to adjust to defensive coverages throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Will Hardy",
+      "timestamp": "01:43",
+      "summary_phrase": "Will Hardy on Darren Peterson's career-high performance",
+      "names_mentioned": [
+        "Darren Peterson",
+        "Keyonte"
+      ],
+      "excerpt": "DP is continuing to see it better and better",
+      "quote": "I think DP is continuing to see it better and better. Same thing as Keyonte, it's about executing and understanding when your opportunities are there, not trying to force it, playing within the construct of the team and I think Darren in particular, his pick-and-roll reads are getting better and better.",
+      "text_blocks": [],
+      "start_seconds": 103,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Will Hardy says Darren Peterson is continuing to improve his pick and roll reads, emphasizing that he is playing within the team construct and not trying to force his opportunities.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darren Peterson"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy praises Darren Peterson for his improved decision-making and pick-and-roll reads during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Will Hardy",
+      "timestamp": "02:16",
+      "summary_phrase": "Will Hardy praises John Collins' impact and versatility",
+      "names_mentioned": [
+        "Mo",
+        "Jackson",
+        "TB"
+      ],
+      "excerpt": "Mo is a stud. He's giving us everything he can every night",
+      "quote": "Mo is a stud. He's giving us everything he can every night. Again, his role has changed a few times here and he takes it all head on and is giving us a ton as a screener, a roller, some big offensive rebounds. I think his presence around the rim defensively has helped us. He's been great. I think TB stepping in has done a really nice job. Again, I couldn't say enough about the character of the team.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Will Hardy praised the versatility of his frontcourt, highlighting the impact of John Collins as a screener and rim protector while noting the team's collective character during a stretch of injuries.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "John Collins"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy commends John Collins for his versatility and performance in his evolving role for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "QiatBrBEP6c",
+  "url": "https://www.youtube.com/watch?v=QiatBrBEP6c",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-14T04:55:38Z",
+  "duration_seconds": 180,
+  "processed_at": "2026-11-14T05:09:20Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}

@@ -12,7 +12,17 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. MILWUAKEE BUCKS \| COACH SWEENEY, FRANZ
 
 <small>[Clip it](presserclips://clip?v=UBfPvL4vRF0&t=648&q=12) · [Send to Slack](presserclips://clip?v=UBfPvL4vRF0&t=648&q=12&slack=1)</small>
 
-**2. Coach Sweeney — "Just trying to make sure that we manage the game." — Coach Sweeney on managing Jaylen Brown after injury** [02:32](https://www.youtube.com/watch?v=UBfPvL4vRF0&t=152s)
+**2. Saddiq Bey — "it's a business, some of those things that can't really talk about" — Saddiq Bey on team chemistry and handling internal business** [01:52](https://www.youtube.com/watch?v=Ynw51plEkWY&t=112s)
+
+Saddiq Bey: "It's a business. And especially we can, honestly, you know we love him. I personally love him. I've known him for years and it's a business, it's some of those things that can't really talk about and just close. But you know, we're brothers for life. Just keep the main thing the main thing and know this is a business. Everyone has to do the best for them and their family and the team and just know he's a great guy and I love him for every day in this time I've been around him, man."
+
+[https://www.youtube.com/watch?v=Ynw51plEkWY&t=112s](https://www.youtube.com/watch?v=Ynw51plEkWY&t=112s)
+
+From: [Saddiq Bey \| Pelicans vs. Grizzlies Postgame Interview 11/13/26](https://www.youtube.com/watch?v=Ynw51plEkWY) · *New Orleans Pelicans*
+
+<small>[Clip it](presserclips://clip?v=Ynw51plEkWY&t=112&q=3) · [Send to Slack](presserclips://clip?v=Ynw51plEkWY&t=112&q=3&slack=1)</small>
+
+**3. Coach Sweeney — "Just trying to make sure that we manage the game." — Coach Sweeney on managing Jaylen Brown after injury** [02:32](https://www.youtube.com/watch?v=UBfPvL4vRF0&t=152s)
 
 Coach Sweeney: "Just trying to make sure that we manage the game. Talked a little bit before the game about with certain guys when they come back from injury, you're trying to manage it, making it a 40 minute game instead of a 48 minute game. But his impact was felt immediately and although he didn't have a great shooting night, he impacts the game in so many different areas on the basketball with his point of attack defense, his ability to penetrate and make the right play in limited minutes."
 
@@ -22,7 +32,7 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. MILWUAKEE BUCKS \| COACH SWEENEY, FRANZ
 
 <small>[Clip it](presserclips://clip?v=UBfPvL4vRF0&t=152&q=4) · [Send to Slack](presserclips://clip?v=UBfPvL4vRF0&t=152&q=4&slack=1)</small>
 
-**3. Kyle Kuzma — "Anytime he gets smaller defenders on him, he takes advantage. He has the ball all night." — Kyle Kuzma on Franz Wagner's offensive impact against the Wizards** [00:34](https://www.youtube.com/watch?v=U_H20UPQnj8&t=34s)
+**4. Kyle Kuzma — "Anytime he gets smaller defenders on him, he takes advantage. He has the ball all night." — Kyle Kuzma on Franz Wagner's offensive impact against the Wizards** [00:34](https://www.youtube.com/watch?v=U_H20UPQnj8&t=34s)
 
 Kyle Kuzma: "He is a big boy. Anytime he gets smaller defenders on him, he takes advantage. He has the ball all night, he has great rhythm, and he is just a phenomenal player."
 
@@ -127,6 +137,54 @@ Kenny Atkinson: "You see him, we're giving him more minutes. He's earned it, and
 [https://www.youtube.com/watch?v=Lb_sDZzm5Hw&t=270s](https://www.youtube.com/watch?v=Lb_sDZzm5Hw&t=270s)
 
 <small>[Clip it](presserclips://clip?v=Lb_sDZzm5Hw&t=270&q=6) · [Send to Slack](presserclips://clip?v=Lb_sDZzm5Hw&t=270&q=6&slack=1)</small>
+
+---
+
+## Will Hardy talks competitiveness, character, and execution vs Houston — *Utah Jazz*
+
+Source: [https://www.youtube.com/watch?v=QiatBrBEP6c](https://www.youtube.com/watch?v=QiatBrBEP6c)
+
+_Speakers identified: Will Hardy_
+
+**1. Will Hardy — "ultimately for us to get the result that we want, our execution needs to meet the level" — Will Hardy on the team's need for better execution** [00:02](https://www.youtube.com/watch?v=QiatBrBEP6c&t=2s)
+
+Will Hardy: "Proud of the team. Another night where the competitiveness continues to shine through. Ultimately for us to get the result that we want, our execution needs to meet the level of our competitiveness, I think. We're competing at a really high level, we are not executing at a high enough level right now."
+
+[https://www.youtube.com/watch?v=QiatBrBEP6c&t=2s](https://www.youtube.com/watch?v=QiatBrBEP6c&t=2s)
+
+<small>[Clip it](presserclips://clip?v=QiatBrBEP6c&t=2&q=1) · [Send to Slack](presserclips://clip?v=QiatBrBEP6c&t=2&q=1&slack=1)</small>
+
+**2. Will Hardy — "the number of missed double teams on Sengun is unacceptable" — Will Hardy criticizes team's defensive performance against Sengun** [00:24](https://www.youtube.com/watch?v=QiatBrBEP6c&t=24s)
+
+Will Hardy: "The biggest one tonight is the number of missed double teams on **Sengun** is unacceptable. There's no way around that detail of the game. But again, I'm really proud of the competitiveness from the team, their collective spirit every night, battling through adversity and guys getting injured. It's been very revealing of the character of the team. This is a high-character group of guys we have in our locker room."
+
+[https://www.youtube.com/watch?v=QiatBrBEP6c&t=24s](https://www.youtube.com/watch?v=QiatBrBEP6c&t=24s)
+
+<small>[Clip it](presserclips://clip?v=QiatBrBEP6c&t=24&q=2) · [Send to Slack](presserclips://clip?v=QiatBrBEP6c&t=24&q=2&slack=1)</small>
+
+**3. Will Hardy — "he just picked his spots well" — Will Hardy on Keyonte George's offensive development** [01:11](https://www.youtube.com/watch?v=QiatBrBEP6c&t=71s)
+
+Will Hardy: "I think he just picked his spots well. We talk all the time about being a scorer in our league, it's not every other possession. It's about understanding how we're trying to execute as a team and then when you get your opportunities, trying to capitalize in those moments. Based on matchups and coverages, **Keyonte** didn't get as much early in the game, and as the game went, some things changed and he did a really good job of adjusting."
+
+[https://www.youtube.com/watch?v=QiatBrBEP6c&t=71s](https://www.youtube.com/watch?v=QiatBrBEP6c&t=71s)
+
+<small>[Clip it](presserclips://clip?v=QiatBrBEP6c&t=71&q=3) · [Send to Slack](presserclips://clip?v=QiatBrBEP6c&t=71&q=3&slack=1)</small>
+
+**4. Will Hardy — "DP is continuing to see it better and better" — Will Hardy on Darren Peterson's career-high performance** [01:43](https://www.youtube.com/watch?v=QiatBrBEP6c&t=103s)
+
+Will Hardy: "I think DP is continuing to see it better and better. Same thing as **Keyonte**, it's about executing and understanding when your opportunities are there, not trying to force it, playing within the construct of the team and I think Darren in particular, his pick-and-roll reads are getting better and better."
+
+[https://www.youtube.com/watch?v=QiatBrBEP6c&t=103s](https://www.youtube.com/watch?v=QiatBrBEP6c&t=103s)
+
+<small>[Clip it](presserclips://clip?v=QiatBrBEP6c&t=103&q=4) · [Send to Slack](presserclips://clip?v=QiatBrBEP6c&t=103&q=4&slack=1)</small>
+
+**5. Will Hardy — "Mo is a stud. He's giving us everything he can every night" — Will Hardy praises John Collins' impact and versatility** [02:16](https://www.youtube.com/watch?v=QiatBrBEP6c&t=136s)
+
+Will Hardy: "**Mo** is a stud. He's giving us everything he can every night. Again, his role has changed a few times here and he takes it all head on and is giving us a ton as a screener, a roller, some big offensive rebounds. I think his presence around the rim defensively has helped us. He's been great. I think **TB** stepping in has done a really nice job. Again, I couldn't say enough about the character of the team."
+
+[https://www.youtube.com/watch?v=QiatBrBEP6c&t=136s](https://www.youtube.com/watch?v=QiatBrBEP6c&t=136s)
+
+<small>[Clip it](presserclips://clip?v=QiatBrBEP6c&t=136&q=5) · [Send to Slack](presserclips://clip?v=QiatBrBEP6c&t=136&q=5&slack=1)</small>
 
 ---
 
@@ -292,6 +350,54 @@ Kyle Kuzma: "We had a pretty solid fight in the second half after a lackluster f
 
 ---
 
+## Saddiq Bey | Pelicans vs. Grizzlies Postgame Interview 11/13/26 — *New Orleans Pelicans*
+
+Source: [https://www.youtube.com/watch?v=Ynw51plEkWY](https://www.youtube.com/watch?v=Ynw51plEkWY)
+
+_Speakers identified: Saddiq Bey_
+
+**1. Saddiq Bey — "we have to just make sure we can cover each other's back as much as possible" — Saddiq Bey on defensive communication and team accountability** [00:04](https://www.youtube.com/watch?v=Ynw51plEkWY&t=4s)
+
+Saddiq Bey: "Keep locking in. The scheme, just have each other's back, you know. We have to play a lot of one-on-one defense, makes it tough. So we have to just make sure we can cover each other's back as much as possible and just play for each other. That's it. Sometimes it's not X's and O's, it's just the effort and the intent to get stops and have that translate to our offense. So we got to be better as individual players and you know, got to do it in the last 24 hours."
+
+[https://www.youtube.com/watch?v=Ynw51plEkWY&t=4s](https://www.youtube.com/watch?v=Ynw51plEkWY&t=4s)
+
+<small>[Clip it](presserclips://clip?v=Ynw51plEkWY&t=4&q=1) · [Send to Slack](presserclips://clip?v=Ynw51plEkWY&t=4&q=1&slack=1)</small>
+
+**2. Saddiq Bey — "we can't let that run then bleed into a longer run" — Saddiq Bey on maintaining defensive intensity despite offensive struggles** [01:12](https://www.youtube.com/watch?v=Ynw51plEkWY&t=72s)
+
+Saddiq Bey: "Individually we have to continue to look ourselves in the mirror and just see what can we do to help the team as much as possible. Try to just give this as much effort and intent on both ends of the floor. I think it's just a thing that you have to decide yourself and just as a team and keep the spirit up. No matter what, they make a run, we can't let that run then bleed into a longer run. We have to make a run of ourselves and just commit to it and stay consistent, man. So we can't panic in the league."
+
+[https://www.youtube.com/watch?v=Ynw51plEkWY&t=72s](https://www.youtube.com/watch?v=Ynw51plEkWY&t=72s)
+
+<small>[Clip it](presserclips://clip?v=Ynw51plEkWY&t=72&q=2) · [Send to Slack](presserclips://clip?v=Ynw51plEkWY&t=72&q=2&slack=1)</small>
+
+**3. Saddiq Bey — "it's a business, some of those things that can't really talk about" — Saddiq Bey on team chemistry and handling internal business** [01:52](https://www.youtube.com/watch?v=Ynw51plEkWY&t=112s)
+
+Saddiq Bey: "It's a business. And especially we can, honestly, you know we love him. I personally love him. I've known him for years and it's a business, it's some of those things that can't really talk about and just close. But you know, we're brothers for life. Just keep the main thing the main thing and know this is a business. Everyone has to do the best for them and their family and the team and just know he's a great guy and I love him for every day in this time I've been around him, man."
+
+[https://www.youtube.com/watch?v=Ynw51plEkWY&t=112s](https://www.youtube.com/watch?v=Ynw51plEkWY&t=112s)
+
+<small>[Clip it](presserclips://clip?v=Ynw51plEkWY&t=112&q=3) · [Send to Slack](presserclips://clip?v=Ynw51plEkWY&t=112&q=3&slack=1)</small>
+
+**4. Saddiq Bey — "we're not trying to make an excuse that we need time for chemistry" — Saddiq Bey on building chemistry with changing lineups** [02:49](https://www.youtube.com/watch?v=Ynw51plEkWY&t=169s)
+
+Saddiq Bey: "Obviously different lineups, the first 13 games, continue and different coaching staff, stuff like that. So we're not trying to make an excuse that we need time for chemistry, but I feel like we like and have camaraderie in the locker room so we just have to have that translate on the court. So we could use the excuse that we play different lineups every single game and a lot of moving parts, but we just have to just lock in, man. We're in the NBA and it's the opportunity, we got to take it."
+
+[https://www.youtube.com/watch?v=Ynw51plEkWY&t=169s](https://www.youtube.com/watch?v=Ynw51plEkWY&t=169s)
+
+<small>[Clip it](presserclips://clip?v=Ynw51plEkWY&t=169&q=4) · [Send to Slack](presserclips://clip?v=Ynw51plEkWY&t=169&q=4&slack=1)</small>
+
+**5. Saddiq Bey — "take the ones that that's open" — Saddiq Bey on shot selection and defensive consistency** [05:17](https://www.youtube.com/watch?v=Ynw51plEkWY&t=317s)
+
+Saddiq Bey: "Take the ones that that's open. When we push in transition, we create mismatches and Z is downhill, is downhill, other people get downhill, then create opportunities to to kick out and and more passes and to be able to take those shots. And you know, sometimes we got to be better also defensively because every if we are getting the ball out the net every time then it's tough to try to generate those, but just let them fly. We got a lot of great shooters on this team and we can't just turn, I know we're a paint-heavy team, but we can't turn them down."
+
+[https://www.youtube.com/watch?v=Ynw51plEkWY&t=317s](https://www.youtube.com/watch?v=Ynw51plEkWY&t=317s)
+
+<small>[Clip it](presserclips://clip?v=Ynw51plEkWY&t=317&q=5) · [Send to Slack](presserclips://clip?v=Ynw51plEkWY&t=317&q=5&slack=1)</small>
+
+---
+
 ## Taylor Jenkins Postgame Press Conference | 11.13.26 — *Milwaukee Bucks*
 
 Source: [https://www.youtube.com/watch?v=_FtvDKExKew](https://www.youtube.com/watch?v=_FtvDKExKew)
@@ -345,6 +451,72 @@ Kenny Atkinson: "Obviously **Bam Adebayo** and **Giannis Antetokounmpo** can hav
 [https://www.youtube.com/watch?v=iZH9iXVG9UI&t=23s](https://www.youtube.com/watch?v=iZH9iXVG9UI&t=23s)
 
 <small>[Clip it](presserclips://clip?v=iZH9iXVG9UI&t=23&q=1) · [Send to Slack](presserclips://clip?v=iZH9iXVG9UI&t=23&q=1&slack=1)</small>
+
+---
+
+## Jamahl Mosley | Pelicans vs. Grizzlies Postgame Interview 11/13/26 — *New Orleans Pelicans*
+
+Source: [https://www.youtube.com/watch?v=qs2pu9tqn4I](https://www.youtube.com/watch?v=qs2pu9tqn4I)
+
+_Speakers identified: Jamahl Mosley_
+
+**1. Jamahl Mosley — "not being happy doesn't solve the problem. There's probably some adjustments need to be made" — Jamahl Mosley on defensive adjustments needed after third consecutive loss** [00:06](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=6s)
+
+Jamahl Mosley: "Not being happy doesn't solve the problem. There's probably some adjustments need to be made, the way we're guarding or not, lack thereof. And that's part of on the coaching, what we've got to do there. Again, there's a will, there's a want, there's a desire, there's rotations, there's not straight-line drives, not blow-bys. The want to sit down and guard, but then also if you do get beat, got to have help. Those are a lot of situations. Now, they shot the break out of the basketball, some highly contested ones, some wide open ones because they did a great job reading the defense. But we've got to be better there and we will be."
+
+[https://www.youtube.com/watch?v=qs2pu9tqn4I&t=6s](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=6s)
+
+<small>[Clip it](presserclips://clip?v=qs2pu9tqn4I&t=6&q=1) · [Send to Slack](presserclips://clip?v=qs2pu9tqn4I&t=6&q=1&slack=1)</small>
+
+**2. Jamahl Mosley — "they're putting their head down going, which forces our bigs to come across the lane and help" — Jamahl Mosley on defensive rotations and help-side responsibilities** [01:09](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=69s)
+
+Jamahl Mosley: "Some of it is the pickup point. We talk about crawling into the ball, getting into the ball, heating up. But these guards on these teams are very good at getting downhill and attacking, so they're putting their head down going, which forces our bigs to come across the lane and help. And when they come across the lane, they've got to have another second-line defender, backline to be able to crack down and help them. That's why some of the dump-offs are happening. There will be some adjustments made to that to where we're going to have to force some things that normally we weren't used to giving up, but we're going to have to say, okay, we'll live with certain things here and not give up as much rim and wide-open looks from the three that we've been giving up being in rotation."
+
+[https://www.youtube.com/watch?v=qs2pu9tqn4I&t=69s](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=69s)
+
+<small>[Clip it](presserclips://clip?v=qs2pu9tqn4I&t=69&q=2) · [Send to Slack](presserclips://clip?v=qs2pu9tqn4I&t=69&q=2&slack=1)</small>
+
+**3. Jamahl Mosley — "We haven't had many of those." — Jamahl Mosley on difficulty of measuring lineup data with roster instability** [02:56](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=176s)
+
+**Unidentified reporter:** "The interesting part about that question, it's hard to find the data when you have guys bumping in, bumping out. What three-man combo works?"
+
+**Jamahl Mosley:** "We haven't had many of those. It's trying to find the right combinations, but 13, 14 games into the season with guys going down, guys stepping in, guys stepping out. You had a situation, you had **T.J. Watt** was in the rotation for a while, then he goes down. Eaves was early on, then he goes down. Then **Trey Murphy** was in, then he bumps out. These are not excuses, these are the reality of not being able to find the right sample size because you don't have enough games to really measure it."
+
+[https://www.youtube.com/watch?v=qs2pu9tqn4I&t=176s](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=176s)
+
+<small>[Clip it](presserclips://clip?v=qs2pu9tqn4I&t=176&q=3) · [Send to Slack](presserclips://clip?v=qs2pu9tqn4I&t=176&q=3&slack=1)</small>
+
+**4. Jamahl Mosley — "if you're not making those shots, you got to crash the glass, give yourself other opportunities" — Jamahl Mosley on the need to crash the glass and finish plays** [03:42](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=222s)
+
+Jamahl Mosley: "If you're not making those shots, you got to crash the glass, give yourself other opportunities. And I think when we went on that run, we were getting stops and then we were getting out and getting some easy baskets. When the run stopped, we missed a lot of easy chippy layups as well as wide-open threes, and they were able to break out in transition to get that thing pushed back up. So part of it is, you know what, you got to step in and knock your shot down and take it when you're open. The other side of that is, can't play in a crowd to turn it over and if you're going to play in that lane, we've got to be able to finish."
+
+[https://www.youtube.com/watch?v=qs2pu9tqn4I&t=222s](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=222s)
+
+<small>[Clip it](presserclips://clip?v=qs2pu9tqn4I&t=222&q=4) · [Send to Slack](presserclips://clip?v=qs2pu9tqn4I&t=222&q=4&slack=1)</small>
+
+**5. Jamahl Mosley — "I'm disappointed by how we've played and that the fans are looking at it like this" — Jamahl Mosley on team's responsibility to engage fans despite recent losses** [04:33](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=273s)
+
+Jamahl Mosley: "I'd say this prior to, I'm disappointed by how we've played and that the fans are looking at it like this, this is not what they're expecting. I understand that. I'm not ducking that, I'm not shying away from it. I know what we said we wanted to how we wanted to play, the product we wanted to put on the floor, and you saw it for that a stretch of the early games, then you saw it for the one when we win four in a row. So it's there. And that's what we have to understand, this is a process. We'll keep talking about that in some form or fashion, but just like the NBA there's highs, there's lows. We're going to find that stride because these guys' energy and spirit was right, now you've just got to put the pieces together."
+
+[https://www.youtube.com/watch?v=qs2pu9tqn4I&t=273s](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=273s)
+
+<small>[Clip it](presserclips://clip?v=qs2pu9tqn4I&t=273&q=5) · [Send to Slack](presserclips://clip?v=qs2pu9tqn4I&t=273&q=5&slack=1)</small>
+
+**6. Jamahl Mosley — "there's a lot of teams dealing with a lot of injuries and you just got to find the way" — Jamahl Mosley on managing team through injuries and next-man-up mentality** [05:33](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=333s)
+
+Jamahl Mosley: "It's never easy, but that is part of the league and this is what a lot of teams are dealing with. There's a lot of teams dealing with a lot of injuries and you just got to find the way. We talk about next man up, next man up mentality offensively, next man up mentality defensively. And that's where we're going to have to continue to do this by committee over and over, whether that's changing a scheme, adjusting some things, but it's going to stay focused on being making sure we're pressuring the basketball the right way. But now we've got to start forcing teams to do what we want them to do versus them keeping us in rotation and moving in different spots."
+
+[https://www.youtube.com/watch?v=qs2pu9tqn4I&t=333s](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=333s)
+
+<small>[Clip it](presserclips://clip?v=qs2pu9tqn4I&t=333&q=6) · [Send to Slack](presserclips://clip?v=qs2pu9tqn4I&t=333&q=6&slack=1)</small>
+
+**7. Jamahl Mosley — "when you're open, knock it down so you're out of off-balance in your crashing schemes" — Jamahl Mosley on preventing offensive mistakes from bleeding into defensive transition** [06:19](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=379s)
+
+Jamahl Mosley: "When you're open, knock it down so you're out of off-balance in your crashing schemes and then you can get back. When you get to the lane, finish, and if you don't finish, then you got to spray out for those knockdown feet-set threes, which we got quite a few of them. So those are the pieces that allow your offense to just be have balance, to so where you're able to balance the floor getting back on defense. So the right shot at the right time, the right play, the right pass, that the game will tell you what that looks like. And then you've got to make a conscious effort to sprint back after the ball is either going in or you know, or it doesn't, because these guys were pushing it on make or miss."
+
+[https://www.youtube.com/watch?v=qs2pu9tqn4I&t=379s](https://www.youtube.com/watch?v=qs2pu9tqn4I&t=379s)
+
+<small>[Clip it](presserclips://clip?v=qs2pu9tqn4I&t=379&q=7) · [Send to Slack](presserclips://clip?v=qs2pu9tqn4I&t=379&q=7&slack=1)</small>
 
 ---
 

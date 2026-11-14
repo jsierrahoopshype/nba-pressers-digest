@@ -1,0 +1,164 @@
+{
+  "video_title": "Saddiq Bey | Pelicans vs. Grizzlies Postgame Interview 11/13/26",
+  "speakers_seen": [
+    "Saddiq Bey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Saddiq Bey",
+      "timestamp": "00:04",
+      "summary_phrase": "Saddiq Bey on defensive communication and team accountability",
+      "names_mentioned": [],
+      "excerpt": "we have to just make sure we can cover each other's back as much as possible",
+      "quote": "Keep locking in. The scheme, just have each other's back, you know. We have to play a lot of one-on-one defense, makes it tough. So we have to just make sure we can cover each other's back as much as possible and just play for each other. That's it. Sometimes it's not X's and O's, it's just the effort and the intent to get stops and have that translate to our offense. So we got to be better as individual players and you know, got to do it in the last 24 hours.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Saddiq Bey on the Pelicans defensive struggles: Sometimes it is not Xs and Os, it is just the effort and the intent to get stops and have that translate to our offense.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Saddiq Bey discusses the need for better defensive communication and effort following the Pelicans' game against the Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Saddiq Bey",
+      "timestamp": "01:12",
+      "summary_phrase": "Saddiq Bey on maintaining defensive intensity despite offensive struggles",
+      "names_mentioned": [],
+      "excerpt": "we can't let that run then bleed into a longer run",
+      "quote": "Individually we have to continue to look ourselves in the mirror and just see what can we do to help the team as much as possible. Try to just give this as much effort and intent on both ends of the floor. I think it's just a thing that you have to decide yourself and just as a team and keep the spirit up. No matter what, they make a run, we can't let that run then bleed into a longer run. We have to make a run of ourselves and just commit to it and stay consistent, man. So we can't panic in the league.",
+      "verbatim_original_language": "",
+      "start_seconds": 72,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Saddiq Bey on the Pelicans mindset: We have to look ourselves in the mirror and see what we can do to help the team. We cannot panic in this league.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Saddiq Bey talks about the importance of individual accountability and maintaining defensive intensity during game runs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Saddiq Bey",
+      "timestamp": "01:52",
+      "summary_phrase": "Saddiq Bey on team chemistry and handling internal business",
+      "names_mentioned": [],
+      "excerpt": "it's a business, some of those things that can't really talk about",
+      "quote": "It's a business. And especially we can, honestly, you know we love him. I personally love him. I've known him for years and it's a business, it's some of those things that can't really talk about and just close. But you know, we're brothers for life. Just keep the main thing the main thing and know this is a business. Everyone has to do the best for them and their family and the team and just know he's a great guy and I love him for every day in this time I've been around him, man.",
+      "verbatim_original_language": "",
+      "start_seconds": 112,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 7,
+      "social_post": "Saddiq Bey on a teammate departing the Pelicans: It is a business. I personally love him. I have known him for years and it is some of those things that you cannot really talk about. We are brothers for life.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Saddiq Bey reflects on the business side of the NBA and his personal relationship with a teammate who is no longer with the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Saddiq Bey",
+      "timestamp": "02:49",
+      "summary_phrase": "Saddiq Bey on building chemistry with changing lineups",
+      "names_mentioned": [],
+      "excerpt": "we're not trying to make an excuse that we need time for chemistry",
+      "quote": "Obviously different lineups, the first 13 games, continue and different coaching staff, stuff like that. So we're not trying to make an excuse that we need time for chemistry, but I feel like we like and have camaraderie in the locker room so we just have to have that translate on the court. So we could use the excuse that we play different lineups every single game and a lot of moving parts, but we just have to just lock in, man. We're in the NBA and it's the opportunity, we got to take it.",
+      "verbatim_original_language": "",
+      "start_seconds": 169,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Saddiq Bey on the Pelicans chemistry: We are not trying to make an excuse that we need time for chemistry, but we have a lot of moving parts. We just have to lock in.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Saddiq Bey addresses the challenges of building team chemistry while navigating frequent lineup changes and coaching staff adjustments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Saddiq Bey",
+      "timestamp": "05:17",
+      "summary_phrase": "Saddiq Bey on shot selection and defensive consistency",
+      "names_mentioned": [],
+      "excerpt": "take the ones that that's open",
+      "quote": "Take the ones that that's open. When we push in transition, we create mismatches and Z is downhill, is downhill, other people get downhill, then create opportunities to to kick out and and more passes and to be able to take those shots. And you know, sometimes we got to be better also defensively because every if we are getting the ball out the net every time then it's tough to try to generate those, but just let them fly. We got a lot of great shooters on this team and we can't just turn, I know we're a paint-heavy team, but we can't turn them down.",
+      "verbatim_original_language": "",
+      "start_seconds": 317,
+      "end_seconds": 358,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Saddiq Bey on the Pelicans offensive approach: We have a lot of great shooters on this team and we cannot turn them down.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Saddiq Bey discusses the team's offensive shot selection and the need to balance paint scoring with perimeter shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Ynw51plEkWY",
+  "url": "https://www.youtube.com/watch?v=Ynw51plEkWY",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-14T04:57:24Z",
+  "duration_seconds": 358,
+  "processed_at": "2026-11-14T05:09:24Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}

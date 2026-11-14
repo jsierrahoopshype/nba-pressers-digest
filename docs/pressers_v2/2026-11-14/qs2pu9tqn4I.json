@@ -1,0 +1,248 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs. Grizzlies Postgame Interview 11/13/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:06",
+      "summary_phrase": "Jamahl Mosley on defensive adjustments needed after third consecutive loss",
+      "names_mentioned": [],
+      "excerpt": "not being happy doesn't solve the problem. There's probably some adjustments need to be made",
+      "quote": "Not being happy doesn't solve the problem. There's probably some adjustments need to be made, the way we're guarding or not, lack thereof. And that's part of on the coaching, what we've got to do there. Again, there's a will, there's a want, there's a desire, there's rotations, there's not straight-line drives, not blow-bys. The want to sit down and guard, but then also if you do get beat, got to have help. Those are a lot of situations. Now, they shot the break out of the basketball, some highly contested ones, some wide open ones because they did a great job reading the defense. But we've got to be better there and we will be.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the Pelicans need to make defensive adjustments after three straight losses. He noted the team is struggling with straight line drives and rotations, saying there is a will and desire but the execution has to be better.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Jamahl Mosley discusses the need for defensive adjustments following a third consecutive loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:09",
+      "summary_phrase": "Jamahl Mosley on defensive rotations and help-side responsibilities",
+      "names_mentioned": [],
+      "excerpt": "they're putting their head down going, which forces our bigs to come across the lane and help",
+      "quote": "Some of it is the pickup point. We talk about crawling into the ball, getting into the ball, heating up. But these guards on these teams are very good at getting downhill and attacking, so they're putting their head down going, which forces our bigs to come across the lane and help. And when they come across the lane, they've got to have another second-line defender, backline to be able to crack down and help them. That's why some of the dump-offs are happening. There will be some adjustments made to that to where we're going to have to force some things that normally we weren't used to giving up, but we're going to have to say, okay, we'll live with certain things here and not give up as much rim and wide-open looks from the three that we've been giving up being in rotation.",
+      "verbatim_original_language": "",
+      "start_seconds": 69,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley on defensive strategy: The team is looking to adjust how they handle downhill guards and help side rotations to stop giving up rim looks and wide open threes.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley explains the defensive rotation challenges and the need to adjust how the team handles opposing guards attacking the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:56",
+      "summary_phrase": "Jamahl Mosley on difficulty of measuring lineup data with roster instability",
+      "names_mentioned": [
+        "T.J. Watt",
+        "Trey Murphy"
+      ],
+      "excerpt": "We haven't had many of those.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "The interesting part about that question, it's hard to find the data when you have guys bumping in, bumping out. What three-man combo works?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "We haven't had many of those. It's trying to find the right combinations, but 13, 14 games into the season with guys going down, guys stepping in, guys stepping out. You had a situation, you had T.J. Watt was in the rotation for a while, then he goes down. Eaves was early on, then he goes down. Then Trey Murphy was in, then he bumps out. These are not excuses, these are the reality of not being able to find the right sample size because you don't have enough games to really measure it."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "reporter_split": true,
+      "start_seconds": 176,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley admits it is hard to find consistent lineup data with the current roster instability. He says the constant movement of players in and out of the rotation makes it difficult to measure what combinations actually work.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "T.J. Watt",
+          "Trey Murphy"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries",
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley explains why it is difficult to evaluate lineup data due to frequent roster changes caused by injuries to players like T.J. Watt and Trey Murphy.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:42",
+      "summary_phrase": "Jamahl Mosley on the need to crash the glass and finish plays",
+      "names_mentioned": [],
+      "excerpt": "if you're not making those shots, you got to crash the glass, give yourself other opportunities",
+      "quote": "If you're not making those shots, you got to crash the glass, give yourself other opportunities. And I think when we went on that run, we were getting stops and then we were getting out and getting some easy baskets. When the run stopped, we missed a lot of easy chippy layups as well as wide-open threes, and they were able to break out in transition to get that thing pushed back up. So part of it is, you know what, you got to step in and knock your shot down and take it when you're open. The other side of that is, can't play in a crowd to turn it over and if you're going to play in that lane, we've got to be able to finish.",
+      "verbatim_original_language": "",
+      "start_seconds": 222,
+      "end_seconds": 271,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the offensive struggles: When shots are not falling, the team has to crash the glass and finish better at the rim to prevent opponents from getting easy transition opportunities.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley emphasizes the importance of crashing the glass and finishing layups to prevent transition opportunities for the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:33",
+      "summary_phrase": "Jamahl Mosley on team's responsibility to engage fans despite recent losses",
+      "names_mentioned": [],
+      "excerpt": "I'm disappointed by how we've played and that the fans are looking at it like this",
+      "quote": "I'd say this prior to, I'm disappointed by how we've played and that the fans are looking at it like this, this is not what they're expecting. I understand that. I'm not ducking that, I'm not shying away from it. I know what we said we wanted to how we wanted to play, the product we wanted to put on the floor, and you saw it for that a stretch of the early games, then you saw it for the one when we win four in a row. So it's there. And that's what we have to understand, this is a process. We'll keep talking about that in some form or fashion, but just like the NBA there's highs, there's lows. We're going to find that stride because these guys' energy and spirit was right, now you've just got to put the pieces together.",
+      "verbatim_original_language": "",
+      "start_seconds": 273,
+      "end_seconds": 328,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Jamahl Mosley on the team's recent slide: I am disappointed by how we have played and I understand the fans are not seeing the product they expected. I am not ducking that.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley addresses the team's recent poor performance and acknowledges the frustration of the fans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:33",
+      "summary_phrase": "Jamahl Mosley on managing team through injuries and next-man-up mentality",
+      "names_mentioned": [],
+      "excerpt": "there's a lot of teams dealing with a lot of injuries and you just got to find the way",
+      "quote": "It's never easy, but that is part of the league and this is what a lot of teams are dealing with. There's a lot of teams dealing with a lot of injuries and you just got to find the way. We talk about next man up, next man up mentality offensively, next man up mentality defensively. And that's where we're going to have to continue to do this by committee over and over, whether that's changing a scheme, adjusting some things, but it's going to stay focused on being making sure we're pressuring the basketball the right way. But now we've got to start forcing teams to do what we want them to do versus them keeping us in rotation and moving in different spots.",
+      "verbatim_original_language": "",
+      "start_seconds": 333,
+      "end_seconds": 381,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the team must continue to rely on a next man up mentality to deal with injuries. He emphasized that the focus remains on pressuring the basketball and forcing teams to play at their pace.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jamahl Mosley discusses the team's next-man-up mentality in response to ongoing injury issues across the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:19",
+      "summary_phrase": "Jamahl Mosley on preventing offensive mistakes from bleeding into defensive transition",
+      "names_mentioned": [],
+      "excerpt": "when you're open, knock it down so you're out of off-balance in your crashing schemes",
+      "quote": "When you're open, knock it down so you're out of off-balance in your crashing schemes and then you can get back. When you get to the lane, finish, and if you don't finish, then you got to spray out for those knockdown feet-set threes, which we got quite a few of them. So those are the pieces that allow your offense to just be have balance, to so where you're able to balance the floor getting back on defense. So the right shot at the right time, the right play, the right pass, that the game will tell you what that looks like. And then you've got to make a conscious effort to sprint back after the ball is either going in or you know, or it doesn't, because these guys were pushing it on make or miss.",
+      "verbatim_original_language": "",
+      "start_seconds": 379,
+      "end_seconds": 432,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley explains the link between offensive shot selection and transition defense, noting that the team must make the right play to ensure they are balanced and ready to sprint back on defense.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains how offensive shot selection and execution impact the team's ability to set their defense in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "qs2pu9tqn4I",
+  "url": "https://www.youtube.com/watch?v=qs2pu9tqn4I",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-14T04:57:24Z",
+  "duration_seconds": 433,
+  "processed_at": "2026-11-14T05:09:28Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}
