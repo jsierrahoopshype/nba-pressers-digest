@@ -1,0 +1,135 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Pelicans",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:00",
+      "summary_phrase": "Tuomas Iisalo on team commitment and applying lessons from Denver loss",
+      "names_mentioned": [],
+      "excerpt": "we committed to the things that we didn't do so well in the Denver game",
+      "quote": "Super proud of our performance today. Had a tough one against Denver the other night and to come in here and have this type of performance, a full team performance. To me, we committed to the things that we didn't do so well in the Denver game and took the lessons and applied it today. Overall, the biggest difference from possession to possession is when we stick to the things we've practiced, the basketball looks really good in spurts already, which is very encouraging for early season.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo says the Grizzlies showed great growth by applying lessons from the Denver loss to today's performance. He noted that when the team sticks to what they practice, the basketball looks really good in spurts.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses his team's performance and their ability to apply lessons learned from a previous loss against Denver.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:28",
+      "summary_phrase": "Tuomas Iisalo on team chemistry and road success",
+      "names_mentioned": [],
+      "excerpt": "we have a very connected group. We all like to spend time together",
+      "quote": "We have a very connected group. We all like to spend time together and on the road, it's a greater opportunity. It shows up. You take the bus together to the game, you don't show up individually at the arena, so maybe there's something to it. But I really like how we played on the road this season. Obviously, the results have been great so far.",
+      "text_blocks": [],
+      "start_seconds": 88,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo credits the Grizzlies road success to team chemistry. He mentioned that the group is very connected and prefers traveling together to the arena rather than arriving individually.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo reflects on the team's chemistry and success during road games this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:15",
+      "summary_phrase": "Tuomas Iisalo on team-first culture and player mindset",
+      "names_mentioned": [],
+      "excerpt": "everybody's trying to think of what's best for the team",
+      "quote": "One of the beauties of this team is nobody really thinks that way. Everybody's trying to think of what's best for the team. We went through a very difficult season last year and nobody wants to be part of that type of experience. So everybody's in a great headspace regarding that, that as long as we do everything for the team, we'll all be happier.",
+      "text_blocks": [],
+      "start_seconds": 135,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo says the Grizzlies have moved past last season, noting that nobody on the current roster is playing for themselves. He believes the team is in a great headspace because everyone is prioritizing what is best for the group.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo describes the team-first culture and mindset of his players following a difficult previous season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:40",
+      "summary_phrase": "Tuomas Iisalo on maintaining energy and team identity",
+      "names_mentioned": [],
+      "excerpt": "the city of Memphis is based on energy",
+      "quote": "The biggest thing is just to bring the energy. Our playstyle and our whole team, how we want to represent ourselves and the city of Memphis is based on energy. We will need great energy from everybody from the coaches, players, staff. We already had one tough one in Utah, I believe, and that was our first back-to-back and we saw what that chemistry can help in that situation.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo says the Grizzlies identity is built on energy. He emphasized that the team needs consistent effort from players, coaches, and staff to maintain their playstyle throughout the season.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo emphasizes the importance of energy and team identity in representing the city of Memphis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "Ed4m2yyzlts",
+  "url": "https://www.youtube.com/watch?v=Ed4m2yyzlts",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-14T04:12:07Z",
+  "duration_seconds": 286,
+  "processed_at": "2026-11-14T04:17:50Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}

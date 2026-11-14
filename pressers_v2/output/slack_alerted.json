@@ -2853,6 +2853,54 @@
   }
  },
  "pending": {
+  "Ed4m2yyzlts": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-14",
+   "is_one_off": false,
+   "queued_at": "2026-11-14T04:18:21Z",
+   "run_id": "2026-11-14-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-14",
+   "speaker": "Tuomas Iisalo",
+   "title": "Tuomas Iisalo Press Conference | Grizzlies vs. Pelicans",
+   "top_quote": "Super proud of our performance today. Had a tough one against Denver the other night and to come in here and have this type of performance, a full team performance. To me, we committed to the things that we didn't do so well in the Denver game and took the lessons and applied it today. Overall, the biggest difference from possession to possession is when we stick to the things we've practiced, the basketball looks really good in spurts already, which is very encouraging for early season.",
+   "video_id": "Ed4m2yyzlts"
+  },
+  "Lb_sDZzm5Hw": {
+   "channel": "Cleveland Cavaliers",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-14",
+   "is_one_off": false,
+   "queued_at": "2026-11-14T04:18:21Z",
+   "run_id": "2026-11-14-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-14",
+   "speaker": "Kenny Atkinson",
+   "title": "Cavs at Heat | Kenny Atkinson Post Game | 11.13.2026",
+   "top_quote": "Obviously Bam and Giannis kind of had their way with us. The rebounding piece hurt us again. So, until we figure out the rebounding, and we did last game against the Knicks, to have a consistent mindset to rebound the ball better. And like I always say, it's not on JA, it's not on Thomas Bryant, it's on five guys. Collectively, we got to do a better job.",
+   "video_id": "Lb_sDZzm5Hw"
+  },
+  "UBfPvL4vRF0": {
+   "channel": "Orlando Magic",
+   "clip_count": 15,
+   "content_type": "presser",
+   "date": "2026-11-14",
+   "is_one_off": false,
+   "queued_at": "2026-11-14T04:18:21Z",
+   "run_id": "2026-11-14-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-14",
+   "speaker": "Coach Sweeney",
+   "title": "POSTGAME SOUND: ORLANDO MAGIC VS. MILWUAKEE BUCKS | COACH SWEENEY, FRANZ WAGNER & DESMOND BANE",
+   "top_quote": "I thought we had a lot of contributions from a number of guys tonight, coming off of three and four and a long tough road trip, tough travel back, short rest. I thought the energy was great from all the guys that played. Franz obviously had a great night, all areas dominated the game. Wendell Carter came in, gave us great energy, 12 and 8. Goga and his minutes was phenomenal. I thought just across the board, whether it was the players or the coaches, putting everything they had into the game I thought was great.",
+   "video_id": "UBfPvL4vRF0"
+  },
   "U_H20UPQnj8": {
    "channel": "Milwaukee Bucks",
    "clip_count": 3,
@@ -2884,6 +2932,38 @@
    "title": "Taylor Jenkins Postgame Press Conference | 11.13.26",
    "top_quote": "I think it really starts with we've got to play a perfect game for 48 minutes. It's hard when you are double digits behind. We had a little resilience and response. Give the Magic credit, they played well. Wagner was great tonight, Banchero was great. Their defense, obviously limiting us in the paint, and our ability to try to knock down shots there. We've got to play with more force early in the game, not let them get going. We talked about that before the game, but we've got to play perfect for 48 minutes.",
    "video_id": "_FtvDKExKew"
+  },
+  "iZH9iXVG9UI": {
+   "channel": "HoopsHype",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-14",
+   "is_one_off": false,
+   "queued_at": "2026-11-14T04:18:21Z",
+   "run_id": "2026-11-14-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-14",
+   "speaker": "Kenny Atkinson",
+   "title": "Kenny Atkinson Post-Game Interview vs Heat | 11/13/26",
+   "top_quote": "Obviously Bam Adebayo and Giannis Antetokounmpo can have their way with us. We have rebounding issues again. So until we figure out the rebounding, and we did last game against the Knicks, but to have a consistent mindset to rebound the ball better, I always say it's not on JA, it's not on Thomas Bryant, it's on five guys, and collectively we have to do a better job.",
+   "video_id": "iZH9iXVG9UI"
+  },
+  "ty3vbfI-88I": {
+   "channel": "Atlanta Hawks",
+   "clip_count": 2,
+   "content_type": "presser",
+   "date": "2026-11-14",
+   "is_one_off": false,
+   "queued_at": "2026-11-14T04:18:21Z",
+   "run_id": "2026-11-14-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-14",
+   "speaker": "Quin Snyder",
+   "title": "Hawks vs. Bulls Postgame Press Conference: Head Coach Quin Snyder",
+   "top_quote": "We didn't play with force at the beginning of the game, and that impacts our defense. It's the complementary basketball with how your offense impacts your defense. When we're not forceful defensively or active and we're not running, we don't play well. We know the things we need to have in the front of our minds to focus on, and when we don't do that, we don't play well.",
+   "video_id": "ty3vbfI-88I"
   }
  }
 }

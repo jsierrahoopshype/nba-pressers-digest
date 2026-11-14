@@ -1,0 +1,191 @@
+{
+  "video_title": "Kenny Atkinson Post-Game Interview vs Heat | 11/13/26",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:23",
+      "summary_phrase": "Kenny Atkinson on Bam Adebayo and Giannis Antetokounmpo's impact",
+      "names_mentioned": [
+        "Bam Adebayo",
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "Obviously Bam Adebayo and Giannis Antetokounmpo can have their way with us.",
+      "quote": "Obviously Bam Adebayo and Giannis Antetokounmpo can have their way with us. We have rebounding issues again. So until we figure out the rebounding, and we did last game against the Knicks, but to have a consistent mindset to rebound the ball better, I always say it's not on JA, it's not on Thomas Bryant, it's on five guys, and collectively we have to do a better job.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says the team is still struggling with rebounding and emphasizes that it is a collective effort from all five guys on the floor rather than just the centers.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo",
+          "Giannis Antetokounmpo",
+          "Jarrett Allen",
+          "Thomas Bryant"
+        ],
+        "teams": [
+          "CLE",
+          "MIA",
+          "MIL",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the team's rebounding struggles following a game against the Miami Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:15",
+      "summary_phrase": "Kenny Atkinson on Tyrese Maxey's efficient performance",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "He's playing with great confidence, plays with great force on both ball ends.",
+      "quote": "That's what we saw since the first day of training camp. It just reveals itself. The guy starts off like that. He hasn't really slowed down. He's playing with great confidence, plays with great force on both ball ends, and he gives us the speed that we need. It's just a speed factor, but he's playing great basketball.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson praises Tyrese Maxey for his consistent play since training camp noting that he is playing with great force and providing the speed the team needs.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises Tyrese Maxey for his consistent performance and speed since training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:45",
+      "summary_phrase": "Kenny Atkinson on the chemistry between Tyrese Maxey and Malik",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "Malik"
+      ],
+      "excerpt": "They support each other, they don't see it as a competition, it's like they're bonded together.",
+      "quote": "It's funny, in the beginning it was like, oh, it's going to be a competition between both of them. But really, they're both playing now and they both have a respect for each other. Their chemistry, they get along great. They support each other, they don't see it as a competition, it's like they're bonded together.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Kenny Atkinson says the perceived competition between Tyrese Maxey and Malik has turned into a strong partnership adding that they are bonded together and support each other.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey",
+          "Malik Beasley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenny Atkinson comments on the positive chemistry developing between Tyrese Maxey and Malik Beasley.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:21",
+      "summary_phrase": "Kenny Atkinson on the team's struggle with consistency",
+      "names_mentioned": [],
+      "excerpt": "I think we're very young, we're playing a lot of young guys, which that's probably part of it.",
+      "quote": "I think we're very young, we're playing a lot of young guys, which that's probably part of it. I think that's part of playing young guys and I love our young guys, I love who we're playing. I think that's part of the ups and downs. You have, you know, you have what was contributing to the struggles defensively in the second half with them shooting over 60%.",
+      "text_blocks": [],
+      "start_seconds": 141,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson attributes the team defensive struggles and inconsistency to their youth noting that the team is playing a lot of young guys who are still navigating the ups and downs of the season.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains the team's defensive inconsistency as a result of playing a young roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:57",
+      "summary_phrase": "Kenny Atkinson on defensive struggles against the Heat",
+      "names_mentioned": [
+        "Bam Adebayo"
+      ],
+      "excerpt": "They were killing us in the short roll, I felt like.",
+      "quote": "They were killing us in the short roll, I felt like. Bam Adebayo had that stretch there in the third quarter where they're getting it to him in the pocket and he's hitting those eight-footers. They're really good at those long paint twos. We made an adjustment, we tried to bring our big up higher to take away the pocket, I thought that was a little better, you know, cut it to six. But again, we got to stop it, we got to finish the play with rebounds.",
+      "text_blocks": [],
+      "start_seconds": 177,
+      "end_seconds": 211,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson breaks down the defensive adjustments made to stop Bam Adebayo in the short roll noting that the team had to bring their bigs up higher to take away the pocket pass.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "CLE",
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson describes the defensive adjustments made to counter Bam Adebayo during the game against the Miami Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "iZH9iXVG9UI",
+  "url": "https://www.youtube.com/watch?v=iZH9iXVG9UI",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-14T04:14:49Z",
+  "duration_seconds": 322,
+  "processed_at": "2026-11-14T04:17:52Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}

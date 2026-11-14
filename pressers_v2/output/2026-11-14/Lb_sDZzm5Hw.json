@@ -1,0 +1,219 @@
+{
+  "video_title": "Cavs at Heat | Kenny Atkinson Post Game | 11.13.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:06",
+      "summary_phrase": "Kenny Atkinson on Bam Adebayo and Giannis Antetokounmpo's dominance",
+      "names_mentioned": [
+        "Bam Adebayo",
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "Obviously Bam and Giannis kind of had their way with us",
+      "quote": "Obviously Bam and Giannis kind of had their way with us. The rebounding piece hurt us again. So, until we figure out the rebounding, and we did last game against the Knicks, to have a consistent mindset to rebound the ball better. And like I always say, it's not on JA, it's not on Thomas Bryant, it's on five guys. Collectively, we got to do a better job.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says the Cavs rebounding issues are a collective failure rather than just on the bigs. It is on five guys to do a better job.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo",
+          "Giannis Antetokounmpo",
+          "Jarrett Allen",
+          "Thomas Bryant"
+        ],
+        "teams": [
+          "CLE",
+          "MIA",
+          "MIL",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the team's rebounding struggles following a loss to the Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:58",
+      "summary_phrase": "Kenny Atkinson on Tyrese Haliburton's efficient performance",
+      "names_mentioned": [
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "It just kind of reveals itself. A guy starts off like that and he hasn't really slowed down",
+      "quote": "It's what we saw since the first day of training camp. It just kind of reveals itself. A guy starts off like that and he hasn't really slowed down. He's playing with great confidence, plays with great force on both ends, and he gives us speed that we need. He's just a speed factor, but he's playing great basketball.",
+      "text_blocks": [],
+      "start_seconds": 58,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on Tyrese Haliburton playing with great confidence and force. He is a speed factor that the team needs.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the performance and confidence of Tyrese Haliburton.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:28",
+      "summary_phrase": "Kenny Atkinson on the chemistry between bench players",
+      "names_mentioned": [],
+      "excerpt": "They don't see it as a competition, it's like they are bonded together",
+      "quote": "It's funny, in the beginning it was like, oh, it's going to be a competition between both of them. But really, they're both playing now and they both, I don't know, they have a respect for each other. And like you said, that chemistry, they get along great. They support each other. They don't see it as a competition, it's like they are bonded together.",
+      "text_blocks": [],
+      "start_seconds": 88,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Kenny Atkinson says his bench players have developed a great bond and support each other rather than viewing their roles as a competition.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenny Atkinson comments on the positive chemistry and relationship between two bench players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:04",
+      "summary_phrase": "Kenny Atkinson on the team's struggle with consistency",
+      "names_mentioned": [],
+      "excerpt": "I think we're very young. We're playing a lot of young guys, which that's probably part of it",
+      "quote": "I think we're very young. We're playing a lot of young guys, which that's probably part of it. I think that's part of playing young guys and I love our young guys. I love who we're playing. I think that's that's part of the ups and downs you have.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson attributes the team inconsistency to their youth. He says the ups and downs are part of playing a lot of young guys.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson addresses the team's inconsistency as a result of playing a young roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:33",
+      "summary_phrase": "Kenny Atkinson on defensive struggles in the second half",
+      "names_mentioned": [
+        "Bam Adebayo"
+      ],
+      "excerpt": "They were killing us in the short roll. I felt like Bam had that stretch there",
+      "quote": "They were killing us in the short roll. I felt like Bam had that stretch there in the third quarter where they're getting it to him in the pocket and he's hitting those eight-footers. They're really good at those kind of long paint twos. We made an adjustment, we tried to bring our big up higher to take away the pocket. I thought that was a little better, cut it to six. But again, we got to finish the play with rebounds.",
+      "text_blocks": [],
+      "start_seconds": 153,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson explains the defensive adjustments made to stop Bam Adebayo in the short roll during the second half.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "CLE",
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains the defensive adjustments made to stop Bam Adebayo in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:30",
+      "summary_phrase": "Kenny Atkinson on giving Tyrese Haliburton expanded minutes",
+      "names_mentioned": [
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "You see him, we're giving him more minutes. He's earned it",
+      "quote": "You see him, we're giving him more minutes. He's earned it, and both ends, right? He's one of our better defenders. He's obviously playing with great confidence on offense. So, he's playing great basketball.",
+      "text_blocks": [],
+      "start_seconds": 270,
+      "end_seconds": 283,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says Tyrese Haliburton has earned expanded minutes because he is one of the team best defenders and is playing with great confidence.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains the decision to increase Tyrese Haliburton's playing time due to his performance.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "Lb_sDZzm5Hw",
+  "url": "https://www.youtube.com/watch?v=Lb_sDZzm5Hw",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-14T04:16:56Z",
+  "duration_seconds": 305,
+  "processed_at": "2026-11-14T04:17:53Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}

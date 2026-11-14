@@ -1,0 +1,83 @@
+{
+  "video_title": "Hawks vs. Bulls Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:21",
+      "summary_phrase": "Quin Snyder on the Hawks' lack of force and defensive intensity",
+      "names_mentioned": [],
+      "excerpt": "We didn't play with force at the beginning of the game, and that impacts our defense.",
+      "quote": "We didn't play with force at the beginning of the game, and that impacts our defense. It's the complementary basketball with how your offense impacts your defense. When we're not forceful defensively or active and we're not running, we don't play well. We know the things we need to have in the front of our minds to focus on, and when we don't do that, we don't play well.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Quin Snyder on the Hawks loss: We did not play with force at the beginning of the game and that impacts our defense. When we are not forceful defensively or active and we are not running we do not play well.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Head coach Quin Snyder discusses the team's lack of force and defensive intensity during the postgame press conference following the loss to the Bulls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:45",
+      "summary_phrase": "Quin Snyder on the Hawks' effort and execution in overtime",
+      "names_mentioned": [
+        "Powell"
+      ],
+      "excerpt": "Powell hit some tough shots in the overtime, which I thought we defended pretty well.",
+      "quote": "I didn't feel like we were tired. Powell hit some tough shots in the overtime, which I thought we defended pretty well. We made a couple of adjustments that our guys executed that I thought were really good. As much as anything, you put yourself in a position where you got to make a lot of plays. We made enough to get where we were, but the game goes back and forth and it went back one too many times.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Quin Snyder on the overtime loss: We made a couple of adjustments that our guys executed that I thought were really good. You put yourself in a position where you have to make a lot of plays.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Norman Powell"
+        ],
+        "teams": [
+          "ATL",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Quin Snyder reflects on the team's effort and execution during overtime in the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "ty3vbfI-88I",
+  "url": "https://www.youtube.com/watch?v=ty3vbfI-88I",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-14T04:11:58Z",
+  "duration_seconds": 151,
+  "processed_at": "2026-11-14T04:17:58Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}

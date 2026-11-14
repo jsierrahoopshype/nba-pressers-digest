@@ -1,0 +1,508 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. MILWUAKEE BUCKS | COACH SWEENEY, FRANZ WAGNER & DESMOND BANE",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Franz Wagner",
+    "Desmond Bane"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:13",
+      "summary_phrase": "Coach Sweeney on team's contributions and energy after tough road trip",
+      "names_mentioned": [
+        "Franz Wagner",
+        "Wendell Carter"
+      ],
+      "excerpt": "I thought we had a lot of contributions from a number of guys tonight.",
+      "quote": "I thought we had a lot of contributions from a number of guys tonight, coming off of three and four and a long tough road trip, tough travel back, short rest. I thought the energy was great from all the guys that played. Franz obviously had a great night, all areas dominated the game. Wendell Carter came in, gave us great energy, 12 and 8. Goga and his minutes was phenomenal. I thought just across the board, whether it was the players or the coaches, putting everything they had into the game I thought was great.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney credits the Magic's team effort and energy for tonight's win after a grueling road trip and short rest period.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Franz Wagner",
+          "Wendell Carter",
+          "Goga Bitadze"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Sweeney discusses the team's collective effort and individual contributions following a difficult road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:07",
+      "summary_phrase": "Coach Sweeney praises Franz Wagner's leadership and all-star level play",
+      "names_mentioned": [
+        "Franz Wagner"
+      ],
+      "excerpt": "He's been dominating the game on both ends, offensively, I think he's a plus 34.",
+      "quote": "He's been great. And until the league ruled that rebound he had a controlled tip, he had a triple double. So, he's been dominating the game on both ends, offensively, I think he's a plus 34 in his minutes tonight. Aside from anything else, every stat indicates how much impact he's having on the game. He's doing a great job of showing leadership, doing a great job of competing about the right things. When you want to talk about putting your energy in the right places, he's putting in the right places. His work habits been great, every which way he's playing at an all-star, all-NBA level overtime now. Doing a great job.",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Coach Sweeney says Franz Wagner is playing at an all-NBA level and impacting the game in every statistical category.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney praises Franz Wagner for his recent high-level performance and leadership on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:54",
+      "summary_phrase": "Coach Sweeney on Franz Wagner's shooting and preparation",
+      "names_mentioned": [
+        "Franz Wagner"
+      ],
+      "excerpt": "He does a great job of hunting the shot, preparing himself whether it's off a pin downs.",
+      "quote": "I think with guys that are great shooters, it's only a matter of time before they find it. If you're taking good looks and you're shooting because you're open and ready, you have a real good chance to make them. He does a great job of hunting the shot, preparing himself whether it's off a pin downs, off the dribble, off the catch. And I think with a guy like him with his quick release, the amount of time he needs to be open is less and he's always ready.",
+      "text_blocks": [],
+      "start_seconds": 114,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney on Franz Wagner's shooting: It is only a matter of time before great shooters find their rhythm when they are taking good looks.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney explains the shooting mechanics and preparation that make Franz Wagner an effective scorer.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Sweeney",
+      "timestamp": "02:32",
+      "summary_phrase": "Coach Sweeney on managing Jaylen Brown after injury",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "Just trying to make sure that we manage the game.",
+      "quote": "Just trying to make sure that we manage the game. Talked a little bit before the game about with certain guys when they come back from injury, you're trying to manage it, making it a 40 minute game instead of a 48 minute game. But his impact was felt immediately and although he didn't have a great shooting night, he impacts the game in so many different areas on the basketball with his point of attack defense, his ability to penetrate and make the right play in limited minutes.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 186,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Coach Sweeney discusses managing Jaylen Brown's return from injury, noting they are currently limiting his minutes to keep him fresh.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "ORL",
+          "BOS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Sweeney discusses the strategy of managing Jaylen Brown's minutes as he returns to the court following an injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Sweeney",
+      "timestamp": "03:06",
+      "summary_phrase": "Coach Sweeney explains the team's success with dunks and spacing",
+      "names_mentioned": [
+        "Franz Wagner"
+      ],
+      "excerpt": "When you're attacking the paint and you're doing a good job with your spacing.",
+      "quote": "When you're attacking the paint and you're doing a good job with your spacing, there's something that the team has to give up on the other end. And with a guy like Franz doing what he did, amongst others, now you get into the teeth of the defense and that guy has to make a commitment to either staying back and allowing a guy to make a touch shot or stepping up and then potentially giving up a drop off. And so our bigs doing a great job with their spacing and then our perimeter players doing a great job attacking the paint.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney explains the Magic's offensive success, noting that paint attacks and proper spacing force defenses into difficult choices.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney explains how the team's offensive spacing and paint attacks create scoring opportunities for Franz Wagner and others.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Franz Wagner",
+      "timestamp": "05:17",
+      "summary_phrase": "Franz Wagner on the importance of winning at home",
+      "names_mentioned": [],
+      "excerpt": "Playing at home is an advantage, so you want to take care of the opportunity every time.",
+      "quote": "Playing at home is an advantage, so you want to take care of the opportunity every time and our fans are excited for the year. I want to pay them back for every time showing up, so it feels good to get the first one.",
+      "text_blocks": [],
+      "start_seconds": 317,
+      "end_seconds": 334,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Franz Wagner on the home court advantage: It feels good to get the first win at home and pay back the fans for their support.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner reflects on the importance of securing a win in front of the home crowd.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Franz Wagner",
+      "timestamp": "05:44",
+      "summary_phrase": "Franz Wagner on his consistent production and team fit",
+      "names_mentioned": [],
+      "excerpt": "It's never just one thing, I think it's obviously I work hard.",
+      "quote": "It's never just one thing, I think it's obviously I work hard. I think I've got better at a couple of things and I think also the way we're playing fits my skill set. And I think there's a lot of gaps or a little bit more space out there for me to attack and try and make plays.",
+      "text_blocks": [],
+      "start_seconds": 344,
+      "end_seconds": 367,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Franz Wagner credits his recent production to hard work and a team system that fits his skill set by creating more space for him to operate.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner discusses how his personal development and the team's offensive system have contributed to his recent success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Franz Wagner",
+      "timestamp": "06:35",
+      "summary_phrase": "Franz Wagner on his growth as a facilitator",
+      "names_mentioned": [],
+      "excerpt": "I think the way we're playing, I think I see similar situations every game over and over again.",
+      "quote": "I think the way we're playing, I think I see similar situations every game over and over again. And I think with anything when you do that, for anybody it gets easier a little bit to make those plays, obviously with the speed of the game. So, I think that's been it. We're playing more consistent on offense and I think that helps everybody with their decision making.",
+      "text_blocks": [],
+      "start_seconds": 395,
+      "end_seconds": 421,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Franz Wagner says the team's increased offensive consistency is making decision-making easier for everyone on the floor.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner explains how increased familiarity with the team's offensive schemes has improved his decision-making as a facilitator.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Franz Wagner",
+      "timestamp": "07:13",
+      "summary_phrase": "Franz Wagner on his comfort level in a high-usage role",
+      "names_mentioned": [
+        "Paul"
+      ],
+      "excerpt": "It's a little bit more consistency in terms of how we want to play.",
+      "quote": "I would say what I just said, I think it's a little bit more consistency in terms of how we want to play and how that's communicated to everyone. And I think that helps everybody knowing what's expected and myself included. So, I think that's the biggest difference.",
+      "text_blocks": [],
+      "start_seconds": 433,
+      "end_seconds": 451,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Franz Wagner notes that better communication regarding expectations has been the biggest factor in his comfort level this season.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner attributes his comfort in his role to better communication and consistency regarding the team's style of play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Desmond Bane",
+      "timestamp": "08:46",
+      "summary_phrase": "Desmond Bane on the team's developing defensive identity",
+      "names_mentioned": [],
+      "excerpt": "I think we're starting to find a little bit of a recipe, a little bit of an identity.",
+      "quote": "I think we're starting to find a little bit of a recipe, a little bit of an identity, especially on the defensive end. Held them to how many points? 99 points, under 100 points. I'm not sure we did against Utah and SAC, but I think we're turning in the right direction on that end of the floor.",
+      "text_blocks": [],
+      "start_seconds": 526,
+      "end_seconds": 548,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Desmond Bane says the team is starting to find a defensive identity after holding opponents to under 100 points.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "UTA",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Desmond Bane discusses the team's progress in establishing a defensive identity after recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Desmond Bane",
+      "timestamp": "09:35",
+      "summary_phrase": "Desmond Bane praises Jaylen Brown's energy and leadership",
+      "names_mentioned": [
+        "Jaylen Brown",
+        "Kuzma"
+      ],
+      "excerpt": "So that collaboration, I think is how things get on on track faster, especially after missing two weeks with his knees.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "He brings the energy, it's infectious. And what I love, everything that he was doing out there was pretty much part of the right process. He's trying to make the right plays, coming to the bench asking like, was this the play? What you guys see?"
+        },
+        {
+          "speaker": "Desmond Bane",
+          "text": "So that collaboration, I think is how things get on on track faster, especially after missing two weeks with his knees. So, I'm super happy that he's back and look forward to competing with him."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Desmond Bane"
+      ],
+      "reporter_split": true,
+      "start_seconds": 575,
+      "end_seconds": 606,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Desmond Bane on Jaylen Brown's return: He brings infectious energy and is already collaborating with teammates to get back on track.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "ORL",
+          "BOS"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Desmond Bane praises Jaylen Brown for his energy and collaborative approach upon returning from a two-week injury absence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Desmond Bane",
+      "timestamp": "10:48",
+      "summary_phrase": "Desmond Bane on Franz Wagner's growth and leadership",
+      "names_mentioned": [
+        "Franz Wagner"
+      ],
+      "excerpt": "He's a killer, I was on the court with him and I had to ask him that.",
+      "quote": "He's a killer. I was on the court with him and I had to ask him that in the fourth quarter, I'm like, are you a killer? He's like, yeah, I'm a killer. And he is, man. He does it on both ends of the floor. Came up with that steal against Kuzma late. Play after play, whether he's scoring, assisting, using his voice in the timeouts. I think that's something that he's grown at a lot this season. Just leadership, he's speaking in the huddles, he's speaking before the game. His focus is there. He's a competitive guy that wants to win, wants to play the right way and he's being rewarded for for all the work that he's put in.",
+      "text_blocks": [],
+      "start_seconds": 648,
+      "end_seconds": 695,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 9,
+      "social_post": "Desmond Bane on Franz Wagner: I asked him in the fourth quarter if he is a killer and he said yeah I am a killer. He really does it on both ends of the floor.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Franz Wagner",
+          "Kyle Kuzma"
+        ],
+        "teams": [
+          "ORL",
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Desmond Bane highlights Franz Wagner's growth as a leader and his competitive nature during a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Desmond Bane",
+      "timestamp": "11:46",
+      "summary_phrase": "Desmond Bane on the team's competitive spirit in close games",
+      "names_mentioned": [],
+      "excerpt": "These games are as close as it's going to get to that, meaningful games this early.",
+      "quote": "These games are as close as it's going to get to that, meaningful games this early in the season. A lot of money on the line, a little extra motivation. Not like we need it, but something that that we can use to to spark us. But yeah, man, I I love how we've competed. We didn't start the season off the way we wanted to, losing a lot of games early and to respond with a three game win streak, starting to get bodies back, you can feel the buy in, the energy.",
+      "text_blocks": [],
+      "start_seconds": 706,
+      "end_seconds": 742,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Desmond Bane says the team is feeling the buy-in and energy during their current three-game win streak.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane discusses the team's competitive spirit and recent win streak after a slow start to the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Desmond Bane",
+      "timestamp": "13:00",
+      "summary_phrase": "Desmond Bane on the team's offensive process and video study",
+      "names_mentioned": [
+        "Coach Sweeney"
+      ],
+      "excerpt": "Coach Sweeney and the staff, they have like videos playing all day on the TV screens.",
+      "quote": "In the facility, Coach Sweeney and the staff, they have like videos playing all day on the TV screens like this. And it's like highlights whether it's on offense or defense and it's just literally highlighting the way we want to play, the possessions that we have that are magic basketball. And I'm sure that's going to make the cut. Anytime you can touch the paint, kick it out, drive it again, touch the paint, kick it out and get an open look, good things are usually going to happen.",
+      "text_blocks": [],
+      "start_seconds": 780,
+      "end_seconds": 815,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Desmond Bane reveals the coaching staff uses video highlights in the facility to reinforce what they call magic basketball.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane describes how the coaching staff uses video study to reinforce the team's desired offensive and defensive habits.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Desmond Bane",
+      "timestamp": "13:58",
+      "summary_phrase": "Desmond Bane on finding his rhythm and understanding his role",
+      "names_mentioned": [],
+      "excerpt": "I'm just getting my legs under me.",
+      "quote": "I'm just getting my legs under me. Them first couple, sucking wind a little bit, trying to get in shape and get used to the new style of play, where your shots come from. But I think that we're starting to settle into a rhythm. I got an understanding of my role, what's expected of me and I'm going to continue to deliver.",
+      "text_blocks": [],
+      "start_seconds": 838,
+      "end_seconds": 862,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Desmond Bane says he is settling into a rhythm and gaining a better understanding of his role within the team's new style of play.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane discusses his process of getting back into game shape and adjusting to his role within the team's system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "UBfPvL4vRF0",
+  "url": "https://www.youtube.com/watch?v=UBfPvL4vRF0",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-14T03:34:07Z",
+  "duration_seconds": 875,
+  "processed_at": "2026-11-14T04:18:20Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}
