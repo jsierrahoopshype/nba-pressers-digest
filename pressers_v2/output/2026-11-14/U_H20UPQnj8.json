@@ -1,0 +1,113 @@
+{
+  "video_title": "Kyle Kuzma Postgame Media Availability | 11.13.26",
+  "speakers_seen": [
+    "Kyle Kuzma"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "00:07",
+      "summary_phrase": "Kyle Kuzma on the Wizards' mentality during their losing streak",
+      "names_mentioned": [],
+      "excerpt": "The biggest thing is just sticking with it, staying with the process, coming in and trying to fight every day.",
+      "quote": "The biggest thing is just sticking with it, staying with the process, coming in and trying to fight every day. As long as we can weather that type of storm and mentally be there from a fight standpoint, then we are going to give ourselves a chance in time.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kyle Kuzma on the Wizards current mindset during their losing streak: The biggest thing is just sticking with it, staying with the process, coming in and trying to fight every day.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma discusses the Washington Wizards' mentality and approach during their current losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "00:34",
+      "summary_phrase": "Kyle Kuzma on Franz Wagner's offensive impact against the Wizards",
+      "names_mentioned": [
+        "Franz Wagner"
+      ],
+      "excerpt": "Anytime he gets smaller defenders on him, he takes advantage. He has the ball all night.",
+      "quote": "He is a big boy. Anytime he gets smaller defenders on him, he takes advantage. He has the ball all night, he has great rhythm, and he is just a phenomenal player.",
+      "text_blocks": [],
+      "start_seconds": 34,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Kyle Kuzma on Franz Wagner: He is a big boy. Anytime he gets smaller defenders on him, he takes advantage. He has the ball all night, he has great rhythm, and he is just a phenomenal player.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "WAS",
+          "ORL",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma praises Franz Wagner for his offensive performance and ability to exploit smaller defenders during their game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "00:54",
+      "summary_phrase": "Kyle Kuzma on the Wizards' second-half fight and growth",
+      "names_mentioned": [],
+      "excerpt": "It is all about growth and baby steps right now, taking those small wins.",
+      "quote": "We had a pretty solid fight in the second half after a lackluster first. It is all about growth and baby steps right now, taking those small wins. We had a chance to be within striking distance for most of the game, and hopefully we can build on that, but it is all about consistency.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kyle Kuzma says the Wizards are focused on growth after a lackluster first half: It is all about growth and baby steps right now, taking those small wins.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma reflects on the Wizards' second-half effort and the team's need for consistency moving forward.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "U_H20UPQnj8",
+  "url": "https://www.youtube.com/watch?v=U_H20UPQnj8",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-14T03:13:46Z",
+  "duration_seconds": 86,
+  "processed_at": "2026-11-14T03:26:49Z",
+  "run_id": "2026-11-14-overnight",
+  "is_one_off": false
+}

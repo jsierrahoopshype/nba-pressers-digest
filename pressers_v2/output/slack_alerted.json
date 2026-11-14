@@ -2852,5 +2852,38 @@
    "slot_date": "2026-11-03"
   }
  },
- "pending": {}
+ "pending": {
+  "U_H20UPQnj8": {
+   "channel": "Milwaukee Bucks",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-14",
+   "is_one_off": false,
+   "queued_at": "2026-11-14T03:26:52Z",
+   "run_id": "2026-11-14-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-14",
+   "speaker": "Kyle Kuzma",
+   "title": "Kyle Kuzma Postgame Media Availability | 11.13.26",
+   "top_quote": "The biggest thing is just sticking with it, staying with the process, coming in and trying to fight every day. As long as we can weather that type of storm and mentally be there from a fight standpoint, then we are going to give ourselves a chance in time.",
+   "video_id": "U_H20UPQnj8"
+  },
+  "_FtvDKExKew": {
+   "channel": "Milwaukee Bucks",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-14",
+   "is_one_off": false,
+   "queued_at": "2026-11-14T03:26:52Z",
+   "run_id": "2026-11-14-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-14",
+   "speaker": "Taylor Jenkins",
+   "title": "Taylor Jenkins Postgame Press Conference | 11.13.26",
+   "top_quote": "I think it really starts with we've got to play a perfect game for 48 minutes. It's hard when you are double digits behind. We had a little resilience and response. Give the Magic credit, they played well. Wagner was great tonight, Banchero was great. Their defense, obviously limiting us in the paint, and our ability to try to knock down shots there. We've got to play with more force early in the game, not let them get going. We talked about that before the game, but we've got to play perfect for 48 minutes.",
+   "video_id": "_FtvDKExKew"
+  }
+ }
 }
