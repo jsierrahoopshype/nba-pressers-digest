@@ -2636,6 +2636,21 @@
   }
  },
  "pending": {
+  "9qQQNKDkVyI": {
+   "channel": "The Real Big Baller Podcast",
+   "clip_count": 20,
+   "content_type": "oneoff",
+   "date": "2026-11-13",
+   "is_one_off": true,
+   "queued_at": "2026-11-15T15:42:28Z",
+   "run_id": "2026-11-15-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-15",
+   "speaker": "LaVar Ball",
+   "title": "LaVar Ball EXPOSES LaMelo's Management, NBA Politics & Big Baller Brand Truth | T Cole PT. 2",
+   "top_quote": "Before LaMelo got to be the All-Star, this is back when he was early 20s, and Raymond Brothers was representing him. And ever since I call him GG, convinced LaMelo to get rid of Raymond, it ain't been the same. On the fact that he manipulated that boy, he ain't had a commercial, he ain't had an All-Star appearance. Absolutely.",
+   "video_id": "9qQQNKDkVyI"
+  },
   "AzsktxF9Gmg": {
    "channel": "HoopsHype",
    "clip_count": 5,
@@ -2668,6 +2683,21 @@
    "top_quote": "That's on me. I've got to do a better job making sure we're doing the things that we're supposed to be doing, the way that we're supposed to be doing them. When we do the things properly, we're pretty good. Right now, we're not executing our system consistently enough. We're putting ourselves in tough situations.",
    "video_id": "CK5qodu0ZZM"
   },
+  "L8OF6nKQ2lE": {
+   "channel": "Sactown Sports 1140",
+   "clip_count": 7,
+   "content_type": "oneoff",
+   "date": "2026-11-14",
+   "is_one_off": true,
+   "queued_at": "2026-11-15T15:42:28Z",
+   "run_id": "2026-11-15-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-15",
+   "speaker": "Zach LaVine",
+   "title": "Zach LaVine on Kings' mindset at 1-11, where they've seen progress, but still needing to be better",
+   "top_quote": "It was a tough competitive game, another winnable game for us, but we fell short. It's frustrating we're trying to keep everybody together the right spirits and that's our job as well, to make sure we're still competing and growing, but we got to try to find a win.",
+   "video_id": "L8OF6nKQ2lE"
+  },
   "LQQ-KFEAS9A": {
    "channel": "New Orleans Pelicans",
    "clip_count": 3,
@@ -2683,6 +2713,21 @@
    "title": "Jaron Pierre Jr. | Pelicans vs. Nuggets Postgame Interview 11/14/26",
    "top_quote": "It was like a carryover. I wasn't surprised when I got out there. I felt like I belonged, so the whole time I was out there it was like, dang, I'm actually here doing it. So that's how it really was. I wasn't surprised though.",
    "video_id": "LQQ-KFEAS9A"
+  },
+  "O0_KTRoGjmM": {
+   "channel": "San Antonio Spurs Press Conferences",
+   "clip_count": 6,
+   "content_type": "oneoff",
+   "date": "2026-11-14",
+   "is_one_off": true,
+   "queued_at": "2026-11-15T15:42:28Z",
+   "run_id": "2026-11-15-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-15",
+   "speaker": "Victor Wembanyama",
+   "title": "Victor Wembanyama on Team Win and Game Strategy Against the Warriors",
+   "top_quote": "I feel very secure. I know I have to be smart, but I feel very secure. It is not a good basketball strategy and it shows. So, I am ready to put my money on the line for the team if that allows us to win by 40.",
+   "video_id": "O0_KTRoGjmM"
   },
   "O6uBb3g61zE": {
    "channel": "Minnesota Timberwolves",

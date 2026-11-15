@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-15
 
+[Podcasts & shows](podcasts.md)
+
 # Best of the best
 
 **1. Tuomas Iisalo — "Unfortunately it looks like a relatively serious foot injury." — Tuomas Iisalo on Zach's injury status** [04:12](https://www.youtube.com/watch?v=sQ47R8haVCw&t=252s)
