@@ -1,0 +1,295 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. NOP 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Marvin Bagley III"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:24",
+      "summary_phrase": "Coach Adelman praises Jamal Murray's defensive activity and block shots",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "Jamal Murray's activity was great, a couple block shots, which got us out in running",
+      "quote": "Jamal Murray's activity was great, a couple block shots, which got us out in running and got some easy baskets. It felt like we had a little bit of a flow until they came back there late.",
+      "text_blocks": [],
+      "start_seconds": 24,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Adelman praised Jamal Murray for his defensive activity against New Orleans, noting that his block shots helped the team get out in transition and find easy baskets.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses Jamal Murray's defensive performance and shot-blocking during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:10",
+      "summary_phrase": "Coach Adelman wants more confidence in shooting three-pointers",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "I'd like to see us guys be more confident to shoot the thing",
+      "quote": "I thought we would turn down a great shot and then end up with an okay shot at the end of the shot clock. We have guys that can make really tough plays. Jamal made a lot of really tough shots again, but I'd like to see us guys be more confident to shoot the thing. It leads to flow, it leads to offensive rebounding.",
+      "text_blocks": [],
+      "start_seconds": 70,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Adelman wants his team to play with more confidence from behind the arc, saying he would like to see guys be more confident to shoot the thing instead of turning down great looks.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman explains his desire for the team to play with more confidence when shooting three-pointers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:47",
+      "summary_phrase": "Coach Adelman highlights Marvin Bagley III's impact off the bench",
+      "names_mentioned": [
+        "Marvin Bagley III",
+        "Nikola Jokic"
+      ],
+      "excerpt": "Marvin's been such a bright spot this year. We were very lucky to sign him",
+      "quote": "They were game-changing plays. The block shot when they run a run, keeping balls alive, rebounding the ball, finishing around the basket. He's just been very consistent throughout the season. I tried to run a timeout play for him and everybody ran to the other side of the floor and he still got to the basket and got fouled. Marvin's been such a bright spot this year. We were very lucky to sign him. I got to play him a little bit with Nikola Jokic, but the seven rebounds in 13 minutes just shows the activity.",
+      "text_blocks": [],
+      "start_seconds": 107,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Coach Adelman says Marvin Bagley III has been a bright spot for the Nuggets this season, calling his performance off the bench game changing and noting the team was very lucky to sign him.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Marvin Bagley III",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman praises the consistent impact and rebounding performance of Marvin Bagley III off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:26",
+      "summary_phrase": "Coach Adelman emphasizes collective rebounding effort to control the game",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "Once we shored that up, the defensive rebound, now you're controlling the pace",
+      "quote": "There's those nights where he matches up with an athlete, we're going to have to have somebody else go in there and clean it up. That's been the bugaboo this year for us. We've lost some games that we had control of because we gave away so many possessions. Once we shored that up, the defensive rebound, now you're controlling the pace, you're controlling the tempo and the possession game.",
+      "text_blocks": [],
+      "start_seconds": 146,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Adelman says defensive rebounding has been the bugaboo for the Nuggets this year, emphasizing that shoring up the glass is the key to controlling the pace and tempo of games.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the importance of collective rebounding in controlling the pace and tempo of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Marvin Bagley III",
+      "timestamp": "03:09",
+      "summary_phrase": "Marvin Bagley III on building momentum from the road trip",
+      "names_mentioned": [],
+      "excerpt": "It just gives us something to build on",
+      "quote": "It just gives us something to build on. I think that was our mindset coming into this trip, to just try to get every game. We let Houston slip, but we handled business the rest of the games and that was our mindset coming into this trip and I think we did a good job at finishing strong.",
+      "text_blocks": [],
+      "start_seconds": 189,
+      "end_seconds": 211,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Marvin Bagley III says the Nuggets are focused on building momentum after finishing their road trip strong, despite letting the Houston game slip away.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Marvin Bagley III reflects on the team's performance and mindset during their recent road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Marvin Bagley III",
+      "timestamp": "04:30",
+      "summary_phrase": "Marvin Bagley III on the importance of collective rebounding",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "Whenever everybody's rebounding, it makes Nikola Jokic's life easier",
+      "quote": "It's very helpful for us to all come down and help each other. Whenever everybody's rebounding, it makes Nikola Jokic's life easier and we can get the ball and get out to offense. Even when we're on offense, getting those extra second-chance points and trying to get another shot after we miss is always good for us.",
+      "text_blocks": [],
+      "start_seconds": 270,
+      "end_seconds": 292,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Marvin Bagley III notes that collective rebounding makes Nikola Jokic's life easier and allows the Nuggets to get out in transition more effectively.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Marvin Bagley III explains how collective rebounding helps the team and makes life easier for Nikola Jokic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Marvin Bagley III",
+      "timestamp": "05:10",
+      "summary_phrase": "Marvin Bagley III on team defensive communication",
+      "names_mentioned": [],
+      "excerpt": "Everybody was connected, just communicating with each other",
+      "quote": "Everybody was connected, just communicating with each other. Nothing is going to be ever perfect in the game, so when things break down, having your teammates back and going to make a play and trying to get stops is huge. I think we all did that collectively tonight.",
+      "text_blocks": [],
+      "start_seconds": 310,
+      "end_seconds": 328,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Marvin Bagley III credits the team's defensive success against the Pelicans to being connected and communicating, even when plays break down.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Marvin Bagley III highlights the importance of defensive communication and having teammates' backs during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Marvin Bagley III",
+      "timestamp": "05:49",
+      "summary_phrase": "Marvin Bagley III on the team's offensive ball movement",
+      "names_mentioned": [],
+      "excerpt": "You can feel the energy, everybody's touching the ball, everybody's moving side to side",
+      "quote": "You can feel the energy, everybody's touching the ball, everybody's moving side to side, cutting, being in the dunker, getting into those spots where you can make yourself available to either score or make a play. That's what we did well tonight and most nights.",
+      "text_blocks": [],
+      "start_seconds": 349,
+      "end_seconds": 366,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Marvin Bagley III says the Nuggets offense is at its best when everybody is touching the ball and moving side to side to create scoring opportunities.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Marvin Bagley III describes the team's offensive ball movement and energy during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Marvin Bagley III",
+      "timestamp": "06:38",
+      "summary_phrase": "Marvin Bagley III on his love for the game and effort",
+      "names_mentioned": [],
+      "excerpt": "It's a blessing to be able to put on the uniform and go out and compete",
+      "quote": "Just my love for the game. Never disrespecting the game, never taking the game for granted. It's a blessing to be able to put on the uniform and go out and compete. That's something that I don't take lightly. I prepare my body for it, my mind, off-season, even in-season, to go out there and give what I can give.",
+      "text_blocks": [],
+      "start_seconds": 398,
+      "end_seconds": 421,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Marvin Bagley III on his high energy level: I never disrespect the game and never take it for granted. It is a blessing to be able to put on the uniform and go out and compete.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Marvin Bagley III shares his personal philosophy regarding his love for the game and his preparation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "yMk5aUeCah8",
+  "url": "https://www.youtube.com/watch?v=yMk5aUeCah8",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-15T03:54:54Z",
+  "duration_seconds": 532,
+  "processed_at": "2026-11-15T07:56:27Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

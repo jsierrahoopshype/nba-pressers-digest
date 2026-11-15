@@ -1,0 +1,182 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons at Heat  l 11.14.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:05",
+      "summary_phrase": "J.B. Bickerstaff takes responsibility for Pistons' defensive struggles",
+      "names_mentioned": [],
+      "excerpt": "the past couple games for us, our defense hasn't been to standard. And that's on me.",
+      "quote": "The past couple games for us, our defense hasn't been to standard. And that's on me. I've got to do a better job making sure we're doing the things that we're supposed to be doing, the way that we're supposed to be doing them. And when we do the things properly, we're pretty good defensively, but right now, we're not executing our system consistently enough. We're putting ourselves in tough situations.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says the Pistons defensive struggles fall on him. He says the team is not executing their system consistently enough right now.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff addresses the media following the Pistons' defensive struggles in recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:41",
+      "summary_phrase": "J.B. Bickerstaff praises Cade Cunningham's aggressive offensive performance",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "He's a really good basketball player that can do a lot of things.",
+      "quote": "He's a really good basketball player that can do a lot of things. He can get to the paint, he can make shots, he can playmake. So we like to get him involved, try to get the ball in his hands, but I thought he did a great job with his opportunities tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 41,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff on Cade Cunningham: He is a really good basketball player that can do a lot of things. He can get to the paint, he can make shots, he can playmake.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "J.B. Bickerstaff discusses Cade Cunningham's offensive performance during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:03",
+      "summary_phrase": "J.B. Bickerstaff downplays size disadvantage against Giannis Antetokounmpo and Bam Adebayo",
+      "names_mentioned": [
+        "Giannis Antetokounmpo",
+        "Bam Adebayo"
+      ],
+      "excerpt": "size for us doesn't matter, if we're doing the things that we need to do properly",
+      "quote": "Size for us doesn't matter, if we're doing the things that we need to do properly, our defensive system can withstand that. We're just not doing it enough and not doing it consistently.",
+      "verbatim_original_language": "",
+      "start_seconds": 63,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says size does not matter for the Pistons defensively if they execute properly. He believes their system can withstand playing against elite bigs.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo",
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "DET",
+          "MIL",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains how the team's defensive system handles opponents with significant size advantages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:23",
+      "summary_phrase": "J.B. Bickerstaff reflects on missed opportunities and offensive execution",
+      "names_mentioned": [],
+      "excerpt": "I thought our guys were playing, especially in the first half. I thought our guys were really, really getting after",
+      "quote": "I thought our guys were playing, especially in the first half. I thought our guys were really, really getting after, really competing, they were sharing the ball. Shots just didn't go for us. And when you're playing a team like the Heat that's capable the way they are, you're going to need to get some of those breaks, but this is on me, this is on us, we just have to be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 83,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff reflects on the loss to the Heat: I thought our guys were really, really getting after, really competing, they were sharing the ball. Shots just did not go for us.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff reflects on the team's offensive execution and missed shots against the Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:40",
+      "summary_phrase": "J.B. Bickerstaff provides update on Jalen Duren's quad injury",
+      "names_mentioned": [
+        "Jalen Duren"
+      ],
+      "excerpt": "It was a quad, and again, we just want to make sure we're taking care of him.",
+      "quote": "It was a quad, and again, we just want to make sure we're taking care of him.",
+      "verbatim_original_language": "",
+      "start_seconds": 160,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff confirms Jalen Duren is dealing with a quad injury. He says the team wants to make sure they are taking care of him.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Duren"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "J.B. Bickerstaff provides an update on Jalen Duren's status following a quad injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "ykzhJiD2qII",
+  "url": "https://www.youtube.com/watch?v=ykzhJiD2qII",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-15T04:04:31Z",
+  "duration_seconds": 177,
+  "processed_at": "2026-11-15T07:56:06Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

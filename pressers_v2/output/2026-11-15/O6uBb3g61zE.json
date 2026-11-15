@@ -1,0 +1,133 @@
+{
+  "video_title": "\"We Had A Lack Of Energy.\" | LaMelo Ball Post Game Sound | 11.14.26",
+  "speakers_seen": [
+    "LaMelo Ball"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:09",
+      "summary_phrase": "LaMelo Ball on his desire to facilitate and drive the offense",
+      "names_mentioned": [],
+      "excerpt": "facilitate, see who open, drive, get it going.",
+      "quote": "Yeah, I mean, facilitate, see who open, drive, get it going.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 14,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on his approach to the offense tonight: facilitate, see who is open, and drive to get things going.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball explains his approach to facilitating and driving the offense during his post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:21",
+      "summary_phrase": "LaMelo Ball attributes team loss to lack of energy and hustle",
+      "names_mentioned": [],
+      "excerpt": "energy, energy, hustle. I think they just hit first pretty much and that was the game.",
+      "quote": "Energy, energy, hustle. I think they just hit first pretty much and that was the game.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "LaMelo Ball says the loss came down to a lack of effort: they just hit first pretty much and that was the game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball discusses the team's lack of energy and hustle following their loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:36",
+      "summary_phrase": "LaMelo Ball on the team's failure to respect their opponents",
+      "names_mentioned": [],
+      "excerpt": "not really just respecting the opponents I feel like.",
+      "quote": "Not really just respecting the opponents I feel like. We heard they flight and they travel and everything. I think people took a little break back, but it's when you really just supposed to hit, so I think like I said, they just hit first.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "LaMelo Ball admits the team may have taken a break against their opponent: not really respecting the opponent and thinking they could take a step back.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball reflects on the team's failure to respect their opponent and their slow start to the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:14",
+      "summary_phrase": "LaMelo Ball plans to review game film to address foul trouble",
+      "names_mentioned": [],
+      "excerpt": "I got to look at the film for sure. I don't even remember them fouls though.",
+      "quote": "I got to look at the film for sure. I don't even remember them fouls though, but hey, got to stop fouling.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "LaMelo Ball plans to review the film to figure out his foul trouble: I do not even remember the fouls, but I have to stop fouling.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball mentions his intention to watch game film to understand and reduce his foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "O6uBb3g61zE",
+  "url": "https://www.youtube.com/watch?v=O6uBb3g61zE",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-15T05:08:08Z",
+  "duration_seconds": 83,
+  "processed_at": "2026-11-15T07:55:33Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

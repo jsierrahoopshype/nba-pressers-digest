@@ -1,0 +1,288 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs. Nuggets Postgame Interview 11/14/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:28",
+      "summary_phrase": "Jamahl Mosley praises Jett Howard and Jett Howard's impact",
+      "names_mentioned": [
+        "Jett Howard",
+        "Jett Howard"
+      ],
+      "excerpt": "Jett Howard is pure basketball. He just loves the hoop.",
+      "quote": "Jett Howard is pure basketball. He just loves the hoop. You see the joy and energy that he brings to the table. Having Jett Howard back with that pop, that energy, the rim protection, those things are big for us. Holding our defense down, I thought that was great when Jett Howard was in there. There was a lot of positives to it, mainly the energy, the spirit, the level of togetherness that we played with.",
+      "text_blocks": [],
+      "start_seconds": 28,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jamahl Mosley is high on Jett Howard after his return to the lineup, praising his energy and defensive impact. Mosley says Jett is pure basketball and brings a level of togetherness that the team really needed.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jett Howard"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Jamahl Mosley discusses Jett Howard's defensive energy and impact after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:14",
+      "summary_phrase": "Jamahl Mosley on Jett Howard's character and city representation",
+      "names_mentioned": [
+        "Jett Howard"
+      ],
+      "excerpt": "He's a joy to be around because he's got an energy and a spirit about him.",
+      "quote": "It's the spirit of Jett Howard. He's a joy to be around because he's got an energy and a spirit about him that's just pure. He just wants to play the game of basketball. Being from here, he represents the city. He represents it very well. The life that he has, the energy that he has, what he brings into a building every single day, the care factor that he has, the humility that he has, those are things that we talk about what it means to represent the city. He's from it and that's what it looks like.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 112,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Jamahl Mosley on Jett Howard representing New Orleans: He has a spirit that is just pure. He represents the city and he represents it very well.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jett Howard"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley describes Jett Howard's character and his connection to the city.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:48",
+      "summary_phrase": "Jamahl Mosley on defensive adjustments against the Nuggets",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Jamahl Mosley"
+      ],
+      "excerpt": "They manipulate anything you do.",
+      "quote": "I thought we did a better job in a couple places. Obviously, they still had some points in the paint. We did a better job on the three-point line. They manipulate anything you do. Whatever adjustment you make, Nikola Jokic and Jamahl Mosley do an unbelievable job as well as coach of finding those little tweaks. They've been doing it so long together. Whatever adjustment you make, they're countering it and they find it within the game, so you've got to be quick on the fly with those guys.",
+      "text_blocks": [],
+      "start_seconds": 108,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the challenge of facing Nikola Jokic: Whatever adjustment you make they are countering it. You have to be quick on the fly with those guys.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the difficulty of adjusting defensively against Nikola Jokic and the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:13",
+      "summary_phrase": "Jamahl Mosley on Jett Howard's defensive development",
+      "names_mentioned": [
+        "Jett Howard"
+      ],
+      "excerpt": "He's not shying away from it.",
+      "quote": "Jett Howard is not shying away from it. Sitting down, getting a stop, finding ways to do his work early with these guys, and that's what they tried to exploit a couple times. We went to get the double team, they moved it, one shot clock violation. Another time down they got a tough shot, offensive rebound. But I think those things are known. We're telling him just sit down and guard and be able to guard your yard, keep guys in front of you, and live with some of the tough contested twos versus guys at the rim.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on Jett Howard defensive development: We are telling him just sit down and guard and be able to guard your yard and live with some of the tough contested twos versus guys at the rim.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jett Howard"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses specific defensive instructions given to Jett Howard during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:51",
+      "summary_phrase": "Jamahl Mosley on Jett Howard's growth since Summer League",
+      "names_mentioned": [
+        "Jett Howard"
+      ],
+      "excerpt": "He's poised. He's got a maturity about him when it comes to the game.",
+      "quote": "Jett Howard is poised. He's got a maturity about him when it comes to the game. He's decisive in what he wants to do and he's not afraid. That's the thing that I love most about him is that his spirit, his energy, but then he's not afraid of moments, not afraid to take the big shot, not afraid to guard anyone. That's what I'm looking for, being able to sit down and guard multiple positions and not backing down or shying away from it at all.",
+      "text_blocks": [],
+      "start_seconds": 171,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Jett Howard: He is not afraid of moments, not afraid to take the big shot, not afraid to guard anyone. That is what I am looking for.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jett Howard"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises the maturity and defensive versatility shown by Jett Howard.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:23",
+      "summary_phrase": "Jamahl Mosley on Zion Williamson's shooting development",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "I can't say enough about Zion Williamson.",
+      "quote": "I can't say enough about Zion Williamson. I got chills right now because the work this young man has put in, the care factor that I've seen him have is special. Doing whatever is necessary to help this team get over the hump, taking on all challenges, wants to be coached, asks what he needs to have done to do for this team. That is what we've asked him to do and it's great to see. If you could see the body of work that he's putting in every single day after practice to make sure that he's doing the right thing, the film, the on-court time, whatever is necessary he's doing.",
+      "text_blocks": [],
+      "start_seconds": 203,
+      "end_seconds": 246,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Jamahl Mosley says he gets chills talking about the work Zion Williamson is putting in: The care factor that I have seen him have is special. He is doing whatever is necessary to help this team get over the hump.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley commends Zion Williamson for his work ethic and willingness to be coached.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:23",
+      "summary_phrase": "Jamahl Mosley on Zion Williamson's high minutes",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "He just loves the game.",
+      "quote": "Zion Williamson just loves the game. He wants to play. Being home and being around us and that energy, his spirit, he could have played. He could have kept playing and that's what you want from a young rookie, to be able to just go out here and play for the joy of the game and nothing other than that and just the spirit to help this team figure out a way to get a win in any moment and he possesses that.",
+      "text_blocks": [],
+      "start_seconds": 263,
+      "end_seconds": 295,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jamahl Mosley on Zion Williamson: He just loves the game. He wants to play. He has the spirit to help this team figure out a way to get a win in any moment.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses Zion Williamson's desire to play and his competitive spirit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:34",
+      "summary_phrase": "Jamahl Mosley on the convenience of the G League team proximity",
+      "names_mentioned": [
+        "Julian",
+        "Jett Howard",
+        "AJ",
+        "Malik"
+      ],
+      "excerpt": "It's extremely convenient to be able to have these guys come over.",
+      "quote": "It's extremely convenient to be able to have these guys come over. They get the win tonight, they hold the team to 86 points, they score 99 and I think guys had big games. Julian had a good game, Jett Howard had a good game, AJ played, Malik had a good game. Having games and having that confidence and knowing that we're going to be there to support them, it's so convenient. That's the bond you've built over summertime to now as we move forward in the future, that's the connection that we have to have as a group, as a unit, and as an organization.",
+      "text_blocks": [],
+      "start_seconds": 334,
+      "end_seconds": 375,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the G League connection: Having that confidence and knowing that we are going to be there to support them is so convenient. That is the bond you have built as an organization.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Julian",
+          "Jett Howard",
+          "AJ",
+          "Malik"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley talks about the benefits of having G League players integrated into the main team's system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "xu6ITy7K9nQ",
+  "url": "https://www.youtube.com/watch?v=xu6ITy7K9nQ",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-15T03:35:56Z",
+  "duration_seconds": 377,
+  "processed_at": "2026-11-15T07:56:23Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

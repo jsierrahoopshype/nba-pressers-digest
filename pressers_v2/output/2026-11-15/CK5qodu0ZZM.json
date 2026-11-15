@@ -1,0 +1,181 @@
+{
+  "video_title": "JB Bickerstaff Post- Game Interview vs Heat | 11/14/2026",
+  "speakers_seen": [
+    "JB Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "JB Bickerstaff",
+      "timestamp": "00:00",
+      "summary_phrase": "JB Bickerstaff takes responsibility for team's lack of execution",
+      "names_mentioned": [],
+      "excerpt": "I've got to do a better job making sure we're doing the things that we're supposed to be doing",
+      "quote": "That's on me. I've got to do a better job making sure we're doing the things that we're supposed to be doing, the way that we're supposed to be doing them. When we do the things properly, we're pretty good. Right now, we're not executing our system consistently enough. We're putting ourselves in tough situations.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff takes the blame for the team's recent struggles saying that is on me and he needs to do a better job making sure the team executes the system consistently",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "JB Bickerstaff discusses the team's lack of execution following the loss to the Miami Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "JB Bickerstaff",
+      "timestamp": "00:22",
+      "summary_phrase": "JB Bickerstaff praises Kevin's aggressive play against the Heat",
+      "names_mentioned": [
+        "Kevin"
+      ],
+      "excerpt": "He's a really good basketball player that can do a lot of things",
+      "quote": "Kevin was a bright spot on the offensive end and really did a nice job creating his own offense. He's a really good basketball player that can do a lot of things. He can get to the paint, he can make shots, he can playmake. So we like to get him involved, try to get the ball in his hands, but I thought he did a great job of his opportunity.",
+      "verbatim_original_language": "",
+      "start_seconds": 22,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff praised Kevin for his aggressive play against the Heat noting that he did a nice job creating his own offense and getting to the paint",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin"
+        ],
+        "teams": [
+          "CLE",
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "JB Bickerstaff praises the offensive performance of Kevin during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "JB Bickerstaff",
+      "timestamp": "00:44",
+      "summary_phrase": "JB Bickerstaff addresses team's defensive inconsistency and size issues",
+      "names_mentioned": [],
+      "excerpt": "Size for us doesn't matter if we're doing the things that we need to do properly",
+      "quote": "Size for us doesn't matter if we're doing the things that we need to do properly. Our defensive system can withstand that. We're just not doing it enough and not doing it consistently. We're not executing our system consistently enough.",
+      "verbatim_original_language": "",
+      "start_seconds": 44,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says size is not the issue for his team claiming that their defensive system can withstand it if they just execute properly",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "JB Bickerstaff addresses questions regarding the team's defensive consistency and size concerns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "JB Bickerstaff",
+      "timestamp": "01:32",
+      "summary_phrase": "JB Bickerstaff provides no update on Ron's injury status",
+      "names_mentioned": [
+        "Ron"
+      ],
+      "excerpt": "Not yet. I haven't had a chance to talk to our medical staff yet.",
+      "quote": "Not yet. I haven't had a chance to talk to our medical staff yet.",
+      "verbatim_original_language": "",
+      "start_seconds": 92,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says there is no update yet on Ron's injury status as he has not had a chance to speak with the medical staff",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ron"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "JB Bickerstaff is asked for an update on the injury status of Ron.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "JB Bickerstaff",
+      "timestamp": "02:22",
+      "summary_phrase": "JB Bickerstaff confirms Duckin's injury is a quad issue",
+      "names_mentioned": [
+        "Duckin"
+      ],
+      "excerpt": "It was a quad, and again, we just want to make sure we're taking care of him.",
+      "quote": "It was a quad, and again, we just want to make sure we're taking care of him.",
+      "verbatim_original_language": "",
+      "start_seconds": 142,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff confirms that Duckin is dealing with a quad injury and the team is focused on taking care of him",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Duckin"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "JB Bickerstaff confirms that Duckin is dealing with a quad injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "CK5qodu0ZZM",
+  "url": "https://www.youtube.com/watch?v=CK5qodu0ZZM",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-15T04:48:40Z",
+  "duration_seconds": 183,
+  "processed_at": "2026-11-15T07:55:55Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

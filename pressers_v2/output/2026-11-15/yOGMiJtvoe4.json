@@ -1,0 +1,133 @@
+{
+  "video_title": "\"We Gave Them Too Much Momentum.\" | Ayo Dosunmu Post Game Sound | 11.14.26",
+  "speakers_seen": [
+    "Ayo Dosunmu"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "00:00",
+      "summary_phrase": "Ayo Dosunmu on Minnesota Timberwolves' poor start and lack of focus",
+      "names_mentioned": [],
+      "excerpt": "Attention to detail from the start, I think that has to be better.",
+      "quote": "Attention to detail from the start, I think that has to be better. Attention to game plan has to be better, and we have to be able to pivot when shots are not falling. I think we picked it up too late, but the NBA has the best players in the world. So, when you give a team momentum, they make their threes. They flew in today off a back-to-back, they had nothing to lose, and when you give them ammo, you give them momentum, that is when you are in trouble. So, I think that is what got us caught up tonight.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu says the Timberwolves lacked focus early against a team on a back to back. We gave them too much momentum and that is when you are in trouble.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses the Timberwolves' slow start and failure to maintain defensive focus against their opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "00:43",
+      "summary_phrase": "Ayo Dosunmu on the importance of not taking any team lightly",
+      "names_mentioned": [],
+      "excerpt": "You cannot take any team lightly. This league, coaches and players and front office, every team is trying to win.",
+      "quote": "You cannot take any team lightly. This league, coaches and players and front office, every team is trying to win, every team is trying to compete. There is no incentive in taking, so each and every night, you are going to get a team's best shot, especially with how well we have been playing and the aspiration that we have. That definitely gives players and teams more incentive to go out there and try to beat us because I think we are a good measuring stick.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the target on the Timberwolves back. We are a good measuring stick and every team is going to give us their best shot.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains why the team cannot afford to underestimate any opponent in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "02:05",
+      "summary_phrase": "Ayo Dosunmu on defensive lapses and poor shooting affecting team performance",
+      "names_mentioned": [],
+      "excerpt": "Early on with our poor shooting it bled into our defense and it bled into how we play.",
+      "quote": "It is just some small details. We want to limit some of their threes, and I do not think we did a great job of that. And I also do think that early on with our poor shooting it bled into our defense and it bled into how we play. That cannot be the case, because if we go live and die with how good our three-point shot is, or if we are winning by 30 or 40 points, that is not reality. In the NBA, some games you have to win in a dirty way.",
+      "text_blocks": [],
+      "start_seconds": 125,
+      "end_seconds": 162,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu admits the Timberwolves poor shooting bled into their defense. In the NBA some games you have to win in a dirty way.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu reflects on how poor offensive shooting performance negatively impacted the team's defensive intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "03:42",
+      "summary_phrase": "Ayo Dosunmu on the need to pivot when shots are not falling",
+      "names_mentioned": [],
+      "excerpt": "It is basketball, it is not all about just shooting jump shots, it is getting downhill, creating for someone else.",
+      "quote": "It is basketball, it is not all about just shooting jump shots, it is getting downhill, creating for someone else, pushing the pace, getting stops on defense, getting out in transition, getting to the free throw line. I think all of those things we did at spurts. We cut the lead, I think maybe down to two or three, and that is how we have to play. But like I said, when you give a team momentum, you give them confidence, then that is when they start to make tougher shots.",
+      "text_blocks": [],
+      "start_seconds": 222,
+      "end_seconds": 257,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the need for the Timberwolves to diversify their offense. It is not all about just shooting jump shots. We have to get downhill and create for others.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu describes the tactical adjustments the team needs to make when perimeter shots are not falling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "yOGMiJtvoe4",
+  "url": "https://www.youtube.com/watch?v=yOGMiJtvoe4",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-15T05:18:40Z",
+  "duration_seconds": 283,
+  "processed_at": "2026-11-15T07:55:28Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

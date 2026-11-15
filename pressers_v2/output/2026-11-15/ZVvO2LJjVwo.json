@@ -1,0 +1,141 @@
+{
+  "video_title": "\"This Was Not Our Brand Of Basketball.\" | Chris Finch Post Game Sound | 11.14.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:03",
+      "summary_phrase": "Chris Finch criticizes team's offensive and defensive execution",
+      "names_mentioned": [],
+      "excerpt": "we weren't really imposing ourselves offensively. And in defense, we could never contain the ball",
+      "quote": "I mean both, really. We came out just trying to hoist up threes, hoping that they would go in. They were so-so shots, some were okay, some were weren't. We weren't really imposing ourselves offensively. And in defense, we could never contain the ball at the point of attack. It was a problem all night. When we were able to, they snuck behind us for cheap rebounds or relocated when we were not paying attention to our guy off-ball. So yeah, really, really unacceptable performance.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Chris Finch called the Timberwolves performance unacceptable tonight, noting the team failed to contain the ball and settled for poor shots instead of imposing their will offensively.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch assesses the team's poor offensive and defensive performance following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:43",
+      "summary_phrase": "Chris Finch on D'Angelo Russell's shooting and paint aggression",
+      "names_mentioned": [
+        "D'Angelo Russell"
+      ],
+      "excerpt": "you want him to stay confident in his shot, but I do also think that there were plenty of opportunities",
+      "quote": "Yeah, you want him to stay confident in his shot, but I do also think that there were plenty of opportunities to get to the paint, not just for him but for others too.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch wants D'Angelo Russell to keep shooting but emphasized that the team needs to find more opportunities to attack the paint.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "D'Angelo Russell"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses D'Angelo Russell's shot selection and the need for more paint aggression.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:27",
+      "summary_phrase": "Chris Finch on Rudy Gobert's struggles around the rim",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "he's not been able to finish. He's getting stripped, he's missing layups, he's not finishing strong",
+      "quote": "He's not been able to finish. He's getting stripped, he's missing layups, he's not finishing strong. He's got to get on balance, collect, and finish strong, and sometimes it's going to be through contact. We need him to get his finishing back around the paint.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Chris Finch says Rudy Gobert needs to get his finishing back around the paint, noting that he is currently getting stripped and missing layups.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch critiques Rudy Gobert's recent struggles with finishing around the rim.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "02:14",
+      "summary_phrase": "Chris Finch on team's need to return to winning habits",
+      "names_mentioned": [],
+      "excerpt": "we got to get back to doing, obviously get back to the habits that make us successful",
+      "quote": "We got to get back to doing, obviously get back to the habits that make us successful. I thought we didn't play fast enough tonight. I thought our decision-making was slow also. We didn't go to the offensive glass. We missed 50-some shots, we got eight back. We should have at least easily 12 to 15 offensive rebounds, which we desperately needed in a game like this. And defensively, we didn't execute the things that we talked about and our ball containment was bad. It's one game, we're disappointed, it's not acceptable, but we got to get back to put it right and be who we've been the rest of the season.",
+      "text_blocks": [],
+      "start_seconds": 134,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch says the Timberwolves need to return to their winning habits after a slow performance where the team failed to execute defensively and struggled on the offensive glass.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch reflects on the team's need to return to successful habits after a disappointing loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "ZVvO2LJjVwo",
+  "url": "https://www.youtube.com/watch?v=ZVvO2LJjVwo",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-15T04:50:18Z",
+  "duration_seconds": 186,
+  "processed_at": "2026-11-15T07:55:47Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

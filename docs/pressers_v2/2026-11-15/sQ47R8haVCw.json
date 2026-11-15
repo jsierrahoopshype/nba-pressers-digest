@@ -1,0 +1,156 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Nets",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:58",
+      "summary_phrase": "Tuomas Iisalo on Jevon Carter and Taylor Hendricks' development",
+      "names_mentioned": [
+        "Jevon Carter",
+        "Taylor Hendricks"
+      ],
+      "excerpt": "It's a testament to their hard work. We have live groups even on game days.",
+      "quote": "It's a testament to their hard work. We have live groups even on game days that they've played. They're doing live play, and that's one of the things we want to keep a thread going with, that guys are still looking to improve during the season. Some of those gains that they have made during the summer, they don't lose it just by watching others play basketball. They've been working extremely hard and we have a ton of confidence in them and they have a ton of confidence in themselves that when they step in, they're going to be ready to do what when their number is called.",
+      "text_blocks": [],
+      "start_seconds": 58,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo credits Jevon Carter and Taylor Hendricks for their work ethic during live practice sessions on game days to ensure they stay ready when their number is called.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jevon Carter",
+          "Taylor Hendricks"
+        ],
+        "teams": [
+          "MEM",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the development and work ethic of Jevon Carter and Taylor Hendricks during the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:00",
+      "summary_phrase": "Tuomas Iisalo on Cedric's defensive and offensive versatility",
+      "names_mentioned": [
+        "Cedric"
+      ],
+      "excerpt": "He's just developed into a very balanced player on both ends.",
+      "quote": "It's been very apparent when you look at the on-offs in our team. I think he's leading the whole team and not just in the on-offs, but also the expected ones that adjust for his shot quality. He's just developed into a very balanced player on both ends. Sometimes the narrative there is that he could be more aggressive or take more shots, but you also have to look at in which lineups he plays. He plays in that starting unit. We could have the same discussion also with Zaki Edi that they play together with Tai Jerome, they play together with Booz. In that unit, a lot of the offense goes through the two decision-makers and then when they play in different units, now they absorb more of the scoring responsibility, more of the creation responsibility.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo explains that Cedric's offensive numbers are impacted by playing alongside primary decision makers noting that he takes on more creation responsibility when he is in different lineups.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cedric",
+          "Zaki Edi",
+          "Tai Jerome",
+          "Booz"
+        ],
+        "teams": [
+          "MEM",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo explains the offensive role and versatility of Cedric within the team's various lineups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "04:12",
+      "summary_phrase": "Tuomas Iisalo on Zach's injury status",
+      "names_mentioned": [
+        "Zach"
+      ],
+      "excerpt": "Unfortunately it looks like a relatively serious foot injury.",
+      "quote": "Unfortunately it looks like a relatively serious foot injury. That's very, very sad for him. He was catching a good stride and we obviously there will be some further testing, but so far it doesn't look very good.",
+      "text_blocks": [],
+      "start_seconds": 252,
+      "end_seconds": 267,
+      "speaker_confidence": "named",
+      "news_score": 10,
+      "social_score": 5,
+      "social_post": "Tuomas Iisalo says Zach is dealing with a relatively serious foot injury and the initial outlook does not look very good.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zach"
+        ],
+        "teams": [
+          "MEM",
+          "BKN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tuomas Iisalo provides an update on the severity of a foot injury sustained by Zach.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "04:33",
+      "summary_phrase": "Tuomas Iisalo on balancing offensive strategy against similar opponents",
+      "names_mentioned": [],
+      "excerpt": "You can try to emphasize a different type of pace, for example.",
+      "quote": "There's a couple ways to do that. You can try to emphasize a different type of pace, for example. Try to play faster or try to slow it down and be more deliberate about how we attack. Then you can think about the half-court offense also as basically through three different components. We can try to stay as dynamic as possible, which we do through what we call our flow offense, which a lot of times the first screen is set at 21 on a shot clock with three seconds. Or then you can go to your best offensive players in that for those actions on the court, or then you can try to attack through scouting the other team's weaknesses.",
+      "text_blocks": [],
+      "start_seconds": 273,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Tuomas Iisalo breaks down his offensive philosophy including the use of a flow offense to stay dynamic and attacking based on specific scouting of opponent weaknesses.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo explains the different strategic approaches the team uses to manage offensive flow and pace against opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "sQ47R8haVCw",
+  "url": "https://www.youtube.com/watch?v=sQ47R8haVCw",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-15T05:09:24Z",
+  "duration_seconds": 505,
+  "processed_at": "2026-11-15T07:55:36Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

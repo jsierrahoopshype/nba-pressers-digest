@@ -1,0 +1,381 @@
+{
+  "video_title": "Cavs vs Mavericks | Tyrese Proctor & Thomas Bryant Post Game | 11.14.2026",
+  "speakers_seen": [
+    "Tyrese Proctor",
+    "Thomas Bryant"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyrese Proctor",
+      "timestamp": "00:16",
+      "summary_phrase": "Tyrese Proctor on his growth and improved confidence this season",
+      "names_mentioned": [],
+      "excerpt": "I think it started last year, obviously getting familiar with the system, players, and we added players.",
+      "quote": "I think it started last year, obviously getting familiar with the system, players, and we added players off the All-Star break in that trade deadline. And then I think it just started this summer, just locking in on my habits, my routine, my work, just doubling down on myself and putting the work in and then came in the training camp firing and sort of never looked back from there.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyrese Proctor credits his breakout season to locking in on his habits and routine during the summer and doubling down on his work.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Tyrese Proctor discusses his personal growth and preparation leading into the current season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyrese Proctor",
+      "timestamp": "00:49",
+      "summary_phrase": "Tyrese Proctor on playing with teammates Cooper Flagg and Kyrie Irving",
+      "names_mentioned": [
+        "Cooper Flagg",
+        "Kyrie Irving"
+      ],
+      "excerpt": "Obviously love playing with Cooper and I mean look up to Kyrie, he's a hell of a player.",
+      "quote": "No, I wouldn't say because they're number one picks. I mean they're my brothers. Obviously love playing with Cooper and I mean look up to Kyrie, he's a hell of a player, had a great, great successful career and I think my mentality coming in tonight sort of echoed throughout the whole group which was just to come in and kill.",
+      "text_blocks": [],
+      "start_seconds": 49,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Tyrese Proctor on playing alongside Cooper Flagg and Kyrie Irving: They are my brothers and I look up to Kyrie. My mentality coming in tonight was just to come in and kill.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cooper Flagg",
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Proctor reflects on his relationship with teammates Cooper Flagg and Kyrie Irving.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyrese Proctor",
+      "timestamp": "01:30",
+      "summary_phrase": "Tyrese Proctor on the team's collective effort and ball movement",
+      "names_mentioned": [],
+      "excerpt": "We just played together. I thought we moved as one, we were connected the whole game.",
+      "quote": "We just played together. I thought we moved as one, we were connected the whole game. We just let the ball do its thing and we were connected on both sides of the ball, offense and defense. I feel like when we play like that, I mean we're a really hard team to stop and I thought we did that tonight.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Tyrese Proctor says the Cavs were connected on both sides of the ball tonight: We just let the ball do its thing and we were connected on both sides of the ball.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Tyrese Proctor describes the team's collective effort and ball movement during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyrese Proctor",
+      "timestamp": "02:50",
+      "summary_phrase": "Tyrese Proctor on the team's resilience and depth",
+      "names_mentioned": [
+        "Malik",
+        "JT",
+        "TB"
+      ],
+      "excerpt": "We got 1 through 15 guys that can go out there and play good basketball.",
+      "quote": "I think it just shows how resilient we are, how connected we are, how deep we are as one. We got 1 through 15 guys that can go out there and play good basketball and I thought we showcased that tonight. Everyone stepped up. Malik had 20, JT showed, what did JT have? He played great. Everyone, rebound TB was phenomenal. It was a team effort and I was just a byproduct of that.",
+      "text_blocks": [],
+      "start_seconds": 170,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyrese Proctor on the Cavs depth: We got 1 through 15 guys that can go out there and play good basketball and I thought we showcased that tonight.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Malik Beasley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Proctor praises the team's depth and resilience after a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyrese Proctor",
+      "timestamp": "03:44",
+      "summary_phrase": "Tyrese Proctor on his offseason work with James Harden and Donovan Mitchell",
+      "names_mentioned": [
+        "James Harden",
+        "Donovan Mitchell"
+      ],
+      "excerpt": "Me and James workout at every shootaround. Me and Donovan spent all summer together.",
+      "quote": "Me and James workout at every shootaround. We're working out, getting reps. Me and Donovan spent all summer together, like you said. So it's great just being able to pick their brains and just analyze the game on another level. They're two of the greats to play the game and them, paired along with all the other guys in the locker room, just trying to do my part, picking and choosing where I can help them on the court and where they can help me.",
+      "text_blocks": [],
+      "start_seconds": 224,
+      "end_seconds": 257,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Tyrese Proctor says he is picking the brains of James Harden and Donovan Mitchell: Me and James workout at every shootaround and I spent all summer with Donovan.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Proctor talks about his offseason training sessions with James Harden and Donovan Mitchell.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Thomas Bryant",
+      "timestamp": "05:03",
+      "summary_phrase": "Thomas Bryant on the team's resilience during a difficult travel day",
+      "names_mentioned": [],
+      "excerpt": "The significance about it was just throughout the whole day, not being able to travel yesterday.",
+      "quote": "The significance about it was just throughout the whole day, not being able to travel yesterday, to having to travel on the day of the game and then being able for guys to be, you know, guys that weren't available and the guys that were available to step up and you know get a resilient win today.",
+      "text_blocks": [],
+      "start_seconds": 303,
+      "end_seconds": 325,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Thomas Bryant on the Cavs win after a tough travel day: It was a resilient win today after not being able to travel yesterday and having to travel on the day of the game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Thomas Bryant discusses the team's resilience after a difficult travel day before the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Thomas Bryant",
+      "timestamp": "05:22",
+      "summary_phrase": "Thomas Bryant on Tyrese Proctor's performance and development",
+      "names_mentioned": [
+        "Tyrese Proctor"
+      ],
+      "excerpt": "He's just gotten so much better year by year, man. It's just, I'm grateful to be a part.",
+      "quote": "I thought he played fantastic from start to finish, man. He got us in our right spots, he made big plays for us, he got downhill when they were giving him the lane, made big threes for us and you know he's just gotten so much better year by year, man. It's just, I'm grateful to be a part of it and to help him in any way, shape or form, man, but he played fantastic, man. You can't say enough great things about him and the game that he had today.",
+      "text_blocks": [],
+      "start_seconds": 322,
+      "end_seconds": 357,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Thomas Bryant on Tyrese Proctor: He played fantastic from start to finish. He got us in our right spots and he has just gotten so much better year by year.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Proctor"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Thomas Bryant praises the performance and development of his teammate Tyrese Proctor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Thomas Bryant",
+      "timestamp": "06:22",
+      "summary_phrase": "Thomas Bryant on the team's culture and Tyrese Proctor's role",
+      "names_mentioned": [
+        "Tyrese Proctor"
+      ],
+      "excerpt": "We didn't want him to change up anything. You're not stepping on anybody's toes right here, man.",
+      "quote": "I'm just seeing everybody just bringing them in and just wanting him to play his game, you know. We didn't want him to change up anything. You're not stepping on anybody's toes right here, man. It's just going out here and play some winning basketball. We want to win some games, man, and then you're a part of this team, you're a part of this winning culture that we're trying to build and that's what it is right there and he's showing the winning culture status.",
+      "text_blocks": [],
+      "start_seconds": 382,
+      "end_seconds": 415,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Thomas Bryant on Tyrese Proctor: We just want him to play his game. You are not stepping on anybody's toes right here. You are a part of this winning culture that we are trying to build.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Proctor"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Thomas Bryant discusses the team's winning culture and Tyrese Proctor's role within it.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Thomas Bryant",
+      "timestamp": "06:56",
+      "summary_phrase": "Thomas Bryant on how Tyrese Proctor's growth impacts his own game",
+      "names_mentioned": [
+        "Tyrese Proctor",
+        "Malik"
+      ],
+      "excerpt": "It makes my job even easier, man. All I got to do is just roll to the basket.",
+      "quote": "It's grown so much, just he's just settling into our offense, man, and just taking the making the reads and it makes my job even easier, man. All I got to do is just roll to the basket and get the open shot or or pick and pop and get the open shot from a man and you know from Tyrese and Malik, man, they make my job easier when they can just do what they do, create on their own and then you know I'm just there to help them out.",
+      "text_blocks": [],
+      "start_seconds": 416,
+      "end_seconds": 451,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Thomas Bryant says Tyrese Proctor's growth makes his job easier: He is settling into our offense and making the reads, so all I have to do is roll to the basket.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Proctor",
+          "Malik Beasley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Thomas Bryant explains how the playmaking of Tyrese Proctor and Malik Beasley makes his own job easier.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Thomas Bryant",
+      "timestamp": "07:25",
+      "summary_phrase": "Thomas Bryant on the team's spirit and proving doubters wrong",
+      "names_mentioned": [],
+      "excerpt": "I feel like it helped energize the group a lot, man. This is a really big resilient win.",
+      "quote": "I feel like it helped energize the group a lot, man. This is a really big resilient win against a great Dallas team that had guys playing, you know, they had some guys up and not as many of us and then you know, being on the back end of just, you know, everybody saying that we weren't supposed to, we weren't going to win this, we weren't going to do this, weren't going to do that and then just to prove everybody wrong in that in that stature, man, it feels great.",
+      "text_blocks": [],
+      "start_seconds": 445,
+      "end_seconds": 481,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Thomas Bryant on proving doubters wrong: Everybody was saying we weren't going to win this, so to prove everybody wrong in that stature feels great.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Thomas Bryant reacts to the team's win against the Dallas Mavericks despite external doubts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Thomas Bryant",
+      "timestamp": "08:43",
+      "summary_phrase": "Thomas Bryant on Norchad Omier's contribution",
+      "names_mentioned": [
+        "Norchad"
+      ],
+      "excerpt": "Norchad was big for us, man. You know, he could switch out there one through five.",
+      "quote": "Norchad was big for us, man. You know, he could switch out there one through five and also get some really key rebounds for us, man. And you know, I told him after the game, man, I'm like, you're one of the guys that I'm really happy that you're on our team and I'm not playing against you, man.",
+      "text_blocks": [],
+      "start_seconds": 523,
+      "end_seconds": 546,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Thomas Bryant on Norchad Omier: He could switch out there one through five and get some really key rebounds. I told him I am happy you are on our team and I am not playing against you.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Norchad Omier"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Thomas Bryant highlights the defensive contributions of teammate Norchad Omier.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "QjLnUpNcORI",
+  "url": "https://www.youtube.com/watch?v=QjLnUpNcORI",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-15T04:39:00Z",
+  "duration_seconds": 570,
+  "processed_at": "2026-11-15T07:56:05Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

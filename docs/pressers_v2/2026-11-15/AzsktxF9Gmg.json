@@ -1,0 +1,167 @@
+{
+  "video_title": "Erik Spolestra Post Game Interview vs Pistons | 11/14/2026",
+  "speakers_seen": [
+    "Erik Spoelstra"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:04",
+      "summary_phrase": "Erik Spoelstra on the team's aggressive and physical defensive identity",
+      "names_mentioned": [],
+      "excerpt": "it looked much more to how we want to impose a will on the game",
+      "quote": "The second quarter, I mentioned it at halftime, it looked much more to how we want to impose a will on the game. That's an aggressive team. It was really physical, particularly in that first half. There were a lot of fouls, but the second quarter we started to settle in and make things a little bit tougher, swarm a little bit more, make more efforts, and that gives us an opportunity to get out in the open court.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra on the Heat defensive identity: The second quarter looked much more to how we want to impose a will on the game. It was really physical and we started to swarm more.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra discusses the team's defensive performance and physical play during the second quarter against the Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:53",
+      "summary_phrase": "Erik Spoelstra on the explosive scoring ability of his players",
+      "names_mentioned": [],
+      "excerpt": "it's like an avalanche. All of a sudden he'll knock down two threes",
+      "quote": "It can happen fast with him. It's like an avalanche. All of a sudden he'll knock down two threes and you get that separation back-to-back possessions. Then there'll be an overreaction, he'll make a play from there, but that's about as ignitable as you can be, 26 in 20 minutes.",
+      "verbatim_original_language": "",
+      "start_seconds": 53,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Erik Spoelstra on his player scoring 26 points in 20 minutes: It can happen fast with him. It is like an avalanche. That is about as ignitable as you can be.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra praises an unnamed player's ability to score quickly and create separation for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "01:40",
+      "summary_phrase": "Erik Spoelstra on the team's chemistry and identity development",
+      "names_mentioned": [],
+      "excerpt": "the group on the road trip really started to take it to heart what our identity",
+      "quote": "The group on the road trip really started to take it to heart what our identity had to be. I thought there was going to be like this, like everybody else coming out of the preseason. That was the feel of training camp, of our preseason games. We finished up that Brooklyn game, it felt like what we're feeling like right now.",
+      "verbatim_original_language": "",
+      "start_seconds": 100,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra says the team chemistry and identity have shifted since the road trip: The group really started to take it to heart what our identity had to be.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra reflects on the team's development of their identity following their recent road trip and preseason games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "06:27",
+      "summary_phrase": "Erik Spoelstra on the importance of defensive activity and playmaking",
+      "names_mentioned": [],
+      "excerpt": "I don't want to give up 20 made threes. That's not going to form enough for us",
+      "quote": "Definitely want the activity level. Definitely want playmakers out there defensively. Make a play. It's not all going to go according to plan, but make a play. It might be verticality, it might be a block, it might be a strip, it might be a deflection. I do know this, I don't want to give up 20 made threes. That's not going to form enough for us. So we'll find out what this balance is, but I also like the efforts that we are getting to shooters and making them do other things.",
+      "verbatim_original_language": "",
+      "start_seconds": 387,
+      "end_seconds": 423,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra on defensive philosophy: I want playmakers out there defensively. It might be verticality, a block, a strip, or a deflection. I do know this, I do not want to give up 20 made threes.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra emphasizes the need for defensive activity and playmaking to prevent opponents from making too many three-pointers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "08:49",
+      "summary_phrase": "Erik Spoelstra on the impact of relentless energy from his players",
+      "names_mentioned": [
+        "Bam Adebayo"
+      ],
+      "excerpt": "bringing tremendous relentless energy ignites something with our team",
+      "quote": "The thing about this team that we're starting to realize, every team needs this, the energy. Bringing tremendous relentless energy ignites something with our team. So even Bam Adebayo, plugging him in where he was, that's crazy energy. He does not lose a 50-50 ball, he's flying all over the place. That, in those minutes, actually helps the starting lineup. It helps other lineups too.",
+      "verbatim_original_language": "",
+      "start_seconds": 529,
+      "end_seconds": 554,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Erik Spoelstra on Bam Adebayo: He does not lose a 50-50 ball, he is flying all over the place. Bringing that relentless energy ignites something with our team.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra highlights the impact of Bam Adebayo's relentless energy and hustle on the team's overall performance.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "AzsktxF9Gmg",
+  "url": "https://www.youtube.com/watch?v=AzsktxF9Gmg",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-15T05:00:22Z",
+  "duration_seconds": 604,
+  "processed_at": "2026-11-15T07:55:50Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,144 @@
+{
+  "video_title": "Cavs vs Mavericks | Kenny Atkinson Post Game | 11.14.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:35",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' resilience despite missing key players",
+      "names_mentioned": [],
+      "excerpt": "That's a special win, all the circumstances, everything around it.",
+      "quote": "That's a special win, all the circumstances, everything around it. We really went with our reserves. It says a lot about our young guys. We have been talking about it since day one of training camp. These guys are impressing. I was just talking to Kobe, we shouldn't be surprised. They have been great since the first day of training camp. It's great to confirm that they have made a real leap, a real jump.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson praised the Cavaliers young players for their resilience in the win over Dallas saying it is great to confirm that they have made a real leap since training camp.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the Cavaliers' resilience and performance from reserve players following a win against the Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:57",
+      "summary_phrase": "Kenny Atkinson on Tyrese Proctor's impressive performance and growth",
+      "names_mentioned": [
+        "Tyrese Proctor"
+      ],
+      "excerpt": "He's really doing some incredible things right now for us.",
+      "quote": "That's another level. I was worried, quite honestly. He played elevated minutes. I thought it would be tough for him to back it up, especially against a full-strength team. He was hitting pull-up threes, the isos, the paint touches, and then doing it on the defensive end, the triple-double. That's special. It was a special team win, but special for him. He came back a changed man, first day of training camp. He's starting to really realize he could be one of the guys on this team. He came off that ankle injury too, bounce back the next, he's really doing some incredible things right now for us.",
+      "text_blocks": [],
+      "start_seconds": 117,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Kenny Atkinson on Tyrese Proctor after his triple double performance against the Mavericks saying he is starting to really realize he could be one of the guys on this team.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Proctor"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises Tyrese Proctor for his performance and growth after he recorded a triple-double against the Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:03",
+      "summary_phrase": "Kenny Atkinson provides injury update on Evan Mobley",
+      "names_mentioned": [
+        "Evan Mobley"
+      ],
+      "excerpt": "It's a sprain, it's not anything long-term.",
+      "quote": "It's a sprain, it's not anything long-term. It's not going to be a long-term thing. He looks better already. He's not on the court yet, but this isn't a month or something like that. He should be back soon enough.",
+      "text_blocks": [],
+      "start_seconds": 243,
+      "end_seconds": 258,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson provided an update on Evan Mobley saying his sprain is not a long term thing and he should be back soon enough.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kenny Atkinson provides an update on Evan Mobley's injury status following the game against the Mavericks.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "06:03",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' unexpected scoring output",
+      "names_mentioned": [],
+      "excerpt": "I knew we would compete and make it close, but I didn't think we would raise it.",
+      "quote": "I knew we would compete and make it close, but I didn't think we would raise it to that level. We made mistakes, but we kept our level. Whether we subbed or didn't sub, it against a very talented team, pretty much full strength. That was a surprise, the level we played at for the entirety of the game was a surprise.",
+      "text_blocks": [],
+      "start_seconds": 363,
+      "end_seconds": 387,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson admitted he was surprised by the level the Cavaliers played at against a full strength Mavericks team saying the level they played at for the entirety of the game was a surprise.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on the Cavaliers' surprising offensive output and consistent play against the Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "W480CyEd7VQ",
+  "url": "https://www.youtube.com/watch?v=W480CyEd7VQ",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-15T03:29:46Z",
+  "duration_seconds": 522,
+  "processed_at": "2026-11-15T07:56:25Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

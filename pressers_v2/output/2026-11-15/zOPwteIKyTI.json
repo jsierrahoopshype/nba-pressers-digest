@@ -1,0 +1,210 @@
+{
+  "video_title": "Bam Adebayo Post Game vs Pistons | 11/14/2026",
+  "speakers_seen": [
+    "Bam Adebayo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bam Adebayo",
+      "timestamp": "00:05",
+      "summary_phrase": "Bam Adebayo on the Heat's need to keep building",
+      "names_mentioned": [],
+      "excerpt": "For us, it's keep building. Keep worrying about us, keep building, keep chipping away and keep trying to stack these dubs.",
+      "quote": "For us, it's keep building. Keep worrying about us, keep building, keep chipping away and keep trying to stack these dubs.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 13,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Bam Adebayo on the Heat mindset after the win: Keep worrying about us, keep building, keep chipping away and keep trying to stack these dubs.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Bam Adebayo discusses the team's need to maintain momentum and continue building after the game against the Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Bam Adebayo",
+      "timestamp": "00:24",
+      "summary_phrase": "Bam Adebayo on the Heat's defensive improvement after the first quarter",
+      "names_mentioned": [],
+      "excerpt": "We knew that was too much. We knew we're better than that defensively.",
+      "quote": "We knew that was too much. We knew we're better than that defensively. Obviously, we reverted back to how we were scoring in the first four games. We got more steals, we got more active, got more blocks and like I said, we're a hard team to beat when we get in transition.",
+      "verbatim_original_language": "",
+      "start_seconds": 24,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Bam Adebayo says the Heat knew their first quarter defense was not good enough: We knew we are better than that defensively. We got more active and we are a hard team to beat when we get in transition.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Bam Adebayo explains the defensive adjustments the team made after a poor first quarter against the Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Bam Adebayo",
+      "timestamp": "00:44",
+      "summary_phrase": "Bam Adebayo on building chemistry with Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "We still got more work to do, but you want your best players to find each other.",
+      "quote": "We still got more work to do, but you want your best players to find each other, especially for easy baskets to get each other going and get a rhythm of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 44,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Bam Adebayo on building chemistry with Giannis Antetokounmpo: We still have more work to do, but you want your best players to find each other for easy baskets to get a rhythm.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bam Adebayo talks about the ongoing process of building on-court chemistry with teammate Giannis Antetokounmpo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Bam Adebayo",
+      "timestamp": "01:12",
+      "summary_phrase": "Bam Adebayo on the energy Giannis Antetokounmpo brings to the team",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "He can be an energizer bunny. I don't know how he has that much energy at 25.",
+      "quote": "He can be an energizer bunny. I don't know how he has that much energy at 25. He's impactful and not just scoring the basketball. Everybody thinks that's supposed to be in the lineup, but he impacts the game in a totally different way and obviously that's getting the opposing team skin a little bit, getting guys fouled out and then continuing to just play great basketball.",
+      "verbatim_original_language": "",
+      "start_seconds": 72,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 7,
+      "social_post": "Bam Adebayo calls Giannis Antetokounmpo an energizer bunny: He impacts the game in a totally different way and is getting under the opposing team skin, getting guys fouled out and playing great basketball.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bam Adebayo praises the energy and overall impact Giannis Antetokounmpo brings to the team beyond just scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Bam Adebayo",
+      "timestamp": "02:03",
+      "summary_phrase": "Bam Adebayo on the team's defensive shift after the first four games",
+      "names_mentioned": [],
+      "excerpt": "When you see our defensive rating in the first four games, you kind of want to make that shift.",
+      "quote": "When you see our defensive rating in the first four games, you kind of want to make that shift and really continue to try to get better on defense than we have. Obviously, we're putting up points but we're getting stops as well.",
+      "verbatim_original_language": "",
+      "start_seconds": 123,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Bam Adebayo says the Heat are focused on defensive improvement: When you see our defensive rating in the first four games, you want to make that shift and continue to try to get better on defense.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Bam Adebayo reflects on the team's defensive rating and the importance of maintaining their recent improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Bam Adebayo",
+      "timestamp": "02:23",
+      "summary_phrase": "Bam Adebayo on Kendrick Nunn's performance and legacy",
+      "names_mentioned": [
+        "Kendrick Nunn"
+      ],
+      "excerpt": "Once you come in this locker room, you're a brother forever at the end of the day.",
+      "quote": "Once you come in this locker room, you're a brother forever at the end of the day. To see him obviously excel at that level, we knew what he was. I feel like that was just a stepping stone in his career, being with us and putting his talent and showcasing his talent. He gets buckets and he does it at all three levels and I feel like he's starting to creep up on Giannis when it comes to being the man of Greece.",
+      "verbatim_original_language": "",
+      "start_seconds": 143,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 8,
+      "social_post": "Bam Adebayo jokes that Kendrick Nunn is starting to creep up on Giannis Antetokounmpo when it comes to being the man of Greece.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kendrick Nunn",
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bam Adebayo discusses the career progression of former teammate Kendrick Nunn and his impact.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "zOPwteIKyTI",
+  "url": "https://www.youtube.com/watch?v=zOPwteIKyTI",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-15T05:00:24Z",
+  "duration_seconds": 192,
+  "processed_at": "2026-11-15T07:55:43Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

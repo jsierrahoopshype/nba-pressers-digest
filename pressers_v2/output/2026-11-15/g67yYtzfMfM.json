@@ -1,0 +1,182 @@
+{
+  "video_title": "\"This Was Our Reminder To Come Out Swinging First.\" | Jaden Mcdaniels Post Game Sound | 11.14.26",
+  "speakers_seen": [
+    "Jaden Mcdaniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaden Mcdaniels",
+      "speakers": [
+        "Unidentified speaker",
+        "Jaden Mcdaniels"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Jaden Mcdaniels on the Timberwolves' loss to the Bulls",
+      "names_mentioned": [],
+      "excerpt": "they just came out they played well they made shots and they just beat us",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Look at Chicago as a struggling team and maybe take it a little lightly?"
+        },
+        {
+          "speaker": "Jaden Mcdaniels",
+          "text": "No, I mean they just came out they played well they made shots and they just beat us to be honest. They just played better than us."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 16,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on the loss to Chicago: They just came out they played well they made shots and they just beat us to be honest. They just played better than us.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses the Timberwolves' loss to the Chicago Bulls after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaden Mcdaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden Mcdaniels"
+      ],
+      "timestamp": "00:12",
+      "summary_phrase": "Jaden Mcdaniels on the need for early game intensity",
+      "names_mentioned": [],
+      "excerpt": "we just got to do it from the start of the game",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "When that isn't there from the beginning of the game, is that something that's hard to retap into midway through?"
+        },
+        {
+          "speaker": "Jaden Mcdaniels",
+          "text": "No, we just got to do it from the start of the game. We know we can, we did it the games before, so it's just a refresh thing to know that we got to play like that all game, every game."
+        }
+      ],
+      "start_seconds": 12,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels says the Timberwolves need to bring intensity from the start of the game every single night.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains the team's need to maintain intensity from the beginning of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaden Mcdaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden Mcdaniels"
+      ],
+      "timestamp": "00:34",
+      "summary_phrase": "Jaden Mcdaniels on his need to play more aggressively",
+      "names_mentioned": [],
+      "excerpt": "I just got to be more aggressive during the game for real.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "When you guys need a little bit more offense from you in games, what areas are you trying to assert yourself more to get more shots?"
+        },
+        {
+          "speaker": "Jaden Mcdaniels",
+          "text": "I don't know, I just got to be more aggressive during the game for real. That's pretty much it."
+        }
+      ],
+      "start_seconds": 34,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on his offensive role: I just got to be more aggressive during the game for real.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels addresses a question about his personal need to be more aggressive offensively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaden Mcdaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden Mcdaniels"
+      ],
+      "timestamp": "00:51",
+      "summary_phrase": "Jaden Mcdaniels on prioritizing defense over offensive reliance",
+      "names_mentioned": [],
+      "excerpt": "we should always be defense first",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Do you think it's a little bit risky to rely on the fact that you know how good your offense can be that takes away from relying on the defense?"
+        },
+        {
+          "speaker": "Jaden Mcdaniels",
+          "text": "No, I feel like we should always be defense first. Just know that defense is going to help us win games, even if our shots are off, that we can fall back to our defense and help us have our defense create easy offense for us."
+        }
+      ],
+      "start_seconds": 51,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels emphasizes the Timberwolves identity: I feel like we should always be defense first. Defense is going to help us win games.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains why the team should prioritize defense over relying on their offensive output.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "g67yYtzfMfM",
+  "url": "https://www.youtube.com/watch?v=g67yYtzfMfM",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-15T05:11:28Z",
+  "duration_seconds": 76,
+  "processed_at": "2026-11-15T07:55:25Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,121 @@
+{
+  "video_title": "Jaron Pierre Jr. | Pelicans vs. Nuggets Postgame Interview 11/14/26",
+  "speakers_seen": [
+    "Jaron Pierre Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaron Pierre Jr.",
+      "timestamp": "00:33",
+      "summary_phrase": "Jaron Pierre Jr. on guarding Jamal Murray and Aaron Gordon",
+      "names_mentioned": [
+        "Jamal Murray",
+        "Aaron Gordon"
+      ],
+      "excerpt": "I felt like I belonged, so the whole time I was out there it was like, dang, I'm actually here doing it.",
+      "quote": "It was like a carryover. I wasn't surprised when I got out there. I felt like I belonged, so the whole time I was out there it was like, dang, I'm actually here doing it. So that's how it really was. I wasn't surprised though.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jaron Pierre Jr. on his first big minutes against the Nuggets: I felt like I belonged, so the whole time I was out there it was like, dang, I am actually here doing it.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray",
+          "Aaron Gordon"
+        ],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jaron Pierre Jr. reflects on his experience guarding Jamal Murray and Aaron Gordon during the postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaron Pierre Jr.",
+      "timestamp": "02:53",
+      "summary_phrase": "Coach Willie Green's pregame message to Jaron Pierre Jr.",
+      "names_mentioned": [
+        "Willie Green",
+        "Jamal Murray"
+      ],
+      "excerpt": "Stop all the laughing and get dressed and go watch them Jamal Murray clips.",
+      "quote": "We were in the locker room and he was standing outside. He told me, come here. He told me, hey, stop all the laughing and get dressed and go watch them Jamal Murray clips. That's all he told me. And from that point on, which y'all seen out there, was from that talk.",
+      "text_blocks": [],
+      "start_seconds": 173,
+      "end_seconds": 193,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 7,
+      "social_post": "Willie Green did not mess around before the Pelicans game. Jaron Pierre Jr. says the coach told him to stop laughing, get dressed, and go watch the Jamal Murray clips.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Willie Green",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "NOP",
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jaron Pierre Jr. recounts the pregame instructions he received from head coach Willie Green regarding Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaron Pierre Jr.",
+      "timestamp": "03:14",
+      "summary_phrase": "Jaron Pierre Jr. on his role with the Pelicans",
+      "names_mentioned": [],
+      "excerpt": "My role, my leash is going to get longer at some point. I just got to stay patient.",
+      "quote": "I know my role, my leash is going to get longer at some point. I just got to stay patient. So doing that right there is I could feel like that's something for our team.",
+      "text_blocks": [],
+      "start_seconds": 194,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jaron Pierre Jr. on his development with the Pelicans: I know my role, my leash is going to get longer at some point. I just got to stay patient.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jaron Pierre Jr. discusses his current role on the team and his mindset regarding his playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "LQQ-KFEAS9A",
+  "url": "https://www.youtube.com/watch?v=LQQ-KFEAS9A",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-15T03:57:52Z",
+  "duration_seconds": 300,
+  "processed_at": "2026-11-15T07:56:13Z",
+  "run_id": "2026-11-15-overnight",
+  "is_one_off": false
+}
