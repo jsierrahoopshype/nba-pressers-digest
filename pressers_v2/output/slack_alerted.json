@@ -1249,6 +1249,12 @@
    "run_id": "2026-11-14T0052Z-20utc",
    "slot_date": "2026-11-13"
   },
+  "S2BZbMSZu8s": {
+   "at": "2026-11-15T23:58:30Z",
+   "quote": "defensively the celtics guarding them their three point shooting is something that stands out their crash rate the amount that they crash they had 14 offensive rebounds against us last game tatum got ",
+   "run_id": "2026-11-15T2357Z-20utc",
+   "slot_date": "2026-11-15"
+  },
   "SCtvtGnUMWU": {
    "at": "2026-11-05T21:05:03Z",
    "quote": "it s been great so far just being around great guys i think that kind of helped me feel more comfortable as long as i m more comfortable around the guys i think the rest of the basketball handles itse",
@@ -1430,6 +1436,12 @@
    "run_id": "2026-11-08-overnight",
    "seeded": true,
    "slot_date": "2026-11-08"
+  },
+  "Wc3wrt6sSJU": {
+   "at": "2026-11-15T23:58:30Z",
+   "quote": "they put you in a lot of tough positions they got a lot of star power and in the third quarter they put us in a position where we made some errors and they just made some great plays i thought the fir",
+   "run_id": "2026-11-15T2357Z-20utc",
+   "slot_date": "2026-11-15"
   },
   "WmNyF19XK3M": {
    "at": "2026-11-12T04:28:37Z",
@@ -2722,38 +2734,5 @@
    "slot_date": "2026-11-03"
   }
  },
- "pending": {
-  "S2BZbMSZu8s": {
-   "channel": "Orlando Magic",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-15",
-   "is_one_off": false,
-   "queued_at": "2026-11-15T23:58:30Z",
-   "run_id": "2026-11-15T2357Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": false,
-   "slot_date": "2026-11-15",
-   "speaker": "Jamahl Mosley",
-   "title": "PRACTICE SOUND: COACH SWEENEY & GOGA BITADZE BY SAS",
-   "top_quote": "Defensively the Celtics, guarding them, their three-point shooting is something that stands out. Their crash rate, the amount that they crash, they had 14 offensive rebounds against us last game. Tatum, got to do a better job guarding him without fouling, 17 free throws. And in general, offensively they do a great job of using on and off-ball screening actions. They set rip screens to get guys going to the rim, they set flare screens, they do a number of stack pick and roll actions, so you got to be alert to all that, as well as guys like Paul George and Payton Pritchard who are really, really efficient right now.",
-   "video_id": "S2BZbMSZu8s"
-  },
-  "Wc3wrt6sSJU": {
-   "channel": "Indiana Pacers",
-   "clip_count": 4,
-   "content_type": "presser",
-   "date": "2026-11-15",
-   "is_one_off": false,
-   "queued_at": "2026-11-15T23:58:30Z",
-   "run_id": "2026-11-15T2357Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-15",
-   "speaker": "Rick Carlisle",
-   "title": "Rick Carlisle Postgame Media Availability | November 15, 2026",
-   "top_quote": "They put you in a lot of tough positions. They got a lot of star power and in the third quarter they put us in a position where we made some errors and they just made some great plays. I thought the first half we played very solidly. We were tied together and then in the second half we had some struggles.",
-   "video_id": "Wc3wrt6sSJU"
-  }
- }
+ "pending": {}
 }
