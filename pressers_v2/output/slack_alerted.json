@@ -1163,13 +1163,6 @@
    "seeded": true,
    "slot_date": "2026-11-10"
   },
-  "QQCuxFsG_AI": {
-   "at": "2026-11-01T23:35:04Z",
-   "quote": "it s always fun coaching guys that you ve been coaching against you re like man scouting that play was a problem and scouting murray and jokic in action is a problem now you get to see it up close kin",
-   "run_id": "2026-11-01T2334Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-01"
-  },
   "QSvQdMSqP5A": {
    "at": "2026-11-07T18:44:37Z",
    "quote": "i think it s a continued evolution of his game the amount of work that he does and the time he puts into his body i think you re just seeing a transformation in him the way he can initiate and make pl",
@@ -2456,13 +2449,6 @@
    "seeded": true,
    "slot_date": "2026-11-10"
   },
-  "uQUiZb7XwcI": {
-   "at": "2026-11-01T23:35:11Z",
-   "quote": "i was asking victor wembanyama about his isolation game he said during media day that he wanted to really improve his isolation game i asked him after five games how he feels about it if he is improvi",
-   "run_id": "2026-11-01T2334Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-01"
-  },
   "uUV1pJhUtfw": {
    "at": "2026-11-09T22:40:26Z",
    "quote": "this has short and long term ramifications for the denver nuggets when you watch jokic do you see a diminished player do you think that we may have seen the end of the best years of nikola jokic who i",
@@ -2736,5 +2722,38 @@
    "slot_date": "2026-11-03"
   }
  },
- "pending": {}
+ "pending": {
+  "S2BZbMSZu8s": {
+   "channel": "Orlando Magic",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-15",
+   "is_one_off": false,
+   "queued_at": "2026-11-15T23:58:30Z",
+   "run_id": "2026-11-15T2357Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": false,
+   "slot_date": "2026-11-15",
+   "speaker": "Jamahl Mosley",
+   "title": "PRACTICE SOUND: COACH SWEENEY & GOGA BITADZE BY SAS",
+   "top_quote": "Defensively the Celtics, guarding them, their three-point shooting is something that stands out. Their crash rate, the amount that they crash, they had 14 offensive rebounds against us last game. Tatum, got to do a better job guarding him without fouling, 17 free throws. And in general, offensively they do a great job of using on and off-ball screening actions. They set rip screens to get guys going to the rim, they set flare screens, they do a number of stack pick and roll actions, so you got to be alert to all that, as well as guys like Paul George and Payton Pritchard who are really, really efficient right now.",
+   "video_id": "S2BZbMSZu8s"
+  },
+  "Wc3wrt6sSJU": {
+   "channel": "Indiana Pacers",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-15",
+   "is_one_off": false,
+   "queued_at": "2026-11-15T23:58:30Z",
+   "run_id": "2026-11-15T2357Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-15",
+   "speaker": "Rick Carlisle",
+   "title": "Rick Carlisle Postgame Media Availability | November 15, 2026",
+   "top_quote": "They put you in a lot of tough positions. They got a lot of star power and in the third quarter they put us in a position where we made some errors and they just made some great plays. I thought the first half we played very solidly. We were tied together and then in the second half we had some struggles.",
+   "video_id": "Wc3wrt6sSJU"
+  }
+ }
 }

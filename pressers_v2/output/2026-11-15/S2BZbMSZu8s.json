@@ -1,0 +1,179 @@
+{
+  "video_title": "PRACTICE SOUND: COACH SWEENEY & GOGA BITADZE BY SAS",
+  "speakers_seen": [
+    "Jamahl Mosley",
+    "Goga Bitadze"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:11",
+      "summary_phrase": "Jamahl Mosley on Boston Celtics' rebounding and three-point shooting threats",
+      "names_mentioned": [
+        "Jayson Tatum",
+        "Paul George",
+        "Payton Pritchard"
+      ],
+      "excerpt": "defensively the Celtics, guarding them, their three-point shooting is something that stands out.",
+      "quote": "Defensively the Celtics, guarding them, their three-point shooting is something that stands out. Their crash rate, the amount that they crash, they had 14 offensive rebounds against us last game. Tatum, got to do a better job guarding him without fouling, 17 free throws. And in general, offensively they do a great job of using on and off-ball screening actions. They set rip screens to get guys going to the rim, they set flare screens, they do a number of stack pick and roll actions, so you got to be alert to all that, as well as guys like Paul George and Payton Pritchard who are really, really efficient right now.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the Magic must improve their discipline against the Celtics by avoiding fouls on Jayson Tatum and staying alert to Boston's complex off-ball screening actions.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum",
+          "Paul George",
+          "Payton Pritchard"
+        ],
+        "teams": [
+          "ORL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the defensive challenges posed by the Boston Celtics' shooting and screening actions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:50",
+      "summary_phrase": "Mosley on defensive rebounding principles and shot profile adjustments",
+      "names_mentioned": [],
+      "excerpt": "we want to turn and check and see if our guys crashing, we want to turn and hit if he does.",
+      "quote": "Principle-wise, nothing's really changed there in terms of we want to turn and check and see if our guys crashing, we want to turn and hit if he does. And if he doesn't, we've got to make sure we get back in the fight. The one thing I think, we look at our shot profile defensively, we're forcing more tough shots, so to speak. And so when those shots are taken, you have to come back in and help cover rebounding at the elbow area especially. Often times early in the year we had guys at the top of the floor walking towards the offensive end, and I think we're doing a better job of coming back in to help rebound the ball.",
+      "text_blocks": [],
+      "start_seconds": 110,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley notes that the Magic are forcing more tough shots defensively and are focusing on having players crash back to the elbow to help secure rebounds.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the team's defensive rebounding principles and adjustments to their shot profile.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:41",
+      "summary_phrase": "Mosley on Goga Bitadze, Wendell Carter Jr., and Nikola Vucevic's impact",
+      "names_mentioned": [
+        "Wendell Carter Jr.",
+        "Goga Bitadze",
+        "Nikola Vucevic"
+      ],
+      "excerpt": "Goga's done a good job in impacting us positively in his minutes here over the last five-six games.",
+      "quote": "Those guys have done a good job rebounding on both ends. You look at Wendell so far this year, he's done a good job of shooting the basketball as well as playing inside. Defensively, he's done a good job on the perimeter and in the interior. I think Goga's done a good job in impacting us positively in his minutes here over the last five-six games. I think he's taking strides in the right direction there, so really pleased with what we're seeing from him. And Vucevic, you know, provides an inside-outside presence. I think all three of those guys do a great job with their communication, so that's important.",
+      "text_blocks": [],
+      "start_seconds": 161,
+      "end_seconds": 203,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley praises Goga Bitadze for his recent impact and positive strides over the last few games while highlighting the communication skills of his big man rotation.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Wendell Carter Jr.",
+          "Goga Bitadze",
+          "Nikola Vucevic"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley evaluates the recent performance and impact of his centers, Wendell Carter Jr., Goga Bitadze, and Nikola Vucevic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Goga Bitadze",
+      "timestamp": "03:50",
+      "summary_phrase": "Goga Bitadze on the team's emphasis on lob plays and rim protection",
+      "names_mentioned": [],
+      "excerpt": "our guards are going to get to the paint and when they get to the big step up, we got to be ready.",
+      "quote": "We've been working on it honestly, no whole camp during the whole camp and pretty much whole season. Because our guards are going to get to the paint and when they get to the big step up, we got to be ready. So it was one of those nights where it was me who was catching those lobs. So just shout out to our guards and ball handlers making those decisions and making the job easier for us.",
+      "text_blocks": [],
+      "start_seconds": 230,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Goga Bitadze credits the Magic guards for their decision making in the paint, noting that the team has been working on lob plays throughout the entire season.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Goga Bitadze discusses the team's focus on executing lob plays and rim protection during practice and games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Goga Bitadze",
+      "timestamp": "05:25",
+      "summary_phrase": "Bitadze on the team's defensive mentality and accountability",
+      "names_mentioned": [],
+      "excerpt": "if something is not going our way we just got to look in the mirror know that we put it on ourselves.",
+      "quote": "Coaches really emphasize it since we had those issues early on and you know, we trust them. So you know, if something is not going our way we just got to look in the mirror know that we put it on ourselves and we can make something better and work on it during the game. We got to do it. So if we know it's going to help us win games, we got to do it and we have shown that. Just got to keep building on that.",
+      "text_blocks": [],
+      "start_seconds": 325,
+      "end_seconds": 359,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Goga Bitadze on the Magic defensive mentality: If things are not going our way we just have to look in the mirror and know that we put it on ourselves.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Goga Bitadze reflects on the team's defensive accountability and trust in the coaching staff's emphasis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "S2BZbMSZu8s",
+  "url": "https://www.youtube.com/watch?v=S2BZbMSZu8s",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-15T19:56:05Z",
+  "duration_seconds": 409,
+  "processed_at": "2026-11-15T23:58:29Z",
+  "run_id": "2026-11-15T2357Z-20utc",
+  "is_one_off": false
+}

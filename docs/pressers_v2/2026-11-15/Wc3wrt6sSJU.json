@@ -1,0 +1,147 @@
+{
+  "video_title": "Rick Carlisle Postgame Media Availability | November 15, 2026",
+  "speakers_seen": [
+    "Rick Carlisle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:10",
+      "summary_phrase": "Rick Carlisle on Pacers' defensive struggles against star-heavy opponents",
+      "names_mentioned": [],
+      "excerpt": "they put you in a lot of tough positions. They got a lot of star power",
+      "quote": "They put you in a lot of tough positions. They got a lot of star power and in the third quarter they put us in a position where we made some errors and they just made some great plays. I thought the first half we played very solidly. We were tied together and then in the second half we had some struggles.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the Pacers defensive struggles against star heavy lineups: They put you in a lot of tough positions and in the third quarter we made some errors",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the Pacers defensive performance and struggles during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:50",
+      "summary_phrase": "Rick Carlisle explains Jalen Smith's role and center rotation",
+      "names_mentioned": [
+        "Jalen Smith"
+      ],
+      "excerpt": "Jalen went in and made four out of five shots and was stretching the floor",
+      "quote": "Jalen went in and made four out of five shots and was stretching the floor and doing some good things at the rim and he helped us in our zone. Our center position is a three-headed position and nobody is guaranteed a certain number of minutes. If you are insinuating or suggesting that's not the case, we have to read the game and see what's going on.",
+      "text_blocks": [],
+      "start_seconds": 50,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Rick Carlisle on the Pacers center rotation: Our center position is a three headed position and nobody is guaranteed a certain number of minutes",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Smith"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Rick Carlisle explains the center rotation and Jalen Smith's performance during the postgame media availability.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:27",
+      "summary_phrase": "Rick Carlisle on Pascal Siakam's fourth-quarter performance",
+      "names_mentioned": [
+        "Pascal Siakam"
+      ],
+      "excerpt": "he was great in the fourth quarter and and very good in the second half",
+      "quote": "He was great in the fourth quarter and and very good in the second half. This came down unfortunately to some make or miss situations too. We had three or four really good looks at threes that didn't go down in the fourth and we just got to continue with a process where we're stepping into open shots.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the fourth quarter loss: This came down unfortunately to some make or miss situations. We had three or four really good looks at threes that didn't go down",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle evaluates Pascal Siakam's performance in the second half and the team's missed three-point shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:30",
+      "summary_phrase": "Rick Carlisle praises Tyrese Haliburton's performance at point guard",
+      "names_mentioned": [
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "he did an admirable job. It's not his natural position, but he's shown that he can do it",
+      "quote": "He did an admirable job. It's not his natural position, but he's shown that he can do it in the past and he had a lot of good stretches. But this is a tough team to play. Even when they're without their big guys, it just means their superstar wing guys are going to play more and that's no bargain either.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on Tyrese Haliburton playing point guard: He did an admirable job. It is not his natural position but he has shown that he can do it in the past",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle comments on Tyrese Haliburton playing out of his natural position against a tough opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Wc3wrt6sSJU",
+  "url": "https://www.youtube.com/watch?v=Wc3wrt6sSJU",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-15T21:19:15Z",
+  "duration_seconds": 181,
+  "processed_at": "2026-11-15T23:58:24Z",
+  "run_id": "2026-11-15T2357Z-20utc",
+  "is_one_off": false
+}
