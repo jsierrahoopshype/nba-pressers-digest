@@ -149,7 +149,9 @@
         "postcast",
         "analysis",
         "live show",
-        "watch party"
+        "watch party",
+        "Bulls Postgame:",
+        "GOAT TALK"
       ],
       "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses."
     },
@@ -225,9 +227,16 @@
         "Sharks",
         "49ers",
         "Giants",
-        "A's"
+        "A's",
+        "watch ",
+        "halftime",
+        " score ",
+        "scores ",
+        "trail ",
+        "lapses"
       ],
-      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses."
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses.",
+      "recent_uploads": 50
     },
     {
       "team": "Houston Rockets",
@@ -405,9 +414,16 @@
         "Giants",
         "A's",
         "LA Kings",
-        "Los Angeles Kings"
+        "Los Angeles Kings",
+        "watch ",
+        "halftime",
+        " score ",
+        "scores ",
+        "trail ",
+        "lapses"
       ],
-      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses."
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses.",
+      "recent_uploads": 50
     },
     {
       "team": "San Antonio Spurs",

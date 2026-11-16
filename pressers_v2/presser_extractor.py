@@ -2614,7 +2614,7 @@ def discover_candidates(channels: list, config: dict, yt_key: str, cutoff: datet
             log(f"  [{team}] no uploads playlist found (channel_id may be wrong)")
             continue
         try:
-            uploads = list_recent_uploads(uploads_id, yt_key, per_channel)
+            uploads = list_recent_uploads(uploads_id, yt_key, int(channel.get("recent_uploads") or per_channel))
         except QuotaExceeded:
             raise
         except Exception as e:
