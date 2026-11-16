@@ -105,7 +105,6 @@ def main() -> int:
     print(f"\n{len(channels) - len(broken)}/{len(channels)} channels resolve to an uploads playlist.")
     try:
         title_audit(channels, config, key, rows)
-        find_presser_sources(key)
     except QuotaExceeded as e:
         print(f"YouTube quota exceeded during title audit: {e}")
     return 1 if broken else 0
@@ -132,20 +131,6 @@ def title_audit(channels: list, config: dict, key: str, rows: dict) -> None:
             reason = title_filter(u["title"], config)
             print(f"  {'+' if not reason else '-'} {u['published'][:10]} {u['video_id']} {u['title']}"
                   + (f"   [{reason}]" if reason else ""))
-
-
-def find_presser_sources(key: str) -> None:
-    """TEMPORARY (Nov 16 2026): where do these teams post postgame pressers?"""
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=6)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    for team in ["Boston Celtics", "Brooklyn Nets", "Chicago Bulls", "Dallas Mavericks", "Golden State Warriors",
-                 "Houston Rockets", "Los Angeles Lakers", "Miami Heat", "New York Knicks", "Sacramento Kings"]:
-        data = youtube_api_get("search", {"part": "snippet", "type": "video", "maxResults": 15,
-                                          "order": "date", "publishedAfter": cutoff,
-                                          "q": f"{team} postgame press conference"}, key)
-        print(f"\n### search: {team}")
-        for it in data.get("items", []):
-            sn = it.get("snippet", {})
-            print(f"  {sn.get('publishedAt','')[:10]} [{sn.get('channelTitle')} {sn.get('channelId')}] {sn.get('title')}")
 
 
 if __name__ == "__main__":
