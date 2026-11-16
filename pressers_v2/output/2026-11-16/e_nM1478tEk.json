@@ -1,0 +1,179 @@
+{
+  "video_title": "Jordan Walsh: I'm The BEST Defender | Celtics vs Mavericks Postgame",
+  "speakers_seen": [
+    "Jordan Walsh"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Walsh",
+      "timestamp": "00:11",
+      "summary_phrase": "Jordan Walsh on his defensive role against the Mavericks",
+      "names_mentioned": [
+        "Cooper Flagg",
+        "PG"
+      ],
+      "excerpt": "I was more tasked with creating havoc with guys bringing the ball up the court.",
+      "quote": "I wasn't even guarding him. It was kind of PG who took on that responsibility and that personal challenge. He did a great job. I was more tasked with creating havoc with guys bringing the ball up the court. So his job was to contain him, and then obviously we shifted around him and tried to shrink the floor against him, and it turned out good for us.",
+      "start_seconds": 11,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Walsh explains the Celtics defensive strategy against the Mavericks, noting that he was tasked with creating havoc while others focused on containing the primary ball handler.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Jordan Walsh discusses his defensive responsibilities and the team's strategy for containing the Mavericks' offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Walsh",
+      "timestamp": "00:50",
+      "summary_phrase": "Jordan Walsh on defensive adjustments against Dallas's cutting",
+      "names_mentioned": [
+        "Marshall",
+        "Martin",
+        "Cooper Flagg"
+      ],
+      "excerpt": "Their cutting was a big thing. They got to a lot of slide cut, pin-ins.",
+      "quote": "The biggest things we had to watch for is their cutting was a big thing. They got to a lot of slide cut, pin-ins on the back side whenever they would come off pick-and-rolls, which gave us a problem for a couple possessions. So just taking that out of the game, how do we want to guard it, how are we going to shift off of guys like Marshall, how are we going to shift off of guys like Martin, and activate our shifts and try to deter Cooper Flagg or whoever it is from driving.",
+      "start_seconds": 50,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Walsh breaks down the defensive adjustments the Celtics made to stop Dallas from getting easy looks off of cuts and pick and roll actions.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Naji Marshall",
+          "Caleb Martin",
+          "Cooper Flagg"
+        ],
+        "teams": [
+          "BOS",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Jordan Walsh explains the defensive adjustments the Celtics made to counter Dallas's cutting and pick-and-roll actions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Walsh",
+      "timestamp": "01:36",
+      "summary_phrase": "Jordan Walsh on finding offensive opportunities as a role player",
+      "names_mentioned": [
+        "JT"
+      ],
+      "excerpt": "I don't get a lot of shots, so when I do catch the ball, I'm looking for an opportunity.",
+      "quote": "I'm just trying to find pockets to be aggressive. I don't get a lot of shots, so when I do catch the ball, I'm looking for an opportunity to score instead of trying to pass it. I'm just trying to create a real threat in the offense. With the help of JT throwing me that one same-side corner pass, making them respect that corner three and not make it, now he's in the game, that corner guy doesn't want to shift as much, now JT has a driving lane.",
+      "start_seconds": 96,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Walsh on his offensive mindset as a role player, saying he is looking for opportunities to score to create a threat and open up driving lanes for Jayson Tatum.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jordan Walsh describes his offensive mindset and how he creates space for Jayson Tatum by spacing the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Walsh",
+      "timestamp": "02:18",
+      "summary_phrase": "Jordan Walsh on his defensive identity and team value",
+      "names_mentioned": [
+        "Cooper Flagg"
+      ],
+      "excerpt": "My game is never predicated on what's on the box score.",
+      "quote": "For me, I know that my game is never predicated on what's on the box score. I'm never really judged by that, maybe the plus-minus, but the things that I do, not letting the point guard bring the ball up the court and making the secondary ball-handler bring the ball up the court every time, stuff like that which is valued, that doesn't show up on a box score is what I'm graded by. It's just about what can I create for the team. Can I create situations where they can't help off me? Can I create a situation where Cooper Flagg doesn't bring the ball up the court and it's somebody else?",
+      "start_seconds": 138,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordan Walsh says his value to the Celtics is not found in the box score but in the defensive plays that force secondary players to handle the ball.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cooper Flagg"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jordan Walsh explains that his value to the team is measured by defensive impact rather than box score statistics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Walsh",
+      "timestamp": "03:14",
+      "summary_phrase": "Jordan Walsh on his confidence as an elite defender",
+      "names_mentioned": [],
+      "excerpt": "I think I'm the best defender.",
+      "quote": "I think I'm the best defender. For sure. Every game is guard the best player, and obviously the organization believes that I can do that every night, so that's why they put me on that guy, whoever it may be. Taking that in and of itself gives me confidence to go out there and try to do the best that I can.",
+      "start_seconds": 194,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Jordan Walsh is confident in his defensive ability, stating I think I am the best defender. He says the organization trusts him to guard the best player every single night.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jordan Walsh expresses his confidence in his defensive abilities and his role as the team's primary perimeter defender.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "e_nM1478tEk",
+  "url": "https://www.youtube.com/watch?v=e_nM1478tEk",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-16T01:58:27Z",
+  "duration_seconds": 227,
+  "processed_at": "2026-11-16T23:24:48Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

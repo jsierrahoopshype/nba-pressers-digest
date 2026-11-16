@@ -1,0 +1,122 @@
+{
+  "video_title": "Joe Mazzulla PRAISES Jordan Walsh After Strong Outing | Celtics vs Mavericks Postgame",
+  "speakers_seen": [
+    "Joe Mazzulla"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "01:29",
+      "summary_phrase": "Joe Mazzulla on Jordan Walsh's development and team mindset",
+      "names_mentioned": [
+        "Jordan Walsh",
+        "Cooper Flagg"
+      ],
+      "excerpt": "Jordan's continuing to develop the mindset that we need him to have versus great players.",
+      "quote": "To me, I think Jordan's continuing to develop the mindset that we need him to have versus great players. A great team has to have a group of guys that they can rely on to make it difficult for the other team's best player every single night. It's got to be by committee. Jordan's on that list, he's in that committee. He's taking ownership of that and continuing to get better in those moments. It's not just one person's job, but at the same time, we want to be who we want to be, we got to have guys that can go out there and make things happen and Jordan's taking ownership of that.",
+      "text_blocks": [],
+      "start_seconds": 89,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla says Jordan Walsh is becoming a key part of the Celtics committee tasked with making things difficult for opposing stars every single night.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jordan Walsh"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joe Mazzulla discusses Jordan Walsh's development and his role in the team's defensive committee during a postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "02:27",
+      "summary_phrase": "Joe Mazzulla on the collective growth of young Celtics players",
+      "names_mentioned": [
+        "Jordan Walsh",
+        "Baylor Scheierman",
+        "Juhann Begarin"
+      ],
+      "excerpt": "They don't care about who starts, who finishes, 10 minutes, 24 minutes, they just impact winning.",
+      "quote": "They don't care about who starts, who finishes, 10 minutes, 24 minutes, they just impact winning. They're not distracted by any nonsense and they understand that any night they could do something different that gives us a chance to win. Whether it's guarding the team's best player, whether it's rebounding, whether it's making shots, whether it's crashing on the offensive glass, those guys take pride in having a role of our team that is necessary for us to get to where we want to get to.",
+      "text_blocks": [],
+      "start_seconds": 147,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla praises the young Celtics players for their mindset saying they do not care about minutes or who starts as long as they impact winning.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla praises the mindset of the young players on the Celtics roster regarding their willingness to accept different roles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "04:14",
+      "summary_phrase": "Joe Mazzulla on Neemias Queta's growth and versatility",
+      "names_mentioned": [
+        "Neemias Queta"
+      ],
+      "excerpt": "He's important in the locker room, he's important on the offensive end.",
+      "quote": "I'm glad you asked about Neemias because I feel like his growth and his role has gone under the radar. He's more important than just our defense, he's important in the locker room, he's important on the offensive end. He just continues to get better and better and I think he's gotten, it's easy to overlook it because of how easy he kind of makes it sometimes. The offensive end, his ability to create two-on-ones for others, his defensive IQ that we can change coverages throughout the game and he can change pick-and-roll coverages and change matchups and his ability to protect the rim, he's just a guy that I have a lot of joy watching because of who he was when he got here and who he is now.",
+      "text_blocks": [],
+      "start_seconds": 254,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla says Neemias Queta's growth has gone under the radar and highlights his ability to protect the rim and create two on ones for his teammates.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Neemias Queta"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla highlights the growth and versatility of Neemias Queta on both ends of the floor during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "TCpJsNzAhXc",
+  "url": "https://www.youtube.com/watch?v=TCpJsNzAhXc",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-16T01:55:07Z",
+  "duration_seconds": 315,
+  "processed_at": "2026-11-16T23:24:55Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

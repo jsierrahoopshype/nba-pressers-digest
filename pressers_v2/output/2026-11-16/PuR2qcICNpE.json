@@ -1,0 +1,261 @@
+{
+  "video_title": "Erik Spoelstra Talks Pelle Larsson Health, Klay Thompson's Physique, Miami Heat Offense and Defense",
+  "speakers_seen": [
+    "Erik Spoelstra"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:06",
+      "summary_phrase": "Pelle Larsson's recovery progress and status for upcoming game",
+      "names_mentioned": [
+        "Pelle Larsson"
+      ],
+      "excerpt": "He's going to get a real good workout today and we'll see how he responds tomorrow.",
+      "quote": "He's making progress. He's going to get a real good workout today and we'll see how he responds tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 13,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra says Pelle Larsson is making progress and will get a good workout in today to test his status for the upcoming game.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pelle Larsson"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Erik Spoelstra provides an update on Pelle Larsson's health status during a media availability.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:23",
+      "summary_phrase": "Bobby Portis's shooting struggles and expected improvement",
+      "names_mentioned": [
+        "Bobby Portis",
+        "Klay Thompson"
+      ],
+      "excerpt": "At the beginning of the year Klay wasn't shooting well and now suddenly he's lighting it up.",
+      "quote": "That works itself out. At the beginning of the year Klay wasn't shooting well and now suddenly he's lighting it up. The same will happen with Bobby Portis. But the last two games what we've all appreciated was the effort. You feel them. I just think about that one offensive rebound where he came crashing in from the top of the floor and then put it in without even really jumping. It's those kind of efforts, you keep on doing that, the game usually rewards energy, effort, things like that.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Erik Spoelstra is confident Bobby Portis will find his rhythm soon, noting that the game usually rewards the kind of effort and energy Portis has shown lately.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bobby Portis",
+          "Klay Thompson"
+        ],
+        "teams": [
+          "MIA",
+          "MIL",
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Erik Spoelstra discusses Bobby Portis's recent shooting struggles and compares his situation to Klay Thompson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "01:03",
+      "summary_phrase": "Jaime Jaquez Jr.'s consistent energy and impact on the team",
+      "names_mentioned": [
+        "Jaime Jaquez Jr."
+      ],
+      "excerpt": "His constant energy is not something that he has to summon up. That's who he is.",
+      "quote": "His constant energy is not something that he has to summon up. That's who he is to his core in everything he does in pre-practice, post-practice, practices, and everything in between. This group needs that. Everyone that plays needs to bring great energy, great effort, great physicality. It will look different for each guy, but we're learning that that's unlocking a lot of things for our units, those glue guys that can bring that kind of energy.",
+      "text_blocks": [],
+      "start_seconds": 63,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Erik Spoelstra says Jaime Jaquez Jr. brings a constant energy that is core to who he is, adding that the team needs that kind of glue guy presence to unlock their potential.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaime Jaquez Jr."
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Erik Spoelstra praises the consistent energy and effort brought by Jaime Jaquez Jr. to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "01:47",
+      "summary_phrase": "Klay Thompson's professional approach and impact on the Heat",
+      "names_mentioned": [
+        "Klay Thompson"
+      ],
+      "excerpt": "To be a four-time champion is just ridiculous.",
+      "quote": "The thing that I've really appreciated, because I've wanted to be symbiotic, I've wanted to be open to him and his experiences coming from a different culture and so much success, that I want to respect that and honor that. To be a four-time champion is just ridiculous. Now that I've gotten to see him behind the scenes, you can see it's not an accident and it never is. When you have that much team success, you have a roster full of a lot of winning people, and he's a winning person. He's highly intelligent, he was really motivated to come here, and the part that I appreciate is he also has been open to how we do things.",
+      "text_blocks": [],
+      "start_seconds": 107,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Erik Spoelstra on Klay Thompson: It is not an accident that he is a four-time champion. Spoelstra says he has been impressed by how highly intelligent and motivated Thompson is behind the scenes.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Klay Thompson"
+        ],
+        "teams": [
+          "MIA",
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Erik Spoelstra reflects on Klay Thompson's professional approach and his integration into the Miami Heat culture.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "03:32",
+      "summary_phrase": "Balancing pick-and-roll success with broader offensive goals",
+      "names_mentioned": [
+        "Bam Adebayo",
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "We want to play with great pace and spacing in the full court.",
+      "quote": "We want to play with great pace and spacing in the full court, but you also have to do that in the half court. Then your pace ends up becoming like this, not as much like that, but you have to bring energy to the offense regardless. It doesn't necessarily matter what the trigger is. Sometimes the trigger might just be a pitch-ahead drive, or it might be a pick-and-roll, it might be a post-up. I think we're developing more out of our menu, more diversity. If we just go to one thing all the time, then that efficiency will probably go down. Right now we're tapping into quite a few different things.",
+      "text_blocks": [],
+      "start_seconds": 212,
+      "end_seconds": 255,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra wants the Heat to develop more diversity in their offense, noting that relying on just one thing will likely cause their efficiency to drop.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra explains the team's offensive philosophy regarding pace, spacing, and diversity in play-calling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "04:52",
+      "summary_phrase": "Houston's offensive threats and off-ball movement challenges",
+      "names_mentioned": [
+        "Kevin Durant",
+        "Alperen Sengun"
+      ],
+      "excerpt": "You always have to start with Kevin Durant, just the level of attention and awareness you have.",
+      "quote": "You always have to start with Kevin Durant, just the level of attention and awareness you have with him. Alperen Sengun is having a terrific start to this season and he does so much that goes into that unpredictable bucket where you don't necessarily know if it's going to be a cut, you don't know where his pass is going to be. If he catches it in the short roll, he's as good as anybody when he catches it there. He's great in the post, now he's shooting the ball terrific from three, so that adds a lot of variability to what they do and they have tremendous off-ball cutters. So those cutters become crashers too.",
+      "text_blocks": [],
+      "start_seconds": 292,
+      "end_seconds": 337,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra breaks down the challenge of facing Alperen Sengun, calling him as good as anyone in the short roll and noting the variability he adds to the offense.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Durant",
+          "Alperen Sengun"
+        ],
+        "teams": [
+          "MIA",
+          "PHX",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra analyzes the offensive threats posed by Kevin Durant and Alperen Sengun ahead of a matchup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "05:52",
+      "summary_phrase": "Developing instinctual defensive reads in pick-and-roll coverage",
+      "names_mentioned": [],
+      "excerpt": "You have to drill first what your base coverages are and your base responsibilities first.",
+      "quote": "You have to drill first what your base coverages are and your base responsibilities first. And then you do that over and over and over enough, then there has to be instinctual reads. That takes the longest time, where it's non-verbal reads and communications and you just sense when somebody is pulling a trigger that you know what to do from there. But we've been working at it a lot with film sessions and in the practice sessions, particularly early in the year and then on the road trip. That'll take some time, but we're making progress.",
+      "text_blocks": [],
+      "start_seconds": 352,
+      "end_seconds": 389,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra says the Heat are working on developing instinctual defensive reads, noting that moving from base coverages to non-verbal communication takes time.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Erik Spoelstra discusses the process of developing defensive instincts and communication within the team's coverage schemes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "PuR2qcICNpE",
+  "url": "https://www.youtube.com/watch?v=PuR2qcICNpE",
+  "channel_team": "Miami Heat",
+  "published": "2026-11-16T23:15:22Z",
+  "duration_seconds": 413,
+  "processed_at": "2026-11-16T23:23:50Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

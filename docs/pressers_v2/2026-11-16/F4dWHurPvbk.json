@@ -1,0 +1,346 @@
+{
+  "video_title": "Doug Christie, Kings players reflect on loss against Thunder | NBC Sports California",
+  "speakers_seen": [
+    "Darius Acuff Jr.",
+    "Emanuel Sharp",
+    "Doug Christie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darius Acuff Jr.",
+      "timestamp": "00:13",
+      "summary_phrase": "Darius Acuff Jr. on Shai Gilgeous-Alexander's elite playmaking ability",
+      "names_mentioned": [
+        "SGA"
+      ],
+      "excerpt": "He's seen every coverage in his career so far, so he watches that and he studies it.",
+      "quote": "SGA is a great player. He maneuvered around us when we tried to. He's seen every coverage in his career so far, so he watches that and he studies it, and he has different moves for it. I think we tried a little bit, we didn't just give up and quit. We tried, but he's a great player, great players do that.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darius Acuff Jr. on Shai Gilgeous-Alexander: He has seen every coverage in his career so far and he has different moves for it.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "SAC",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Darius Acuff Jr. discusses the challenge of defending Shai Gilgeous-Alexander following a loss to the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darius Acuff Jr.",
+      "timestamp": "00:38",
+      "summary_phrase": "Darius Acuff Jr. attributes turnovers to lack of focus",
+      "names_mentioned": [],
+      "excerpt": "Being lazy, myself. Being too careless with the ball and just being lackadaisical.",
+      "quote": "Being lazy, myself. I think we had five or more. I had nine of them. Just being lazy for real, being too careless with the ball and just being lackadaisical. That's really the main part.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Darius Acuff Jr. was blunt about his performance against the Thunder: I had nine turnovers. Just being lazy for real, being too careless with the ball.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Darius Acuff Jr. reflects on his own performance and high turnover count during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darius Acuff Jr.",
+      "timestamp": "01:25",
+      "summary_phrase": "Darius Acuff Jr. emphasizes need for faster starts against elite teams",
+      "names_mentioned": [],
+      "excerpt": "Against teams like that you got to start off faster. We started off too slow.",
+      "quote": "Against teams like that you got to start off faster. We started off too slow in the third quarter. So both of those opening quarters we started off too slow and I think that's where the game blew up a little bit. So definitely got to be better at that.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darius Acuff Jr. says the Kings need to start faster against elite teams: We started off too slow in the third quarter and that is where the game blew up.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Darius Acuff Jr. explains that the team needs to improve their start to games to compete with elite opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Emanuel Sharp",
+      "timestamp": "02:46",
+      "summary_phrase": "Emanuel Sharp on the difficulty of defending Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "SGA"
+      ],
+      "excerpt": "There's not really a spot on the floor that he can't score from.",
+      "quote": "He's just really good. He knows what he's getting to. There's not really a spot on the floor that he can't score from, so that just makes it tough on defense. I only got a couple possessions on him, but I don't think I got a stop. He's a great player. It's just amazing to share the floor with players like that and compete against them.",
+      "text_blocks": [],
+      "start_seconds": 166,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Emanuel Sharp on defending Shai Gilgeous-Alexander: There is not really a spot on the floor that he cannot score from. It is just amazing to share the floor with players like that.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "SAC",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Emanuel Sharp describes the difficulty of defending Shai Gilgeous-Alexander after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Emanuel Sharp",
+      "timestamp": "03:52",
+      "summary_phrase": "Emanuel Sharp on team unity during difficult losing streak",
+      "names_mentioned": [
+        "Doug"
+      ],
+      "excerpt": "Nobody is coming to save us. We got to band together and we got to make the change.",
+      "quote": "Nobody is coming to save us. We got to band together and we got to make the change and we got to get better. I've learned a lot about myself and about the team. I've been trying to learn as much as possible with my time on the floor and being around this team. I spend a lot of time talking to Doug and he's a former player, so he's given me a lot of gems.",
+      "text_blocks": [],
+      "start_seconds": 232,
+      "end_seconds": 261,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Emanuel Sharp on the Kings' current losing streak: Nobody is coming to save us. We have to band together and we have to make the change.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Doug Christie"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Emanuel Sharp discusses team unity and the mentorship he receives from coach Doug Christie.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Doug Christie",
+      "timestamp": "07:34",
+      "summary_phrase": "Doug Christie stresses importance of execution in closing minutes",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "In those moments execution is big. We got to execute better.",
+      "quote": "I was proud of the guys stepping up. It was a lot going on and I thought they stepped up and they competed. You're asking a lot out of guys and in those moments execution is big. We got to execute better. Some of them were putting those positions in and I thought they did a marvelous job of getting down a little bit, coming back and competing.",
+      "text_blocks": [],
+      "start_seconds": 454,
+      "end_seconds": 480,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Doug Christie on the team's late-game execution: You are asking a lot out of guys and in those moments execution is big. We have to execute better.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Doug Christie comments on the team's effort and the need for better execution in late-game situations.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "20nmDEzOn8I",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Doug Christie",
+      "timestamp": "08:33",
+      "summary_phrase": "Doug Christie on team's resilience and execution against Thunder",
+      "names_mentioned": [],
+      "excerpt": "I think the biggest takeaway probably is the execution piece.",
+      "quote": "I think more than anything it's like you're capable of doing a lot because a lot was thrown at them right before the game and nobody blinked. Everybody said let's go as a unit as a team. I think the biggest takeaway probably is the execution piece. Part of it was you got to make sure that because their shell is so tight on the defensive end, when you come off of a pick and roll, when you gain an advantage and you see a player in front of you, you got to get off of it right away.",
+      "text_blocks": [],
+      "start_seconds": 513,
+      "end_seconds": 551,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Doug Christie says the team handled a chaotic pregame situation well: A lot was thrown at them right before the game and nobody blinked.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC",
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Doug Christie reflects on how the team handled last-minute changes and the importance of offensive execution against the Thunder defense.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "20nmDEzOn8I",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Doug Christie",
+      "timestamp": "10:53",
+      "summary_phrase": "Doug Christie explains decision to move away from big lineups",
+      "names_mentioned": [],
+      "excerpt": "They had been playing two bigs, so that was the mindset behind that.",
+      "quote": "Previously if you watch them, they started two bigs and then you turn your sheet in and they turn their sheet in and most times you're not. I mean you can, but we got to respect some of the people here that are doing their jobs too. So yeah, we're going to make a quick sub after that, but they had been playing two bigs, so that was the mindset behind that.",
+      "text_blocks": [],
+      "start_seconds": 653,
+      "end_seconds": 681,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie explains his rotation strategy against the Thunder: They had been playing two bigs, so that was the mindset behind that.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Doug Christie explains the tactical reasoning behind his lineup choices regarding the opponent's use of two big men.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Doug Christie",
+      "timestamp": "11:18",
+      "summary_phrase": "Doug Christie provides update on player illness",
+      "names_mentioned": [
+        "Zack"
+      ],
+      "excerpt": "Everybody's popped up late. It happens.",
+      "quote": "Everybody's popped up late. So it happens. I just hope that they're well. This is the season for flus and a lot of different stuff. Try to wash your hands, all that type of stuff, keep your hands out of your face, but unfortunately he couldn't go and so we got to plug somebody else in and I thought guys did a good job.",
+      "text_blocks": [],
+      "start_seconds": 678,
+      "end_seconds": 703,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Doug Christie addresses the recent illness hitting the Kings locker room: It is the season for flus and a lot of different stuff. Unfortunately he could not go and we had to plug somebody else in.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Doug Christie provides an update on a player who was unable to play due to an illness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Doug Christie",
+      "timestamp": "12:34",
+      "summary_phrase": "Doug Christie praises energy and physicality of role players",
+      "names_mentioned": [],
+      "excerpt": "I thought the energy, the physicality of the game, I thought they met both of those head on.",
+      "quote": "I thought the energy, the physicality of the game, I thought they met both of those head on. You're asking both of those guys to guard the MVP and you're trying to keep your hand out of the cookie jar. The physicality, there was some rebounds, some tips, some running the floor, shooting the basketball. It just speaks to their preparation, their professionalism, and their willingness to do whatever is asked of them.",
+      "text_blocks": [],
+      "start_seconds": 754,
+      "end_seconds": 782,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Doug Christie praises his role players for their effort against the Thunder: It speaks to their preparation, their professionalism, and their willingness to do whatever is asked of them.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie praises the energy and professionalism of his role players during the game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "20nmDEzOn8I",
+        "rank": 5
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "F4dWHurPvbk",
+  "url": "https://www.youtube.com/watch?v=F4dWHurPvbk",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-16T06:21:00Z",
+  "duration_seconds": 795,
+  "processed_at": "2026-11-16T23:24:11Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

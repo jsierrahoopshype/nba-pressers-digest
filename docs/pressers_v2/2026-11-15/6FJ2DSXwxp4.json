@@ -1,0 +1,155 @@
+{
+  "video_title": "Kyrie Irving Postgame Interview | Mavericks vs. Cavaliers | Nov. 14, 2026",
+  "speakers_seen": [
+    "Kyrie Irving"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kyrie Irving",
+      "timestamp": "00:14",
+      "summary_phrase": "Kyrie Irving admits Mavericks lack necessary physicality against top teams",
+      "names_mentioned": [],
+      "excerpt": "these last few games we haven't even been close to matching the physicality of the team",
+      "quote": "When your head coach is calling it out, that's got to do something to you, in terms of how you handle it and how you respond. But he's absolutely right. These last few games we haven't even been close to matching the physicality of the team coming in against us. Against the best league in the world, against the best players in the world, your margin for error is very small. We just don't have time to feel our way through the game and not do the little things that we speak on in preparation, or when we're in practice, and just need better carryover.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Kyrie Irving says the Mavericks are failing to match the physicality of their opponents and need better carryover from practice to games. He admits the team is not doing the little things required to win against the best in the league.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kyrie Irving discusses the team's lack of physicality following a loss and references comments made by his head coach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kyrie Irving",
+      "timestamp": "01:16",
+      "summary_phrase": "Kyrie Irving reflects on his early career and growth as a player",
+      "names_mentioned": [
+        "Chris Grant",
+        "Byron Scott"
+      ],
+      "excerpt": "I was just excited just to play basketball again. And then the lockout hits",
+      "quote": "When I first started here, again drafted at 19, I didn't know what to expect. I was just excited just to play basketball again. And then the lockout hits and I'm out of work for about six months, not getting paid for any other entity other than Nike at the time. But just going back to school and having time to heal from my toe injury, and Chris Grant was our GM at the time, Byron Scott was the head coach, and we weren't allowed to even communicate with them. So my first entry into here was just a little awkward. We started in December and I think since then it's been a whirlwind of a lot of ups, a lot of lessons, a lot of figuring out who I wanted to become as a person most importantly, but also as a player.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 76,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Kyrie Irving reflects on his early days in the NBA during the 2011 lockout, calling his first entry into the league a little awkward and a whirlwind of lessons as he figured out who he wanted to become as a person and a player.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Grant",
+          "Byron Scott"
+        ],
+        "teams": [
+          "CLE",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Kyrie Irving reflects on his early career experiences after being drafted by the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kyrie Irving",
+      "timestamp": "02:05",
+      "summary_phrase": "Kyrie Irving addresses criticism regarding his early years in the league",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "everyone likes to gear towards my first three years in the league and like to put",
+      "quote": "When they're discussing my career, everyone likes to gear towards my first three years in the league and like to put, he's not a winner, he didn't win anything, he didn't do anything without LeBron, he didn't do anything without the players that we ended up winning a championship with, which I think is all in good, fair criticism. But I think as I look at it, it was just me learning through just being a young player in the league. I needed some veterans around me, I needed some good pieces, I needed to be battle-tested, and I feel like that's what prepared me for these moments I'm in right now.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 125,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Kyrie Irving addresses criticism about his early career, saying it is fair to call him out for not winning early on. He notes he needed veterans and to be battle tested to prepare for the moments he is in right now.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "DAL",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kyrie Irving addresses media criticism regarding his early career performance and his time playing alongside LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kyrie Irving",
+      "timestamp": "06:43",
+      "summary_phrase": "Kyrie Irving discusses the development of a young teammate",
+      "names_mentioned": [],
+      "excerpt": "he has a target on his back and he knows that. It's my job to alleviate a lot",
+      "quote": "He's in his sophomore year. I said in the beginning of the season as well, he has a target on his back and he knows that. It's my job to alleviate a lot of the pressure that he feels. But he's just being battle-tested, you know, teams are getting up in his chest, teams are being physical and this is the time where we all got to fight back together. And it's not just on him, it's obviously we got to bring the best out of him too, and he's got to bring the best out of himself. But most importantly, he's not alone out there and we got to do a better job including myself, get him going.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 403,
+      "end_seconds": 449,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kyrie Irving says he is focused on alleviating pressure on his sophomore teammate, noting that the young player has a target on his back and needs the rest of the team to help him fight back against physical defenses.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kyrie Irving discusses the challenges faced by a young teammate during his sophomore season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "6FJ2DSXwxp4",
+  "url": "https://www.youtube.com/watch?v=6FJ2DSXwxp4",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-15T04:24:34Z",
+  "duration_seconds": 583,
+  "processed_at": "2026-11-16T23:25:37Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

@@ -1,0 +1,129 @@
+{
+  "video_title": "Houston Rockets Postgame: Amen Thompson talks win",
+  "speakers_seen": [],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Amen Thompson",
+      "timestamp": "00:02",
+      "summary_phrase": "Amen Thompson on his aggressive rim-attacking playstyle",
+      "names_mentioned": [],
+      "excerpt": "that's my game. Just trying to push the pace, get to the rim, make the defense collapse",
+      "quote": "That's why I do get to the rim, so I mean that's my game. Just trying to push the pace, get to the rim, make the defense collapse and make plays from there.",
+      "start_seconds": 2,
+      "end_seconds": 15,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Amen Thompson on his aggressive playstyle: That is why I get to the rim. Just trying to push the pace, make the defense collapse and make plays from there.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Amen Thompson explains his aggressive offensive approach of attacking the rim to create opportunities for his team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Amen Thompson",
+      "timestamp": "00:27",
+      "summary_phrase": "Amen Thompson on utilizing his speed as a weapon",
+      "names_mentioned": [],
+      "excerpt": "realizing my speed is a weapon, not it's not me. It's just a weapon I have",
+      "quote": "Just realizing my speed is a weapon, not it's not me. It's just a weapon I have, so not getting too caught up in always trying to be the most athletic, using it when I need to, and I feel like that's what I was trying to do today.",
+      "start_seconds": 27,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Amen Thompson on his development: Realizing my speed is a weapon, not me. It is just a weapon I have, so not getting too caught up in always trying to be the most athletic, using it when I need to.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Amen Thompson discusses his mindset regarding utilizing his athleticism and speed strategically during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Amen Thompson",
+      "timestamp": "00:48",
+      "summary_phrase": "Amen Thompson on his confidence in his three-point shooting",
+      "names_mentioned": [],
+      "excerpt": "I was feeling it in practice this morning. I was feeling it, confident in the shot",
+      "quote": "I was feeling it in practice this morning. I was feeling it, confident in the shot and it's confident in the shot.",
+      "start_seconds": 48,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Amen Thompson says he was feeling his shot in practice this morning and felt confident heading into the game.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Amen Thompson reflects on his shooting performance and the confidence he gained during the morning practice session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Amen Thompson",
+      "timestamp": "01:04",
+      "summary_phrase": "Amen Thompson on the importance of rhythm and confidence",
+      "names_mentioned": [],
+      "excerpt": "when I know it's coming, when I'm ready, got my hands up, get my feet ready",
+      "quote": "When I know it's coming, when I'm ready, got my hands up, get my feet ready, I mean it feels way better and every three I shot I knew it was going in off the rim.",
+      "start_seconds": 64,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Amen Thompson on his shooting rhythm: When I know it is coming, when I am ready, got my hands up, get my feet ready, it feels way better.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Amen Thompson describes the importance of proper preparation and rhythm in his three-point shooting mechanics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ElpSD2M2If4",
+  "url": "https://www.youtube.com/watch?v=ElpSD2M2If4",
+  "channel_team": "Houston Rockets",
+  "published": "2026-11-16T03:04:50Z",
+  "duration_seconds": 74,
+  "processed_at": "2026-11-16T23:24:11Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

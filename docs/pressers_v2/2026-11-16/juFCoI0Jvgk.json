@@ -1,0 +1,630 @@
+{
+  "video_title": "Lakers vs Suns | Postgame Interviews x Highlights: November 15, 2026",
+  "speakers_seen": [
+    "JJ Redick",
+    "Jake LaRavia",
+    "Luka Doncic",
+    "Quentin Grimes",
+    "Collin Sexton"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "JJ Redick",
+      "timestamp": "00:07",
+      "summary_phrase": "JJ Redick on Lakers' fourth-quarter defensive struggles and effort",
+      "names_mentioned": [],
+      "excerpt": "We're working too hard and we're playing too hard to build these leads. It's a disservice to each other.",
+      "quote": "I told the team this after the game. We're working too hard and we're playing too hard to build these leads. It's a disservice to each other to take your foot off the gas. Defensively, we did a lot of really good things through three quarters. Going into the fourth, we had a 107 defensive rating and then we had a 165 defensive rating in the fourth. Some of that, a lot of it, started at the beginning of the fourth. We had two possessions where they're walking it up and we don't even talk and get matched up and they hit wide-open threes and all of a sudden they get going. You can't allow that. You have to play for 48 minutes and we're going to need our defense to win us games.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "JJ Redick on the Lakers defensive lapses in the fourth quarter: We had a 107 defensive rating through three quarters and a 165 in the fourth. You cannot allow that. You have to play for 48 minutes.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "JJ Redick discusses the team's defensive struggles in the fourth quarter after allowing a high defensive rating.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "JJ Redick",
+      "timestamp": "01:09",
+      "summary_phrase": "JJ Redick praises the Suns' second unit performance",
+      "names_mentioned": [
+        "Gillespie",
+        "Connard",
+        "Goody",
+        "Dunn"
+      ],
+      "excerpt": "Their second unit is their best unit right now. That group with Gillespie and Connard and Goody and Dunn.",
+      "quote": "The other thing is their second unit. We watch these guys all season. Their second unit is their best unit right now. That group with Gillespie and Connard and Goody and Dunn, that's been their best unit this season. I don't even know what the numbers say, I'm just saying from watching it, that unit plays like the unit that played last year. Their team played last year and they're tough to guard. They move, they cut, they can all shoot. It's a hard unit to guard, but we just have to be better with our attention to detail and our effort.",
+      "text_blocks": [],
+      "start_seconds": 69,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "JJ Redick on the Suns second unit: That group with Gillespie and Connard and Goody and Dunn has been their best unit this season. They move and they cut and they can all shoot. It is a hard unit to guard.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAL",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "JJ Redick praises the performance and toughness of the Phoenix Suns' second unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "JJ Redick",
+      "timestamp": "01:44",
+      "summary_phrase": "JJ Redick on Quinton Grimes' rhythm and playmaking",
+      "names_mentioned": [
+        "Quinton Grimes"
+      ],
+      "excerpt": "He's a really underrated playmaker when he's in the paint and he did that again tonight for us.",
+      "quote": "Quinton Grimes was awesome. Just found a rhythm throughout the game, hit a number of big shots, probably none bigger than the call bank from the top of the key. But I thought he did a great job of touching the paint and he's been consistent throughout the year. When he touches the paint, he's generally making the right read, whether to score or get an assist. I think he's a really underrated playmaker when he's in the paint and he did that again tonight for us.",
+      "text_blocks": [],
+      "start_seconds": 104,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "JJ Redick on Quentin Grimes: I think he is a really underrated playmaker when he is in the paint. He did a great job of touching the paint and making the right read whether to score or get an assist.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Quentin Grimes"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "JJ Redick praises Quentin Grimes for his playmaking and rhythm during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "JJ Redick",
+      "timestamp": "02:34",
+      "summary_phrase": "JJ Redick on Quinton Grimes' aggression and consistency",
+      "names_mentioned": [
+        "Quinton Grimes"
+      ],
+      "excerpt": "He's consistently tried to start with a level of aggression scoring the basketball and that sets the table.",
+      "quote": "He's always done that. I feel like he's consistently tried to start with a level of aggression scoring the basketball and that sets the table for us eventually playing four-on-three. That's what happened throughout the game, particularly late. They're firing him, and I thought he did a great job. The pick-and-roll coverage they were running was a little bit of up-to-touch with a soft blitz, so they kind of kept the big on it. I thought he did a great job of dragging that out and then creating two-on-one opportunities on the backside. He ended up with nine assists, but it's one of those games where, yeah, he scored a lot, but he also just generated a lot of really good offense for us.",
+      "text_blocks": [],
+      "start_seconds": 154,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JJ Redick on the Lakers offensive strategy: Quentin Grimes did a great job of dragging out the pick and roll coverage and creating two on one opportunities on the backside. He generated a lot of really good offense for us.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Quentin Grimes"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "JJ Redick explains how Quentin Grimes' aggression helps create offensive opportunities for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "JJ Redick",
+      "timestamp": "05:12",
+      "summary_phrase": "JJ Redick on Quinton Grimes' work ethic and routine",
+      "names_mentioned": [
+        "Quinton Grimes"
+      ],
+      "excerpt": "Whether you're shooting well or you're shooting poorly, you should just keep the same routine.",
+      "quote": "With Quinton Grimes, watching him every day, when he is in the gym, he's very consistent with his routine. We tell players this all the time: whether you're shooting well or you're shooting poorly, you should just keep the same routine. Because otherwise, then it becomes is shooting a superstitious thing? I don't think it is. Shooting is based on form and reps and confidence and the only way to build that confidence is through the reps. So I think he's handled it really well. He's been in the gym, he's gotten his shots up, he's done his routine, and he's a high 30s guy.",
+      "text_blocks": [],
+      "start_seconds": 312,
+      "end_seconds": 352,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "JJ Redick on shooting slumps: Shooting is based on form and reps and confidence. The only way to build that confidence is through the reps. I tell players whether you are shooting well or poorly you should keep the same routine.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Quentin Grimes"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "JJ Redick discusses the importance of consistency and routine for Quentin Grimes' shooting performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "JJ Redick",
+      "timestamp": "07:07",
+      "summary_phrase": "JJ Redick on team standards and avoiding a ceiling",
+      "names_mentioned": [],
+      "excerpt": "I don't want these guys to put a ceiling on themselves. I don't think we should put a ceiling.",
+      "quote": "Part of that is because I don't want these guys to put a ceiling on themselves. I don't think we should put a ceiling on this group. This group is committed to getting better every single day, recognizing that this is a process to become a high-level team. That's what I want from this group is hold each other to that standard every single time. And that's honestly, that's the frustrating part at times because you see how good we can be.",
+      "text_blocks": [],
+      "start_seconds": 427,
+      "end_seconds": 459,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "JJ Redick on the Lakers potential: I do not want these guys to put a ceiling on themselves. This group is committed to getting better every single day and recognizing that this is a process to become a high level team.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "JJ Redick emphasizes the need for the team to maintain high standards and avoid self-imposed limitations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jake LaRavia",
+      "timestamp": "09:24",
+      "summary_phrase": "Jake LaRavia on controlling his effort on the court",
+      "names_mentioned": [],
+      "excerpt": "I was talking about controlling what you can and that's the one thing I can control is my effort.",
+      "quote": "I was talking about controlling what you can and that's the one thing I can control is my effort. So, yeah, keep doing that.",
+      "text_blocks": [],
+      "start_seconds": 564,
+      "end_seconds": 573,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jake LaRavia on his performance: I was talking about controlling what you can and that is the one thing I can control is my effort. So keep doing that.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Jake LaRavia explains that he focuses on controlling his own effort during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jake LaRavia",
+      "timestamp": "10:22",
+      "summary_phrase": "Jake LaRavia on maintaining focus during double-digit leads",
+      "names_mentioned": [
+        "Quinton Grimes"
+      ],
+      "excerpt": "When a team is just kind of like rolling with momentum, those shots kind of help to just kill.",
+      "quote": "When a team is just kind of like rolling with momentum, those shots kind of help to just kill it just a little bit. Obviously, they were scoring a lot. I don't know what the exact stat was, but it was like 28 points and I don't know, it was something crazy. They were just scoring, we weren't getting stops. We were having to slow down offensively and just kind of like get good shots. So anytime we hit a shot, it was big for us. And we had a couple guys that did that.",
+      "text_blocks": [],
+      "start_seconds": 622,
+      "end_seconds": 659,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jake LaRavia on the Suns momentum: When a team is rolling with momentum those shots help to kill it a little bit. We were having to slow down offensively and just get good shots.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Jake LaRavia discusses the difficulty of maintaining focus when the opposing team gains momentum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jake LaRavia",
+      "timestamp": "12:52",
+      "summary_phrase": "Jake LaRavia on team growth and avoiding complacency",
+      "names_mentioned": [],
+      "excerpt": "We have a lot of room to grow. Like we're still, yeah, we're not, we haven't hit our ceiling.",
+      "quote": "We have a lot of room to grow. Like we're still, yeah, we're not, we haven't hit our ceiling. We're not going to set a ceiling for ourselves. There's so much that we can get better at. There's so much still that that we can do as a team. So it's it's been good to see that we're, you know, at this point early in the season, um, and and still, you know, making all the mistakes that we've made because we're in a good position. So we got a lot of room for growth, so I'm excited.",
+      "text_blocks": [],
+      "start_seconds": 772,
+      "end_seconds": 810,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jake LaRavia on the Lakers growth: We have a lot of room to grow. We have not hit our ceiling. It has been good to see that we are in a good position early in the season while still making mistakes.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Jake LaRavia reflects on the team's potential for growth early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Luka Doncic",
+      "timestamp": "15:40",
+      "summary_phrase": "Luka Doncic on team improvement and blowing leads",
+      "names_mentioned": [],
+      "excerpt": "I honestly think we have a lot of space for improvement. One thing for now is blowing some leads.",
+      "quote": "I honestly think we have a lot of space for improvement. Uh, you know, obviously one thing, uh, for now is blowing some leads. I think we got to work on that, uh, for sure. Uh, but I think every, every aspect of the, of the, of the game, I think, and I feel like we have a lot of improvement left.",
+      "text_blocks": [],
+      "start_seconds": 940,
+      "end_seconds": 964,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Luka Doncic on the Lakers current issues: I honestly think we have a lot of space for improvement. One thing for now is blowing some leads. We have to work on that for sure.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Luka Doncic identifies blowing leads as a key area for the team to improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Luka Doncic",
+      "timestamp": "16:11",
+      "summary_phrase": "Luka Doncic on Quinton Grimes' performance",
+      "names_mentioned": [
+        "Quinton Grimes",
+        "Luka Doncic"
+      ],
+      "excerpt": "I know Q for a long time, you know, I play with him. I know what he's capable of.",
+      "quote": "I mean, I'm, I know Q for a long time, you know, I play with him. I know what he's capable of. And that's him. That's how he plays. And we're going to definitely need him to play like this. And, you know, for me, it's just not, not a surprise. I know what he can do and he was amazing today.",
+      "text_blocks": [],
+      "start_seconds": 971,
+      "end_seconds": 995,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Luka Doncic on Quentin Grimes: I have known Q for a long time and I know what he is capable of. That is how he plays. It is not a surprise to me. He was amazing today.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Quentin Grimes"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Luka Doncic expresses that he is not surprised by Quentin Grimes' strong performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Luka Doncic",
+      "timestamp": "16:45",
+      "summary_phrase": "Luka Doncic on maintaining focus regardless of the score",
+      "names_mentioned": [],
+      "excerpt": "We just got to play the same way. Just imagine it's 0-0 and just play the same way.",
+      "quote": "We just got to play the same way. Uh, just imagine it's 0-0 and just play the same way.",
+      "text_blocks": [],
+      "start_seconds": 1005,
+      "end_seconds": 1012,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Luka Doncic on maintaining focus: We just have to play the same way. Just imagine it is 0 to 0 and just play the same way.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Luka Doncic emphasizes the need to maintain focus regardless of the game score.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Luka Doncic",
+      "timestamp": "17:41",
+      "summary_phrase": "Luka Doncic on team effort and playing 40+ minutes",
+      "names_mentioned": [],
+      "excerpt": "I think we played 40 minutes of great, great basketball, maybe even more.",
+      "quote": "I think we played 40 minutes of great, great basketball, maybe even more. Uh, but those 7-8 minutes, you know, almost cost us the game. Uh, so like I said before, we just need to play like it's 0-0. Uh, don't look at the scoreboard, just play the way, the way we know how to play.",
+      "text_blocks": [],
+      "start_seconds": 1061,
+      "end_seconds": 1083,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Luka Doncic on the Lakers near collapse: We played 40 minutes of great basketball but those 7 to 8 minutes almost cost us the game. We just need to play like it is 0 to 0 and not look at the scoreboard.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Luka Doncic reflects on how a short lapse in focus nearly cost the team the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Luka Doncic",
+      "timestamp": "19:10",
+      "summary_phrase": "Luka Doncic on playing with LeBron James",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "Obviously playing with LeBron, you can learn a lot of things.",
+      "quote": "I just try, try to play my own basketball, you know. Uh, I don't think it was that many difference. Uh, you know, obviously playing with LeBron, you can learn a lot of things. Uh, I'll probably be more open than now, uh, but, you know, just trying to play my game.",
+      "text_blocks": [],
+      "start_seconds": 1150,
+      "end_seconds": 1170,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Luka Doncic on playing with LeBron James: You can learn a lot of things. I would probably be more open than now but I am just trying to play my own basketball.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Luka Doncic discusses his experience playing alongside LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Quentin Grimes",
+      "timestamp": "19:28",
+      "summary_phrase": "Quentin Grimes on finding his offensive rhythm",
+      "names_mentioned": [],
+      "excerpt": "I'm a player able to get in a rhythm, able to get into a flow.",
+      "quote": "There's no one that I'm not, there are no more opportunities for me on the ball. I'm a player able to get in a rhythm, able to get into a flow and I feel like guys keep finding me, guys keep feeding me. Um, I'll do anything to keep going off of that really.",
+      "text_blocks": [],
+      "start_seconds": 1168,
+      "end_seconds": 1189,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Quentin Grimes on his offensive role: There are more opportunities for me on the ball. I am a player able to get in a rhythm and able to get into a flow and I feel like guys keep finding me.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Quentin Grimes explains how he finds his offensive rhythm within the team's flow.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Quentin Grimes",
+      "timestamp": "19:48",
+      "summary_phrase": "Quentin Grimes on playing with Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "Now we know he's going to come in, double team, triple team, you got to be able to.",
+      "quote": "Now we know he's going to come in, double team, triple team, you got to be able to get him an outlet, get in the right space, get in the right window, and just knock down the shots. And that's kind of the easy part is making sure we give him an outlet and make sure he can get his assist for sure.",
+      "text_blocks": [],
+      "start_seconds": 1188,
+      "end_seconds": 1212,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Quentin Grimes on playing with Luka Doncic: We know he is going to get doubled or tripled so you have to be able to get him an outlet and get in the right space. That is the easy part.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quentin Grimes discusses the importance of providing an outlet for Luka Doncic when he is double-teamed.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Quentin Grimes",
+      "timestamp": "20:23",
+      "summary_phrase": "Quentin Grimes on maintaining composure during opponent runs",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "It's a game of run and I mean they kind of put in their guys that play extremely hard.",
+      "quote": "It's a game of run and I mean they kind of put in their guys that play extremely hard. They kind of mark the game up a little bit and then making also hit shots. So we've kind of just had to settle down, get poised and just kind of getting get a good shot because we know it's going to come back around on that end. So just being poised and just sticking to our principles, and then like I said, just knocking down you shots and then getting Luka outlets to make it easy play.",
+      "text_blocks": [],
+      "start_seconds": 1223,
+      "end_seconds": 1260,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Quentin Grimes on handling runs: It is a game of runs. We just had to settle down and get poised. We know it is going to come back around on that end so just stick to our principles.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Quentin Grimes explains the team's strategy for maintaining composure during opponent runs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Collin Sexton",
+      "timestamp": "20:55",
+      "summary_phrase": "Collin Sexton on playing without goggles",
+      "names_mentioned": [],
+      "excerpt": "I feel like they was moving a little bit too much for me, so I had to take them off.",
+      "quote": "It was okay. I had to get used to them a little bit. Um, I feel like they was moving a little bit too much for me, so I had to take them off and just, hey, and whatever happened, happened. But other than that, it was good.",
+      "text_blocks": [],
+      "start_seconds": 1255,
+      "end_seconds": 1273,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Collin Sexton on his goggles: I had to get used to them but they were moving a little bit too much for me so I had to take them off. Whatever happened happened.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Collin Sexton explains his decision to remove his goggles during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Collin Sexton",
+      "timestamp": "21:23",
+      "summary_phrase": "Collin Sexton on the team's hot start and finishing games",
+      "names_mentioned": [],
+      "excerpt": "The starters started out hot. They played the game the right way.",
+      "quote": "Honestly, I would say the starters started out hot. Uh, they played the game the right way. They started out being physical and I feel like the ball was popping around and we were sharing it. And then the second half, we had a good start in the third, we just got to finish games a lot better and I feel like tonight, uh, it just showed we could play a full 48. That might be a blowout tonight.",
+      "text_blocks": [],
+      "start_seconds": 1283,
+      "end_seconds": 1313,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Collin Sexton on the Lakers performance: The starters started out hot and played the right way. We just have to finish games a lot better. Tonight showed we could play a full 48 minutes.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Collin Sexton discusses the team's need to improve at finishing games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 20,
+      "speaker": "Collin Sexton",
+      "timestamp": "21:46",
+      "summary_phrase": "Collin Sexton on team principles and avoiding complacency",
+      "names_mentioned": [],
+      "excerpt": "I would say not getting satisfied. At the end of the day, having that killer mentality.",
+      "quote": "I would say not getting satisfied. At the end of the day, having that killer mentality of, uh, putting them away and not allowing them to to come back. And I feel like tonight we didn't have that mentality and it kind of struggled towards the end. I think it was like they made like 27 in four or five minutes and, uh, that was kind of tough.",
+      "text_blocks": [],
+      "start_seconds": 1306,
+      "end_seconds": 1332,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Collin Sexton on the team mentality: We need to have that killer mentality of putting them away and not allowing them to come back. Tonight we did not have that mentality.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Collin Sexton reflects on the team's lack of a killer mentality in the final minutes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "juFCoI0Jvgk",
+  "url": "https://www.youtube.com/watch?v=juFCoI0Jvgk",
+  "channel_team": "Los Angeles Lakers",
+  "published": "2026-11-16T07:30:25Z",
+  "duration_seconds": 1372,
+  "processed_at": "2026-11-16T23:24:04Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

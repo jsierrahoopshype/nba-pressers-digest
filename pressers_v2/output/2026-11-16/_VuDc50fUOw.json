@@ -1,0 +1,223 @@
+{
+  "video_title": "Dylan Harper on Finding His Rhythm on His Career-High Night in SLC",
+  "speakers_seen": [
+    "Dylan Harper"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dylan Harper",
+      "timestamp": "00:06",
+      "summary_phrase": "Dylan Harper on his fourth quarter performance and team support",
+      "names_mentioned": [],
+      "excerpt": "I think it was a matter of making shots and finding my rhythm and my team",
+      "quote": "I think it was a matter of making shots and finding my rhythm and my team has hit a great job of just helping me get the ball and helping me find me when I'm running.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dylan Harper on his career night in Utah: It was a matter of making shots and finding my rhythm and my team did a great job of helping me get the ball.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Dylan Harper discusses his fourth quarter performance and the support he received from his teammates to find his rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dylan Harper",
+      "timestamp": "00:21",
+      "summary_phrase": "Dylan Harper on the importance of confidence in the fourth quarter",
+      "names_mentioned": [],
+      "excerpt": "I feel like if you don't have that confidence in yourself to shoot those shots",
+      "quote": "I feel like if you don't have that confidence in yourself to shoot those shots that you work on all the time then there's no point going in the gym and working on them.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Dylan Harper on his shooting mentality: If you do not have that confidence in yourself to shoot those shots that you work on all the time then there is no point going in the gym and working on them.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Dylan Harper explains the importance of maintaining self-confidence when taking shots during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dylan Harper",
+      "timestamp": "00:43",
+      "summary_phrase": "Dylan Harper on the team's need to regroup after losing leads",
+      "names_mentioned": [],
+      "excerpt": "We went up 10 about twice and they came back in a blink of an eye",
+      "quote": "We went up 10 about twice and they came back in a blink of an eye, but just having that awareness that we got to get a good shot every time down the floor.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dylan Harper says the team needs to improve their awareness after letting leads slip away: We went up 10 about twice and they came back in a blink of an eye.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Dylan Harper reflects on the team's need to maintain focus and execute better after losing leads during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dylan Harper",
+      "timestamp": "01:02",
+      "summary_phrase": "Dylan Harper on Kelden's impact and rebounding",
+      "names_mentioned": [
+        "Kelden"
+      ],
+      "excerpt": "Kelden, he's great. He goes out there, he rebounded the ball great today, 10 rebounds.",
+      "quote": "Kelden, he's great. He goes out there, he rebounded the ball great today, 10 rebounds. I don't think anyone's going to talk about it, but I'll talk about it. Just the way he impacts the game on a high level, he's probably one of the best scorers I've ever seen.",
+      "text_blocks": [],
+      "start_seconds": 62,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Dylan Harper is giving Kelden his flowers: He rebounded the ball great today. I do not think anyone is going to talk about it but I will talk about it. He is probably one of the best scorers I have ever seen.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kelden"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dylan Harper praises his teammate Kelden for his rebounding performance and overall impact on the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dylan Harper",
+      "timestamp": "01:32",
+      "summary_phrase": "Dylan Harper on his career-high 30-point performance",
+      "names_mentioned": [],
+      "excerpt": "I didn't realize about half 30 until I had the last two free throws and I looked up.",
+      "quote": "I didn't realize about half 30 until I had the last two free throws and I looked up. It definitely felt good. First of many, and I just got to keep on working.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 105,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Dylan Harper on hitting his first career 30 point game: I did not realize I had 30 until I had the last two free throws and I looked up. It definitely felt good. First of many.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Dylan Harper reacts to scoring a career-high 30 points and expresses his desire to continue improving.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Dylan Harper",
+      "timestamp": "01:54",
+      "summary_phrase": "Dylan Harper on avoiding complacency and building momentum",
+      "names_mentioned": [],
+      "excerpt": "Not ever getting complacent. Today, we knew we had to come in here and 3:00 game on a Sunday.",
+      "quote": "Not ever getting complacent. Today, we knew we had to come in here and 3:00 game on a Sunday. They were talking about it as maybe as a trap game, but I think for me and for the rest of the group, we looked at it as another opportunity to get better and build.",
+      "text_blocks": [],
+      "start_seconds": 114,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dylan Harper on avoiding the trap game mentality: People were talking about it as maybe a trap game but for me and the rest of the group we looked at it as another opportunity to get better and build.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Dylan Harper discusses the team's mindset in avoiding complacency during a Sunday afternoon game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Dylan Harper",
+      "timestamp": "02:27",
+      "summary_phrase": "Dylan Harper on his confidence in shooting three-pointers",
+      "names_mentioned": [],
+      "excerpt": "I work on that shot a lot. I mean, if I ain't work on it, I probably wouldn't shoot it.",
+      "quote": "I work on that shot a lot. I mean, if I ain't work on it, I probably wouldn't shoot it. So, I mean, those misses, obviously I wish I made them, but it's a part of the game, ups and downs, and they went in when it mattered.",
+      "text_blocks": [],
+      "start_seconds": 147,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Dylan Harper on his shooting performance: I work on that shot a lot. If I did not work on it I probably would not shoot it. It is a part of the game, ups and downs, and they went in when it mattered.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Dylan Harper talks about his confidence in his shooting ability and dealing with the ups and downs of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "_VuDc50fUOw",
+  "url": "https://www.youtube.com/watch?v=_VuDc50fUOw",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-16T02:51:53Z",
+  "duration_seconds": 164,
+  "processed_at": "2026-11-16T23:24:22Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false
+}

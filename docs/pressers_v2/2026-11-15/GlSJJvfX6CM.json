@@ -1,0 +1,136 @@
+{
+  "video_title": "Caleb Martin Postgame Interview | Mavericks vs. Cavaliers | Nov. 14, 2026",
+  "speakers_seen": [
+    "Caleb Martin"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Caleb Martin",
+      "timestamp": "00:07",
+      "summary_phrase": "Caleb Martin on the Mavericks' flat start against the Cavaliers",
+      "names_mentioned": [],
+      "excerpt": "we just came out flat and I think all the way down the line including myself",
+      "quote": "We just didn't have it. Honestly, we just came out flat and I think all the way down the line including myself, we came out flat, didn't impact the game from the jump and set the tone defensively and kind of let the offense dictate what we were doing for the rest of the game and we just didn't come out and give our best version tonight.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Caleb Martin on the Mavericks flat start against the Cavaliers: We just did not have it. We came out flat and did not impact the game from the jump.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Caleb Martin discusses the Mavericks' poor start and lack of defensive intensity in their loss to the Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Caleb Martin",
+      "timestamp": "00:36",
+      "summary_phrase": "Caleb Martin on the need for consistent defensive identity",
+      "names_mentioned": [],
+      "excerpt": "we got to do that, that's got to be our identity and we got to be consistent",
+      "quote": "Everything. I think everything, our communication, the physicality, our pressure. We did a better job in the second half, but we got to do that, that's got to be our identity and we got to be consistent no matter who's playing, no matter what's going on in the game.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Caleb Martin says the Mavericks need to find their defensive identity: We have to be consistent no matter who is playing and no matter what is going on in the game.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Caleb Martin explains the need for the Mavericks to establish a consistent defensive identity regardless of game circumstances.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Caleb Martin",
+      "timestamp": "01:11",
+      "summary_phrase": "Caleb Martin on managing frustration when shots aren't falling",
+      "names_mentioned": [],
+      "excerpt": "obviously we're a lot of players are part of their toughest critic and obviously it's easy",
+      "quote": "Obviously we're a lot of players are part of their toughest critic and obviously it's easy to get down on yourself, but that's part of the game. We're not going to make every shot and at the end of the day if you're playing hard, the things happen. It doesn't really matter if the shots will the shots will eventually fall. Just like you can start the game really hot and go cold. It can be the reverse of a team that's not making shots early. The game is a game of runs and I think that we all know that. We just have to continue to believe that and stay the course and that's why we got to hang our hat on the defensive end because that's the one thing you can control in the game.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Caleb Martin on managing shooting slumps: We are our own toughest critics. If you are playing hard, things happen. You have to hang your hat on the defensive end because that is the one thing you can control.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Caleb Martin discusses maintaining confidence and defensive focus when the team is struggling to make shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Caleb Martin",
+      "timestamp": "02:07",
+      "summary_phrase": "Caleb Martin on maintaining focus despite opponent roster changes",
+      "names_mentioned": [],
+      "excerpt": "that's where great teams are great, you know, that's why good teams are good",
+      "quote": "I'm not going to sit here and lie and act like I'm sure none of us thought that for one second, but that's where the good teams are, you know, that's where great teams are great, you know, that's why good teams are good. It doesn't matter who's playing, they stick to the plan. They come in and execute the game plan no matter who's playing, even if there's players that are shifted. The mindset's still the same, the concepts are still the same, the effort's still the same and that's the only way to be a good team.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Caleb Martin on how great teams handle opponent roster changes: It does not matter who is playing, they stick to the plan. The mindset is still the same, the concepts are still the same, the effort is still the same.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Caleb Martin reflects on the importance of maintaining a consistent team mindset and execution despite opponent roster changes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "GlSJJvfX6CM",
+  "url": "https://www.youtube.com/watch?v=GlSJJvfX6CM",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-15T04:02:45Z",
+  "duration_seconds": 169,
+  "processed_at": "2026-11-16T23:25:22Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

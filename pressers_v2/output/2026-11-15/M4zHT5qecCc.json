@@ -1,0 +1,195 @@
+{
+  "video_title": "Mitch Johnson on Spurs Making Strides During 11-Game Win Streak",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:09",
+      "summary_phrase": "Spurs' defensive improvements driving recent team success",
+      "names_mentioned": [],
+      "excerpt": "Hard to get out and run and play with pace if you're not getting stops.",
+      "quote": "There are things we made concerted efforts and emphasis on that just took a little time to get to our standard. Defense has helped that as well. Hard to get out and run and play with pace if you're not getting stops. So it's a crisp cycle representation of how one thing helps another.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson says the Spurs recent success is a result of defensive stops fueling their transition offense. He calls it a crisp cycle of how one thing helps another.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the team's defensive improvements during their recent winning streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:42",
+      "summary_phrase": "Spurs showing growth in retention and attention to detail",
+      "names_mentioned": [],
+      "excerpt": "This group has made some strides in a short amount of time of showing us as a staff.",
+      "quote": "I think this group has made some strides in a short amount of time of showing us as a staff their improvement in terms of retention, attention to detail, really trying to cut down on repeatable mistakes. When you're able to be sharp in some of those areas, it allows you to minimize things that you can control.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson credits the Spurs for showing growth in retention and attention to detail, noting that the team is doing a better job of cutting down on repeatable mistakes.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson comments on the team's growth regarding retention and attention to detail.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:41",
+      "summary_phrase": "Victor Wembanyama's evolving understanding of game control",
+      "names_mentioned": [],
+      "excerpt": "He can have all the control of the game by still giving up the power of it at times.",
+      "quote": "Understanding that he can have all the control of the game by still giving up the power of it at times. And I think that that is scary, the more that he understands that he still has all the control even if it still feels like he's giving up power to others.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Mitch Johnson says it is scary how Victor Wembanyama is learning that he can control the game even when he is not the one taking the shots or holding the ball.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson explains how Victor Wembanyama is learning to control the game while involving his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "02:26",
+      "summary_phrase": "Jordan McLaughlin's unique value as a reliable veteran",
+      "names_mentioned": [
+        "Jordan McLaughlin"
+      ],
+      "excerpt": "That skill that Jordan McLaughlin has is invaluable.",
+      "quote": "That skill that Jordan McLaughlin has is invaluable. If there is something that I would try to preach to every young player, I understand they all want to be All-NBA, All-Stars and make 500 million dollars, but if you want to stick in this league, that skill that Jordan McLaughlin has is invaluable. When you are a coach or a program and you're looking for reliability, there's only three or four guys typically that are going to take a certain amount of shots and play X amount of minutes. When you have someone that you can just call upon and they're ready to go, that is very helpful for a coach to sleep at night.",
+      "text_blocks": [],
+      "start_seconds": 146,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Mitch Johnson calls Jordan McLaughlin a model for young players, saying his reliability is an invaluable skill that helps a coach sleep at night.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jordan McLaughlin"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson praises Jordan McLaughlin for his reliability as a veteran player.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mitch Johnson",
+      "timestamp": "03:30",
+      "summary_phrase": "NBA roster trends toward younger, less experienced players",
+      "names_mentioned": [],
+      "excerpt": "Our league has gotten younger, much younger the last decade or so, two decades or so.",
+      "quote": "Our league has gotten younger, much younger the last decade or so, two decades or so. And I think it's a maturity thing. It's really hard for young people to at times embrace that. When you watch this league years ago, a lot of the bench players were adults. They were 30 plus, they'd been around the league, they'd seen the good, the bad, the ugly, and they understood what stuff was supposed to look like. A lot of our bench players are younger and this is not an indictment on them, but they just don't know.",
+      "text_blocks": [],
+      "start_seconds": 210,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Mitch Johnson notes that the NBA has gotten much younger over the last two decades, pointing out that bench players used to be 30 plus and now lack that veteran experience.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the trend of younger players filling bench roles across the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mitch Johnson",
+      "timestamp": "05:35",
+      "summary_phrase": "Representation and opportunity for Black head coaches",
+      "names_mentioned": [],
+      "excerpt": "You hope that it continues to make other people feel whether it's an opportunity to be head coach.",
+      "quote": "For me at least, a lot of times when things get associated or referenced to, you don't necessarily think about it. I don't necessarily think about being one of the nine Black head coaches in this league, but I do think when I think about it or it gets brought up, you hope that it continues to make other people feel whether it's an opportunity to be head coach in this league or just opportunities in general are continuing to be more robust and obtainable.",
+      "text_blocks": [],
+      "start_seconds": 335,
+      "end_seconds": 368,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Mitch Johnson reflects on being one of nine Black head coaches in the NBA, saying he hopes it shows that opportunities in the league are becoming more robust and obtainable.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson reflects on his role as one of the Black head coaches in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "M4zHT5qecCc",
+  "url": "https://www.youtube.com/watch?v=M4zHT5qecCc",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-15T22:08:23Z",
+  "duration_seconds": 425,
+  "processed_at": "2026-11-16T23:25:11Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false
+}

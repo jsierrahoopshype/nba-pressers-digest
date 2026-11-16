@@ -1,0 +1,110 @@
+{
+  "video_title": "Cooper Flagg Postgame Interview | Mavericks vs. Celtics | Nov. 15, 2026",
+  "speakers_seen": [
+    "Cooper Flagg"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Cooper Flagg",
+      "timestamp": "01:02",
+      "summary_phrase": "Cooper Flagg on the Mavericks' lack of competitive intensity",
+      "names_mentioned": [],
+      "excerpt": "I don't think we competed at a high enough level throughout the three games.",
+      "quote": "I just think we competed. I don't think we competed at a high enough level throughout the three games. We have to be at something that is controllable for us. The shots, make or miss, is out of our control. I think just competing at a really, really high level is something that we can do a lot better, and something I thought we were doing before this road trip. I think we kind of got away from that identity throughout these three games.",
+      "text_blocks": [],
+      "start_seconds": 62,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Cooper Flagg says the Mavericks have lost their identity during this road trip: I do not think we competed at a high enough level throughout the three games. We have to be at something that is controllable for us.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg reflects on the Mavericks' lack of competitive intensity during their recent three-game road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Cooper Flagg",
+      "timestamp": "02:46",
+      "summary_phrase": "Cooper Flagg on the Celtics' high level of competition",
+      "names_mentioned": [
+        "Jason Tatum"
+      ],
+      "excerpt": "The level of competitive nature that they showed, one through 10, one through 11, one through 12.",
+      "quote": "They played, for the most part, 10 guys that were getting a lot of minutes. The level of competitive nature that they showed, one through 10, one through 11, one through 12, even at the end of the game when their bench was in. The level that they were competing at is something that we need to look at and look in the mirror and decide if we're competing at that same level. If we want it as bad as they did, I don't think we did from the start of the game.",
+      "text_blocks": [],
+      "start_seconds": 166,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Cooper Flagg was impressed by the Celtics depth and intensity: The level that they were competing at is something that we need to look at and look in the mirror and decide if we are competing at that same level.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg discusses the high level of competition displayed by the Celtics compared to his own team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cooper Flagg",
+      "timestamp": "03:37",
+      "summary_phrase": "Cooper Flagg on the need for veteran leadership",
+      "names_mentioned": [],
+      "excerpt": "It's going to start with our vets, our leaders. I need to step up.",
+      "quote": "It's going to start with our vets, our leaders. I need to step up and be a lot better. I need to reset, get my body back right, get to a good spot mentally. I think just starting with our older guys, we got to set the tone and show that we're not just going to fold, we're not going to flop over from a tough stretch. We need to come back swinging, and like I said, just get back to competing. I think that's where it starts.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 251,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Cooper Flagg on the Mavericks recent struggles: It is going to start with our vets, our leaders. I need to step up and be a lot better. We need to come back swinging and just get back to competing.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg emphasizes the need for veteran leadership and personal accountability to improve the team's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "C-yiRvfxUV0",
+  "url": "https://www.youtube.com/watch?v=C-yiRvfxUV0",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-16T02:47:51Z",
+  "duration_seconds": 341,
+  "processed_at": "2026-11-16T23:24:35Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

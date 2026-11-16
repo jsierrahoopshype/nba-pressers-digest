@@ -1,0 +1,153 @@
+{
+  "video_title": "Dusty May Postgame Press Conference | Mavericks vs. Celtics | Nov. 15, 2026",
+  "speakers_seen": [
+    "Dusty May"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dusty May",
+      "timestamp": "00:00",
+      "summary_phrase": "Dusty May on the Celtics' ability to capitalize on mistakes",
+      "names_mentioned": [
+        "Tatum"
+      ],
+      "excerpt": "they seemed to make us pay for every mistake",
+      "quote": "We had a tough evening against a very good Celtics team that seemed to make us pay for every mistake. Obviously, Tatum then takes over late. Anytime we tried to make a run, they were able to answer, but I think we fought, battled, and competed, especially our young guys late, and using those possessions against the Celtics team, hopefully, will be invaluable down the line.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dusty May on the loss to Boston: We had a tough evening against a very good Celtics team that seemed to make us pay for every mistake. Anytime we tried to make a run they were able to answer.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "DAL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Dusty May discusses the Mavericks' loss to the Celtics and Jayson Tatum's late-game performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dusty May",
+      "timestamp": "01:02",
+      "summary_phrase": "Dusty May on Nick Cooper's development and decision-making",
+      "names_mentioned": [
+        "Nick Cooper"
+      ],
+      "excerpt": "he knows how important just development in the whole is",
+      "quote": "He gets to the next thing well, and being 19, he knows how important just development in the whole is. His passing, still, I thought he got us, I thought he created really good looks for us. The Celtics, their length, the way they scramble and rotate and cover each other, they get a late contest on everything, and we weren't able to knock it down, but I do think Nick Cooper made a lot of really good decisions with the ball in his hands tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 62,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Dusty May praised Nick Cooper for his decision making tonight despite the loss saying he created really good looks for the team against a long Celtics defense.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nick Cooper"
+        ],
+        "teams": [
+          "DAL",
+          "BOS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Dusty May evaluates Nick Cooper's performance and decision-making against the Celtics' defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dusty May",
+      "timestamp": "02:27",
+      "summary_phrase": "Dusty May on the team's need to improve and shrink margins",
+      "names_mentioned": [],
+      "excerpt": "we got to focus on improvement getting better and shrinking the margins",
+      "quote": "We have a lot of work to do. With our lineup and getting guys back healthy, having guys in and out of the lineup, we just got to focus on improvement getting better and shrinking the margins. Right now, we don't have the margins to to give up the offensive rebounds or to have the unforced errors or the turnovers. So we just got to clean that up and really just focus on our processes.",
+      "verbatim_original_language": "",
+      "start_seconds": 147,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Dusty May says the Mavericks have a lot of work to do to shrink their margins as they deal with injuries and lineup changes: Right now we do not have the margins to give up offensive rebounds or have unforced errors.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Dusty May addresses the need for the team to improve and get injured players back into the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dusty May",
+      "timestamp": "04:29",
+      "summary_phrase": "Dusty May on the challenges of developing a rookie",
+      "names_mentioned": [
+        "Rez"
+      ],
+      "excerpt": "success is never linear and never happens the way we want to",
+      "quote": "I don't think Rez is happy with the way it's going. He missed most of camp, missed all practice, now the ball's not going in, but success is never linear and never happens the way we want to. There's no one that wants it more for him or is putting in more to have it go well, and it just hasn't yet. And I think when you look across the NBA, the 82-game rookie season, very few guys just have that steady growth process, and there's going to be bumps in the road.",
+      "verbatim_original_language": "",
+      "start_seconds": 269,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Dusty May on the struggles of rookie Rez: Success is never linear and never happens the way we want to. He missed most of camp and practice and the ball is not going in but there are going to be bumps in the road.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rez"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May discusses the challenges and non-linear development process for rookie player Rez.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "5mO1aTv-56I",
+  "url": "https://www.youtube.com/watch?v=5mO1aTv-56I",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-16T02:41:52Z",
+  "duration_seconds": 316,
+  "processed_at": "2026-11-16T23:24:37Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

@@ -1,0 +1,172 @@
+{
+  "video_title": "Dusty May Postgame Press Conference | Mavericks vs. Cavaliers | Nov. 14, 2026",
+  "speakers_seen": [
+    "Dusty May"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dusty May",
+      "timestamp": "00:02",
+      "summary_phrase": "Dusty May critiques Mavericks' lack of urgency against Cavaliers",
+      "names_mentioned": [],
+      "excerpt": "we didn't match their desire and determination to compete and everyone in our travel party needs to be better",
+      "quote": "Disappointing performance by us as a group. We didn't match their desire and determination to compete and everyone in our travel party needs to be better. But hats off to Cleveland. Those guys got off a plane and they were ready to compete at a high level, and they threw the first punch, and then the second quarter, the shot-making was impressive and they were able to build a lead and we were playing from behind the rest of the game.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Dusty May was not happy with the Mavericks effort tonight saying they did not match the desire and determination of the Cavaliers and that everyone in the travel party needs to be better",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Dusty May reflects on the Mavericks' loss to the Cavaliers after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dusty May",
+      "timestamp": "00:36",
+      "summary_phrase": "Dusty May identifies defensive struggles and isolation defense as key issues",
+      "names_mentioned": [],
+      "excerpt": "our inability to guard one-on-one was the biggest issue and then they were able to get behind our defense",
+      "quote": "Our inability to guard one-on-one was the biggest issue and then they were able to get behind our defense, our switches. I thought their passing, but their isolation offense and shot-making was the difference.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Dusty May points to isolation defense as the primary culprit for the loss tonight noting that the inability to guard one on one and defensive lapses were the difference",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May explains the defensive failures that led to the Mavericks' loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dusty May",
+      "timestamp": "00:50",
+      "summary_phrase": "Dusty May admits Mavericks lacked urgency in first half",
+      "names_mentioned": [],
+      "excerpt": "we definitely didn't play with the right level of urgency",
+      "quote": "We definitely didn't play with the right level of urgency.",
+      "text_blocks": [],
+      "start_seconds": 50,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dusty May admits the Mavericks lacked urgency in the first half against Cleveland",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May comments on the lack of urgency shown by his team during the first half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dusty May",
+      "timestamp": "01:21",
+      "summary_phrase": "Dusty May discusses Kyrie Irving's role and team's need for better defense",
+      "names_mentioned": [
+        "Kyrie Irving"
+      ],
+      "excerpt": "he's picking the spots and obviously he's garnering a lot of attention",
+      "quote": "He's picking the spots and obviously he's garnering a lot of attention and I think he's getting some other guys really good looks and we just as a group we need to play better, we need to shoot better, we definitely need to defend and rebound at a much higher level with more urgency.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dusty May says Kyrie Irving is drawing plenty of attention and creating good looks but the team as a whole needs to defend and rebound at a much higher level",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May discusses Kyrie Irving's offensive impact and the team's overall need for improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dusty May",
+      "timestamp": "02:09",
+      "summary_phrase": "Dusty May praises recent performance of Dereck Lively II",
+      "names_mentioned": [
+        "Dereck Lively II"
+      ],
+      "excerpt": "I've been impressed on film, he's really improved, seems like he gets better, he's playing with a high level of confidence",
+      "quote": "I've been impressed on film, he's really improved, seems like he gets better, he's playing with a high level of confidence and then these guys with speed, size and shooting ability, they've been able to line us up and play really, really good one-on-one basketball and those guys are in a league both. I mean those guys are really, really good one-on-one players.",
+      "text_blocks": [],
+      "start_seconds": 129,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Dusty May says he has been impressed with the recent play of Dereck Lively II noting that he is playing with a high level of confidence",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May praises the recent development and confidence of Dereck Lively II.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "PvXUu76ppPA",
+  "url": "https://www.youtube.com/watch?v=PvXUu76ppPA",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-15T03:34:02Z",
+  "duration_seconds": 220,
+  "processed_at": "2026-11-16T23:25:34Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

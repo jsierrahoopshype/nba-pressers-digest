@@ -1,0 +1,233 @@
+{
+  "video_title": "Zaccharie Risacher Postgame Interview | Mavericks vs. Celtics | Nov. 15, 2026",
+  "speakers_seen": [
+    "Zaccharie Risacher"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "00:11",
+      "summary_phrase": "Zaccharie Risacher on the Mavericks' need for greater effort and aggression",
+      "names_mentioned": [],
+      "excerpt": "we got to pull more efforts, we got to play together",
+      "quote": "I feel we got to pull more efforts, we got to play together. It was a tough road trip and yeah, we got to stick together, play harder, and I feel like also be more, be more aggressive.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Zaccharie Risacher says the Mavericks need to play with more effort and aggression after a tough road trip. He emphasizes that the team must stick together to turn things around.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Zaccharie Risacher discusses the team's need for increased effort and aggression following a road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "00:47",
+      "summary_phrase": "Zaccharie Risacher on playing alongside Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "he's an amazing, amazing player. Just his space, the way the way he control the game",
+      "quote": "He's an amazing, amazing player. Just his space, the way the way he control the game, the way he get to his spot, I feel like that's really, really impressive. And watching him and just being being around him, it's it's great and I feel lucky, feel lucky to be able to play with him.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Zaccharie Risacher on playing with Luka Doncic: He says it is really impressive to watch how Luka controls the game and gets to his spots. He feels lucky to be his teammate.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zaccharie Risacher praises his teammate Luka Doncic for his impressive control of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "01:34",
+      "summary_phrase": "Zaccharie Risacher on Luka Doncic's leadership and communication style",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "he's a good communicator. I feel like he always say smart things",
+      "quote": "I think he's a good communicator. I feel like he always say smart things and I feel like he he's a good leader and the way the way he play also, I feel like everybody want to, you know, follow, follow him, and I'm talking about, you know, defensively, offensively, just setting the tone.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Zaccharie Risacher calls Luka Doncic a good leader and communicator who sets the tone for the Mavericks on both ends of the floor.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zaccharie Risacher describes Luka Doncic as a good communicator and leader who sets the tone for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "02:51",
+      "summary_phrase": "Zaccharie Risacher on the Mavericks' need to execute their game plan better",
+      "names_mentioned": [],
+      "excerpt": "we got to execute the game plan a little bit better, a lot better",
+      "quote": "We got to start from us players, you know, because we are, I mean we watching the film, we got to execute the game plan a little bit better, a lot better. And I feel like it started like it started with the with us players.",
+      "text_blocks": [],
+      "start_seconds": 171,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Zaccharie Risacher says the Mavericks need to execute their game plan a lot better and that the responsibility starts with the players.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Zaccharie Risacher emphasizes that the players need to execute the team's game plan more effectively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "03:26",
+      "summary_phrase": "Zaccharie Risacher on the team's need for resilience after taking hits",
+      "names_mentioned": [],
+      "excerpt": "we got to stick together as a team to make sure we're getting back",
+      "quote": "During this road trip we've been maybe a little bit too much sensitive, but you know, like we we take a hit and then we got to stick together as a team to make sure we're getting back. And I know the other guys in the locker room, they they're winners, we're winners and that's not that's not the way we want to play.",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Zaccharie Risacher admits the Mavericks have been a little too sensitive during their road trip and says the team needs to show more resilience when they take a hit.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Zaccharie Risacher reflects on the team's need for resilience after a difficult road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "04:15",
+      "summary_phrase": "Zaccharie Risacher on the Celtics' defensive pressure and shooting performance",
+      "names_mentioned": [],
+      "excerpt": "they were super aggressive on defense and on the other end, the way they were shooting",
+      "quote": "They were super aggressive on defense and on the other end, the way they were shooting the ball hurt us mentally and I feel like we did like we didn't we never play our game. It was kind of let them dictate the pace of the game and like I say that's not who we want to be.",
+      "text_blocks": [],
+      "start_seconds": 255,
+      "end_seconds": 277,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Zaccharie Risacher says the Celtics' shooting performance hurt the Mavericks mentally and allowed Boston to dictate the pace of the game.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Zaccharie Risacher discusses how the Celtics' defensive pressure and shooting performance impacted the Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "05:33",
+      "summary_phrase": "Zaccharie Risacher on the importance of pace and ball movement against the Celtics",
+      "names_mentioned": [],
+      "excerpt": "if we're making the stops and we push in the ball, we play a little bit faster",
+      "quote": "On the other end, we making like we making the stops and we pushing the ball, we play a little bit faster, their their defense doesn't have time to get settled and they will get easy basket and the flow of the game is a little bit different. So I feel like that could have helped us and also like on this defensive like this, we got to share the ball a little bit more.",
+      "text_blocks": [],
+      "start_seconds": 333,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Zaccharie Risacher believes the Mavericks could have had more success against the Celtics if they pushed the pace and shared the ball more to keep the defense from getting settled.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Zaccharie Risacher explains that playing with more pace and sharing the ball would have helped against the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "xfUZqo_a74s",
+  "url": "https://www.youtube.com/watch?v=xfUZqo_a74s",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-16T02:49:12Z",
+  "duration_seconds": 378,
+  "processed_at": "2026-11-16T23:24:37Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

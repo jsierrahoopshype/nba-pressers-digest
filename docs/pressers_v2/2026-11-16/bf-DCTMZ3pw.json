@@ -1,0 +1,185 @@
+{
+  "video_title": "Jayson Tatum: I'm STILL Not 100% Healthy After Achilles Injury | Celtics vs Mavericks Postgame",
+  "speakers_seen": [
+    "Jayson Tatum"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jayson Tatum",
+      "timestamp": "00:47",
+      "summary_phrase": "Jayson Tatum on the development of young Celtics players",
+      "names_mentioned": [
+        "Jordan Walsh",
+        "Jayson Tatum"
+      ],
+      "excerpt": "We got a really, really good team and I think it really just starts with our depth.",
+      "quote": "We got a really, really good team and I think it really just starts with our depth. Especially in that fourth, that fifth spot of whoever we want to implement and start, whether it's Hulo, whether it's Baylor, whether it's Jayson Walsh, all those guys are interchangeable and more than capable. Whether it's on the defensive end, knocking down shots, or crashing, those guys have been really, really good this year. Chris is going to be good. I mean Chris is good now, but he's really, really going to be good.",
+      "verbatim_original_language": "",
+      "start_seconds": 47,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jayson Tatum praises the depth of the Celtics roster, highlighting the interchangeable nature of the team's role players and their impact on both ends of the floor.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Hulo",
+          "Baylor",
+          "Jayson Walsh",
+          "Chris"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jayson Tatum discusses the depth and development of young players on the Celtics roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jayson Tatum",
+      "timestamp": "01:40",
+      "summary_phrase": "Jayson Tatum on his leadership approach with young teammates",
+      "names_mentioned": [],
+      "excerpt": "Just try to empower everybody and make sure they understand that they're valued and they're needed.",
+      "quote": "Just try to empower everybody and make sure they understand that they're valued and they're needed. When you're on the floor, we expect big things and we expect you to make plays because you can.",
+      "verbatim_original_language": "",
+      "start_seconds": 100,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on his leadership style, saying he tries to empower his teammates and ensure they know they are valued and expected to make plays when on the floor.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum explains his leadership philosophy regarding empowering his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jayson Tatum",
+      "timestamp": "02:35",
+      "summary_phrase": "Jayson Tatum on defensive strategy against Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "With any of the best players in the league, obviously he's super gifted and talented.",
+      "quote": "With any of the best players in the league, obviously he's super gifted and talented. He's still young, but the sky's the limit for him. Take away tendencies, try to make things tough. Guys like that always want to try to figure out a way, but you just want to make them work for it. We got a really good defensive team and we fly around, and that's all we can try to do is try to make it work for him.",
+      "verbatim_original_language": "",
+      "start_seconds": 155,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jayson Tatum on defending Luka Doncic: The goal is to take away his tendencies and make him work for everything because he is a super gifted and talented player.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "BOS",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum describes the defensive strategy the Celtics use to contain Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jayson Tatum",
+      "timestamp": "03:18",
+      "summary_phrase": "Jayson Tatum on his relationship with Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "I've been a fan of his obviously since watching him in high school.",
+      "quote": "I've seen him a couple times this summer and obviously I see him when we play. I know he's a busy guy, but I've been a fan of his obviously since watching him in high school and obviously at Duke and what he's done thus far in the league has been incredible. It's going to be fun to watch him as his career continues to grow and see him do a lot of special things.",
+      "verbatim_original_language": "",
+      "start_seconds": 198,
+      "end_seconds": 227,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jayson Tatum reflects on his respect for Luka Doncic, noting he has been a fan of his game since watching him in high school and expects him to do special things in the league.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "BOS",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum shares his admiration for Luka Doncic and his career trajectory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jayson Tatum",
+      "timestamp": "04:32",
+      "summary_phrase": "Jayson Tatum on his recovery from an Achilles injury",
+      "names_mentioned": [],
+      "excerpt": "I'm not 100% yet. I'm getting there though.",
+      "quote": "I'm not 100% yet. I'm getting there though. It's just time. I've done a lot of research on Achilles rehab and a lot of the specialists and research says a lot of guys 12 months after they come back is when they kind of feel, I mean obviously I came back a little early, but per the research and stuff like that, I'm still kind of in return to play phase. I feel a little bit better every single day and that's the goal and I'm certainly not going to get there, hopefully sooner than later.",
+      "verbatim_original_language": "",
+      "start_seconds": 272,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 5,
+      "social_post": "Jayson Tatum admits he is still not 100 percent healthy following his Achilles injury, noting that he is still in the return to play phase and continues to feel better every day.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jayson Tatum provides an update on his physical recovery process following an Achilles injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "bf-DCTMZ3pw",
+  "url": "https://www.youtube.com/watch?v=bf-DCTMZ3pw",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-16T02:13:03Z",
+  "duration_seconds": 336,
+  "processed_at": "2026-11-16T23:24:51Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

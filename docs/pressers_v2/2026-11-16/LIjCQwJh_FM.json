@@ -1,0 +1,223 @@
+{
+  "video_title": "Houston Rockets Postgame: Ime Udoka talks win and Kevin Durant",
+  "speakers_seen": [
+    "Ime Udoka"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ime Udoka",
+      "timestamp": "00:32",
+      "summary_phrase": "Ime Udoka on Aaron Holiday's return to the lineup",
+      "names_mentioned": [
+        "Aaron Holiday"
+      ],
+      "excerpt": "it's going to take some time to get his wind back, but those four minute stints",
+      "quote": "Aaron Holiday is going to take some time to get his wind back, but those four minute stints, even in those, you can see what he does for us and he was dominant in one of them, I think the third stretch, a bunch of offensive rebounds, freeing guys up, making some nice passes, so good to see the rhythm getting back and the IQ and experience that he brings and what he brings to the table is still there.",
+      "text_blocks": [],
+      "start_seconds": 32,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ime Udoka says Aaron Holiday is still working on his conditioning but praised his IQ and impact on the glass in his return to the Rockets rotation.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Holiday"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ime Udoka discusses Aaron Holiday's performance and return to the lineup following the team's victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ime Udoka",
+      "timestamp": "00:54",
+      "summary_phrase": "Ime Udoka on playing small ball versus big lineups",
+      "names_mentioned": [],
+      "excerpt": "I do feel our small ball or traditional one big was much quicker",
+      "quote": "They play a lot of big, but I do feel our small ball or traditional one big was much quicker and with the pace and that's what kind of blew it open.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ime Udoka credits the Rockets win to their small ball lineup speed, noting that playing with pace helped them blow the game open against a bigger opponent.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ime Udoka explains the effectiveness of the team's small ball lineup against the opponent's larger frontcourt.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ime Udoka",
+      "timestamp": "01:13",
+      "summary_phrase": "Ime Udoka on Amen Thompson's offensive performance",
+      "names_mentioned": [
+        "Amen Thompson"
+      ],
+      "excerpt": "I like how he played off the ball, got to his spots in the corner",
+      "quote": "Amen Thompson had the ball in his hands, obviously with Fred out, but I like how he played off the ball, got to his spots in the corner, slashed behind it, got out in transition, anytime we run, he's going to be a big recipient of that and so just a well all-around efficient game, nine for 11 from the field and obviously knocking down the threes as well, but just as important as that was his defense on Young, holding him to zero for four.",
+      "text_blocks": [],
+      "start_seconds": 73,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Ime Udoka praised Amen Thompson for an efficient night against the Suns, highlighting his 9 for 11 shooting and his defensive effort holding Young to 0 for 4 from the field.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Amen Thompson",
+          "Fred VanVleet",
+          "Trae Young"
+        ],
+        "teams": [
+          "HOU",
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ime Udoka evaluates Amen Thompson's offensive and defensive contributions during the game while Fred VanVleet was sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ime Udoka",
+      "timestamp": "01:40",
+      "summary_phrase": "Ime Udoka on Kevin Durant's playmaking and passing",
+      "names_mentioned": [
+        "Kevin Durant"
+      ],
+      "excerpt": "when the team doubles him like they did tonight, take care of the ball",
+      "quote": "Kevin Durant is going to have the ball in his hands quite a bit and when the team doubles him like they did tonight, take care of the ball and get it to the guys and they'll make shots and so just like we went after Young quite a bit and they made some shots early, they did the same thing with Kevin from the start and as we were able to get those stops and run, they can't double as well so he got some easy baskets, but in the half court there we were going after him and he made the right play.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Ime Udoka on the defensive plan against Kevin Durant: when the Rockets were able to get stops and run, it prevented the Suns from doubling effectively, allowing them to limit his impact.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Durant",
+          "Trae Young"
+        ],
+        "teams": [
+          "HOU",
+          "PHX",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Ime Udoka analyzes the defensive strategy used against Kevin Durant and how the team managed his playmaking abilities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ime Udoka",
+      "timestamp": "02:26",
+      "summary_phrase": "Ime Udoka on Amen Thompson's athleticism and decision-making",
+      "names_mentioned": [
+        "Amen Thompson"
+      ],
+      "excerpt": "he has to learn to not just go one speed",
+      "quote": "I think Amen Thompson has to learn to not just go one speed, just put his head down the whole time and he's so explosive that if he does that, he still can plant and finish and so felt like he was more balanced as far as that tonight, not just playing at that 100 mile an hour pace and we got some favorable matchups that he liked and kind of broke some plays off and went ISO and got to the basket or made some nice passes and so he's a freak of nature athletically and can do those things, it's just a matter of mixing it in and not just doing the same thing every time.",
+      "text_blocks": [],
+      "start_seconds": 146,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Ime Udoka says Amen Thompson is a freak of nature athletically but needs to learn to play at different speeds rather than just going 100 miles an hour every time he has the ball.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Amen Thompson"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka discusses the need for Amen Thompson to vary his pace and improve his decision-making on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ime Udoka",
+      "timestamp": "03:35",
+      "summary_phrase": "Ime Udoka on Amen Thompson's shot selection and confidence",
+      "names_mentioned": [
+        "Amen Thompson"
+      ],
+      "excerpt": "you want him to take the shots when you're ready to take them",
+      "quote": "It's a mix, you want him to take the shots when you're ready to take them and not just settle for what the defense is doing. A few times he was in the corners, he slashed behind and got dunks, got to the basket and a few times he stayed out and got threes and so he's reading the defense and how they're guarding, if he can get behind he got some of those lobs and so you want him to take them but also do the things that he does really well, which is slash and finish at the basket, but the fact that he's taking them is a great thing, being confident as far as that and he's putting in the work to improve as a shooter and so time will come that he takes them more at a higher clip.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 263,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Ime Udoka is happy with Amen Thompson's growing confidence as a shooter, noting that he is putting in the work to improve while continuing to focus on his elite ability to slash and finish at the rim.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Amen Thompson"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka comments on Amen Thompson's shot selection and his growing confidence as a perimeter shooter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "LIjCQwJh_FM",
+  "url": "https://www.youtube.com/watch?v=LIjCQwJh_FM",
+  "channel_team": "Houston Rockets",
+  "published": "2026-11-16T02:53:04Z",
+  "duration_seconds": 263,
+  "processed_at": "2026-11-16T23:24:24Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

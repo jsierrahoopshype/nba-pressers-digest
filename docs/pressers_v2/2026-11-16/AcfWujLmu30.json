@@ -1,0 +1,146 @@
+{
+  "video_title": "Mitch Johnson on Dylan Harper's Career Performance vs. Utah",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:13",
+      "summary_phrase": "Mitch Johnson on Dylan Harper's talent and defensive growth",
+      "names_mentioned": [
+        "Dylan Harper"
+      ],
+      "excerpt": "when he's in attack mode and switched on defensively, he is at his young age one of the better players",
+      "quote": "Dylan Harper has a lot of talent. I would like to say that I was drawing up a bunch of great plays, but he is very, very talented. It took him a while to get going, and I thought he was a little lethargic in the first half. But when he's in attack mode and switched on defensively, he is at his young age one of the better players in this league. The more he can make it more consistent in the 48 minutes, he is going to be really tough and he is going to make us that much better.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mitch Johnson on Dylan Harper: When he is in attack mode and switched on defensively he is at his young age one of the better players in this league",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan Harper"
+        ],
+        "teams": [
+          "SAS",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Spurs coach Mitch Johnson discusses Dylan Harper's performance and defensive growth following a game against the Utah Jazz.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:48",
+      "summary_phrase": "Mitch Johnson on Kelvon Johnson's evolution and team impact",
+      "names_mentioned": [
+        "Kelvon Johnson"
+      ],
+      "excerpt": "I don't know if anybody in this league has ever had the evolution with the same organization as Kelvon Johnson",
+      "quote": "I don't know if anybody in this league has ever had the evolution with the same organization as Kelvon Johnson. The way he is playing this year, there are many nights the top three highlights or things that he has done for the team is not anything to do with him scoring. It is stunning at times, also very rewarding and very cool to see. It is just another example of how he has been the heart and soul of this team now for some years.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Mitch Johnson on Kelvon Johnson: The way he is playing this year there are many nights the top three highlights for the team have nothing to do with him scoring",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kelvon Johnson"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson reflects on the career evolution and team impact of Kelvon Johnson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:18",
+      "summary_phrase": "Mitch Johnson on Kelvon Johnson's selfless defensive development",
+      "names_mentioned": [
+        "Kelvon Johnson"
+      ],
+      "excerpt": "I don't think I've seen someone grow into that with so many previous iterations of who they are",
+      "quote": "I don't think I've seen someone grow into that with so many previous iterations of who they are. I think there have been some people that that's kind of what they hang their hat on, but for him now to be the defender that we've asked him to be, the rebounder, the connector offensively, for a guy that at some stage was pretty much known for putting the ball in the bucket and then everything was after that, quite a quite an evolution.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Mitch Johnson praises the evolution of Kelvon Johnson from a pure scorer to a defender and connector for the team",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kelvon Johnson"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson praises the defensive and offensive development of Kelvon Johnson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:54",
+      "summary_phrase": "Mitch Johnson on the difficulty of winning consecutive games",
+      "names_mentioned": [],
+      "excerpt": "you got to win some ugly games if you're going to win a few in a row",
+      "quote": "Games in this league are hard to come by to win. Games when you play the same team multiple times in short stretches are hard to win. Games when you've won a few in a row or they've lost a few in a row are hard to win because typically percentages equal out and every team in this league is damn good and can beat you on that night. So you got to win some ugly games if you're going to win a few in a row, and it's been good to see our guys find ways to play ugly and still learn some things and then also find a way to be on top at the end of the game.",
+      "text_blocks": [],
+      "start_seconds": 114,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson on the difficulty of winning in the NBA: You have to win some ugly games if you are going to win a few in a row",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson explains the challenges of winning consecutive games in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "AcfWujLmu30",
+  "url": "https://www.youtube.com/watch?v=AcfWujLmu30",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-16T02:30:32Z",
+  "duration_seconds": 150,
+  "processed_at": "2026-11-16T23:24:45Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false
+}

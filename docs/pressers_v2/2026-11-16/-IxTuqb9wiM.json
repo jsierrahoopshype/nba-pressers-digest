@@ -1,0 +1,256 @@
+{
+  "video_title": "Joe Mazzulla and Gary Washburn Share MOVIE Recommendations | Celtics Pregame",
+  "speakers_seen": [
+    "Joe Mazzulla",
+    "Gary Washburn"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joe Mazzulla",
+      "speakers": [],
+      "timestamp": "00:16",
+      "summary_phrase": "Joe Mazzulla on defensive lapses against Desmond Bane",
+      "names_mentioned": [
+        "Desmond Bane"
+      ],
+      "excerpt": "the ones that stick out in the first quarter is we lost Desmond Bane a few times.",
+      "quote": "The ones that stick out in the first quarter is we lost Desmond Bane a few times. Just once on an over-help, twice just lost sight of him there. So you just focus on the ones that you can control. At the same time, every game takes on a life of its own. It could be something completely different tonight. There are tactical things that you can't control. Bane is obviously a guy you don't want to get those type of shots. We have to be better on him.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says the Celtics need to be better at tracking Desmond Bane after losing him on defensive rotations in their last matchup.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Desmond Bane"
+        ],
+        "teams": [
+          "BOS",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses defensive lapses against Desmond Bane during a pregame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joe Mazzulla",
+      "speakers": [],
+      "timestamp": "01:20",
+      "summary_phrase": "Joe Mazzulla on the development and attitude of Jordan Walsh",
+      "names_mentioned": [
+        "Jordan Walsh"
+      ],
+      "excerpt": "he's been very open-minded and just working and getting better. That's all I care about.",
+      "quote": "He played okay. He's got a lot of work to do, but I like his attitude. Since day one, since he came in in the summer, he's been very open-minded and just working and getting better. That's all I care about, especially at this age and stage of where he's at. The result of last night doesn't really matter because of his work ethic and his mentality and how he approaches every day, wants to get better. As long as he keeps that mindset, I think he can do some good things for us.",
+      "text_blocks": [],
+      "start_seconds": 80,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla likes the attitude and work ethic of Jordan Walsh, noting that the young forward has been very open minded since arriving in the summer.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jordan Walsh"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla comments on the work ethic and attitude of Jordan Walsh.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joe Mazzulla",
+      "speakers": [],
+      "timestamp": "02:12",
+      "summary_phrase": "Joe Mazzulla on Jordan Walsh's potential impact on the Celtics",
+      "names_mentioned": [
+        "Jordan Walsh"
+      ],
+      "excerpt": "he understands the role that he could play for us on any given night.",
+      "quote": "He had a good fourth quarter last night. He understands the role that he could play for us on any given night. Doesn't have to just be in a game like last night, it could be in a tight game. He's shown the talent and the ability to play in this league and he's another guy that has obviously off to an unfortunate start with the sickness, but he's been very open-minded and understanding of the role that we need him to play and working towards that.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says Jordan Walsh understands the role he can play for the Celtics and has shown the talent and ability to contribute in this league.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jordan Walsh"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses the potential role and development of Jordan Walsh within the Celtics rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joe Mazzulla",
+      "speakers": [],
+      "timestamp": "02:56",
+      "summary_phrase": "Joe Mazzulla on players learning to get to the free-throw line",
+      "names_mentioned": [
+        "Cooper Flagg",
+        "Jason",
+        "Franz Wagner"
+      ],
+      "excerpt": "all three guys you mentioned have the ability to get downhill and get a guy on your hip.",
+      "quote": "All three guys you mentioned have the ability to get downhill and get a guy on your hip and finish through contact. As players get creative with their footwork and their ability to accelerate and decelerate, the timing of their shot, forcing reach-ins and fouls there. It's definitely something that you can work on and get better at and you can learn from other players in the league. Those guys do a great job at it. Jason shot 17 last time against them, so I'm sure that's a point of emphasis of them trying to keep him off the line.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla explains that getting to the free throw line is a skill players can develop through footwork and learning how to accelerate and decelerate to force fouls.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla explains how players can improve their ability to draw fouls and get to the free-throw line.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joe Mazzulla",
+      "speakers": [],
+      "timestamp": "04:05",
+      "summary_phrase": "Joe Mazzulla on organizational development and pushing players",
+      "names_mentioned": [
+        "Paul",
+        "Nemi"
+      ],
+      "excerpt": "you just push people and push them and push them and push them until the point where they could get beyond.",
+      "quote": "It's an organizational growth and an organizational mindset that we have. Brad Stevens and the scout team find the guys and our development team creates an environment to where you just push people and push them and push them and push them until the point where they could get beyond. That's the space of coaching is you have a ceiling of where you think you are, but we do too, and we have to get to the point where we agree on that or we have to get you to see what we see in you and it just takes time.",
+      "text_blocks": [],
+      "start_seconds": 245,
+      "end_seconds": 284,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla describes the Celtics development philosophy as pushing players until they reach a point where they can get beyond their own perceived ceiling.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brad Stevens"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla describes the organizational philosophy regarding player development and pushing players to reach their potential.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Joe Mazzulla",
+      "speakers": [
+        "Gary Washburn",
+        "Joe Mazzulla",
+        "Gary Washburn",
+        "Unidentified reporter",
+        "Gary Washburn",
+        "Joe Mazzulla"
+      ],
+      "timestamp": "05:44",
+      "summary_phrase": "Joe Mazzulla and Gary Washburn discuss movie recommendations",
+      "names_mentioned": [
+        "Luke Goss",
+        "Richard Gear"
+      ],
+      "excerpt": "it's a tremendous movie on coaching and teaching and how far can you push someone.",
+      "text_blocks": [
+        {
+          "speaker": "Gary Washburn",
+          "text": "I don't know if you saw Officer and a Gentleman?"
+        },
+        {
+          "speaker": "Joe Mazzulla",
+          "text": "Who's that?"
+        },
+        {
+          "speaker": "Gary Washburn",
+          "text": "A movie. Never mind. There is a military movie where the sergeant pushes the private to new heights. He's just like his..."
+        },
+        {
+          "speaker": "Unidentified reporter",
+          "text": "All mine would be Whiplash. Have you seen Whiplash?"
+        },
+        {
+          "speaker": "Gary Washburn",
+          "text": "No."
+        },
+        {
+          "speaker": "Joe Mazzulla",
+          "text": "You haven't seen Whiplash? That's a tremendous movie on coaching and teaching and how far can you push someone. What are they willing to pay? Are they paying the price? And as a coach or a teacher, is it your job to expose themselves to themselves and push them beyond the limit? And if they don't make it, were they ever supposed to make it? And if they do make it, is it because of the stress of the environment that you created and they wanted to be great?"
+        }
+      ],
+      "start_seconds": 344,
+      "end_seconds": 395,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 9,
+      "social_post": "Joe Mazzulla recommends the movie Whiplash to discuss his coaching philosophy, asking how far you can push someone and if they are willing to pay the price to be great.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla and Gary Washburn discuss movies that explore themes of coaching and pushing individuals to their limits.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "-IxTuqb9wiM",
+  "url": "https://www.youtube.com/watch?v=-IxTuqb9wiM",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-16T22:43:37Z",
+  "duration_seconds": 434,
+  "processed_at": "2026-11-16T23:23:51Z",
+  "run_id": "2026-11-16T2322Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
