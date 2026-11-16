@@ -76,9 +76,9 @@ def main() -> int:
             status = "OK "
             if not has_uploads:
                 status = "BAD"
-            elif nickname not in title:
+            elif nickname not in title and not c.get("third_party"):
                 status = "WRONG CHANNEL"
-            elif c["channel_id"] in seen_ids:
+            elif c["channel_id"] in seen_ids and not c.get("title_must_include"):
                 status = f"DUPLICATE of {seen_ids[c['channel_id']]}"
             seen_ids.setdefault(c["channel_id"], c["team"])
             print(f"[{status}] {c['team']:<24} " + (describe(item) if item else c["channel_id"] + "  (not found)"))
@@ -125,10 +125,11 @@ def title_audit(channels: list, config: dict, key: str, rows: dict) -> None:
             continue
         ups = [u for u in list_recent_uploads(uploads_id, key, 50)
                if (parse_iso(u["published"]) or cutoff) >= cutoff]
-        kept = sum(1 for u in ups if not title_filter(u["title"], config))
-        print(f"\n=== {c['team']} ({c['channel_id']}): {kept}/{len(ups)} uploads in the last 7 days pass the title filter ===")
+        kept = sum(1 for u in ups if not title_filter(u["title"], config, c))
+        src = f" [third-party: {item.get('snippet', {}).get('title', '')}]" if c.get("third_party") else ""
+        print(f"\n=== {c['team']}{src} ({c['channel_id']}): {kept}/{len(ups)} uploads in the last 7 days pass the title filter ===")
         for u in ups:
-            reason = title_filter(u["title"], config)
+            reason = title_filter(u["title"], config, c)
             print(f"  {'+' if not reason else '-'} {u['published'][:10]} {u['video_id']} {u['title']}"
                   + (f"   [{reason}]" if reason else ""))
 

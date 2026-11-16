@@ -85,9 +85,41 @@
       "active": true
     },
     {
+      "team": "Boston Celtics",
+      "channel_id": "UCVbz7gN6HGoBXXkhIWMd3Ww",
+      "active": true,
+      "third_party": true,
+      "source_name": "Celtics Press Conferences on CLNS",
+      "exclude_title_keywords": [
+        "reaction",
+        "podcast",
+        "postcast",
+        "analysis",
+        "live show",
+        "watch party"
+      ],
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses."
+    },
+    {
       "team": "Brooklyn Nets",
       "channel_id": "UCTenKHt0h3VjdMvRWP6Lbvw",
       "active": true
+    },
+    {
+      "team": "Brooklyn Nets",
+      "channel_id": "UCXyrfNPmBFzSc4Oyy7K3i4Q",
+      "active": true,
+      "third_party": true,
+      "source_name": "Brooklyn Nets Press Conferences",
+      "exclude_title_keywords": [
+        "reaction",
+        "podcast",
+        "postcast",
+        "analysis",
+        "live show",
+        "watch party"
+      ],
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses."
     },
     {
       "team": "Charlotte Hornets",
@@ -100,6 +132,30 @@
       "active": true
     },
     {
+      "team": "Chicago Bulls",
+      "channel_id": "UC-W2TmgeL6tEzvtvUU7cptg",
+      "active": true,
+      "third_party": true,
+      "source_name": "CHGO Sports",
+      "title_must_include": [
+        "Bulls"
+      ],
+      "include_title_keywords": [
+        "locker room"
+      ],
+      "exclude_title_keywords": [
+        "reaction",
+        "podcast",
+        "postcast",
+        "analysis",
+        "live show",
+        "watch party",
+        "Bulls Postgame:",
+        "GOAT TALK"
+      ],
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses."
+    },
+    {
       "team": "Cleveland Cavaliers",
       "channel_id": "UCOdS-I1sYkKWhtTjMUWP_TA",
       "active": true
@@ -108,6 +164,27 @@
       "team": "Dallas Mavericks",
       "channel_id": "UCZywaCS_y9YOSSAC9z3dIeg",
       "active": true
+    },
+    {
+      "team": "Dallas Mavericks",
+      "channel_id": "UColuD0yUMscjTTPqdVEBznQ",
+      "active": true,
+      "third_party": true,
+      "source_name": "Dallas Sports Journal",
+      "title_must_include": [
+        "Mavericks",
+        "Mavs"
+      ],
+      "exclude_title_keywords": [
+        "reaction",
+        "podcast",
+        "postcast",
+        "analysis",
+        "live show",
+        "watch party",
+        "Full Postgame"
+      ],
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses."
     },
     {
       "team": "Denver Nuggets",
@@ -125,9 +202,65 @@
       "active": true
     },
     {
+      "team": "Golden State Warriors",
+      "channel_id": "UCrGfdyiKjLQXk1vB5xkNv1Q",
+      "active": true,
+      "third_party": true,
+      "source_name": "NBC Sports Bay Area & California",
+      "title_must_include": [
+        "Warriors",
+        "Kerr"
+      ],
+      "any_title": true,
+      "exclude_title_keywords": [
+        "reaction",
+        "podcast",
+        "postcast",
+        "analysis",
+        "live show",
+        "watch party",
+        "postgame live",
+        "pregame live",
+        "Dubs Talk",
+        "preview",
+        "takeaways",
+        "Sharks",
+        "49ers",
+        "Giants",
+        "A's",
+        "watch ",
+        "halftime",
+        " score ",
+        "scores ",
+        "trail ",
+        "lapses"
+      ],
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses.",
+      "recent_uploads": 50
+    },
+    {
       "team": "Houston Rockets",
       "channel_id": "UCVD7l69MVGFq_wzQvbk9HbQ",
       "active": true
+    },
+    {
+      "team": "Houston Rockets",
+      "channel_id": "UCG23mqkEPxxBb--kpmG5UIQ",
+      "active": true,
+      "third_party": true,
+      "source_name": "Rocket Fuel - A Houston Rockets show",
+      "title_must_include": [
+        "Rockets"
+      ],
+      "exclude_title_keywords": [
+        "reaction",
+        "podcast",
+        "postcast",
+        "analysis",
+        "live show",
+        "watch party"
+      ],
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses."
     },
     {
       "team": "Indiana Pacers",
@@ -145,6 +278,29 @@
       "active": true
     },
     {
+      "team": "Los Angeles Lakers",
+      "channel_id": "UCVGemU_b_2kN4mcnB8sIHfg",
+      "active": true,
+      "third_party": true,
+      "source_name": "Lakers Fam",
+      "title_must_include": [
+        "Lakers",
+        "Redick"
+      ],
+      "ignore_global_excludes": [
+        "highlights"
+      ],
+      "exclude_title_keywords": [
+        "reaction",
+        "podcast",
+        "postcast",
+        "analysis",
+        "live show",
+        "watch party"
+      ],
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses."
+    },
+    {
       "team": "Memphis Grizzlies",
       "channel_id": "UCCK5EpWKYrAmILfaZThCV-Q",
       "active": true
@@ -153,6 +309,26 @@
       "team": "Miami Heat",
       "channel_id": "UC8bZbiKoPNRi3taABIaFeBw",
       "active": true
+    },
+    {
+      "team": "Miami Heat",
+      "channel_id": "UCqGXz3L1hjy6N-hzfFMsCbQ",
+      "active": true,
+      "third_party": true,
+      "source_name": "Tobin",
+      "title_must_include": [
+        "Heat",
+        "Spoelstra"
+      ],
+      "exclude_title_keywords": [
+        "reaction",
+        "podcast",
+        "postcast",
+        "analysis",
+        "live show",
+        "watch party"
+      ],
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses."
     },
     {
       "team": "Milwaukee Bucks",
@@ -167,7 +343,10 @@
     {
       "team": "New Orleans Pelicans",
       "channel_id": "UCHvG7tf62PwI04ZRfoptRSw",
-      "active": true
+      "active": true,
+      "max_videos_per_day": 3,
+      "low_priority_per_day": 1,
+      "_comment_cap": "Jorge, Nov 16 2026: too many videos. At most 3 per US Eastern day, only 1 of them pregame/practice/shootaround; player postgame first, then full media sessions, then coaches."
     },
     {
       "team": "New York Knicks",
@@ -192,7 +371,10 @@
     {
       "team": "Phoenix Suns",
       "channel_id": "UCLxlWVVHz2a8SdCfxzVXzQw",
-      "active": true
+      "active": true,
+      "max_videos_per_day": 3,
+      "low_priority_per_day": 1,
+      "_comment_cap": "Jorge, Nov 16 2026: too many videos. At most 3 per US Eastern day, only 1 of them pregame/practice/shootaround; player postgame first, then full media sessions, then coaches."
     },
     {
       "team": "Portland Trail Blazers",
@@ -203,6 +385,45 @@
       "team": "Sacramento Kings",
       "channel_id": "UCSgFigczGdNMilV1K23JgUQ",
       "active": true
+    },
+    {
+      "team": "Sacramento Kings",
+      "channel_id": "UCrGfdyiKjLQXk1vB5xkNv1Q",
+      "active": true,
+      "third_party": true,
+      "source_name": "NBC Sports Bay Area & California",
+      "title_must_include": [
+        "Kings",
+        "Christie"
+      ],
+      "any_title": true,
+      "exclude_title_keywords": [
+        "reaction",
+        "podcast",
+        "postcast",
+        "analysis",
+        "live show",
+        "watch party",
+        "postgame live",
+        "pregame live",
+        "Kings Talk",
+        "preview",
+        "takeaways",
+        "Sharks",
+        "49ers",
+        "Giants",
+        "A's",
+        "LA Kings",
+        "Los Angeles Kings",
+        "watch ",
+        "halftime",
+        " score ",
+        "scores ",
+        "trail ",
+        "lapses"
+      ],
+      "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses.",
+      "recent_uploads": 50
     },
     {
       "team": "San Antonio Spurs",

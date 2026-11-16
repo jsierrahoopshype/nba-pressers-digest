@@ -678,6 +678,8 @@ def clip_from_video_json(data: dict, day: str, video_id: str, secs: int, toleran
     """Build a clip-list entry from a stored per-video JSON (for quotes no
     longer in the 48-hour list, or whose speaker isn't named). With rank,
     only that quote number qualifies."""
+    if data.get("no_clips"):
+        return None   # third-party upload: quotes only, never clipped
     best, best_gap = None, None
     for q in data.get("quotes") or []:
         try:

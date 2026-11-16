@@ -442,7 +442,7 @@ def add_clip_links(md: str) -> str:
             # pair with the block's display number (Nov 7: q=1 next to q=5).
             has_one = has_one or (i + 4 < len(lines) and lines[i + 1] == "" and lines[i + 2].startswith("From: ")
                                   and lines[i + 3] == "" and CLIP_LINK_LINE_RE.match(lines[i + 4]))
-            if not has_one:
+            if not has_one and t.group(1) not in no_clip_ids():
                 out.extend(["", clip_link_line(t.group(1), int(t.group(2)), rank)])
             rank = None
     return "\n".join(out)
@@ -1197,6 +1197,11 @@ def process_video(client, video: dict, team: str) -> tuple[str, dict | None]:
         "run_id": RUN_ID,
         "is_one_off": is_one_off,
     })
+    if video.get("no_clips"):
+        data["no_clips"] = True
+        mark_no_clips(video["video_id"])
+    if video.get("third_party"):
+        data["third_party"] = True
     day_dir = video_day_dir(video)
     atomic_write(day_dir / f"{video['video_id']}.json", json.dumps(data, ensure_ascii=False, indent=2))
     atomic_write(day_dir / f"{video['video_id']}.md", render_markdown(video["video_id"], team, data))
@@ -1454,7 +1459,10 @@ def top_quotes_block(md_paths: list, header: str = TOP_QUOTES_HEADER, coach_rule
         team = from_line_title(pages_safe(data.get("channel_team") or ""))
         lines.extend(["", f"From: [{title}]({source})" + (f" · *{team}*" if team else "")])
         secs = ytq.timestamp_to_seconds(q.get("timestamp") or "0:00")
-        lines.extend(["", clip_link_line(vid, secs, q.get("rank") or n), ""])
+        if data.get("no_clips"):
+            lines.append("")
+        else:
+            lines.extend(["", clip_link_line(vid, secs, q.get("rank") or n), ""])
     lines.extend(["---", ""])
     return lines
 
@@ -1931,6 +1939,8 @@ def build_clip_manifest(run_slot: str, window_hours: int) -> dict:
             processed = parse_iso(data.get("processed_at") or "")
             if not any(t and t >= cutoff for t in (pub, processed)):
                 continue
+            if data.get("no_clips"):
+                continue   # third-party upload: quotes only
             vid = js.stem
             for q in data.get("quotes") or []:
                 if not quote_visible(q):
@@ -2298,14 +2308,153 @@ def filter_video(video: dict, config: dict, cutoff: datetime) -> str:
     return ""
 
 
-def title_filter(title: str, config: dict) -> str:
-    """'' if the title looks like a presser, otherwise a skip reason."""
-    kw = title_keyword_hit(title, config.get("exclude_title_keywords", []))
+def title_filter(title: str, config: dict, channel: dict | None = None) -> str:
+    """'' if the title looks like a presser, otherwise a skip reason.
+
+    Optional per-channel rules (third-party channels, Nov 16 2026):
+      title_must_include      the title must name one of these (a multi-sport or
+                              multi-team channel: "Warriors", "Kerr")
+      exclude_title_keywords  extra words that drop a video on this channel only
+      ignore_global_excludes  global excluded words this channel may use
+                              ("Postgame Interviews x Highlights")
+      include_title_keywords  extra presser words for this channel only
+      any_title               skip the presser-word check (excludes still apply)
+    """
+    channel = channel or {}
+    must = channel.get("title_must_include") or []
+    if must and not title_keyword_hit(title, must):
+        return "title names none of " + ", ".join(must)
+    ignore = {k.lower() for k in channel.get("ignore_global_excludes") or []}
+    excludes = [k for k in config.get("exclude_title_keywords", []) if k.lower() not in ignore]
+    kw = title_keyword_hit(title, excludes + list(channel.get("exclude_title_keywords") or []))
     if kw:
         return f"title contains excluded '{kw}'"
-    if not title_keyword_hit(title, config.get("include_title_keywords", [])):
+    if channel.get("any_title"):
+        return ""
+    if not title_keyword_hit(title, config.get("include_title_keywords", [])
+                             + list(channel.get("include_title_keywords") or [])):
         return "title has no presser keyword"
     return ""
+
+
+# --------------------------------------------------------------------------- #
+# Daily cap per team (Jorge, Nov 16 2026: Pelicans and Suns sent too much).
+# A channel with "max_videos_per_day" gets at most that many videos per US
+# Eastern day (counting what earlier runs already processed), and at most
+# "low_priority_per_day" pregame / practice / shootaround ones. Within a run,
+# player postgame videos go first, then full media sessions, then coaches.
+# --------------------------------------------------------------------------- #
+LOW_PRIORITY_RE = re.compile(r"\b(pre-?\s?game|practice|shoot-?\s?around)\b", re.I)
+_COACH_SURNAME_BY_TEAM: dict | None = None
+
+
+def head_coach_surname(team: str) -> str:
+    global _COACH_SURNAME_BY_TEAM
+    if _COACH_SURNAME_BY_TEAM is None:
+        _COACH_SURNAME_BY_TEAM = {}
+        try:
+            m = json.loads((Path(__file__).resolve().parent / "teams_2026_27.json").read_text(encoding="utf-8"))
+            for t in (m.get("teams") or {}).values():
+                if t.get("team") and t.get("head_coach"):
+                    _COACH_SURNAME_BY_TEAM[t["team"]] = t["head_coach"].split()[-1]
+        except (OSError, ValueError):
+            pass
+    return _COACH_SURNAME_BY_TEAM.get(team, "")
+
+
+def video_tier(title: str, team: str) -> int:
+    """0 player postgame, 1 full media session, 2 coach, 3 pregame/practice/shootaround."""
+    low = title.lower()
+    if LOW_PRIORITY_RE.search(title):
+        return 3
+    surname = head_coach_surname(team).lower()
+    if "coach" in low or (surname and re.search(rf"\b{re.escape(surname)}\b", low)):
+        return 2
+    if "interviews" in low or low.startswith("live"):
+        return 1
+    return 0
+
+
+def eastern_day(iso: str) -> str:
+    dt = parse_iso(iso or "")
+    if not dt:
+        return ""
+    try:
+        from zoneinfo import ZoneInfo
+        return dt.astimezone(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
+    except Exception:
+        return (dt - timedelta(hours=5)).strftime("%Y-%m-%d")
+
+
+def processed_counts_by_day(team: str) -> dict:
+    """{eastern day: (total, low_priority)} of this team's already-processed videos."""
+    out = {}
+    for day_dir in iter_day_dirs()[:4]:   # newest first
+        for js in day_dir.glob("*.json"):
+            if not VIDEO_ID_RE.match(js.stem):
+                continue
+            try:
+                data = json.loads(js.read_text(encoding="utf-8"))
+            except (OSError, ValueError):
+                continue
+            if data.get("channel_team") != team or data.get("is_one_off"):
+                continue
+            d = eastern_day(data.get("published") or "")
+            tot, low = out.get(d, (0, 0))
+            out[d] = (tot + 1, low + (1 if video_tier(data.get("video_title") or "", team) == 3 else 0))
+    return out
+
+
+def apply_daily_caps(queue: list, caps: dict) -> list:
+    """queue: [(team, video)]. caps: team -> (max per day, max low-priority per day)."""
+    if not caps:
+        return queue
+    keep, held = [], {}
+    for team, video in queue:
+        (held.setdefault(team, []) if team in caps else keep).append((team, video))
+    for team, items in held.items():
+        max_day, max_low = caps[team]
+        counts = processed_counts_by_day(team)
+        items.sort(key=lambda tv: (video_tier(tv[1]["title"], team), tv[1].get("published") or ""))
+        for _, video in items:
+            d = eastern_day(video.get("published") or "")
+            tot, low = counts.get(d, (0, 0))
+            is_low = video_tier(video["title"], team) == 3
+            if tot >= max_day or (is_low and low >= max_low):
+                log(f"  [{team}] skip {video['video_id']} ({video['title'][:60]}): daily cap "
+                    f"({tot}/{max_day} today{', ' + str(low) + '/' + str(max_low) + ' pregame/practice' if is_low else ''})")
+                continue
+            counts[d] = (tot + 1, low + (1 if is_low else 0))
+            keep.append((team, video))
+    return keep
+
+
+# --------------------------------------------------------------------------- #
+# Quotes-only videos (third-party channels, Nov 16 2026): their quotes go to
+# the digest, but no "Clip it" / "Send to Slack" links and no clip-list entry,
+# since the footage is someone else's upload. Marked "no_clips" in the JSON.
+# --------------------------------------------------------------------------- #
+_NO_CLIP_IDS: set | None = None
+
+
+def no_clip_ids() -> set:
+    global _NO_CLIP_IDS
+    if _NO_CLIP_IDS is None:
+        _NO_CLIP_IDS = set()
+        for day_dir in iter_day_dirs():
+            for js in day_dir.glob("*.json"):
+                if not VIDEO_ID_RE.match(js.stem):
+                    continue
+                try:
+                    if '"no_clips": true' in js.read_text(encoding="utf-8"):
+                        _NO_CLIP_IDS.add(js.stem)
+                except OSError:
+                    continue
+    return _NO_CLIP_IDS
+
+
+def mark_no_clips(video_id: str) -> None:
+    no_clip_ids().add(video_id)
 
 
 def _flush_std() -> None:
@@ -2465,7 +2614,7 @@ def discover_candidates(channels: list, config: dict, yt_key: str, cutoff: datet
             log(f"  [{team}] no uploads playlist found (channel_id may be wrong)")
             continue
         try:
-            uploads = list_recent_uploads(uploads_id, yt_key, per_channel)
+            uploads = list_recent_uploads(uploads_id, yt_key, int(channel.get("recent_uploads") or per_channel))
         except QuotaExceeded:
             raise
         except Exception as e:
@@ -2479,12 +2628,16 @@ def discover_candidates(channels: list, config: dict, yt_key: str, cutoff: datet
             # all_uploads channels (e.g. HoopsHype's own) take every upload;
             # the duration / livestream / window checks still apply later.
             if not channel.get("all_uploads"):
-                reason = title_filter(up["title"], config)
+                reason = title_filter(up["title"], config, channel)
                 if reason:
                     continue
             forced = channel.get("content_type") or ""
             if forced:
                 up = dict(up, force_content_type=forced)
+            if channel.get("third_party"):
+                up = dict(up, third_party=True, no_clips=True)
+            elif channel.get("clips") is False:
+                up = dict(up, no_clips=True)
             out.append((team, up))
             kept += 1
         log(f"  [{team}] {len(uploads)} recent upload(s), {kept} presser candidate(s) in window")
@@ -2603,7 +2756,7 @@ def main() -> int:
             log(f"  [oneoff] queued {vid} ({m.get('title', '')[:60]}) from {team}")
 
     # Step 3: filter the rotation queue.
-    rotation_queue, per_channel_count = [], {}
+    rotation_queue, per_channel_count, queued_ids = [], {}, set()
     for team, up in candidates:
         vid = up["video_id"]
         if vid in extra_ids:
@@ -2622,6 +2775,11 @@ def main() -> int:
         }
         if up.get("force_content_type"):
             video["force_content_type"] = up["force_content_type"]
+        for flag in ("no_clips", "third_party"):
+            if up.get(flag):
+                video[flag] = True
+        if vid in queued_ids:
+            continue   # two channel entries (e.g. NBC Sports Bay Area for GSW and SAC) found the same video
         if per_channel_count.get(team, 0) >= max_per_channel:
             continue
         reason = filter_video(video, config, cutoff)
@@ -2629,7 +2787,12 @@ def main() -> int:
             log(f"  [{team}] skip {vid} ({video['title'][:60]}): {reason}")
             continue
         rotation_queue.append((team, video))
+        queued_ids.add(vid)
         per_channel_count[team] = per_channel_count.get(team, 0) + 1
+
+    daily_caps = {c["team"]: (int(c["max_videos_per_day"]), int(c.get("low_priority_per_day", 1)))
+                  for c in channels if c.get("max_videos_per_day")}
+    rotation_queue = apply_daily_caps(rotation_queue, daily_caps)
 
     # Newest pressers first; anything past the cap is picked up next run
     # (it's still inside the 48h window and not yet on disk).
