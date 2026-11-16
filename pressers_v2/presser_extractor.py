@@ -2441,6 +2441,17 @@ def discover_candidates(channels: list, config: dict, yt_key: str, cutoff: datet
     for channel in channels:
         team = channel.get("team", channel.get("channel_id", "?"))
         cid = channel.get("channel_id", "")
+        if not cid and channel.get("handle"):
+            # Channel listed by @handle only (1 API unit to resolve).
+            try:
+                data = youtube_api_get("channels", {"part": "id", "forHandle": channel["handle"]}, yt_key)
+                cid = (data.get("items") or [{}])[0].get("id", "")
+            except QuotaExceeded:
+                raise
+            except Exception as e:
+                log(f"  [{team}] handle {channel['handle']} lookup failed: {e}")
+            if not cid:
+                log(f"  [{team}] handle {channel['handle']} not found")
         if not cid:
             continue
         try:
