@@ -1,0 +1,150 @@
+{
+  "video_title": "Hawks vs. Bucks Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:05",
+      "summary_phrase": "Quin Snyder on the second quarter bench unit's impact",
+      "names_mentioned": [
+        "Corey"
+      ],
+      "excerpt": "the beginning of the second quarter, the group that came in just changed the game.",
+      "quote": "The beginning of the second quarter, the group that came in just changed the game. Corey in particular gave us a huge lift. To be able to do that when there's some games you're playing and then you DNP, that kind of competitiveness, that heart, that's why you come back from down 20.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Quin Snyder praised the second quarter bench unit for sparking the comeback against the Bucks, specifically highlighting the heart and competitiveness of Corey after coming off a DNP.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Corey"
+        ],
+        "teams": [
+          "ATL",
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Quin Snyder discusses the impact of the bench unit and Corey's performance during the second quarter of the game against the Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:43",
+      "summary_phrase": "Quin Snyder on CJ's late-game performance",
+      "names_mentioned": [
+        "CJ"
+      ],
+      "excerpt": "CJ made some plays, and we were able to get some stops, and that's the key for us.",
+      "quote": "What we did late in the game, it wasn't perfect, but CJ made some plays, and we were able to get some stops, and that's the key for us.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Quin Snyder on the late game execution against Milwaukee: It was not perfect, but CJ made some plays and we were able to get some stops, and that is the key for us.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "CJ"
+        ],
+        "teams": [
+          "ATL",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder reflects on the team's late-game execution and the plays made by CJ in the loss to the Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:05",
+      "summary_phrase": "Quin Snyder on the team's lack of defensive force",
+      "names_mentioned": [],
+      "excerpt": "we didn't play with enough force where their aggressiveness made it hard for us.",
+      "quote": "We didn't play with enough force where their aggressiveness made it hard for us to have good possessions offensively. When you turn the ball over and you give up defensive rebounds, 25 of their 37 points were generated from our offense. We're not being able to rebound, and to me, we need to play with force. Running is forceful, and if we run, we have a chance to change sides of the floor, move the ball, get in the lane, and that's when good things happen.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Quin Snyder says the Hawks lacked defensive force tonight, noting that 25 of the Bucks points were generated directly from Hawks offensive mistakes and a failure to rebound.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder explains the team's struggles with defensive rebounding and ball security during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:13",
+      "summary_phrase": "Quin Snyder on the bench unit's contribution",
+      "names_mentioned": [
+        "Ray",
+        "Zubie"
+      ],
+      "excerpt": "their teammates understand what they gave us.",
+      "quote": "Their teammates understand what they gave us. Those guys, that's why I mentioned the whole group. But yeah, that whole group that came in the game at that time down, I thought they turned the game. It's hard to be down 20 and win in this league. Everybody knows winning an NBA game, no matter how it looks, is an accomplishment in itself.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Quin Snyder on the comeback win: It is hard to be down 20 and win in this league. Everybody knows winning an NBA game, no matter how it looks, is an accomplishment in itself.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder praises the bench unit's contribution to the team's effort to overcome a 20-point deficit against the Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "Hdpb2fZN8MQ",
+  "url": "https://www.youtube.com/watch?v=Hdpb2fZN8MQ",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-16T03:54:57Z",
+  "duration_seconds": 189,
+  "processed_at": "2026-11-16T08:04:00Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

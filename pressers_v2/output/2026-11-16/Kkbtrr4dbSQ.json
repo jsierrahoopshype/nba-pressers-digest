@@ -1,0 +1,274 @@
+{
+  "video_title": "Darko Rajakovic | Post Game vs New York Knicks | November 15, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:09",
+      "summary_phrase": "Darko Rajakovic on late-game execution and defensive discipline",
+      "names_mentioned": [],
+      "excerpt": "We just lost discipline there for a couple of positions and that gave them life.",
+      "quote": "It happened, we had three, four straight positions that we did not execute our coverages what we were supposed to do, what we were doing whole game. We just lost discipline there for a couple of positions and that gave them life. I thought we had a game under control, we did really good job defensively for the biggest part of the game, but that little stretch there gave them life.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says the Raptors lost their defensive discipline during a critical stretch against the Knicks, which ultimately gave New York the life they needed to come back.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the team's late-game defensive lapses during the post-game press conference following a loss to the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:54",
+      "summary_phrase": "Darko Rajakovic on shooting struggles and missed opportunities",
+      "names_mentioned": [],
+      "excerpt": "We were shooting the ball from three-point line 31%. We missed several layups, we missed some wide open shots.",
+      "quote": "We were shooting the ball from three-point line 31%. We missed several layups, we missed some wide open shots, missed couple of free throws there as well. I mean, you know, all of that adds up, but overall I think we were getting pretty good looks for the biggest part of the game, so ball did not go through the net when we needed it.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the Raptors shooting struggles tonight: We were getting good looks for the biggest part of the game, but the ball just did not go through the net when we needed it.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the team's poor shooting performance and missed opportunities throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:30",
+      "summary_phrase": "Darko Rajakovic on team's current struggles and path to improvement",
+      "names_mentioned": [],
+      "excerpt": "When the wheel gets in the mud, wheel is going to get out of the mud.",
+      "quote": "In my country in Serbia, we have a saying, when the wheel gets in the mud, wheel is going to get out of the mud. You know, so we are right now in the mud and the only way we get out of this is continue to improve, continue to work, continue to put a fight in, continue to watch film, to analyze, to have honest conversations and we are in this together, we are going to figure it out, no doubt about that.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Darko Rajakovic on the Raptors current struggles: In my country in Serbia, we have a saying, when the wheel gets in the mud, the wheel is going to get out of the mud. We are in the mud right now, but we are going to figure it out.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic addresses the team's current struggles and emphasizes the need for continued hard work and analysis to improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:08",
+      "summary_phrase": "Darko Rajakovic on defensive switching and bench contributions",
+      "names_mentioned": [
+        "C.M.B.",
+        "Tiag"
+      ],
+      "excerpt": "We were going into more switching from the start of the game and C.M.B. obviously is really good.",
+      "quote": "We were going into more switching from the start of the game and C.M.B. obviously is really good with that as a switching partner with the rest of the guys there. I thought Tiag brought us really good minutes off the bench there, you know, he played really well with the second unit. We are just trying to find winning formula for our team and what happened tonight does not mean it is going to be same next game.",
+      "verbatim_original_language": "",
+      "start_seconds": 128,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says the team is still experimenting with lineups and switching schemes to find a winning formula, noting that tonight's rotation does not necessarily reflect what they will do in the next game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Koloko",
+          "Tiag"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic explains the defensive switching strategy and praises the contributions of Christian Koloko and Tiag off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:39",
+      "summary_phrase": "Darko Rajakovic on managing Scottie Barnes' return minutes",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "We were keeping Scottie Barnes on on the bench longer stints, you know, we wanted to save him.",
+      "quote": "Yes, we were as you could see we were keeping Scottie Barnes on on the bench longer stints, you know, we wanted to save him as much as possible with the first game coming back, but overtime trapped all of that.",
+      "verbatim_original_language": "",
+      "start_seconds": 159,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic explains that the team had to manage Scottie Barnes' minutes in his return from injury, keeping him on the bench for longer stints to save him, though overtime changed their plans.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic explains the decision to manage Scottie Barnes' minutes during his first game back from injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:57",
+      "summary_phrase": "Darko Rajakovic evaluates Scottie Barnes' performance",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "I think he had a really good game. I think he opened up with a lot of energy.",
+      "quote": "I think he had a really good game. I think he opened up with a lot of energy, gave us a lot of booze there. I thought that he competed whole game.",
+      "verbatim_original_language": "",
+      "start_seconds": 177,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic liked what he saw from Scottie Barnes in his return to the lineup, saying he opened the game with a lot of energy and competed throughout the entire night.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates the performance of Scottie Barnes in his return to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:16",
+      "summary_phrase": "Darko Rajakovic on flexible closing lineups",
+      "names_mentioned": [],
+      "excerpt": "We have a team that's flexible and guys understand that we're trying to win games.",
+      "quote": "A lot of times end of the game is going to be just reading the game. It's getting the matchups, it's depending do we need more offense or different matchup, who's on the court for them, you know, we have a team that's flexible and guys understand that we're trying to win games and try to find winning formula there for us, so we're not going to shy away from trying different guys and I don't see any bad in that.",
+      "verbatim_original_language": "",
+      "start_seconds": 196,
+      "end_seconds": 227,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on his closing lineups: We have a team that is flexible and we are not going to shy away from trying different guys depending on the matchups and whether we need more offense.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic discusses the team's approach to using flexible closing lineups based on game situations and matchups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:08",
+      "summary_phrase": "Darko Rajakovic on defensive strategy and Jamal's contribution",
+      "names_mentioned": [
+        "RJ",
+        "Branson",
+        "Jamal"
+      ],
+      "excerpt": "We were looking for more defensive matchups, specifically on Branson, specifically on guys that because we were switching.",
+      "quote": "We were looking for more defensive matchups, specifically on Branson, specifically on guys that because we were switching a lot. I also I was hoping that the Jamal he did really good job over the course of whole game of touching the paint that he can provide us some spark there offensively as well.",
+      "verbatim_original_language": "",
+      "start_seconds": 248,
+      "end_seconds": 269,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says the defensive game plan against the Knicks was focused on specific matchups to handle their switching defense, while hoping for offensive sparks from Jamal Shead.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Brunson",
+          "Jamal Shead"
+        ],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the defensive strategy used against Jalen Brunson and discusses Jamal Shead's offensive role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "Kkbtrr4dbSQ",
+  "url": "https://www.youtube.com/watch?v=Kkbtrr4dbSQ",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-16T03:37:18Z",
+  "duration_seconds": 271,
+  "processed_at": "2026-11-16T08:04:20Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

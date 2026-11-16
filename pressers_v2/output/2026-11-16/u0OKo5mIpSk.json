@@ -1,0 +1,186 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 11.15.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:08",
+      "summary_phrase": "Taylor Jenkins praises Cassius Stanley's breakout 25-point performance",
+      "names_mentioned": [
+        "Cassius Stanley"
+      ],
+      "excerpt": "He was just relentless, defensive activity, playmaking with the assists, as I said, but just we needed a spark.",
+      "quote": "His spirit and energy, I thought he did that the entirety of the game, making winning play after winning play, ability to touch the paint, playmake. Obviously, it was great that he was knocking down some shots from the outside, but he was just relentless, defensive activity, playmaking with the assists, as I said, but just we needed a spark and it was great for him to have that tonight, take advantage of this opportunity, something that hopefully he continues to build on moving forward.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins praised Cassius Stanley for his 25 point performance tonight, noting that he was relentless with his defensive activity and playmaking while providing the spark the team needed.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cassius Stanley"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins discusses Cassius Stanley's performance during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:43",
+      "summary_phrase": "Taylor Jenkins addresses team's second-quarter collapse and lack of energy",
+      "names_mentioned": [],
+      "excerpt": "The ball was humming. It did not hum in the second quarter and then we lost that 22-point lead.",
+      "quote": "Our energy was there, challenging the guys to have our togetherness, the ball was humming. It did not hum in the second quarter and then we lost that 22-point lead like that because of the grossly obvious plays. Got to clean that up for sure. I thought we did a much better job from the six-minute mark on in the third quarter when I subbed.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins did not mince words about the team losing a 22 point lead in the second quarter, calling the mistakes grossly obvious and emphasizing that they have to clean that up.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins reflects on the team losing a 22-point lead during the second quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:19",
+      "summary_phrase": "Taylor Jenkins explains decision to bench starters in third quarter",
+      "names_mentioned": [
+        "Tyler",
+        "Kyle"
+      ],
+      "excerpt": "I do think we've actually struggled coming out of the third quarter at times.",
+      "quote": "I thought there was just some energy that we didn't have coming out of the third quarter. I do think we've actually struggled coming out of the third quarter at times. The ball wasn't moving, I think it was a collection, it wasn't just those two guys, I mean it took all five starters out and brought in a whole new five group at that six-minute timeout. It was a collection of multiple things, defensive activity lapses, we didn't have the energy, we weren't moving, we talked about at halftime, wasn't the case coming out of the break.",
+      "text_blocks": [],
+      "start_seconds": 79,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins explained his decision to bench all five starters in the third quarter, citing a lack of energy and ball movement coming out of the halftime break.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins explains his decision to bench all five starters during the third quarter due to a lack of energy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:55",
+      "summary_phrase": "Taylor Jenkins commends Gary Trent Jr.'s leadership and energy",
+      "names_mentioned": [
+        "Cassius Stanley",
+        "Gary Trent Jr."
+      ],
+      "excerpt": "Super proud of him, the spark that he's giving us, not just with the scoring but his energy.",
+      "quote": "Cassius was great, I thought Gary Trent Jr., he's putting a couple games together right now and then GT staying ready. Super proud of him, the spark that he's giving us, not just with the scoring but his energy, his talk, his leadership, keeping the group together, that's what we needed.",
+      "text_blocks": [],
+      "start_seconds": 115,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins is proud of the leadership Gary Trent Jr. is providing, highlighting that he is bringing more than just scoring with his energy and talk on the floor.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cassius Stanley",
+          "Gary Trent Jr."
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins praises the contributions and leadership of Cassius Stanley and Gary Trent Jr.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:13",
+      "summary_phrase": "Taylor Jenkins justifies bench-heavy lineup in fourth quarter",
+      "names_mentioned": [
+        "Braden",
+        "Miles",
+        "Kyle"
+      ],
+      "excerpt": "It was back and forth, I brought Braden back in, brought Miles back in, Kyle was playing great.",
+      "quote": "It was back and forth, I brought Braden back in, brought Miles back in, Kyle was playing great, tough decisions, coverages and all that, but it was just kind of the energy of the group, that's what I leaned into. I think they were kind of getting the crowd going, the crowd was getting them going. Obviously, a couple plays there, shot doesn't fall, they made big-time shot at the end in the three-point game which we could have gotten that stop.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says he leaned into the energy of the group during the fourth quarter, opting to stick with the lineup that was feeding off the crowd during the back and forth finish.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins explains his reasoning for using a bench-heavy lineup during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "u0OKo5mIpSk",
+  "url": "https://www.youtube.com/watch?v=u0OKo5mIpSk",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-16T03:47:56Z",
+  "duration_seconds": 176,
+  "processed_at": "2026-11-16T08:04:04Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

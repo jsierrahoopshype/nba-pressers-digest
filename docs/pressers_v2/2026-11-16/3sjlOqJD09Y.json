@@ -1,0 +1,116 @@
+{
+  "video_title": "Hornets at Clippers: Coach Lamar Skeeter Postgame Media Availability | 11/15/2026",
+  "speakers_seen": [
+    "Lamar Skeeter",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Lamar Skeeter",
+      "timestamp": "00:15",
+      "summary_phrase": "Lamar Skeeter on the team's frustration regarding the ejection",
+      "names_mentioned": [],
+      "excerpt": "Honestly I'm not sure. There was a little frustration, but coach talked about after the game.",
+      "quote": "Honestly I'm not sure. There was a little frustration, but coach talked about after the game. He wants to be better and we all want to be better. We had moments where we all got caught up on the wrong thing. We just got to stay focused.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Lamar Skeeter on the Hornets frustration during the game: We had moments where we all got caught up on the wrong thing. We just got to stay focused.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Coach Lamar Skeeter discusses the team's frustration following an ejection during the game against the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Lamar Skeeter",
+      "timestamp": "00:35",
+      "summary_phrase": "Lamar Skeeter on his process for stepping into coaching roles",
+      "names_mentioned": [],
+      "excerpt": "Just not to overreact. Just kind of stay calm, stay in the moment.",
+      "quote": "Just not to overreact. Just kind of stay calm, stay in the moment. We are all coaching the game so we know the flow of the game, we know what is going on. Just not trying to overcoach. Just communicate with the guys, make sure our focus is in the right place.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Lamar Skeeter on his coaching philosophy: Just not to overreact. Just kind of stay calm, stay in the moment. We are all coaching the game so we know the flow of the game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Coach Lamar Skeeter explains his approach to maintaining composure and communication while managing the game flow.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Lamar Skeeter",
+      "timestamp": "00:55",
+      "summary_phrase": "Lamar Skeeter on the Clippers' fourth quarter comeback",
+      "names_mentioned": [
+        "Strus",
+        "Garland",
+        "Grady"
+      ],
+      "excerpt": "They got going. Strus got going a little bit, Garland got going a little bit.",
+      "quote": "They got going. Strus got going a little bit, Garland got going a little bit. Grady hit a couple big shots. There were costly possessions and we got good looks offensively, we moved the ball, thought we were playing the right way. Their shots just fell and ours didn't.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Lamar Skeeter on the Clippers fourth quarter comeback: We got good looks offensively, we moved the ball, thought we were playing the right way. Their shots just fell and ours didn't.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Max Strus",
+          "Darius Garland",
+          "Stephen Grady"
+        ],
+        "teams": [
+          "CHA",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Coach Lamar Skeeter reflects on the Clippers' fourth quarter comeback and the execution of both teams during the final stretch.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "3sjlOqJD09Y",
+  "url": "https://www.youtube.com/watch?v=3sjlOqJD09Y",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-16T00:26:19Z",
+  "duration_seconds": 73,
+  "processed_at": "2026-11-16T08:04:41Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

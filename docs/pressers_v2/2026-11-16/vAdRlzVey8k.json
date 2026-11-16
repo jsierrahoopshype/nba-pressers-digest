@@ -1,0 +1,162 @@
+{
+  "video_title": "Kel'el Ware Postgame Media Availability | 11.15.26",
+  "speakers_seen": [
+    "Kel'el Ware"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kel'el Ware",
+      "timestamp": "00:22",
+      "summary_phrase": "Kel'el Ware on the importance of playing a full 48 minutes",
+      "names_mentioned": [],
+      "excerpt": "it's really what it comes down to, playing together, swinging the ball, playing just through",
+      "quote": "It's just putting the full 48 together. That's really what it comes down to, playing together, swinging the ball, playing just through, and letting the basketball gods reward each other for it. And just know that you will get yours throughout the game.",
+      "text_blocks": [],
+      "start_seconds": 22,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kel'el Ware says the key for the Bucks is putting the full 48 together and letting the basketball gods reward the team for playing the right way.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kel'el Ware discusses the importance of maintaining consistent effort and playing together for the full duration of a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kel'el Ware",
+      "timestamp": "01:21",
+      "summary_phrase": "Kel'el Ware on the team's energy and spark in the second half",
+      "names_mentioned": [],
+      "excerpt": "when the younger group was in, I feel like we helped like sparking and creating some sort",
+      "quote": "I feel like we started off the game the right way. The first half was good, the second quarter was good. And those last minutes, when the younger group was in, I feel like we helped like sparking and creating some sort of a comeback. So, we got to just continue to play with energy and effort.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kel'el Ware credits the younger group for sparking the second half comeback effort for the Bucks.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kel'el Ware reflects on the team's energy and the impact of the younger players during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kel'el Ware",
+      "timestamp": "02:27",
+      "summary_phrase": "Kel'el Ware on his approach to playing through the flow of the game",
+      "names_mentioned": [],
+      "excerpt": "I play the game through the flow. I play the game as letting the ball find you",
+      "quote": "I play the game through the flow. I play the game as letting the ball find you, not rushing anything, just trying to make the right pass, make the right play to help the team win overall. Instead of forcing, sometimes I feel like I can get caught in situations where if I'm down, I may try to give me one, and then I'll regret it right after because that's not the right play.",
+      "text_blocks": [],
+      "start_seconds": 147,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kel'el Ware on his offensive approach: I play the game through the flow and let the ball find me instead of forcing it.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kel'el Ware explains his personal approach to playing within the flow of the game rather than forcing individual plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kel'el Ware",
+      "timestamp": "03:23",
+      "summary_phrase": "Kel'el Ware on why the offense was getting stagnant",
+      "names_mentioned": [],
+      "excerpt": "stagnant, just not moving it, situations where just getting stuck and not going into the next action",
+      "quote": "Stagnant, just not moving it, situations where just getting stuck and not going into the next action, not swinging the ball. Maybe it's the other people aren't coming towards the ball, or we're just not swinging it to the next action, or even just coming up with a set of screens just to get some going, to get some flow.",
+      "text_blocks": [],
+      "start_seconds": 203,
+      "end_seconds": 226,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Kel'el Ware identifies the cause of the team's stagnant offense as a failure to move the ball into the next action.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kel'el Ware identifies the reasons behind the team's offensive stagnation during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kel'el Ware",
+      "timestamp": "04:02",
+      "summary_phrase": "Kel'el Ware on looking forward to the upcoming game in Miami",
+      "names_mentioned": [],
+      "excerpt": "at this point of where we are as a team right now, we all got to look",
+      "quote": "At this point of where we are as a team right now, we all got to look towards the next one, trying to get that one. So, for sure, I'm looking forward to it as well, going back to the old gym and where I used to get some buckets at.",
+      "text_blocks": [],
+      "start_seconds": 242,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Kel'el Ware is looking forward to the upcoming game in Miami: I am excited about going back to the old gym and where I used to get some buckets at.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Kel'el Ware shares his thoughts on the upcoming game against his former team in Miami.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "vAdRlzVey8k",
+  "url": "https://www.youtube.com/watch?v=vAdRlzVey8k",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-16T04:15:47Z",
+  "duration_seconds": 278,
+  "processed_at": "2026-11-16T08:03:41Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

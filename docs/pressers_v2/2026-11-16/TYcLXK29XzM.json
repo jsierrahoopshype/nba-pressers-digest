@@ -1,0 +1,135 @@
+{
+  "video_title": "Hornets at Clippers: Christian Anderson Jr. Postgame Media Availability | 11/15/2026",
+  "speakers_seen": [
+    "Christian Anderson Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Christian Anderson Jr.",
+      "timestamp": "00:06",
+      "summary_phrase": "Christian Anderson Jr. on his offensive development and confidence",
+      "names_mentioned": [],
+      "excerpt": "I think just getting more comfortable in what positions I need to be in and just getting more confident",
+      "quote": "I think just getting more comfortable in what positions I need to be in and just getting more confident and being more ready to tag, be aggressive, whether it's score the ball or facilitate. Then again, like I said, I think it's just putting myself in the right position to succeed.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Christian Anderson Jr. on his recent growth: I think just getting more comfortable in what positions I need to be in and just getting more confident and being more ready to tag, be aggressive, whether it is score the ball or facilitate.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Christian Anderson Jr. discusses his personal offensive development and growing confidence during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Christian Anderson Jr.",
+      "timestamp": "00:34",
+      "summary_phrase": "Christian Anderson Jr. on defensive expectations and team identity",
+      "names_mentioned": [],
+      "excerpt": "they put a big importance on being able to guard the ball and be physical and be disruptive",
+      "quote": "From the beginning, when I got drafted here, they put a big importance on being able to guard the ball and be physical and be disruptive. Try to create extra possessions for our team and make it as hard as I can to make it as hard for them to score. So, yeah, I've put in a lot of work and put a lot of emphasis on just guarding the ball and being aggressive on that end of the floor.",
+      "verbatim_original_language": "",
+      "start_seconds": 34,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Christian Anderson Jr. on the Hornets defensive identity: From the beginning, they put a big importance on being able to guard the ball and be physical and be disruptive.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Christian Anderson Jr. explains the defensive expectations and identity established by the team since he was drafted.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Christian Anderson Jr.",
+      "timestamp": "01:08",
+      "summary_phrase": "Christian Anderson Jr. on the Clippers' late-game execution",
+      "names_mentioned": [],
+      "excerpt": "They hit some tough shots and we didn't hit shots. I think that's where we got to be better",
+      "quote": "They hit some tough shots and we didn't hit shots. I think that's where we got to be better, just being able to dictate where we want to force the defense and how we want to stop them. But yeah, I think it just shifted when they started to hit shots at the end.",
+      "verbatim_original_language": "",
+      "start_seconds": 68,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Christian Anderson Jr. on the late game loss to the Clippers: They hit some tough shots and we did not hit shots. I think that is where we got to be better, just being able to dictate where we want to force the defense.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Christian Anderson Jr. reflects on the late-game execution and the Clippers' ability to hit shots during the final minutes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Christian Anderson Jr.",
+      "timestamp": "01:30",
+      "summary_phrase": "Christian Anderson Jr. on defensive strategy and personnel",
+      "names_mentioned": [],
+      "excerpt": "trying to make the right guys shoot and playing tendencies and playing personnel",
+      "quote": "Trying to make the right guys shoot and playing tendencies and playing personnel, not letting their go-to guys get open shots or good looks, making it as hard as possible as it is for them to get shots and executing on the offensive end.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Christian Anderson Jr. on defensive strategy: Trying to make the right guys shoot and playing tendencies and playing personnel, not letting their go to guys get open shots or good looks.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Christian Anderson Jr. describes the defensive strategy of focusing on opponent personnel and tendencies during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "TYcLXK29XzM",
+  "url": "https://www.youtube.com/watch?v=TYcLXK29XzM",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-16T00:34:23Z",
+  "duration_seconds": 112,
+  "processed_at": "2026-11-16T08:04:40Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,194 @@
+{
+  "video_title": "Kasparas Jakučionis Postgame Media Availability | 11.15.26",
+  "speakers_seen": [
+    "Kasparas Jakučionis"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kasparas Jakučionis",
+      "timestamp": "00:17",
+      "summary_phrase": "Kasparas Jakučionis on maintaining mental readiness during game preparation",
+      "names_mentioned": [],
+      "excerpt": "Mentally is probably the hardest part, you know, to stay mentally ready.",
+      "quote": "So you know, you're just working out basically. Trying to stay in shape, stay ready. Mentally is probably the hardest part, you know, to stay mentally ready. Just watching film and, you know, be ready for anytime you get called up. So just trying to be ready and be your best when you get on the court.",
+      "verbatim_original_language": "",
+      "start_seconds": 17,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kasparas Jakučionis on his preparation process: Mentally is probably the hardest part to stay ready. Just watching film and be ready for anytime you get called up.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kasparas Jakučionis discusses his approach to staying mentally prepared and in shape while waiting for playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kasparas Jakučionis",
+      "timestamp": "00:54",
+      "summary_phrase": "Kasparas Jakučionis on team chemistry and trusting the coaching staff",
+      "names_mentioned": [
+        "Gary",
+        "Cal"
+      ],
+      "excerpt": "I feel like today that group got going and we trusted the coach trusted the group.",
+      "quote": "For sure, you know, I feel like today that group got going and we trusted the coach trusted the group. And for today it really worked. I feel like we were right there. Didn't come up with the win, but we were close.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kasparas Jakučionis on the team effort despite the loss: I feel like today that group got going and we trusted the coach trusted the group. And for today it really worked.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kasparas Jakučionis reflects on the team's trust in the coaching staff and their performance despite a close loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kasparas Jakučionis",
+      "timestamp": "01:24",
+      "summary_phrase": "Kasparas Jakučionis on his career-high performance and playing his own game",
+      "names_mentioned": [],
+      "excerpt": "I'm just trying to be me and don't try to do something that I'm not.",
+      "quote": "To be honest, nothing much going on. Just playing my game. Every day is the same for me. I'm just trying to be me and don't try to do something that I'm not. And just one day, the work shows up. So you just keep building from that.",
+      "verbatim_original_language": "",
+      "start_seconds": 84,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kasparas Jakučionis on his career high performance: Just playing my game. Every day is the same for me. I am just trying to be me and do not try to do something that I am not.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kasparas Jakučionis explains his mindset regarding his performance and consistency after achieving a career-high.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kasparas Jakučionis",
+      "timestamp": "01:54",
+      "summary_phrase": "Kasparas Jakučionis on his role as an organizer and playmaker",
+      "names_mentioned": [],
+      "excerpt": "That's my role, try to organize the team, know where everybody is and try to create plays.",
+      "quote": "Just be ready, you know. Try to organize the team. That's my role, try to organize the team, know where everybody is and try to create plays. So basically that's it, just creating plays for others, for myself, and just being sharp.",
+      "verbatim_original_language": "",
+      "start_seconds": 114,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kasparas Jakučionis defines his role on the court: Try to organize the team. That is my role, try to organize the team, know where everybody is and try to create plays.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kasparas Jakučionis describes his specific role on the court as an organizer and playmaker for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kasparas Jakučionis",
+      "timestamp": "02:14",
+      "summary_phrase": "Kasparas Jakučionis on his offensive impact and making the right reads",
+      "names_mentioned": [],
+      "excerpt": "On offensive side, I think just making the right reads, that's what I've been working on.",
+      "quote": "On offensive side, I think just making the right reads, that's what I've been working on. Obviously making some shots, but I think the biggest is playing pick and rolls, making reads from there, getting into the paint and making just the right pass or shot or whatever it takes.",
+      "verbatim_original_language": "",
+      "start_seconds": 134,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kasparas Jakučionis on his offensive focus: The biggest is playing pick and rolls, making reads from there, getting into the paint and making just the right pass or shot or whatever it takes.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kasparas Jakučionis details his focus on offensive development, specifically regarding pick and roll reads and decision making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kasparas Jakučionis",
+      "timestamp": "02:56",
+      "summary_phrase": "Kasparas Jakučionis on the team's mentality during a losing streak",
+      "names_mentioned": [],
+      "excerpt": "It's never good to lose and we play this game to win.",
+      "quote": "It's actually really hard for everyone, I feel like. Not for players obviously, but I feel for coaching staff too. It's never good to lose and we play this game to win. And every day we come with the mentality to win and that's what we can focus on right now. Focus on the next game and try to work on some things in practice and get better every day.",
+      "verbatim_original_language": "",
+      "start_seconds": 176,
+      "end_seconds": 203,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kasparas Jakučionis on the team mentality during a losing streak: It is never good to lose and we play this game to win. Every day we come with the mentality to win and that is what we can focus on right now.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kasparas Jakučionis addresses the team's mentality and frustration while navigating a losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "C7O5LND_ISc",
+  "url": "https://www.youtube.com/watch?v=C7O5LND_ISc",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-16T04:27:03Z",
+  "duration_seconds": 247,
+  "processed_at": "2026-11-16T08:03:39Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,177 @@
+{
+  "video_title": "Jamal Shead | Post Game vs New York Knicks | November 15, 2026",
+  "speakers_seen": [
+    "Jamal Shead"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:14",
+      "summary_phrase": "Jamal Shead on mental errors and late-game execution",
+      "names_mentioned": [],
+      "excerpt": "I think we had a lot of mental errors just at the end of the game.",
+      "quote": "Little things, man. Just things that we could have prevented. Rebounds, loose balls, just little things that we could have prevented. I think we had a lot of mental errors just at the end of the game. I think we played maybe 45 to 44 minutes of great basketball. We just got to put it together and make it 48.",
+      "verbatim_original_language": "",
+      "start_seconds": 14,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the loss to the Knicks: We played 44 minutes of great basketball but had too many mental errors. We just have to put it together and make it 48.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead reflects on the team's mental errors and inability to execute during the final minutes of the game against the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:40",
+      "summary_phrase": "Jamal Shead on the performance of Scottie Barnes, Dillon Brooks, and Jakob Poeltl",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Jakob Poeltl"
+      ],
+      "excerpt": "I think if Collins is not in foul trouble, I love Scottie and Collins on them.",
+      "quote": "Obviously really tough. They just won a championship for a reason. I think that's obvious. But I think if Collins is not in foul trouble, I love Scottie and Collins on them. I think they did an amazing job. I think they played their butt off. Jakob too, when he got into that mix. I think they did an amazing job. We just got to finish the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 40,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamal Shead praised the effort of Scottie Barnes and Jakob Poeltl against the Knicks: I love Scottie and Collins on them. I think they did an amazing job. We just got to finish the game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes",
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead praises the defensive effort of his teammates Scottie Barnes and Jakob Poeltl following the loss to the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamal Shead",
+      "timestamp": "01:10",
+      "summary_phrase": "Jamal Shead on the importance of late-game reps for the team",
+      "names_mentioned": [
+        "Scottie Barnes",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "If anything is evident from last year is that we learn as we go.",
+      "quote": "Obviously we do need them because down the stretch we are going to have them regardless. But if anything is evident from last year is that we learn as we go. I think we had a lot of these mistakes and a lot of these moments last year when we were getting used to playing with each other and doing these things at a high level at the end of games again. Having Scottie back today was a little different, and then you know if you add Kawhi in that mix, it's just we just got to get better at the end of games, and I think having these moments does nothing but good for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 70,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the team's late-game execution: We learn as we go. Having Scottie back today was a little different, and if you add Kawhi in that mix, we just have to get better at the end of games.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead discusses the importance of late-game experience and the impact of having Scottie Barnes and Kawhi Leonard in the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamal Shead",
+      "timestamp": "01:55",
+      "summary_phrase": "Jamal Shead on the team's progress and potential",
+      "names_mentioned": [],
+      "excerpt": "We are here this year and we are going to make sure that we beat those teams.",
+      "quote": "I wouldn't say it's a trend now. I mean this game, we haven't played 15 games yet. So it's not a trend. Make that clear now. We are here this year and we are going to make sure that we beat those teams, and I think tonight was evident that we can. We just got to figure it out.",
+      "verbatim_original_language": "",
+      "start_seconds": 115,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the team's early season struggles: I would not say it is a trend now. We have not played 15 games yet. We are here this year and we are going to make sure that we beat those teams.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead dismisses the idea that the team's recent performance is a negative trend early in the regular season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamal Shead",
+      "timestamp": "02:25",
+      "summary_phrase": "Jamal Shead on the team's zero-zero mentality in overtime",
+      "names_mentioned": [],
+      "excerpt": "We went into overtime with a zero-zero mentality.",
+      "quote": "Just moving on to the next play. I think you put together 48 minutes and there's a tie, those 48 minutes don't matter anymore. We went into overtime with a zero-zero mentality. We just lost those last five minutes. So I think if we win those five minutes we are having a different conversation about the whole game and our mistakes, but we just got to figure out a way to win the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 145,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the overtime loss: We went into overtime with a zero-zero mentality. We just lost those last five minutes. If we win those five minutes we are having a different conversation about the whole game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead explains the team's mindset heading into overtime after failing to secure a win in regulation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "mrVkQQyGfwU",
+  "url": "https://www.youtube.com/watch?v=mrVkQQyGfwU",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-16T03:37:32Z",
+  "duration_seconds": 171,
+  "processed_at": "2026-11-16T08:04:11Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

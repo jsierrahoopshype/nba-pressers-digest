@@ -1,0 +1,415 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe, Kyshawn George and Alex Sarr | 11.15.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Kyshawn George",
+    "Alex Sarr"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe criticizes team effort and commitment after loss",
+      "names_mentioned": [],
+      "excerpt": "That's not a commitment to defense, a commitment to the standards we're trying to instill with our team.",
+      "quote": "That's obvious. That's not a commitment to defense, a commitment to the standards we're trying to instill with our team. We have to look in the mirror and hold each other accountable, and that was not the effort needed to get the job done in an NBA game.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 18,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Brian Keefe did not mince words after the Wizards loss, saying the team lacked a commitment to defense and standards. He added that the group has to look in the mirror and hold each other accountable.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe addresses the media following a loss to discuss the team's lack of defensive effort and commitment.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:35",
+      "summary_phrase": "Brian Keefe addresses lack of execution and need for improvement",
+      "names_mentioned": [],
+      "excerpt": "The action just wasn't there. There's no reason for it to happen. It shouldn't happen.",
+      "quote": "The action just wasn't there. There's no reason for it to happen. It shouldn't happen. We have to look at ourselves, get back to the drawing board. We have a game tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the Wizards performance tonight: The action just was not there. There is no reason for it to happen. It should not happen.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses the need for the team to improve their execution after a poor performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:55",
+      "summary_phrase": "Brian Keefe on holding players accountable to team standards",
+      "names_mentioned": [],
+      "excerpt": "Finding the right people who want to do the right thing.",
+      "quote": "Finding the right people who want to do the right thing. We have a group of good people in that locker room, but tonight we did not have it, and we're not running from that. We have to figure out quick how to change it, and that starts tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brian Keefe says the Wizards are looking for the right people who want to do the right thing, noting that while they have good people in the locker room, they did not have it tonight.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe talks about the importance of holding players accountable to team standards after a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:29",
+      "summary_phrase": "Brian Keefe emphasizes need to move forward after poor performance",
+      "names_mentioned": [],
+      "excerpt": "We've shown some good basketball. Tonight was not it, and no one should be happy with that.",
+      "quote": "This is a long year. We've shown some good basketball. Tonight was not it, and no one should be happy with that, especially us here. We're going to move forward quickly and get back to business tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 89,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Brian Keefe on moving forward: This is a long year. We have shown some good basketball. Tonight was not it, and no one should be happy with that.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe emphasizes the need to move forward and focus on the next game after a disappointing loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:55",
+      "summary_phrase": "Brian Keefe identifies key areas of failure against opponents",
+      "names_mentioned": [],
+      "excerpt": "They beat us in every area. Let's be honest. They beat us in transition, they beat us on the boards.",
+      "quote": "They beat us in every area. Let's be honest. They beat us in transition, they beat us on the boards. That can't be it. That's not what we need to be to be the team that we want to be.",
+      "text_blocks": [],
+      "start_seconds": 115,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Brian Keefe was blunt about the Wizards struggles tonight: They beat us in every area. They beat us in transition, they beat us on the boards. That cannot be it.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe identifies transition defense and rebounding as key areas where the team failed against their opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:30",
+      "summary_phrase": "Brian Keefe stresses collective responsibility for team performance",
+      "names_mentioned": [],
+      "excerpt": "We have the chance to be a good team, but you have to show the actions every day.",
+      "quote": "We have the chance to be a good team, but you have to show the actions every day. We have shown we are capable. Tonight we did not, and you have to own that, and we were not good enough. That's all of us. Tomorrow we have to get back to being what we're capable of being, but you have to do that with actions, and that has to be shown on the court.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brian Keefe stresses that the Wizards have the chance to be a good team, but they have to show it with actions on the court every day.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe stresses that the entire team shares responsibility for their performance and must show better effort on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kyshawn George",
+      "timestamp": "02:55",
+      "summary_phrase": "Kyshawn George attributes loss to lack of effort and rebounding",
+      "names_mentioned": [],
+      "excerpt": "They played harder than us. They put more effort in us, and they grabbed more rebounds than us.",
+      "quote": "They played harder than us. They put more effort in us, and they grabbed more rebounds than us. And we all hold each other accountable for that, and I think that's what made them come on top.",
+      "text_blocks": [],
+      "start_seconds": 175,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kyshawn George on the Wizards loss: They played harder than us. They put more effort in us, and they grabbed more rebounds than us.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George explains that the team lost because the opponent played with more effort and dominated the boards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kyshawn George",
+      "timestamp": "03:27",
+      "summary_phrase": "Kyshawn George on the difficulty of maintaining consistent effort",
+      "names_mentioned": [],
+      "excerpt": "We just got to hold each other accountable. We got to understand that when it's not necessarily easy.",
+      "quote": "We just got to hold each other accountable. We got to understand that when it's not necessarily easy, it's not going to come by just snapping our fingers. And I think we're aware of that, and that's not what we are, that's not what we put out tonight.",
+      "text_blocks": [],
+      "start_seconds": 207,
+      "end_seconds": 225,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kyshawn George on the Wizards effort: We have to understand that when it is not necessarily easy, it is not going to come by just snapping our fingers.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George discusses the difficulty of maintaining consistent effort and the need for team accountability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kyshawn George",
+      "timestamp": "04:10",
+      "summary_phrase": "Kyshawn George emphasizes internal reliance during losing streak",
+      "names_mentioned": [],
+      "excerpt": "Respectfully, it ain't going to be the media that's going to help you.",
+      "quote": "Respectfully, it ain't going to be the media that's going to help you. It ain't going to be whoever it is that's going to help you. We got us. That's all it is. We got to lean on each other, hold each other accountable to a certain level that we're trying to get at.",
+      "text_blocks": [],
+      "start_seconds": 250,
+      "end_seconds": 271,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 8,
+      "social_post": "Kyshawn George on the Wizards locker room mentality: Respectfully, it ain't going to be the media that is going to help you. It ain't going to be whoever it is that is going to help you. We got us.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George emphasizes that the team must rely on each other rather than external sources to improve during a losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Kyshawn George",
+      "timestamp": "04:46",
+      "summary_phrase": "Kyshawn George on player responsibility for on-court performance",
+      "names_mentioned": [],
+      "excerpt": "Ultimately, the players we are out there, we are responsible for what's going on on the court.",
+      "quote": "Ultimately, the players we are out there, we are responsible for what's going on on the court. So it's on us to be able to go out there and put out our best foot forward, our best effort every single night.",
+      "text_blocks": [],
+      "start_seconds": 286,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kyshawn George says the players are ultimately responsible for what happens on the court: It is on us to be able to go out there and put out our best foot forward, our best effort every single night.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George states that the players are ultimately responsible for the effort they put out on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Kyshawn George",
+      "timestamp": "05:25",
+      "summary_phrase": "Kyshawn George describes locker room atmosphere after losses",
+      "names_mentioned": [],
+      "excerpt": "You could feel like the vibe in the locker room in general, like nobody's happy with what we're doing.",
+      "quote": "You could feel like the vibe in the locker room in general, like nobody's happy with what we're doing. We know that's not us out there. And it's holding each other accountable from the head coach to the last guy on the bench. It doesn't really matter who it is.",
+      "text_blocks": [],
+      "start_seconds": 325,
+      "end_seconds": 344,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Kyshawn George on the mood in the Wizards locker room: You could feel like the vibe in the locker room in general, like nobody is happy with what we are doing. We know that is not us out there.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George describes the unhappy atmosphere in the locker room and the shared commitment to accountability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Kyshawn George",
+      "timestamp": "06:03",
+      "summary_phrase": "Kyshawn George on communication and trust as keys to turnaround",
+      "names_mentioned": [],
+      "excerpt": "Communication, pouring into each other, having trust in whether it's the game plan, the coach, your next teammate.",
+      "quote": "Communication, pouring into each other, having trust in whether it's the game plan, the coach, your next teammate, the low man, the communication. I think it's all the little stuff that you start building, and I think the more you trust in that, the more you trust in your teammate, the more you trust in everything that's going on on the court.",
+      "text_blocks": [],
+      "start_seconds": 363,
+      "end_seconds": 387,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kyshawn George on the keys to a turnaround: Communication, pouring into each other, having trust in whether it is the game plan, the coach, your next teammate, the low man.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George identifies communication and trust in teammates and coaches as essential for turning the team's performance around.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Alex Sarr",
+      "timestamp": "06:40",
+      "summary_phrase": "Alex Sarr on the need for internal accountability and energy",
+      "names_mentioned": [],
+      "excerpt": "We can't be too down on ourselves, but at the same time, nobody going to be sorry for us.",
+      "quote": "We can't be too down on ourselves, but at the same time, nobody going to be sorry for us, nobody going to help us. So it's really about finding that energy in a group and going out there and doing it.",
+      "text_blocks": [],
+      "start_seconds": 400,
+      "end_seconds": 416,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Alex Sarr on the Wizards mindset: We cannot be too down on ourselves, but at the same time, nobody going to be sorry for us, nobody going to help us. So it is really about finding that energy in a group.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Alex Sarr discusses the need for the group to find internal energy and stop feeling sorry for themselves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Alex Sarr",
+      "timestamp": "07:25",
+      "summary_phrase": "Alex Sarr calls for return to team's early season identity",
+      "names_mentioned": [],
+      "excerpt": "We just got to make sure that we come together as a team, see like what worked for us early.",
+      "quote": "We just got to make sure that we come together as a team, see like what worked for us early, get back to that. You know, when we playing fast, getting stops, you know, that's our identity, and we just got to get back to doing that.",
+      "text_blocks": [],
+      "start_seconds": 445,
+      "end_seconds": 463,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Alex Sarr says the Wizards need to get back to their identity: When we playing fast, getting stops, you know, that is our identity, and we just got to get back to doing that.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Alex Sarr calls for the team to return to the fast-paced, defensive identity they established earlier in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "QAcot0ShS1o",
+  "url": "https://www.youtube.com/watch?v=QAcot0ShS1o",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-16T04:28:24Z",
+  "duration_seconds": 464,
+  "processed_at": "2026-11-16T08:03:45Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

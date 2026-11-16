@@ -1,0 +1,316 @@
+{
+  "video_title": "SGA on Team's Offense and Continued Growth | Postgame Media | November 15, 2026",
+  "speakers_seen": [
+    "Shai Gilgeous-Alexander"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "00:19",
+      "summary_phrase": "Shai Gilgeous-Alexander on maintaining team focus regardless of the opponent",
+      "names_mentioned": [],
+      "excerpt": "The longer you stay in that mode as a team, the better off you'll be as a basketball team.",
+      "quote": "It's always encouraging when you're doing the right things out there. Now it's just about staying in that pocket as a team as long as you can, no matter the opponent. The longer you stay in that mode as a team, the better off you'll be as a basketball team.",
+      "text_blocks": [],
+      "start_seconds": 19,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder maintaining focus: It is about staying in that pocket as a team as long as you can, no matter the opponent.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses the importance of maintaining team focus and consistency regardless of the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "01:05",
+      "summary_phrase": "Shai Gilgeous-Alexander on his personal development and handling adversity",
+      "names_mentioned": [],
+      "excerpt": "Every summer I go into it trying to become a better basketball player.",
+      "quote": "Every summer I go into it trying to become a better basketball player. It comes down to being able to handle whatever is thrown at you and making those reads. I use the 82-game season to get better at that, and if you're lucky enough to make the playoffs, all the work gets to see if it really works.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Shai Gilgeous-Alexander says he uses the 82-game season to test his offseason work: If you are lucky enough to make the playoffs, all the work gets to see if it really works.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander reflects on his offseason preparation and his approach to developing as a player throughout the 82-game season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "02:00",
+      "summary_phrase": "Shai Gilgeous-Alexander on the importance of correcting mistakes after losses",
+      "names_mentioned": [],
+      "excerpt": "You lose for a reason, and you have to look in the mirror and figure out why.",
+      "quote": "Obviously never fun losing, but you lose for a reason, and you have to look in the mirror and figure out why and try to correct it for the next game. We failed to do that two times in a row and didn't make it a third time. It's up to the group to get better and figure out a way to win a basketball game.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder avoiding a three-game losing streak: You lose for a reason, and you have to look in the mirror and figure out why and try to correct it for the next game.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander explains the team's need to analyze losses and make necessary adjustments to improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "02:39",
+      "summary_phrase": "Shai Gilgeous-Alexander on the confidence of young players in new roles",
+      "names_mentioned": [],
+      "excerpt": "Above all, just being confident. That's all you can really ask for them.",
+      "quote": "I think they've done a really good job. Above all, just being confident. That's all you can really ask for them. Whether they thought they were going to have the role they have or not, it is a reality, and we're going to need them. We're going to need the best version of them, and when people are at their best version, they're their most confident.",
+      "text_blocks": [],
+      "start_seconds": 159,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Shai Gilgeous-Alexander on the young players stepping into new roles: We are going to need the best version of them, and when people are at their best version, they are their most confident.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander praises the confidence shown by younger teammates who have stepped into larger roles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "03:17",
+      "summary_phrase": "Shai Gilgeous-Alexander on the potential of rookie Dillon Jones",
+      "names_mentioned": [
+        "Dillon Jones"
+      ],
+      "excerpt": "He'll continue to show his complete arsenal the more he's with us.",
+      "quote": "Every size, length, the position. He's shown flashes of highly skilled plays. He'll continue to show his complete arsenal the more he's with us. We're typically a group that likes to ignite players and bleeds confidence into them, and I expect the same for him.",
+      "text_blocks": [],
+      "start_seconds": 197,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Shai Gilgeous-Alexander on rookie Dillon Jones: He has shown flashes of highly skilled plays. We are typically a group that likes to ignite players and bleeds confidence into them, and I expect the same for him.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dillon Jones"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander shares his observations on the potential and skill set of rookie teammate Dillon Jones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "04:16",
+      "summary_phrase": "Shai Gilgeous-Alexander on the team's evolving challenge this season",
+      "names_mentioned": [],
+      "excerpt": "To start the season is a challenge as a group, and obviously our group has changed.",
+      "quote": "To start the season is a challenge as a group, and obviously our group has changed, so for me it's just like the challenge every night has changed. It might look a little bit more difficult, it might look different, it might have to come in a different way, but there's things you can do every night to win games.",
+      "text_blocks": [],
+      "start_seconds": 256,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder adjusting to roster changes: The challenge every night has changed. It might look a little bit more difficult, it might look different, but there are things you can do every night to win games.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses how the team's evolving roster has changed the nature of the challenges they face each night.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "05:18",
+      "summary_phrase": "Shai Gilgeous-Alexander on his conditioning and workload expectations",
+      "names_mentioned": [],
+      "excerpt": "I work my butt off in the summertime to be able to play all 82.",
+      "quote": "I work my butt off in the summertime to be able to play all 82 and play whatever is needed to win an NBA championship. That's my goal, and that's what I strive after, conditioning-wise in the summertime, and I think I'm equipped to do so.",
+      "text_blocks": [],
+      "start_seconds": 318,
+      "end_seconds": 336,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Shai Gilgeous-Alexander on his conditioning: I work my butt off in the summertime to be able to play all 82 and play whatever is needed to win an NBA championship. That is my goal.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander talks about his conditioning regimen and his goal of being available to play the full season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "05:55",
+      "summary_phrase": "Shai Gilgeous-Alexander on the confidence of rookie Dereck Lively II",
+      "names_mentioned": [
+        "Dereck Lively II"
+      ],
+      "excerpt": "He's not shy, which is very impressive. No matter what's going on, he's stepping into every play.",
+      "quote": "He's not shy, which is very impressive. No matter what's going on, he's stepping into every play with confidence, and all the great ones have that. Not one single great one doesn't have that. To have that will put you ahead of the peers.",
+      "text_blocks": [],
+      "start_seconds": 355,
+      "end_seconds": 372,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Shai Gilgeous-Alexander on Dereck Lively II: He is not shy, which is very impressive. Not one single great one does not have that confidence. To have that will put you ahead of the peers.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "OKC",
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander comments on the impressive confidence displayed by rookie Dereck Lively II.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "06:45",
+      "summary_phrase": "Shai Gilgeous-Alexander on the value of early career freedom",
+      "names_mentioned": [],
+      "excerpt": "The best way to learn is through experience, and I was blessed with that opportunity.",
+      "quote": "The best way to learn is through experience, and I was blessed with that opportunity to be given the keys to experiment and see what I can and can't do, see what my game can look like. You want to do it in winning fashion, obviously, but as long as you attack it the right way with the right intentions, you'll be all right.",
+      "text_blocks": [],
+      "start_seconds": 405,
+      "end_seconds": 430,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Shai Gilgeous-Alexander on the value of early career freedom: The best way to learn is through experience, and I was blessed with that opportunity to be given the keys to experiment and see what I can and cannot do.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander reflects on the value of having the freedom to experiment and learn through experience early in his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "07:50",
+      "summary_phrase": "Shai Gilgeous-Alexander on the team's need to adapt to roster changes",
+      "names_mentioned": [],
+      "excerpt": "The roster has changed drastically, so everything else is going to change drastically.",
+      "quote": "The roster has changed drastically, so everything else is going to change drastically. But like I just said, there's a brand of winning basketball, and when you do it, obviously with enough skill out there, you can get a dub, and that's all I focus on. With different personnel, the formula for the win is going to look different, and that's as a group what we have to figure out to do.",
+      "text_blocks": [],
+      "start_seconds": 470,
+      "end_seconds": 498,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder adapting: With different personnel, the formula for the win is going to look different, and that is as a group what we have to figure out to do.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander explains that the team must adapt their winning formula due to significant changes to the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "uR1jaakFxs4",
+  "url": "https://www.youtube.com/watch?v=uR1jaakFxs4",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-16T05:44:08Z",
+  "duration_seconds": 520,
+  "processed_at": "2026-11-16T08:03:28Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

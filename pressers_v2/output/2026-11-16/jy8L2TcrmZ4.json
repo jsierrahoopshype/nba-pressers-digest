@@ -1,0 +1,199 @@
+{
+  "video_title": "Jaime Jaquez Jr. Postgame Media Availability | 11.15.26",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Jaime Jaquez Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaime Jaquez Jr.",
+      "speakers": [
+        "Unidentified speaker",
+        "Jaime Jaquez Jr."
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Jaime Jaquez Jr. on the team's difficulty closing out games",
+      "names_mentioned": [],
+      "excerpt": "one error, one mistake can really cost you a game down the stretch",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "It has got to be frustrating that these conversations are kind of similar, right? Good start, big lead, you guys are scrapping and fighting. Tonight though, what? It seemed like if it wasn't 48, it was about as close as you guys have been in a while."
+        },
+        {
+          "speaker": "Jaime Jaquez Jr.",
+          "text": "I will just say this, first and foremost, I thought we had a lot of fight out there, especially in the fourth quarter and second half. This league is just so hard to win, and moments like these realize that one error, one mistake can really cost you a game down the stretch. We are learning that, and for us, we just have to figure out how many times do we keep learning that same lesson."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jaime Jaquez Jr. on the team struggling to close out games after blowing leads: We just have to figure out how many times do we keep learning that same lesson.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. reflects on the team's inability to close out games and the recurring mistakes leading to losses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaime Jaquez Jr.",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaime Jaquez Jr."
+      ],
+      "timestamp": "01:46",
+      "summary_phrase": "Jaime Jaquez Jr. on the team's need for better consistency",
+      "names_mentioned": [],
+      "excerpt": "we just have to look each and every one of ourselves in the mirror",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How do you translate the first quarter into the third quarter, coming out of the half with the same energy you started the game with?"
+        },
+        {
+          "speaker": "Jaime Jaquez Jr.",
+          "text": "That is a great question. I wish I had the answer. Tonight we came out a little sluggish. We just have to figure out how to capitalize in those moments coming out the half. Overall, we just have to look each and every one of ourselves in the mirror and ask yourself, how can we be better? Including myself, I have to be better tonight. A couple bad turnovers down the stretch were pretty costly for us."
+        }
+      ],
+      "start_seconds": 106,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jaime Jaquez Jr. admits he needs to be better after a loss: We just have to look each and every one of ourselves in the mirror and ask yourself how can we be better. Including myself, I have to be better tonight.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. discusses the team's sluggish start to the second half and his own costly turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaime Jaquez Jr.",
+      "speakers": [
+        "Unidentified speaker",
+        "Jaime Jaquez Jr."
+      ],
+      "timestamp": "02:33",
+      "summary_phrase": "Jaime Jaquez Jr. praises the professionalism of teammates",
+      "names_mentioned": [
+        "Casper",
+        "Gary",
+        "Taylor"
+      ],
+      "excerpt": "that just goes to the professionalism of the guys",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What does it say, I know the idea is always stay ready, be ready, Casper and Gary? To have Taylor kind of roll with that new bench unit down the stretch. I don't know, was it say about your teammates, but then also Taylor as he is trying to figure out what can work?"
+        },
+        {
+          "speaker": "Jaime Jaquez Jr.",
+          "text": "As a coach, you have to throw something at the board. You are losing ten straight or something like that. It is not shocking that he is trying new things out, and that just goes to the professionalism of the guys. Casper being able to stay ready, been in and out the lineup. Gary has been out the lineup, coming in, giving us a great spark. It is just true professionalism and credit to those guys for staying ready and having great attitudes."
+        }
+      ],
+      "start_seconds": 153,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaime Jaquez Jr. on the team trying new rotations: As a coach you have to throw something at the board. You are losing ten straight or something like that. It is not shocking that he is trying new things out.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Casper",
+          "Gary",
+          "Taylor"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates",
+          "coaching decisions"
+        ],
+        "context": "Jaime Jaquez Jr. praises his teammates for their professionalism while the coach experiments with new lineups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaime Jaquez Jr.",
+      "speakers": [
+        "Unidentified speaker",
+        "Jaime Jaquez Jr."
+      ],
+      "timestamp": "03:24",
+      "summary_phrase": "Jaime Jaquez Jr. on the growth of teammate Casper",
+      "names_mentioned": [
+        "Casper"
+      ],
+      "excerpt": "Casper, he has just grown so much from last year to even this year",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Who impressed you the most about those two in particular? Casper had a new career high 25 points tonight."
+        },
+        {
+          "speaker": "Jaime Jaquez Jr.",
+          "text": "Casper, he has just grown so much from last year to even this year. Getting traded after your first year is no easy thing to do, and I am just trying to do my best to give him a lot of confidence. I know the rest of the team is, just give him all the confidence in the world."
+        }
+      ],
+      "start_seconds": 204,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Jaime Jaquez Jr. praises Casper after his career high 25 point night: Casper has just grown so much from last year to even this year. Getting traded after your first year is no easy thing to do.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Casper"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaime Jaquez Jr. discusses the growth of his teammate Casper following his career-high performance and previous trade.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "jy8L2TcrmZ4",
+  "url": "https://www.youtube.com/watch?v=jy8L2TcrmZ4",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-16T03:59:12Z",
+  "duration_seconds": 270,
+  "processed_at": "2026-11-16T08:03:54Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,144 @@
+{
+  "video_title": "Mo Bamba talks about his 26 point performance, what's working vs. Spurs",
+  "speakers_seen": [
+    "Mo Bamba"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mo Bamba",
+      "timestamp": "00:13",
+      "summary_phrase": "Mo Bamba on his perimeter shooting development",
+      "names_mentioned": [],
+      "excerpt": "It's funny to me when people are surprised that I can step out and shoot",
+      "quote": "I worked on my shot a lot. I worked on my shot all summer. It's funny to me when people are surprised that I can step out and shoot, but it's just something that I worked on, something that the coaches continuously encourage me to shoot in my warm-up. Today was just a matter of game plan, just going out there and trying to get Wembanyama to leave the paint.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mo Bamba says his perimeter shooting is no accident after a summer of work. He noted that his goal against the Spurs was specifically to pull Wembanyama out of the paint to open up the floor.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "UTA",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mo Bamba discusses his perimeter shooting performance and his strategy to pull Victor Wembanyama away from the paint during a game against the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mo Bamba",
+      "timestamp": "00:53",
+      "summary_phrase": "How Bamba's shooting forced the Spurs to change defensive coverage",
+      "names_mentioned": [
+        "Wembanyama"
+      ],
+      "excerpt": "It definitely affected the game because they switched their coverages",
+      "quote": "It definitely affected the game because they switched their coverages. They went from the drop that they always do, which they found tremendous success in, because Wembanyama is 7'4\" and mobile. But they ended up changing it after the third or fourth three, and we were able to maneuver and get other things going too. It affected them enough to change their coverage.",
+      "text_blocks": [],
+      "start_seconds": 53,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Mo Bamba explains how his shooting forced the Spurs to abandon their usual drop coverage. It is a clear example of how his floor spacing changed the defensive look for San Antonio.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "UTA",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mo Bamba explains how his three-point shooting forced the Spurs to adjust their defensive coverage against Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mo Bamba",
+      "timestamp": "01:51",
+      "summary_phrase": "Mo Bamba on the small margins of error in the NBA",
+      "names_mentioned": [],
+      "excerpt": "The margin of error in the NBA, the difference between winning and losing is so small",
+      "quote": "The margin of error in the NBA, the difference between winning and losing is so small. It's the difference of missing a box out, the difference of turning the ball over in extra time, the difference of not whipping a screen and chasing instead. It sucks because we're on the losing end of having to learn that, but there's a lot of good things we do out there.",
+      "text_blocks": [],
+      "start_seconds": 111,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mo Bamba on the thin margin for error in the NBA. He says the difference between winning and losing comes down to small details like missing a box out or turning the ball over.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Mo Bamba reflects on the small margins of error that determine winning and losing in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mo Bamba",
+      "timestamp": "02:16",
+      "summary_phrase": "Mo Bamba on the team's resilience during a rebuilding phase",
+      "names_mentioned": [
+        "Rick Pitino",
+        "Larry Bird"
+      ],
+      "excerpt": "I've been on teams before where it was clearly a rebuilding and it just kind of felt hopeless",
+      "quote": "I've been on teams before where it was clearly a rebuilding and it just kind of felt hopeless, but it doesn't feel like that in our locker room. It doesn't feel like that on the court. It doesn't feel like that in our huddles. The coaches care, the players care, everybody cares. It's just a matter of putting together one or two extra possessions of just solid, smart NBA basketball. No one's coming through the door—what did Rick Pitino say when he was with the Celtics? Larry Bird ain't coming through the door to help us. It's a matter of who's in that locker room, who's in film with us, and who's really with us.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Mo Bamba says the Jazz locker room does not feel hopeless despite the record. He referenced the famous Rick Pitino line saying Larry Bird ain't coming through the door to save them, emphasizing that the current group has to figure it out.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Mo Bamba discusses the team's resilience and locker room culture despite their current struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "_xLTjdUhqpU",
+  "url": "https://www.youtube.com/watch?v=_xLTjdUhqpU",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-16T01:41:53Z",
+  "duration_seconds": 230,
+  "processed_at": "2026-11-16T08:04:34Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,230 @@
+{
+  "video_title": "Ajay Mitchell on OKC's Defense and Offense | Postgame Media | November 15, 2026",
+  "speakers_seen": [
+    "Ajay Mitchell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "00:09",
+      "summary_phrase": "Ajay Mitchell on OKC's defensive intensity and team identity",
+      "names_mentioned": [],
+      "excerpt": "being the team we always are, being aggressive, trying to get steals, run, staying in front of guys",
+      "quote": "I think just our attention to personnel. Obviously we knew A-Cuff was going to have the ball a lot and just showing him a lot of bodies. And then I think just overall being the team we always are, being aggressive, trying to get steals, run, staying in front of guys. I mean, all the guys love to compete on that end of the floor and that just every night makes it fun.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ajay Mitchell on the Thunder defensive identity: We knew we had to show them a lot of bodies and just be the team we always are, being aggressive, trying to get steals, and staying in front of guys.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell discusses the team's defensive strategy and intensity following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "00:49",
+      "summary_phrase": "Ajay Mitchell on the growth and development of young teammates",
+      "names_mentioned": [],
+      "excerpt": "seeing them grow every day, learn every day. Obviously we had a lot of guys that were in that position",
+      "quote": "It's great. It's exciting, you know, excited for them just seeing them grow every day, learn every day. Obviously we had a lot of guys that were in that position in the past and just seeing that, I mean, it's just fun. You see the growth every night and just excited for those guys to just keep getting better and helping us win.",
+      "verbatim_original_language": "",
+      "start_seconds": 49,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ajay Mitchell on the development of his young teammates: It is exciting seeing them grow every day and learn every day. It is just fun to see the growth every night.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ajay Mitchell reflects on the development and growth of his younger teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "01:13",
+      "summary_phrase": "Ajay Mitchell on teammate's quick adjustment to the team",
+      "names_mentioned": [
+        "Nique"
+      ],
+      "excerpt": "he's going out there, he's competing every minute and I think even off the floor connecting with all the guys",
+      "quote": "I think he's done a great job. Obviously knew Nique from before we did pre-draft together and I mean, he's a great dude, a great competitor. It takes time to adapt and adjust but he's done a great job. He's going out there, he's competing every minute and I think even off the floor connecting with all the guys. So it's fun to have him, excited for him, but it's great for us to have him on the team.",
+      "verbatim_original_language": "",
+      "start_seconds": 73,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ajay Mitchell on his teammate Nique: He is a great dude and a great competitor. It takes time to adapt and adjust but he has done a great job competing every minute.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nique"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ajay Mitchell praises his teammate Nique for his quick adjustment and competitive spirit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "02:05",
+      "summary_phrase": "Ajay Mitchell on the team's culture and chemistry",
+      "names_mentioned": [],
+      "excerpt": "it's just a lot of great people and it's just it makes it so much easier",
+      "quote": "Just great people, honestly. I think everybody, players, staff, everyone, I think it's just a lot of great people and it's just it makes it so much easier. I think when I got here it was the same thing and I think every guy that comes in feels that way and there's a reason, I mean, we have amazing guys and that really helps.",
+      "verbatim_original_language": "",
+      "start_seconds": 125,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ajay Mitchell on the Thunder culture: It is just great people, honestly. Players, staff, everyone. It makes it so much easier when you have amazing guys.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell comments on the positive culture and chemistry within the Oklahoma City organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "02:31",
+      "summary_phrase": "Ajay Mitchell on his motivation to play despite being questionable",
+      "names_mentioned": [],
+      "excerpt": "I just like to play. I like to be on the court and then help my team win",
+      "quote": "I just like to play. I like to be on the court and then help my team win and felt like I was good to go. So to me it was like a no-brainer. I just wanted to go out there and compete. That's the fun part of my life, you know, being able to just go out there every night and compete against great teams, whoever it is, just being out there against great guys. So that's the fun part.",
+      "verbatim_original_language": "",
+      "start_seconds": 151,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Ajay Mitchell on playing through injury: I just like to play. I like to be on the court and help my team win. It was a no brainer. I just wanted to go out there and compete.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Ajay Mitchell explains his decision to play despite being listed as questionable on the injury report.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "03:33",
+      "summary_phrase": "Ajay Mitchell on evaluating a rookie's performance",
+      "names_mentioned": [
+        "A-Cuff"
+      ],
+      "excerpt": "the numbers he's getting as a rookie are pretty impressive and I think I think he's a good player",
+      "quote": "I mean, I think he's super talented. Obviously the numbers he's getting as a rookie are pretty impressive and I think I think he's a good player. I'm focused on our team, but I think every night this league has so many great players and he's a pretty good player. For a rookie being able to compete against him was fun.",
+      "verbatim_original_language": "",
+      "start_seconds": 213,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ajay Mitchell on facing a talented rookie: He is super talented. The numbers he is getting as a rookie are pretty impressive. Every night this league has so many great players.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell shares his thoughts on the performance of an opposing rookie player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "04:15",
+      "summary_phrase": "Ajay Mitchell on defensive strategy against Sacramento",
+      "names_mentioned": [],
+      "excerpt": "crowding the ball, not giving them anything easy and just being aggressive on and off the ball",
+      "quote": "I think just being ourselves on defense, you know, just crowding the ball, not giving them anything easy and just being aggressive on and off the ball. And I think that's our mindset and the way we play. We never want to let guys be comfortable and I think we did a good job tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 255,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ajay Mitchell on the defensive mindset: We never want to let guys be comfortable. Just crowding the ball, not giving them anything easy and being aggressive on and off the ball.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell describes the defensive mindset the team employed against the Sacramento Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "GW5rTpDyXaY",
+  "url": "https://www.youtube.com/watch?v=GW5rTpDyXaY",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-16T05:49:41Z",
+  "duration_seconds": 278,
+  "processed_at": "2026-11-16T08:03:24Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}
