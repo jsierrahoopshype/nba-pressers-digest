@@ -1,0 +1,337 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability  | 11-15-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:00",
+      "summary_phrase": "Jordan Ott on defensive struggles in the first quarter",
+      "names_mentioned": [],
+      "excerpt": "It's not a secret he leads the NBA in scoring, leads in the first quarter scoring.",
+      "quote": "It's a mix of both. It's game plan, decision making, not quite executing how we wanted to execute. They ran a couple and then he hits some tough shots. But it's not a secret he leads the NBA in scoring, leads in the first quarter scoring. He's going to play all 12 minutes. I thought towards the end of that quarter we slowed him down enough, but he definitely had it going from the get-go.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the defensive struggles against a high scoring opponent: It is a mix of game plan and decision making. It is not a secret he leads the NBA in scoring and he is going to play all 12 minutes.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the team's defensive struggles during the first quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:37",
+      "summary_phrase": "Jordan Ott on the potential of rookie player",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "What he does in today's league translates. Just needs experience, force, physicality, energy, downhill driving ability.",
+      "quote": "What he does in today's league translates. Just needs experience, force, physicality, energy, downhill driving ability, ability to guard. At least one possession on Luka Doncic there. He has the ability to really guard. We'll keep challenging him to rebound. But yeah, I think for his first time on the floor in a unique situation like that, I thought he was fantastic.",
+      "text_blocks": [],
+      "start_seconds": 37,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott was impressed by his rookie in his first extended floor time: What he does in today's league translates. He has the ability to really guard and he was fantastic.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "PHX",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott evaluates the performance of a rookie player who spent time guarding Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:25",
+      "summary_phrase": "Jordan Ott on the team's slow start against a strong opponent",
+      "names_mentioned": [],
+      "excerpt": "The start wasn't ideal when you're behind the eight ball like that on a team that comes in 11-2.",
+      "quote": "The start wasn't ideal when you're behind the eight ball like that on a team that comes in 11-2, a team that's been playing well, one of the best scoring in the league, one of the best players in the league. Got to be ready to go. In the first quarter we tried to close that gap, then it widened again in the third. Then down the stretch that group kind of got us back into it.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jordan Ott on the slow start against a tough opponent: The start was not ideal when you are behind the eight ball like that against a team that has been playing well. Got to be ready to go.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott reflects on the team's slow start against a high-scoring opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:20",
+      "summary_phrase": "Jordan Ott on the synergy of the reserve unit",
+      "names_mentioned": [
+        "Conrad",
+        "Gillespie"
+      ],
+      "excerpt": "They have individual dynamics they bring, but there's a synergy between those two as well that feels super frenetic.",
+      "quote": "They have individual dynamics they bring, but there's a synergy between those two as well that feels super frenetic. It helps that they get off of it quick. Their shooting ability helps. I mean, we could start there. Their ability to stretch the floor from how far they shoot it, their ability to move well without it, but it's that part is contagious. It's not something that they just learned in the last couple of weeks, it's some of that is an innate way that those guys play.",
+      "text_blocks": [],
+      "start_seconds": 140,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the synergy of his reserve unit: They have individual dynamics they bring, but there is a synergy between those two as well that feels super frenetic. It is contagious.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott explains the synergy and playing style of the team's reserve unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:28",
+      "summary_phrase": "Jordan Ott on managing lineup changes during deficits",
+      "names_mentioned": [
+        "Devin"
+      ],
+      "excerpt": "You can see it creeping in. You hope you can get over the hump.",
+      "quote": "You can see it creeping in. You hope you can get over the hump. Obviously tomorrow night's in the back of your mind, but then when you get in the moment, you're just trying to do whatever it takes to win that game. Those guys, it was Luke and Colin, had it really going to bring one of those guys out right there. That was a decision that we made, but definitely on our heads.",
+      "text_blocks": [],
+      "start_seconds": 208,
+      "end_seconds": 237,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott on managing lineups during a deficit: You are just trying to do whatever it takes to win that game. Those guys had it really going to bring one of those guys out right there. That was a decision that we made.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luke",
+          "Colin"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Jordan Ott discusses the decision to substitute Luke and Colin during a deficit.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:05",
+      "summary_phrase": "Jordan Ott on the team's plus-minus struggles",
+      "names_mentioned": [],
+      "excerpt": "I still think it's both sides are connected. Emotions connected, the feeling of how it all should feel.",
+      "quote": "I still think it's both sides are connected. Emotions connected, the feeling of how it all should feel, the rhythm of the game. It's such a hard thing to develop outside of the heat of the moment environments. We're 12 games in, we're starting to get a larger sample size, but it still is 12 games. These guys have played a lot of NBA minutes. It's probably slightly in a different role for some, but we'll continue to talk about it.",
+      "text_blocks": [],
+      "start_seconds": 245,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jordan Ott on the team's plus minus struggles: I still think both sides are connected. Emotions connected, the feeling of how it all should feel, the rhythm of the game. It is a hard thing to develop outside of the heat of the moment.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott addresses the team's struggles with rhythm and plus-minus after twelve games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:12",
+      "summary_phrase": "Jordan Ott on Dylan's limited shot attempts",
+      "names_mentioned": [
+        "Dylan"
+      ],
+      "excerpt": "I think he's made huge strides with it. Tonight just wasn't it. You never want one of your best players.",
+      "quote": "I think he's made huge strides with it. Tonight just wasn't it. You never want one of your best players to have two shots. We just couldn't again get to that flow state or that rhythm, and definitely we got to try to find new ways to get him in an aggressive mindset because we need him. We need him every night, we need him on both ends.",
+      "text_blocks": [],
+      "start_seconds": 312,
+      "end_seconds": 338,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Jordan Ott on Dylan's limited shot attempts: You never want one of your best players to have two shots. We have to try to find new ways to get him in an aggressive mindset because we need him every night.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the need to get Dylan more involved offensively after he only took two shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:47",
+      "summary_phrase": "Jordan Ott on whether high energy is attitude or skill",
+      "names_mentioned": [],
+      "excerpt": "Right now, energy is a skill. Energy, effort, spirit, that you can see in the other squad.",
+      "quote": "Right now, energy is a skill. Energy, effort, spirit, that you can see in the other squad. They can feel it in that early in the first quarter, the way that they were playing the ball was moving, how hard they were playing defensively. That's what's coming across the league right now. We've had spurts, just tonight wasn't it.",
+      "text_blocks": [],
+      "start_seconds": 347,
+      "end_seconds": 370,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordan Ott on the team's effort level: Right now, energy is a skill. Energy, effort, spirit, that you can see in the other squad. They can feel it early in the first quarter.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott shares his perspective on why energy and effort are considered skills in the current NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jordan Ott",
+      "timestamp": "06:41",
+      "summary_phrase": "Jordan Ott on the small-ball lineup performance",
+      "names_mentioned": [
+        "Kaman",
+        "Doncic"
+      ],
+      "excerpt": "Kaman was the only other member of the team with a positive plus-minus.",
+      "quote": "Kaman was the only other member of the team with a positive plus-minus. Liked what Kaman brings, where it has the ability to switch because when new Doncic was coming back in there, and we loved what Kaman brought.",
+      "text_blocks": [],
+      "start_seconds": 401,
+      "end_seconds": 416,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott on Kaman's defensive impact: Liked what Kaman brings, where it has the ability to switch. We loved what Kaman brought.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kaman",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "PHX",
+          "DAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Jordan Ott explains the defensive value Kaman provided when guarding Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jordan Ott",
+      "timestamp": "07:10",
+      "summary_phrase": "Jordan Ott on defending Luka Doncic",
+      "names_mentioned": [
+        "Doncic",
+        "Luka",
+        "Goody"
+      ],
+      "excerpt": "Once he gets downhill, he's so strong and you it's really hard to speed him up.",
+      "quote": "Goody always brings it. His relationship there that I think helps. He had good minutes against him last year. But Luka is big. Once he gets downhill, he's so strong and you it's really hard to speed him up. That's when it's the guessing game of do you bring the five across? If not, he is significantly taller than Goody. So Goody fought like he does every night. Thought he had a really good stretch there at times, but Luka is big.",
+      "text_blocks": [],
+      "start_seconds": 430,
+      "end_seconds": 462,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Jordan Ott on the challenge of defending Luka Doncic: Once he gets downhill, he is so strong and it is really hard to speed him up. That is when it is the guessing game of do you bring the five across?",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Goody",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "PHX",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott describes the difficulty of defending Luka Doncic and praises Goody's defensive effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "i13yfziszx0",
+  "url": "https://www.youtube.com/watch?v=i13yfziszx0",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-16T15:30:51Z",
+  "duration_seconds": 484,
+  "processed_at": "2026-11-16T18:39:10Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

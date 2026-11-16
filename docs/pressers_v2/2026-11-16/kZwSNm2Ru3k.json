@@ -1,0 +1,341 @@
+{
+  "video_title": "Cavs Shootaround | Donovan Mitchell & Meleek Thomas Media Availability | 11.16.2026",
+  "speakers_seen": [
+    "Donovan Mitchell",
+    "Meleek Thomas"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "00:16",
+      "summary_phrase": "Donovan Mitchell on the impact of Tyrese Maxey's playmaking",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "Donovan Mitchell"
+      ],
+      "excerpt": "what you're seeing from him adds another playmaker",
+      "quote": "What you're seeing from him adds another playmaker. As he continues to be this guy, and Meleek, obviously we're talking about Tyrese Maxey, the team's starting to respect that and guarding that. There's way more space for myself and for Darius. And even if they don't, keep being the 50% three-point shooter, whatever the tag that you are, and make plays. As long as it equates to winning basketball, that's truly what matters.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Donovan Mitchell on the impact of Tyrese Maxey: As he continues to be this guy, the team is starting to respect that and guarding that. There is way more space for myself and for Darius.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey",
+          "Darius Garland"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell discusses the impact of Tyrese Maxey's playmaking on the Cavaliers offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "00:52",
+      "summary_phrase": "Donovan Mitchell on Tyrese Maxey's growth and triple-double potential",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "for him to be in that position and get a triple-double, not have 40, not have 45",
+      "quote": "For him to be in that position and get a triple-double, not have 40, not have 45, to do literally everything on the floor, I really want the world's guys out there against a team where they have Cooper, Gafford, Miles Johnson, you have TB out there, for Mario, you have all them guys out there, and he's getting 11 boards. Obviously he's passing and creating, making the right read. That tells you a lot about his mental, which we've spoken about all preseason.",
+      "text_blocks": [],
+      "start_seconds": 52,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Donovan Mitchell praises Tyrese Maxey for his all-around play: For him to be in that position and get a triple-double, not have 40, not have 45, to do literally everything on the floor, that tells you a lot about his mental.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell praises Tyrese Maxey for his recent triple-double performance and mental growth.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "01:56",
+      "summary_phrase": "Donovan Mitchell on mentoring Tyrese Maxey and mental growth",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "I think he's taking the time on himself to really get working with James",
+      "quote": "I think he's taking the time on himself to really get working with James. I think for me, my biggest thing, obviously we have the same agent, so a lot of it for me is more the mental side. When you get like that, you can either be really hard on yourself for every little mistake. I think in the league, some are in that way of like, they make one mistake, they're like, no. I think he's done a great job of just being free and just understanding, hey, 50% is great. I don't really care. It's like, you're playing hard, you're playing with intention.",
+      "text_blocks": [],
+      "start_seconds": 116,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Donovan Mitchell on mentoring Tyrese Maxey: I think he has done a great job of just being free and just understanding, hey, 50% is great. I do not really care. It is like, you are playing hard, you are playing with intention.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell discusses mentoring Tyrese Maxey on the mental aspects of playing in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "03:22",
+      "summary_phrase": "Donovan Mitchell on the benefits of coaching teammates from the sidelines",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "teaching also helps you learn",
+      "quote": "Teaching also helps you learn. The more you teach somebody, the more it helps you cognitively. I've also seen for them, they're in positions that they typically be in not, having a UCR or having the comfort G's, right? So kind of giving them things that are like, oh, you can do this. So now when they're getting guarded by the seventh, eighth, ninth best defender, they've already been guarded by a Naji Marshall or Caleb Martin. They understand how to manipulate that.",
+      "text_blocks": [],
+      "start_seconds": 202,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Donovan Mitchell on the value of teaching teammates: Teaching also helps you learn. The more you teach somebody, the more it helps you cognitively.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell explains how teaching younger teammates helps his own cognitive development on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "08:38",
+      "summary_phrase": "Donovan Mitchell on the depth and talent of the Cavaliers roster",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "Meleek Thomas",
+        "Jaylen Tyson",
+        "Mario",
+        "TB"
+      ],
+      "excerpt": "it's a testament to the staff, the PD, the guys in general",
+      "quote": "It's a testament to the staff, the PD, the guys in general, also to the front office for seeing gems like Tyrese Maxey, Meleek Thomas, Riley, Norchad, Jaylen Tyson, right? When you have nights like that where your guys are out, it reminded me of when we played Golden State like three years ago and Steph and Draymond and Klay and all those guys were out and we lost to Ty, Dante DiVincenzo, I forgot who else was out there, but like it kind of felt like that where you have something that's in place and you have guys that just want to be hungry and compete and go.",
+      "text_blocks": [],
+      "start_seconds": 518,
+      "end_seconds": 560,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Donovan Mitchell on the Cavs depth: It is a testament to the staff and the front office for seeing gems like Tyrese Maxey, Meleek Thomas, Riley, Norchad, and Jaylen Tyson.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey",
+          "Meleek Thomas",
+          "Jaylen Tyson"
+        ],
+        "teams": [
+          "CLE",
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell credits the front office and coaching staff for the depth and talent of the current Cavaliers roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Meleek Thomas",
+      "timestamp": "08:52",
+      "summary_phrase": "Meleek Thomas on the importance of routine for rookie success",
+      "names_mentioned": [],
+      "excerpt": "my path to success when it comes to efficiency is just when I got here",
+      "quote": "My path to success when it comes to efficiency is just when I got here, my vets told me just get a routine. Routine is going to be much needed when you get to this level. So I just got my routine early. I do the same thing game days, same things, get my work in when we're not playing and just stick to it. And when you got consistent work habits, then it's going to translate.",
+      "text_blocks": [],
+      "start_seconds": 532,
+      "end_seconds": 562,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Meleek Thomas on his rookie transition: My vets told me just get a routine. Routine is going to be much needed when you get to this level. So I just got my routine early.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas explains how establishing a consistent routine has been essential for his success as a rookie.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Meleek Thomas",
+      "timestamp": "09:35",
+      "summary_phrase": "Meleek Thomas on ignoring rankings and focusing on self-improvement",
+      "names_mentioned": [],
+      "excerpt": "they don't really matter to me",
+      "quote": "They don't really matter to me. What other people's statistics are, not mine. I'm chasing the best for myself. So I'm pretty sure we all heard that comparison is the thief of joy. So if I compare myself to somebody else, it's just going to put me in the wrong head space in my opinion.",
+      "text_blocks": [],
+      "start_seconds": 575,
+      "end_seconds": 596,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Meleek Thomas on ignoring outside noise: Comparison is the thief of joy. If I compare myself to somebody else, it is just going to put me in the wrong head space.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas discusses his mindset regarding external rankings and focusing on his own improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Meleek Thomas",
+      "timestamp": "10:15",
+      "summary_phrase": "Meleek Thomas on the source of his killer mindset",
+      "names_mentioned": [],
+      "excerpt": "just the will and the drive to want to be better than the next guy",
+      "quote": "Just the will and the drive to want to be better than the next guy. Want to be more forceful and dominant than the guy on the opposing side for me. Because if you win your matchup and people come out of that game like, yeah, he really took care of business versus whoever he was faced up against, then it's just like, you always want to be on the other hand.",
+      "text_blocks": [],
+      "start_seconds": 615,
+      "end_seconds": 643,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Meleek Thomas on his competitive drive: I want to be more forceful and dominant than the guy on the opposing side. If you win your matchup, then it is just like, you always want to be on the other hand.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas describes the source of his competitive drive and desire to dominate his individual matchups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Meleek Thomas",
+      "timestamp": "11:35",
+      "summary_phrase": "Meleek Thomas on the support system from staff and teammates",
+      "names_mentioned": [],
+      "excerpt": "it just allows you to be yourself more",
+      "quote": "Significantly, just to have that support and that backing from your staff and coaching staff, your teammates alongside of you, it's like they got your back from day one. It just allows you to be yourself more, allows you to get outside your comfort zone, just allows you to explore more when you know you got that support system rather than them being a little bit hesitant with me or a little passive, because then that's how you start to be. You might start to be passive, but I feel even if they were hesitant or passive with me, I would still just shine and be myself.",
+      "text_blocks": [],
+      "start_seconds": 695,
+      "end_seconds": 736,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Meleek Thomas on the Cavs support system: It allows you to be yourself more, allows you to get outside your comfort zone, just allows you to explore more when you know you got that support system.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Meleek Thomas discusses the importance of the support system provided by his teammates and coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Meleek Thomas",
+      "timestamp": "12:30",
+      "summary_phrase": "Meleek Thomas on maintaining an even-keel mentality",
+      "names_mentioned": [],
+      "excerpt": "don't get too high, don't get too low",
+      "quote": "As I approach some of the highs and lows for the team as a whole, it's just stay even-kill. Don't get too high, don't get too low. I just try to stress that over and over and over, because you're going to go through so much, so many ups and downs, losses, wins, amazing games, not your best games. But if you can just stay that even-kill and just know that tomorrow I'm still give my all, I'm going to give it a 100 tomorrow, the next day a 100, 100, 100, and just stack those, then at the end, your result will be what you need in my opinion.",
+      "text_blocks": [],
+      "start_seconds": 750,
+      "end_seconds": 782,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Meleek Thomas on his mentality: Stay even-kill. Do not get too high, do not get too low. You are going to go through so much, so many ups and downs, but if you can just stay that even-kill, your result will be what you need.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas explains his approach to maintaining an even-keel mentality throughout the ups and downs of the NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "kZwSNm2Ru3k",
+  "url": "https://www.youtube.com/watch?v=kZwSNm2Ru3k",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-16T18:31:24Z",
+  "duration_seconds": 782,
+  "processed_at": "2026-11-16T18:39:15Z",
+  "run_id": "2026-11-16-overnight",
+  "is_one_off": false
+}

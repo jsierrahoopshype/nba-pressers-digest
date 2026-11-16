@@ -74,7 +74,17 @@ From: [Jaime Jaquez Jr. Postgame Media Availability \| 11.15.26](https://www.you
 
 <small>[Clip it](presserclips://clip?v=jy8L2TcrmZ4&t=0&q=1) · [Send to Slack](presserclips://clip?v=jy8L2TcrmZ4&t=0&q=1&slack=1)</small>
 
-**8. Shai Gilgeous-Alexander — "Above all, just being confident. That's all you can really ask for them." — Shai Gilgeous-Alexander on the confidence of young players in new roles** [02:39](https://www.youtube.com/watch?v=uR1jaakFxs4&t=159s)
+**8. Donovan Mitchell — "what you're seeing from him adds another playmaker" — Donovan Mitchell on the impact of Tyrese Maxey's playmaking** [00:16](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=16s)
+
+Donovan Mitchell: "What you're seeing from him adds another playmaker. As he continues to be this guy, and Meleek, obviously we're talking about **Tyrese Maxey**, the team's starting to respect that and guarding that. There's way more space for myself and for Darius. And even if they don't, keep being the 50% three-point shooter, whatever the tag that you are, and make plays. As long as it equates to winning basketball, that's truly what matters."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=16s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=16s)
+
+From: [Cavs Shootaround \| Donovan Mitchell & Meleek Thomas Media Availability \| 11.16.2026](https://www.youtube.com/watch?v=kZwSNm2Ru3k) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=16&q=1) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=16&q=1&slack=1)</small>
+
+**9. Shai Gilgeous-Alexander — "Above all, just being confident. That's all you can really ask for them." — Shai Gilgeous-Alexander on the confidence of young players in new roles** [02:39](https://www.youtube.com/watch?v=uR1jaakFxs4&t=159s)
 
 Shai Gilgeous-Alexander: "I think they've done a really good job. Above all, just being confident. That's all you can really ask for them. Whether they thought they were going to have the role they have or not, it is a reality, and we're going to need them. We're going to need the best version of them, and when people are at their best version, they're their most confident."
 
@@ -84,7 +94,7 @@ From: [SGA on Team's Offense and Continued Growth \| Postgame Media \| November 
 
 <small>[Clip it](presserclips://clip?v=uR1jaakFxs4&t=159&q=4) · [Send to Slack](presserclips://clip?v=uR1jaakFxs4&t=159&q=4&slack=1)</small>
 
-**9. Ajay Mitchell — "being the team we always are, being aggressive, trying to get steals, run, staying in front of guys" — Ajay Mitchell on OKC's defensive intensity and team identity** [00:09](https://www.youtube.com/watch?v=GW5rTpDyXaY&t=9s)
+**10. Ajay Mitchell — "being the team we always are, being aggressive, trying to get steals, run, staying in front of guys" — Ajay Mitchell on OKC's defensive intensity and team identity** [00:09](https://www.youtube.com/watch?v=GW5rTpDyXaY&t=9s)
 
 Ajay Mitchell: "I think just our attention to personnel. Obviously we knew A-Cuff was going to have the ball a lot and just showing him a lot of bodies. And then I think just overall being the team we always are, being aggressive, trying to get steals, run, staying in front of guys. I mean, all the guys love to compete on that end of the floor and that just every night makes it fun."
 
@@ -94,7 +104,7 @@ From: [Ajay Mitchell on OKC's Defense and Offense \| Postgame Media \| November 
 
 <small>[Clip it](presserclips://clip?v=GW5rTpDyXaY&t=9&q=1) · [Send to Slack](presserclips://clip?v=GW5rTpDyXaY&t=9&q=1&slack=1)</small>
 
-**10. Alex Sarr — "We can't be too down on ourselves, but at the same time, nobody going to be sorry for us." — Alex Sarr on the need for internal accountability and energy** [06:40](https://www.youtube.com/watch?v=QAcot0ShS1o&t=400s)
+**11. Alex Sarr — "We can't be too down on ourselves, but at the same time, nobody going to be sorry for us." — Alex Sarr on the need for internal accountability and energy** [06:40](https://www.youtube.com/watch?v=QAcot0ShS1o&t=400s)
 
 Alex Sarr: "We can't be too down on ourselves, but at the same time, nobody going to be sorry for us, nobody going to help us. So it's really about finding that energy in a group and going out there and doing it."
 
@@ -104,7 +114,7 @@ From: [Media Availability: Head Coach Brian Keefe, Kyshawn George and Alex Sarr 
 
 <small>[Clip it](presserclips://clip?v=QAcot0ShS1o&t=400&q=13) · [Send to Slack](presserclips://clip?v=QAcot0ShS1o&t=400&q=13&slack=1)</small>
 
-**11. Christian Anderson Jr. — "they put a big importance on being able to guard the ball and be physical and be disruptive" — Christian Anderson Jr. on defensive expectations and team identity** [00:34](https://www.youtube.com/watch?v=TYcLXK29XzM&t=34s)
+**12. Christian Anderson Jr. — "they put a big importance on being able to guard the ball and be physical and be disruptive" — Christian Anderson Jr. on defensive expectations and team identity** [00:34](https://www.youtube.com/watch?v=TYcLXK29XzM&t=34s)
 
 Christian Anderson Jr.: "From the beginning, when I got drafted here, they put a big importance on being able to guard the ball and be physical and be disruptive. Try to create extra possessions for our team and make it as hard as I can to make it as hard for them to score. So, yeah, I've put in a lot of work and put a lot of emphasis on just guarding the ball and being aggressive on that end of the floor."
 
@@ -113,6 +123,16 @@ Christian Anderson Jr.: "From the beginning, when I got drafted here, they put a
 From: [Hornets at Clippers: Christian Anderson Jr. Postgame Media Availability \| 11/15/2026](https://www.youtube.com/watch?v=TYcLXK29XzM) · *Charlotte Hornets*
 
 <small>[Clip it](presserclips://clip?v=TYcLXK29XzM&t=34&q=2) · [Send to Slack](presserclips://clip?v=TYcLXK29XzM&t=34&q=2&slack=1)</small>
+
+**13. Meleek Thomas — "just the will and the drive to want to be better than the next guy" — Meleek Thomas on the source of his killer mindset** [10:15](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=615s)
+
+Meleek Thomas: "Just the will and the drive to want to be better than the next guy. Want to be more forceful and dominant than the guy on the opposing side for me. Because if you win your matchup and people come out of that game like, yeah, he really took care of business versus whoever he was faced up against, then it's just like, you always want to be on the other hand."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=615s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=615s)
+
+From: [Cavs Shootaround \| Donovan Mitchell & Meleek Thomas Media Availability \| 11.16.2026](https://www.youtube.com/watch?v=kZwSNm2Ru3k) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=615&q=8) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=615&q=8&slack=1)</small>
 
 ---
 
@@ -846,6 +866,94 @@ Scottie Barnes: "We lost a game that we know we could have won for sure. That it
 
 ---
 
+## Head Coach Jordan Ott Postgame Media Availability  | 11-15-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=i13yfziszx0](https://www.youtube.com/watch?v=i13yfziszx0)
+
+_Speakers identified: Jordan Ott_
+
+**1. Jordan Ott — "It's not a secret he leads the NBA in scoring, leads in the first quarter scoring." — Jordan Ott on defensive struggles in the first quarter** [00:00](https://www.youtube.com/watch?v=i13yfziszx0&t=0s)
+
+Jordan Ott: "It's a mix of both. It's game plan, decision making, not quite executing how we wanted to execute. They ran a couple and then he hits some tough shots. But it's not a secret he leads the NBA in scoring, leads in the first quarter scoring. He's going to play all 12 minutes. I thought towards the end of that quarter we slowed him down enough, but he definitely had it going from the get-go."
+
+[https://www.youtube.com/watch?v=i13yfziszx0&t=0s](https://www.youtube.com/watch?v=i13yfziszx0&t=0s)
+
+<small>[Clip it](presserclips://clip?v=i13yfziszx0&t=0&q=1) · [Send to Slack](presserclips://clip?v=i13yfziszx0&t=0&q=1&slack=1)</small>
+
+**2. Jordan Ott — "What he does in today's league translates. Just needs experience, force, physicality, energy, downhill driving ability." — Jordan Ott on the potential of rookie player** [00:37](https://www.youtube.com/watch?v=i13yfziszx0&t=37s)
+
+Jordan Ott: "What he does in today's league translates. Just needs experience, force, physicality, energy, downhill driving ability, ability to guard. At least one possession on **Luka Doncic** there. He has the ability to really guard. We'll keep challenging him to rebound. But yeah, I think for his first time on the floor in a unique situation like that, I thought he was fantastic."
+
+[https://www.youtube.com/watch?v=i13yfziszx0&t=37s](https://www.youtube.com/watch?v=i13yfziszx0&t=37s)
+
+<small>[Clip it](presserclips://clip?v=i13yfziszx0&t=37&q=2) · [Send to Slack](presserclips://clip?v=i13yfziszx0&t=37&q=2&slack=1)</small>
+
+**3. Jordan Ott — "The start wasn't ideal when you're behind the eight ball like that on a team that comes in 11-2." — Jordan Ott on the team's slow start against a strong opponent** [01:25](https://www.youtube.com/watch?v=i13yfziszx0&t=85s)
+
+Jordan Ott: "The start wasn't ideal when you're behind the eight ball like that on a team that comes in 11-2, a team that's been playing well, one of the best scoring in the league, one of the best players in the league. Got to be ready to go. In the first quarter we tried to close that gap, then it widened again in the third. Then down the stretch that group kind of got us back into it."
+
+[https://www.youtube.com/watch?v=i13yfziszx0&t=85s](https://www.youtube.com/watch?v=i13yfziszx0&t=85s)
+
+<small>[Clip it](presserclips://clip?v=i13yfziszx0&t=85&q=3) · [Send to Slack](presserclips://clip?v=i13yfziszx0&t=85&q=3&slack=1)</small>
+
+**4. Jordan Ott — "They have individual dynamics they bring, but there's a synergy between those two as well that feels super frenetic." — Jordan Ott on the synergy of the reserve unit** [02:20](https://www.youtube.com/watch?v=i13yfziszx0&t=140s)
+
+Jordan Ott: "They have individual dynamics they bring, but there's a synergy between those two as well that feels super frenetic. It helps that they get off of it quick. Their shooting ability helps. I mean, we could start there. Their ability to stretch the floor from how far they shoot it, their ability to move well without it, but it's that part is contagious. It's not something that they just learned in the last couple of weeks, it's some of that is an innate way that those guys play."
+
+[https://www.youtube.com/watch?v=i13yfziszx0&t=140s](https://www.youtube.com/watch?v=i13yfziszx0&t=140s)
+
+<small>[Clip it](presserclips://clip?v=i13yfziszx0&t=140&q=4) · [Send to Slack](presserclips://clip?v=i13yfziszx0&t=140&q=4&slack=1)</small>
+
+**5. Jordan Ott — "You can see it creeping in. You hope you can get over the hump." — Jordan Ott on managing lineup changes during deficits** [03:28](https://www.youtube.com/watch?v=i13yfziszx0&t=208s)
+
+Jordan Ott: "You can see it creeping in. You hope you can get over the hump. Obviously tomorrow night's in the back of your mind, but then when you get in the moment, you're just trying to do whatever it takes to win that game. Those guys, it was Luke and Colin, had it really going to bring one of those guys out right there. That was a decision that we made, but definitely on our heads."
+
+[https://www.youtube.com/watch?v=i13yfziszx0&t=208s](https://www.youtube.com/watch?v=i13yfziszx0&t=208s)
+
+<small>[Clip it](presserclips://clip?v=i13yfziszx0&t=208&q=5) · [Send to Slack](presserclips://clip?v=i13yfziszx0&t=208&q=5&slack=1)</small>
+
+**6. Jordan Ott — "I still think it's both sides are connected. Emotions connected, the feeling of how it all should feel." — Jordan Ott on the team's plus-minus struggles** [04:05](https://www.youtube.com/watch?v=i13yfziszx0&t=245s)
+
+Jordan Ott: "I still think it's both sides are connected. Emotions connected, the feeling of how it all should feel, the rhythm of the game. It's such a hard thing to develop outside of the heat of the moment environments. We're 12 games in, we're starting to get a larger sample size, but it still is 12 games. These guys have played a lot of NBA minutes. It's probably slightly in a different role for some, but we'll continue to talk about it."
+
+[https://www.youtube.com/watch?v=i13yfziszx0&t=245s](https://www.youtube.com/watch?v=i13yfziszx0&t=245s)
+
+<small>[Clip it](presserclips://clip?v=i13yfziszx0&t=245&q=6) · [Send to Slack](presserclips://clip?v=i13yfziszx0&t=245&q=6&slack=1)</small>
+
+**7. Jordan Ott — "I think he's made huge strides with it. Tonight just wasn't it. You never want one of your best players." — Jordan Ott on Dylan's limited shot attempts** [05:12](https://www.youtube.com/watch?v=i13yfziszx0&t=312s)
+
+Jordan Ott: "I think he's made huge strides with it. Tonight just wasn't it. You never want one of your best players to have two shots. We just couldn't again get to that flow state or that rhythm, and definitely we got to try to find new ways to get him in an aggressive mindset because we need him. We need him every night, we need him on both ends."
+
+[https://www.youtube.com/watch?v=i13yfziszx0&t=312s](https://www.youtube.com/watch?v=i13yfziszx0&t=312s)
+
+<small>[Clip it](presserclips://clip?v=i13yfziszx0&t=312&q=7) · [Send to Slack](presserclips://clip?v=i13yfziszx0&t=312&q=7&slack=1)</small>
+
+**8. Jordan Ott — "Right now, energy is a skill. Energy, effort, spirit, that you can see in the other squad." — Jordan Ott on whether high energy is attitude or skill** [05:47](https://www.youtube.com/watch?v=i13yfziszx0&t=347s)
+
+Jordan Ott: "Right now, energy is a skill. Energy, effort, spirit, that you can see in the other squad. They can feel it in that early in the first quarter, the way that they were playing the ball was moving, how hard they were playing defensively. That's what's coming across the league right now. We've had spurts, just tonight wasn't it."
+
+[https://www.youtube.com/watch?v=i13yfziszx0&t=347s](https://www.youtube.com/watch?v=i13yfziszx0&t=347s)
+
+<small>[Clip it](presserclips://clip?v=i13yfziszx0&t=347&q=8) · [Send to Slack](presserclips://clip?v=i13yfziszx0&t=347&q=8&slack=1)</small>
+
+**9. Jordan Ott — "Kaman was the only other member of the team with a positive plus-minus." — Jordan Ott on the small-ball lineup performance** [06:41](https://www.youtube.com/watch?v=i13yfziszx0&t=401s)
+
+Jordan Ott: "**Kaman** was the only other member of the team with a positive plus-minus. Liked what **Kaman** brings, where it has the ability to switch because when new **Doncic** was coming back in there, and we loved what **Kaman** brought."
+
+[https://www.youtube.com/watch?v=i13yfziszx0&t=401s](https://www.youtube.com/watch?v=i13yfziszx0&t=401s)
+
+<small>[Clip it](presserclips://clip?v=i13yfziszx0&t=401&q=9) · [Send to Slack](presserclips://clip?v=i13yfziszx0&t=401&q=9&slack=1)</small>
+
+**10. Jordan Ott — "Once he gets downhill, he's so strong and you it's really hard to speed him up." — Jordan Ott on defending Luka Doncic** [07:10](https://www.youtube.com/watch?v=i13yfziszx0&t=430s)
+
+Jordan Ott: "**Goody** always brings it. His relationship there that I think helps. He had good minutes against him last year. But **Luka** is big. Once he gets downhill, he's so strong and you it's really hard to speed him up. That's when it's the guessing game of do you bring the five across? If not, he is significantly taller than **Goody**. So **Goody** fought like he does every night. Thought he had a really good stretch there at times, but **Luka** is big."
+
+[https://www.youtube.com/watch?v=i13yfziszx0&t=430s](https://www.youtube.com/watch?v=i13yfziszx0&t=430s)
+
+<small>[Clip it](presserclips://clip?v=i13yfziszx0&t=430&q=10) · [Send to Slack](presserclips://clip?v=i13yfziszx0&t=430&q=10&slack=1)</small>
+
+---
+
 ## Jaime Jaquez Jr. Postgame Media Availability | 11.15.26 — *Milwaukee Bucks*
 
 Source: [https://www.youtube.com/watch?v=jy8L2TcrmZ4](https://www.youtube.com/watch?v=jy8L2TcrmZ4)
@@ -891,6 +999,94 @@ _Speakers identified: Unidentified speaker, Jaime Jaquez Jr._
 [https://www.youtube.com/watch?v=jy8L2TcrmZ4&t=204s](https://www.youtube.com/watch?v=jy8L2TcrmZ4&t=204s)
 
 <small>[Clip it](presserclips://clip?v=jy8L2TcrmZ4&t=204&q=4) · [Send to Slack](presserclips://clip?v=jy8L2TcrmZ4&t=204&q=4&slack=1)</small>
+
+---
+
+## Cavs Shootaround | Donovan Mitchell & Meleek Thomas Media Availability | 11.16.2026 — *Cleveland Cavaliers*
+
+Source: [https://www.youtube.com/watch?v=kZwSNm2Ru3k](https://www.youtube.com/watch?v=kZwSNm2Ru3k)
+
+_Speakers identified: Donovan Mitchell, Meleek Thomas_
+
+**1. Donovan Mitchell — "what you're seeing from him adds another playmaker" — Donovan Mitchell on the impact of Tyrese Maxey's playmaking** [00:16](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=16s)
+
+Donovan Mitchell: "What you're seeing from him adds another playmaker. As he continues to be this guy, and Meleek, obviously we're talking about **Tyrese Maxey**, the team's starting to respect that and guarding that. There's way more space for myself and for Darius. And even if they don't, keep being the 50% three-point shooter, whatever the tag that you are, and make plays. As long as it equates to winning basketball, that's truly what matters."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=16s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=16s)
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=16&q=1) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=16&q=1&slack=1)</small>
+
+**2. Donovan Mitchell — "for him to be in that position and get a triple-double, not have 40, not have 45" — Donovan Mitchell on Tyrese Maxey's growth and triple-double potential** [00:52](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=52s)
+
+Donovan Mitchell: "For him to be in that position and get a triple-double, not have 40, not have 45, to do literally everything on the floor, I really want the world's guys out there against a team where they have Cooper, Gafford, Miles Johnson, you have TB out there, for Mario, you have all them guys out there, and he's getting 11 boards. Obviously he's passing and creating, making the right read. That tells you a lot about his mental, which we've spoken about all preseason."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=52s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=52s)
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=52&q=2) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=52&q=2&slack=1)</small>
+
+**3. Donovan Mitchell — "I think he's taking the time on himself to really get working with James" — Donovan Mitchell on mentoring Tyrese Maxey and mental growth** [01:56](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=116s)
+
+Donovan Mitchell: "I think he's taking the time on himself to really get working with James. I think for me, my biggest thing, obviously we have the same agent, so a lot of it for me is more the mental side. When you get like that, you can either be really hard on yourself for every little mistake. I think in the league, some are in that way of like, they make one mistake, they're like, no. I think he's done a great job of just being free and just understanding, hey, 50% is great. I don't really care. It's like, you're playing hard, you're playing with intention."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=116s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=116s)
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=116&q=3) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=116&q=3&slack=1)</small>
+
+**4. Donovan Mitchell — "teaching also helps you learn" — Donovan Mitchell on the benefits of coaching teammates from the sidelines** [03:22](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=202s)
+
+Donovan Mitchell: "Teaching also helps you learn. The more you teach somebody, the more it helps you cognitively. I've also seen for them, they're in positions that they typically be in not, having a UCR or having the comfort G's, right? So kind of giving them things that are like, oh, you can do this. So now when they're getting guarded by the seventh, eighth, ninth best defender, they've already been guarded by a Naji Marshall or Caleb Martin. They understand how to manipulate that."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=202s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=202s)
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=202&q=4) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=202&q=4&slack=1)</small>
+
+**5. Donovan Mitchell — "it's a testament to the staff, the PD, the guys in general" — Donovan Mitchell on the depth and talent of the Cavaliers roster** [08:38](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=518s)
+
+Donovan Mitchell: "It's a testament to the staff, the PD, the guys in general, also to the front office for seeing gems like **Tyrese Maxey**, **Meleek Thomas**, Riley, Norchad, **Jaylen Tyson**, right? When you have nights like that where your guys are out, it reminded me of when we played Golden State like three years ago and Steph and Draymond and Klay and all those guys were out and we lost to Ty, Dante DiVincenzo, I forgot who else was out there, but like it kind of felt like that where you have something that's in place and you have guys that just want to be hungry and compete and go."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=518s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=518s)
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=518&q=5) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=518&q=5&slack=1)</small>
+
+**6. Meleek Thomas — "my path to success when it comes to efficiency is just when I got here" — Meleek Thomas on the importance of routine for rookie success** [08:52](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=532s)
+
+Meleek Thomas: "My path to success when it comes to efficiency is just when I got here, my vets told me just get a routine. Routine is going to be much needed when you get to this level. So I just got my routine early. I do the same thing game days, same things, get my work in when we're not playing and just stick to it. And when you got consistent work habits, then it's going to translate."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=532s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=532s)
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=532&q=6) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=532&q=6&slack=1)</small>
+
+**7. Meleek Thomas — "they don't really matter to me" — Meleek Thomas on ignoring rankings and focusing on self-improvement** [09:35](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=575s)
+
+Meleek Thomas: "They don't really matter to me. What other people's statistics are, not mine. I'm chasing the best for myself. So I'm pretty sure we all heard that comparison is the thief of joy. So if I compare myself to somebody else, it's just going to put me in the wrong head space in my opinion."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=575s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=575s)
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=575&q=7) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=575&q=7&slack=1)</small>
+
+**8. Meleek Thomas — "just the will and the drive to want to be better than the next guy" — Meleek Thomas on the source of his killer mindset** [10:15](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=615s)
+
+Meleek Thomas: "Just the will and the drive to want to be better than the next guy. Want to be more forceful and dominant than the guy on the opposing side for me. Because if you win your matchup and people come out of that game like, yeah, he really took care of business versus whoever he was faced up against, then it's just like, you always want to be on the other hand."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=615s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=615s)
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=615&q=8) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=615&q=8&slack=1)</small>
+
+**9. Meleek Thomas — "it just allows you to be yourself more" — Meleek Thomas on the support system from staff and teammates** [11:35](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=695s)
+
+Meleek Thomas: "Significantly, just to have that support and that backing from your staff and coaching staff, your teammates alongside of you, it's like they got your back from day one. It just allows you to be yourself more, allows you to get outside your comfort zone, just allows you to explore more when you know you got that support system rather than them being a little bit hesitant with me or a little passive, because then that's how you start to be. You might start to be passive, but I feel even if they were hesitant or passive with me, I would still just shine and be myself."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=695s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=695s)
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=695&q=9) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=695&q=9&slack=1)</small>
+
+**10. Meleek Thomas — "don't get too high, don't get too low" — Meleek Thomas on maintaining an even-keel mentality** [12:30](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=750s)
+
+Meleek Thomas: "As I approach some of the highs and lows for the team as a whole, it's just stay even-kill. Don't get too high, don't get too low. I just try to stress that over and over and over, because you're going to go through so much, so many ups and downs, losses, wins, amazing games, not your best games. But if you can just stay that even-kill and just know that tomorrow I'm still give my all, I'm going to give it a 100 tomorrow, the next day a 100, 100, 100, and just stack those, then at the end, your result will be what you need in my opinion."
+
+[https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=750s](https://www.youtube.com/watch?v=kZwSNm2Ru3k&t=750s)
+
+<small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=750&q=10) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=750&q=10&slack=1)</small>
 
 ---
 

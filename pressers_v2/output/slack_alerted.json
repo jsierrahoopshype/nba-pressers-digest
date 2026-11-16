@@ -34,13 +34,6 @@
    "run_id": "2026-11-13-overnight",
    "slot_date": "2026-11-13"
   },
-  "-MeXJ1MEVX8": {
-   "at": "2026-11-02T18:30:22Z",
-   "quote": "i think just being myself my ability to space the floor and also get downhill and get to the free throw line i think we are getting a lot of great looks offensively they just haven t fell consistently",
-   "run_id": "2026-11-02-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-02"
-  },
   "-b-Nh7Q8yXo": {
    "at": "2026-11-11T21:23:14Z",
    "quote": "i did like 15 workouts like i worked out for a lot of teams i remember coming out of college so i didn t average a lot of minutes and i didn t average a lot of points at ucla so a lot of people were d",
@@ -491,13 +484,6 @@
    "seeded": true,
    "slot_date": "2026-11-04"
   },
-  "9IJsaZeSQ_8": {
-   "at": "2026-11-02T18:30:08Z",
-   "quote": "it is a big front court i think again we just have to do a better job this rebounding as a group and then kind of just go from there i think we are at a point where stuff kind of just all sinked in no",
-   "run_id": "2026-11-02-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-02"
-  },
   "9R_CTumrn88": {
    "at": "2026-11-05T21:04:38Z",
    "quote": "we had to get it out the mud in that one it wasn t pretty we couldn t throw it in the basket we missed stops turnovers it wasn t a pretty game early what i ve said and i ll say it to the guys we talk ",
@@ -870,13 +856,6 @@
    "run_id": "2026-11-11T2122Z-14utc",
    "seeded": true,
    "slot_date": "2026-11-11"
-  },
-  "Jshctpwx2vI": {
-   "at": "2026-11-02T18:30:15Z",
-   "quote": "it is not necessarily only scoring but i know a lot of stuff like rebounds defense everything i think we had a good look especially in the first half and they made a run and we just could not hold it ",
-   "run_id": "2026-11-02-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-02"
   },
   "K8-SWMNC8cc": {
    "at": "2026-11-03T16:19:46Z",
@@ -2085,13 +2064,6 @@
    "run_id": "2026-11-13-overnight",
    "slot_date": "2026-11-13"
   },
-  "mFWCS_CzHwM": {
-   "at": "2026-11-02T18:30:23Z",
-   "quote": "they definitely got a lot of injuries but can t take them lightly they re still a contender and have great players so with shay we just got to do a great job team wise defensively being in the gaps be",
-   "run_id": "2026-11-02-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-02"
-  },
   "mGzYJnnyrY4": {
    "at": "2026-11-07T07:18:17Z",
    "quote": "defense peyton watson big difference i thought the job he did on maxey was excellent i think maxey is playing as well as anybody in the league so it was great having him back and just a better job pro",
@@ -2850,6 +2822,22 @@
    "top_quote": "I think the hip was hurting. I think we already seen the hit was hurting. And then I think the groin came, maybe Denver game, and then it was just rough for me sleeping that night, laying down, just relaxing by myself, so it became more serious.",
    "video_id": "egMX9ZZa_l8"
   },
+  "i13yfziszx0": {
+   "channel": "Phoenix Suns",
+   "clip_count": 10,
+   "content_type": "presser",
+   "date": "2026-11-16",
+   "is_one_off": false,
+   "queued_at": "2026-11-16T18:39:18Z",
+   "run_id": "2026-11-16-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-16",
+   "speaker": "Jordan Ott",
+   "title": "Head Coach Jordan Ott Postgame Media Availability  | 11-15-26",
+   "top_quote": "It's a mix of both. It's game plan, decision making, not quite executing how we wanted to execute. They ran a couple and then he hits some tough shots. But it's not a secret he leads the NBA in scoring, leads in the first quarter scoring. He's going to play all 12 minutes. I thought towards the end of that quarter we slowed him down enough, but he definitely had it going from the get-go.",
+   "video_id": "i13yfziszx0"
+  },
   "jy8L2TcrmZ4": {
    "channel": "Milwaukee Bucks",
    "clip_count": 4,
@@ -2865,6 +2853,22 @@
    "title": "Jaime Jaquez Jr. Postgame Media Availability | 11.15.26",
    "top_quote": "It has got to be frustrating that these conversations are kind of similar, right? Good start, big lead, you guys are scrapping and fighting. Tonight though, what? It seemed like if it wasn't 48, it was about as close as you guys have been in a while. I will just say this, first and foremost, I thought we had a lot of fight out there, especially in the fourth quarter and second half. This league is just so hard to win, and moments like these realize that one error, one mistake can really cost you a game down the stretch. We are learning that, and for us, we just have to figure out how many times do we keep learning that same lesson.",
    "video_id": "jy8L2TcrmZ4"
+  },
+  "kZwSNm2Ru3k": {
+   "channel": "Cleveland Cavaliers",
+   "clip_count": 10,
+   "content_type": "presser",
+   "date": "2026-11-16",
+   "is_one_off": false,
+   "queued_at": "2026-11-16T18:39:18Z",
+   "run_id": "2026-11-16-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-16",
+   "speaker": "Donovan Mitchell",
+   "title": "Cavs Shootaround | Donovan Mitchell & Meleek Thomas Media Availability | 11.16.2026",
+   "top_quote": "What you're seeing from him adds another playmaker. As he continues to be this guy, and Meleek, obviously we're talking about Tyrese Maxey, the team's starting to respect that and guarding that. There's way more space for myself and for Darius. And even if they don't, keep being the 50% three-point shooter, whatever the tag that you are, and make plays. As long as it equates to winning basketball, that's truly what matters.",
+   "video_id": "kZwSNm2Ru3k"
   },
   "mrVkQQyGfwU": {
    "channel": "Toronto Raptors",
