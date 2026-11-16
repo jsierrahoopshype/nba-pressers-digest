@@ -81,7 +81,9 @@ class Rosters:
             if not team:
                 continue
             date = (data.get("published") or "")[:10]
-            toks = name_key(data.get("video_title") or "").split()
+            # A third-party channel's titles name opponents ("Mazzulla on
+            # Cooper Flagg"), so only its named speakers count as evidence.
+            toks = [] if data.get("third_party") else name_key(data.get("video_title") or "").split()
             for n, keys in by_len.items():
                 for i in range(len(toks) - n + 1):
                     k = " ".join(toks[i:i + n])
