@@ -209,6 +209,13 @@
       "active": true
     },
     {
+      "team": "San Antonio Spurs",
+      "channel_id": "",
+      "handle": "@SanAntonioSpursPressConference",
+      "active": true,
+      "_comment": "Spurs' separate press-conference channel (Jorge, Nov 16 2026), alongside the main @Spurs channel."
+    },
+    {
       "team": "Toronto Raptors",
       "channel_id": "UCYBFE432C2AmNRDGEXE4uVg",
       "active": true

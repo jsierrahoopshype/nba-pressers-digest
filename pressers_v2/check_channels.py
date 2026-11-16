@@ -15,7 +15,9 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from presser_extractor import CONFIG_PATH, QuotaExceeded, youtube_api_get  # noqa: E402
+from presser_extractor import (CONFIG_PATH, QuotaExceeded, list_recent_uploads,  # noqa: E402
+                               parse_iso, title_filter, youtube_api_get)
+from datetime import datetime, timedelta, timezone  # noqa: E402
 
 
 def channel_rows(ids: list, key: str) -> dict:
@@ -48,6 +50,19 @@ def main() -> int:
     config = json.loads(Path(CONFIG_PATH).read_text(encoding="utf-8"))
     channels = [c for c in config.get("channels", []) if c.get("active", True)]
     try:
+        # Channels listed by @handle only (no channel_id yet): resolve and print
+        # the ID so it can be pasted into config.json.
+        for c in channels:
+            if not c.get("channel_id") and c.get("handle"):
+                data = youtube_api_get("channels", {"part": "snippet,contentDetails,statistics",
+                                                    "forHandle": c["handle"]}, key)
+                items = data.get("items", [])
+                if items:
+                    c["channel_id"] = items[0]["id"]
+                    print(f"[HANDLE] {c['team']:<24} {c['handle']} -> {describe(items[0])}")
+                else:
+                    print(f"[HANDLE] {c['team']:<24} {c['handle']} -> not found")
+        channels = [c for c in channels if c.get("channel_id")]
         rows = channel_rows([c["channel_id"] for c in channels], key)
         broken = []
         seen_ids = {}
@@ -88,7 +103,34 @@ def main() -> int:
         print(f"YouTube quota exceeded: {e}")
         return 2
     print(f"\n{len(channels) - len(broken)}/{len(channels)} channels resolve to an uploads playlist.")
+    try:
+        title_audit(channels, config, key, rows)
+    except QuotaExceeded as e:
+        print(f"YouTube quota exceeded during title audit: {e}")
     return 1 if broken else 0
+
+
+def title_audit(channels: list, config: dict, key: str, rows: dict) -> None:
+    """Print each team channel's last 7 days of uploads and whether the
+    presser title filter keeps them (+ kept, - dropped), so a team that
+    never shows up in the digest can be diagnosed. About 1 unit per channel.
+    Informational only: never fails the check."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=7)
+    for c in channels:
+        if c.get("all_uploads"):
+            continue
+        item = rows.get(c["channel_id"]) or {}
+        uploads_id = item.get("contentDetails", {}).get("relatedPlaylists", {}).get("uploads", "")
+        if not uploads_id:
+            continue
+        ups = [u for u in list_recent_uploads(uploads_id, key, 50)
+               if (parse_iso(u["published"]) or cutoff) >= cutoff]
+        kept = sum(1 for u in ups if not title_filter(u["title"], config))
+        print(f"\n=== {c['team']} ({c['channel_id']}): {kept}/{len(ups)} uploads in the last 7 days pass the title filter ===")
+        for u in ups:
+            reason = title_filter(u["title"], config)
+            print(f"  {'+' if not reason else '-'} {u['published'][:10]} {u['video_id']} {u['title']}"
+                  + (f"   [{reason}]" if reason else ""))
 
 
 if __name__ == "__main__":

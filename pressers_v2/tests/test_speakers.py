@@ -63,7 +63,11 @@ class SpeakerTests(unittest.TestCase):
         # all_uploads channels (HoopsHype's own) aren't team channels, so they
         # have no roster/coach mapping; speakers.py skips them (no team abbr).
         team_channels = {c["channel_id"] for c in config["channels"] if not c.get("all_uploads")}
-        self.assertEqual(team_channels, {t["channel_id"] for t in m["teams"].values()})
+        # A team can have extra channels (e.g. the Spurs' press-conference
+        # channel, listed by @handle); every mapped main channel must still be in config.
+        self.assertTrue({t["channel_id"] for t in m["teams"].values()} <= team_channels)
+        team_names = {c["team"] for c in config["channels"] if not c.get("all_uploads")}
+        self.assertEqual(len(team_names), 30)
         self.assertTrue(all(len(t["head_coach"].split()) >= 2 for t in m["teams"].values()))
 
     def test_coaches(self):
