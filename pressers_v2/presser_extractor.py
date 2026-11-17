@@ -2315,6 +2315,9 @@ def title_filter(title: str, config: dict, channel: dict | None = None) -> str:
       title_must_include      the title must name one of these (a multi-sport or
                               multi-team channel: "Warriors", "Kerr")
       exclude_title_keywords  extra words that drop a video on this channel only
+      exclude_title_prefixes  drop titles that START with these (NBC studio and
+                              game-call segments read "Warriors can't overcome...",
+                              while its presser clips start with a person's name)
       ignore_global_excludes  global excluded words this channel may use
                               ("Postgame Interviews x Highlights")
       include_title_keywords  extra presser words for this channel only
@@ -2326,6 +2329,10 @@ def title_filter(title: str, config: dict, channel: dict | None = None) -> str:
         return "title names none of " + ", ".join(must)
     ignore = {k.lower() for k in channel.get("ignore_global_excludes") or []}
     excludes = [k for k in config.get("exclude_title_keywords", []) if k.lower() not in ignore]
+    low = title.lower().lstrip()
+    for pre in channel.get("exclude_title_prefixes") or []:
+        if low.startswith(pre.lower()):
+            return f"title starts with excluded '{pre}'"
     kw = title_keyword_hit(title, excludes + list(channel.get("exclude_title_keywords") or []))
     if kw:
         return f"title contains excluded '{kw}'"

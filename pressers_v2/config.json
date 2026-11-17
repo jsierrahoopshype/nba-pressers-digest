@@ -236,7 +236,15 @@
         "lapses"
       ],
       "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses.",
-      "recent_uploads": 50
+      "recent_uploads": 50,
+      "exclude_title_prefixes": [
+        "Warriors",
+        "Golden State",
+        "Kings",
+        "Sacramento",
+        "Dubs",
+        "Steph Curry highlights"
+      ]
     },
     {
       "team": "Houston Rockets",
@@ -423,7 +431,15 @@
         "lapses"
       ],
       "_comment": "Third-party channel (Jorge, Nov 16 2026): the team's own channel stopped posting pressers. Quotes only: no clip links, no clip list, no Slack clips; its titles don't feed roster guesses.",
-      "recent_uploads": 50
+      "recent_uploads": 50,
+      "exclude_title_prefixes": [
+        "Warriors",
+        "Golden State",
+        "Kings",
+        "Sacramento",
+        "Dubs",
+        "Steph Curry highlights"
+      ]
     },
     {
       "team": "San Antonio Spurs",
