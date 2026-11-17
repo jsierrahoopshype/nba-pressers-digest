@@ -1,0 +1,328 @@
+{
+  "video_title": "Mavericks Practice Interviews | Dusty May & Caleb Martin | Nov. 17, 2026",
+  "speakers_seen": [
+    "Dusty May",
+    "Caleb Martin"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dusty May",
+      "timestamp": "00:06",
+      "summary_phrase": "Dusty May on the Mavericks' recent practice and road trip",
+      "names_mentioned": [],
+      "excerpt": "we can't let a bad road trip deter us from what our objective is",
+      "quote": "Today was maybe our best practice of the year. Very encouraging sign that our guys came in with what the things we need to improve on. We can't let a bad road trip deter us from what our objective is and that's improving over the six or seven or eight-month season, whatever we're forced to play. Today was a lot of fun.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dusty May says today was maybe the best practice of the year for the Mavericks as they look to bounce back from a tough road trip",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May discusses the team's practice performance following a difficult road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dusty May",
+      "timestamp": "01:21",
+      "summary_phrase": "Dusty May on the team's focus on internal improvement",
+      "names_mentioned": [
+        "Warriors"
+      ],
+      "excerpt": "it's more how we play than any opponent",
+      "quote": "We're focused on playing the Warriors who plays. It's more how we play than any opponent and that's something that we also have to be conscientious of, of not focusing too much on our opponents and doing a lot more working on ourselves.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dusty May says the Mavericks are focusing more on themselves than their upcoming opponent the Warriors",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Dusty May explains the team's focus on internal improvement rather than specific opponents like the Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dusty May",
+      "timestamp": "01:53",
+      "summary_phrase": "Dusty May on the team's defensive and rebounding needs",
+      "names_mentioned": [],
+      "excerpt": "we have to rebound better, we have to finish possessions",
+      "quote": "We're really good in a few areas, transition offense obviously. Anything in the open floor we're effective. So with that, we have to rebound better, we have to finish possessions. If we can get our defensive efficiency back to where it was a week ago, then we instantly become better because we're more efficient in transition and in the open floor.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Dusty May identifies rebounding and finishing possessions as the key areas for the Mavericks to improve their defensive efficiency",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May identifies rebounding and defensive efficiency as key areas for improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dusty May",
+      "timestamp": "02:31",
+      "summary_phrase": "Dusty May on the team's approach to player illnesses",
+      "names_mentioned": [
+        "Caleb Martin"
+      ],
+      "excerpt": "it's about us as a group performing better than we performed",
+      "quote": "Caleb Martin was good today. He met earlier and the first thing he said was today is the first day he's woke up and felt good. Think about Caleb, he doesn't want any excuses. It doesn't matter if you have whatever you have. But yeah, he was ill in Boston and that's part of it. There's sure someone on the Warriors is going to be ill and someone on the Clippers, same deal. So it's about us as a group performing better than we performed.",
+      "text_blocks": [],
+      "start_seconds": 151,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Dusty May says Caleb Martin is feeling better after being ill in Boston and emphasizes that the team cannot use sickness as an excuse",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Caleb Martin"
+        ],
+        "teams": [
+          "DAL",
+          "BOS",
+          "GSW",
+          "LAC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Dusty May provides an update on Caleb Martin's health status after he was ill during the Boston trip.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dusty May",
+      "timestamp": "03:40",
+      "summary_phrase": "Dusty May on the team's guard development and roles",
+      "names_mentioned": [
+        "Zach"
+      ],
+      "excerpt": "Zach's getting better, he looks more and more comfortable",
+      "quote": "What we need our guards to do is shoot the ball, make good decisions with the ball, rebound it, defend at a high level and he's doing all those things. Zach's getting better, he looks more and more comfortable. It looks like the game is slowing down for him and when you look at his drives, he doesn't look as rushed as he did two weeks ago. His three-pointers, he looks much more in rhythm and it seems like he knows where he's going to get them from.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 254,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Dusty May sees growth in Zach as the game slows down for him noting he looks more comfortable and in rhythm with his shot",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zach"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May evaluates the recent development and improved comfort level of a young guard named Zach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Dusty May",
+      "timestamp": "04:31",
+      "summary_phrase": "Dusty May on the challenges of role adjustment for rookies",
+      "names_mentioned": [
+        "Steph",
+        "Kyrie"
+      ],
+      "excerpt": "the difference in a role is significant",
+      "quote": "One of the biggest, most difficult things I would assume for these young guys that you're playing with Steph, you're playing with without Steph, you're playing with and so the difference in a role is significant. You see that with us when Kyrie plays and when Kyrie doesn't play, everyone's role shifts. And so for rookies and young players, it's hard to be that adaptable against this league playing three and four nights in a row.",
+      "text_blocks": [],
+      "start_seconds": 271,
+      "end_seconds": 300,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dusty May discusses the difficulty for rookies to adapt when roles shift based on whether Kyrie Irving is in the lineup",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry",
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DAL",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Dusty May discusses the difficulty for rookies to adapt when team roles shift due to the availability of stars like Stephen Curry or Kyrie Irving.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Dusty May",
+      "timestamp": "06:18",
+      "summary_phrase": "Dusty May on the transparency of the team's rookies",
+      "names_mentioned": [],
+      "excerpt": "there's no fluff, there's no coach speak, there's no media",
+      "quote": "There's no fluff, there's no coach speak, there's no media. He's been media trained but he just decides to be authentically who he is and he's like that every day. You're never going to wonder where you stand with him. You're never going to wonder what he's thinking because he's going to let you know and that's what makes him someone that everyone enjoys being around.",
+      "text_blocks": [],
+      "start_seconds": 378,
+      "end_seconds": 403,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Dusty May praises a rookie for being authentic and avoiding coach speak saying you are never going to wonder where you stand with him",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May praises the authentic personality and transparency of a rookie player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Caleb Martin",
+      "timestamp": "07:13",
+      "summary_phrase": "Caleb Martin on the team's approach to the Warriors",
+      "names_mentioned": [],
+      "excerpt": "I don't think we're in a place to take anybody lightly",
+      "quote": "I don't think we're in a place to take anybody lightly. I think that we got to come with a better approach than we have been the last couple games and just come with a different level of energy. I think our approach from the jump just to make sure that we're in the right space and coming out and control all the things we can control.",
+      "text_blocks": [],
+      "start_seconds": 433,
+      "end_seconds": 459,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Caleb Martin says the Mavericks cannot afford to take anyone lightly and must bring a different level of energy against the Warriors",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Caleb Martin emphasizes the need for a better approach and energy level heading into the game against the Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Caleb Martin",
+      "timestamp": "08:07",
+      "summary_phrase": "Caleb Martin on the team's energy and communication",
+      "names_mentioned": [],
+      "excerpt": "the energy was high, I think the communication was on another level",
+      "quote": "The energy was high, I think the communication was on another level. I think the sense of urgency was there more and that's part of it. That's part of the season. You fight through fatigue, you fight through ups and downs, slumps, shooting slumps and everybody who's been in a position of winning, you go through this. Everybody goes through this. Everybody goes through a tough stretch, whether it's individually or as a team.",
+      "text_blocks": [],
+      "start_seconds": 487,
+      "end_seconds": 515,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Caleb Martin on the Mavericks recent practice intensity and the reality of fighting through slumps during a long NBA season",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Caleb Martin reflects on the importance of maintaining high energy and communication during the natural ups and downs of an NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Caleb Martin",
+      "timestamp": "13:28",
+      "summary_phrase": "Caleb Martin on the importance of veteran leadership",
+      "names_mentioned": [],
+      "excerpt": "this is going to happen, it's a long season",
+      "quote": "Just communicating and also I mean like I said before, this is going to happen, it's a long season. Being one of the veterans and being in a place where I've won in the past and I know what those locker rooms and how that season goes. We've had many, many down times and that's part of the process and you got to welcome that and embrace going through rough patches throughout the season and those do help you grow.",
+      "text_blocks": [],
+      "start_seconds": 808,
+      "end_seconds": 839,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Caleb Martin says veteran leadership is about embracing rough patches because those moments help a team grow",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Caleb Martin discusses the role of veterans in helping a team navigate through rough patches during a long season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "Ri6JIccAvkk",
+  "url": "https://www.youtube.com/watch?v=Ri6JIccAvkk",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-17T18:49:49Z",
+  "duration_seconds": 852,
+  "processed_at": "2026-11-17T22:20:08Z",
+  "run_id": "2026-11-17T2218Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

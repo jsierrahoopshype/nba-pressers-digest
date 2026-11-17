@@ -1,0 +1,238 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Joel Embiid | 11.16.26",
+  "speakers_seen": [
+    "Joel Embiid"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joel Embiid",
+      "timestamp": "00:07",
+      "summary_phrase": "Joel Embiid on adjusting his offensive aggression and playing style",
+      "names_mentioned": [],
+      "excerpt": "The more force I play with, the more aggressive I am, the better the shot is going to look.",
+      "quote": "It is the process. The one thing that Andrew and I saw on film was that I have not been playing lazy, but I am so used to playing hard and putting everything into what I do. It kind of feels like I have been going out there and letting myself go a little bit. That was the one adjustment we made because I feel like that affected everything. The more force I play with, the more aggressive I am, the better the shot is going to look.",
+      "verbatim_original_language": "",
+      "start_seconds": 7,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joel Embiid on his recent adjustments: The more force I play with, the more aggressive I am, the better the shot is going to look.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid discusses his offensive approach and the need to play with more force during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joel Embiid",
+      "timestamp": "01:13",
+      "summary_phrase": "Joel Embiid on his decision to play hard and avoid lazy habits",
+      "names_mentioned": [],
+      "excerpt": "I am so used to playing hard that when I do not do that, it affects everything.",
+      "quote": "I did it the last game too, but I think it comes down to the shot. That is part of it. I am so used to playing hard that when I do not do that, it affects everything. I just wanted to go back to playing hard. That is the main thing. It is a long season, so we are all going to have these moments. It is all about being balanced and making sure you stay healthy.",
+      "verbatim_original_language": "",
+      "start_seconds": 73,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joel Embiid says he is focusing on playing hard and staying balanced to ensure he stays healthy throughout the long season.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Joel Embiid explains his focus on maintaining intensity and staying healthy throughout the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speakers": [
+        "Unidentified reporter",
+        "Joel Embiid"
+      ],
+      "timestamp": "01:44",
+      "summary_phrase": "Joel Embiid on playing with Tyrese Maxey and their connection",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "It is important. We have played together and we already had a very good connection.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Joel Embiid, tell us one of the reasons why you decided to play with Philadelphia and to help Tyrese Maxey win your first championship. What does that mean to you to have him as a teammate?"
+        },
+        {
+          "speaker": "Joel Embiid",
+          "text": "It is important. We have played together and we already had a very good connection. In 2018, when he was making his decision to go to LA or Philadelphia, we were there. We have a lot of recognition and it makes me happy. We have to do it on the floor, but it is good to have him in my team and we are going to do everything we can to go win the title."
+        }
+      ],
+      "start_seconds": 104,
+      "end_seconds": 147,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Joel Embiid on his chemistry with Tyrese Maxey: We have a lot of recognition and it makes me happy. We are going to do everything we can to go win the title.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joel Embiid reflects on his relationship with teammate Tyrese Maxey and their shared goal of winning an NBA championship.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joel Embiid",
+      "timestamp": "02:41",
+      "summary_phrase": "Joel Embiid on being involved in the offense without forcing shots",
+      "names_mentioned": [],
+      "excerpt": "I just want to make the right plays over and over. I got space.",
+      "quote": "That is one of the biggest things also, just being involved. It does not mean I am going to shoot the ball. I just want to make the right plays over and over. I got space. Just be aggressive and score. If the same guys are on you, they start doubling, make the right play for someone else. That is part of it, being involved. I just want to play winning basketball. That is the only thing that I care about.",
+      "verbatim_original_language": "",
+      "start_seconds": 161,
+      "end_seconds": 192,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joel Embiid on his offensive approach: I just want to make the right plays over and over. I just want to play winning basketball. That is the only thing that I care about.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid describes his desire to play winning basketball by making the right plays rather than forcing shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joel Embiid",
+      "timestamp": "03:36",
+      "summary_phrase": "Joel Embiid on feeling fresh after managing his minutes",
+      "names_mentioned": [],
+      "excerpt": "I feel fresh. I think we started off the season and we kind of got off track.",
+      "quote": "I feel fresh. I think we started off the season and we kind of got off track. I was playing 39 minutes. That was not the plan, so we kind of scaled back a little bit. Coming out of games, especially the past six games, I feel fresh. The next day usually we feel a little bit and then that is a recovery day. You get up in the morning, it takes a little bit longer than usual, but in the past two weeks, it feels like normal.",
+      "verbatim_original_language": "",
+      "start_seconds": 216,
+      "end_seconds": 250,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Joel Embiid says he feels fresh after scaling back his minutes: I was playing 39 minutes. That was not the plan, so we kind of scaled back a little bit.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Joel Embiid discusses feeling physically fresh after the team adjusted his playing time following a heavy workload early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Joel Embiid",
+      "timestamp": "05:02",
+      "summary_phrase": "Joel Embiid on the importance of rebounding and team effort",
+      "names_mentioned": [],
+      "excerpt": "It is huge, especially when you got obviously we came in tonight sharp but last game.",
+      "quote": "It is huge, especially when you got obviously we came in tonight sharp but last game we got nine offensive rebounds. So I was trying to do my best to just box guard him and make sure that he does not get any rebound. And when I am in that position, to try to take my man out, it is good to have other guys who step in and being able to go and get it. They have been doing a great job and I feel like we are much better than previous years and that is a big part of our success.",
+      "verbatim_original_language": "",
+      "start_seconds": 302,
+      "end_seconds": 342,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joel Embiid credits his teammates for their rebounding effort: We are much better than previous years and that is a big part of our success.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid highlights the importance of team rebounding and how his teammates have improved in that area.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Joel Embiid",
+      "timestamp": "05:40",
+      "summary_phrase": "Joel Embiid on maintaining intensity and playing with force",
+      "names_mentioned": [],
+      "excerpt": "When I play lazy, it does not mean lazy. I am still playing winning basketball.",
+      "quote": "When I play lazy, it does not mean lazy. I am still playing winning basketball, but it was more like everything, nothing was with force. Everything was slow. That means the way you step into your shot, that is going to be slower. That is not the same rhythm. Everything was just different and I think the second half of last game and the way I started the game, you know, make or miss, you just got to play hard and everything, everything I do has to be with force. That is how I have always been successful.",
+      "verbatim_original_language": "",
+      "start_seconds": 340,
+      "end_seconds": 378,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Joel Embiid on his playing style: Everything I do has to be with force. That is how I have always been successful.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid explains why playing with force is essential to his success and overall rhythm on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "kmOw8kYysRw",
+  "url": "https://www.youtube.com/watch?v=kmOw8kYysRw",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-17T18:52:44Z",
+  "duration_seconds": 447,
+  "processed_at": "2026-11-17T22:19:51Z",
+  "run_id": "2026-11-17T2218Z-14utc",
+  "is_one_off": false
+}

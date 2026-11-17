@@ -1,0 +1,219 @@
+{
+  "video_title": "Rick Carlisle, T.J. McConnell, Jarace Walker & Kelly Oubre Jr. Practice Media Availability",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "T.J. McConnell",
+    "Jarace Walker",
+    "Kelly Oubre Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:10",
+      "summary_phrase": "Rick Carlisle on Jarace Walker's development and defensive physicality",
+      "names_mentioned": [
+        "Jarace Walker"
+      ],
+      "excerpt": "We're asking every one of our players to play with physicality and force and obviously speed.",
+      "quote": "We're asking every one of our players to play with physicality and force and obviously speed. Jarace had a good day of practice today, which was great to see.",
+      "text_blocks": [],
+      "start_seconds": 70,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rick Carlisle says Jarace Walker had a good day of practice as the team continues to emphasize playing with physicality and speed.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jarace Walker"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the practice performance and development of Jarace Walker during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:55",
+      "summary_phrase": "Rick Carlisle on T.J. McConnell's leadership and importance to the second unit",
+      "names_mentioned": [
+        "T.J. McConnell"
+      ],
+      "excerpt": "T.J. back playing and getting up to his normal minutes is important for us.",
+      "quote": "T.J. back playing and getting up to his normal minutes is important for us. He is a leader on this team, and he is certainly the leader of the second unit. He has always leaned into that and embraced that responsibility. He views it as a privilege, and you can tell he has great enthusiasm and is playing very well in recent games.",
+      "text_blocks": [],
+      "start_seconds": 115,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Rick Carlisle on the importance of TJ McConnell to the Pacers second unit: He views his leadership role as a privilege and is playing with great enthusiasm.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "T.J. McConnell"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle comments on the leadership role and importance of T.J. McConnell to the Pacers second unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "T.J. McConnell",
+      "timestamp": "07:27",
+      "summary_phrase": "T.J. McConnell on Kelly Oubre Jr.'s adaptation to the Pacers' system",
+      "names_mentioned": [
+        "Kelly Oubre Jr."
+      ],
+      "excerpt": "He's done a great job adapting to that and he's getting so much more comfortable with it.",
+      "quote": "I've been talking to Kelly a lot about not putting so much pressure on having to adapt so early. Just let it happen on its own and not force it. He's done a great job adapting to that and he's getting so much more comfortable with it. You see the comfortable-ness that he's playing with and the effectiveness that he's playing with.",
+      "text_blocks": [],
+      "start_seconds": 447,
+      "end_seconds": 471,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "TJ McConnell on helping Kelly Oubre Jr adjust to the Pacers system: I have been telling him not to put so much pressure on himself and just let it happen on its own.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kelly Oubre Jr."
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "T.J. McConnell discusses his advice to Kelly Oubre Jr. regarding his transition and adaptation to the team system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jarace Walker",
+      "timestamp": "13:36",
+      "summary_phrase": "Jarace Walker on the excitement of playing against Kevin Durant",
+      "names_mentioned": [
+        "Kevin Durant"
+      ],
+      "excerpt": "It's exciting, being able to play against such a high-level player.",
+      "quote": "It's exciting, being able to play against such a high-level player. Obviously, I watched him a ton as a kid, so I'm excited for the challenge.",
+      "text_blocks": [],
+      "start_seconds": 816,
+      "end_seconds": 826,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Jarace Walker on the upcoming challenge of facing Kevin Durant: It is exciting to play against such a high level player who I watched a ton as a kid.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevin Durant"
+        ],
+        "teams": [
+          "IND",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jarace Walker expresses his excitement about the opportunity to play against Kevin Durant.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kelly Oubre Jr.",
+      "timestamp": "17:11",
+      "summary_phrase": "Kelly Oubre Jr. on Rick Carlisle's 'smart crashing' philosophy",
+      "names_mentioned": [
+        "Rick Carlisle"
+      ],
+      "excerpt": "If you have a lane, go crash, go 100%. If you don't, kind of crash on the side.",
+      "quote": "Just smart crashing. That's what coach always says. If you have a lane, go crash, go 100%. If you don't, kind of crash on the side of getting back. And that's pretty much simple as that.",
+      "text_blocks": [],
+      "start_seconds": 1031,
+      "end_seconds": 1045,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kelly Oubre Jr explains the Pacers philosophy on rebounding: Coach always says to practice smart crashing. If you have a lane go crash 100 percent, if you do not, focus on getting back.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kelly Oubre Jr. explains the rebounding philosophy taught by head coach Rick Carlisle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kelly Oubre Jr.",
+      "timestamp": "17:47",
+      "summary_phrase": "Kelly Oubre Jr. on T.J. McConnell's infectious energy and impact",
+      "names_mentioned": [
+        "T.J. McConnell"
+      ],
+      "excerpt": "It's been amazing, man. His energy is infectious.",
+      "quote": "It's been amazing, man. His energy is infectious. He comes in and everybody feels his energy. The way he plays, he leads by example. He's obviously still figuring out getting his wind back, finding the rhythm in the game, but T.J. is just one of those people who impacts the basketball in a beautiful way.",
+      "text_blocks": [],
+      "start_seconds": 1067,
+      "end_seconds": 1088,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Kelly Oubre Jr on the impact of TJ McConnell: His energy is infectious. He is just one of those people who impacts the basketball in a beautiful way.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "T.J. McConnell"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kelly Oubre Jr. praises the energy and impact that T.J. McConnell brings to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "dtcT4w342tU",
+  "url": "https://www.youtube.com/watch?v=dtcT4w342tU",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-17T21:38:29Z",
+  "duration_seconds": 1115,
+  "processed_at": "2026-11-17T22:19:42Z",
+  "run_id": "2026-11-17T2218Z-14utc",
+  "is_one_off": false
+}

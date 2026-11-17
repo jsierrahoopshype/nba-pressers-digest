@@ -1,0 +1,176 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.16.26",
+  "speakers_seen": [
+    "Coach Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Nurse",
+      "timestamp": "00:23",
+      "summary_phrase": "Coach Nurse on the team's defensive execution and turnover issues",
+      "names_mentioned": [],
+      "excerpt": "when it's not great it can't be turnovers, can't be open shots",
+      "quote": "Don't expect the 48 minutes to be great the whole time, but when it's not great it can't be turnovers, can't be open shots. We did such a good job of being ready, we were executing defensively, we were really flying out to challenge threes, all that stuff, and that just dropped to well below average, and that changed the game.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Coach Nurse says the Sixers defensive execution dropped to well below average and the turnovers were the main issue in tonight's loss. He noted that when the team is not playing great, they cannot afford to give up open shots.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nurse discusses the team's defensive execution and turnover issues during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Nurse",
+      "timestamp": "01:32",
+      "summary_phrase": "Coach Nurse on the team's struggles against half-court defense",
+      "names_mentioned": [],
+      "excerpt": "now you're playing against half-court set defense, and there was no transition buckets for us",
+      "quote": "They scored, felt like the first 10 possessions. So now you're playing against half-court set defense, and there was no transition buckets for us, hurt our offense, was big part of the problem. But we can't let that keep snowballing into another problem.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Nurse points to the team's struggles against half-court defense as a major factor tonight. He noted that the lack of transition buckets hurt their offense and allowed the game to snowball.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nurse explains how the team's struggles against half-court defense impacted their offensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Nurse",
+      "timestamp": "02:40",
+      "summary_phrase": "Coach Nurse on managing LeBron James and Joel Embiid on back-to-backs",
+      "names_mentioned": [
+        "LeBron James",
+        "Joel Embiid"
+      ],
+      "excerpt": "we're still working through it a little bit, again the schedule dictates it",
+      "quote": "I think we're still working through it a little bit, again the schedule dictates it. I was probably a little concerned coming into this one because I felt LeBron James really was a focal point of the offense last night, and I thought it was great that Joel Embiid came out with great energy and we knew he was going to be a scoring factor tonight.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Coach Nurse says the Sixers are still working through how to manage Joel Embiid on back-to-backs. He praised Embiid for coming out with great energy tonight despite the difficult schedule.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LeBron James",
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Coach Nurse discusses managing the workload and performance of Joel Embiid and LeBron James on back-to-back game nights.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Nurse",
+      "timestamp": "03:41",
+      "summary_phrase": "Coach Nurse on Joel Embiid's defensive impact and screen navigation",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "I was most impressed with where he was getting through and over screens",
+      "quote": "I was most impressed with where he was getting through and over screens. He just was constantly getting screened and he was just bodying through them, keeping his man, sticking to them really closely and I thought that was a good tone-setting part of our defense by him.",
+      "text_blocks": [],
+      "start_seconds": 221,
+      "end_seconds": 239,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Nurse was impressed with Joel Embiid's defensive effort tonight, specifically highlighting how he was bodying through screens and sticking closely to his man to set the tone for the defense.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nurse praises Joel Embiid for his defensive effort and ability to navigate through screens during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Nurse",
+      "timestamp": "05:16",
+      "summary_phrase": "Coach Nurse on Tyrese Maxey's improved decision-making and aggressiveness",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "I feel like he's made some quicker decisions down the lane to be more aggressive",
+      "quote": "I feel like he's made some quicker decisions down the lane to be more aggressive down the lane, instead of staying out in the middle area or in the middle of the floor with multiple dribbles. I thought he turned the corner a little better tonight and he's pretty tough man when he breaks that free throw line area going downhill.",
+      "text_blocks": [],
+      "start_seconds": 316,
+      "end_seconds": 339,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Nurse says Tyrese Maxey is making quicker decisions and being more aggressive downhill. He believes Maxey is tough to stop once he breaks the free throw line area.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nurse evaluates Tyrese Maxey's improved decision-making and aggressiveness when driving to the basket.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "fxN3Nsy3cAM",
+  "url": "https://www.youtube.com/watch?v=fxN3Nsy3cAM",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-17T18:52:22Z",
+  "duration_seconds": 389,
+  "processed_at": "2026-11-17T22:19:51Z",
+  "run_id": "2026-11-17T2218Z-14utc",
+  "is_one_off": false
+}

@@ -354,13 +354,6 @@
    "run_id": "2026-11-14-overnight",
    "slot_date": "2026-11-14"
   },
-  "5XmgUdGvW4c": {
-   "at": "2026-11-03T20:30:06Z",
-   "quote": "melo a season high 34 for you what were you feeling offensively you got yourself into a really great rhythm in that first half pretty much just went out there and played basketball had a little pregam",
-   "run_id": "2026-11-03T2029Z-14utc",
-   "seeded": true,
-   "slot_date": "2026-11-03"
-  },
   "5Z2Cg_NcwFM": {
    "at": "2026-11-07T07:18:31Z",
    "quote": "i just thought that we weren t as sharp as we should have been that might be on us but just some plays i thought that characterized how that beginning of the game went we turn it over or we miss a sho",
@@ -428,13 +421,6 @@
    "run_id": "2026-11-09-overnight",
    "seeded": true,
    "slot_date": "2026-11-08"
-  },
-  "7HcRG7qPhuA": {
-   "at": "2026-11-03T20:30:17Z",
-   "quote": "when i was younger my only notion of him was he was really hard to guard and i felt like he always went at me early in my career every time we played them i used to hate it he would score talk a littl",
-   "run_id": "2026-11-03T2029Z-14utc",
-   "seeded": true,
-   "slot_date": "2026-11-03"
   },
   "7PAii_VzQec": {
    "at": "2026-11-08T15:20:15Z",
@@ -1573,13 +1559,6 @@
    "run_id": "2026-11-14-overnight",
    "slot_date": "2026-11-14"
   },
-  "YOHtEFnhwd8": {
-   "at": "2026-11-03T20:29:54Z",
-   "quote": "just cleaning up habits yesterday was a game where we were able to balance minutes and guys didn t have to carry a heavy load so today was a great day to just get on the floor and clean up some things",
-   "run_id": "2026-11-03T2029Z-14utc",
-   "seeded": true,
-   "slot_date": "2026-11-03"
-  },
   "YQBo0fZN4Ac": {
    "at": "2026-11-17T18:39:34Z",
    "quote": "i think that s something we ve been preaching the last couple games just continue to stay together it s been a tough stretch obviously but being connected we talked about that at halftime as well just",
@@ -1924,13 +1903,6 @@
    "run_id": "2026-11-10T0243Z-20utc",
    "seeded": true,
    "slot_date": "2026-11-09"
-  },
-  "evHgO-CQ570": {
-   "at": "2026-11-03T20:30:02Z",
-   "quote": "we talk about by committee and it definitely was by committee these guys did an unbelievable job of finding a way to stay poised going into overtime obviously we had the lead and gave it back to them ",
-   "run_id": "2026-11-03T2029Z-14utc",
-   "seeded": true,
-   "slot_date": "2026-11-03"
   },
   "fazaqrKlolY": {
    "at": "2026-11-05T21:04:27Z",
@@ -2671,13 +2643,6 @@
    "seeded": true,
    "slot_date": "2026-11-08"
   },
-  "vo4_3nRLScY": {
-   "at": "2026-11-03T20:29:54Z",
-   "quote": "i m just going out there and making sure that i m doing all the little things recovery sleep putting that work in for sure and just trying to make sure i m staying consistent with those three things",
-   "run_id": "2026-11-03T2029Z-14utc",
-   "seeded": true,
-   "slot_date": "2026-11-03"
-  },
   "vyR3JC79fHo": {
    "at": "2026-11-10T02:44:24Z",
    "quote": "i felt like it was a process you take care of yourself and make sure you re ready to go while doing that you explain it particularly that first road trip with rookies or guys who never done it you exp",
@@ -2830,5 +2795,102 @@
    "slot_date": "2026-11-17"
   }
  },
- "pending": {}
+ "pending": {
+  "M_JugyUOqFo": {
+   "channel": "San Antonio Spurs",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T22:20:17Z",
+   "run_id": "2026-11-17T2218Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-17",
+   "speaker": "Jordan McLaughlin",
+   "title": "Jordan McLaughlin on Spurs Continuing to Learn and Grow Through the Season",
+   "top_quote": "Mitch was calling that an underrated skill to be able to stay ready that way. Was that always something that's been in your bag or did you learn that over time? No, I just learned it over time. Thankfully being able to be in this league for eight years now and I've seen different things happen. Like he said, it's an 82-game season, so a lot of things happen throughout a season. So just opportunity doesn't come all the time, but when it does, you just got to make sure you're prepared for it.",
+   "video_id": "M_JugyUOqFo"
+  },
+  "Ri6JIccAvkk": {
+   "channel": "Dallas Mavericks",
+   "clip_count": 10,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T22:20:17Z",
+   "run_id": "2026-11-17T2218Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": false,
+   "slot_date": "2026-11-17",
+   "speaker": "Dusty May",
+   "title": "Mavericks Practice Interviews | Dusty May & Caleb Martin | Nov. 17, 2026",
+   "top_quote": "Today was maybe our best practice of the year. Very encouraging sign that our guys came in with what the things we need to improve on. We can't let a bad road trip deter us from what our objective is and that's improving over the six or seven or eight-month season, whatever we're forced to play. Today was a lot of fun.",
+   "video_id": "Ri6JIccAvkk"
+  },
+  "dtcT4w342tU": {
+   "channel": "Indiana Pacers",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T22:20:17Z",
+   "run_id": "2026-11-17T2218Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": false,
+   "slot_date": "2026-11-17",
+   "speaker": "Rick Carlisle",
+   "title": "Rick Carlisle, T.J. McConnell, Jarace Walker & Kelly Oubre Jr. Practice Media Availability",
+   "top_quote": "We're asking every one of our players to play with physicality and force and obviously speed. Jarace had a good day of practice today, which was great to see.",
+   "video_id": "dtcT4w342tU"
+  },
+  "fxN3Nsy3cAM": {
+   "channel": "Philadelphia 76ers",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T22:20:17Z",
+   "run_id": "2026-11-17T2218Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-17",
+   "speaker": "Coach Nurse",
+   "title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.16.26",
+   "top_quote": "Don't expect the 48 minutes to be great the whole time, but when it's not great it can't be turnovers, can't be open shots. We did such a good job of being ready, we were executing defensively, we were really flying out to challenge threes, all that stuff, and that just dropped to well below average, and that changed the game.",
+   "video_id": "fxN3Nsy3cAM"
+  },
+  "kmOw8kYysRw": {
+   "channel": "Philadelphia 76ers",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T22:20:17Z",
+   "run_id": "2026-11-17T2218Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-17",
+   "speaker": "Joel Embiid",
+   "title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Joel Embiid | 11.16.26",
+   "top_quote": "It is the process. The one thing that Andrew and I saw on film was that I have not been playing lazy, but I am so used to playing hard and putting everything into what I do. It kind of feels like I have been going out there and letting myself go a little bit. That was the one adjustment we made because I feel like that affected everything. The more force I play with, the more aggressive I am, the better the shot is going to look.",
+   "video_id": "kmOw8kYysRw"
+  },
+  "t324ATTe9FE": {
+   "channel": "San Antonio Spurs",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T22:20:17Z",
+   "run_id": "2026-11-17T2218Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-17",
+   "speaker": "Tarris Reed Jr.",
+   "title": "Tarris Reed Jr. on the Spurs Staying the Course and Maintaining",
+   "top_quote": "Our defense, teams got a game plan for us defensively. Victor Wembanyama and Luka are so dominant on that side of the ball. Especially with Victor in the game, teams are going to throw a lot of different offensive matchups, offensive schemes. Offensively we are the most talented team in the NBA right now, so I feel like defense will take us that extra step, that extra mile.",
+   "video_id": "t324ATTe9FE"
+  }
+ }
 }

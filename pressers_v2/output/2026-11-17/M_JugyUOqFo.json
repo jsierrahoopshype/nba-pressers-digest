@@ -1,0 +1,298 @@
+{
+  "video_title": "Jordan McLaughlin on Spurs Continuing to Learn and Grow Through the Season",
+  "speakers_seen": [
+    "Jordan McLaughlin"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan McLaughlin",
+      "timestamp": "00:00",
+      "summary_phrase": "Jordan McLaughlin on the importance of staying ready as a reserve",
+      "names_mentioned": [
+        "Mitch"
+      ],
+      "excerpt": "Was that always something that's been in your bag or did you learn that over time?",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Mitch was calling that an underrated skill to be able to stay ready that way."
+        },
+        {
+          "speaker": "Jordan McLaughlin",
+          "text": "Was that always something that's been in your bag or did you learn that over time? No, I just learned it over time. Thankfully being able to be in this league for eight years now and I've seen different things happen. Like he said, it's an 82-game season, so a lot of things happen throughout a season. So just opportunity doesn't come all the time, but when it does, you just got to make sure you're prepared for it."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jordan McLaughlin"
+      ],
+      "reporter_split": true,
+      "start_seconds": 0,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jordan McLaughlin on the importance of staying ready as a reserve: It is an 82 game season so a lot of things happen. Opportunity does not come all the time but when it does you just have to make sure you are prepared for it.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jordan McLaughlin discusses the importance of staying prepared as a reserve player throughout the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan McLaughlin",
+      "timestamp": "01:02",
+      "summary_phrase": "Jordan McLaughlin on Stephon Castle's work ethic and talent",
+      "names_mentioned": [
+        "Stephon Castle"
+      ],
+      "excerpt": "Yeah, he's special, special talent. He works extremely hard, he's in here every day. So happy to see him get",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What's it like to see a young guy like Stephon Castle just turn it on like that?"
+        },
+        {
+          "speaker": "Jordan McLaughlin",
+          "text": "Yeah, he's special, special talent. He works extremely hard, he's in here every day. So happy to see him get that shine."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jordan McLaughlin"
+      ],
+      "reporter_split": true,
+      "start_seconds": 62,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 6,
+      "social_post": "Jordan McLaughlin on Stephon Castle: He is a special talent. He works extremely hard and is in here every day. I am so happy to see him get that shine.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephon Castle"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan McLaughlin praises the work ethic and talent of his young teammate Stephon Castle.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan McLaughlin",
+      "timestamp": "01:13",
+      "summary_phrase": "Jordan McLaughlin on the Spurs' ongoing learning process",
+      "names_mentioned": [],
+      "excerpt": "Yeah, we're just learning. We're continuing to learn how to handle games. Each game is going to present something different.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Speaking of that winning streak, what things about it have stuck out to you that you've noticed that you guys are doing really, really well?"
+        },
+        {
+          "speaker": "Jordan McLaughlin",
+          "text": "Yeah, we're just learning. We're continuing to learn how to handle games. Each game is going to present something different. And for us to keep learning and growing, finding what's working for us every single game and finding out how to win as well down the stretch of games when they're close. So we're still learning and growing, but the process is right and the vibes are high."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jordan McLaughlin"
+      ],
+      "reporter_split": true,
+      "start_seconds": 73,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jordan McLaughlin on the Spurs growth: We are continuing to learn how to handle games. Each game is going to present something different. We are still learning and growing but the process is right and the vibes are high.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jordan McLaughlin reflects on the San Antonio Spurs' ongoing process of learning how to win close games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan McLaughlin",
+      "timestamp": "02:20",
+      "summary_phrase": "Jordan McLaughlin on mentoring the young Spurs guards",
+      "names_mentioned": [
+        "Stephon Castle",
+        "Dylan"
+      ],
+      "excerpt": "It's great, man. They keep you young. They're coming with a lot of energy every single day.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Speaking of how young this group is, especially those guards that you're kind of mentoring, what's it like being a 30-year-old around those rambunctious kids?"
+        },
+        {
+          "speaker": "Jordan McLaughlin",
+          "text": "It's great, man. They keep you young. They're coming with a lot of energy every single day. Obviously, Stephon Castle comes in with a lot of vibes and Dylan and everybody. Everybody just feeds off of each other."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jordan McLaughlin"
+      ],
+      "reporter_split": true,
+      "start_seconds": 140,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Jordan McLaughlin on mentoring the young Spurs guards: It is great. They keep you young. They are coming with a lot of energy every single day and everybody just feeds off of each other.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephon Castle",
+          "Dylan Disu"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan McLaughlin discusses his experience mentoring the younger players on the Spurs roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan McLaughlin",
+      "timestamp": "03:13",
+      "summary_phrase": "Jordan McLaughlin on the talent level of his teammates",
+      "names_mentioned": [
+        "Fox"
+      ],
+      "excerpt": "No, not as talented as this.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "But as a group, have you ever been around a group as talented as this?"
+        },
+        {
+          "speaker": "Jordan McLaughlin",
+          "text": "No, not as talented as this. Fox, you know they all bring something different. They're all able to affect the games in their own way. And the way they do it every single night is pretty special to watch. So happy to be a part of it."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jordan McLaughlin"
+      ],
+      "reporter_split": true,
+      "start_seconds": 193,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Jordan McLaughlin says he has never been around a group as talented as this Spurs roster: They all bring something different and are able to affect the games in their own way. It is pretty special to watch.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan McLaughlin comments on the high level of talent displayed by his teammates on the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan McLaughlin",
+      "timestamp": "04:30",
+      "summary_phrase": "Jordan McLaughlin on his trade to the Spurs",
+      "names_mentioned": [
+        "Fox"
+      ],
+      "excerpt": "Yeah, I remember very, very well.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Do you remember getting the news that you're getting traded here? Do you have a vivid memory of that?"
+        },
+        {
+          "speaker": "Jordan McLaughlin",
+          "text": "Yeah, I remember very, very well. We were in Minnesota and Fox were in Minnesota on the end of a 14-day road trip and then we joined the team on a rodeo road trip. So I was away from my family for about 21 days and my son was born like 10 days just before that."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jordan McLaughlin"
+      ],
+      "reporter_split": true,
+      "start_seconds": 270,
+      "end_seconds": 299,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 7,
+      "social_post": "Jordan McLaughlin reflects on his trade to the Spurs: I was away from my family for about 21 days and my son was born just 10 days before that.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "MIN"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Jordan McLaughlin recalls the circumstances surrounding his trade from the Minnesota Timberwolves to the San Antonio Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "M_JugyUOqFo",
+  "url": "https://www.youtube.com/watch?v=M_JugyUOqFo",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-17T21:29:02Z",
+  "duration_seconds": 342,
+  "processed_at": "2026-11-17T22:19:33Z",
+  "run_id": "2026-11-17T2218Z-14utc",
+  "is_one_off": false
+}

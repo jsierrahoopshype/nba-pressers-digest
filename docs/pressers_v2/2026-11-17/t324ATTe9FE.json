@@ -1,0 +1,211 @@
+{
+  "video_title": "Tarris Reed Jr. on the Spurs Staying the Course and Maintaining",
+  "speakers_seen": [
+    "Tarris Reed Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tarris Reed Jr.",
+      "timestamp": "01:19",
+      "summary_phrase": "Tarris Reed Jr. on the Spurs' defensive identity and talent",
+      "names_mentioned": [
+        "Victor Wembanyama",
+        "Luka Doncic"
+      ],
+      "excerpt": "Offensively we are the most talented team in the NBA right now",
+      "quote": "Our defense, teams got a game plan for us defensively. Victor Wembanyama and Luka are so dominant on that side of the ball. Especially with Victor in the game, teams are going to throw a lot of different offensive matchups, offensive schemes. Offensively we are the most talented team in the NBA right now, so I feel like defense will take us that extra step, that extra mile.",
+      "text_blocks": [],
+      "start_seconds": 79,
+      "end_seconds": 105,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tarris Reed Jr. believes the Spurs are the most talented team in the NBA offensively and says their defensive identity will be the key to taking them that extra mile.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama",
+          "Luka Samanic"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Tarris Reed Jr. discusses the defensive impact of Victor Wembanyama and Luka Samanic on the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tarris Reed Jr.",
+      "timestamp": "02:04",
+      "summary_phrase": "Tarris Reed Jr. on the Spurs' potential once fully healthy",
+      "names_mentioned": [],
+      "excerpt": "Once the guys come back we are bringing on a vet and he is going to bring",
+      "quote": "We have such a talented team, young team, dynamic team. We are not fully healthy yet. Once the guys come back we are bringing on a vet and he is going to bring that extra grit, that extra toughness that we need. I feel like we are set to do this thing, so really just staying the journey, staying the course, staying where our feet are and not trying to get too far ahead.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 152,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tarris Reed Jr. says the Spurs are still waiting to get fully healthy and believes the return of injured players will bring the extra grit and toughness the team needs.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tarris Reed Jr. discusses the team's potential once injured players return to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tarris Reed Jr.",
+      "timestamp": "02:42",
+      "summary_phrase": "Tarris Reed Jr. on learning from Jalen McDaniels' preparation",
+      "names_mentioned": [
+        "Jalen McDaniels"
+      ],
+      "excerpt": "Jalen McDaniels just shows why he has been in the league for a long time now",
+      "quote": "Jalen McDaniels just shows why he has been in the league for a long time now. Guys like that are just special to have in your team. He just came in the game firing and I was like, yeah man, that was special. He is showing up every day, same person every day. He is not complaining, he is putting in the work, doing extra film.",
+      "text_blocks": [],
+      "start_seconds": 162,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Tarris Reed Jr. praises Jalen McDaniels for his professional approach and consistency, noting that watching him work is special for the younger players on the roster.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen McDaniels"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tarris Reed Jr. reflects on the professional preparation and work ethic of teammate Jalen McDaniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tarris Reed Jr.",
+      "timestamp": "03:33",
+      "summary_phrase": "Tarris Reed Jr. on maximizing limited rotational minutes",
+      "names_mentioned": [],
+      "excerpt": "Those times are like very meaningful for me, so really evaluating my minutes",
+      "quote": "Those times are like very meaningful for me, so really evaluating my minutes, doing the best I can in those minutes, making sure I am solid defensively, making sure I am rebounding, screening, and I am rolling and I am finishing around the rim. Things like that hang my hat on when I am on the court and just going hard.",
+      "text_blocks": [],
+      "start_seconds": 213,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Tarris Reed Jr. on his approach to limited minutes: I am focused on being solid defensively, rebounding, screening, and finishing around the rim.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Tarris Reed Jr. explains his approach to maximizing his limited rotational minutes on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tarris Reed Jr.",
+      "timestamp": "04:18",
+      "summary_phrase": "Tarris Reed Jr. on the veteran influence of Harrison Barnes",
+      "names_mentioned": [
+        "Harrison Barnes"
+      ],
+      "excerpt": "Harrison Barnes is the guy for it. Watching him, first thing he told me is like",
+      "quote": "Harrison Barnes is the guy for it. Watching him, first thing he told me is like, lifting is going to take you a long way, make sure you are taking care of your body, lifting. He is on the road, at home, off day, like he is always in the gym, he is watching film, he is always doing the extra mile.",
+      "text_blocks": [],
+      "start_seconds": 258,
+      "end_seconds": 282,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Tarris Reed Jr. credits Harrison Barnes for teaching him the importance of lifting and taking care of his body to sustain a long career in the NBA.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Harrison Barnes"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tarris Reed Jr. describes the mentorship and advice he has received from veteran Harrison Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tarris Reed Jr.",
+      "timestamp": "07:38",
+      "summary_phrase": "Tarris Reed Jr. on embracing difficulty and team roles",
+      "names_mentioned": [],
+      "excerpt": "I can't come in here and complain that I want to do this more, I want to",
+      "quote": "I can't come in here and complain that I want to do this more, I want to do this more. Like, this is what the team brought me in for, this is what they want me to do, this is what they expect of me. Okay, I am going to do it. So that is my job and I am going to do a great job doing it.",
+      "text_blocks": [],
+      "start_seconds": 458,
+      "end_seconds": 484,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Tarris Reed Jr. on accepting his role with the Spurs: I cannot complain about what I want to do. This is what the team brought me in for and I am going to do a great job doing it.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tarris Reed Jr. discusses his mindset regarding his specific role and expectations within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "t324ATTe9FE",
+  "url": "https://www.youtube.com/watch?v=t324ATTe9FE",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-17T21:23:35Z",
+  "duration_seconds": 498,
+  "processed_at": "2026-11-17T22:19:37Z",
+  "run_id": "2026-11-17T2218Z-14utc",
+  "is_one_off": false
+}
