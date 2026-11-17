@@ -36,7 +36,17 @@ Giannis Antetokounmpo: "I haven't found myself being emotional. I think the only
 
 From: [Giannis Antetokounmpo Talks Miami Heat Win Streak, Team Defense and Facing Milwaukee Bucks Next Game](https://www.youtube.com/watch?v=PVbafnXI_RQ) · *Miami Heat*
 
-**5. Ime Udoka — "he's dealt with it for years now, he has tendinitis" — Ime Udoka on the long-term status of the player's injury** [05:19](https://www.youtube.com/watch?v=zdZTD0KyR6M&t=319s)
+**5. Terrence Shannon Jr — "Obviously Oklahoma City, we don't like those guys, so I had a good game today." — Terrence Shannon Jr on his performance against Oklahoma City** [01:30](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=90s)
+
+Terrence Shannon Jr: "Obviously Oklahoma City, we don't like those guys, so I had a good game today."
+
+[https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=90s](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=90s)
+
+From: ["I Just Provided What The Team Needed From Me." \| Terrence Shannon Jr Post Game Sound \| 11.16.26](https://www.youtube.com/watch?v=nR8eNaBmYAQ) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=nR8eNaBmYAQ&t=90&q=4) · [Send to Slack](presserclips://clip?v=nR8eNaBmYAQ&t=90&q=4&slack=1)</small>
+
+**6. Ime Udoka — "he's dealt with it for years now, he has tendinitis" — Ime Udoka on the long-term status of the player's injury** [05:19](https://www.youtube.com/watch?v=zdZTD0KyR6M&t=319s)
 
 Ime Udoka: "He's dealt with it for years now, he has tendinitis and he manages it pretty well and takes care of it. It was a flare up last night, if not for the back-to-back, I'm sure he would have been able to play."
 
@@ -46,7 +56,7 @@ From: [Ime Udoka Post-Game Interview vs Heat \| 11/16/2026](https://www.youtube.
 
 <small>[Clip it](presserclips://clip?v=zdZTD0KyR6M&t=319&q=8) · [Send to Slack](presserclips://clip?v=zdZTD0KyR6M&t=319&q=8&slack=1)</small>
 
-**6. Festus Ezeli — "These are things that show a lack of discipline right now for the Warriors." — Warriors' lack of discipline and poor execution without Steph Curry** [02:15](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=135s)
+**7. Festus Ezeli — "These are things that show a lack of discipline right now for the Warriors." — Warriors' lack of discipline and poor execution without Steph Curry** [02:15](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=135s)
 
 Festus Ezeli: "Having Steph out is a huge detriment to the team because the offense doesn't run the same. But there's a couple of stats that stand out to you. They give up 20 offensive rebounds for 19 points. That's one. They turn the ball over 15 times, give up 27 points. These are things that show a lack of discipline right now for the Warriors. And if you really want to get this ship back on the right track, these are the things that stand out to you. You kind of have to get back into the locker and get back to the drawing board."
 
@@ -54,7 +64,7 @@ Festus Ezeli: "Having Steph out is a huge detriment to the team because the offe
 
 From: [Warriors can’t overcome another slow start in loss to Pelicans \| NBC Sports Bay Area](https://www.youtube.com/watch?v=0l_ayQ84hLM) · *Golden State Warriors*
 
-**7. Bobby Portis — "I always been a garbage man throughout my career. I made a living off energy plays" — Bobby Portis on his role as an energy and effort player** [01:14](https://www.youtube.com/watch?v=4IrUnhkebW4&t=74s)
+**8. Bobby Portis — "I always been a garbage man throughout my career. I made a living off energy plays" — Bobby Portis on his role as an energy and effort player** [01:14](https://www.youtube.com/watch?v=4IrUnhkebW4&t=74s)
 
 Bobby Portis: "I always been a garbage man throughout my career. I made a living off energy plays, effort plays, just not a catch-and-shoot guy. So, obviously I want to make more threes, things like that, but doing all the other things, getting the 50/50 balls, rebounding the ball, being active in my gaps, getting steals, just trying to impact the game in other ways. So, taking it a day at a time, but I know it will come."
 
@@ -62,7 +72,7 @@ Bobby Portis: "I always been a garbage man throughout my career. I made a living
 
 From: [Bobby Portis Talks Miami Heat Win Streak, Team Defense Finding His Flow, Giannis vs HOU, Rookie Play](https://www.youtube.com/watch?v=4IrUnhkebW4) · *Miami Heat*
 
-**8. Desmond Bane — "He's a winning player. You can kind of plug him in with any lineup." — Desmond Bane praises Jalen Suggs' impact and winning mentality** [05:55](https://www.youtube.com/watch?v=VxdsVZLyAuc&t=355s)
+**9. Desmond Bane — "He's a winning player. You can kind of plug him in with any lineup." — Desmond Bane praises Jalen Suggs' impact and winning mentality** [05:55](https://www.youtube.com/watch?v=VxdsVZLyAuc&t=355s)
 
 Desmond Bane: "That was a **Jalen Suggs** game right there. I mean, offensive rebounds, blocked shots, getting in the paint, knocked down a couple big threes. Like that's that's him. He's a winning player. You can kind of plug him in with any lineup and he's going to find a way to impact winning. I thought he did that at an extremely high level tonight."
 
@@ -72,7 +82,7 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. BOSTON CELTICS \| COACH SWEENEY,  DESMO
 
 <small>[Clip it](presserclips://clip?v=VxdsVZLyAuc&t=355&q=10) · [Send to Slack](presserclips://clip?v=VxdsVZLyAuc&t=355&q=10&slack=1)</small>
 
-**9. Ryan Conwell — "his gravity is crazy, obviously never played with a player of that magnitude" — Ryan Conwell on Giannis Antetokounmpo's unique gravity** [03:27](https://www.youtube.com/watch?v=au20J8tOYnM&t=207s)
+**10. Ryan Conwell — "his gravity is crazy, obviously never played with a player of that magnitude" — Ryan Conwell on Giannis Antetokounmpo's unique gravity** [03:27](https://www.youtube.com/watch?v=au20J8tOYnM&t=207s)
 
 Ryan Conwell: "His gravity is crazy, obviously never played with a player of that magnitude. And just to see the different things he does with and without the ball, and just how teams are just always keen on him and how it makes it easier for all of us. I mean, we're all thankful to be on the team with him for sure."
 
@@ -82,7 +92,7 @@ From: [Ryan Conwell Post-Game Interview vs Rockets \| 11/16/2026](https://www.yo
 
 <small>[Clip it](presserclips://clip?v=au20J8tOYnM&t=207&q=4) · [Send to Slack](presserclips://clip?v=au20J8tOYnM&t=207&q=4&slack=1)</small>
 
-**10. Paul George — "Any time that I can step on this floor and be healthy, it's a win." — Paul George on managing his workload and health in year 17** [04:11](https://www.youtube.com/watch?v=eNO6vF6wHOI&t=251s)
+**11. Paul George — "Any time that I can step on this floor and be healthy, it's a win." — Paul George on managing his workload and health in year 17** [04:11](https://www.youtube.com/watch?v=eNO6vF6wHOI&t=251s)
 
 Paul George: "Any time that I can step on this floor and be healthy, it's a win, and I look forward to that. I'm just excited that year 17, I can still be playing back-to-backs, given all the adversity and all the bad luck that I've had from the injury standpoint. Just taking those moments and being grateful that I can be out there and go play."
 
@@ -90,7 +100,7 @@ Paul George: "Any time that I can step on this floor and be healthy, it's a win,
 
 From: [Paul George Discusses His HEALTH in Year 17 \| Celtics vs Magic Postgame](https://www.youtube.com/watch?v=eNO6vF6wHOI) · *Boston Celtics*
 
-**11. Brandin Podziemski — "I'm trying to, as the starting point guard right now, I'm trying to form a great connection." — Brandin Podziemski's need to build chemistry with Yaxel Lendeborg** [13:16](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=796s)
+**12. Brandin Podziemski — "I'm trying to, as the starting point guard right now, I'm trying to form a great connection." — Brandin Podziemski's need to build chemistry with Yaxel Lendeborg** [13:16](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=796s)
 
 Brandin Podziemski: "If I'm **Brandin Podziemski**, I'm trying to, as the starting point guard right now, I'm trying to form a great connection with Yaxel. And it's got to be a two-guard, like he and the Yaxel got to have that, you know, the pick and roll like Steph and Draymond have. They have that chemistry. I got to start forming that connection with him because regardless of if Steph is here or not, like you still have to have that. Those guys, they run the bench crew. They're part of the bench mob. They come off a pick and roll, you can create shots that way. I thought **Brandin Podziemski** in the first half, a lot of what he, the points he brought into the table were points where he was fouled. He was coming off ball screens, they would foul him, and he would get some shots on the board that way. But I think there's a there's another level that he can get to as a point guard right now and running this team."
 
@@ -98,7 +108,7 @@ Brandin Podziemski: "If I'm **Brandin Podziemski**, I'm trying to, as the starti
 
 From: [Warriors can’t overcome another slow start in loss to Pelicans \| NBC Sports Bay Area](https://www.youtube.com/watch?v=0l_ayQ84hLM) · *Golden State Warriors*
 
-**12. Donovan Mitchell — "Obviously we talk about Tyrese Proctor and Evan Mobley how they have been a shock to everybody" — Donovan Mitchell on the development of Tyrese Proctor and Evan Mobley** [01:23](https://www.youtube.com/watch?v=1vUd5h60E-Y&t=83s)
+**13. Donovan Mitchell — "Obviously we talk about Tyrese Proctor and Evan Mobley how they have been a shock to everybody" — Donovan Mitchell on the development of Tyrese Proctor and Evan Mobley** [01:23](https://www.youtube.com/watch?v=1vUd5h60E-Y&t=83s)
 
 Donovan Mitchell: "That kind of plays into a lot of the ebbs and flows of the season. That is not an excuse; we still should win games that we have lost. But I also think that is part of the development, understanding what you have. Obviously we talk about **Tyrese Proctor** and **Evan Mobley** how they have been a shock to everybody in a sense, allowing them to give them a little more free rein, but then also finding ways to eliminate some of the tougher shots."
 
@@ -108,7 +118,7 @@ From: [Cavs vs Bulls \| Donovan Mitchell, Tyrese Proctor, & Jarrett Allen Post G
 
 <small>[Clip it](presserclips://clip?v=1vUd5h60E-Y&t=83&q=2) · [Send to Slack](presserclips://clip?v=1vUd5h60E-Y&t=83&q=2&slack=1)</small>
 
-**13. Tyrese Proctor — "He is a dog, he just comes in provides energy, provides a spark" — Tyrese Proctor on Norchad Omier's consistent energy and rebounding** [10:43](https://www.youtube.com/watch?v=1vUd5h60E-Y&t=643s)
+**14. Tyrese Proctor — "He is a dog, he just comes in provides energy, provides a spark" — Tyrese Proctor on Norchad Omier's consistent energy and rebounding** [10:43](https://www.youtube.com/watch?v=1vUd5h60E-Y&t=643s)
 
 Tyrese Proctor: "He is a dog, he just comes in provides energy, provides a spark, just his willpower to not I would not say change, but just get through anyone and just get the ball is unbelievable. I said before I played him all for three years in college and every year it was getting him off the boards and he ended up with rebounds every single game. I do not know how he does it, but we are going to continue to need him to just give us that spark."
 
@@ -118,7 +128,7 @@ From: [Cavs vs Bulls \| Donovan Mitchell, Tyrese Proctor, & Jarrett Allen Post G
 
 <small>[Clip it](presserclips://clip?v=1vUd5h60E-Y&t=643&q=9) · [Send to Slack](presserclips://clip?v=1vUd5h60E-Y&t=643&q=9&slack=1)</small>
 
-**14. Julius Randle — "I think we should punch first. Like in the second half we punch first and we set the tone." — Julius Randle on the importance of punching first** [07:15](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=435s)
+**15. Julius Randle — "I think we should punch first. Like in the second half we punch first and we set the tone." — Julius Randle on the importance of punching first** [07:15](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=435s)
 
 Julius Randle: "I think we should punch first. Like in the second half we punch first and we set the tone. I think we have to start every game like that punching first."
 
@@ -126,7 +136,7 @@ Julius Randle: "I think we should punch first. Like in the second half we punch 
 
 From: [Jordi Fernández, Nolan Traore, and Julius Randle Postgame Press Conferences vs. Philadelphia](https://www.youtube.com/watch?v=H82Uyy1mtFg) · *Brooklyn Nets*
 
-**15. Myron Gardner — "good to be able to show my skills out there not just talking like back it up too" — Myron Gardner on showcasing his skills and trash talking** [09:50](https://www.youtube.com/watch?v=L5rHs8WQfRs&t=590s)
+**16. Myron Gardner — "good to be able to show my skills out there not just talking like back it up too" — Myron Gardner on showcasing his skills and trash talking** [09:50](https://www.youtube.com/watch?v=L5rHs8WQfRs&t=590s)
 
 Myron Gardner: "Good to be able to show my skills out there not just talking like back it up too so I know I could hoop show y'all that."
 
@@ -134,7 +144,7 @@ Myron Gardner: "Good to be able to show my skills out there not just talking lik
 
 From: [Ryan Conwell and Myron Gardner Talks Miami Heat Win Streak, Making Their Impact, Giannis' Play & GTA](https://www.youtube.com/watch?v=L5rHs8WQfRs) · *Miami Heat*
 
-**16. Rudy Gobert — "This is not the team that we are. This is not the team that we wanted to be." — Rudy Gobert on the Timberwolves' response after the Chicago loss** [00:14](https://www.youtube.com/watch?v=hlGg43Au058&t=14s)
+**17. Rudy Gobert — "This is not the team that we are. This is not the team that we wanted to be." — Rudy Gobert on the Timberwolves' response after the Chicago loss** [00:14](https://www.youtube.com/watch?v=hlGg43Au058&t=14s)
 
 **Unidentified reporter:** "Rudy, congratulations. What was the focus like tonight, especially after the game the other night against Chicago, in trying to get back on track tonight?"
 
@@ -146,7 +156,17 @@ From: [Rudy Gobert Postgame Interview With Alan Horton \| 11.16.26](https://www.
 
 <small>[Clip it](presserclips://clip?v=hlGg43Au058&t=14&q=1) · [Send to Slack](presserclips://clip?v=hlGg43Au058&t=14&q=1&slack=1)</small>
 
-**17. Anthony Black — "I think we just did a good job taking the fight to them on that side." — Anthony Black on the team's defensive physicality against Boston** [04:12](https://www.youtube.com/watch?v=VxdsVZLyAuc&t=252s)
+**18. Jamal Murray — "we're just exhausting ourselves on defense to make them have another 14 seconds to shoot" — Jamal Murray on defensive exhaustion and rebounding** [14:18](https://www.youtube.com/watch?v=u5IKz6K6efE&t=858s)
+
+Jamal Murray: "We're just exhausting ourselves on defense to make them have another 14 seconds to shoot, and I think that's an issue. Because it's not one game. I think the Portland game stood out because we lost, and it felt like that was really the only negative about that game is we just couldn't rebound with clinging and we didn't help Jokic at all. And then this game was like, well, we're giving them extra shots and we're giving them extra possessions, and I mean, we're not going to win like that."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=858s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=858s)
+
+From: [Full Denver Nuggets Postgame Media Availability vs. PHX 🎙](https://www.youtube.com/watch?v=u5IKz6K6efE) · *Denver Nuggets*
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=858&q=11) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=858&q=11&slack=1)</small>
+
+**19. Anthony Black — "I think we just did a good job taking the fight to them on that side." — Anthony Black on the team's defensive physicality against Boston** [04:12](https://www.youtube.com/watch?v=VxdsVZLyAuc&t=252s)
 
 Anthony Black: "I think we just did a good job taking the fight to them on that side of the ball. Like Desmond said, it was a real low-scoring first quarter, and we know that plays in our favor. So I think we just did a good job being physical, blowing up their actions. We had a good game plan coming in, and for the most part, we executed."
 
@@ -156,7 +176,19 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. BOSTON CELTICS \| COACH SWEENEY,  DESMO
 
 <small>[Clip it](presserclips://clip?v=VxdsVZLyAuc&t=252&q=7) · [Send to Slack](presserclips://clip?v=VxdsVZLyAuc&t=252&q=7&slack=1)</small>
 
-**18. Trae Young — "patience is definitely due for this team. It's been a long time since this team is consistently winning" — Trae Young on the need for patience during the Wizards' rebuilding process** [05:01](https://www.youtube.com/watch?v=u048nITb4kU&t=301s)
+**20. Dillon Brooks — "he picked and chose his spots, he got off the ball, he made sacrifice cuts" — Dillon Brooks on Jalen Green's aggressive play and confidence** [00:47](https://www.youtube.com/watch?v=oTSmzi8dzuc&t=47s)
+
+**Unidentified reporter:** "You look at **Jalen Green** as well, just being aggressive out there, getting to the rim. What steps did he take tonight and his overall confidence?"
+
+**Dillon Brooks:** "He played comfortable. He picked and chose his spots, he got off the ball, he made sacrifice cuts. That's what we got to do for our teammates so we can get a rhythm in the game."
+
+[https://www.youtube.com/watch?v=oTSmzi8dzuc&t=47s](https://www.youtube.com/watch?v=oTSmzi8dzuc&t=47s)
+
+From: [Dillon Brooks Postgame On-Court Interview after Suns win against Denver Nuggets \| 11-16-26](https://www.youtube.com/watch?v=oTSmzi8dzuc) · *Phoenix Suns*
+
+<small>[Clip it](presserclips://clip?v=oTSmzi8dzuc&t=47&q=2) · [Send to Slack](presserclips://clip?v=oTSmzi8dzuc&t=47&q=2&slack=1)</small>
+
+**21. Trae Young — "patience is definitely due for this team. It's been a long time since this team is consistently winning" — Trae Young on the need for patience during the Wizards' rebuilding process** [05:01](https://www.youtube.com/watch?v=u048nITb4kU&t=301s)
 
 Trae Young: "Patience is definitely due for this team. It's been a long time since this team is consistently winning. It's been a lot of I mean rebuilding and years of getting young guys and giving them those reps and it's hard to switch that mentality just on a flip of a switch, so sometimes you got to go through rough patches and losing with that pressure on you knowing that you're you're supposed to win more than you have."
 
@@ -165,6 +197,24 @@ Trae Young: "Patience is definitely due for this team. It's been a long time sin
 From: [Trae Young and Khris Middleton's Media Availability vs. Memphis Grizzlies \| 11.16.26](https://www.youtube.com/watch?v=u048nITb4kU) · *Washington Wizards*
 
 <small>[Clip it](presserclips://clip?v=u048nITb4kU&t=301&q=4) · [Send to Slack](presserclips://clip?v=u048nITb4kU&t=301&q=4&slack=1)</small>
+
+**22. Nikola Jokic — "we didn't turn over the ball that much today, but they had 18 offensive rebounds" — Nikola Jokic on team turnovers and rebounding** [05:42](https://www.youtube.com/watch?v=u5IKz6K6efE&t=342s)
+
+Nikola Jokic: "We didn't turn over the ball that much today, but they had 18 offensive rebounds, you know. And those turnovers that we had, I think they were always like open layups and just like we couldn't do anything to stop it. So, you know, we cannot give anybody so many chances and opportunities to score."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=342s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=342s)
+
+From: [Full Denver Nuggets Postgame Media Availability vs. PHX 🎙](https://www.youtube.com/watch?v=u5IKz6K6efE) · *Denver Nuggets*
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=342&q=5) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=342&q=5&slack=1)</small>
+
+**23. Nolan Traore — "don't be passive in the first minutes of the game like we have to be the one." — Nolan Traore on starting games with defensive intensity** [12:15](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=735s)
+
+Nolan Traore: "just get ready, get ready, get our mind ready and don't let, I mean don't, don't be passive in the first minutes of the game like we have to be the one, the one pushing, the one putting pressure on them and not the, not the, not the inverse. So yeah, that's it."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=735s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=735s)
+
+From: [Jordi Fernández, Nolan Traore, and Julius Randle Postgame Press Conferences vs. Philadelphia](https://www.youtube.com/watch?v=H82Uyy1mtFg) · *Brooklyn Nets*
 
 ---
 
@@ -1238,6 +1288,70 @@ Kenny Atkinson: "I feel like this is starting to be similar to last year where w
 
 ---
 
+## "I Wanted To Dominate The Way I Knew I Could." | Rudy Gobert Post Game Sound | 11.16.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=eC3zoGPra2s](https://www.youtube.com/watch?v=eC3zoGPra2s)
+
+_Speakers identified: Rudy Gobert_
+
+**1. Rudy Gobert — "Stay true to who I am, trust the work, and just play with a little more aggressiveness." — Rudy Gobert on maintaining his mindset after disappointing performances** [00:04](https://www.youtube.com/watch?v=eC3zoGPra2s&t=4s)
+
+Rudy Gobert: "Just be myself. You know you get some ups and down in the season, in a career, in a game. But it's always been my mindset: stay true to who I am, trust the work, and just play with a little more aggressiveness."
+
+[https://www.youtube.com/watch?v=eC3zoGPra2s&t=4s](https://www.youtube.com/watch?v=eC3zoGPra2s&t=4s)
+
+<small>[Clip it](presserclips://clip?v=eC3zoGPra2s&t=4&q=1) · [Send to Slack](presserclips://clip?v=eC3zoGPra2s&t=4&q=1&slack=1)</small>
+
+**2. Rudy Gobert — "People are going to be hard on me, but I'm the hardest on myself." — Rudy Gobert on his high standards and self-critique** [00:32](https://www.youtube.com/watch?v=eC3zoGPra2s&t=32s)
+
+Rudy Gobert: "For me, it's never too high, never too low. Like I said, I trust my work and people are going to be hard on me, but I'm the hardest on myself. I have the highest expectations and standards for myself, so of course when I have a bad performance and it impacts my team in a negative way, I always make sure that it doesn't happen too often."
+
+[https://www.youtube.com/watch?v=eC3zoGPra2s&t=32s](https://www.youtube.com/watch?v=eC3zoGPra2s&t=32s)
+
+<small>[Clip it](presserclips://clip?v=eC3zoGPra2s&t=32&q=2) · [Send to Slack](presserclips://clip?v=eC3zoGPra2s&t=32&q=2&slack=1)</small>
+
+**3. Rudy Gobert — "It's an opportunity for me to free everybody up, give my teammates open shots." — Rudy Gobert on his offensive approach against strong defensive teams** [01:04](https://www.youtube.com/watch?v=eC3zoGPra2s&t=64s)
+
+Rudy Gobert: "Just high intensity, getting my teammates open, and then just being decisive and aggressive. You know, they have some very, very good bigs defensively in the drop, so it's an opportunity for me to free everybody up, give my teammates open shots, and then just attack them too, put pressure on the rim, and make them defend, make them guard."
+
+[https://www.youtube.com/watch?v=eC3zoGPra2s&t=64s](https://www.youtube.com/watch?v=eC3zoGPra2s&t=64s)
+
+<small>[Clip it](presserclips://clip?v=eC3zoGPra2s&t=64&q=3) · [Send to Slack](presserclips://clip?v=eC3zoGPra2s&t=64&q=3&slack=1)</small>
+
+**4. Rudy Gobert — "Feeling good, but I feel like I should have made more tonight." — Rudy Gobert on his free throw shooting performance** [02:04](https://www.youtube.com/watch?v=eC3zoGPra2s&t=124s)
+
+Rudy Gobert: "Feeling good, but I feel like I should have made more tonight. I think I shot eight of 14. You got to be at least 11 of 14, so I got to be better."
+
+[https://www.youtube.com/watch?v=eC3zoGPra2s&t=124s](https://www.youtube.com/watch?v=eC3zoGPra2s&t=124s)
+
+<small>[Clip it](presserclips://clip?v=eC3zoGPra2s&t=124&q=4) · [Send to Slack](presserclips://clip?v=eC3zoGPra2s&t=124&q=4&slack=1)</small>
+
+**5. Rudy Gobert — "It was great. I mean, it gave us a big lift." — Rudy Gobert on Tyrese Maxey's career-high performance** [02:45](https://www.youtube.com/watch?v=eC3zoGPra2s&t=165s)
+
+Rudy Gobert: "It was great. I mean, it gave us a big lift when he started pushing in transition, second quarter. I felt like that gave us a run and then he was able to knock down some big shots, second half. So, really happy for him. You know, he had a couple rough games and he had an injury too, so we need him and it's great to see him back 100%."
+
+[https://www.youtube.com/watch?v=eC3zoGPra2s&t=165s](https://www.youtube.com/watch?v=eC3zoGPra2s&t=165s)
+
+<small>[Clip it](presserclips://clip?v=eC3zoGPra2s&t=165&q=5) · [Send to Slack](presserclips://clip?v=eC3zoGPra2s&t=165&q=5&slack=1)</small>
+
+**6. Rudy Gobert — "He's incredibly fast. Once he's gone in transition, it's pretty tough to stop him." — Rudy Gobert on Tyrese Maxey's ability to attack the rim** [03:18](https://www.youtube.com/watch?v=eC3zoGPra2s&t=198s)
+
+Rudy Gobert: "He's incredibly fast. Once he's gone in transition, it's pretty tough to stop him. I think you need multiple guys to stop him. And for him, when he's able to be poised, whether it's finishing or finding his teammates, it's an offense within itself."
+
+[https://www.youtube.com/watch?v=eC3zoGPra2s&t=198s](https://www.youtube.com/watch?v=eC3zoGPra2s&t=198s)
+
+<small>[Clip it](presserclips://clip?v=eC3zoGPra2s&t=198&q=6) · [Send to Slack](presserclips://clip?v=eC3zoGPra2s&t=198&q=6&slack=1)</small>
+
+**7. Rudy Gobert — "My number one job is to have my team be the best defense in this league." — Rudy Gobert on the Timberwolves' defensive identity** [05:06](https://www.youtube.com/watch?v=eC3zoGPra2s&t=306s)
+
+Rudy Gobert: "A lot of pride. Like I've said, it's who we are, it's our identity. My number one job is to have my team be the best defense in this league and that's how I think by being that every night, we get a chance to win every night and we get a chance to go and try to win a championship, which is our goal."
+
+[https://www.youtube.com/watch?v=eC3zoGPra2s&t=306s](https://www.youtube.com/watch?v=eC3zoGPra2s&t=306s)
+
+<small>[Clip it](presserclips://clip?v=eC3zoGPra2s&t=306&q=7) · [Send to Slack](presserclips://clip?v=eC3zoGPra2s&t=306&q=7&slack=1)</small>
+
+---
+
 ## Paul George Discusses His HEALTH in Year 17 | Celtics vs Magic Postgame — *Boston Celtics*
 
 Source: [https://www.youtube.com/watch?v=eNO6vF6wHOI](https://www.youtube.com/watch?v=eNO6vF6wHOI)
@@ -1416,6 +1530,266 @@ Erik Spoelstra: "There's a lot of nuance to that. I thought it was going to mayb
 
 ---
 
+## "I Just Provided What The Team Needed From Me." | Terrence Shannon Jr Post Game Sound | 11.16.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=nR8eNaBmYAQ](https://www.youtube.com/watch?v=nR8eNaBmYAQ)
+
+_Speakers identified: Terrence Shannon Jr_
+
+**1. Terrence Shannon Jr — "I just feel like my best game is when I'm in transition and I just did a good job attacking it." — Terrence Shannon Jr on his mindset and attacking in transition** [00:08](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=8s)
+
+Terrence Shannon Jr: "Just be myself. I don't really have a mindset for them. I feel like my best game is when I'm in transition and I just did a good job attacking it."
+
+[https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=8s](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=8s)
+
+<small>[Clip it](presserclips://clip?v=nR8eNaBmYAQ&t=8&q=1) · [Send to Slack](presserclips://clip?v=nR8eNaBmYAQ&t=8&q=1&slack=1)</small>
+
+**2. Terrence Shannon Jr — "Just reading the floor, knowing when to create, knowing when to attack, go to the rim." — Terrence Shannon Jr on reading the floor and playmaking** [00:26](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=26s)
+
+Terrence Shannon Jr: "Just reading the floor, knowing when to create, knowing when to attack, go to the rim, and if the paint collapse, kick it out or try to find a dump off to my teammates."
+
+[https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=26s](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=26s)
+
+<small>[Clip it](presserclips://clip?v=nR8eNaBmYAQ&t=26&q=2) · [Send to Slack](presserclips://clip?v=nR8eNaBmYAQ&t=26&q=2&slack=1)</small>
+
+**3. Terrence Shannon Jr — "I recently had a talk with Chris Finch about me creating for others." — Terrence Shannon Jr on his development as a playmaker** [00:55](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=55s)
+
+Terrence Shannon Jr: "I always could pass. I recently had a talk with **Chris Finch** about me creating for others, and that's something I'm trying to do a better job at, balancing that and attacking."
+
+[https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=55s](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=55s)
+
+<small>[Clip it](presserclips://clip?v=nR8eNaBmYAQ&t=55&q=3) · [Send to Slack](presserclips://clip?v=nR8eNaBmYAQ&t=55&q=3&slack=1)</small>
+
+**4. Terrence Shannon Jr — "Obviously Oklahoma City, we don't like those guys, so I had a good game today." — Terrence Shannon Jr on his performance against Oklahoma City** [01:30](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=90s)
+
+Terrence Shannon Jr: "Obviously Oklahoma City, we don't like those guys, so I had a good game today."
+
+[https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=90s](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=90s)
+
+<small>[Clip it](presserclips://clip?v=nR8eNaBmYAQ&t=90&q=4) · [Send to Slack](presserclips://clip?v=nR8eNaBmYAQ&t=90&q=4&slack=1)</small>
+
+**5. Terrence Shannon Jr — "Our connectivity, the vibes we have as a team, the togetherness, just going out feeling like we can beat anybody." — Terrence Shannon Jr on team connectivity and confidence** [01:55](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=115s)
+
+Terrence Shannon Jr: "Our connectivity, the vibes we have as a team, the togetherness, just going out feeling like we can beat anybody with any of the guys we go out with."
+
+[https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=115s](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=115s)
+
+<small>[Clip it](presserclips://clip?v=nR8eNaBmYAQ&t=115&q=5) · [Send to Slack](presserclips://clip?v=nR8eNaBmYAQ&t=115&q=5&slack=1)</small>
+
+**6. Terrence Shannon Jr — "We just said we got to go win the next one by any means necessary." — Terrence Shannon Jr on the team's response to a tough loss** [02:24](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=144s)
+
+Terrence Shannon Jr: "We just said we got to go win the next one by any means necessary, and we just went out and did it."
+
+[https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=144s](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=144s)
+
+<small>[Clip it](presserclips://clip?v=nR8eNaBmYAQ&t=144&q=6) · [Send to Slack](presserclips://clip?v=nR8eNaBmYAQ&t=144&q=6&slack=1)</small>
+
+**7. Terrence Shannon Jr — "Rudy Gobert is great. He's one of the best, the best defender in the league." — Terrence Shannon Jr on Rudy Gobert's impact in the paint** [02:35](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=155s)
+
+Terrence Shannon Jr: "**Rudy Gobert** is great. He bounced back from the game they had recently. He's one of the best, the best defender in the league, and he's just got to play like that every game."
+
+[https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=155s](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=155s)
+
+<small>[Clip it](presserclips://clip?v=nR8eNaBmYAQ&t=155&q=7) · [Send to Slack](presserclips://clip?v=nR8eNaBmYAQ&t=155&q=7&slack=1)</small>
+
+**8. Terrence Shannon Jr — "It's always defense first with this team, and got to play defense to get to offense." — Terrence Shannon Jr on defensive intensity as a priority** [03:07](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=187s)
+
+Terrence Shannon Jr: "It's always defense first with this team, and got to play defense to get to offense, so we just got to start on the defensive end and convert over."
+
+[https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=187s](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=187s)
+
+<small>[Clip it](presserclips://clip?v=nR8eNaBmYAQ&t=187&q=8) · [Send to Slack](presserclips://clip?v=nR8eNaBmYAQ&t=187&q=8&slack=1)</small>
+
+**9. Terrence Shannon Jr — "I know Chris Finch and Rudy Gobert said that they never had this before in their career." — Terrence Shannon Jr on the advantage of stacking home wins** [03:37](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=217s)
+
+Terrence Shannon Jr: "I know **Chris Finch** and **Rudy Gobert** said that they never had this before in their career, so I feel like it's a really big advantage for us to stack wins right now at home."
+
+[https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=217s](https://www.youtube.com/watch?v=nR8eNaBmYAQ&t=217s)
+
+<small>[Clip it](presserclips://clip?v=nR8eNaBmYAQ&t=217&q=9) · [Send to Slack](presserclips://clip?v=nR8eNaBmYAQ&t=217&q=9&slack=1)</small>
+
+---
+
+## Dillon Brooks Postgame On-Court Interview after Suns win against Denver Nuggets | 11-16-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=oTSmzi8dzuc](https://www.youtube.com/watch?v=oTSmzi8dzuc)
+
+_Speakers identified: Amanda, Dillon Brooks_
+
+**1. Dillon Brooks — "we made the adjustment in game and everybody got a touch" — Dillon Brooks on Phoenix Suns' defensive adjustments against Denver Nuggets** [00:04](https://www.youtube.com/watch?v=oTSmzi8dzuc&t=4s)
+
+**Unidentified reporter:** "You look at the Nuggets, they had 38 points in the paint in the first half. You guys were able to limit them to just 12 in the second. How did you turn up the defensive pressure and keep them out of the paint?"
+
+**Dillon Brooks:** "We made an adjustment, we swarmed the paint when they had it in there, and then we were plugging all game. So, we made the adjustment in game and everybody got a touch."
+
+[https://www.youtube.com/watch?v=oTSmzi8dzuc&t=4s](https://www.youtube.com/watch?v=oTSmzi8dzuc&t=4s)
+
+<small>[Clip it](presserclips://clip?v=oTSmzi8dzuc&t=4&q=1) · [Send to Slack](presserclips://clip?v=oTSmzi8dzuc&t=4&q=1&slack=1)</small>
+
+**2. Dillon Brooks — "he picked and chose his spots, he got off the ball, he made sacrifice cuts" — Dillon Brooks on Jalen Green's aggressive play and confidence** [00:47](https://www.youtube.com/watch?v=oTSmzi8dzuc&t=47s)
+
+**Unidentified reporter:** "You look at **Jalen Green** as well, just being aggressive out there, getting to the rim. What steps did he take tonight and his overall confidence?"
+
+**Dillon Brooks:** "He played comfortable. He picked and chose his spots, he got off the ball, he made sacrifice cuts. That's what we got to do for our teammates so we can get a rhythm in the game."
+
+[https://www.youtube.com/watch?v=oTSmzi8dzuc&t=47s](https://www.youtube.com/watch?v=oTSmzi8dzuc&t=47s)
+
+<small>[Clip it](presserclips://clip?v=oTSmzi8dzuc&t=47&q=2) · [Send to Slack](presserclips://clip?v=oTSmzi8dzuc&t=47&q=2&slack=1)</small>
+
+---
+
+## [TJ & Rudy] Did A Great Job Finding Their Flow Tonight." | Chris Finch Post Game Sound | 11.16.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=ortYIONMg_M](https://www.youtube.com/watch?v=ortYIONMg_M)
+
+_Speakers identified: Chris Finch_
+
+**1. Chris Finch — "he was definitely the MVP tonight offensively for sure, did a good job defensively as well." — Chris Finch praises TJ's offensive performance and playmaking** [00:06](https://www.youtube.com/watch?v=ortYIONMg_M&t=6s)
+
+Chris Finch: "He got downhill, put a lot of pressure on them, got to the free throw line a ton, softened up their defense a little bit, made shots, he found himself in a rhythm. He was definitely the MVP tonight offensively for sure, did a good job defensively as well."
+
+[https://www.youtube.com/watch?v=ortYIONMg_M&t=6s](https://www.youtube.com/watch?v=ortYIONMg_M&t=6s)
+
+<small>[Clip it](presserclips://clip?v=ortYIONMg_M&t=6&q=1) · [Send to Slack](presserclips://clip?v=ortYIONMg_M&t=6&q=1&slack=1)</small>
+
+**2. Chris Finch — "you got to have a high motor, first of all, and you got to have a quick burst." — Chris Finch explains what makes TJ effective at the rim** [00:33](https://www.youtube.com/watch?v=ortYIONMg_M&t=33s)
+
+Chris Finch: "You got to have a high motor, first of all, and you got to have a quick burst, and he does a good job of changing speeds. I think that's a big key for him is to change speeds. His playmaking was great too, he had six assists and he actually triggered a lot of really good offense in the first half, multiple driving kick sequences when we were really struggling to find something."
+
+[https://www.youtube.com/watch?v=ortYIONMg_M&t=33s](https://www.youtube.com/watch?v=ortYIONMg_M&t=33s)
+
+<small>[Clip it](presserclips://clip?v=ortYIONMg_M&t=33&q=2) · [Send to Slack](presserclips://clip?v=ortYIONMg_M&t=33&q=2&slack=1)</small>
+
+**3. Chris Finch — "we challenged Rudy, he needed to get back to being stronger around the rim." — Chris Finch on Rudy Gobert's offensive involvement and rebounding** [01:05](https://www.youtube.com/watch?v=ortYIONMg_M&t=65s)
+
+Chris Finch: "We challenged **Rudy**, he needed to get back to being stronger around the rim. He needed to get back to dominating like he can do. We were looking for him and they got their hands on a lot of passes early on, and we were able to find a few clear windows, but he did a good job of getting on the glass and keeping things alive too."
+
+[https://www.youtube.com/watch?v=ortYIONMg_M&t=65s](https://www.youtube.com/watch?v=ortYIONMg_M&t=65s)
+
+<small>[Clip it](presserclips://clip?v=ortYIONMg_M&t=65&q=3) · [Send to Slack](presserclips://clip?v=ortYIONMg_M&t=65&q=3&slack=1)</small>
+
+**4. Chris Finch — "he has an incredible pride and he knows when he hasn't played well." — Chris Finch on Rudy Gobert's ability to overcome adversity** [01:37](https://www.youtube.com/watch?v=ortYIONMg_M&t=97s)
+
+Chris Finch: "There's two things. One is he's an incredible player, and the second thing is he has an incredible pride and he knows when he hasn't played well and he takes ownership over that and he holds himself accountable and he gets back to being the guy that he knows he can be and we know we need him to be."
+
+[https://www.youtube.com/watch?v=ortYIONMg_M&t=97s](https://www.youtube.com/watch?v=ortYIONMg_M&t=97s)
+
+<small>[Clip it](presserclips://clip?v=ortYIONMg_M&t=97&q=4) · [Send to Slack](presserclips://clip?v=ortYIONMg_M&t=97&q=4&slack=1)</small>
+
+**5. Chris Finch — "I'm not worried about it, this will turn around, he'll make shots." — Chris Finch remains confident in LaMelo's shooting ability** [02:08](https://www.youtube.com/watch?v=ortYIONMg_M&t=128s)
+
+Chris Finch: "I thought he got for the most part a lot of really good looks. Even the other night, the looks that he took in the Chicago game weren't bad looks, it's just that they could have been at the expense of maybe some driving and finish opportunities. I do think there's some of that there for him, but I'm not worried about it, this will turn around, he'll make shots."
+
+[https://www.youtube.com/watch?v=ortYIONMg_M&t=128s](https://www.youtube.com/watch?v=ortYIONMg_M&t=128s)
+
+<small>[Clip it](presserclips://clip?v=ortYIONMg_M&t=128&q=5) · [Send to Slack](presserclips://clip?v=ortYIONMg_M&t=128&q=5&slack=1)</small>
+
+**6. Chris Finch — "you got to make him commit one way or the other." — Chris Finch on the strategy against rim protectors like Clingan** [02:37](https://www.youtube.com/watch?v=ortYIONMg_M&t=157s)
+
+Chris Finch: "You got to make him commit one way or the other. He's down there. I was really pleased we called defensive three seconds, two of them, you never see that, so we could have called one almost every time down really. But you got to make him commit and then try to find the avenues to pass around him. You're not going to finish over him all night long."
+
+[https://www.youtube.com/watch?v=ortYIONMg_M&t=157s](https://www.youtube.com/watch?v=ortYIONMg_M&t=157s)
+
+<small>[Clip it](presserclips://clip?v=ortYIONMg_M&t=157&q=6) · [Send to Slack](presserclips://clip?v=ortYIONMg_M&t=157&q=6&slack=1)</small>
+
+**7. Chris Finch — "we did a really good job of picking good routes." — Chris Finch on slowing down Avdija in the second half** [03:12](https://www.youtube.com/watch?v=ortYIONMg_M&t=192s)
+
+Chris Finch: "We did a really good job of picking good routes. I thought in the first half we were too detached from him and then he was able to make a little move and get to where he wanted to go. We got into him a little bit more physical, I thought **Rudy** was up a little bit more, slowed him down a little bit more, wasn't able to get a runway a lot of times."
+
+[https://www.youtube.com/watch?v=ortYIONMg_M&t=192s](https://www.youtube.com/watch?v=ortYIONMg_M&t=192s)
+
+<small>[Clip it](presserclips://clip?v=ortYIONMg_M&t=192&q=7) · [Send to Slack](presserclips://clip?v=ortYIONMg_M&t=192&q=7&slack=1)</small>
+
+**8. Chris Finch — "our guards have to rebound at a high level." — Chris Finch on the importance of guard rebounding** [03:47](https://www.youtube.com/watch?v=ortYIONMg_M&t=227s)
+
+Chris Finch: "We know that how important rebounding is for us this year. Our guards have to rebound at a high level. I think **TJ**'s defensive rebound, he only has two here, but I know he got his hands on a lot of things, kept a lot of things alive for us to track down other ways. As long as his activity is high, he's a really good rebounder on both ends of the floor."
+
+[https://www.youtube.com/watch?v=ortYIONMg_M&t=227s](https://www.youtube.com/watch?v=ortYIONMg_M&t=227s)
+
+<small>[Clip it](presserclips://clip?v=ortYIONMg_M&t=227&q=8) · [Send to Slack](presserclips://clip?v=ortYIONMg_M&t=227&q=8&slack=1)</small>
+
+**9. Chris Finch — "these are guys that Tim Connelly has done a great job with." — Chris Finch on the impact of new roster additions** [04:35](https://www.youtube.com/watch?v=ortYIONMg_M&t=275s)
+
+Chris Finch: "These are guys that **Tim Connelly** has done a great job with, has a high degree of familiarity with. He knows that he feels that they'll fit well and these guys have been great. We're getting these guys with a chip on their shoulder too, something to prove and re-prove themselves and that's exactly where you want guys like that."
+
+[https://www.youtube.com/watch?v=ortYIONMg_M&t=275s](https://www.youtube.com/watch?v=ortYIONMg_M&t=275s)
+
+<small>[Clip it](presserclips://clip?v=ortYIONMg_M&t=275&q=9) · [Send to Slack](presserclips://clip?v=ortYIONMg_M&t=275&q=9&slack=1)</small>
+
+---
+
+## Head Coach Jordan Ott Postgame Media Availability  | 11-16-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=rZogf7dbsms](https://www.youtube.com/watch?v=rZogf7dbsms)
+
+_Speakers identified: Jordan Ott_
+
+**1. Jordan Ott — "Jaylen's defensive intensity really helped us in that second half." — Jaylen Brown's defensive intensity helped the team in the second half** [00:25](https://www.youtube.com/watch?v=rZogf7dbsms&t=25s)
+
+Jordan Ott: "Even out of the locker room, Jaylen's defensive intensity really helped us in that second half."
+
+[https://www.youtube.com/watch?v=rZogf7dbsms&t=25s](https://www.youtube.com/watch?v=rZogf7dbsms&t=25s)
+
+<small>[Clip it](presserclips://clip?v=rZogf7dbsms&t=25&q=1) · [Send to Slack](presserclips://clip?v=rZogf7dbsms&t=25&q=1&slack=1)</small>
+
+**2. Jordan Ott — "We need all of it. I mean that's what makes him special." — Jaylen Brown's unique combination of speed, driving ability, and defensive energy** [00:46](https://www.youtube.com/watch?v=rZogf7dbsms&t=46s)
+
+Jordan Ott: "We need all of it. I mean that's what makes him special, his first step, his ability to drive into the paint in transition. He's getting to the rim at a high rate. And then I thought defensively he changed just how we came out of the locker room in that third quarter with his defensive energy."
+
+[https://www.youtube.com/watch?v=rZogf7dbsms&t=46s](https://www.youtube.com/watch?v=rZogf7dbsms&t=46s)
+
+<small>[Clip it](presserclips://clip?v=rZogf7dbsms&t=46&q=2) · [Send to Slack](presserclips://clip?v=rZogf7dbsms&t=46&q=2&slack=1)</small>
+
+**3. Jordan Ott — "It's not just on our fives, it's on everyone to collectively come down and help." — The team's collective effort on defensive and offensive rebounding** [01:06](https://www.youtube.com/watch?v=rZogf7dbsms&t=66s)
+
+Jordan Ott: "It's been a big topic for us. We know defensive rebounding hasn't been great for us. It's not just on our fives, it's on everyone to collectively come down and help. And then also offensive rebounding, we talk about offensive rebounding every day. Just going to the glass, it's something that we need, we need the extra possessions."
+
+[https://www.youtube.com/watch?v=rZogf7dbsms&t=66s](https://www.youtube.com/watch?v=rZogf7dbsms&t=66s)
+
+<small>[Clip it](presserclips://clip?v=rZogf7dbsms&t=66&q=3) · [Send to Slack](presserclips://clip?v=rZogf7dbsms&t=66&q=3&slack=1)</small>
+
+**4. Jordan Ott — "I think it's contagious, and then also their defensive coverage." — The team's ball movement is contagious and improved by defensive coverage** [01:44](https://www.youtube.com/watch?v=rZogf7dbsms&t=104s)
+
+Jordan Ott: "It's a combination, **Dwayne**. I think it's contagious, and then also their defensive coverage. The way they played book, they were putting two on him every single time, every single action. To get seven assists at halftime, when that thing's popping around and we're making shots, it just feels a whole lot different."
+
+[https://www.youtube.com/watch?v=rZogf7dbsms&t=104s](https://www.youtube.com/watch?v=rZogf7dbsms&t=104s)
+
+<small>[Clip it](presserclips://clip?v=rZogf7dbsms&t=104&q=4) · [Send to Slack](presserclips://clip?v=rZogf7dbsms&t=104&q=4&slack=1)</small>
+
+**5. Jordan Ott — "It's hard to maintain your discipline to just play him one-on-one." — The challenge of maintaining defensive discipline against Nikola Jokic** [02:13](https://www.youtube.com/watch?v=rZogf7dbsms&t=133s)
+
+Jordan Ott: "It's hard to maintain your discipline to just play him one-on-one there. We were faking in and out, and then we didn't end up changing it. At some point, you're going to have to adjust probably multiple times with him. He's a hard player to guard, you kind of pick your poison a little bit. He can beat you in so many different ways."
+
+[https://www.youtube.com/watch?v=rZogf7dbsms&t=133s](https://www.youtube.com/watch?v=rZogf7dbsms&t=133s)
+
+<small>[Clip it](presserclips://clip?v=rZogf7dbsms&t=133&q=5) · [Send to Slack](presserclips://clip?v=rZogf7dbsms&t=133&q=5&slack=1)</small>
+
+**6. Jordan Ott — "I think that third quarter just our bench energy in general." — The team's bench energy is a collective spirit that drives performance** [03:10](https://www.youtube.com/watch?v=rZogf7dbsms&t=190s)
+
+Jordan Ott: "I think that third quarter just our bench energy in general. It's like a collective spirit, we can feel it. We've done it in spurts, that's how we want to be different through the full 48. Ups, downs, we're all together. So yeah, I just think collectively we were in it for the full 48 tonight."
+
+[https://www.youtube.com/watch?v=rZogf7dbsms&t=190s](https://www.youtube.com/watch?v=rZogf7dbsms&t=190s)
+
+<small>[Clip it](presserclips://clip?v=rZogf7dbsms&t=190&q=6) · [Send to Slack](presserclips://clip?v=rZogf7dbsms&t=190&q=6&slack=1)</small>
+
+**7. Jordan Ott — "He's the ultimate winner, ultimate teammate, always wants to do well for the team." — Colin Gillespie's growth as a player and his impact on the team** [04:15](https://www.youtube.com/watch?v=rZogf7dbsms&t=255s)
+
+Jordan Ott: "He's the ultimate winner, ultimate teammate, always wants to do well for the team. We have to drag the aggressiveness, his individual shots out of him because he always wants to make the right play. That's how he came in the league, but now he has this skill, the ability to shoot off the bounce, the competitive fire to guard anyone, and we're lucky to have him."
+
+[https://www.youtube.com/watch?v=rZogf7dbsms&t=255s](https://www.youtube.com/watch?v=rZogf7dbsms&t=255s)
+
+<small>[Clip it](presserclips://clip?v=rZogf7dbsms&t=255&q=7) · [Send to Slack](presserclips://clip?v=rZogf7dbsms&t=255&q=7&slack=1)</small>
+
+**8. Jordan Ott — "We have great depth, you know, kind of lineup combinations." — The team's rotation remains a work in progress with great depth** [04:57](https://www.youtube.com/watch?v=rZogf7dbsms&t=297s)
+
+Jordan Ott: "That's still going to be a work in progress. We have great depth, you know, kind of lineup combinations. We need obviously the defensive glass has been an issue. **Ryan** played through the thumb, easily could have taken the night off and rest that thumb for him to go out there. These guys are about the right stuff, we have enough guys about the right stuff, we'll figure this thing out."
+
+[https://www.youtube.com/watch?v=rZogf7dbsms&t=297s](https://www.youtube.com/watch?v=rZogf7dbsms&t=297s)
+
+<small>[Clip it](presserclips://clip?v=rZogf7dbsms&t=297&q=8) · [Send to Slack](presserclips://clip?v=rZogf7dbsms&t=297&q=8&slack=1)</small>
+
+---
+
 ## Trae Young and Khris Middleton's Media Availability vs. Memphis Grizzlies | 11.16.26 — *Washington Wizards*
 
 Source: [https://www.youtube.com/watch?v=u048nITb4kU](https://www.youtube.com/watch?v=u048nITb4kU)
@@ -1485,6 +1859,118 @@ Khris Middleton: "The messaging that he gives us, pregame, halftime, postgame, i
 [https://www.youtube.com/watch?v=u048nITb4kU&t=840s](https://www.youtube.com/watch?v=u048nITb4kU&t=840s)
 
 <small>[Clip it](presserclips://clip?v=u048nITb4kU&t=840&q=8) · [Send to Slack](presserclips://clip?v=u048nITb4kU&t=840&q=8&slack=1)</small>
+
+---
+
+## Full Denver Nuggets Postgame Media Availability vs. PHX 🎙 — *Denver Nuggets*
+
+Source: [https://www.youtube.com/watch?v=u5IKz6K6efE](https://www.youtube.com/watch?v=u5IKz6K6efE)
+
+_Speakers identified: Coach Adelman, Nikola Jokic, Jamal Murray, Spencer Jones_
+
+**1. Coach Adelman — "those two things have hurt us, remind me a lot of the Portland game that we lost" — Coach Adelman on Nuggets' defensive struggles and rebounding issues** [00:13](https://www.youtube.com/watch?v=u5IKz6K6efE&t=13s)
+
+Coach Adelman: "Those two things have hurt us, and I think the offensive rebound, they had nine guys in offensive rebound. The turnovers, I don't have the stats yet, but it seemed like the majority were live-ball turnovers. Against a team that fast, to play small, that leads to easy baskets in a low-scoring game to be honest. So, those two things have hurt us, remind me a lot of the Portland game that we lost here, where we find a rhythm, we get control of the game, and then the second chance, the 50-50 stuff just killed us. So it's just got to be something we got to shore up."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=13s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=13s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=13&q=1) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=13&q=1&slack=1)</small>
+
+**2. Coach Adelman — "I thought his turnovers were also from spacing issues" — Coach Adelman on Nikola Jokic's turnovers and spacing issues** [01:06](https://www.youtube.com/watch?v=u5IKz6K6efE&t=66s)
+
+Coach Adelman: "I thought his turnovers were also from spacing issues. I thought we actually got him the ball in advantageous situations where he's at the nail, and they're going to bring help, and you have to space around him correctly. Obviously, those lineups don't play a lot together, but we have to be better in that situation. I thought a couple were his, a couple were the team's, but to the earlier point, that's what will beat us."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=66s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=66s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=66&q=2) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=66&q=2&slack=1)</small>
+
+**3. Coach Adelman — "it's not about the guy that I matched up with to start the game, how many rebounds he got" — Coach Adelman on team rebounding and defensive responsibility** [02:15](https://www.youtube.com/watch?v=u5IKz6K6efE&t=135s)
+
+Coach Adelman: "It's not their matchup. When we're up with Booker and you rotate, you're taking on different people. And so that's why when I said the nine players from Phoenix, it was a lot of smalls that snuck in there and got rebounds, and that's inexcusable. As a group, you have to physically own your spot. It's not about the guy that I matched up with to start the game, how many rebounds he got compared to me. It's the situation you're in and where you are on the floor."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=135s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=135s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=135&q=3) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=135&q=3&slack=1)</small>
+
+**4. Coach Adelman — "Cam Johnson tonight was 0 for 7. I wish he was 0 for 11 every night" — Coach Adelman on Cam Johnson's shooting slump** [05:12](https://www.youtube.com/watch?v=u5IKz6K6efE&t=312s)
+
+Coach Adelman: "**Cam Johnson** tonight was 0 for 7. I wish he was 0 for 11 every night, because I believe he's going to go 7 for 11 soon. And I just think that's something our team has to understand and believe to make us better as a group."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=312s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=312s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=312&q=4) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=312&q=4&slack=1)</small>
+
+**5. Nikola Jokic — "we didn't turn over the ball that much today, but they had 18 offensive rebounds" — Nikola Jokic on team turnovers and rebounding** [05:42](https://www.youtube.com/watch?v=u5IKz6K6efE&t=342s)
+
+Nikola Jokic: "We didn't turn over the ball that much today, but they had 18 offensive rebounds, you know. And those turnovers that we had, I think they were always like open layups and just like we couldn't do anything to stop it. So, you know, we cannot give anybody so many chances and opportunities to score."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=342s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=342s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=342&q=5) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=342&q=5&slack=1)</small>
+
+**6. Nikola Jokic — "they scored 36 and 34 in second and in the third quarter, that's a little bit too much" — Nikola Jokic on defensive lapses in the third quarter** [06:22](https://www.youtube.com/watch?v=u5IKz6K6efE&t=382s)
+
+Nikola Jokic: "They scored 36 and 34 in second and in the third quarter, that's a little bit too much. I think that was the, we couldn't, our defense was not where it's supposed to be."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=382s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=382s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=382&q=6) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=382&q=6&slack=1)</small>
+
+**7. Nikola Jokic — "those are the kills confidence, those are the kills" — Nikola Jokic on the impact of second-chance points** [07:08](https://www.youtube.com/watch?v=u5IKz6K6efE&t=428s)
+
+Nikola Jokic: "Those are the kills confidence, those are the kills, you know, when you, especially when you have a couple in a row, you know, that, that just unacceptable."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=428s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=428s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=428&q=7) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=428&q=7&slack=1)</small>
+
+**8. Nikola Jokic — "we play so long together and we pass to each other a lot" — Nikola Jokic on reaching 1,000 assists with Jamal Murray** [09:43](https://www.youtube.com/watch?v=u5IKz6K6efE&t=583s)
+
+Nikola Jokic: "Just because we play so long together and we pass to each other a lot, so it was a cool achievement."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=583s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=583s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=583&q=8) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=583&q=8&slack=1)</small>
+
+**9. Jamal Murray — "I had an egregious turnover where I was just looking to pass when I could have shot" — Jamal Murray on his turnovers and team performance** [12:28](https://www.youtube.com/watch?v=u5IKz6K6efE&t=748s)
+
+Jamal Murray: "I had an egregious turnover where I was just looking to pass when I could have shot or drove or been aggressive or whatever. So, I don't know. I think everybody was just playing, I don't know, we just turned it over. I don't know what goes through everybody's mind, but I know when I'm talking about myself, I had a couple turnovers that I shouldn't have had and that led to three or a dunk or whatever and a timeout."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=748s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=748s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=748&q=9) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=748&q=9&slack=1)</small>
+
+**10. Jamal Murray — "every quarter is a problem. In the first quarter I was in foul trouble, in the second quarter" — Jamal Murray on the impact of foul trouble** [13:14](https://www.youtube.com/watch?v=u5IKz6K6efE&t=794s)
+
+Jamal Murray: "Every quarter is a problem. In the first quarter I was in foul trouble, in the second quarter, and then I was out for like 10 minutes. I can't afford to foul like that, so I think I put the team in a bind tonight just not being out there for most of the game."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=794s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=794s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=794&q=10) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=794&q=10&slack=1)</small>
+
+**11. Jamal Murray — "we're just exhausting ourselves on defense to make them have another 14 seconds to shoot" — Jamal Murray on defensive exhaustion and rebounding** [14:18](https://www.youtube.com/watch?v=u5IKz6K6efE&t=858s)
+
+Jamal Murray: "We're just exhausting ourselves on defense to make them have another 14 seconds to shoot, and I think that's an issue. Because it's not one game. I think the Portland game stood out because we lost, and it felt like that was really the only negative about that game is we just couldn't rebound with clinging and we didn't help Jokic at all. And then this game was like, well, we're giving them extra shots and we're giving them extra possessions, and I mean, we're not going to win like that."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=858s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=858s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=858&q=11) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=858&q=11&slack=1)</small>
+
+**12. Spencer Jones — "the offensive rebound, second chance points and turnovers, you know, definitely tell you there's a little bit of fatigue" — Spencer Jones on team fatigue and rebounding** [16:54](https://www.youtube.com/watch?v=u5IKz6K6efE&t=1014s)
+
+Spencer Jones: "The offensive rebound, second chance points and turnovers, you know, definitely tell you there's a little bit of fatigue out there. You know, it's a team effort and so getting more guys to crash, and everything like that, obviously, you know, part of that's my job and everything like that. So just, you know, emphasizing it's a team effort and getting more guys in there."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=1014s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=1014s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=1014&q=12) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=1014&q=12&slack=1)</small>
+
+**13. Spencer Jones — "some of the looks I probably even personally passed up and everything like that" — Spencer Jones on team three-point shooting struggles** [17:46](https://www.youtube.com/watch?v=u5IKz6K6efE&t=1066s)
+
+Spencer Jones: "Even tonight there were some looks I probably even personally passed up and everything like that. It's just being more aggressive to let those things fly. I mean, you know, sometimes some of us are so used to defaulting to, you know, the great offensive players that we have on this team, that sometimes, you know, you need to be more aggressive on that, on that end and take those shots when we're open."
+
+[https://www.youtube.com/watch?v=u5IKz6K6efE&t=1066s](https://www.youtube.com/watch?v=u5IKz6K6efE&t=1066s)
+
+<small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=1066&q=13) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=1066&q=13&slack=1)</small>
 
 ---
 

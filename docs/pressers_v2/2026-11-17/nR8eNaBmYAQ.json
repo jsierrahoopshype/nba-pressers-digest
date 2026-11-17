@@ -1,0 +1,292 @@
+{
+  "video_title": "\"I Just Provided What The Team Needed From Me.\" | Terrence Shannon Jr Post Game Sound | 11.16.26",
+  "speakers_seen": [
+    "Terrence Shannon Jr"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Terrence Shannon Jr",
+      "timestamp": "00:08",
+      "summary_phrase": "Terrence Shannon Jr on his mindset and attacking in transition",
+      "names_mentioned": [],
+      "excerpt": "I just feel like my best game is when I'm in transition and I just did a good job attacking it.",
+      "quote": "Just be myself. I don't really have a mindset for them. I feel like my best game is when I'm in transition and I just did a good job attacking it.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Terrence Shannon Jr says his best game comes when he is in transition and attacking the rim.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr discusses his approach to playing in transition after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Terrence Shannon Jr",
+      "timestamp": "00:26",
+      "summary_phrase": "Terrence Shannon Jr on reading the floor and playmaking",
+      "names_mentioned": [],
+      "excerpt": "Just reading the floor, knowing when to create, knowing when to attack, go to the rim.",
+      "quote": "Just reading the floor, knowing when to create, knowing when to attack, go to the rim, and if the paint collapse, kick it out or try to find a dump off to my teammates.",
+      "text_blocks": [],
+      "start_seconds": 26,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Terrence Shannon Jr on his playmaking approach: I am just reading the floor, knowing when to create, knowing when to attack, and if the paint collapses, kick it out.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr explains his decision-making process when reading the floor and playmaking.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Terrence Shannon Jr",
+      "timestamp": "00:55",
+      "summary_phrase": "Terrence Shannon Jr on his development as a playmaker",
+      "names_mentioned": [
+        "Chris Finch"
+      ],
+      "excerpt": "I recently had a talk with Chris Finch about me creating for others.",
+      "quote": "I always could pass. I recently had a talk with Chris Finch about me creating for others, and that's something I'm trying to do a better job at, balancing that and attacking.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Terrence Shannon Jr says he had a talk with Chris Finch about focusing more on creating for others while balancing his own scoring.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Finch"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Terrence Shannon Jr discusses his development as a playmaker following a conversation with head coach Chris Finch.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Terrence Shannon Jr",
+      "timestamp": "01:30",
+      "summary_phrase": "Terrence Shannon Jr on his performance against Oklahoma City",
+      "names_mentioned": [],
+      "excerpt": "Obviously Oklahoma City, we don't like those guys, so I had a good game today.",
+      "quote": "Obviously Oklahoma City, we don't like those guys, so I had a good game today.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 8,
+      "social_post": "Terrence Shannon Jr on the matchup with OKC: Obviously we do not like those guys, so I had a good game today.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr reflects on his performance during the game against the Oklahoma City Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Terrence Shannon Jr",
+      "timestamp": "01:55",
+      "summary_phrase": "Terrence Shannon Jr on team connectivity and confidence",
+      "names_mentioned": [],
+      "excerpt": "Our connectivity, the vibes we have as a team, the togetherness, just going out feeling like we can beat anybody.",
+      "quote": "Our connectivity, the vibes we have as a team, the togetherness, just going out feeling like we can beat anybody with any of the guys we go out with.",
+      "text_blocks": [],
+      "start_seconds": 115,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Terrence Shannon Jr credits the team connectivity and togetherness for the feeling that they can beat anybody.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr comments on the team's overall confidence and chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Terrence Shannon Jr",
+      "timestamp": "02:24",
+      "summary_phrase": "Terrence Shannon Jr on the team's response to a tough loss",
+      "names_mentioned": [],
+      "excerpt": "We just said we got to go win the next one by any means necessary.",
+      "quote": "We just said we got to go win the next one by any means necessary, and we just went out and did it.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Terrence Shannon Jr on bouncing back from a tough loss: We just said we got to go win the next one by any means necessary.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr describes the team's mindset following a previous loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Terrence Shannon Jr",
+      "timestamp": "02:35",
+      "summary_phrase": "Terrence Shannon Jr on Rudy Gobert's impact in the paint",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "Rudy Gobert is great. He's one of the best, the best defender in the league.",
+      "quote": "Rudy Gobert is great. He bounced back from the game they had recently. He's one of the best, the best defender in the league, and he's just got to play like that every game.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Terrence Shannon Jr on Rudy Gobert: He is one of the best, the best defender in the league, and he just has to play like that every game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Terrence Shannon Jr praises Rudy Gobert's defensive impact and performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Terrence Shannon Jr",
+      "timestamp": "03:07",
+      "summary_phrase": "Terrence Shannon Jr on defensive intensity as a priority",
+      "names_mentioned": [],
+      "excerpt": "It's always defense first with this team, and got to play defense to get to offense.",
+      "quote": "It's always defense first with this team, and got to play defense to get to offense, so we just got to start on the defensive end and convert over.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Terrence Shannon Jr says it is always defense first for the Timberwolves, noting they have to play defense to get to their offense.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr emphasizes the importance of defensive intensity for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Terrence Shannon Jr",
+      "timestamp": "03:37",
+      "summary_phrase": "Terrence Shannon Jr on the advantage of stacking home wins",
+      "names_mentioned": [
+        "Chris Finch",
+        "Rudy Gobert"
+      ],
+      "excerpt": "I know Chris Finch and Rudy Gobert said that they never had this before in their career.",
+      "quote": "I know Chris Finch and Rudy Gobert said that they never had this before in their career, so I feel like it's a really big advantage for us to stack wins right now at home.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 230,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Terrence Shannon Jr says stacking wins at home is a big advantage for the team this season.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Finch",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Terrence Shannon Jr discusses the importance of stacking home wins as noted by Chris Finch and Rudy Gobert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "nR8eNaBmYAQ",
+  "url": "https://www.youtube.com/watch?v=nR8eNaBmYAQ",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-17T05:41:26Z",
+  "duration_seconds": 253,
+  "processed_at": "2026-11-17T06:24:18Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

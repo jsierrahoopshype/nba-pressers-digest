@@ -1,0 +1,111 @@
+{
+  "video_title": "Dillon Brooks Postgame On-Court Interview after Suns win against Denver Nuggets | 11-16-26",
+  "speakers_seen": [
+    "Amanda",
+    "Dillon Brooks"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dillon Brooks",
+      "speakers": [
+        "Unidentified reporter",
+        "Dillon Brooks"
+      ],
+      "timestamp": "00:04",
+      "summary_phrase": "Dillon Brooks on Phoenix Suns' defensive adjustments against Denver Nuggets",
+      "names_mentioned": [
+        "Dillon Brooks"
+      ],
+      "excerpt": "we made the adjustment in game and everybody got a touch",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You look at the Nuggets, they had 38 points in the paint in the first half. You guys were able to limit them to just 12 in the second. How did you turn up the defensive pressure and keep them out of the paint?"
+        },
+        {
+          "speaker": "Dillon Brooks",
+          "text": "We made an adjustment, we swarmed the paint when they had it in there, and then we were plugging all game. So, we made the adjustment in game and everybody got a touch."
+        }
+      ],
+      "start_seconds": 4,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Dillon Brooks on the Suns defensive turnaround against Denver: We made an adjustment to swarm the paint and plug the gaps in the second half to limit their scoring inside.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks explains the defensive adjustments the Phoenix Suns made to limit the Denver Nuggets scoring in the paint during the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dillon Brooks",
+      "speakers": [
+        "Unidentified reporter",
+        "Dillon Brooks"
+      ],
+      "timestamp": "00:47",
+      "summary_phrase": "Dillon Brooks on Jalen Green's aggressive play and confidence",
+      "names_mentioned": [
+        "Jalen Green"
+      ],
+      "excerpt": "he picked and chose his spots, he got off the ball, he made sacrifice cuts",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You look at Jalen Green as well, just being aggressive out there, getting to the rim. What steps did he take tonight and his overall confidence?"
+        },
+        {
+          "speaker": "Dillon Brooks",
+          "text": "He played comfortable. He picked and chose his spots, he got off the ball, he made sacrifice cuts. That's what we got to do for our teammates so we can get a rhythm in the game."
+        }
+      ],
+      "start_seconds": 47,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Dillon Brooks praised Jalen Green for his performance tonight: He played comfortable, picked his spots, and made sacrifice cuts to help the team find a rhythm.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Green"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dillon Brooks discusses Jalen Green's aggressive play and his ability to make sacrifices for his teammates during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "oTSmzi8dzuc",
+  "url": "https://www.youtube.com/watch?v=oTSmzi8dzuc",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-17T05:43:03Z",
+  "duration_seconds": 74,
+  "processed_at": "2026-11-17T06:23:58Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

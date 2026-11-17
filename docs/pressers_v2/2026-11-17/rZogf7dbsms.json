@@ -1,0 +1,273 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability  | 11-16-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:25",
+      "summary_phrase": "Jaylen Brown's defensive intensity helped the team in the second half",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "Jaylen's defensive intensity really helped us in that second half.",
+      "quote": "Even out of the locker room, Jaylen's defensive intensity really helped us in that second half.",
+      "text_blocks": [],
+      "start_seconds": 25,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott credits Jaylen Brown for changing the game in the second half with his defensive intensity",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses Jaylen Brown's defensive impact during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:46",
+      "summary_phrase": "Jaylen Brown's unique combination of speed, driving ability, and defensive energy",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "We need all of it. I mean that's what makes him special.",
+      "quote": "We need all of it. I mean that's what makes him special, his first step, his ability to drive into the paint in transition. He's getting to the rim at a high rate. And then I thought defensively he changed just how we came out of the locker room in that third quarter with his defensive energy.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jordan Ott on what makes Jaylen Brown special: his first step, his ability to drive in transition, and his defensive energy",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott praises Jaylen Brown's offensive and defensive skills following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:06",
+      "summary_phrase": "The team's collective effort on defensive and offensive rebounding",
+      "names_mentioned": [],
+      "excerpt": "It's not just on our fives, it's on everyone to collectively come down and help.",
+      "quote": "It's been a big topic for us. We know defensive rebounding hasn't been great for us. It's not just on our fives, it's on everyone to collectively come down and help. And then also offensive rebounding, we talk about offensive rebounding every day. Just going to the glass, it's something that we need, we need the extra possessions.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott says defensive rebounding is a collective effort for the Suns and remains a major point of emphasis",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott addresses the team's ongoing struggles and focus regarding defensive and offensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:44",
+      "summary_phrase": "The team's ball movement is contagious and improved by defensive coverage",
+      "names_mentioned": [
+        "Dwayne"
+      ],
+      "excerpt": "I think it's contagious, and then also their defensive coverage.",
+      "quote": "It's a combination, Dwayne. I think it's contagious, and then also their defensive coverage. The way they played book, they were putting two on him every single time, every single action. To get seven assists at halftime, when that thing's popping around and we're making shots, it just feels a whole lot different.",
+      "text_blocks": [],
+      "start_seconds": 104,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the Suns ball movement: when the ball is popping around and they are making shots it feels a whole lot different",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains how the team's ball movement improved in response to the opponent's defensive coverage on Devin Booker.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:13",
+      "summary_phrase": "The challenge of maintaining defensive discipline against Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "It's hard to maintain your discipline to just play him one-on-one.",
+      "quote": "It's hard to maintain your discipline to just play him one-on-one there. We were faking in and out, and then we didn't end up changing it. At some point, you're going to have to adjust probably multiple times with him. He's a hard player to guard, you kind of pick your poison a little bit. He can beat you in so many different ways.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Jordan Ott on the challenge of guarding Nikola Jokic: you have to pick your poison because he can beat you in so many different ways",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "PHX",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the difficulty of maintaining defensive discipline while guarding Nikola Jokic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:10",
+      "summary_phrase": "The team's bench energy is a collective spirit that drives performance",
+      "names_mentioned": [],
+      "excerpt": "I think that third quarter just our bench energy in general.",
+      "quote": "I think that third quarter just our bench energy in general. It's like a collective spirit, we can feel it. We've done it in spurts, that's how we want to be different through the full 48. Ups, downs, we're all together. So yeah, I just think collectively we were in it for the full 48 tonight.",
+      "text_blocks": [],
+      "start_seconds": 190,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jordan Ott praises the collective spirit and bench energy of the team during the third quarter",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott comments on the team's bench energy and collective spirit throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:15",
+      "summary_phrase": "Colin Gillespie's growth as a player and his impact on the team",
+      "names_mentioned": [
+        "Colin Gillespie"
+      ],
+      "excerpt": "He's the ultimate winner, ultimate teammate, always wants to do well for the team.",
+      "quote": "He's the ultimate winner, ultimate teammate, always wants to do well for the team. We have to drag the aggressiveness, his individual shots out of him because he always wants to make the right play. That's how he came in the league, but now he has this skill, the ability to shoot off the bounce, the competitive fire to guard anyone, and we're lucky to have him.",
+      "text_blocks": [],
+      "start_seconds": 255,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jordan Ott calls Colin Gillespie the ultimate winner and says the team is lucky to have his competitive fire",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Colin Gillespie"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the growth and competitive nature of Colin Gillespie.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:57",
+      "summary_phrase": "The team's rotation remains a work in progress with great depth",
+      "names_mentioned": [
+        "Ryan"
+      ],
+      "excerpt": "We have great depth, you know, kind of lineup combinations.",
+      "quote": "That's still going to be a work in progress. We have great depth, you know, kind of lineup combinations. We need obviously the defensive glass has been an issue. Ryan played through the thumb, easily could have taken the night off and rest that thumb for him to go out there. These guys are about the right stuff, we have enough guys about the right stuff, we'll figure this thing out.",
+      "text_blocks": [],
+      "start_seconds": 297,
+      "end_seconds": 324,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott says the Suns rotation is still a work in progress but praises Ryan for playing through a thumb injury",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan Dunn"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries",
+          "coaching decisions"
+        ],
+        "context": "Jordan Ott discusses the team's rotation and praises Ryan Dunn for playing through a thumb injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "rZogf7dbsms",
+  "url": "https://www.youtube.com/watch?v=rZogf7dbsms",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-17T06:01:04Z",
+  "duration_seconds": 329,
+  "processed_at": "2026-11-17T06:23:51Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

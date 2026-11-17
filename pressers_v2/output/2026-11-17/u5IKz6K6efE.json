@@ -1,0 +1,420 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. PHX 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Nikola Jokic",
+    "Jamal Murray",
+    "Spencer Jones"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:13",
+      "summary_phrase": "Coach Adelman on Nuggets' defensive struggles and rebounding issues",
+      "names_mentioned": [],
+      "excerpt": "those two things have hurt us, remind me a lot of the Portland game that we lost",
+      "quote": "Those two things have hurt us, and I think the offensive rebound, they had nine guys in offensive rebound. The turnovers, I don't have the stats yet, but it seemed like the majority were live-ball turnovers. Against a team that fast, to play small, that leads to easy baskets in a low-scoring game to be honest. So, those two things have hurt us, remind me a lot of the Portland game that we lost here, where we find a rhythm, we get control of the game, and then the second chance, the 50-50 stuff just killed us. So it's just got to be something we got to shore up.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Coach Adelman says the Nuggets defensive rebounding and live ball turnovers are killing their rhythm and leading to easy baskets for opponents",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the team's defensive struggles and rebounding issues following a loss to the Phoenix Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:06",
+      "summary_phrase": "Coach Adelman on Nikola Jokic's turnovers and spacing issues",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "I thought his turnovers were also from spacing issues",
+      "quote": "I thought his turnovers were also from spacing issues. I thought we actually got him the ball in advantageous situations where he's at the nail, and they're going to bring help, and you have to space around him correctly. Obviously, those lineups don't play a lot together, but we have to be better in that situation. I thought a couple were his, a couple were the team's, but to the earlier point, that's what will beat us.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Adelman notes that Nikola Jokic is facing spacing issues when he gets the ball at the nail and the team needs to be better at positioning around him",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman explains that Nikola Jokic's turnovers were caused by poor team spacing around him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:15",
+      "summary_phrase": "Coach Adelman on team rebounding and defensive responsibility",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "it's not about the guy that I matched up with to start the game, how many rebounds he got",
+      "quote": "It's not their matchup. When we're up with Booker and you rotate, you're taking on different people. And so that's why when I said the nine players from Phoenix, it was a lot of smalls that snuck in there and got rebounds, and that's inexcusable. As a group, you have to physically own your spot. It's not about the guy that I matched up with to start the game, how many rebounds he got compared to me. It's the situation you're in and where you are on the floor.",
+      "text_blocks": [],
+      "start_seconds": 135,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Adelman says it is inexcusable for Nuggets guards to let opposing players sneak in for offensive rebounds and insists the team must physically own their spots",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "DEN",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Adelman addresses the team's failure to secure defensive rebounds against Phoenix players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Adelman",
+      "timestamp": "05:12",
+      "summary_phrase": "Coach Adelman on Cam Johnson's shooting slump",
+      "names_mentioned": [
+        "Cam Johnson"
+      ],
+      "excerpt": "Cam Johnson tonight was 0 for 7. I wish he was 0 for 11 every night",
+      "quote": "Cam Johnson tonight was 0 for 7. I wish he was 0 for 11 every night, because I believe he's going to go 7 for 11 soon. And I just think that's something our team has to understand and believe to make us better as a group.",
+      "text_blocks": [],
+      "start_seconds": 312,
+      "end_seconds": 330,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Coach Adelman on Cam Johnson shooting 0 for 7 tonight: I wish he was 0 for 11 every night because I believe he is going to go 7 for 11 soon",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Johnson"
+        ],
+        "teams": [
+          "DEN",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Adelman comments on Cam Johnson's shooting performance and his expectation that he will improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nikola Jokic",
+      "timestamp": "05:42",
+      "summary_phrase": "Nikola Jokic on team turnovers and rebounding",
+      "names_mentioned": [],
+      "excerpt": "we didn't turn over the ball that much today, but they had 18 offensive rebounds",
+      "quote": "We didn't turn over the ball that much today, but they had 18 offensive rebounds, you know. And those turnovers that we had, I think they were always like open layups and just like we couldn't do anything to stop it. So, you know, we cannot give anybody so many chances and opportunities to score.",
+      "text_blocks": [],
+      "start_seconds": 342,
+      "end_seconds": 363,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Nikola Jokic says giving up 18 offensive rebounds is unacceptable and notes that turnovers are leading directly to open layups for the opposition",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic reflects on the team's high number of offensive rebounds allowed to the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nikola Jokic",
+      "timestamp": "06:22",
+      "summary_phrase": "Nikola Jokic on defensive lapses in the third quarter",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "they scored 36 and 34 in second and in the third quarter, that's a little bit too much",
+      "quote": "They scored 36 and 34 in second and in the third quarter, that's a little bit too much. I think that was the, we couldn't, our defense was not where it's supposed to be.",
+      "text_blocks": [],
+      "start_seconds": 382,
+      "end_seconds": 395,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nikola Jokic says the Nuggets defense was not where it was supposed to be after allowing 70 combined points in the second and third quarters",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic critiques the team's defensive performance during the second and third quarters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nikola Jokic",
+      "timestamp": "07:08",
+      "summary_phrase": "Nikola Jokic on the impact of second-chance points",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "those are the kills confidence, those are the kills",
+      "quote": "Those are the kills confidence, those are the kills, you know, when you, especially when you have a couple in a row, you know, that, that just unacceptable.",
+      "text_blocks": [],
+      "start_seconds": 428,
+      "end_seconds": 439,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Nikola Jokic on giving up second chance points: Those are the kills. When you have a couple in a row that just unacceptable",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic describes how giving up multiple second-chance points negatively impacts the team's confidence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Nikola Jokic",
+      "timestamp": "09:43",
+      "summary_phrase": "Nikola Jokic on reaching 1,000 assists with Jamal Murray",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "we play so long together and we pass to each other a lot",
+      "quote": "Just because we play so long together and we pass to each other a lot, so it was a cool achievement.",
+      "text_blocks": [],
+      "start_seconds": 583,
+      "end_seconds": 591,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Nikola Jokic reflects on reaching 1000 assists with Jamal Murray: Just because we play so long together and we pass to each other a lot so it was a cool achievement",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nikola Jokic comments on reaching a milestone of 1,000 assists to teammate Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamal Murray",
+      "timestamp": "12:28",
+      "summary_phrase": "Jamal Murray on his turnovers and team performance",
+      "names_mentioned": [],
+      "excerpt": "I had an egregious turnover where I was just looking to pass when I could have shot",
+      "quote": "I had an egregious turnover where I was just looking to pass when I could have shot or drove or been aggressive or whatever. So, I don't know. I think everybody was just playing, I don't know, we just turned it over. I don't know what goes through everybody's mind, but I know when I'm talking about myself, I had a couple turnovers that I shouldn't have had and that led to three or a dunk or whatever and a timeout.",
+      "text_blocks": [],
+      "start_seconds": 748,
+      "end_seconds": 779,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamal Murray admits he had an egregious turnover tonight and says he put the team in a bind by not being aggressive enough when he had the ball",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray takes responsibility for his own turnovers during the game against Phoenix.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamal Murray",
+      "timestamp": "13:14",
+      "summary_phrase": "Jamal Murray on the impact of foul trouble",
+      "names_mentioned": [],
+      "excerpt": "every quarter is a problem. In the first quarter I was in foul trouble, in the second quarter",
+      "quote": "Every quarter is a problem. In the first quarter I was in foul trouble, in the second quarter, and then I was out for like 10 minutes. I can't afford to foul like that, so I think I put the team in a bind tonight just not being out there for most of the game.",
+      "text_blocks": [],
+      "start_seconds": 794,
+      "end_seconds": 815,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamal Murray says his foul trouble tonight was a major issue that kept him off the floor for 10 minutes and hurt the team",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray explains how his foul trouble limited his playing time and negatively affected the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jamal Murray",
+      "timestamp": "14:18",
+      "summary_phrase": "Jamal Murray on defensive exhaustion and rebounding",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "we're just exhausting ourselves on defense to make them have another 14 seconds to shoot",
+      "quote": "We're just exhausting ourselves on defense to make them have another 14 seconds to shoot, and I think that's an issue. Because it's not one game. I think the Portland game stood out because we lost, and it felt like that was really the only negative about that game is we just couldn't rebound with clinging and we didn't help Jokic at all. And then this game was like, well, we're giving them extra shots and we're giving them extra possessions, and I mean, we're not going to win like that.",
+      "text_blocks": [],
+      "start_seconds": 858,
+      "end_seconds": 893,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamal Murray says the team is exhausting themselves on defense only to give up extra possessions through poor rebounding",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Jamal Murray discusses the team's defensive exhaustion and failure to help Nikola Jokic on the glass.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Spencer Jones",
+      "timestamp": "16:54",
+      "summary_phrase": "Spencer Jones on team fatigue and rebounding",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "the offensive rebound, second chance points and turnovers, you know, definitely tell you there's a little bit of fatigue",
+      "quote": "The offensive rebound, second chance points and turnovers, you know, definitely tell you there's a little bit of fatigue out there. You know, it's a team effort and so getting more guys to crash, and everything like that, obviously, you know, part of that's my job and everything like that. So just, you know, emphasizing it's a team effort and getting more guys in there.",
+      "text_blocks": [],
+      "start_seconds": 1014,
+      "end_seconds": 1039,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Spencer Jones says the Nuggets rebounding and turnover issues are a sign of fatigue and emphasizes that crashing the glass must be a team effort",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Spencer Jones addresses the team's struggles with rebounding and turnovers as signs of fatigue.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Spencer Jones",
+      "timestamp": "17:46",
+      "summary_phrase": "Spencer Jones on team three-point shooting struggles",
+      "names_mentioned": [],
+      "excerpt": "some of the looks I probably even personally passed up and everything like that",
+      "quote": "Even tonight there were some looks I probably even personally passed up and everything like that. It's just being more aggressive to let those things fly. I mean, you know, sometimes some of us are so used to defaulting to, you know, the great offensive players that we have on this team, that sometimes, you know, you need to be more aggressive on that, on that end and take those shots when we're open.",
+      "text_blocks": [],
+      "start_seconds": 1066,
+      "end_seconds": 1094,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Spencer Jones says Nuggets players sometimes default to the stars too much and need to be more aggressive in taking open shots",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Spencer Jones discusses the need for teammates to be more aggressive with their own shooting opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "u5IKz6K6efE",
+  "url": "https://www.youtube.com/watch?v=u5IKz6K6efE",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-17T06:19:14Z",
+  "duration_seconds": 1147,
+  "processed_at": "2026-11-17T06:24:08Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,230 @@
+{
+  "video_title": "\"I Wanted To Dominate The Way I Knew I Could.\" | Rudy Gobert Post Game Sound | 11.16.26",
+  "speakers_seen": [
+    "Rudy Gobert"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rudy Gobert",
+      "timestamp": "00:04",
+      "summary_phrase": "Rudy Gobert on maintaining his mindset after disappointing performances",
+      "names_mentioned": [],
+      "excerpt": "Stay true to who I am, trust the work, and just play with a little more aggressiveness.",
+      "quote": "Just be myself. You know you get some ups and down in the season, in a career, in a game. But it's always been my mindset: stay true to who I am, trust the work, and just play with a little more aggressiveness.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Rudy Gobert on bouncing back from tough games: My mindset is to stay true to who I am, trust the work, and just play with a little more aggressiveness.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert discusses his mindset after recent performances during a post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rudy Gobert",
+      "timestamp": "00:32",
+      "summary_phrase": "Rudy Gobert on his high standards and self-critique",
+      "names_mentioned": [],
+      "excerpt": "People are going to be hard on me, but I'm the hardest on myself.",
+      "quote": "For me, it's never too high, never too low. Like I said, I trust my work and people are going to be hard on me, but I'm the hardest on myself. I have the highest expectations and standards for myself, so of course when I have a bad performance and it impacts my team in a negative way, I always make sure that it doesn't happen too often.",
+      "verbatim_original_language": "",
+      "start_seconds": 32,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Rudy Gobert says he is his own toughest critic: I have the highest expectations and standards for myself, so when I have a bad performance and it impacts my team in a negative way, I make sure it does not happen too often.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert explains how he manages self-critique and maintains high standards for his performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rudy Gobert",
+      "timestamp": "01:04",
+      "summary_phrase": "Rudy Gobert on his offensive approach against strong defensive teams",
+      "names_mentioned": [],
+      "excerpt": "It's an opportunity for me to free everybody up, give my teammates open shots.",
+      "quote": "Just high intensity, getting my teammates open, and then just being decisive and aggressive. You know, they have some very, very good bigs defensively in the drop, so it's an opportunity for me to free everybody up, give my teammates open shots, and then just attack them too, put pressure on the rim, and make them defend, make them guard.",
+      "verbatim_original_language": "",
+      "start_seconds": 64,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Rudy Gobert on his offensive approach: It is about high intensity, getting teammates open, and being decisive. I want to put pressure on the rim and make them defend.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert describes his offensive strategy when facing teams with strong defensive big men.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rudy Gobert",
+      "timestamp": "02:04",
+      "summary_phrase": "Rudy Gobert on his free throw shooting performance",
+      "names_mentioned": [],
+      "excerpt": "Feeling good, but I feel like I should have made more tonight.",
+      "quote": "Feeling good, but I feel like I should have made more tonight. I think I shot eight of 14. You got to be at least 11 of 14, so I got to be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 124,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Rudy Gobert on his 8 of 14 night at the free throw line: I feel like I should have made more tonight. I have to be better.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert evaluates his own free throw shooting performance following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Rudy Gobert",
+      "timestamp": "02:45",
+      "summary_phrase": "Rudy Gobert on Tyrese Maxey's career-high performance",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "It was great. I mean, it gave us a big lift.",
+      "quote": "It was great. I mean, it gave us a big lift when he started pushing in transition, second quarter. I felt like that gave us a run and then he was able to knock down some big shots, second half. So, really happy for him. You know, he had a couple rough games and he had an injury too, so we need him and it's great to see him back 100%.",
+      "verbatim_original_language": "",
+      "start_seconds": 165,
+      "end_seconds": 192,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Rudy Gobert on Tyrese Maxey: It was great to see him back 100 percent. He had a couple rough games and an injury, so we really need him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "MIN",
+          "PHI"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Rudy Gobert praises Tyrese Maxey for his performance and recovery from an injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Rudy Gobert",
+      "timestamp": "03:18",
+      "summary_phrase": "Rudy Gobert on Tyrese Maxey's ability to attack the rim",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "He's incredibly fast. Once he's gone in transition, it's pretty tough to stop him.",
+      "quote": "He's incredibly fast. Once he's gone in transition, it's pretty tough to stop him. I think you need multiple guys to stop him. And for him, when he's able to be poised, whether it's finishing or finding his teammates, it's an offense within itself.",
+      "verbatim_original_language": "",
+      "start_seconds": 198,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Rudy Gobert on the difficulty of guarding Tyrese Maxey: He is incredibly fast. Once he is gone in transition, it is pretty tough to stop him. You need multiple guys to stop him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "MIN",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert analyzes the difficulty of defending Tyrese Maxey in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Rudy Gobert",
+      "timestamp": "05:06",
+      "summary_phrase": "Rudy Gobert on the Timberwolves' defensive identity",
+      "names_mentioned": [],
+      "excerpt": "My number one job is to have my team be the best defense in this league.",
+      "quote": "A lot of pride. Like I've said, it's who we are, it's our identity. My number one job is to have my team be the best defense in this league and that's how I think by being that every night, we get a chance to win every night and we get a chance to go and try to win a championship, which is our goal.",
+      "verbatim_original_language": "",
+      "start_seconds": 306,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Rudy Gobert on the Timberwolves defensive identity: My number one job is to have my team be the best defense in this league. That is how we get a chance to win every night and try to win a championship.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert discusses the importance of the Timberwolves' defensive identity in their pursuit of a championship.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "eC3zoGPra2s",
+  "url": "https://www.youtube.com/watch?v=eC3zoGPra2s",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-17T05:44:35Z",
+  "duration_seconds": 360,
+  "processed_at": "2026-11-17T06:23:58Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}
