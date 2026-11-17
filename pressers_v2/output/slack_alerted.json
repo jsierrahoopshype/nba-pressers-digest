@@ -73,6 +73,12 @@
    "seeded": true,
    "slot_date": "2026-11-11"
   },
+  "0bW5l99GYcQ": {
+   "at": "2026-11-17T02:56:08Z",
+   "quote": "the style of play is the same they are going to play through draymond and trayce jackson davis they are going to make some cuts moving they never stop moving i think that is very similar but the three",
+   "run_id": "2026-11-17T0255Z-20utc",
+   "slot_date": "2026-11-16"
+  },
   "0bg0sW1ve8s": {
    "at": "2026-11-09T18:54:00Z",
    "quote": "i think his energy his ability to make plays off the dribble of getting to the basket getting to the paint and then defensively just being able to switch some be in a drop blitz and he is all purpose ",
@@ -456,6 +462,12 @@
    "run_id": "2026-11-11T0039Z-20utc",
    "seeded": true,
    "slot_date": "2026-11-10"
+  },
+  "8FkFD3A4G1g": {
+   "at": "2026-11-17T02:56:08Z",
+   "quote": "that first half it seemed like you guys really had trouble finding a rhythm on both sides of the ball you took over the game in the third quarter what changed we just stayed with it we were messing up",
+   "run_id": "2026-11-17T0255Z-20utc",
+   "slot_date": "2026-11-16"
   },
   "8PHAsq6h9cE": {
    "at": "2026-11-05T21:05:11Z",
@@ -1437,6 +1449,12 @@
    "run_id": "2026-11-14-overnight",
    "slot_date": "2026-11-14"
   },
+  "UqRSp1CojKk": {
+   "at": "2026-11-17T02:56:08Z",
+   "quote": "he was feeling better this morning but he ll warm up and we ll see",
+   "run_id": "2026-11-17T0255Z-20utc",
+   "slot_date": "2026-11-16"
+  },
   "VDRqzf4j3IM": {
    "at": "2026-11-13T16:32:22Z",
    "quote": "we talked about it pregame just our heat and disruption getting back to that and just the value and energy that those live ball turnovers create for our group last couple games we didn t do that as we",
@@ -1860,6 +1878,12 @@
    "run_id": "2026-11-05T2104Z-14utc",
    "seeded": true,
    "slot_date": "2026-11-05"
+  },
+  "cqB5sgDtkWA": {
+   "at": "2026-11-17T02:56:08Z",
+   "quote": "the warriors are the monster deficit and primarily the three point shooting for the dubs are shooting 20 from the field for the game but 35 in the first quarter for new orleans they get up 24 points a",
+   "run_id": "2026-11-17T0255Z-20utc",
+   "slot_date": "2026-11-16"
   },
   "d54O5dWbnBQ": {
    "at": "2026-11-10T10:26:44Z",
@@ -2874,70 +2898,5 @@
    "slot_date": "2026-11-03"
   }
  },
- "pending": {
-  "0bW5l99GYcQ": {
-   "channel": "New Orleans Pelicans",
-   "clip_count": 6,
-   "content_type": "presser",
-   "date": "2026-11-16",
-   "is_one_off": false,
-   "queued_at": "2026-11-17T02:56:08Z",
-   "run_id": "2026-11-17T0255Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-16",
-   "speaker": "Jamahl Mosley",
-   "title": "LIVE: Pelicans vs. Warriors Pregame w/ Jamahl Mosley 11/16/2026",
-   "top_quote": "The style of play is the same. They are going to play through Draymond and Trayce Jackson-Davis. They are going to make some cuts, moving, they never stop moving. I think that is very similar, but the three-point threat that Steph provides for them where you have to chase him and be alert of where he is on the floor. But the style of play is very similar to the way Steve coaches.",
-   "video_id": "0bW5l99GYcQ"
-  },
-  "8FkFD3A4G1g": {
-   "channel": "Memphis Grizzlies",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-16",
-   "is_one_off": false,
-   "queued_at": "2026-11-17T02:56:08Z",
-   "run_id": "2026-11-17T0255Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-16",
-   "speaker": "Zach Edey",
-   "title": "Zach Edey Walk-Off Interview | Grizzlies vs. Wizards",
-   "top_quote": "That first half, it seemed like you guys really had trouble finding a rhythm on both sides of the ball. You took over the game in the third quarter, what changed? We just stayed with it. We were messing up in the basics a little bit, letting them get too many rebounds, letting them get to the free throw line a little bit. We cleaned it up as a team and we came out and performed great in that second half.",
-   "video_id": "8FkFD3A4G1g"
-  },
-  "UqRSp1CojKk": {
-   "channel": "Golden State Warriors",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-16",
-   "is_one_off": false,
-   "queued_at": "2026-11-17T02:56:08Z",
-   "run_id": "2026-11-17T0255Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-16",
-   "speaker": "Steve Kerr",
-   "title": "Steve Kerr confident Warriors will ‘bounce back’ vs. Pelicans | NBC Sports Bay Area",
-   "top_quote": "He was feeling better this morning, but he'll warm up and we'll see.",
-   "video_id": "UqRSp1CojKk"
-  },
-  "cqB5sgDtkWA": {
-   "channel": "Golden State Warriors",
-   "clip_count": 2,
-   "content_type": "presser",
-   "date": "2026-11-16",
-   "is_one_off": false,
-   "queued_at": "2026-11-17T02:56:08Z",
-   "run_id": "2026-11-17T0255Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": false,
-   "slot_date": "2026-11-16",
-   "speaker": "Bob Fitzgerald",
-   "title": "Warriors outpaced by Pelicans forward Saddiq Bey in first half | NBC Sports Bay Area",
-   "top_quote": "The Warriors are the monster deficit and primarily the three-point shooting for the Dubs are shooting 20% from the field for the game, but 35 in the first quarter for New Orleans, they get up 24 points and they've just been playing from ahead the whole time. The Pelicans came out with the right mindset. They're saying we're going to play inside-out and the team that's 25th in the league in three-point shooting percentage made 10 threes, and the Warriors started the game going we're just going to start shooting threes, play from the outside, and the team that's number one in the league made three threes.",
-   "video_id": "cqB5sgDtkWA"
-  }
- }
+ "pending": {}
 }
