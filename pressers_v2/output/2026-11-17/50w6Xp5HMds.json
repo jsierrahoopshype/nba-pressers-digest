@@ -1,0 +1,185 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Wizards",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:15",
+      "summary_phrase": "Tuomas Iisalo on the team's defensive strategy against the Wizards",
+      "names_mentioned": [
+        "Davis"
+      ],
+      "excerpt": "Davis is one of the best rim protectors in recent NBA history",
+      "quote": "I think it's a common misconception that when people say offense is action and defense is reaction. They started the game off by sagging off of him, so they had Davis guarding him and he was all the way in the paint. Davis is one of the best rim protectors in recent NBA history and just having him there on the backside, there's not a lot on the rim and he made them pay for that choice and after that everything else then opened up.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo discusses the tactical adjustment against the Wizards noting that offense is not just reaction and that the team made the opponent pay for sagging off their shooters to pack the paint",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "MEM",
+          "WAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the defensive strategy used against the Wizards and how Anthony Davis impacted the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:15",
+      "summary_phrase": "Tuomas Iisalo on the defensive attention given to Zach Edey",
+      "names_mentioned": [
+        "Zach Edey"
+      ],
+      "excerpt": "they basically sent three defenders to guard two players against Zach and one of the handlers",
+      "quote": "He's been playing great for us. I don't think he always gets the credit he deserves. Actually, I know he doesn't get the credit he deserves. That's another example of we faced a lot of teams that have put a lot of resources on the pick and roll, so they basically sent three defenders to guard two players against Zach and one of the handlers and that means a lot of the wings are going to be open in that situation. That's the right read and Zach's been anchoring our defense and doing his job.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 112,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Tuomas Iisalo says Zach Edey does not get the credit he deserves noting that opposing teams are sending three defenders to guard Edey and his pick and roll partner which creates open looks for the rest of the team",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zach Edey"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tuomas Iisalo praises Zach Edey for his defensive contributions and how he handles defensive pressure from opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:32",
+      "summary_phrase": "Tuomas Iisalo on the development of Julius Thomas",
+      "names_mentioned": [
+        "Julius Thomas",
+        "Taylor Jenkins"
+      ],
+      "excerpt": "he was a very promising young coach and in the beginning he mostly set up the video",
+      "quote": "I got to know him when he was a very young coach for Dragons Rhöndorf in the German third league and was our farm team head coach and spent a couple of days with him when I took over the Bonn program and thought he would be very promising. He was a very promising young coach and in the beginning he mostly set up the video and mopped on the baseline and now he's an assistant coach in the NBA. That says everything you need to know about what I think about him and his development. He works mostly on the offensive side, he has very high standards and a very fast learner and a really well-rounded coach already at a young age.",
+      "text_blocks": [],
+      "start_seconds": 212,
+      "end_seconds": 259,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Tuomas Iisalo reflects on the rise of assistant coach Julius Thomas who went from mopping baselines in the German third league to coaching in the NBA calling him a very fast learner with high standards",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Julius Thomas"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo reflects on the professional growth and development of assistant coach Julius Thomas.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "05:22",
+      "summary_phrase": "Tuomas Iisalo on the challenges of transitioning from Europe to the NBA",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Taylor Jenkins"
+      ],
+      "excerpt": "I didn't come to a head coaching role, I came to be an assistant coach",
+      "quote": "I never felt that way like coming over because I didn't come to a head coaching role, I came to be an assistant coach and wanted to do the best in that job and helping the head coach in that situation, Taylor Jenkins, have the best possible success. So that's what I felt and didn't feel a lot of difficulties with the environment, more so just learning about new things, learning about the lack of practice time, whether it relates to the summer or the preseason or in-season. You have really tight schedules and how you can do better in that scenario and you learn more about the other teams also.",
+      "text_blocks": [],
+      "start_seconds": 322,
+      "end_seconds": 365,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo on his transition to the NBA staff saying the biggest adjustment has been the lack of practice time due to the tight schedule compared to the European game",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Taylor Jenkins"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo describes his transition to the NBA and his role in supporting head coach Taylor Jenkins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "07:45",
+      "summary_phrase": "Tuomas Iisalo on the competitive level of European basketball versus the NBA",
+      "names_mentioned": [],
+      "excerpt": "I don't think there's any question that the best players in the world are in the NBA",
+      "quote": "It's very difficult to compare because the court is different, the rules are different, the game time is different. Also the amount of games that we played. Now if you would put NBA teams on schedules that play let's say two to three times a week instead of four times a week, I think it would also look a lot different and that discussion is also ongoing in the NBA about the amount of games. But I don't think there's any question that the best players in the world are in the NBA, that's very clear, but at the same time I'm very proud of the European basketball.",
+      "text_blocks": [],
+      "start_seconds": 465,
+      "end_seconds": 507,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo weighs in on the differences between European basketball and the NBA noting that while the best players are clearly in the NBA the game would look different if teams played fewer games per week",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo compares the differences between European basketball and the NBA schedule and rules.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "50w6Xp5HMds",
+  "url": "https://www.youtube.com/watch?v=50w6Xp5HMds",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-17T03:10:41Z",
+  "duration_seconds": 627,
+  "processed_at": "2026-11-17T03:47:32Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

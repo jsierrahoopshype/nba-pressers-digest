@@ -1,0 +1,174 @@
+{
+  "video_title": "Jayson Tatum REACTS to Loss Against Magic | Celtics vs Magic Postgame",
+  "speakers_seen": [
+    "Jayson Tatum"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jayson Tatum",
+      "timestamp": "00:10",
+      "summary_phrase": "Jayson Tatum on the Celtics' fourth-quarter defensive breakdown",
+      "names_mentioned": [],
+      "excerpt": "we give up 40 points in the fourth, we just can't, we can't do that again.",
+      "quote": "I think it's probably just some of our communication. But we talked about it at the game, that's just for us to come back in the third quarter and then we give up 40 points in the fourth, we just can't, we can't do that again.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on the Celtics fourth quarter defensive collapse against the Magic: We give up 40 points in the fourth, we just cannot do that again.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum discusses the defensive struggles the Celtics faced during the fourth quarter of their loss to the Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jayson Tatum",
+      "timestamp": "00:33",
+      "summary_phrase": "Jayson Tatum addresses his hand injury and protective wrap",
+      "names_mentioned": [],
+      "excerpt": "I bruised my hand last night, so just try to wrap it, keep the swelling down a little bit.",
+      "quote": "I bruised my hand last night, so just try to wrap it, keep the swelling down a little bit.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Jayson Tatum confirms he is dealing with a hand injury: I bruised my hand last night, so just try to wrap it, keep the swelling down a little bit.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jayson Tatum explains that he is wearing a wrap on his hand to manage swelling from a bruise sustained in the previous game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jayson Tatum",
+      "timestamp": "01:00",
+      "summary_phrase": "Jayson Tatum on the challenge of back-to-back inconsistent performances",
+      "names_mentioned": [],
+      "excerpt": "it's tough, definitely not what you anticipated, what you wanted.",
+      "quote": "It's tough, definitely not what you anticipated, what you wanted. But I don't know, there's a lot of things we obviously can learn from and going on the road tomorrow, so obviously probably watch some film and regroup and just get ready for Denver Wednesday.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on regrouping after a tough loss: There is a lot of things we obviously can learn from and going on the road tomorrow, so obviously probably watch some film and regroup.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum reflects on the team's inconsistent play and the need to regroup before their upcoming game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jayson Tatum",
+      "timestamp": "01:47",
+      "summary_phrase": "Jayson Tatum on the importance of rebounding and 50-50 balls",
+      "names_mentioned": [],
+      "excerpt": "rebounding and 50-50 balls, those are the margins of the game that you just have to win.",
+      "quote": "Sometimes you're not going to shoot the ball well, especially as a unit. So rebounding and 50-50 balls, those are the margins of the game that you just have to win to give yourself a chance when shots aren't falling at the rate that they normally do.",
+      "text_blocks": [],
+      "start_seconds": 107,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on the importance of hustle plays: Rebounding and 50-50 balls, those are the margins of the game that you just have to win to give yourself a chance when shots are not falling.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum emphasizes the importance of rebounding and winning 50-50 balls when the team is struggling to shoot effectively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jayson Tatum",
+      "timestamp": "02:19",
+      "summary_phrase": "Jayson Tatum praises Chris Clemons' performance in place of Neemias Queta",
+      "names_mentioned": [
+        "Chris Clemons",
+        "Neemias Queta"
+      ],
+      "excerpt": "Chris stepped up, especially with Neemias out.",
+      "quote": "Chris stepped up, especially with Neemias out. When his number was called, he was active on defense, got out running in transition, he's a lob threat. We're not going to hold his hand when we get out there, we expect him to make plays because we know what he's capable of.",
+      "text_blocks": [],
+      "start_seconds": 139,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jayson Tatum on Chris Clemons stepping up in the rotation: We are not going to hold his hand when we get out there, we expect him to make plays because we know what he is capable of.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Clemons",
+          "Neemias Queta"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jayson Tatum praises Chris Clemons for his active performance while filling in for the injured Neemias Queta.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "_hDCcQsZvKM",
+  "url": "https://www.youtube.com/watch?v=_hDCcQsZvKM",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-17T03:41:58Z",
+  "duration_seconds": 169,
+  "processed_at": "2026-11-17T03:47:15Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

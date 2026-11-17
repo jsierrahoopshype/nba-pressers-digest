@@ -2898,5 +2898,86 @@
    "slot_date": "2026-11-03"
   }
  },
- "pending": {}
+ "pending": {
+  "1yIz2WKmMPQ": {
+   "channel": "Boston Celtics",
+   "clip_count": 9,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T03:47:43Z",
+   "run_id": "2026-11-17-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-17",
+   "speaker": "Joe Mazzulla",
+   "title": "Joe Mazzulla EXPLAINS What Went Wrong in Celtics Loss | Celtics vs Magic Postgame",
+   "top_quote": "I thought they changed their spacing really well and I think they hit a couple timely threes off of us not getting the offensive rebound. And the silver hit a couple. I think we lost Bane for three, two or three, he got there. And then once you do that, they do a great job of just breaking you down and driving you and getting into the paint. They got guys that can break it down one-on-one. So I thought they did a great job of just controlling the tempo of the offense with their dribble drive and making some timely shots and then testing our individual defense.",
+   "video_id": "1yIz2WKmMPQ"
+  },
+  "50w6Xp5HMds": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T03:47:43Z",
+   "run_id": "2026-11-17-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-17",
+   "speaker": "Tuomas Iisalo",
+   "title": "Tuomas Iisalo Press Conference | Grizzlies vs. Wizards",
+   "top_quote": "I think it's a common misconception that when people say offense is action and defense is reaction. They started the game off by sagging off of him, so they had Davis guarding him and he was all the way in the paint. Davis is one of the best rim protectors in recent NBA history and just having him there on the backside, there's not a lot on the rim and he made them pay for that choice and after that everything else then opened up.",
+   "video_id": "50w6Xp5HMds"
+  },
+  "VxdsVZLyAuc": {
+   "channel": "Orlando Magic",
+   "clip_count": 11,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T03:47:43Z",
+   "run_id": "2026-11-17-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-17",
+   "speaker": "Coach Sweeney",
+   "title": "POSTGAME SOUND: ORLANDO MAGIC VS. BOSTON CELTICS | COACH SWEENEY,  DESMOND BANE, & ANTHONY BLACK",
+   "top_quote": "I thought just in general we did a great job of attacking. 40-point quarter, did a great job of handling their pressure at the end, the traps, trying to foul. So a great job there of staying with it, but I thought our competitiveness and our effort on both ends was phenomenal. Desmond got it going there, did a great job of attacking, making the right play, the ball was being shared. Just overall, a great quarter from a number of guys contributing.",
+   "video_id": "VxdsVZLyAuc"
+  },
+  "_hDCcQsZvKM": {
+   "channel": "Boston Celtics",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T03:47:43Z",
+   "run_id": "2026-11-17-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-17",
+   "speaker": "Jayson Tatum",
+   "title": "Jayson Tatum REACTS to Loss Against Magic | Celtics vs Magic Postgame",
+   "top_quote": "I think it's probably just some of our communication. But we talked about it at the game, that's just for us to come back in the third quarter and then we give up 40 points in the fourth, we just can't, we can't do that again.",
+   "video_id": "_hDCcQsZvKM"
+  },
+  "c3ffFJCkwT8": {
+   "channel": "Cleveland Cavaliers",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-17T03:47:43Z",
+   "run_id": "2026-11-17-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-17",
+   "speaker": "Kenny Atkinson",
+   "title": "Cavs vs Bulls | Kenny Atkinson Post Game | 11.16.2026",
+   "top_quote": "He started off slow and then he just turned it up. I think the two days helped him get his legs under him and he's been doing a lot for us. We've been playing him more minutes than usual. I love when he gets downhill like that and in the paint. I know he's a great pull-up three-point shooter and when he gets in the paint for us, it just causes so much havoc.",
+   "video_id": "c3ffFJCkwT8"
+  }
+ }
 }

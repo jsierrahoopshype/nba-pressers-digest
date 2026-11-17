@@ -1,0 +1,225 @@
+{
+  "video_title": "Cavs vs Bulls | Kenny Atkinson Post Game | 11.16.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:06",
+      "summary_phrase": "Kenny Atkinson on Kenny Donovan's second-half performance",
+      "names_mentioned": [
+        "Kenny Donovan"
+      ],
+      "excerpt": "he just turned it up.",
+      "quote": "He started off slow and then he just turned it up. I think the two days helped him get his legs under him and he's been doing a lot for us. We've been playing him more minutes than usual. I love when he gets downhill like that and in the paint. I know he's a great pull-up three-point shooter and when he gets in the paint for us, it just causes so much havoc.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson says Donovan Mitchell getting downhill and into the paint causes so much havoc for the defense",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kenny Donovan"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Kenny Atkinson discusses Kenny Donovan's performance during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:59",
+      "summary_phrase": "Kenny Atkinson on Norchad Omier's impact and physicality",
+      "names_mentioned": [
+        "Norchad Omier"
+      ],
+      "excerpt": "he's got like a magnet for hands.",
+      "quote": "The physicality, we're struggling to rebound the ball and I feel like when the ball's around him, he's going to get it. He's got like a magnet for hands, strength, quickness to the ball. I didn't want to take him out of the game. I got to keep this guy in there. He's pretty smart, he can pass, good switch guy, he can switch onto guys, doesn't really mess up defensively.",
+      "text_blocks": [],
+      "start_seconds": 59,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Kenny Atkinson on Norchad Omier after a strong performance: He has a magnet for hands and I did not want to take him out of the game",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Norchad Omier"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises Norchad Omier for his rebounding ability and defensive versatility.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:32",
+      "summary_phrase": "Kenny Atkinson on Tyrese Haliburton's shot creation and form",
+      "names_mentioned": [
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "his shot looks so beautiful right now.",
+      "quote": "We need his speed and his shot creativity. His shot looks so beautiful right now. It's balanced, he's shooting it from deep, you feel like it's going in every time. He always had that beautiful form and now I think it's a strength thing. He's so much stronger now, it's up there easy, doesn't get fatigued, he doesn't drift on his shot.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson credits Tyrese Haliburton's improved strength for his current shooting form: It is up there easy and he does not get fatigued",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson comments on the improved strength and shooting form of Tyrese Haliburton.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:31",
+      "summary_phrase": "Kenny Atkinson on developing a secondary ball-handler",
+      "names_mentioned": [
+        "Malik",
+        "James"
+      ],
+      "excerpt": "it's starting to reveal itself that he can be that third ball-handler.",
+      "quote": "It's starting to reveal itself that he can be that third ball-handler. I mean Malik can fill that role too, but now you got two of those guys that we can because we all know when playoffs come and all that, they're going to take Donovan and James away and you need that other ball-handler to get in the paint and make plays.",
+      "text_blocks": [],
+      "start_seconds": 211,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson is looking for a secondary ball handler to step up for the playoffs: You need that other guy to get in the paint and make plays when they take Donovan and James away",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell",
+          "James",
+          "Malik"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson discusses the importance of developing secondary ball-handlers for the playoffs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:04",
+      "summary_phrase": "Kenny Atkinson on the team's need to improve transition passing",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "we are not passing the ball ahead like we have in the past.",
+      "quote": "We are not passing the ball ahead like we have in the past. The pass ahead, the pass across, they actually do a great job in Chicago, I think they're number one in the league in kick-aheads and kick-crosses. We're down the rankings, so we've been emphasizing that lately.",
+      "text_blocks": [],
+      "start_seconds": 244,
+      "end_seconds": 263,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says the Cavs are emphasizing transition passing after falling behind the rest of the league in kick aheads",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains the team's need to improve their transition passing compared to the Chicago Bulls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "06:15",
+      "summary_phrase": "Kenny Atkinson on the benefits of playing with a depleted roster",
+      "names_mentioned": [
+        "Tyrese Haliburton",
+        "Malik",
+        "Norchad Omier"
+      ],
+      "excerpt": "we've really learned a lot about our guys.",
+      "quote": "I feel like this is starting to be similar to last year where we're playing a lot of different guys, but there's a real silver lining to that. We've really learned a lot about our guys. I mean, the way Tyrese is playing this many minutes, or Malik getting these reps, or you're discovering Norchad, maybe he becomes your hybrid big. You want to win games while you're discovering these guys and that's a good thing about these past two games.",
+      "text_blocks": [],
+      "start_seconds": 375,
+      "end_seconds": 406,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson sees a silver lining in the current roster depletion: We are learning a lot about our guys and discovering players like Norchad",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Haliburton",
+          "Malik",
+          "Norchad Omier"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson reflects on the benefits of playing a depleted roster to discover player roles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "c3ffFJCkwT8",
+  "url": "https://www.youtube.com/watch?v=c3ffFJCkwT8",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-17T02:58:06Z",
+  "duration_seconds": 456,
+  "processed_at": "2026-11-17T03:47:43Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

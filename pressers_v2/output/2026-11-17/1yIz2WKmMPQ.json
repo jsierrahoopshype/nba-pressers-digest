@@ -1,0 +1,312 @@
+{
+  "video_title": "Joe Mazzulla EXPLAINS What Went Wrong in Celtics Loss | Celtics vs Magic Postgame",
+  "speakers_seen": [
+    "Joe Mazzulla"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:00",
+      "summary_phrase": "Joe Mazzulla on Orlando's effective spacing and offensive tempo",
+      "names_mentioned": [
+        "Bane",
+        "Wagner"
+      ],
+      "excerpt": "Once you do that, they do a great job of just breaking you down and driving you.",
+      "quote": "I thought they changed their spacing really well and I think they hit a couple timely threes off of us not getting the offensive rebound. And the silver hit a couple. I think we lost Bane for three, two or three, he got there. And then once you do that, they do a great job of just breaking you down and driving you and getting into the paint. They got guys that can break it down one-on-one. So I thought they did a great job of just controlling the tempo of the offense with their dribble drive and making some timely shots and then testing our individual defense.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla breaks down the Celtics defensive struggles against Orlando noting that the Magic did a great job of controlling the tempo with their dribble drive and testing the individual defense of the Celtics players",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Desmond Bane",
+          "Franz Wagner"
+        ],
+        "teams": [
+          "BOS",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla explains how Orlando's spacing and offensive tempo caused defensive challenges for Boston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:31",
+      "summary_phrase": "Joe Mazzulla explains Orlando's spacing adjustments and defensive challenges",
+      "names_mentioned": [
+        "Bane",
+        "Wagner"
+      ],
+      "excerpt": "They put Bane at the top and it was a tough for us to be able to help.",
+      "quote": "They put Bane at the top and it was a tough for us to be able to help as much and put three on the baseline and allowed Wagner to kind of play and then you kind of have to decide what you're going to do and test your shifts, test your individual defense. So I thought they did a good job of that.",
+      "text_blocks": [],
+      "start_seconds": 31,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla explains the tactical challenge of defending the Magic spacing noting that Orlando put Bane at the top to force the Celtics to make difficult decisions on their defensive shifts",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Desmond Bane",
+          "Franz Wagner"
+        ],
+        "teams": [
+          "BOS",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses the defensive adjustments Boston had to make against Orlando's spacing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:47",
+      "summary_phrase": "Joe Mazzulla on Mitchell Robinson's role and development",
+      "names_mentioned": [
+        "Mitch",
+        "Niemi"
+      ],
+      "excerpt": "I think he's playing the role that we need him to play.",
+      "quote": "I think he's playing the role that we need him to play. It's a bigs by committee. I think obviously with Niemi out, you want him to continue to get better. He's picking up the things that we have. The expected numbers are good on him. Obviously everybody can play better. I could have done better tonight. All of our guys can. I think he's continuing to grow into the role that we need him to and he'll continue to get better and better.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla says Mitchell Robinson is playing the role the team needs him to play as they navigate a bigs by committee approach while dealing with injuries",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mitchell Robinson"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla evaluates Mitchell Robinson's performance and development within the team's rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "01:43",
+      "summary_phrase": "Joe Mazzulla on using adversity as a coaching moment",
+      "names_mentioned": [],
+      "excerpt": "You can play well and win, you can play well and not win.",
+      "quote": "It plays into the team that we're trying to be. We weren't jumping around for joy last night. Again, you can't coach to the scoreboard. We didn't have the time to obviously get into all the things that we needed to get better at last night. And so I think this is just continuing to the process and the perspective of like, you can play well and win, you can play well and not win, you can play well and lose, you can not play well and lose. And so it's just continuing on that. Last night, I bet you there's more we have to get better at from last night than we than we do tonight outside of that fourth quarter and those those rebounds that we got.",
+      "text_blocks": [],
+      "start_seconds": 103,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla on the team mindset after a loss saying you cannot coach to the scoreboard and the focus remains on the process and perspective of the long season",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla explains his coaching philosophy regarding handling losses and using them as learning opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "03:23",
+      "summary_phrase": "Joe Mazzulla on Chris's athleticism and energy",
+      "names_mentioned": [
+        "Chris"
+      ],
+      "excerpt": "You can obviously feel a difference with his athleticism when he's out there.",
+      "quote": "His ability to kind of the talent, the athleticism, his energy, I thought he gave us some great minutes on both ends of the floor. You can obviously feel a difference with his athleticism when he's out there and made some big time plays for us and just continuing to get better and better. So, you know, moments like this as you continue to build trust, you know, we're trusting him more and more each day with his mentality, but I thought he did some good things during the game.",
+      "text_blocks": [],
+      "start_seconds": 203,
+      "end_seconds": 238,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla praises the energy and athleticism brought by Chris noting that the team is continuing to build trust with him as he earns more minutes",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla praises the athleticism and energy provided by Chris during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "03:51",
+      "summary_phrase": "Joe Mazzulla on the benefits of the bigs by committee approach",
+      "names_mentioned": [
+        "Niemi"
+      ],
+      "excerpt": "It shows the standard that he needs to play to.",
+      "quote": "I don't see a world where any problems are a good problem to have because you can always learn from it. So yeah, I mean I think it's it's great. You know, we got some stuff that we can get better out of it. You see a little bit from Chris, figure out the things we can work on. So yeah, I mean it obviously it shows to him, it shows the standard that he needs to play to and and you know, he makes us a different team and it gives other chance to guys to get better. So you look at it as an opportunity and you know, we get better from it.",
+      "text_blocks": [],
+      "start_seconds": 231,
+      "end_seconds": 275,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla discusses the bigs by committee approach saying it provides an opportunity for players to learn and shows the standard they need to play to",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses the benefits of the team's bigs by committee approach and Chris's development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "04:44",
+      "summary_phrase": "Joe Mazzulla on the team's lob pass execution",
+      "names_mentioned": [
+        "Mitch"
+      ],
+      "excerpt": "We threw a couple over the backboard a couple times I think also.",
+      "quote": "Well, we threw a couple over the backboard a couple times I think also. So I would say start there, keep it on the, you know, below the backboard. But I think that's a little bit of a timing thing. It's also it's a the the lob play is a two-on-one read. It's not it's a it's a risk adverse situation, you know what I mean? You're looking at the there has to be a great timing to it. The defensive big has to, you know, does a great job of timing up on it. So it's not a it's a bang bang play. It's not an easy two-on-one read. It's something that you want to try to take advantage of. They were able to take advantage of a couple of those tonight that we weren't being able to.",
+      "text_blocks": [],
+      "start_seconds": 284,
+      "end_seconds": 337,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla on the team's lob pass execution saying they need to keep the ball below the backboard and improve their timing on those high risk reads",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla explains the difficulties and timing required for executing lob passes against Orlando's defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "05:57",
+      "summary_phrase": "Joe Mazzulla on the team's reaction to Orlando's win",
+      "names_mentioned": [
+        "Bane"
+      ],
+      "excerpt": "Our focus shouldn't be on the reaction to the external.",
+      "quote": "I mean that's a compliment. It shows what the standard is to the way that we have to play. But our our focus shouldn't be on the reaction to the external. Should be focused on the things that we need to get better at, you know, and you know, this game kind of has three different parts to it, right? It has a first half where, you know, we weren't didn't play great offensively, missed some kind of shots, a little sloppy. Third quarter, we take the lead. Fourth quarter, we don't. So it has like three different story lines to it and you have to be able to take a little bit from each of those, right?",
+      "text_blocks": [],
+      "start_seconds": 357,
+      "end_seconds": 402,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says the team focus should not be on external reactions to the loss but on the specific areas of improvement across the three distinct storylines of the game",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses the team's focus on internal improvement rather than external reactions to the loss against Orlando.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "07:36",
+      "summary_phrase": "Joe Mazzulla on missed opportunities and offensive rebounds",
+      "names_mentioned": [
+        "Jason",
+        "Wagner"
+      ],
+      "excerpt": "There might have been three or four offensive rebounds that we that we didn't come up with.",
+      "quote": "I think there might have been three or four offensive rebounds that we that we didn't come up with. Like you have to be able to do that. We fought our asses off to get it to a one-possession game. We take the lead. I think it's 82-80. There's three or four plays that we don't come up with that turn into catch and shoot threes or layup for them. Those are the ones that you focus on. The other stuff is part of the game. Playing with good intentions, but you know, those those three or four in the fourth quarter, that's, you know, that's who we're not going to be in critical moments and you know, they they got those tonight and we didn't, but that won't happen very often.",
+      "text_blocks": [],
+      "start_seconds": 456,
+      "end_seconds": 501,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla points to three or four missed defensive rebounds in the fourth quarter as the turning point against Orlando saying that is not who we are going to be in critical moments",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla identifies missed defensive rebounds in the fourth quarter as the key factor in the loss to Orlando.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "1yIz2WKmMPQ",
+  "url": "https://www.youtube.com/watch?v=1yIz2WKmMPQ",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-17T03:11:57Z",
+  "duration_seconds": 501,
+  "processed_at": "2026-11-17T03:47:21Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
