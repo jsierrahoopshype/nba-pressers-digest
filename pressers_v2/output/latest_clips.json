@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T09:14:00Z",
+  "generated_at": "2026-11-17T09:17:36Z",
   "latest_run_id": "2026-11-17-overnight",
-  "run_slot": "manual-0914",
+  "run_slot": "overnight",
   "window_hours": 48,
   "count": 491,
   "clips": [
