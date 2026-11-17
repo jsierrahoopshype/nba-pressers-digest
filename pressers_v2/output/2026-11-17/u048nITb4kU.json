@@ -1,0 +1,257 @@
+{
+  "video_title": "Trae Young and Khris Middleton's Media Availability vs. Memphis Grizzlies | 11.16.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Trae Young",
+    "Khris Middleton"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:00",
+      "summary_phrase": "Brian Keefe on the Wizards' defensive struggles in the third quarter",
+      "names_mentioned": [],
+      "excerpt": "you can't give up 42 points in the third quarter and expect to close a game",
+      "quote": "The difference in the game was the third quarter. You can't give up 42 points in the third quarter and expect to close a game like that out. The lead evaporated quickly. I think it was about almost four minutes. They got a timeout there per early. We couldn't stem the tide. We had some good looks that we didn't make, but that led to some transition, transition defense, and some threes that they hit. But you can't give up a 42-point quarter and expect to be in the game, and that couldn't get it done tonight.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the Wizards defensive collapse against Memphis: You cannot give up a 42 point quarter and expect to close a game out. The lead evaporated quickly and we could not stem the tide.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe discusses the defensive breakdown during the third quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:17",
+      "summary_phrase": "Brian Keefe expresses confidence in his staff and locker room",
+      "names_mentioned": [],
+      "excerpt": "I got confidence in me and my staff and I got confidence in the guys",
+      "quote": "I got confidence in me and my staff and I got confidence in the guys in our locker room and the people in our organization. We're not running from tough times. We acknowledge when we go through them. We're going to do it together and you got to battle things out and that's this part of the deal and we're not running from it.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Brian Keefe says the Wizards are not running from their current struggles: I got confidence in me and my staff and I got confidence in the guys in our locker room. We are going to do it together.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe expresses his confidence in the organization and his staff during a difficult period.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Trae Young",
+      "timestamp": "04:31",
+      "summary_phrase": "Trae Young on the Wizards' failure to execute in the third quarter",
+      "names_mentioned": [],
+      "excerpt": "we didn't make enough shots, we didn't make the right plays and the third quarter",
+      "quote": "We didn't make enough shots, we didn't make the right plays and the third quarter. We didn't do the things that got us the lead in the first half and that's what that's what will get you beat in this league, so it's a full 48 minutes you got to play.",
+      "text_blocks": [],
+      "start_seconds": 271,
+      "end_seconds": 291,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trae Young on the Wizards third quarter failure: We did not make enough shots and we did not make the right plays. We did not do the things that got us the lead in the first half.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young reflects on the team's failure to maintain their lead during the third quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trae Young",
+      "timestamp": "05:01",
+      "summary_phrase": "Trae Young on the need for patience during the Wizards' rebuilding process",
+      "names_mentioned": [],
+      "excerpt": "patience is definitely due for this team. It's been a long time since this team is consistently winning",
+      "quote": "Patience is definitely due for this team. It's been a long time since this team is consistently winning. It's been a lot of I mean rebuilding and years of getting young guys and giving them those reps and it's hard to switch that mentality just on a flip of a switch, so sometimes you got to go through rough patches and losing with that pressure on you knowing that you're you're supposed to win more than you have.",
+      "text_blocks": [],
+      "start_seconds": 301,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Trae Young says patience is required for the Wizards rebuilding process: It is hard to switch that mentality just on a flip of a switch. Sometimes you have to go through rough patches and losing with that pressure on you.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Trae Young discusses the need for patience as the team continues its rebuilding process.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trae Young",
+      "timestamp": "08:30",
+      "summary_phrase": "Trae Young on Brian Keefe's ability to develop young players",
+      "names_mentioned": [
+        "Brian Keefe"
+      ],
+      "excerpt": "he's really good at developing guys and getting guys and getting guys better",
+      "quote": "He's been around the game for so long and what the the position he's been in the last few years is has obviously been tough, but he's really good at developing guys and getting guys and getting guys better and I think he's done that. You see the growth from some late first-round picks becoming now starters on our team. We have a lot of young guys that get a lot of minutes for us that I mean they've been developing for years now and he's been a big part of that.",
+      "text_blocks": [],
+      "start_seconds": 510,
+      "end_seconds": 545,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Trae Young praises Brian Keefe for his player development: He is really good at developing guys and getting guys better. You see the growth from some late first round picks becoming now starters on our team.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brian Keefe"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Trae Young praises Brian Keefe for his ability to develop young players on the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Khris Middleton",
+      "timestamp": "10:42",
+      "summary_phrase": "Khris Middleton on the team's growth and learning to win",
+      "names_mentioned": [],
+      "excerpt": "I think it's just part of us growing, learning as a team what it takes to win",
+      "quote": "I think it's just part of us growing, learning as a team what it takes to win a game, a complete 48 minutes, having the right mindset, paying attention to details. It's just like I said, keep competing for 48 minutes, knowing that at some point teams are going to go on runs and you know we have to stay strong. We can't fold, we can't panic, we have to stay with it and just just realize that you know as long as we stay with it our time will come.",
+      "text_blocks": [],
+      "start_seconds": 642,
+      "end_seconds": 677,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Khris Middleton on the Wizards learning to win: It is just part of us growing and learning as a team what it takes to win a game. We cannot fold and we cannot panic.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Khris Middleton explains the team's need to learn how to play a complete game and maintain focus.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Khris Middleton",
+      "timestamp": "13:22",
+      "summary_phrase": "Khris Middleton on maintaining a winning culture despite early struggles",
+      "names_mentioned": [],
+      "excerpt": "it's not always about the result, it's about what you put into the game",
+      "quote": "It's not always about the result, it's about what you put into the game, how much how hard you work, are you getting better day by day. We can only control so much. When I speak to them we can we can't control the ball goes in or not but we can control if we're sprinting, if we're guarding our man the way we're supposed to, things in that nature. So those are the more more things that I speak about with them because over time those will transfer into wins.",
+      "text_blocks": [],
+      "start_seconds": 802,
+      "end_seconds": 837,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Khris Middleton on the team culture: It is not always about the result, it is about what you put into the game. We cannot control if the ball goes in or not but we can control if we are sprinting.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Khris Middleton discusses the importance of focusing on effort and habits rather than just results.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Khris Middleton",
+      "timestamp": "14:00",
+      "summary_phrase": "Khris Middleton on Brian Keefe's effective communication style",
+      "names_mentioned": [
+        "Brian Keefe"
+      ],
+      "excerpt": "the messaging that he gives us, pregame, halftime, postgame, in the game, it's the right messaging",
+      "quote": "The messaging that he gives us, pregame, halftime, postgame, in the game, it's the right messaging. We just got to come through and follow through with that what he's saying, believe what he's saying, go out there and compete, and actually believe in ourselves.",
+      "text_blocks": [],
+      "start_seconds": 840,
+      "end_seconds": 857,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Khris Middleton on Brian Keefe: The messaging that he gives us is the right messaging. We just have to come through and follow through with what he is saying and believe in ourselves.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brian Keefe"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Khris Middleton comments on the effectiveness of Brian Keefe's communication with the players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "u048nITb4kU",
+  "url": "https://www.youtube.com/watch?v=u048nITb4kU",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-17T04:35:19Z",
+  "duration_seconds": 984,
+  "processed_at": "2026-11-17T04:39:15Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

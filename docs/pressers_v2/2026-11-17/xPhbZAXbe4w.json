@@ -1,0 +1,193 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Trail Blazers 98, Timberwolves 106 | Nov. 16, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:21",
+      "summary_phrase": "Micah Nori on Timberwolves' second quarter transition and turnover issues",
+      "names_mentioned": [],
+      "excerpt": "we turned it over 14 times, but they get 22 points off of them.",
+      "quote": "What I saw was the transition in the second quarter, just off of our turnovers. We turned it over 14 times, but they get 22 points off of them. We forced 13 turnovers and only scored 12. That was one thing there. I thought we did a great job field goal percentage wise, hold them to that team to 29%.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori points to the turnover battle as the key factor in the Timberwolves win over the Blazers noting the team gave up 22 points off 14 turnovers",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses the team's turnover issues and defensive performance during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "00:38",
+      "summary_phrase": "Micah Nori praises Domantas Sabonis and Terrence Shannon Jr. performance",
+      "names_mentioned": [
+        "Domantas Sabonis",
+        "Terrence Shannon Jr."
+      ],
+      "excerpt": "Terrence Shannon, we made him look like an MVP.",
+      "quote": "Domantas Sabonis did an excellent job on the LaMelo Ball. Terrence Shannon, we made him look like an MVP. Good for him, he got to the free throw line 16 times by himself. He shot 16 free throws and we shot 15. I am not complaining, so obviously we got to stop fouling.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Micah Nori on Terrence Shannon Jr getting to the line 16 times against the Timberwolves We made him look like an MVP",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Domantas Sabonis",
+          "LaMelo Ball",
+          "Terrence Shannon Jr."
+        ],
+        "teams": [
+          "MIN",
+          "SAC",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Micah Nori evaluates individual defensive efforts and foul trouble following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "00:55",
+      "summary_phrase": "Micah Nori on Timberwolves' high foul count against Rudy Gobert",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "we did foul Rudy Gobert six times, so of their 40 free throws, six of them were intentional.",
+      "quote": "We did foul Rudy Gobert six times, so of their 40 free throws, six of them were intentional. But when you get outscored by 18 points from the free throw line and you get outscored 18 to seven in fast break, there is your 30 point difference.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori breaks down the free throw disparity noting that being outscored by 18 points from the line and 11 in fast break points was the difference in the game",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Micah Nori analyzes the impact of free throw disparity and intentional fouling on the game outcome.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "01:36",
+      "summary_phrase": "Micah Nori dismisses poor shooting nights from Domantas Sabonis and Damian Lillard",
+      "names_mentioned": [
+        "Domantas Sabonis",
+        "Damian Lillard",
+        "Jaden McDaniels",
+        "Kobe Bufkin"
+      ],
+      "excerpt": "to me those are anomalies.",
+      "quote": "Again, Domantas Sabonis is zero for seven from three, but I would bet you he did not shoot one off the dribble. They were all catch and shoots. He is shooting it very, very well. He goes one for 10 and then same thing with Damian Lillard. Damian is two for eight. To me those are anomalies. Absolutely Jaden McDaniels, Kobe Bufkin, those guys are really good defenders and they make it tough, but it is nothing that Damian has not seen in his career.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Nori is not worried about the shooting slumps for Domantas Sabonis and Damian Lillard calling their performances anomalies",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Domantas Sabonis",
+          "Damian Lillard",
+          "Jaden McDaniels",
+          "Kobe Bufkin"
+        ],
+        "teams": [
+          "MIN",
+          "SAC",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Micah Nori addresses the poor shooting performances of specific players and credits the opposing defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "02:22",
+      "summary_phrase": "Micah Nori on potential for Robert Williams III to play back-to-back",
+      "names_mentioned": [
+        "Robert Williams III"
+      ],
+      "excerpt": "he played 15 minutes and he is feeling good, so knock on wood we will get together.",
+      "quote": "I will talk to H&P, see where he is at, but he played 15 minutes and he is feeling good, so knock on wood we will get together. I do not know 100% what we are going to do with Robert Williams III, but again, we will talk to him and he has been healthy this year. He has been working his butt off to stay healthy. He wants to play and again, we will talk about it tonight and see where he is at and go tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Micah Nori says the team will evaluate Robert Williams III tonight to see if he can play in a back to back after logging 15 minutes",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Robert Williams III"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Micah Nori discusses the uncertainty regarding Robert Williams III playing in a back-to-back game due to injury management.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "xPhbZAXbe4w",
+  "url": "https://www.youtube.com/watch?v=xPhbZAXbe4w",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-17T03:55:20Z",
+  "duration_seconds": 216,
+  "processed_at": "2026-11-17T04:40:25Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

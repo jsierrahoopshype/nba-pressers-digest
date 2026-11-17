@@ -1,0 +1,334 @@
+{
+  "video_title": "Erik Spoelstra Talks Miami Heat Win Streak, Giannis Taking Over, Facing Former Players, Ryan Conwell",
+  "speakers_seen": [
+    "Erik Spoelstra"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:11",
+      "summary_phrase": "Erik Spoelstra on the Heat's defensive progress and accountability",
+      "names_mentioned": [],
+      "excerpt": "The first thing was just getting everybody comfortable with what the base coverages were",
+      "quote": "The first thing was just getting everybody comfortable with what the base coverages were and then being accountable and reliable to all of that first. It took a little bit of time, and we still have a ways to go with that. But then now you add the activity to it. Once guys feel comfortable with what their responsibilities are, we want guys to be playmakers.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra on the Heat defensive evolution: The first thing was getting everyone comfortable with base coverages and then being accountable. It took time, but now we are adding activity and letting guys be playmakers.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra discusses the team's defensive progress and the importance of players understanding their responsibilities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "01:05",
+      "summary_phrase": "Erik Spoelstra on the Heat's improved half-court offensive efficiency",
+      "names_mentioned": [],
+      "excerpt": "our half-court offense has been better than people expected and probably better than people knew",
+      "quote": "All year long our half-court offense has been better than people expected and probably better than people knew. People thought it was maybe just how it looked that we weren't really effective in the half-court, but we have been all season long, even when we were struggling early on. Guys are playing with joy offensively, I like seeing that.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Spoelstra says the Heat half court offense has been better than people realized all season long. He likes that the guys are playing with joy.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra reflects on the performance of the team's half-court offense throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "02:20",
+      "summary_phrase": "Erik Spoelstra on defending Giannis Antetokounmpo in various coverages",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "getting him comfortable and playing in different places. Then the second thing is just making the reads",
+      "quote": "The first thing is just getting him comfortable and playing in different places. Then the second thing is just making the reads where he is. Top of the floor, I think those were the things that we were checking those boxes first, getting everybody comfortable with that. But he is very good when he is in the post, he is good at the elbow, and then when he is working the baseline. Different reads and just trying to get everybody comfortable with seeing where he is first.",
+      "text_blocks": [],
+      "start_seconds": 140,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Spoelstra on defending Giannis: The first thing is getting comfortable with where he is on the floor. He is very good in the post, at the elbow, and working the baseline. It is all about different reads.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra explains the defensive strategy and reads required to defend Giannis Antetokounmpo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "03:12",
+      "summary_phrase": "Erik Spoelstra on Giannis Antetokounmpo's control and impact on the game",
+      "names_mentioned": [
+        "Giannis Antetokounmpo",
+        "Magic Johnson",
+        "Clay"
+      ],
+      "excerpt": "he controlled the entire tenor of the game offensively. He was Magic Johnson in the first 14 minutes",
+      "quote": "He controlled the entire tenor of the game offensively. He was Magic Johnson in the first 14 minutes of the game and setting everybody up. I love the collaboration and the connection that he and Clay are getting and it is growing each and every game. They are finding new ways to amplify each other. And then when he needed to be aggressive, he found different ways just to get downhill and do what he does.",
+      "text_blocks": [],
+      "start_seconds": 192,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Erik Spoelstra on Giannis Antetokounmpo: He controlled the entire tenor of the game. He was Magic Johnson in the first 14 minutes of the game and setting everybody up.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra praises the offensive impact and playmaking ability of Giannis Antetokounmpo during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "05:21",
+      "summary_phrase": "Erik Spoelstra on the energy and impact of Haywood Highsmith",
+      "names_mentioned": [
+        "Haywood Highsmith"
+      ],
+      "excerpt": "Haywood Highsmith did this for us last year too. If you played him with our regulars, he amplified groups",
+      "quote": "Haywood Highsmith did this for us last year too. If you played him with our regulars, he amplified groups just with his energy and his toughness. Yeah, he does things that sometimes agitate people, but he actually is a pretty simple basketball player. He will drive it when he needs to drive it, he will shoot it when he needs to shoot it, he will move it when he needs to move it.",
+      "text_blocks": [],
+      "start_seconds": 321,
+      "end_seconds": 349,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Spoelstra on Haywood Highsmith: He does things that sometimes agitate people, but he is actually a pretty simple basketball player. He amplifies groups with his energy and his toughness.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Haywood Highsmith"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra highlights the energy and toughness that Haywood Highsmith brings to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "06:42",
+      "summary_phrase": "Erik Spoelstra on Ryan Conwell's development and defensive discipline",
+      "names_mentioned": [
+        "Ryan Conwell",
+        "Ben Fleet"
+      ],
+      "excerpt": "Ryan Conwell is really solid on the ball defensively. Keeps the ball in front of him",
+      "quote": "Ryan Conwell is really solid on the ball defensively. Keeps the ball in front of him. In training camp and preseason, he gave up a couple of rejects, everybody lit him up, and that usually for a young player is a full season process. And he played against the best reject guy, one of the best in the league in Ben Fleet, and he is dialed into the details of it, always got him to the scheme.",
+      "text_blocks": [],
+      "start_seconds": 402,
+      "end_seconds": 432,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Spoelstra praises Ryan Conwell for his defensive discipline: He is really solid on the ball and keeps it in front of him. He is dialed into the details of the scheme.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan Conwell"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra discusses the defensive development and discipline of rookie Ryan Conwell.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "07:22",
+      "summary_phrase": "Erik Spoelstra on Bam Adebayo's hip injury and proactive management",
+      "names_mentioned": [
+        "Bam Adebayo"
+      ],
+      "excerpt": "It was more proactive for sure. We will see how he feels tomorrow",
+      "quote": "It was more proactive for sure. We will see how he feels tomorrow, but it was hip tightness at that point. I even saw the way he was like grinding through it in the second quarter. I am like, whatever he says, whatever anybody says, let's just sit him down and then we will reevaluate tomorrow. I don't think it is a long-term thing.",
+      "text_blocks": [],
+      "start_seconds": 442,
+      "end_seconds": 467,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra says Bam Adebayo was pulled tonight due to hip tightness as a proactive measure. He does not think it is a long term thing.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Erik Spoelstra explains the decision to sit Bam Adebayo due to hip tightness as a proactive measure.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "08:02",
+      "summary_phrase": "Erik Spoelstra on the business of developing young players",
+      "names_mentioned": [],
+      "excerpt": "it is part of the business. We did pour into them",
+      "quote": "It is part of the business. We did pour into them. I hope the storylines aren't about a bunch of other things, really, because we developed deep relationships with those guys. There are always things that can be awkward in this business when there are trades and guys are on different teams, but it is all love. When you spend that much time pouring into young players and trying to help them achieve something cool, it is hard not to root for them.",
+      "text_blocks": [],
+      "start_seconds": 482,
+      "end_seconds": 514,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Spoelstra on facing former players: It is all love. When you spend that much time pouring into young players and trying to help them achieve something cool, it is hard not to root for them.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Erik Spoelstra talks about the emotional aspect of developing young players who are eventually traded to other teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "09:12",
+      "summary_phrase": "Erik Spoelstra on the adjustment of coaching star players",
+      "names_mentioned": [],
+      "excerpt": "one of the biggest adjustments I had to make when I first started coaching the big three",
+      "quote": "One of the biggest adjustments I had to make when I first started coaching the big three. I wanted to be an under-the-radar coach. It is my personality. I just wanted to be under the radar, like behind the scenes, do my job, and whatever. At some point, I just had to embrace this is what it is about. It is. We are the Miami Heat. Like, bring it on. We want all of it.",
+      "text_blocks": [],
+      "start_seconds": 552,
+      "end_seconds": 581,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Spoelstra on his coaching evolution: I wanted to be an under the radar coach. At some point, I just had to embrace this is what it is about. We are the Miami Heat. Bring it on. We want all of it.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra reflects on his personal adjustment to coaching high-profile star players in Miami.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "11:17",
+      "summary_phrase": "Erik Spoelstra on the Heat's defensive identity and physicality",
+      "names_mentioned": [],
+      "excerpt": "I just wanted it to be tough, physical, and extremely disruptive",
+      "quote": "I just wanted it to be tough, physical, and extremely disruptive. And so now we are finding ways to do that. And part of displaying physicality is making it tough at the rim. And we have playmakers at the rim and Bam, Bam, Wigs tonight was terrific, and we want them to express that every night, every night at the rim and in the paint.",
+      "text_blocks": [],
+      "start_seconds": 677,
+      "end_seconds": 702,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Spoelstra on Heat defensive identity: I just wanted it to be tough, physical, and extremely disruptive. Part of displaying physicality is making it tough at the rim.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra discusses the team's defensive identity and the importance of rim protection from players like Bam Adebayo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "ij05Ul3uHtY",
+  "url": "https://www.youtube.com/watch?v=ij05Ul3uHtY",
+  "channel_team": "Miami Heat",
+  "published": "2026-11-17T04:32:30Z",
+  "duration_seconds": 743,
+  "processed_at": "2026-11-17T04:39:41Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

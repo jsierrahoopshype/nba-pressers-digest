@@ -1,0 +1,447 @@
+{
+  "video_title": "Jeremiah Fears | Pelicans vs Warriors Postgame Interview 11/16/26",
+  "speakers_seen": [
+    "Jeremiah Fears"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "00:10",
+      "summary_phrase": "Jeremiah Fears on the Pelicans' defensive focus and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "I think that's something we've been preaching the last couple games, just continue to stay together.",
+      "quote": "I think that's something we've been preaching the last couple games, just continue to stay together. It's been a tough stretch obviously, but being connected, we talked about that at halftime as well, just continuing to be connected throughout the whole game and just continuing to focus on what we've been practicing. I think we've been doing a pretty good job of that, especially today. Last game, it wasn't the outcome, but we were taking steps in the right direction and today we ended up getting the W.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jeremiah Fears on the Pelicans finding their rhythm after a tough stretch: We talked about being connected at halftime and just continuing to focus on what we have been practicing.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears discusses the team's effort to stay connected and focused following a recent tough stretch of games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "00:44",
+      "summary_phrase": "Jeremiah Fears on his role helping teammates rebound and protect the rim",
+      "names_mentioned": [
+        "Eve",
+        "DQ",
+        "Carlo"
+      ],
+      "excerpt": "My teammates was just in all the right spots and just going out trying to help the bigs rebound.",
+      "quote": "My teammates was just in all the right spots and just going out trying to help the bigs rebound. I know they got a tough task, obviously protecting the rim and just being in all the right spots and having our back, so we got to have their back on the crackdowns. I was there for Eve, DQ, Carlo, all the bigs that played tonight. They had our back so we had to have their backs as well.",
+      "text_blocks": [],
+      "start_seconds": 44,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jeremiah Fears on the Pelicans defensive effort: We know the bigs have a tough task protecting the rim so we have to have their back on the crackdowns.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Eve",
+          "DQ",
+          "Carlo"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears explains his role in helping the team's big men with rebounding and defensive crackdowns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "01:34",
+      "summary_phrase": "Jeremiah Fears on DeAndre's mentorship and rebounding advice",
+      "names_mentioned": [
+        "DeAndre"
+      ],
+      "excerpt": "I think DeAndre, best vet that I've had around the league.",
+      "quote": "I think DeAndre, best vet that I've had around the league. I think he just did a great job just talking to me throughout the whole game and that was something he was preaching, like continue to go grab the rebounds, continue to stay on the board and don't chase it, just continue to do what you've been doing.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jeremiah Fears calls DeAndre the best veteran he has had in the league: He did a great job talking to me throughout the game and preaching to continue to go grab rebounds.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "DeAndre Jordan"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears praises DeAndre Jordan for his mentorship and advice regarding rebounding during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "02:22",
+      "summary_phrase": "Jeremiah Fears on his development and reading the defense in year two",
+      "names_mentioned": [],
+      "excerpt": "Huge leap, especially from year one to year two, reads obviously slowed down.",
+      "quote": "Huge leap, especially from year one to year two, reads obviously slowed down. Like I said before the season even started, just watching film, knowing kind of what's going to be open, and the more you play the more experience you get. And I think that's kind of been something that's that took a play into year two. My teammates, like I said, the last 10 to 12 games, they just been in all the right spots and just continuing to find them and I think that's my job as a point guard to make sure my teammates get the great looks.",
+      "text_blocks": [],
+      "start_seconds": 142,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jeremiah Fears on his growth in year two: The reads have slowed down. Watching film and knowing what is going to be open has been a big part of my development as a point guard.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears reflects on his development as a point guard and his improved ability to read defenses in his second season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "03:07",
+      "summary_phrase": "Jeremiah Fears on building chemistry with Z in the pick-and-roll",
+      "names_mentioned": [
+        "Z"
+      ],
+      "excerpt": "After practice, before practice we kind of work together, watch a little bit of film as well.",
+      "quote": "After practice, before practice we kind of work together, watch a little bit of film as well and just talk to talk to each other about what we see in a moment, even in the timeouts as well. And I think him using his voice and telling me kind of what he sees and me using my voice as well has been huge. Just continue to build that chemistry throughout the way.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jeremiah Fears on building chemistry with Z in the pick and roll: We work together before and after practice and talk about what we see in the moment. Using our voices has been huge.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Z"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears discusses the process of building chemistry with Z through film study and communication.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "03:36",
+      "summary_phrase": "Jeremiah Fears on responding to the 51-point loss against the Warriors",
+      "names_mentioned": [],
+      "excerpt": "That's not a good way to be to be beat, especially in a game of basketball.",
+      "quote": "For sure, that's kind of what I was thinking about to start the game. Being beat like that, that's not a good way to be to be beat, especially in a game of basketball. So I've been thinking about that from yesterday, the minute I knew we was playing them again and just going out there and kind of setting a statement. We got out on them early and we just kept the lead and kept stepping on their throat.",
+      "text_blocks": [],
+      "start_seconds": 216,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 8,
+      "social_post": "Jeremiah Fears on the revenge win over the Warriors after a 51 point loss: We got out on them early and we just kept the lead and kept stepping on their throat.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "GSW"
+        ],
+        "teams": [
+          "NOP",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears describes the team's motivation to respond after a significant loss to the Golden State Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "04:13",
+      "summary_phrase": "Jeremiah Fears on becoming the ninth youngest player with a triple-double",
+      "names_mentioned": [],
+      "excerpt": "Man, that's amazing. Another stat that I didn't know about, but that's all I got.",
+      "quote": "Man, that's amazing. Another stat that I didn't know about, but that's all I got. Just continue to keep working, staying in the gym and try to get ready for the next one.",
+      "text_blocks": [],
+      "start_seconds": 253,
+      "end_seconds": 266,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Jeremiah Fears on becoming the ninth youngest player to record a triple double: That is amazing. Another stat I did not know about, but I will just continue to keep working and get ready for the next one.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears reacts to becoming one of the youngest players in NBA history to record a triple-double.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "04:50",
+      "summary_phrase": "Jeremiah Fears on learning from teammate Siddiq",
+      "names_mentioned": [
+        "Siddiq"
+      ],
+      "excerpt": "Siddiq is that great piece. He just does all the right stuff, consistent, don't complain.",
+      "quote": "Siddiq is that great piece. He just does all the right stuff, consistent, don't complain, come in with a great attitude each and every day and just learning from him. I've been asking him questions, sitting next to him on the bench, talking to him, just trying to pick his brain a little bit. He don't say much, but when he do say something he kind of listen and just being able to pick his brain and being able to learn from him along the way I think is huge for all the young guys on our team.",
+      "text_blocks": [],
+      "start_seconds": 290,
+      "end_seconds": 328,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jeremiah Fears on learning from teammate Siddiq: He does all the right stuff and is consistent. Being able to pick his brain and learn from him along the way is huge for all the young guys.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Siddiq Bey"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears discusses learning from the consistency and professional attitude of his teammate Siddiq Bey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "05:41",
+      "summary_phrase": "Jeremiah Fears on defensive principles and growth as a point guard",
+      "names_mentioned": [],
+      "excerpt": "Just sticking to our principles. I think to start the game we were sticking to our principles.",
+      "quote": "Just sticking to our principles. I think to start the game we were sticking to our principles and we stayed with it throughout the whole game. And those last couple games we were kind of getting away from our principles, so just continue to stay with it, continue to watch film, continue to keep learning, keep growing as well. And I think I've made a big jump just guarding the ball, being physical on the point of attack and obviously the way room helped with that.",
+      "text_blocks": [],
+      "start_seconds": 341,
+      "end_seconds": 374,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jeremiah Fears on his defensive growth: I have made a big jump just guarding the ball and being physical on the point of attack.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears talks about the importance of sticking to defensive principles and his personal growth on the defensive end.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "06:17",
+      "summary_phrase": "Jeremiah Fears on being mentioned alongside Chris Paul and Russell Westbrook",
+      "names_mentioned": [
+        "Chris Paul",
+        "Russ"
+      ],
+      "excerpt": "It's a big accomplishment and it's only the beginning, just continue to stay focused on what matters.",
+      "quote": "It's a big accomplishment and it's only the beginning, just continue to stay focused on what matters and that's winning. So I mean it's a like you said it's a big accomplishment, but just continue to focus on the wins and continue to keep adding wins to the win category.",
+      "text_blocks": [],
+      "start_seconds": 377,
+      "end_seconds": 396,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jeremiah Fears on being mentioned alongside Chris Paul and Russell Westbrook: It is a big accomplishment and it is only the beginning, but I am just focused on what matters and that is winning.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Paul",
+          "Russell Westbrook"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jeremiah Fears comments on being mentioned in the same category as veteran point guards Chris Paul and Russell Westbrook.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "06:48",
+      "summary_phrase": "Jeremiah Fears on Jontay Porter's leadership and trade request",
+      "names_mentioned": [
+        "Jontay"
+      ],
+      "excerpt": "It's business at the end of the day. We all want the best for Jontay.",
+      "quote": "It's business at the end of the day. We all want the best for Jontay and he's done nothing but be great the time he was here. And he spoke light and encouragement into all of us and a leader, he has a great voice and I think we listen to him and we wish him nothing but the best, but just focusing on what matters and I think that's winning and everybody on our team wants to win and so we going to continue to keep doing that.",
+      "text_blocks": [],
+      "start_seconds": 408,
+      "end_seconds": 442,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 6,
+      "social_post": "Jeremiah Fears on Jontay Porter: It is business at the end of the day. He has done nothing but be great the time he was here and we wish him nothing but the best.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jontay Porter"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Jeremiah Fears addresses Jontay Porter's leadership and departure from the team following a trade request.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "07:53",
+      "summary_phrase": "Jeremiah Fears on Jaron's energy and impact on the team",
+      "names_mentioned": [
+        "Jaron",
+        "Trinity",
+        "Waffer"
+      ],
+      "excerpt": "Jaron's been great, hometown kid. He comes in each and every day ready to work.",
+      "quote": "Jaron's been great, hometown kid. He comes in each and every day ready to work. He always got high energy and I think that kind of helps with our team and especially around the facility, having that that great positive energy and a lot of guys picked up on it. Everybody else kind of see him happy and in a great mood and we all just kind of fall in line and I think him having that energy and Trinity Waffer having great energy and then you see your teammates just being happy, so I mean that's something that everybody could pick up from and I think we all have been doing a pretty good job of that.",
+      "text_blocks": [],
+      "start_seconds": 473,
+      "end_seconds": 518,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jeremiah Fears on Jaron: He comes in each and every day ready to work. He always has high energy and that helps our team.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaron",
+          "Trinity Waffer"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears highlights the positive energy that Jaron and Trinity Waffer bring to the team environment.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "08:41",
+      "summary_phrase": "Jeremiah Fears on his connection with Carlo on the court",
+      "names_mentioned": [
+        "Carlo"
+      ],
+      "excerpt": "Carlo is very athletic and I kind of seen him and we had a little bit of connection.",
+      "quote": "Carlo is very athletic and I kind of seen him and we had a little bit of connection last season as well and this season, so once I seen him running, I just threw it up and I knew he was going to go get it.",
+      "text_blocks": [],
+      "start_seconds": 521,
+      "end_seconds": 535,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jeremiah Fears on his connection with Carlo: Carlo is very athletic. Once I seen him running, I just threw it up and I knew he was going to go get it.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Carlo"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears describes his on-court connection with Carlo and his confidence in throwing lobs to him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "YQBo0fZN4Ac",
+  "url": "https://www.youtube.com/watch?v=YQBo0fZN4Ac",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-17T04:32:45Z",
+  "duration_seconds": 535,
+  "processed_at": "2026-11-17T04:39:39Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

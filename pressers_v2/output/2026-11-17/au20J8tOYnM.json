@@ -1,0 +1,324 @@
+{
+  "video_title": "Ryan Conwell Post-Game Interview vs Rockets | 11/16/2026",
+  "speakers_seen": [
+    "Ryan Conwell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ryan Conwell",
+      "timestamp": "00:55",
+      "summary_phrase": "Coach Spoelstra's emphasis on defending three-point shots",
+      "names_mentioned": [
+        "Spo"
+      ],
+      "excerpt": "Coach Spo he preaches about every single day and during the game he's always reminding us",
+      "quote": "It's been a huge emphasis. Coach Spo he preaches about every single day and during the game he's always reminding us about taking away those air space threes and getting teams off the line just so that we can be one of those top defenses in the league. So, it's been a big emphasis and I think we've all bought into that and made an emphasis out there on the floor.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Ryan Conwell says the Heat are prioritizing defending the three point line this season as Coach Spoelstra preaches taking away air space threes to become a top defense in the league.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Erik Spoelstra"
+        ],
+        "teams": [
+          "CLE",
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ryan Conwell discusses the defensive emphasis placed on the team by head coach Erik Spoelstra.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ryan Conwell",
+      "timestamp": "01:36",
+      "summary_phrase": "Ryan Conwell on film study and learning the game",
+      "names_mentioned": [
+        "Dan"
+      ],
+      "excerpt": "watching a lot of film, I would say that's just helped me a lot",
+      "quote": "It's definitely something I've been working on. Just a lot just being around the staff and watching a lot of film, I would say that's just helped me a lot. Just with Coach Dan and all the coaching staff, just watching film, just being able to start to understand the game better. And I think just with experience, just being out there on the floor, just seeing different things happen, obviously D-Mitch, he's been passing the ball extremely well at a high level, so that definitely helps just me being out there on the floor and also seeing him from the bench, seeing his reads.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ryan Conwell credits film study with the coaching staff and watching Donovan Mitchell for his growth in understanding the game and reading the floor.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Conwell explains how watching film and observing Donovan Mitchell's playmaking has helped his own development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ryan Conwell",
+      "timestamp": "02:35",
+      "summary_phrase": "Ryan Conwell on matching Bam Adebayo's defensive intensity",
+      "names_mentioned": [
+        "Davion",
+        "Spo",
+        "Mitch"
+      ],
+      "excerpt": "I try to just match that energy or even raise the level of the energy",
+      "quote": "I'm definitely inspired by that. Every single time when Spo puts me in the game, I try to just match that energy or even raise the level of the energy, especially on the defensive end. My biggest thing is I don't want it to drop. So, as soon as I come in the game, I just want to disrupt, get deflections, get on the other team's nerves. And obviously D-Mitch is one of the best defenders in this league, and just being around him and learning from him each and every single day has helped me just when I'm out there on the floor.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Ryan Conwell says he tries to match the defensive intensity of Bam Adebayo whenever he checks into the game to disrupt the opponent and get deflections.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Erik Spoelstra",
+          "Bam Adebayo",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE",
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Conwell talks about his desire to match the defensive intensity of his teammates and learn from them.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ryan Conwell",
+      "timestamp": "03:27",
+      "summary_phrase": "Ryan Conwell on Giannis Antetokounmpo's unique gravity",
+      "names_mentioned": [
+        "Giannis"
+      ],
+      "excerpt": "his gravity is crazy, obviously never played with a player of that magnitude",
+      "quote": "His gravity is crazy, obviously never played with a player of that magnitude. And just to see the different things he does with and without the ball, and just how teams are just always keen on him and how it makes it easier for all of us. I mean, we're all thankful to be on the team with him for sure.",
+      "text_blocks": [],
+      "start_seconds": 207,
+      "end_seconds": 230,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Ryan Conwell on playing with Giannis Antetokounmpo: His gravity is crazy. I have never played with a player of that magnitude and it makes it easier for all of us.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "CLE",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Conwell shares his experience playing alongside Giannis Antetokounmpo and the impact of his gravity on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ryan Conwell",
+      "timestamp": "04:07",
+      "summary_phrase": "Ryan Conwell on coaching staff's preparation for defensive schemes",
+      "names_mentioned": [
+        "Giannis"
+      ],
+      "excerpt": "I give a lot of credit to the coaches just throughout the film sessions",
+      "quote": "I give a lot of credit to the coaches just throughout the film sessions that we have before and after the games, just how we are able to just talk about those different things when teams load up depending on where Giannis is at on the floor, where he's at at the top or on the wing or where he's posting up, different things like that and how teams will blitz and basically just how we'll cut off of that and move off of that, just take pressure off of him and then try to just take time and get pressure off of him for real. So, I mean that feels like a big thing.",
+      "text_blocks": [],
+      "start_seconds": 247,
+      "end_seconds": 291,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ryan Conwell explains how the coaching staff prepares the team to move and cut off of Giannis Antetokounmpo when opponents blitz him.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "CLE",
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ryan Conwell describes how the coaching staff prepares the team to play off of Giannis Antetokounmpo's positioning.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ryan Conwell",
+      "timestamp": "05:00",
+      "summary_phrase": "Ryan Conwell on learning from past defensive mistakes",
+      "names_mentioned": [
+        "Bam"
+      ],
+      "excerpt": "I know he just wants me to just be a great player in this league",
+      "quote": "Those are things I don't forget to be honest, but you know obviously you got to move on from them. I know he just wants me to just be a great player in this league and he believes in me. So, I would say it just keeps my focus high every time I'm out there on the floor, just different ways to have to guard different players. And obviously you know I get the short end of the stick sometimes, but I'm thankful for it just because I know that's only going to make me better and I just aspire to be a really good two-way player and I think Coach Spo is a great coach to help me do that.",
+      "text_blocks": [],
+      "start_seconds": 300,
+      "end_seconds": 347,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Ryan Conwell on being coached by Erik Spoelstra: I know he just wants me to be a great player in this league and he believes in me. I aspire to be a really good two way player.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Erik Spoelstra"
+        ],
+        "teams": [
+          "CLE",
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ryan Conwell reflects on learning from defensive mistakes and his relationship with coach Erik Spoelstra.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ryan Conwell",
+      "timestamp": "05:50",
+      "summary_phrase": "Ryan Conwell on his role as a scrappy rebounder",
+      "names_mentioned": [],
+      "excerpt": "just coming in and being scrappy, just crashing, glass and putting pressure on the other teams",
+      "quote": "Especially just my role just coming in and being scrappy, just crashing, glass and putting pressure on the other teams, making the team just have to key in on me in a different type of way without the ball in my hands. It's definitely something we talk about and I try to do it every single game, just be a high energy player, just disrupt any way I can and just get extra possessions for the team.",
+      "text_blocks": [],
+      "start_seconds": 350,
+      "end_seconds": 380,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ryan Conwell describes his role as a high energy player who focuses on crashing the glass and disrupting the opponent to get extra possessions for the team.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Ryan Conwell describes his role as a high-energy player tasked with rebounding and disrupting opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Ryan Conwell",
+      "timestamp": "06:30",
+      "summary_phrase": "Ryan Conwell on playing with high-energy teammates",
+      "names_mentioned": [
+        "Myron"
+      ],
+      "excerpt": "Myron the same way like he comes in with max energy every play every possession",
+      "quote": "I would just say our energy. Myron the same way like he comes in with max energy every play every possession, and me and him both just try to do the same thing, come in, disrupt, just do the little things, you know try to take the pressure off of our teammates. And obviously Myron he's been there before, get downhill, just a very versatile player as well. So, I mean it's fun just being out there with, you know high energy guys when I'm a high energy guy myself and just running around and just playing hard, it's fun.",
+      "text_blocks": [],
+      "start_seconds": 390,
+      "end_seconds": 428,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ryan Conwell enjoys playing alongside high energy teammates like Myron: It is fun just being out there with high energy guys when I am a high energy guy myself.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Myron"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Conwell discusses the energy he and teammate Myron bring to the floor during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Ryan Conwell",
+      "timestamp": "07:12",
+      "summary_phrase": "Ryan Conwell on adapting to the NBA lifestyle",
+      "names_mentioned": [],
+      "excerpt": "just being adaptable, I would say that's really helped me just throughout my college career",
+      "quote": "I would say yeah for sure, just even just having to move to different cities, you know just interact with different people, different coaches, and just being adaptable, I would say that's really helped me just throughout my college career, being in this position now and then just being able to adapt on the floor. I would say in college my role wasn't always the same as well, you know obviously the ball was mostly in my hands throughout college, but I've always just had to be an adaptable player playing with different players and I think that's definitely helped me now and you know I just want to continue to grow in that role.",
+      "text_blocks": [],
+      "start_seconds": 432,
+      "end_seconds": 474,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ryan Conwell says his experience in college helped him become an adaptable player who can thrive in different roles in the NBA.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Ryan Conwell discusses his ability to adapt to different roles in the NBA compared to his college career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "au20J8tOYnM",
+  "url": "https://www.youtube.com/watch?v=au20J8tOYnM",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-17T03:58:12Z",
+  "duration_seconds": 474,
+  "processed_at": "2026-11-17T04:40:24Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,263 @@
+{
+  "video_title": "Giannis Antetokounmpo Talks Miami Heat Win Streak, Team Defense and Facing Milwaukee Bucks Next Game",
+  "speakers_seen": [
+    "Giannis Antetokounmpo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "00:13",
+      "summary_phrase": "Giannis Antetokounmpo on maintaining impact despite scoring fluctuations",
+      "names_mentioned": [],
+      "excerpt": "I feel like I can impact the game in so many ways.",
+      "quote": "There are going to be days that I might not have a great scoreboard, but I score 62 points and I am still doing my job, still creating, I am still being disruptive. I feel like I can impact the game in so many ways, and I try not to focus on it. There are going to be days that I can score the ball and I will be able to get to my spot, and there are going to be days that I won't. It is okay, but those little seconds that it takes, that one second that it takes you for to miss a shot, you cannot affect the other 24 seconds defensively or the rest of the minutes that you are going to be out there. So I just try to keep on finding ways.",
+      "verbatim_original_language": "",
+      "start_seconds": 13,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Giannis Antetokounmpo on his impact beyond scoring: There are days I might not have a great scoreboard but I am still doing my job and being disruptive. I try not to focus on the points.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo discusses his approach to impacting games regardless of his individual scoring output.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "01:15",
+      "summary_phrase": "Giannis Antetokounmpo on team chemistry and trust in teammates",
+      "names_mentioned": [
+        "Ryan",
+        "Tyrese Maxey",
+        "Bobby",
+        "Klay",
+        "Wiggs"
+      ],
+      "excerpt": "When you play with great teammates and guys that run to the right spot, it comes easier.",
+      "quote": "When you play with great teammates and guys that run to the right spot and create space for me to operate, I think it just comes easier. But yeah, I am just trying to make the right play. There are going to be times that I am going to get in the paint, there are going to be times that I am going to see two, three guys in front of me, then I just got to trust and make the right play. I feel like Ryan, Tyrese Maxey, Bobby, Klay, Wiggs, everybody is knocking down shots. So I think that aspect of my game becomes easier.",
+      "verbatim_original_language": "",
+      "start_seconds": 75,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Giannis Antetokounmpo on his playmaking: When you play with great teammates who run to the right spots it comes easier. I just have to trust and make the right play.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey",
+          "Bobby Portis",
+          "Klay Thompson",
+          "Andrew Wiggins"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Giannis Antetokounmpo explains how he trusts his teammates to create space and make shots when he draws defensive attention.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "02:00",
+      "summary_phrase": "Giannis Antetokounmpo on team growth and trust",
+      "names_mentioned": [],
+      "excerpt": "We got a long way to go. I think starting the season the way we started is good.",
+      "quote": "We got a long way to go. I think starting the season the way we started is good. It was very, very good. We had great meetings, great talks, great practices. It was a great feeling to feel down, to feel doubted by people, to kind of feel, to question yourself, or question the team, and question what we have been doing for training camp and how we prepped to be ready for the season. All those things got questioned, but it was good, because now you appreciate the game more.",
+      "verbatim_original_language": "",
+      "start_seconds": 120,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Giannis Antetokounmpo on the team's early season adversity: It was good to feel doubted and questioned because now you appreciate the game more.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo reflects on the team's early season growth and the value of overcoming outside doubt.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "03:25",
+      "summary_phrase": "Giannis Antetokounmpo on facing the Milwaukee Bucks",
+      "names_mentioned": [],
+      "excerpt": "It is just another game. I am going to do the same thing, I am going to eat.",
+      "quote": "It is just another game. I am going to do the same thing, I am going to eat the same meal, I am going to kiss my kids before they go to bed, get ready, wake up, do my routine and get ready for the game. It is the same game. The same thing, it doesn't change. It doesn't matter the jersey.",
+      "verbatim_original_language": "",
+      "start_seconds": 205,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Giannis Antetokounmpo on facing his former team: It is just another game. I am going to do the same thing, eat the same meal, kiss my kids before they go to bed. It does not matter the jersey.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo describes his routine and mindset heading into a game against his former team, the Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "03:49",
+      "summary_phrase": "Giannis Antetokounmpo on his emotional approach to the game",
+      "names_mentioned": [],
+      "excerpt": "I haven't found myself being emotional. I think the only time I have been emotional was when we won.",
+      "quote": "I haven't found myself being emotional. I think the only time I have been emotional was when we won a championship. I think I have played my whole career having to find myself putting the emotion to the game. I feel like emotions are for movies, and this is just basketball. I am going to do prep, get my body ready, and get ready for the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 229,
+      "end_seconds": 255,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 8,
+      "social_post": "Giannis Antetokounmpo on his mindset: I have not found myself being emotional. I feel like emotions are for movies, and this is just basketball.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo explains that he approaches basketball as a professional task rather than an emotional experience.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "04:34",
+      "summary_phrase": "Giannis Antetokounmpo on ignoring external criticism",
+      "names_mentioned": [],
+      "excerpt": "I don't have social media, so I don't pay attention to that.",
+      "quote": "I don't have social media, so I don't pay attention to that. If that was the talk, that was the talk. That is people's opinion and other people might have different opinion, but I try not to focus on that. I try to focus on my job. I cannot control what people think and what people say, but I can control the effort that I put in the game and that is what I try to do every single day.",
+      "verbatim_original_language": "",
+      "start_seconds": 274,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Giannis Antetokounmpo on external criticism: I do not have social media so I do not pay attention to that. I cannot control what people think, but I can control the effort I put in the game.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo explains why he avoids social media and ignores external criticism regarding his performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "05:21",
+      "summary_phrase": "Giannis Antetokounmpo on the excitement surrounding his return to Milwaukee",
+      "names_mentioned": [],
+      "excerpt": "I understand the hype and I feel like a lot of people in this locker room have played.",
+      "quote": "I understand the hype and I feel like a lot of people in this locker room have played the game and they are excited for the game to come up. Just be able to be part of one of the most talked about video games, it is fun. I heard that we have special jerseys and a special court, so I am excited for that. I am excited for the energy, but most importantly, meat and potatoes, keep the main thing the main thing. The main thing is for us to come out here and win the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 321,
+      "end_seconds": 359,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Giannis Antetokounmpo on the hype surrounding his return to Milwaukee: I am excited for the energy, but most importantly, meat and potatoes, keep the main thing the main thing. The main thing is to come out here and win.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo shares his excitement for the atmosphere surrounding his return to play in Milwaukee.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Giannis Antetokounmpo",
+      "timestamp": "06:42",
+      "summary_phrase": "Giannis Antetokounmpo on his legacy with the Milwaukee organization",
+      "names_mentioned": [],
+      "excerpt": "I think I was able to give my heart and soul every single night for the organization.",
+      "quote": "I had fun. I think I was able to give my heart and soul every single night for the organization and for the fans. The fans were wonderful to welcome me when I was 18 years old. They welcomed my family, my brothers went to school there, my kids were born there, I was pretty much raised there, spent 13 years there. So I hope I mean something for the city, but you got to go, I have seen like videos, you got to go out there in the streets and ask the fans and know what I mean for them and what I have done for the city. But for my aspect, I gave everything I had and I hope they are able to see that.",
+      "verbatim_original_language": "",
+      "start_seconds": 402,
+      "end_seconds": 451,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Giannis Antetokounmpo on his 13 years in Milwaukee: I gave my heart and soul every single night. I was pretty much raised there. I hope I mean something for the city.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Giannis Antetokounmpo reflects on his 13-year tenure with the Milwaukee organization and his connection to the city.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "PVbafnXI_RQ",
+  "url": "https://www.youtube.com/watch?v=PVbafnXI_RQ",
+  "channel_team": "Miami Heat",
+  "published": "2026-11-17T04:28:36Z",
+  "duration_seconds": 455,
+  "processed_at": "2026-11-17T04:39:50Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

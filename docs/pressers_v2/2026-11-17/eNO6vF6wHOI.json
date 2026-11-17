@@ -1,0 +1,179 @@
+{
+  "video_title": "Paul George Discusses His HEALTH in Year 17 | Celtics vs Magic Postgame",
+  "speakers_seen": [
+    "Paul George"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Paul George",
+      "timestamp": "00:01",
+      "summary_phrase": "Paul George on missed opportunities and defensive lapses against Orlando",
+      "names_mentioned": [],
+      "excerpt": "I think it was some 50-50 balls that we didn't come up with, gave them some second opportunities.",
+      "quote": "I think it was some 50-50 balls that we didn't come up with, gave them some second opportunities and they made us pay for it. Down the stretch, those are plays that hurt. Had we come up with those and get the stops that we needed, probably a different outcome.",
+      "text_blocks": [],
+      "start_seconds": 1,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Paul George on the loss to Orlando: We gave up too many second opportunities and those 50-50 balls hurt us down the stretch.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Paul George discusses the team's defensive lapses and missed opportunities in a loss against the Orlando Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Paul George",
+      "timestamp": "00:36",
+      "summary_phrase": "Paul George on defensive strategy against Orlando's perimeter shooting",
+      "names_mentioned": [],
+      "excerpt": "I think maybe we over-respected them behind the three-point line.",
+      "quote": "I think maybe we over-respected them behind the three-point line. We've done a great job of closing the paint off and being a team that forces a lot of teams into turnovers and taking them out of things that they like. We knew Orlando was a paint team, they like to drive and get to the rim. They got a lot of guys that put their head down and get to the rim, so we played into their strengths. That's on us, it was an uncharacteristic night from the group.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Paul George admits the team over-respected Orlando behind the arc and played into their strengths by focusing too much on the paint.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Paul George explains how the team's defensive strategy failed to contain the Orlando Magic's perimeter shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Paul George",
+      "timestamp": "01:25",
+      "summary_phrase": "Paul George praises Christian's energy and impact in tonight's game",
+      "names_mentioned": [
+        "Christian"
+      ],
+      "excerpt": "When his number was called, he stepped up and he had some impactful plays.",
+      "quote": "Great energy. I thought when his number was called, he stepped up and he had some impactful plays. That was a great showing for him.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Paul George praised Christian for his energy and impact tonight: When his number was called he stepped up and had some impactful plays.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Christian"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Paul George praises the energy and performance of his teammate Christian during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Paul George",
+      "timestamp": "02:11",
+      "summary_phrase": "Paul George on miscommunication with Dwight during fourth quarter",
+      "names_mentioned": [
+        "Dwight"
+      ],
+      "excerpt": "Me and Dwight talked, but we just weren't on the same page.",
+      "quote": "Me and Dwight talked, but we just weren't on the same page. We were both boxing out, we did an amazing job boxing out, the ball falls right into our lap, I'm thinking he's going to get it, he's thinking I'm going to get it, just miscommunication on that part, and that's all that was.",
+      "text_blocks": [],
+      "start_seconds": 131,
+      "end_seconds": 152,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Paul George explains the late game miscommunication with Dwight: We were both boxing out and the ball fell right into our lap but we just were not on the same page.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dwight"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Paul George explains a specific defensive miscommunication that occurred between him and Dwight during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Paul George",
+      "timestamp": "04:11",
+      "summary_phrase": "Paul George on managing his workload and health in year 17",
+      "names_mentioned": [],
+      "excerpt": "Any time that I can step on this floor and be healthy, it's a win.",
+      "quote": "Any time that I can step on this floor and be healthy, it's a win, and I look forward to that. I'm just excited that year 17, I can still be playing back-to-backs, given all the adversity and all the bad luck that I've had from the injury standpoint. Just taking those moments and being grateful that I can be out there and go play.",
+      "text_blocks": [],
+      "start_seconds": 251,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Paul George on playing in year 17: Any time I can step on this floor and be healthy it is a win. I am just excited that I can still be playing back to backs given all the adversity and bad luck I have had.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Paul George reflects on his health and ability to play back-to-back games during his seventeenth NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "eNO6vF6wHOI",
+  "url": "https://www.youtube.com/watch?v=eNO6vF6wHOI",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-17T03:50:30Z",
+  "duration_seconds": 285,
+  "processed_at": "2026-11-17T04:40:42Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

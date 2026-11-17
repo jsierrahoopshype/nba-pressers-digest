@@ -1,0 +1,245 @@
+{
+  "video_title": "Myron Gardner Post-Game Interview vs Rockets | 11/16/2026",
+  "speakers_seen": [
+    "Myron Gardner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Myron Gardner",
+      "timestamp": "00:16",
+      "summary_phrase": "Myron Gardner on the team's growing confidence and rhythm",
+      "names_mentioned": [],
+      "excerpt": "We feeling good, getting our confidence, we feel like we getting our rhythm.",
+      "quote": "We feeling good, getting our confidence, we feel like we getting our rhythm. For sure, morale going up.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Myron Gardner says the team is starting to feel good and find their rhythm as morale continues to climb.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Myron Gardner discusses the team's current morale and confidence following the game against the Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Myron Gardner",
+      "timestamp": "00:27",
+      "summary_phrase": "Myron Gardner on the team's improved defensive intensity",
+      "names_mentioned": [],
+      "excerpt": "There's more attention to detail, there's more buying into the culture.",
+      "quote": "There's more attention to detail, there's more buying into the culture and what Spo believes we should do on defense, and I feel like we just doing more of that.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Myron Gardner credits the team's improved defensive play to better attention to detail and buying into the culture.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Myron Gardner explains the team's increased focus on defensive intensity and adherence to the coach's system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Myron Gardner",
+      "timestamp": "00:45",
+      "summary_phrase": "Myron Gardner on Giannis Antetokounmpo's impact without the ball",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "He got a lot of gravity to him, so he make the game for us easier.",
+      "quote": "A lot of impact, just him rolling, rim running to the board, rim running, and getting offensive rebounds. He got a lot of gravity to him, so he make the game for us easier.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Myron Gardner on Giannis Antetokounmpo: He has a lot of gravity to him and he makes the game easier for everyone else.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "HOU",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Myron Gardner describes the offensive impact and gravity Giannis Antetokounmpo provides on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Myron Gardner",
+      "timestamp": "01:03",
+      "summary_phrase": "Myron Gardner on his chemistry with teammate RC",
+      "names_mentioned": [
+        "RC"
+      ],
+      "excerpt": "Me and RC, my guy, we got a lot of chemistry together from the summer.",
+      "quote": "Me and RC, my guy, we got a lot of chemistry together from the summer, so we always know where to get each other when we are on the floor.",
+      "text_blocks": [],
+      "start_seconds": 63,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Myron Gardner says his chemistry with RC goes back to the summer and they always know where to find each other on the floor.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "RC"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Myron Gardner reflects on his on-court chemistry with his teammate RC.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Myron Gardner",
+      "timestamp": "01:36",
+      "summary_phrase": "Myron Gardner on the energy provided by Davion's dunks",
+      "names_mentioned": [
+        "Davion"
+      ],
+      "excerpt": "Plays like that pump energy into the whole team and it trickle down from staff down.",
+      "quote": "Plays like that pump energy into the whole team and it trickle down from staff down, so we we feed off that, we need that every night.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Myron Gardner says the team feeds off the energy provided by Davion's dunks every night.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Davion"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Myron Gardner discusses how high-energy plays from Davion impact the team's momentum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Myron Gardner",
+      "timestamp": "02:24",
+      "summary_phrase": "Myron Gardner on his role and making simple plays",
+      "names_mentioned": [],
+      "excerpt": "I'm just doing the easy part for real, making the right play, the simple play.",
+      "quote": "I'm just making sure I'm taking the emphasis on that, and I'm just doing the easy part for real, making the right play, the simple play instead of I ain't got to do nothing too crazy outside my box, just whatever the team needs.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Myron Gardner on his role: I am just doing the easy part for real, making the right play and the simple play.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Myron Gardner speaks about his approach to his role and focusing on making simple, correct plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Myron Gardner",
+      "timestamp": "02:48",
+      "summary_phrase": "Myron Gardner on facing former teammates on the Bucks",
+      "names_mentioned": [
+        "Giannis Antetokounmpo",
+        "Tyler",
+        "Jaime",
+        "Caleb",
+        "Kass"
+      ],
+      "excerpt": "Those are my guys, so it's going to be good to see them.",
+      "quote": "Those are my guys, so it's going to be good to see them, but you know we compete for sure. Even when they was here we was in practice the same thing, we cross the lines it's time to go.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Myron Gardner on facing his former Bucks teammates: Those are my guys, but when we cross the lines it is time to go.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myron Gardner comments on the competitive mindset when facing former teammates now playing for the Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "LRskH2ZEEO0",
+  "url": "https://www.youtube.com/watch?v=LRskH2ZEEO0",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-17T04:00:27Z",
+  "duration_seconds": 193,
+  "processed_at": "2026-11-17T04:40:13Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

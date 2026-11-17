@@ -1,0 +1,529 @@
+{
+  "video_title": "Cavs vs Bulls | Donovan Mitchell, Tyrese Proctor, & Jarrett Allen Post Game | 11.16.2026",
+  "speakers_seen": [
+    "Donovan Mitchell",
+    "Tyrese Proctor",
+    "Jarrett Allen"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "00:10",
+      "summary_phrase": "Donovan Mitchell on the importance of maintaining a constant offensive flow",
+      "names_mentioned": [],
+      "excerpt": "tonight was the first time where it was like a constant flow",
+      "quote": "It allows us to get easy buckets, not get stagnant, especially when teams want to grab and hold you. Making it an emphasis to start, it has been done in spurts, but tonight was the first time where it was like a constant flow. Even then, we can still be better with our spacing, but it is so unpredictable, tough to guard, and you see what we look like when we do that. We just have to keep it going, keep building on it.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Donovan Mitchell on the Cavs finding a constant offensive flow: It allows us to get easy buckets and not get stagnant. When we play like this, we are unpredictable and tough to guard.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell discusses the importance of maintaining a constant offensive flow during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "01:23",
+      "summary_phrase": "Donovan Mitchell on the development of Tyrese Proctor and Evan Mobley",
+      "names_mentioned": [
+        "Tyrese Proctor",
+        "Evan Mobley"
+      ],
+      "excerpt": "Obviously we talk about Tyrese Proctor and Evan Mobley how they have been a shock to everybody",
+      "quote": "That kind of plays into a lot of the ebbs and flows of the season. That is not an excuse; we still should win games that we have lost. But I also think that is part of the development, understanding what you have. Obviously we talk about Tyrese Proctor and Evan Mobley how they have been a shock to everybody in a sense, allowing them to give them a little more free rein, but then also finding ways to eliminate some of the tougher shots.",
+      "text_blocks": [],
+      "start_seconds": 83,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Donovan Mitchell on the development of Tyrese Proctor and Evan Mobley: They have been a shock to everybody in a sense, allowing them to have a little more free rein.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Proctor",
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell reflects on the development of younger players like Tyrese Proctor and Evan Mobley throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "02:59",
+      "summary_phrase": "Donovan Mitchell on the confidence and hunger of the younger players",
+      "names_mentioned": [
+        "Malik",
+        "James"
+      ],
+      "excerpt": "They have a confidence, they have a hunger, tenacity",
+      "quote": "They have a confidence, they have a hunger, tenacity. I think the biggest thing now is that has been developed and established. Now it is the details, the learning, and you are trying to transfer that. There is an instance where I am using Malik as an example: James is on the right wing, he has an iso, Malik wants to set a rip screen for me, a flare screen for me and slip. But sometimes the right play is just standing there and letting James attack and then cut. The intention is right, but the timing is wrong.",
+      "text_blocks": [],
+      "start_seconds": 179,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Donovan Mitchell on coaching up the young guys: The intention is right, but the timing is wrong. It is all about the details and learning how to let the play develop.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Malik"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell explains the importance of timing and decision-making for younger teammates during offensive possessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "04:18",
+      "summary_phrase": "Donovan Mitchell on Tyrese Proctor's aggressive play and confidence",
+      "names_mentioned": [
+        "Tyrese Proctor",
+        "James"
+      ],
+      "excerpt": "It is the confidence and aggressiveness. He works on his game",
+      "quote": "It is the confidence and aggressiveness. He works on his game. I think for him, just continue to be that. It becomes tough to guard. If you are trying to stop myself, trying to stop James from scoring, and he is getting downhill and creating, and he is not even just scoring, he is getting downhill and making plays. He had a beautiful pass to the corner, I forgot who shot it off of a drive. That is really going to help us in the regular season but also come playoff time too.",
+      "text_blocks": [],
+      "start_seconds": 258,
+      "end_seconds": 294,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Donovan Mitchell on Tyrese Proctor: He works on his game. If you are trying to stop myself or James from scoring and he is getting downhill and creating, it becomes tough to guard.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Proctor"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell praises the confidence and aggressive playmaking ability of Tyrese Proctor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "06:24",
+      "summary_phrase": "Donovan Mitchell on the energy and effort provided by Norchad Omier",
+      "names_mentioned": [
+        "Norchad Omier",
+        "TP",
+        "Malik"
+      ],
+      "excerpt": "He just provides energy and effort and that is really when you are trying to develop an identity",
+      "quote": "I am just glad we do not have to box him out no more in camps. That is my biggest thing. He just provides energy and effort and that is really when you are trying to develop an identity, develop and try to figure things out as a group. When you have guys like that, we talk about TP, Malik, but when you have a guy like Norchad Omier coming in and grabbing boards, finishing at the rim, knocking down threes, doing little things, teams do not account for that. He is making it easier for us, giving us extra possessions, doing it defensively.",
+      "text_blocks": [],
+      "start_seconds": 384,
+      "end_seconds": 424,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Donovan Mitchell on Norchad Omier: I am just glad we do not have to box him out anymore in camps. He provides energy and effort and is making it easier for us by giving us extra possessions.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Norchad Omier",
+          "Tyrese Proctor",
+          "Malik"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell highlights the energy and effort provided by Norchad Omier and other young teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyrese Proctor",
+      "timestamp": "07:18",
+      "summary_phrase": "Tyrese Proctor on the team's bench energy and performance",
+      "names_mentioned": [
+        "Malik",
+        "Norchad Omier",
+        "Jay",
+        "Ria",
+        "Craig"
+      ],
+      "excerpt": "Everyone has been great, just the energy, the spark that has been consistently coming on off the bench",
+      "quote": "Everyone has been great, just the energy, the spark that has been consistently coming on off the bench. I thought again Malik was great tonight and Norchad Omier was unbelievable. It has been a workhorse whenever he comes in providing energy and really getting us going, rebounding the basketball alongside with Jay and all the other guys. But I think those two in particular, but I think everyone has been coming in playing great. Ria, Craig, everyone has been doing a hell of a job.",
+      "text_blocks": [],
+      "start_seconds": 438,
+      "end_seconds": 471,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyrese Proctor on the bench energy: Everyone has been great. The spark that has been consistently coming off the bench is huge for us.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Malik",
+          "Norchad Omier"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Proctor discusses the spark and energy provided by the bench players during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tyrese Proctor",
+      "timestamp": "08:06",
+      "summary_phrase": "Tyrese Proctor on Jarrett Allen's unique skill set and effort",
+      "names_mentioned": [
+        "Jarrett Allen",
+        "James",
+        "Don"
+      ],
+      "excerpt": "Jarrett Allen is so unique in a player like he does everything out there",
+      "quote": "Jarrett Allen is so unique in a player like he does everything out there. I think it gets swept under the rug sometimes a little bit, but just his effort on the glass consistently, his willing to not I would not say change, but just adapt to the way that defenses are starting to guard us, especially James and Don. But now you know with me getting more minutes and stuff, just pick and roll things, you know we are always in constant communication trying to just figure out how we can find two-on-ones, how we can get little easy touches.",
+      "text_blocks": [],
+      "start_seconds": 486,
+      "end_seconds": 525,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyrese Proctor on Jarrett Allen: He is so unique. He does everything out there. It gets swept under the rug sometimes, but his effort on the glass is consistent.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jarrett Allen"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Proctor discusses the unique skill set and effort Jarrett Allen brings to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tyrese Proctor",
+      "timestamp": "08:56",
+      "summary_phrase": "Tyrese Proctor on the team's identity of being aggressive",
+      "names_mentioned": [],
+      "excerpt": "Coming out, being the aggressors first and foremost, throwing the first punch",
+      "quote": "Coming out, being the aggressors first and foremost, throwing the first punch, and then just playing basketball how it should be played, moving the ball, scrambling on defense. It is not always going to be perfect. I think you know just the constant efforts, the one percenters, I think we have been doing that consistently now, starting to find a really good rhythm and we are going to just need to continue to do that game after game now.",
+      "text_blocks": [],
+      "start_seconds": 536,
+      "end_seconds": 566,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyrese Proctor on the team identity: Coming out, being the aggressors first and foremost, throwing the first punch, and then just playing basketball how it should be played.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Tyrese Proctor describes the team's identity of being aggressive and maintaining consistent effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tyrese Proctor",
+      "timestamp": "10:43",
+      "summary_phrase": "Tyrese Proctor on Norchad Omier's consistent energy and rebounding",
+      "names_mentioned": [
+        "Norchad Omier"
+      ],
+      "excerpt": "He is a dog, he just comes in provides energy, provides a spark",
+      "quote": "He is a dog, he just comes in provides energy, provides a spark, just his willpower to not I would not say change, but just get through anyone and just get the ball is unbelievable. I said before I played him all for three years in college and every year it was getting him off the boards and he ended up with rebounds every single game. I do not know how he does it, but we are going to continue to need him to just give us that spark.",
+      "text_blocks": [],
+      "start_seconds": 643,
+      "end_seconds": 677,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Tyrese Proctor on Norchad Omier: He is a dog. I played against him for three years in college and every year it was getting him off the boards. I do not know how he does it, but he is unbelievable.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Norchad Omier"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Proctor reflects on playing against Norchad Omier in college and his consistent rebounding ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jarrett Allen",
+      "timestamp": "12:09",
+      "summary_phrase": "Jarrett Allen on the team's pace and ball movement",
+      "names_mentioned": [],
+      "excerpt": "Just getting our pace out there, we just built from what the young guys did last game",
+      "quote": "Just getting our pace out there, we just built from what the young guys did last game and tried to carry it over to this one and just try to share the ball and kick it ahead and just make sure that they could not keep up with our pace.",
+      "text_blocks": [],
+      "start_seconds": 729,
+      "end_seconds": 748,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jarrett Allen on the team pace: We just built from what the young guys did last game and tried to carry it over to this one and share the ball.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jarrett Allen explains how the team focused on pace and sharing the ball to maintain an advantage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jarrett Allen",
+      "timestamp": "12:30",
+      "summary_phrase": "Jarrett Allen on the team's collective effort and energy",
+      "names_mentioned": [
+        "Don",
+        "Donovan"
+      ],
+      "excerpt": "I was just looking at how Don attacked the rim and how I attacked the boards",
+      "quote": "I was just looking at how Don attacked the rim and how I attacked the boards and just how everybody followed after that. I think he is, especially him, he is the leader in that energy and effort that he put forth tonight, really trickled down to everybody else.",
+      "text_blocks": [],
+      "start_seconds": 750,
+      "end_seconds": 769,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jarrett Allen on Donovan Mitchell: He is the leader in that energy and effort that he put forth tonight, and it really trickled down to everybody else.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jarrett Allen credits Donovan Mitchell for leading the team in energy and effort during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Jarrett Allen",
+      "timestamp": "12:49",
+      "summary_phrase": "Jarrett Allen on Norchad Omier's tenacity on the boards",
+      "names_mentioned": [
+        "Norchad Omier"
+      ],
+      "excerpt": "Norchad Omier, he is a beast down there",
+      "quote": "Norchad Omier, he is a beast down there. Some of the calls, he was not moving and those were offensive fouls against him, but that just shows the want and how much he wants to attack the glass and make a difference on this team.",
+      "text_blocks": [],
+      "start_seconds": 769,
+      "end_seconds": 786,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jarrett Allen on Norchad Omier: He is a beast down there. That just shows the want and how much he wants to attack the glass and make a difference on this team.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Norchad Omier"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jarrett Allen discusses Norchad Omier's tenacity and desire to attack the glass.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Jarrett Allen",
+      "timestamp": "13:33",
+      "summary_phrase": "Jarrett Allen on the younger players' readiness for big moments",
+      "names_mentioned": [],
+      "excerpt": "How ready they are for the big moment, you can throw them in in any situation",
+      "quote": "How ready they are for the big moment, you can throw them in in any situation and they are going to go out there and have the utmost confidence in themselves and prove to everybody in the world why they belong on the NBA roster and that is excellent for them and I think they are going to keep on improving.",
+      "text_blocks": [],
+      "start_seconds": 813,
+      "end_seconds": 836,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jarrett Allen on the young guys: You can throw them in any situation and they are going to go out there and have the utmost confidence in themselves.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Jarrett Allen comments on the readiness and confidence of the younger players in big moments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Jarrett Allen",
+      "timestamp": "14:59",
+      "summary_phrase": "Jarrett Allen on learning the tendencies of different big men",
+      "names_mentioned": [
+        "TB",
+        "Norchad",
+        "Evan",
+        "Mario"
+      ],
+      "excerpt": "You just have to learn their tendencies, TB he is going to pop",
+      "quote": "You just have to learn their tendencies. TB he is going to pop, with Norchad we are on the floor together, and it is just learning when we are both not really shooting bigs, except for Norchad he is 50 percent, he is up with up there with me, but just learning how to be in the flow of an offense, especially if he is not going to shoot the ball as much as Evan and with Mario, he can be a little wonky sometimes, so you just have to go out there and learn how he is going to play.",
+      "text_blocks": [],
+      "start_seconds": 899,
+      "end_seconds": 938,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jarrett Allen on learning big man tendencies: You just have to learn how to be in the flow of an offense. It is all about learning how everyone is going to play.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Norchad Omier",
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jarrett Allen discusses the process of learning the different tendencies of his fellow big men on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Jarrett Allen",
+      "timestamp": "15:34",
+      "summary_phrase": "Jarrett Allen on Norchad Omier's rapid learning curve",
+      "names_mentioned": [
+        "Norchad"
+      ],
+      "excerpt": "Learning so quickly, you can throw him out in one scenario, might make a mistake",
+      "quote": "Learning so quickly, you can throw him out in one scenario, might make a mistake, but he is not going to make the same mistake twice. That is crucial when you are out there playing.",
+      "text_blocks": [],
+      "start_seconds": 934,
+      "end_seconds": 944,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jarrett Allen on Norchad Omier: He is learning so quickly. He might make a mistake, but he is not going to make the same mistake twice. That is crucial.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Norchad Omier"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jarrett Allen praises Norchad Omier for his ability to learn quickly and avoid repeating mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "1vUd5h60E-Y",
+  "url": "https://www.youtube.com/watch?v=1vUd5h60E-Y",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-17T04:14:15Z",
+  "duration_seconds": 944,
+  "processed_at": "2026-11-17T04:40:18Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,148 @@
+{
+  "video_title": "Steve Kerr states first quarter ‘deflated’ Warriors vs. Pelicans | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Steve Kerr"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Steve Kerr",
+      "timestamp": "00:03",
+      "summary_phrase": "Steve Kerr on the Warriors' poor start against the Pelicans",
+      "names_mentioned": [],
+      "excerpt": "another terrible start, you know, we tried to change it up from San Antonio",
+      "quote": "another terrible start, you know, we tried to change it up from San Antonio, change the starting lineup, but just didn't seem to have a lot of juice and we're going to have to change some combinations and find some things that work for us. We got some good looks early and it was one of those nights where shots didn't go, but it felt like that really deflated us and to lose the quarter like that, 35 to 11, it's so hard in this league to climb out of a hole like that, so that first quarter just doomed us.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Steve Kerr says the Warriors will have to change some combinations after a terrible start against the Pelicans. Kerr noted the 35 to 11 first quarter deflated the team and doomed them from the start.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "GSW",
+          "NOP",
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Steve Kerr discusses the Warriors poor first quarter performance against the Pelicans and his intention to adjust team rotations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Steve Kerr",
+      "timestamp": "02:25",
+      "summary_phrase": "Steve Kerr on managing the rookie's development and expectations",
+      "names_mentioned": [],
+      "excerpt": "he's a rookie, this is his first year and we're putting an enormous responsibility on his shoulders",
+      "quote": "he's a rookie, this is his first year and we're putting an enormous responsibility on his shoulders and so he has to go through this, there's no way around it. You can't cheat your way through that, you have to feel the highs and the lows and he cares about all this stuff, which is a great sign, but you have to learn how to manage that and how to learn from each situation.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Steve Kerr on managing his rookie through early season struggles. Kerr says you cannot cheat your way through the experience and the rookie has to feel the highs and the lows to learn and grow.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr discusses the challenges and learning process for a rookie player adjusting to the responsibilities of the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Steve Kerr",
+      "timestamp": "03:30",
+      "summary_phrase": "Steve Kerr on his communication and coaching approach with rookies",
+      "names_mentioned": [],
+      "excerpt": "I talk to him during games, I talk to him before shootarounds, at meetings",
+      "quote": "that's my job, you know, so I talk to him during games, I talk to him before shootarounds, at meetings. I mean, we talk all the time and he's doing great. We're talking about a guy who's now played 14 NBA games and he's doing a great job and so we'll keep helping him and he'll keep learning and growing and the guy's got an amazing future.",
+      "text_blocks": [],
+      "start_seconds": 210,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Steve Kerr says he is in constant communication with his rookie to help him navigate his first 14 NBA games. Kerr remains confident in the player saying he has an amazing future.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr describes his communication process and support for a rookie player early in his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Steve Kerr",
+      "timestamp": "05:12",
+      "summary_phrase": "Steve Kerr on the need for spacing and shooting without Steph Curry",
+      "names_mentioned": [
+        "Draymond",
+        "LJ"
+      ],
+      "excerpt": "without Steph, obviously we're looking for different combinations that are going to click",
+      "quote": "one of the things that I saw against San Antonio was Draymond needed LJ's shooting with him in the pick and roll game and so that's why we started LJ. Draymond got him a couple great looks early, they didn't go, it's going to happen, it's just one of those nights for LJ, but without Steph, obviously we're looking for different combinations that are going to click and we've got to find some combos that provide the shooting and the spacing that we need and the cutting and it's early in the season, so we've got to experiment as well.",
+      "text_blocks": [],
+      "start_seconds": 312,
+      "end_seconds": 348,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Steve Kerr explains the Warriors are experimenting with lineups to find shooting and spacing while Steph Curry is out. Kerr says they are looking for combinations that click to help Draymond in the pick and roll.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Draymond Green",
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW",
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Steve Kerr explains the rationale behind his starting lineup choices and the need for spacing in the absence of Stephen Curry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "UIeSa7XxFpg",
+  "url": "https://www.youtube.com/watch?v=UIeSa7XxFpg",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-17T04:14:24Z",
+  "duration_seconds": 348,
+  "processed_at": "2026-11-17T04:39:52Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

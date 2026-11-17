@@ -1,0 +1,212 @@
+{
+  "video_title": "Rudy Gobert Postgame Interview With Alan Horton | 11.16.26",
+  "speakers_seen": [
+    "Rudy Gobert",
+    "Alan Horton"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rudy Gobert",
+      "speakers": [
+        "Unidentified reporter",
+        "Rudy Gobert"
+      ],
+      "timestamp": "00:14",
+      "summary_phrase": "Rudy Gobert on the Timberwolves' response after the Chicago loss",
+      "names_mentioned": [],
+      "excerpt": "This is not the team that we are. This is not the team that we wanted to be.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Rudy, congratulations. What was the focus like tonight, especially after the game the other night against Chicago, in trying to get back on track tonight?"
+        },
+        {
+          "speaker": "Rudy Gobert",
+          "text": "Just hungry. Obviously, we weren't happy with our performance a couple days ago. This is not the team that we are. This is not the team that we wanted to be. So, I'm proud of the way we responded today."
+        }
+      ],
+      "start_seconds": 14,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Rudy Gobert on the Timberwolves bouncing back after the loss to Chicago: This is not the team that we are. I am proud of the way we responded today.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert discusses the team's mindset following a previous loss to Chicago.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rudy Gobert",
+      "speakers": [
+        "Alan Horton",
+        "Rudy Gobert"
+      ],
+      "timestamp": "00:39",
+      "summary_phrase": "Rudy Gobert on his individual performance and defensive impact",
+      "names_mentioned": [
+        "Cj Elleby"
+      ],
+      "excerpt": "Just got to be who I am, you know, just dominate on both ends. That's it.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Alan Horton",
+          "text": "How about your mindset individually? You had 18 points, 15 rebounds, two blocks, three assists, a plus-eight. You were actively looking for your shot. Do you feel like you have to win those matchups with whoever you're going against and kind of negate what they can do, like Cj Elleby tonight?"
+        },
+        {
+          "speaker": "Rudy Gobert",
+          "text": "Just got to be who I am, you know, just dominate on both ends. That's it."
+        }
+      ],
+      "start_seconds": 39,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Rudy Gobert on his mindset after a double double performance against the Blazers: Just got to be who I am, you know, just dominate on both ends. That is it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "CJ Elleby"
+        ],
+        "teams": [
+          "MIN",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert reflects on his individual performance and defensive approach against CJ Elleby.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rudy Gobert",
+      "speakers": [
+        "Unidentified reporter",
+        "Rudy Gobert"
+      ],
+      "timestamp": "01:03",
+      "summary_phrase": "Rudy Gobert on Jaden McDaniels' impact against the Trail Blazers",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "He was incredible, you know, just gave us a big lift.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How good was Jaden McDaniels tonight?"
+        },
+        {
+          "speaker": "Rudy Gobert",
+          "text": "He was incredible, you know, just gave us a big lift. Especially starting in the second quarter when he started attacking in transition. Yeah, he gave us a big lift tonight."
+        }
+      ],
+      "start_seconds": 63,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Rudy Gobert on Jaden McDaniels performance against Portland: He was incredible, you know, just gave us a big lift.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN",
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert praises Jaden McDaniels for his impactful performance against the Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rudy Gobert",
+      "speakers": [
+        "Unidentified reporter",
+        "Rudy Gobert"
+      ],
+      "timestamp": "01:20",
+      "summary_phrase": "Rudy Gobert on team-wide contributions and defensive mindset",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "LaMelo Ball",
+        "Jaden McDaniels"
+      ],
+      "excerpt": "When we all come in with the mindset of playing defense, good things happen.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "It's not going to be everybody contributing every night. Anthony Edwards and LaMelo Ball have been such a big part of your guys' success early on, and they both kind of had off nights by their standards. But yet, Jaden McDaniels, you, Jaden, Jonathan, how big is that when you guys are getting contributions from other guys?"
+        },
+        {
+          "speaker": "Rudy Gobert",
+          "text": "Strength of the team is the team. When we all come in with the mindset of playing defense, good things happen. Anthony Edwards did a great job defensively. His shots didn't go in, but he did a great job defensively tonight. And LaMelo Ball just brings so much attention, you know, that sometimes even when the shots don't go in, he still does a lot of good things for us. So that's the way we want to play. That's where we are the most dangerous team when we don't know who's going to score."
+        }
+      ],
+      "start_seconds": 80,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Rudy Gobert on the Timberwolves depth: Strength of the team is the team. That is where we are the most dangerous team when we do not know who is going to score.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards",
+          "LaMelo Ball",
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rudy Gobert highlights the importance of collective defensive contributions from teammates despite individual shooting struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "hlGg43Au058",
+  "url": "https://www.youtube.com/watch?v=hlGg43Au058",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-17T04:05:16Z",
+  "duration_seconds": 140,
+  "processed_at": "2026-11-17T04:40:01Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

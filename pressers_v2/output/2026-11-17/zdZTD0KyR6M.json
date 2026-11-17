@@ -1,0 +1,265 @@
+{
+  "video_title": "Ime Udoka Post-Game Interview vs Heat | 11/16/2026",
+  "speakers_seen": [
+    "Ime Udoka"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ime Udoka",
+      "timestamp": "00:14",
+      "summary_phrase": "Ime Udoka on Houston's poor defensive start against Miami",
+      "names_mentioned": [],
+      "excerpt": "they were the aggressive team, more physical team and we didn't handle it well",
+      "quote": "They were the aggressive from the start. They set the tone and we didn't react well to it. Felt like, obviously scoring 15 only in that quarter, 29-15, but catches were pushed out, the switches got a little stagnant. Anytime we touched the paint, they were swarming. They had too many turnovers and then felt like we rushed some shots or just bobbled the ball and couldn't get much going offensively. Felt like we were defending okay, it was 12-3 for a long time, six minutes in, and then ended up with 29 due to our turnovers, but give them credit. They were the aggressive team, more physical team and we didn't handle it well, especially in the first quarter from the start.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Ime Udoka says the Rockets failed to match the physicality of the Heat tonight. They were the more aggressive team from the start and Houston did not react well to the pressure.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ime Udoka discusses the Houston Rockets' poor offensive start and defensive struggles against the Miami Heat.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ime Udoka",
+      "timestamp": "01:25",
+      "summary_phrase": "Ime Udoka on Miami's dribble penetration and offensive aggression",
+      "names_mentioned": [
+        "Mitchell"
+      ],
+      "excerpt": "they were aggressive with on offense and defense, attacking the basket",
+      "quote": "Some dribble penetration, some guys that commanded the crowd and a lot of guys that we would probably live with some shots, knock some down. But like I said, give them credit. They were aggressive with on offense and defense, attacking the basket and to Cooper getting downhill, opening some things up for those guys. Mitchell with his penetration as well and then a lot of guys made shots where we missed those same open looks.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ime Udoka credits Miami for their offensive aggression, noting that the Heat were able to get downhill and create open looks while the Rockets struggled to contain dribble penetration.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ime Udoka analyzes Miami's offensive aggression and dribble penetration during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ime Udoka",
+      "timestamp": "01:52",
+      "summary_phrase": "Ime Udoka on Houston's rebounding and turnover issues",
+      "names_mentioned": [],
+      "excerpt": "we were the more physical, aggressive team and dominated us on the glass",
+      "quote": "We were the more physical, aggressive team and dominated us on the glass. I think 17 second chance, 25 second chance points, so that shows the effort or lack of toughness that we played with tonight. So it was kind of across the board, but it really started out for us offensively. We were defending okay, but the turnovers led to some leak outs and them just getting attacking and getting downhill, touching the paint.",
+      "text_blocks": [],
+      "start_seconds": 112,
+      "end_seconds": 141,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Ime Udoka calls out the Rockets effort on the glass tonight, citing 25 second chance points for Miami as a clear sign of a lack of toughness.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ime Udoka addresses the team's rebounding deficiencies and turnover issues against Miami.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ime Udoka",
+      "timestamp": "02:44",
+      "summary_phrase": "Ime Udoka on not using injuries as an excuse for the loss",
+      "names_mentioned": [],
+      "excerpt": "we're never going to make that excuse, so we got it done all year",
+      "quote": "We're never going to make that excuse, so we got it done all year with kind of mix and match things and we got enough, it's more on them and what they did than who we had out there. And so outside of them being the late scratch, we had the full compliment, full compliment of group ready back and and played not heavy minutes last night with the blowout. So back-to-backs are part of it, but have to be prepared for that and I think it was more about what they did than who we had out there.",
+      "text_blocks": [],
+      "start_seconds": 164,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Ime Udoka refuses to use injuries or back to back scheduling as an excuse for the loss to Miami. He says it is more about what the opponent did than who was available to play.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Ime Udoka explains that he is not using injuries or back-to-back scheduling as an excuse for the team's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ime Udoka",
+      "timestamp": "03:25",
+      "summary_phrase": "Ime Udoka on necessary adjustments to avoid future defensive lapses",
+      "names_mentioned": [
+        "Cooper"
+      ],
+      "excerpt": "off ball and on ball movement, we didn't set screens to slip out",
+      "quote": "Off ball and on ball movement, we didn't set screens to slip out, set screens to get hit unders, played to our off ball actions like we had been. Then it becomes a one-on-one game, which is fine, you have some favorable matchups, but then they're attacking the those matchups and if our passing is not as crisp or we're not spaced properly, leads to some of those turnovers. So we just got a little bit too stagnant from the start. To Cooper, continue to get to his right hand, we want to kind of shade him left and so a few tendencies and short close outs on shooters, hard close outs on non-shooters and a lot of them attack the basket, so those were more so that we gave it kind of like old-world defensive look.",
+      "text_blocks": [],
+      "start_seconds": 205,
+      "end_seconds": 258,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ime Udoka breaks down the Rockets offensive stagnation, noting that a lack of proper screening and spacing led to too many one on one situations and turnovers.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ime Udoka details the necessary offensive and defensive adjustments to improve spacing and ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ime Udoka",
+      "timestamp": "04:13",
+      "summary_phrase": "Ime Udoka on defensive breakdown in the second quarter",
+      "names_mentioned": [
+        "Cooper"
+      ],
+      "excerpt": "we stopped defending as well as we were",
+      "quote": "We stopped defending as well as we were. Like I said, it was a 10-point game and we were felt fortunate to only be down 10 how poorly we were shooting, but we were still defending at a decent level and then let that go. Tendencies they got to, we let some of our hot shooters get open looks and then to Cooper, continue to get to his right hand, we want to kind of shade him left and so a few tendencies and short close outs on shooters, hard close outs on non-shooters and a lot of them attack the basket, so those were more so that we gave it kind of like old-world defensive look.",
+      "text_blocks": [],
+      "start_seconds": 253,
+      "end_seconds": 298,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ime Udoka says the Rockets defensive intensity dropped off in the second quarter, allowing Miami shooters to get open looks and failing to execute the game plan on close outs.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ime Udoka reflects on the defensive breakdown and failure to execute scouting report tendencies in the second quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ime Udoka",
+      "timestamp": "04:47",
+      "summary_phrase": "Ime Udoka on defending Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Giannis"
+      ],
+      "excerpt": "he likes to go away from the crowd, especially in the post",
+      "quote": "Like I said, he got back to his right hand and kind of bullied us a little bit there and when he puts his head down, we want to be aggressive and make plays. He likes to go away from the crowd, especially in the post and let him get to his spots too easily. So solid overall early, I think he got it going in transitions due to some of our turnovers and a little too aggressive. We didn't meet his physicality in the post later.",
+      "text_blocks": [],
+      "start_seconds": 287,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Ime Udoka says the Rockets failed to meet the physicality of their opponent in the post, allowing them to get to their spots too easily and failing to force them away from their preferred hand.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "HOU",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Ime Udoka discusses the defensive challenges of containing Giannis Antetokounmpo in the post.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Ime Udoka",
+      "timestamp": "05:19",
+      "summary_phrase": "Ime Udoka on the long-term status of the player's injury",
+      "names_mentioned": [],
+      "excerpt": "he's dealt with it for years now, he has tendinitis",
+      "quote": "He's dealt with it for years now, he has tendinitis and he manages it pretty well and takes care of it. It was a flare up last night, if not for the back-to-back, I'm sure he would have been able to play.",
+      "text_blocks": [],
+      "start_seconds": 319,
+      "end_seconds": 335,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Ime Udoka provides an update on a player dealing with chronic tendinitis, noting it was a flare up that kept him out of tonight's game.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Ime Udoka provides an update on a player's chronic tendinitis injury that caused him to miss the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "zdZTD0KyR6M",
+  "url": "https://www.youtube.com/watch?v=zdZTD0KyR6M",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-17T03:52:11Z",
+  "duration_seconds": 340,
+  "processed_at": "2026-11-17T04:40:36Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

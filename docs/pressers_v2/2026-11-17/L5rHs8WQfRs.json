@@ -1,0 +1,572 @@
+{
+  "video_title": "Ryan Conwell and Myron Gardner Talks Miami Heat Win Streak, Making Their Impact, Giannis' Play & GTA",
+  "speakers_seen": [
+    "Ryan Conwell",
+    "Myron Gardner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ryan Conwell",
+      "timestamp": "00:25",
+      "summary_phrase": "Ryan Conwell on the team's resilience after early season losses",
+      "names_mentioned": [],
+      "excerpt": "throughout this whole stretch from the beginning of the season to now we've always been together",
+      "quote": "We've always been together from the start. Obviously when we come in after a loss, people are down and we're just trying to figure things out, but throughout this whole stretch from the beginning of the season to now we've always been together, working together, working with the coaches and just trying to figure this thing out and I think it's all coming around. So we just got to take it one day at a time, keep trusting each other and keep playing together.",
+      "text_blocks": [],
+      "start_seconds": 25,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ryan Conwell on the Heat finding their rhythm after a slow start: We have always been together from the start and just trying to figure this thing out and I think it is all coming around.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ryan Conwell discusses the team's collective effort and resilience throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ryan Conwell",
+      "timestamp": "01:04",
+      "summary_phrase": "Coach Spoelstra's emphasis on limiting opponent three-point attempts",
+      "names_mentioned": [
+        "Spo"
+      ],
+      "excerpt": "he's always reminding us about taking away those air space threes and getting teams off the line",
+      "quote": "It's been a huge emphasis. Coach Spo, he preaches it about every single day and during the game he's always reminding us about taking away those air space threes and getting teams off the line just so that we could be one of those top defenses in the league. So it's been a big emphasis and I think we've all bought into that and made an emphasis out there on the floor.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ryan Conwell says Coach Spoelstra has made limiting opponent three point attempts a massive daily emphasis to help the Heat become a top defensive team.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Erik Spoelstra"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ryan Conwell explains the defensive emphasis placed on limiting opponent three-point attempts by head coach Erik Spoelstra.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ryan Conwell",
+      "timestamp": "01:44",
+      "summary_phrase": "Ryan Conwell on film study and learning the game",
+      "names_mentioned": [
+        "Dan"
+      ],
+      "excerpt": "just a lot just being around the staff and watching a lot of film",
+      "quote": "It's definitely something I've been working on, just a lot just being around the staff and watching a lot of film. I would say that's just helped me a lot just with Coach Dan and all the coaching staff just watching film, just being able to understand the game better and I think just with experience, just being out there on the floor, just seeing different things happen. Obviously D-Mitch, he's been passing the ball extremely well at a high level so that definitely helps just me being out there on the floor and also seeing him from the bench, seeing his reads.",
+      "text_blocks": [],
+      "start_seconds": 104,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ryan Conwell credits watching film with the coaching staff and observing Davion Mitchell for helping him understand the game at a higher level.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Davion Mitchell"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ryan Conwell discusses his film study process and learning from Davion Mitchell's playmaking.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ryan Conwell",
+      "timestamp": "02:44",
+      "summary_phrase": "Ryan Conwell on matching the defensive energy of teammates",
+      "names_mentioned": [
+        "Spo"
+      ],
+      "excerpt": "every single time when Spo puts me in a game I try to match that energy",
+      "quote": "I'm definitely inspired by that and every single time when Spo puts me in a game I try to match that energy or even raise the level of the energy, especially on the defensive end. My biggest thing is I don't want it to drop. So as soon as I come in the game, I just want to disrupt, get deflections, get on the other team's nerves.",
+      "text_blocks": [],
+      "start_seconds": 164,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ryan Conwell on his defensive mindset: As soon as I come in the game I just want to disrupt, get deflections, and get on the other team's nerves.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Erik Spoelstra"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ryan Conwell describes his goal of maintaining high defensive energy whenever he enters the game for Erik Spoelstra.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ryan Conwell",
+      "timestamp": "03:36",
+      "summary_phrase": "Ryan Conwell on the gravity and impact of Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Giannis"
+      ],
+      "excerpt": "his gravity is crazy obviously never played with a player of that magnitude",
+      "quote": "His gravity is crazy obviously never played with a player of that magnitude and just to see the different things he does with and without the ball and just how teams are just always keying on him and how it makes it easier for all of us. I mean we're all thankful to be on the team with him for sure.",
+      "text_blocks": [],
+      "start_seconds": 216,
+      "end_seconds": 239,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Ryan Conwell on playing with Giannis Antetokounmpo: His gravity is crazy. I have never played with a player of that magnitude and it makes it easier for all of us.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Conwell reflects on the impact of playing alongside Giannis Antetokounmpo and the gravity he creates on the floor.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ryan Conwell",
+      "timestamp": "04:15",
+      "summary_phrase": "Ryan Conwell on coaching adjustments for defensive coverage",
+      "names_mentioned": [
+        "Giannis"
+      ],
+      "excerpt": "I give a lot of credit to the coaches just throughout the film sessions",
+      "quote": "I give a lot of credit to the coaches just throughout the film sessions that we have before and after the games just how we are able just to talk about those different things when teams load up depending on where Giannis is at on the floor, whether he's at the top or on the wing or where he's posting up, different things like that and how teams will blitz and basically just how we'll cut off of that and move off of that, just take pressure off of him and then try to just take just time and just pressure off of him for real.",
+      "text_blocks": [],
+      "start_seconds": 255,
+      "end_seconds": 296,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ryan Conwell breaks down how the Heat adjust their offensive movement and cutting based on where Giannis Antetokounmpo is positioned on the floor.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ryan Conwell discusses how the coaching staff prepares the team to adjust their movement based on Giannis Antetokounmpo's positioning.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ryan Conwell",
+      "timestamp": "05:07",
+      "summary_phrase": "Ryan Conwell on learning to guard players like Fred VanVleet",
+      "names_mentioned": [
+        "Fred VanVleet"
+      ],
+      "excerpt": "he just wants me to just be a great player in this league and he believes in me",
+      "quote": "Those are the things I don't forget to be honest but you know obviously you got to move on from them and I know he just wants me to just be a great player in this league and he believes in me. I would say it just keeps my focus high every time I'm out there on the floor just different ways I have to guard different players and obviously I get the short end of the stick sometimes but I'm thankful for it because I know that's only going to make me better.",
+      "text_blocks": [],
+      "start_seconds": 307,
+      "end_seconds": 343,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ryan Conwell on the challenges of guarding elite players like Fred VanVleet: I get the short end of the stick sometimes but I am thankful for it because I know that is only going to make me better.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Fred VanVleet"
+        ],
+        "teams": [
+          "MIA",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Ryan Conwell discusses the challenges of guarding high-level players like Fred VanVleet and his growth as a defender.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Ryan Conwell",
+      "timestamp": "05:58",
+      "summary_phrase": "Ryan Conwell on his role of being scrappy and crashing the glass",
+      "names_mentioned": [
+        "Spo"
+      ],
+      "excerpt": "just coming in just being scrappy just crashing glasses just putting pressure on the other team",
+      "quote": "Especially just my role just coming in just doing the little things, just coming in just being scrappy just crashing glasses just putting pressure on the other team, just making the team just have to key in on me in a different type of way without the ball in my hands and it's definitely something we talk about and I try to just do it every single game just be a high energy player and just disrupt any way I can and just get extra possessions for the team.",
+      "text_blocks": [],
+      "start_seconds": 358,
+      "end_seconds": 392,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ryan Conwell on his role with the Heat: I just try to be a high energy player, crash the glass, and disrupt any way I can to get extra possessions for the team.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ryan Conwell describes his role as a high-energy player focused on rebounding and disruption.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Ryan Conwell",
+      "timestamp": "06:38",
+      "summary_phrase": "Ryan Conwell on the energy and chemistry with Myron Gardner",
+      "names_mentioned": [
+        "Myron"
+      ],
+      "excerpt": "me and him both just try to do the same thing come in disrupt just do the little things",
+      "quote": "Our energy, Myron, same way like he comes in with just max energy every play every possession and me and him both just try to do the same thing come in disrupt just do the little things, try to take the pressure off of our teammates and obviously Myron he can space the floor, get downhill, just a very versatile player as well. So I mean it's fun just being out there with high energy guys when I'm a high energy guy myself and just running around and just playing hard is fun.",
+      "text_blocks": [],
+      "start_seconds": 398,
+      "end_seconds": 434,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Ryan Conwell on his chemistry with Myron Gardner: It is fun being out there with other high energy guys. We both just try to come in and disrupt.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Myron Gardner"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ryan Conwell discusses the chemistry and shared high-energy playing style he has with teammate Myron Gardner.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Ryan Conwell",
+      "timestamp": "07:20",
+      "summary_phrase": "Ryan Conwell on adapting to different teams and roles",
+      "names_mentioned": [],
+      "excerpt": "having to move to different cities you know just interact with different people different coaches",
+      "quote": "Having to move to different cities you know just interact with different people different coaches just being adaptable, I would say that's really helped me just throughout my college career and being in this position now and then just being able to adapt on the floor. In college my role wasn't always the same as well, obviously the ball was mostly in my hands throughout college but I've always just had to be an adaptable player playing with different players and I think that's definitely helped me now and I just want to continue to grow in that role.",
+      "text_blocks": [],
+      "start_seconds": 440,
+      "end_seconds": 478,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ryan Conwell reflects on his college career and how being an adaptable player has helped him transition into his current role with the Heat.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ryan Conwell reflects on how his college experience and adaptability have prepared him for his current role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Myron Gardner",
+      "timestamp": "08:16",
+      "summary_phrase": "Myron Gardner on the team's defensive improvement",
+      "names_mentioned": [
+        "Spo"
+      ],
+      "excerpt": "just more attention to detail just more buying into the culture and what Spo believes we should do",
+      "quote": "Just more attention to detail just more buying into the culture and what Spo believes we should do on defense and I feel like we've been doing more of that.",
+      "text_blocks": [],
+      "start_seconds": 496,
+      "end_seconds": 508,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Myron Gardner on the Heat's defensive turnaround: It is just more attention to detail and more buying into the culture and what Spo believes we should do.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Erik Spoelstra"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Myron Gardner discusses the team's improved defensive performance by buying into Erik Spoelstra's culture.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Myron Gardner",
+      "timestamp": "08:38",
+      "summary_phrase": "Myron Gardner on Giannis Antetokounmpo's impact without the ball",
+      "names_mentioned": [
+        "Giannis"
+      ],
+      "excerpt": "him rolling rim running to the board rim running and getting offensive rebounds",
+      "quote": "It's a lot of impact just him rolling rim running to the board rim running and getting offensive rebounds. He got a lot of gravity to him so he make the game for us easier.",
+      "text_blocks": [],
+      "start_seconds": 518,
+      "end_seconds": 531,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Myron Gardner on the impact of Giannis Antetokounmpo: He has a lot of gravity to him. His rim running and offensive rebounding make the game easier for all of us.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Myron Gardner explains how Giannis Antetokounmpo's rim running and gravity make the game easier for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Myron Gardner",
+      "timestamp": "08:55",
+      "summary_phrase": "Myron Gardner on his chemistry with Ryan Conwell",
+      "names_mentioned": [
+        "Ryan"
+      ],
+      "excerpt": "we got a lot of chemistry together from the summer so we always mesh well together",
+      "quote": "Yeah you know our see my guy, we got a lot of chemistry together from the summer so we always mesh well together when we are on the floor.",
+      "text_blocks": [],
+      "start_seconds": 535,
+      "end_seconds": 546,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Myron Gardner on his connection with Ryan Conwell: We have a lot of chemistry together from the summer so we always mesh well when we are on the floor.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ryan Conwell"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Myron Gardner comments on the chemistry he has developed with Ryan Conwell since the summer.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Myron Gardner",
+      "timestamp": "09:14",
+      "summary_phrase": "Myron Gardner on the impact of Davion Mitchell's dunks",
+      "names_mentioned": [
+        "Davion"
+      ],
+      "excerpt": "players like that put them energy into the whole team and it trickle down from staff down",
+      "quote": "Players like that put them energy into the whole team and it trickle down from staff down so we we feed off that we need that every night.",
+      "text_blocks": [],
+      "start_seconds": 554,
+      "end_seconds": 565,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Myron Gardner on Davion Mitchell: Players like that put energy into the whole team and it trickles down from the staff. We feed off that every night.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Davion Mitchell"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Myron Gardner discusses the impact of Davion Mitchell's energy and dunks on the rest of the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Myron Gardner",
+      "timestamp": "09:50",
+      "summary_phrase": "Myron Gardner on showcasing his skills and trash talking",
+      "names_mentioned": [],
+      "excerpt": "good to be able to show my skills out there not just talking like back it up too",
+      "quote": "Good to be able to show my skills out there not just talking like back it up too so I know I could hoop show y'all that.",
+      "text_blocks": [],
+      "start_seconds": 590,
+      "end_seconds": 600,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Myron Gardner is ready to prove he can do more than just talk: It is good to be able to show my skills out there. Not just talking, like back it up too. I know I can hoop.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Myron Gardner expresses his desire to prove his skills on the court beyond just trash talking.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Myron Gardner",
+      "timestamp": "10:17",
+      "summary_phrase": "Myron Gardner on his role and making simple plays",
+      "names_mentioned": [],
+      "excerpt": "I'm just doing the easy part for real making the right play the simple plays",
+      "quote": "I'm just making sure I'm taking the emphasis on that and I'm just doing the easy part for real making the right play the simple plays instead of I ain't got to do nothing super crazy outside my box just whatever the team needs.",
+      "text_blocks": [],
+      "start_seconds": 617,
+      "end_seconds": 634,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Myron Gardner on his approach: I am just making the right play and the simple plays. I do not have to do anything super crazy outside my box, just whatever the team needs.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Myron Gardner describes his focus on making simple, correct plays to help the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Myron Gardner",
+      "timestamp": "10:41",
+      "summary_phrase": "Myron Gardner on facing former teammates",
+      "names_mentioned": [
+        "Giannis",
+        "Tyler",
+        "Jaime",
+        "Caleb",
+        "Caz"
+      ],
+      "excerpt": "they are my guys so it's going to be good to see them but we know we compete",
+      "quote": "They are my guys so it's going to be good to see them but we know we compete for sure. Even when they was here we was in practice the same thing and we crossed the lines it's time to go.",
+      "text_blocks": [],
+      "start_seconds": 641,
+      "end_seconds": 657,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Myron Gardner on facing former teammates: They are my guys so it will be good to see them, but we know we compete. When we cross the lines, it is time to go.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Myron Gardner discusses the competitive nature of facing former teammates in a game setting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "L5rHs8WQfRs",
+  "url": "https://www.youtube.com/watch?v=L5rHs8WQfRs",
+  "channel_team": "Miami Heat",
+  "published": "2026-11-17T04:34:21Z",
+  "duration_seconds": 668,
+  "processed_at": "2026-11-17T04:39:16Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

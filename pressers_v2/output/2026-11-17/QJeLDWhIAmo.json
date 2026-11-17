@@ -1,0 +1,339 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs. Warriors Postgame Interview 11/16/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:12",
+      "summary_phrase": "Jamahl Mosley on the team's defensive adjustments and growth",
+      "names_mentioned": [],
+      "excerpt": "they know what to do, they know how to do it and now it's that why",
+      "quote": "We talked about it at shootaround, we talked about it postgame last time, understanding how we need to defend, the direction we're heading and the adjustments we needed to make again just to help these guys feel a lot more comfortable in what we're asking them to do, because they know what to do, they know how to do it and now it's that why behind what we're trying to get it done.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on defensive adjustments: We talked about it at shootaround and postgame, understanding how we need to defend and the adjustments needed to help these guys feel comfortable in what we are asking them to do.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's defensive adjustments and growth following their previous game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:42",
+      "summary_phrase": "Jeremiah's continued growth and impact on both ends of the floor",
+      "names_mentioned": [
+        "Jeremiah"
+      ],
+      "excerpt": "his being able to set the table, but also find the time to pick and choose",
+      "quote": "What are we asking of him? Continued growth and then his being able to set the table, but also find the time to pick and choose his moments for when he can be aggressive to look for his own shot. And then the other part about it is being the head of the snake, of being able to defend, pick up full court, change the game with his energy, his attitude, his physicality and not backing down from anything going on out there.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Jeremiah: We are asking for continued growth, setting the table, picking his moments to be aggressive, and being the head of the snake on defense by picking up full court and changing the game with his energy.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley describes the expectations for Jeremiah's development and his role as a defensive leader.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:35",
+      "summary_phrase": "Jeremiah's maturity in letting the game come to him",
+      "names_mentioned": [
+        "Jeremiah"
+      ],
+      "excerpt": "he let the game come to him because you've seen a lot of games where guys will go chase",
+      "quote": "It's funny, at that moment I wasn't fully tuned into it, but you see the bench start to react and so you let him go. And it wasn't a thing where he was chasing it and that's the beautiful part about it. He let the game come to him because you've seen a lot of games where guys will go chase that. He wasn't doing that. He was playing the right way, getting things involved, knowing what he needed to do to help his team get a win and it was great to see him do that. That's the levels of maturity for him moving forward.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jamahl Mosley on Jeremiah's maturity: He let the game come to him. It was not a thing where he was chasing it, and that is the beautiful part about it. He was playing the right way to help his team get a win.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises Jeremiah for his maturity and ability to let the game come to him during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:42",
+      "summary_phrase": "The partnership between Z and Jeremiah in the pick and roll",
+      "names_mentioned": [
+        "Z",
+        "Jeremiah"
+      ],
+      "excerpt": "it's a partnership with those guys that you got to take your time, you got to be patient",
+      "quote": "It depends on who's guarding Z, it depends on how they're guarding Jeremiah in the pick and roll and sometimes they put the big on Z and sometimes they'll put the small and try to get the switch. Us understanding screening angles and how we want to set it and where we set it, the ability to recognize and make the read, but it's a partnership with those guys that you got to take your time, you got to be patient, guard you got to set them up, you got to get a good clean hit and then that pocket's got to find a way to be open.",
+      "text_blocks": [],
+      "start_seconds": 162,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley on the Z and Jeremiah pick and roll: It depends on who is guarding Z and how they guard Jeremiah. It is a partnership where you have to take your time, be patient, and set them up for a good clean hit.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Z",
+          "Jeremiah"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the tactical partnership between Z and Jeremiah in pick and roll situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:26",
+      "summary_phrase": "The team's response to the challenge of a previous loss",
+      "names_mentioned": [],
+      "excerpt": "if you don't have a sense of pride in that then you probably should step away",
+      "quote": "They took on that challenge. Last time they beat us by 51 and if you don't have a sense of pride in that then you probably should step away from trying to play the game because they did put it on us out there. So you have to remember that in the back of your mind, but you also have to remember how do you play the right way and what were the things that you did well in that game prior to that maybe shots just didn't fall.",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 240,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Jamahl Mosley on the team's response to a previous 51 point loss: If you do not have a sense of pride in that, then you probably should step away from trying to play the game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reflects on how the team responded to a previous 51-point loss against their current opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:15",
+      "summary_phrase": "Jeremiah's dynamic ability to space the floor and attack",
+      "names_mentioned": [
+        "Jeremiah"
+      ],
+      "excerpt": "his ability to space the floor if the big's going to be in that far of a drop",
+      "quote": "He's dynamic in that regard. His ability to space the floor if the big's going to be in that far of a drop, he's got to be willing to take the shot. And if he doesn't have the shot, then he moves it to the second side because he's great in the pick and roll being able to play in the pocket. And then teams were backing off him a lot and he has a heck of a dribble that he can get to the basket and get by most bigs.",
+      "text_blocks": [],
+      "start_seconds": 255,
+      "end_seconds": 290,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on Jeremiah's versatility: He is dynamic. His ability to space the floor if the big is in a drop is key, and if he does not have the shot, he moves it to the second side because he is great in the pick and roll.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley analyzes Jeremiah's dynamic offensive skill set and his ability to attack the basket.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:55",
+      "summary_phrase": "The importance of running the floor in transition",
+      "names_mentioned": [
+        "Fears",
+        "Carlo",
+        "Jeremiah"
+      ],
+      "excerpt": "it just goes to show that when you run the floor you will be rewarded",
+      "quote": "I thought it was fantastic. I really do and it just goes to show that when you run the floor you will be rewarded and sometimes bigs got to run the floor five to seven times to get it once and Carlo was able to get that there by Jeremiah being able to see it. I think that's huge that our first look as soon as that ball hits our hands we're looking up the floor because we want to play faster in transition with the throw aheads and touching the paint early.",
+      "text_blocks": [],
+      "start_seconds": 295,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley on transition play: It goes to show that when you run the floor you will be rewarded. Our first look as soon as that ball hits our hands we are looking up the floor because we want to play faster.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Carlo",
+          "Jeremiah"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley highlights the importance of running the floor in transition and the connection between Carlo and Jeremiah.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:36",
+      "summary_phrase": "The difficulty of officiating a physically strong player like Zion",
+      "names_mentioned": [
+        "Zion"
+      ],
+      "excerpt": "I understand he's very difficult to officiate because he's so physically strong and he can get to the lane",
+      "quote": "I understand he's very difficult to officiate because he's so physically strong and he can get to the lane and when you bump him it doesn't look like he's being affected, but the reality is he's being affected and I think that's where his frustration comes in a lot of times is because he's getting to the lane, they're swiping at the ball, they're swiping his hand and he may not always get that call because of his physical stature, but at the end of the day he is getting down into the paint.",
+      "text_blocks": [],
+      "start_seconds": 336,
+      "end_seconds": 372,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Jamahl Mosley on officiating Zion: He is very difficult to officiate because he is so physically strong. When you bump him it does not look like he is being affected, but the reality is he is being affected.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the challenges officials face when officiating a physically strong player like Zion Williamson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:25",
+      "summary_phrase": "Herb Jones's impact as a winner and team player",
+      "names_mentioned": [
+        "Herb"
+      ],
+      "excerpt": "Herb's a winner. I don't think there's any other way to put it. He's a professional",
+      "quote": "Herb's a winner. I don't think there's any other way to put it. He's a professional, he's a team guy. He is about whatever it takes to get the job done and that's what he brings to this team. He brings our locker room together, the way he communicates, the way guys feed off his energy and then defensively he just does special things, being able to play the passing lane, being physical, making sure he's getting tags and hits on the rollers, but chasing over screens.",
+      "text_blocks": [],
+      "start_seconds": 385,
+      "end_seconds": 418,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Herb Jones: Herb is a winner. He is a professional, a team guy, and he is about whatever it takes to get the job done. He brings our locker room together.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises Herb Jones for his professionalism, leadership, and defensive impact on the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "07:09",
+      "summary_phrase": "The focus on Jeremiah's continued growth and development",
+      "names_mentioned": [
+        "Jeremiah"
+      ],
+      "excerpt": "regardless of what that looks like, who's in, who's out, it looks like him continuing to grow",
+      "quote": "I'll say the same thing that I said before when you asked me about what's necessary needed from him. It's continued growth, regardless of what that looks like, who's in, who's out, it looks like him continuing to grow, to continue to find times to be able to be aggressive, set the table for guys, making sure he understands who's touched the basketball, who hasn't, pushing the pace. That's levels of growth and you saw some of that tonight.",
+      "text_blocks": [],
+      "start_seconds": 429,
+      "end_seconds": 459,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley on Jeremiah's development: It is continued growth, regardless of who is in or out. It looks like him continuing to grow, finding times to be aggressive, and making sure he understands who has touched the basketball.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reiterates the importance of Jeremiah's continued growth and development as a player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "QJeLDWhIAmo",
+  "url": "https://www.youtube.com/watch?v=QJeLDWhIAmo",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-17T04:33:21Z",
+  "duration_seconds": 474,
+  "processed_at": "2026-11-17T04:39:16Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}
