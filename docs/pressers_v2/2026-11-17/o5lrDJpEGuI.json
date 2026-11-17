@@ -1,0 +1,56 @@
+{
+  "video_title": "Coach Erik Spolestra on Giannis' passing and IQ",
+  "speakers_seen": [
+    "Erik Spoelstra"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:00",
+      "summary_phrase": "Erik Spoelstra on Giannis Antetokounmpo's offensive impact and basketball IQ",
+      "names_mentioned": [
+        "Giannis Antetokounmpo",
+        "Magic Johnson",
+        "Clay"
+      ],
+      "excerpt": "He can have that exponential impact on our offense just by being who he is",
+      "quote": "We controlled the entire tenor of the game offensively. He was Magic Johnson in the first 14 minutes of the game, setting everybody up. I love the collaboration and the connection that he and Clay are getting and it's growing each and every game. They're finding new ways to amplify each other. And then when he needed to be aggressive, he found different ways to get downhill and do what he does. He wasn't a bull in a china shop to start the game, it was setting everybody up and that's what we're talking about, exponential impact. He can have that exponential impact on our offense just by being who he is, as arguably at any given night the best player in the league, getting downhill but also getting a flow, allowing our offense to get into a flow. And that's where his IQ is coming in, of reading the game in the context of when to do what and I thought he was brilliant with that not only tonight but the other night.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra praises the offensive growth of his star player, noting he was like Magic Johnson in the first 14 minutes. Spoelstra says the team is seeing exponential impact from his ability to read the game and balance playmaking with aggression.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra discusses Giannis Antetokounmpo's offensive performance and basketball IQ following a game against the Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "o5lrDJpEGuI",
+  "url": "https://www.youtube.com/watch?v=o5lrDJpEGuI",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-17T15:27:29Z",
+  "duration_seconds": 81,
+  "processed_at": "2026-11-17T18:38:52Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,607 @@
+{
+  "video_title": "LIVE: Pelicans vs. Warriors Postgame Interviews 11/16/2026",
+  "speakers_seen": [
+    "Jeremiah Fears",
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "16:33",
+      "summary_phrase": "Jeremiah Fears on the Pelicans' defensive connection and team growth",
+      "names_mentioned": [],
+      "excerpt": "I think that's something we've been preaching the last couple games, just continue to stay together.",
+      "quote": "I think that's something we've been preaching the last couple games, just continue to stay together. It's been a tough stretch, obviously, but being connected, we talked about it at halftime as well, just continuing to be connected throughout the whole game and just continuing to focus on what we've been practicing. I think we've been doing a pretty good job of that, especially today. Last game, it wasn't the outcome, but we were taking steps in the right direction and today we ended up getting the win.",
+      "text_blocks": [],
+      "start_seconds": 993,
+      "end_seconds": 1027,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jeremiah Fears on the Pelicans finding their rhythm after a tough stretch: We have been preaching to just continue to stay together and stay connected throughout the whole game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears discusses the importance of team connection and staying together during a tough stretch of games.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "YQBo0fZN4Ac",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "17:07",
+      "summary_phrase": "Jeremiah Fears on his rebounding and team chemistry",
+      "names_mentioned": [
+        "Eve",
+        "DQ",
+        "Carlo"
+      ],
+      "excerpt": "My teammates was just in all the right spots, and just trying to help the bigs rebound.",
+      "quote": "I felt pretty good. My teammates was just in all the right spots, and just trying to help the bigs rebound. I know they got a tough task, obviously protecting the rim, and just being in all the right spots, and having our backs, so we got to have their backs on the crack downs. I was there for Eve, DQ, Carlo, all the bigs that played tonight. They had our backs, so we had to have their backs as well.",
+      "text_blocks": [],
+      "start_seconds": 1027,
+      "end_seconds": 1058,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jeremiah Fears on his rebounding effort: My teammates were in all the right spots and I am just trying to help the bigs rebound. They have our backs so we have to have their backs as well.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears explains his rebounding effort and his reliance on his teammates to protect the rim.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "YQBo0fZN4Ac",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "17:51",
+      "summary_phrase": "Jeremiah Fears on his chemistry with DeAndre",
+      "names_mentioned": [
+        "DeAndre"
+      ],
+      "excerpt": "I think DeAndre, best vet that I've had around the league.",
+      "quote": "I started to realize maybe two rebounds away. I think DeAndre, best vet that I've had around the league. I think he just did a great job just talking to me throughout the whole game, and that was something he was preaching, like continue to go grab the rebounds, continue to stay on the board, and don't chase it, just continue to do what you've been doing.",
+      "text_blocks": [],
+      "start_seconds": 1071,
+      "end_seconds": 1097,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jeremiah Fears credits DeAndre for his guidance on the boards: He is the best vet I have had around the league. He told me to continue to go grab the rebounds and do what I have been doing.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "DeAndre Jordan"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears credits DeAndre Jordan for his mentorship and advice on rebounding during the game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "YQBo0fZN4Ac",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "18:45",
+      "summary_phrase": "Jeremiah Fears on his development as a point guard",
+      "names_mentioned": [],
+      "excerpt": "The more you play the more experience you get.",
+      "quote": "Huge leap, especially from year one to year two. Reads obviously slow down, and like I said before the season started, just watching film, knowing kind of what's going to be open, and the more you play the more experience you get. And I think that's kind of been something that's that took a play into year two, and my teammates, like I said, they've last 10 to 12 games, they just been in all the right spots and just continuing to find them and I think that's my job as a point guard, to make sure my teammates get the great looks.",
+      "text_blocks": [],
+      "start_seconds": 1125,
+      "end_seconds": 1165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jeremiah Fears on his development as a point guard: Huge leap from year one to year two. The reads slow down and watching film helps me know what is going to be open.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears reflects on his growth as a point guard and the importance of finding teammates in the right spots.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "YQBo0fZN4Ac",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "19:30",
+      "summary_phrase": "Jeremiah Fears on his chemistry with Zion",
+      "names_mentioned": [
+        "Zion"
+      ],
+      "excerpt": "I think it's our chemistry, after practice, before practice we kind of work together.",
+      "quote": "I think it's our chemistry, after practice, before practice we kind of work together, watch a little bit of film as well, and just talk to talk to each other about what we see in the moment, even in the timeouts as well. And I think him using his voice and telling me kind of what he sees and me using my voice as well is it's been huge, and just continue to build that chemistry throughout the way.",
+      "text_blocks": [],
+      "start_seconds": 1170,
+      "end_seconds": 1200,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jeremiah Fears on building chemistry with Zion: We work together before and after practice and talk about what we see in the moment. Him using his voice and me using mine has been huge.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears discusses the chemistry he is building with Zion Williamson through film study and communication.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "YQBo0fZN4Ac",
+        "rank": 5
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "20:49",
+      "summary_phrase": "Jeremiah Fears on his teammates' talent",
+      "names_mentioned": [
+        "Josh Giddey",
+        "Cameron Boozer",
+        "LaMelo",
+        "Markelle Fultz",
+        "Luka",
+        "Wemby",
+        "Lonzo Ball",
+        "LeBron"
+      ],
+      "excerpt": "All great, great talent, amazing guys, amazing players as well.",
+      "quote": "Josh Giddey, Cameron Boozer, LaMelo, Markelle Fultz, Luka, Wemby, Lonzo Ball, LeBron. All great, great talent, amazing guys, amazing players as well.",
+      "text_blocks": [],
+      "start_seconds": 1249,
+      "end_seconds": 1257,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Jeremiah Fears lists the talent he plays with: Josh Giddey, Cameron Boozer, LaMelo, Markelle Fultz, Luka, Wemby, Lonzo Ball, LeBron. All great talent, amazing guys.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Josh Giddey",
+          "Cameron Boozer",
+          "LaMelo Ball",
+          "Markelle Fultz",
+          "Luka Doncic",
+          "Victor Wembanyama",
+          "Lonzo Ball",
+          "LeBron James"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears lists several talented players he admires or has encountered.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jeremiah Fears",
+      "timestamp": "21:13",
+      "summary_phrase": "Jeremiah Fears on learning from Saddiq Bey",
+      "names_mentioned": [
+        "Saddiq"
+      ],
+      "excerpt": "Saddiq is a great piece. He just does all the right stuff, consistent, don't complain.",
+      "quote": "Saddiq is a great piece. He just does all the right stuff, consistent, don't complain, coming with a great attitude each and every day, and just learning from him. I've been asking him questions, sitting next to him on the bench, talking to him, trying to pick his brain a little bit. He don't say much, but when he do say something, you kind of listen, and just being able to pick his brain and being able to learn from him along the way I think is huge for all the young guys on our team.",
+      "text_blocks": [],
+      "start_seconds": 1273,
+      "end_seconds": 1310,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jeremiah Fears on learning from Saddiq Bey: He does not say much, but when he does say something you kind of listen. Picking his brain and learning from him is huge for all the young guys.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Saddiq Bey"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jeremiah Fears explains how he is learning from the professional approach and consistency of Saddiq Bey.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "YQBo0fZN4Ac",
+        "rank": 8
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "29:00",
+      "summary_phrase": "Jamahl Mosley on the Pelicans' defensive adjustments",
+      "names_mentioned": [],
+      "excerpt": "Understanding how we needed to defend the direction we're handing in and the adjustments we needed to make.",
+      "quote": "Well, you know, we talked about it at shootaround, we talked about it postgame last time, understanding how we needed to defend the direction we're handing in and the adjustments we needed to make again, just to help these guys feel a lot more comfortable and in what what we're asking them to do, because they know what to do, they know how to do it and now it's that that why behind what we're what we're trying to get done.",
+      "text_blocks": [],
+      "start_seconds": 1740,
+      "end_seconds": 1771,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley on defensive adjustments: We talked about the direction we are heading and the adjustments needed to help these guys feel comfortable in what we are asking them to do.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley discusses the defensive adjustments made to help his players understand their roles.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "QJeLDWhIAmo",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "29:20",
+      "summary_phrase": "Jamahl Mosley on Jeremiah Fears' growth and maturity",
+      "names_mentioned": [
+        "Jeremiah"
+      ],
+      "excerpt": "What what are we asking of him? The continued growth, and then his being able to set the table.",
+      "quote": "Yeah, and that's what we talked about prior to the game, what what are we asking of him? The continued growth, and then his being able to set the table, but also find the time to pick and choose his moments for when he can be aggressive to look for his own shot. And then the other part about it is being the head of the snake, of being able to defend, pick up full court, change the game with his energy, his attitude, his physicality, and not backing down from anything going on out there.",
+      "text_blocks": [],
+      "start_seconds": 1760,
+      "end_seconds": 1797,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Jeremiah Fears: He has to be the head of the snake, being able to defend, pick up full court, change the game with his energy, his attitude, his physicality, and not backing down from anything.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Fears"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley evaluates the growth of Jeremiah Fears and his role as a defensive leader.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "QJeLDWhIAmo",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "29:57",
+      "summary_phrase": "Jamahl Mosley on Jeremiah Fears' physicality and rebounding",
+      "names_mentioned": [
+        "Jeremiah"
+      ],
+      "excerpt": "He's bouncy, and he's physical, he's strong, he's you know, he's not shying away from anything.",
+      "quote": "I mean, he's bouncy, and he's physical, he's strong, he's you know, he's not shying away from anything. So his his ability to get in there and mix it up with the bigs, because the bigs have a challenge too, we talk about challenging our guards to get in there and help rebound, and I was great for him to be in there to help and that fuels our break. You get the defensive stop, you're able to get out and run.",
+      "text_blocks": [],
+      "start_seconds": 1797,
+      "end_seconds": 1829,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on Fears' rebounding: He is bouncy, physical, and strong. He is not shying away from anything. His ability to get in there and mix it up with the bigs fuels our break.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Fears"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises the physicality and rebounding contributions of Jeremiah Fears.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "30:23",
+      "summary_phrase": "Jamahl Mosley on not chasing stats",
+      "names_mentioned": [],
+      "excerpt": "It wasn't a thing where he was chasing it, and that's the beautiful part about it.",
+      "quote": "It's funny at that moment I wasn't fully tuned into it, but you know, you see the bench start to react and so you let him you let him go. And it wasn't a thing where he was chasing it, and that's the beautiful part about it. He let the game come to him, because you've seen a lot of games where guys will be in, you're up 25 or 30 and you go chase that. He wasn't doing that. He was playing the right way, getting things involved, knowing what he needed to do to help this team get a win, and it was great to see him do that.",
+      "text_blocks": [],
+      "start_seconds": 1823,
+      "end_seconds": 1866,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jamahl Mosley on Fears not chasing stats: It was not a thing where he was chasing it, and that is the beautiful part about it. He let the game come to him and was playing the right way.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Fears"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley commends Jeremiah Fears for playing the right way rather than chasing individual statistics.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "QJeLDWhIAmo",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "31:00",
+      "summary_phrase": "Jamahl Mosley on Jeremiah Fears' decision-making",
+      "names_mentioned": [
+        "Jeremiah",
+        "Eve"
+      ],
+      "excerpt": "He's continued to work on making the right read.",
+      "quote": "He's continued to work on making the right read. I think one time he came down and that the he you know, the pass he made to Eve and it it bounced off Eve's shoulder, but those are things that they're doing a great job of communicating. You know, he's he's understanding as the game goes on how he can pick apart teams, but also making the right reads and having the lines of communication with these guys about what he sees.",
+      "text_blocks": [],
+      "start_seconds": 1860,
+      "end_seconds": 1892,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley on Fears' decision-making: He is understanding as the game goes on how he can pick apart teams, making the right reads and having the lines of communication with his teammates.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Fears"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley discusses the ongoing development of Jeremiah Fears in making correct reads during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "31:30",
+      "summary_phrase": "Jamahl Mosley on Jeremiah Fears' spacing and pick-and-roll play",
+      "names_mentioned": [
+        "Zion",
+        "Jeremiah"
+      ],
+      "excerpt": "Sometimes they put the big on Z and sometimes they'll put the small and try to get the switch.",
+      "quote": "Very similar, and I think game to game it depends. You know, it depends on who's guarding Z, it depends on how they're guarding Jeremiah in the pick and roll and sometimes they put the big on Z and sometimes they'll put the small and try to get the switch. So us understanding screening angles and how we want to set it and where we set it and we we worked on that today, the ability to recognize and make the read, but it's a it's a partnership with those guys that you got to take your time, you got to be patient, guard you got to set them up, you got to get a good clean hit, and then that pocket's got to find a way to be open.",
+      "text_blocks": [],
+      "start_seconds": 1890,
+      "end_seconds": 1940,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley on pick-and-roll chemistry: It is a partnership. You have to take your time, be patient, set them up, get a good clean hit, and then that pocket has to find a way to be open.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson",
+          "Jeremiah Fears"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley explains the tactical complexities of pick-and-roll execution involving Zion Williamson and Jeremiah Fears.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "QJeLDWhIAmo",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "32:04",
+      "summary_phrase": "Jamahl Mosley on the team's response to the 50-point loss",
+      "names_mentioned": [],
+      "excerpt": "They took on that challenge. You know, last time they beat us by 51.",
+      "quote": "Yeah, I thought they understood it. They took on that challenge. You know, last time they beat us by 51, and and if you don't have a sense of pride in that, then you probably should step away from, you know, trying to play the game, because they did put it on us out there. So you have to remember that in the back of your mind, but you also have to remember how do you play the right way and what were the things that you did well in that game prior to that maybe shots just didn't fall.",
+      "text_blocks": [],
+      "start_seconds": 1924,
+      "end_seconds": 1962,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Jamahl Mosley on the team's response to a 51-point loss: If you do not have a sense of pride in that, then you probably should step away from trying to play the game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reflects on the team's response to a previous 51-point loss.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "QJeLDWhIAmo",
+        "rank": 5
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "33:03",
+      "summary_phrase": "Jamahl Mosley on Jeremiah Fears' growth and defensive role",
+      "names_mentioned": [
+        "Jeremiah"
+      ],
+      "excerpt": "It looks like him continuing to grow, to continue to find times to be able to be aggressive.",
+      "quote": "It looks like him continuing to grow, to continue to find times to be able to be aggressive, set the table for guys, making sure he understands who's touched the basketball, who hasn't, pushing the pace. That's levels of growth and you saw some of that tonight and then the other side of it, the defensive side of the ball, like he's got to be the head of the snake. I'm not going to change that, he's got to be physical, he's got to be tough, task him to get in there and get his nose and and hands dirty, getting rebounds. That's just continued growth regardless of what is the the circumstances, that's his growth and that's his path and that's how this his path will continue to help this team grow.",
+      "text_blocks": [],
+      "start_seconds": 1983,
+      "end_seconds": 2034,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the path for Jeremiah Fears: He has to be the head of the snake. I am not going to change that. He has to be physical, tough, and get his nose and hands dirty.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Fears"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley outlines the path for Jeremiah Fears' continued growth as a point guard and defensive anchor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "34:44",
+      "summary_phrase": "Jamahl Mosley on Herb Jones' impact",
+      "names_mentioned": [
+        "Herb"
+      ],
+      "excerpt": "Herb's a winner. I don't think there's any other way to put it.",
+      "quote": "Yeah, no, Herb's a winner. I don't think there's any other way to put it. He's a professional, he's a team guy, he is about whatever it takes to get the job done and that's what he brings to this team. He brings our locker room together, the way he communicates, the way guys feed off of his his energy, and then defensively he just does special things, being able to play the passing lane, being physical, making sure he's getting tags and hits on the rollers, but chasing over screens. He does all of the little things that help you get to get to wins.",
+      "text_blocks": [],
+      "start_seconds": 2084,
+      "end_seconds": 2125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Herb Jones: Herb is a winner. I do not think there is any other way to put it. He is a professional, he is a team guy, and he is about whatever it takes to get the job done.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley highlights the professional impact and defensive versatility of Herb Jones.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "QJeLDWhIAmo",
+        "rank": 9
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "d6hvFTZ93fY",
+  "url": "https://www.youtube.com/watch?v=d6hvFTZ93fY",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-17T17:57:31Z",
+  "duration_seconds": 2241,
+  "processed_at": "2026-11-17T18:39:17Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

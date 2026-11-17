@@ -1,0 +1,105 @@
+{
+  "video_title": "Coach Erik Spolestra on the Heat playing with joy",
+  "speakers_seen": [
+    "Erik Spoelstra"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:00",
+      "summary_phrase": "Erik Spoelstra on building Miami's defensive identity and accountability",
+      "names_mentioned": [],
+      "excerpt": "The first thing was just getting everybody comfortable with what the base coverages were and then being accountable",
+      "quote": "The first thing was just getting everybody comfortable with what the base coverages were and then being accountable and reliable to all of that first. That took a little bit of time and we still have ways to go with that, but then now you add the activity to it. Once guys feel comfortable with what their responsibilities are, we want guys to be playmakers.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra says the Heat are still building their defensive identity, noting that once players are comfortable with base coverages, the goal is for everyone to be playmakers.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra discusses the process of establishing the team's defensive identity and accountability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:25",
+      "summary_phrase": "Erik Spoelstra on Miami's defensive activity and transition offense",
+      "names_mentioned": [],
+      "excerpt": "You saw the playmaking happen at the rim. Today you saw a lot of activity on the ball",
+      "quote": "The other night you saw the playmaking happen at the rim. Today you saw a lot of activity on the ball and swiping down and playing in passing lanes, speeding them up. That is ideally what we hope our identity can become night in, night out. That just fuels us and it sets up those other dominoes, the first important dominoes. It gets us out in transition.",
+      "text_blocks": [],
+      "start_seconds": 25,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra wants the Heat to build an identity around defensive activity, swiping at the ball and playing in passing lanes to fuel their transition offense.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra explains how defensive activity and playmaking contribute to the team's transition offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:54",
+      "summary_phrase": "Erik Spoelstra on the effectiveness of Miami's half-court offense",
+      "names_mentioned": [],
+      "excerpt": "Our half court offense has been better than people expected and probably better than people knew",
+      "quote": "All year long our half court offense has been better than people expected and probably better than people knew. People thought it was maybe just how it looked that we weren't really effective in the half court, but we have been all season long, even when we were struggling early on. Guys are playing with joy offensively. I like seeing that the guys controlled the whole game.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra says the Heat have been better in the half court than people realize all season, adding that he loves seeing the team playing with joy.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra reflects on the team's half-court offensive performance and the players' joy throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "FdkhDW8OVZI",
+  "url": "https://www.youtube.com/watch?v=FdkhDW8OVZI",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-17T15:27:08Z",
+  "duration_seconds": 83,
+  "processed_at": "2026-11-17T18:38:54Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,137 @@
+{
+  "video_title": "Klay Thompson on being 2nd in 3PM and beating Father Time",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Klay Thompson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Klay Thompson",
+      "speakers": [
+        "Unidentified reporter",
+        "Klay Thompson"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Klay Thompson on his second-place ranking in made threes",
+      "names_mentioned": [
+        "Klay Thompson"
+      ],
+      "excerpt": "I did not know that. That is some great news. You just made my night.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Did you know that you are second in the NBA in made threes this season?"
+        },
+        {
+          "speaker": "Klay Thompson",
+          "text": "I did not know that. That is some great news. You just made my night."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 12,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Klay Thompson was surprised to learn he is currently second in the NBA in made threes this season: That is some great news. You just made my night.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Klay Thompson reacts to a reporter informing him that he is currently second in the NBA in made three-pointers this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Klay Thompson",
+      "speakers": [
+        "Unidentified reporter",
+        "Klay Thompson"
+      ],
+      "timestamp": "00:14",
+      "summary_phrase": "Klay Thompson on Miami's undefeated record when he hits five threes",
+      "names_mentioned": [],
+      "excerpt": "Did you know that if you make five threes in a game you guys are undefeated this season?",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Did you know that if you make five threes in a game you guys are undefeated this season?"
+        },
+        {
+          "speaker": "Klay Thompson",
+          "text": "I did not know that either. Okay, you guys come with the good stuff."
+        }
+      ],
+      "start_seconds": 14,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Klay Thompson reacts to the stat that the team is undefeated when he hits five threes in a game: You guys come with the good stuff.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Klay Thompson reacts to a statistic regarding the Miami Heat's undefeated record when he makes at least five three-pointers in a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Klay Thompson",
+      "timestamp": "00:34",
+      "summary_phrase": "Klay Thompson on his motivation and physical preparation this season",
+      "names_mentioned": [
+        "Spol"
+      ],
+      "excerpt": "I'm hungry and I'm not satisfied. I've experienced some incredible moments in my basketball life.",
+      "quote": "I'm hungry and I'm not satisfied. I've experienced some incredible moments in my basketball life, but I came here to Miami to experience more and create memories that I'll hold dearly for the rest of my life. I'm fortunate to have the start I've had this season because I put in so much work these past six months to get in the best shape I possibly can. I give so much credit to the training staff and the athletic training department of our organization. These guys and girls got me in such great shape and they hold me accountable every day to be my best self. Spol does the same thing. He brought me in his office telling me Father Time could be knocking on the door if I don't take my craft more serious, and that really jump-started me to do the extra work every day, not just get my shots up, but do all the little things that you don't see on a daily basis.",
+      "start_seconds": 34,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 7,
+      "social_post": "Klay Thompson reveals Erik Spoelstra gave him a reality check about Father Time: He brought me in his office telling me Father Time could be knocking on the door if I do not take my craft more serious. That jump started me to do the extra work.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Erik Spoelstra"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Klay Thompson discusses his physical preparation and credits Erik Spoelstra for motivating him to take his conditioning more seriously.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "7w-s9xM0qv8",
+  "url": "https://www.youtube.com/watch?v=7w-s9xM0qv8",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-17T15:18:40Z",
+  "duration_seconds": 87,
+  "processed_at": "2026-11-17T18:39:02Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false
+}
