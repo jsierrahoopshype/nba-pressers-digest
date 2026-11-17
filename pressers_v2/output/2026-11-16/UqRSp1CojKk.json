@@ -1,0 +1,190 @@
+{
+  "video_title": "Steve Kerr confident Warriors will ‘bounce back’ vs. Pelicans | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Steve Kerr"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Steve Kerr",
+      "timestamp": "00:03",
+      "summary_phrase": "Jonathan Kuminga's status and injury update",
+      "names_mentioned": [
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "He was feeling better this morning, but he'll warm up and we'll see.",
+      "quote": "He was feeling better this morning, but he'll warm up and we'll see.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 8,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Steve Kerr says Jonathan Kuminga is feeling better this morning but his status for tonight will be determined after he warms up.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Steve Kerr provides an injury update on Jonathan Kuminga before the game against the Pelicans.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Steve Kerr",
+      "timestamp": "01:13",
+      "summary_phrase": "Jonathan Kuminga's development and defensive adjustments",
+      "names_mentioned": [
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "He's going to learn and adjust and adapt as he goes.",
+      "quote": "We talk to him after every game and show him clips and he's going to learn and adjust and adapt as he goes. So he's going to see a lot of different coverages and different types of defenders and he's been until last game in a really good groove and had a tough one last game but he's a really talented guy so he's going to learn how to counter all that stuff and find his way.",
+      "text_blocks": [],
+      "start_seconds": 73,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Steve Kerr on Jonathan Kuminga after a tough outing: He is a really talented guy and he is going to learn how to counter all the different coverages and defenders he is seeing.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr discusses Jonathan Kuminga's development and how he is learning to handle different defensive coverages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Steve Kerr",
+      "timestamp": "02:41",
+      "summary_phrase": "Increased responsibility for Brandon Podziemski and Jonathan Kuminga",
+      "names_mentioned": [
+        "Brandon Podziemski",
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "It puts a little more pressure on Brandon for sure, both Brandon and Jonathan will be asked to do more.",
+      "quote": "It puts a little more pressure on Brandon for sure, both Brandon and Jonathan will be asked to do more, have the ball in their hands more. So it's more responsibility, but Brandon is definitely up to it and I think he'll go out and bounce back tonight. I think our whole team will go out and bounce back after a tough night for all of us the other night.",
+      "text_blocks": [],
+      "start_seconds": 161,
+      "end_seconds": 188,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Steve Kerr says Brandon Podziemski and Jonathan Kuminga will be asked to do more and have the ball in their hands more tonight to help the team bounce back.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Podziemski",
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr explains that Brandon Podziemski and Jonathan Kuminga will have increased responsibilities in the upcoming game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Steve Kerr",
+      "timestamp": "03:26",
+      "summary_phrase": "Draymond Green's mentorship of Jonathan Kuminga",
+      "names_mentioned": [
+        "Jonathan Kuminga",
+        "Draymond Green"
+      ],
+      "excerpt": "Draymond's doing a great job of mentoring him and teaching him the tricks of the trade.",
+      "quote": "Jonathan's got the size and speed to be a very versatile defender. Draymond's doing a great job of mentoring him and teaching him the tricks of the trade and the patterns that he's going to see and in terms of playing off of one another. It's not easy to come into the NBA and see all these actions, see all the different talent and be able to defend all that, but he's doing a really good job so far and Draymond has really mentored him in that way too.",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 240,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Steve Kerr credits Draymond Green for his mentorship of Jonathan Kuminga, noting that Draymond is teaching him the tricks of the trade and how to handle NBA defensive patterns.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jonathan Kuminga",
+          "Draymond Green"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr describes how Draymond Green is mentoring Jonathan Kuminga on defensive positioning and NBA schemes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Steve Kerr",
+      "timestamp": "04:12",
+      "summary_phrase": "Defensive strategy for containing Zion Williamson",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "Always have to take away the easy stuff in every game, whether Zion or any other great player.",
+      "quote": "Always have to take away the easy stuff in every game, whether Zion or any other great player, you go into the game trying to take away whatever they do best and he's as good an attacker as there is in the league. So we have to contain penetration against him while staying in front, be ready to take a charge and we've got to offer help from the teammates who are supporting whoever's on him.",
+      "text_blocks": [],
+      "start_seconds": 252,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Steve Kerr on the defensive plan for Zion Williamson: We have to contain his penetration, be ready to take a charge, and offer help from teammates.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "GSW",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Steve Kerr outlines the defensive strategy the Warriors plan to use to contain Zion Williamson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "UqRSp1CojKk",
+  "url": "https://www.youtube.com/watch?v=UqRSp1CojKk",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-17T00:14:50Z",
+  "duration_seconds": 286,
+  "processed_at": "2026-11-17T02:55:47Z",
+  "run_id": "2026-11-17T0255Z-20utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

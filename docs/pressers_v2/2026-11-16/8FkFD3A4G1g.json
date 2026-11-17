@@ -1,0 +1,227 @@
+{
+  "video_title": "Zach Edey Walk-Off Interview | Grizzlies vs. Wizards",
+  "speakers_seen": [
+    "Rob Fischer",
+    "Zach Edey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Zach Edey",
+      "speakers": [
+        "Rob Fischer",
+        "Zach Edey"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Zach Edey on Memphis Grizzlies' second-half turnaround against Wizards",
+      "names_mentioned": [],
+      "excerpt": "we cleaned it up as a team and we came out and performed great in that second half.",
+      "text_blocks": [
+        {
+          "speaker": "Rob Fischer",
+          "text": "That first half, it seemed like you guys really had trouble finding a rhythm on both sides of the ball. You took over the game in the third quarter, what changed?"
+        },
+        {
+          "speaker": "Zach Edey",
+          "text": "We just stayed with it. We were messing up in the basics a little bit, letting them get too many rebounds, letting them get to the free throw line a little bit. We cleaned it up as a team and we came out and performed great in that second half."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Zach Edey on the Grizzlies second half turnaround against the Wizards: We were messing up in the basics a little bit, letting them get too many rebounds. We cleaned it up as a team and we came out and performed great in that second half.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Zach Edey reflects on the Memphis Grizzlies' second-half turnaround against the Washington Wizards after a slow start.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Zach Edey",
+      "speakers": [
+        "Unidentified reporter",
+        "Zach Edey"
+      ],
+      "timestamp": "00:20",
+      "summary_phrase": "Zach Edey on Grizzlies' ball movement and team trust",
+      "names_mentioned": [],
+      "excerpt": "Just kept the ball moving, kept it popping. Everybody was looking to make the right reads all night.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "42 assists tonight as a team. What does that say about this team?"
+        },
+        {
+          "speaker": "Zach Edey",
+          "text": "Just kept the ball moving, kept it popping. Everybody was looking to make the right reads all night. It was great team basketball."
+        }
+      ],
+      "start_seconds": 20,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Zach Edey on the Grizzlies recording 42 assists in the win: We just kept the ball moving, kept it popping. Everybody was looking to make the right reads all night. It was great team basketball.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Zach Edey discusses the team's ball movement and high assist total following the game against the Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Zach Edey",
+      "speakers": [
+        "Unidentified reporter",
+        "Zach Edey"
+      ],
+      "timestamp": "00:30",
+      "summary_phrase": "Zach Edey on Grizzlies' team chemistry and shared work ethic",
+      "names_mentioned": [],
+      "excerpt": "Everybody plays so hard in this team that everybody wants to get each other involved.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Does it show a trust that you guys have in each other as well?"
+        },
+        {
+          "speaker": "Zach Edey",
+          "text": "For sure. Everybody plays so hard in this team that everybody wants to get each other involved. Everybody sees the work we're putting in and just feeds off each other."
+        }
+      ],
+      "start_seconds": 30,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Zach Edey on the trust within the Grizzlies locker room: Everybody plays so hard in this team that everybody wants to get each other involved. Everybody sees the work we are putting in and just feeds off each other.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zach Edey explains the trust and chemistry within the Memphis Grizzlies roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Zach Edey",
+      "speakers": [
+        "Unidentified reporter",
+        "Zach Edey"
+      ],
+      "timestamp": "00:39",
+      "summary_phrase": "Zach Edey on his offensive performance and team support",
+      "names_mentioned": [],
+      "excerpt": "I was just getting the ball in my spots tonight. My teammates were really looking for me.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You had your biggest offensive night of the season. What was different tonight? What worked for you?"
+        },
+        {
+          "speaker": "Zach Edey",
+          "text": "I was just getting the ball in my spots tonight. My teammates were really looking for me. We were short-handed, they understood the matchups and they got the ball to me. It felt great tonight."
+        }
+      ],
+      "start_seconds": 39,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Zach Edey on his season high offensive performance: I was just getting the ball in my spots tonight. My teammates were really looking for me. We were short handed, they understood the matchups and they got the ball to me.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zach Edey describes his season-high offensive performance and how his teammates helped him find his spots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Zach Edey",
+      "speakers": [
+        "Unidentified reporter",
+        "Zach Edey"
+      ],
+      "timestamp": "00:57",
+      "summary_phrase": "Zach Edey on the importance of paint scoring for Grizzlies",
+      "names_mentioned": [],
+      "excerpt": "That's where we're going to win or lose games. Possession battles, points in the paint, points in transition.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "60 points in the paint in two straight games. How important is that number still for this team?"
+        },
+        {
+          "speaker": "Zach Edey",
+          "text": "It's huge. That's where we're going to win or lose games. Possession battles, points in the paint, points in transition. We need all those hustle points, we need all that extra boost, and tonight we got it."
+        }
+      ],
+      "start_seconds": 57,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Zach Edey on the importance of paint scoring: That is where we are going to win or lose games. Possession battles, points in the paint, points in transition. We need all those hustle points, we need all that extra boost.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Zach Edey explains the importance of paint scoring and hustle plays for the Grizzlies' success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: interview",
+  "format": "ytq-1",
+  "video_id": "8FkFD3A4G1g",
+  "url": "https://www.youtube.com/watch?v=8FkFD3A4G1g",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-17T02:39:13Z",
+  "duration_seconds": 80,
+  "processed_at": "2026-11-17T02:55:44Z",
+  "run_id": "2026-11-17T0255Z-20utc",
+  "is_one_off": false
+}
