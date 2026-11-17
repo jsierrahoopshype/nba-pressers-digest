@@ -118,7 +118,15 @@ From: [Cavs vs Bulls \| Donovan Mitchell, Tyrese Proctor, & Jarrett Allen Post G
 
 <small>[Clip it](presserclips://clip?v=1vUd5h60E-Y&t=643&q=9) · [Send to Slack](presserclips://clip?v=1vUd5h60E-Y&t=643&q=9&slack=1)</small>
 
-**14. Myron Gardner — "good to be able to show my skills out there not just talking like back it up too" — Myron Gardner on showcasing his skills and trash talking** [09:50](https://www.youtube.com/watch?v=L5rHs8WQfRs&t=590s)
+**14. Julius Randle — "I think we should punch first. Like in the second half we punch first and we set the tone." — Julius Randle on the importance of punching first** [07:15](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=435s)
+
+Julius Randle: "I think we should punch first. Like in the second half we punch first and we set the tone. I think we have to start every game like that punching first."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=435s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=435s)
+
+From: [Jordi Fernández, Nolan Traore, and Julius Randle Postgame Press Conferences vs. Philadelphia](https://www.youtube.com/watch?v=H82Uyy1mtFg) · *Brooklyn Nets*
+
+**15. Myron Gardner — "good to be able to show my skills out there not just talking like back it up too" — Myron Gardner on showcasing his skills and trash talking** [09:50](https://www.youtube.com/watch?v=L5rHs8WQfRs&t=590s)
 
 Myron Gardner: "Good to be able to show my skills out there not just talking like back it up too so I know I could hoop show y'all that."
 
@@ -126,7 +134,7 @@ Myron Gardner: "Good to be able to show my skills out there not just talking lik
 
 From: [Ryan Conwell and Myron Gardner Talks Miami Heat Win Streak, Making Their Impact, Giannis' Play & GTA](https://www.youtube.com/watch?v=L5rHs8WQfRs) · *Miami Heat*
 
-**15. Rudy Gobert — "This is not the team that we are. This is not the team that we wanted to be." — Rudy Gobert on the Timberwolves' response after the Chicago loss** [00:14](https://www.youtube.com/watch?v=hlGg43Au058&t=14s)
+**16. Rudy Gobert — "This is not the team that we are. This is not the team that we wanted to be." — Rudy Gobert on the Timberwolves' response after the Chicago loss** [00:14](https://www.youtube.com/watch?v=hlGg43Au058&t=14s)
 
 **Unidentified reporter:** "Rudy, congratulations. What was the focus like tonight, especially after the game the other night against Chicago, in trying to get back on track tonight?"
 
@@ -138,7 +146,7 @@ From: [Rudy Gobert Postgame Interview With Alan Horton \| 11.16.26](https://www.
 
 <small>[Clip it](presserclips://clip?v=hlGg43Au058&t=14&q=1) · [Send to Slack](presserclips://clip?v=hlGg43Au058&t=14&q=1&slack=1)</small>
 
-**16. Anthony Black — "I think we just did a good job taking the fight to them on that side." — Anthony Black on the team's defensive physicality against Boston** [04:12](https://www.youtube.com/watch?v=VxdsVZLyAuc&t=252s)
+**17. Anthony Black — "I think we just did a good job taking the fight to them on that side." — Anthony Black on the team's defensive physicality against Boston** [04:12](https://www.youtube.com/watch?v=VxdsVZLyAuc&t=252s)
 
 Anthony Black: "I think we just did a good job taking the fight to them on that side of the ball. Like Desmond said, it was a real low-scoring first quarter, and we know that plays in our favor. So I think we just did a good job being physical, blowing up their actions. We had a good game plan coming in, and for the most part, we executed."
 
@@ -148,7 +156,7 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. BOSTON CELTICS \| COACH SWEENEY,  DESMO
 
 <small>[Clip it](presserclips://clip?v=VxdsVZLyAuc&t=252&q=7) · [Send to Slack](presserclips://clip?v=VxdsVZLyAuc&t=252&q=7&slack=1)</small>
 
-**17. Trae Young — "patience is definitely due for this team. It's been a long time since this team is consistently winning" — Trae Young on the need for patience during the Wizards' rebuilding process** [05:01](https://www.youtube.com/watch?v=u048nITb4kU&t=301s)
+**18. Trae Young — "patience is definitely due for this team. It's been a long time since this team is consistently winning" — Trae Young on the need for patience during the Wizards' rebuilding process** [05:01](https://www.youtube.com/watch?v=u048nITb4kU&t=301s)
 
 Trae Young: "Patience is definitely due for this team. It's been a long time since this team is consistently winning. It's been a lot of I mean rebuilding and years of getting young guys and giving them those reps and it's hard to switch that mentality just on a flip of a switch, so sometimes you got to go through rough patches and losing with that pressure on you knowing that you're you're supposed to win more than you have."
 
@@ -499,6 +507,74 @@ Tuomas Iisalo: "It's very difficult to compare because the court is different, t
 [https://www.youtube.com/watch?v=50w6Xp5HMds&t=465s](https://www.youtube.com/watch?v=50w6Xp5HMds&t=465s)
 
 <small>[Clip it](presserclips://clip?v=50w6Xp5HMds&t=465&q=5) · [Send to Slack](presserclips://clip?v=50w6Xp5HMds&t=465&q=5&slack=1)</small>
+
+---
+
+## Jordi Fernández, Nolan Traore, and Julius Randle Postgame Press Conferences vs. Philadelphia — *Brooklyn Nets*
+
+Source: [https://www.youtube.com/watch?v=H82Uyy1mtFg](https://www.youtube.com/watch?v=H82Uyy1mtFg)
+
+_Speakers identified: Jordi Fernández, Julius Randle, Nolan Traore_
+
+**1. Jordi Fernández — "obviously defending without fouling was something that we were trying to do, but still I think we gave up 20 in the first and 18 in the second." — Jordi Fernández on defensive adjustments and second-chance points** [00:10](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=10s)
+
+Jordi Fernández: "obviously defending without fouling was something that we were trying to do, but still I think we gave up 20 in the first and 18 in the second, so that didn't really get better. You play against a team that have a lot of players that can get to the free throw line. And the second chance points, we wanted to be more aggressive. Maybe we put more two to the ball and scramble and that worked a little bit and we got a little bit of runs. And we gave up 57 points in the second half, so I think it worked. We found the energy, we made the run and we were short. At the end of the day, especially against a team like this, you want to end up playing like this from the beginning."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=10s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=10s)
+
+**2. Jordi Fernández — "obviously guys that scoring is a natural for them and making tough shots." — Jordi Fernández on defending Jaylen Brown, Joel Embiid, and Tyrese Maxey** [01:10](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=70s)
+
+Jordi Fernández: "you know the plays like players like **Jaylen Brown**, **Joel Embiid**, **Tyrese Maxey**. Obviously guys that scoring is a natural for them and making tough shots because sometimes it could be deflating, right? We defend well and they make a tough shots. You just got to next play speed, got to understand who you play against and I think that we had that mindset in that second half and that's why we won the second half and we gave ourselves a chance."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=70s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=70s)
+
+**3. Jordi Fernández — "he's done a great job working and getting into the pain and you know focused on his finishes." — Jordi Fernández on Nolan Traore's offensive development** [02:50](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=170s)
+
+Jordi Fernández: "keep doing what he's done this summer. He's done a great job working and getting into the pain and you know focused on his finishes, but also his praise to create threes for his teammates. So I think that if he continues to do that, he's going to create a lot of good things, whether it's him scoring or him creating for his teammates. So I think that if he continues to do that, he's going to create a lot of good things. He's put the work in, he's got to watch this clips, he's got to try to get better or put the work that he put in and I have no doubt in my mind that he'll be very positive."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=170s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=170s)
+
+**4. Julius Randle — "just a more connected group in the second half on both ends of the floor." — Julius Randle on the team's second-half connectivity** [06:35](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=395s)
+
+Julius Randle: "just a more connected group in the second half on both ends of the floor. We started playing a lot faster, you know, kind of junking up the game and scrambling on defense and then playing faster on the other end. So just a more connected, tied-in group. I felt like we were aggressors in the second half."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=395s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=395s)
+
+**5. Julius Randle — "I think we should punch first. Like in the second half we punch first and we set the tone." — Julius Randle on the importance of punching first** [07:15](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=435s)
+
+Julius Randle: "I think we should punch first. Like in the second half we punch first and we set the tone. I think we have to start every game like that punching first."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=435s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=435s)
+
+**6. Julius Randle — "he just plays to his strengths, uses his speed to get downhill and does a good job." — Julius Randle on Nolan Traore's strengths** [07:35](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=455s)
+
+Julius Randle: "he just plays to his strengths, uses his speed to get downhill and does a good job of getting into the paint at will. And from there he either finishes or finds guys. So he's just doing a good job of playing to his strengths and using his speed."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=455s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=455s)
+
+**7. Julius Randle — "the one thing that you have to do when you play him is keep him off the foul line." — Julius Randle on defending Joel Embiid** [08:00](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=480s)
+
+Julius Randle: "he's going to make tough shots. I mean we know what type of player he is. The one thing that you have to do when you play him is keep him off the foul line and gave him a little bit too many free throws to get him in a rhythm in the first half and then from there you see as a scorer as a great player you see the ball go in and you have your rhythm. So you know we just got to be better at establishing our identity by being sound and being disciplined on that end in the first half."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=480s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=480s)
+
+**8. Nolan Traore — "I think we just played, we just played harder, we grabbed more rebounds." — Nolan Traore on second-half adjustments** [10:55](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=655s)
+
+Nolan Traore: "I think we just played, we just played harder, we grabbed more rebounds, even if it wasn't enough, but I think it was just like a team effort like just get stops together and then run, run."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=655s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=655s)
+
+**9. Nolan Traore — "don't be passive in the first minutes of the game like we have to be the one." — Nolan Traore on starting games with defensive intensity** [12:15](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=735s)
+
+Nolan Traore: "just get ready, get ready, get our mind ready and don't let, I mean don't, don't be passive in the first minutes of the game like we have to be the one, the one pushing, the one putting pressure on them and not the, not the, not the inverse. So yeah, that's it."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=735s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=735s)
+
+**10. Nolan Traore — "more comfortable in the team, in the league in general and so hopefully it's easier for me." — Nolan Traore on growing into a leadership role** [13:20](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=800s)
+
+Nolan Traore: "more comfortable in the team, in the league in general and so hopefully it's easier for me to give advice or just tell the guys what we can do better. So yeah, I noticed it."
+
+[https://www.youtube.com/watch?v=H82Uyy1mtFg&t=800s](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=800s)
 
 ---
 

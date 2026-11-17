@@ -1,0 +1,331 @@
+{
+  "video_title": "Jordi Fernández, Nolan Traore, and Julius Randle Postgame Press Conferences vs. Philadelphia",
+  "speakers_seen": [
+    "Jordi Fernández",
+    "Julius Randle",
+    "Nolan Traore"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordi Fernández",
+      "timestamp": "00:10",
+      "summary_phrase": "Jordi Fernández on defensive adjustments and second-chance points",
+      "names_mentioned": [],
+      "excerpt": "obviously defending without fouling was something that we were trying to do, but still I think we gave up 20 in the first and 18 in the second.",
+      "quote": "obviously defending without fouling was something that we were trying to do, but still I think we gave up 20 in the first and 18 in the second, so that didn't really get better. You play against a team that have a lot of players that can get to the free throw line. And the second chance points, we wanted to be more aggressive. Maybe we put more two to the ball and scramble and that worked a little bit and we got a little bit of runs. And we gave up 57 points in the second half, so I think it worked. We found the energy, we made the run and we were short. At the end of the day, especially against a team like this, you want to end up playing like this from the beginning.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez on the Nets defensive struggles against the Sixers: We wanted to be more aggressive and scramble to the ball, but we gave up too many points in the first half. We have to play like we did in the second half from the beginning.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BKN",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jordi Fernández discusses his team's defensive struggles and adjustments against Philadelphia during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordi Fernández",
+      "timestamp": "01:10",
+      "summary_phrase": "Jordi Fernández on defending Jaylen Brown, Joel Embiid, and Tyrese Maxey",
+      "names_mentioned": [
+        "Jaylen Brown",
+        "Joel Embiid",
+        "Tyrese Maxey"
+      ],
+      "excerpt": "obviously guys that scoring is a natural for them and making tough shots.",
+      "quote": "you know the plays like players like Jaylen Brown, Joel Embiid, Tyrese Maxey. Obviously guys that scoring is a natural for them and making tough shots because sometimes it could be deflating, right? We defend well and they make a tough shots. You just got to next play speed, got to understand who you play against and I think that we had that mindset in that second half and that's why we won the second half and we gave ourselves a chance.",
+      "text_blocks": [],
+      "start_seconds": 70,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez on defending stars like Embiid and Maxey: Sometimes it is deflating when you defend well and they make tough shots, but you just have to move to the next play and understand who you are playing against.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown",
+          "Joel Embiid",
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "BKN",
+          "BOS",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jordi Fernández reflects on the challenge of defending high-scoring players like Jaylen Brown, Joel Embiid, and Tyrese Maxey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordi Fernández",
+      "timestamp": "02:50",
+      "summary_phrase": "Jordi Fernández on Nolan Traore's offensive development",
+      "names_mentioned": [
+        "Nolan Traore"
+      ],
+      "excerpt": "he's done a great job working and getting into the pain and you know focused on his finishes.",
+      "quote": "keep doing what he's done this summer. He's done a great job working and getting into the pain and you know focused on his finishes, but also his praise to create threes for his teammates. So I think that if he continues to do that, he's going to create a lot of good things, whether it's him scoring or him creating for his teammates. So I think that if he continues to do that, he's going to create a lot of good things. He's put the work in, he's got to watch this clips, he's got to try to get better or put the work that he put in and I have no doubt in my mind that he'll be very positive.",
+      "text_blocks": [],
+      "start_seconds": 170,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jordi Fernandez is confident in Nolan Traore's development, noting his work ethic in the paint and his ability to create looks for teammates. He believes if Traore keeps putting in the work, he will be very positive for the team.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nolan Traore"
+        ],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernández comments on the offensive development and work ethic of rookie Nolan Traore.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Julius Randle",
+      "timestamp": "06:35",
+      "summary_phrase": "Julius Randle on the team's second-half connectivity",
+      "names_mentioned": [],
+      "excerpt": "just a more connected group in the second half on both ends of the floor.",
+      "quote": "just a more connected group in the second half on both ends of the floor. We started playing a lot faster, you know, kind of junking up the game and scrambling on defense and then playing faster on the other end. So just a more connected, tied-in group. I felt like we were aggressors in the second half.",
+      "text_blocks": [],
+      "start_seconds": 395,
+      "end_seconds": 417,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Julius Randle on the Nets second half turnaround: We were a more connected group, played faster, and were the aggressors. We just need to be that tied-in group from the start.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Julius Randle describes the team's improved connectivity and pace during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Julius Randle",
+      "timestamp": "07:15",
+      "summary_phrase": "Julius Randle on the importance of punching first",
+      "names_mentioned": [],
+      "excerpt": "I think we should punch first. Like in the second half we punch first and we set the tone.",
+      "quote": "I think we should punch first. Like in the second half we punch first and we set the tone. I think we have to start every game like that punching first.",
+      "text_blocks": [],
+      "start_seconds": 435,
+      "end_seconds": 447,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Julius Randle says the Nets need to change their approach to starting games: I think we should punch first. We set the tone in the second half, and we have to start every game like that.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Julius Randle emphasizes the need for the team to establish an aggressive tone early in games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Julius Randle",
+      "timestamp": "07:35",
+      "summary_phrase": "Julius Randle on Nolan Traore's strengths",
+      "names_mentioned": [
+        "Nolan Traore"
+      ],
+      "excerpt": "he just plays to his strengths, uses his speed to get downhill and does a good job.",
+      "quote": "he just plays to his strengths, uses his speed to get downhill and does a good job of getting into the paint at will. And from there he either finishes or finds guys. So he's just doing a good job of playing to his strengths and using his speed.",
+      "text_blocks": [],
+      "start_seconds": 455,
+      "end_seconds": 474,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Julius Randle on Nolan Traore: He does a good job of playing to his strengths, using his speed to get downhill and into the paint at will, then either finishing or finding guys.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nolan Traore"
+        ],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Julius Randle praises Nolan Traore for utilizing his speed and playmaking abilities to impact the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Julius Randle",
+      "timestamp": "08:00",
+      "summary_phrase": "Julius Randle on defending Joel Embiid",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "the one thing that you have to do when you play him is keep him off the foul line.",
+      "quote": "he's going to make tough shots. I mean we know what type of player he is. The one thing that you have to do when you play him is keep him off the foul line and gave him a little bit too many free throws to get him in a rhythm in the first half and then from there you see as a scorer as a great player you see the ball go in and you have your rhythm. So you know we just got to be better at establishing our identity by being sound and being disciplined on that end in the first half.",
+      "text_blocks": [],
+      "start_seconds": 480,
+      "end_seconds": 520,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Julius Randle on defending Joel Embiid: The one thing you have to do is keep him off the foul line. We gave him too many free throws in the first half, which let him get into a rhythm.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "BKN",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Julius Randle discusses the defensive strategy required to limit Joel Embiid and keep him off the free throw line.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Nolan Traore",
+      "timestamp": "10:55",
+      "summary_phrase": "Nolan Traore on second-half adjustments",
+      "names_mentioned": [],
+      "excerpt": "I think we just played, we just played harder, we grabbed more rebounds.",
+      "quote": "I think we just played, we just played harder, we grabbed more rebounds, even if it wasn't enough, but I think it was just like a team effort like just get stops together and then run, run.",
+      "text_blocks": [],
+      "start_seconds": 655,
+      "end_seconds": 669,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Nolan Traore on the Nets second half effort: We just played harder, grabbed more rebounds, and focused on getting stops together so we could run.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Nolan Traore explains that the team's second-half improvement was driven by increased effort and collective defensive stops.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Nolan Traore",
+      "timestamp": "12:15",
+      "summary_phrase": "Nolan Traore on starting games with defensive intensity",
+      "names_mentioned": [],
+      "excerpt": "don't be passive in the first minutes of the game like we have to be the one.",
+      "quote": "just get ready, get ready, get our mind ready and don't let, I mean don't, don't be passive in the first minutes of the game like we have to be the one, the one pushing, the one putting pressure on them and not the, not the, not the inverse. So yeah, that's it.",
+      "text_blocks": [],
+      "start_seconds": 735,
+      "end_seconds": 755,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nolan Traore on the Nets slow starts: We cannot be passive in the first minutes of the game. We have to be the ones pushing and putting pressure on them, not the inverse.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Nolan Traore addresses the importance of starting games with defensive intensity rather than playing passively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Nolan Traore",
+      "timestamp": "13:20",
+      "summary_phrase": "Nolan Traore on growing into a leadership role",
+      "names_mentioned": [],
+      "excerpt": "more comfortable in the team, in the league in general and so hopefully it's easier for me.",
+      "quote": "more comfortable in the team, in the league in general and so hopefully it's easier for me to give advice or just tell the guys what we can do better. So yeah, I noticed it.",
+      "text_blocks": [],
+      "start_seconds": 800,
+      "end_seconds": 813,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Nolan Traore says he is feeling more comfortable in the league, which is making it easier for him to step up and give advice to his teammates.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Nolan Traore discusses his growing comfort level and his desire to take on a leadership role within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "H82Uyy1mtFg",
+  "url": "https://www.youtube.com/watch?v=H82Uyy1mtFg",
+  "channel_team": "Brooklyn Nets",
+  "published": "2026-11-17T05:18:36Z",
+  "duration_seconds": 871,
+  "processed_at": "2026-11-17T05:32:22Z",
+  "run_id": "2026-11-17-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
