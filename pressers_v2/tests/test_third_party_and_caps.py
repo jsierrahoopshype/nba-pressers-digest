@@ -42,6 +42,15 @@ class TitleRuleTests(unittest.TestCase):
         self.assertTrue(self.keep(t2, sac))
         self.assertFalse(self.keep(t2, gsw))
 
+    def test_nbc_studio_and_game_call_segments_dropped(self):
+        # Nov 17 2026 overnight: these two got in and were analysts, not pressers.
+        gsw, sac = channel("Golden State Warriors"), channel("Sacramento Kings")
+        self.assertFalse(self.keep("Warriors outpaced by Pelicans forward Saddiq Bey in first half | NBC Sports Bay Area", gsw))
+        self.assertFalse(self.keep("Warriors can’t overcome another slow start in loss to Pelicans | NBC Sports Bay Area", gsw))
+        self.assertTrue(self.keep("Steve Kerr states first quarter ‘deflated’ Warriors vs. Pelicans | NBC Sports Bay Area", gsw))
+        self.assertFalse(self.keep("Kings’ defensive lapses continue during loss at home vs. Thunder | NBC Sports California", sac))
+        self.assertTrue(self.keep("Doug Christie reveals Keegan Murray was sick in Kings’ loss | NBC Sports California", sac))
+
     def test_lakers_fam_highlights_allowed_only_with_presser_word(self):
         lal = channel("Los Angeles Lakers")
         self.assertTrue(self.keep("Lakers vs Suns | Postgame Interviews x Highlights: November 15, 2026", lal))
