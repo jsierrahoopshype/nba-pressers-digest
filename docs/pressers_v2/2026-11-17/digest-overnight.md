@@ -56,15 +56,7 @@ From: [Ime Udoka Post-Game Interview vs Heat \| 11/16/2026](https://www.youtube.
 
 <small>[Clip it](presserclips://clip?v=zdZTD0KyR6M&t=319&q=8) · [Send to Slack](presserclips://clip?v=zdZTD0KyR6M&t=319&q=8&slack=1)</small>
 
-**7. Festus Ezeli — "These are things that show a lack of discipline right now for the Warriors." — Warriors' lack of discipline and poor execution without Steph Curry** [02:15](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=135s)
-
-Festus Ezeli: "Having Steph out is a huge detriment to the team because the offense doesn't run the same. But there's a couple of stats that stand out to you. They give up 20 offensive rebounds for 19 points. That's one. They turn the ball over 15 times, give up 27 points. These are things that show a lack of discipline right now for the Warriors. And if you really want to get this ship back on the right track, these are the things that stand out to you. You kind of have to get back into the locker and get back to the drawing board."
-
-[https://www.youtube.com/watch?v=0l_ayQ84hLM&t=135s](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=135s)
-
-From: [Warriors can’t overcome another slow start in loss to Pelicans \| NBC Sports Bay Area](https://www.youtube.com/watch?v=0l_ayQ84hLM) · *Golden State Warriors*
-
-**8. Bobby Portis — "I always been a garbage man throughout my career. I made a living off energy plays" — Bobby Portis on his role as an energy and effort player** [01:14](https://www.youtube.com/watch?v=4IrUnhkebW4&t=74s)
+**7. Bobby Portis — "I always been a garbage man throughout my career. I made a living off energy plays" — Bobby Portis on his role as an energy and effort player** [01:14](https://www.youtube.com/watch?v=4IrUnhkebW4&t=74s)
 
 Bobby Portis: "I always been a garbage man throughout my career. I made a living off energy plays, effort plays, just not a catch-and-shoot guy. So, obviously I want to make more threes, things like that, but doing all the other things, getting the 50/50 balls, rebounding the ball, being active in my gaps, getting steals, just trying to impact the game in other ways. So, taking it a day at a time, but I know it will come."
 
@@ -72,7 +64,7 @@ Bobby Portis: "I always been a garbage man throughout my career. I made a living
 
 From: [Bobby Portis Talks Miami Heat Win Streak, Team Defense Finding His Flow, Giannis vs HOU, Rookie Play](https://www.youtube.com/watch?v=4IrUnhkebW4) · *Miami Heat*
 
-**9. Desmond Bane — "He's a winning player. You can kind of plug him in with any lineup." — Desmond Bane praises Jalen Suggs' impact and winning mentality** [05:55](https://www.youtube.com/watch?v=VxdsVZLyAuc&t=355s)
+**8. Desmond Bane — "He's a winning player. You can kind of plug him in with any lineup." — Desmond Bane praises Jalen Suggs' impact and winning mentality** [05:55](https://www.youtube.com/watch?v=VxdsVZLyAuc&t=355s)
 
 Desmond Bane: "That was a **Jalen Suggs** game right there. I mean, offensive rebounds, blocked shots, getting in the paint, knocked down a couple big threes. Like that's that's him. He's a winning player. You can kind of plug him in with any lineup and he's going to find a way to impact winning. I thought he did that at an extremely high level tonight."
 
@@ -82,7 +74,7 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. BOSTON CELTICS \| COACH SWEENEY,  DESMO
 
 <small>[Clip it](presserclips://clip?v=VxdsVZLyAuc&t=355&q=10) · [Send to Slack](presserclips://clip?v=VxdsVZLyAuc&t=355&q=10&slack=1)</small>
 
-**10. Ryan Conwell — "his gravity is crazy, obviously never played with a player of that magnitude" — Ryan Conwell on Giannis Antetokounmpo's unique gravity** [03:27](https://www.youtube.com/watch?v=au20J8tOYnM&t=207s)
+**9. Ryan Conwell — "his gravity is crazy, obviously never played with a player of that magnitude" — Ryan Conwell on Giannis Antetokounmpo's unique gravity** [03:27](https://www.youtube.com/watch?v=au20J8tOYnM&t=207s)
 
 Ryan Conwell: "His gravity is crazy, obviously never played with a player of that magnitude. And just to see the different things he does with and without the ball, and just how teams are just always keen on him and how it makes it easier for all of us. I mean, we're all thankful to be on the team with him for sure."
 
@@ -92,7 +84,7 @@ From: [Ryan Conwell Post-Game Interview vs Rockets \| 11/16/2026](https://www.yo
 
 <small>[Clip it](presserclips://clip?v=au20J8tOYnM&t=207&q=4) · [Send to Slack](presserclips://clip?v=au20J8tOYnM&t=207&q=4&slack=1)</small>
 
-**11. Paul George — "Any time that I can step on this floor and be healthy, it's a win." — Paul George on managing his workload and health in year 17** [04:11](https://www.youtube.com/watch?v=eNO6vF6wHOI&t=251s)
+**10. Paul George — "Any time that I can step on this floor and be healthy, it's a win." — Paul George on managing his workload and health in year 17** [04:11](https://www.youtube.com/watch?v=eNO6vF6wHOI&t=251s)
 
 Paul George: "Any time that I can step on this floor and be healthy, it's a win, and I look forward to that. I'm just excited that year 17, I can still be playing back-to-backs, given all the adversity and all the bad luck that I've had from the injury standpoint. Just taking those moments and being grateful that I can be out there and go play."
 
@@ -100,15 +92,7 @@ Paul George: "Any time that I can step on this floor and be healthy, it's a win,
 
 From: [Paul George Discusses His HEALTH in Year 17 \| Celtics vs Magic Postgame](https://www.youtube.com/watch?v=eNO6vF6wHOI) · *Boston Celtics*
 
-**12. Brandin Podziemski — "I'm trying to, as the starting point guard right now, I'm trying to form a great connection." — Brandin Podziemski's need to build chemistry with Yaxel Lendeborg** [13:16](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=796s)
-
-Brandin Podziemski: "If I'm **Brandin Podziemski**, I'm trying to, as the starting point guard right now, I'm trying to form a great connection with Yaxel. And it's got to be a two-guard, like he and the Yaxel got to have that, you know, the pick and roll like Steph and Draymond have. They have that chemistry. I got to start forming that connection with him because regardless of if Steph is here or not, like you still have to have that. Those guys, they run the bench crew. They're part of the bench mob. They come off a pick and roll, you can create shots that way. I thought **Brandin Podziemski** in the first half, a lot of what he, the points he brought into the table were points where he was fouled. He was coming off ball screens, they would foul him, and he would get some shots on the board that way. But I think there's a there's another level that he can get to as a point guard right now and running this team."
-
-[https://www.youtube.com/watch?v=0l_ayQ84hLM&t=796s](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=796s)
-
-From: [Warriors can’t overcome another slow start in loss to Pelicans \| NBC Sports Bay Area](https://www.youtube.com/watch?v=0l_ayQ84hLM) · *Golden State Warriors*
-
-**13. Donovan Mitchell — "Obviously we talk about Tyrese Proctor and Evan Mobley how they have been a shock to everybody" — Donovan Mitchell on the development of Tyrese Proctor and Evan Mobley** [01:23](https://www.youtube.com/watch?v=1vUd5h60E-Y&t=83s)
+**11. Donovan Mitchell — "Obviously we talk about Tyrese Proctor and Evan Mobley how they have been a shock to everybody" — Donovan Mitchell on the development of Tyrese Proctor and Evan Mobley** [01:23](https://www.youtube.com/watch?v=1vUd5h60E-Y&t=83s)
 
 Donovan Mitchell: "That kind of plays into a lot of the ebbs and flows of the season. That is not an excuse; we still should win games that we have lost. But I also think that is part of the development, understanding what you have. Obviously we talk about **Tyrese Proctor** and **Evan Mobley** how they have been a shock to everybody in a sense, allowing them to give them a little more free rein, but then also finding ways to eliminate some of the tougher shots."
 
@@ -118,7 +102,7 @@ From: [Cavs vs Bulls \| Donovan Mitchell, Tyrese Proctor, & Jarrett Allen Post G
 
 <small>[Clip it](presserclips://clip?v=1vUd5h60E-Y&t=83&q=2) · [Send to Slack](presserclips://clip?v=1vUd5h60E-Y&t=83&q=2&slack=1)</small>
 
-**14. Tyrese Proctor — "He is a dog, he just comes in provides energy, provides a spark" — Tyrese Proctor on Norchad Omier's consistent energy and rebounding** [10:43](https://www.youtube.com/watch?v=1vUd5h60E-Y&t=643s)
+**12. Tyrese Proctor — "He is a dog, he just comes in provides energy, provides a spark" — Tyrese Proctor on Norchad Omier's consistent energy and rebounding** [10:43](https://www.youtube.com/watch?v=1vUd5h60E-Y&t=643s)
 
 Tyrese Proctor: "He is a dog, he just comes in provides energy, provides a spark, just his willpower to not I would not say change, but just get through anyone and just get the ball is unbelievable. I said before I played him all for three years in college and every year it was getting him off the boards and he ended up with rebounds every single game. I do not know how he does it, but we are going to continue to need him to just give us that spark."
 
@@ -128,7 +112,7 @@ From: [Cavs vs Bulls \| Donovan Mitchell, Tyrese Proctor, & Jarrett Allen Post G
 
 <small>[Clip it](presserclips://clip?v=1vUd5h60E-Y&t=643&q=9) · [Send to Slack](presserclips://clip?v=1vUd5h60E-Y&t=643&q=9&slack=1)</small>
 
-**15. Julius Randle — "I think we should punch first. Like in the second half we punch first and we set the tone." — Julius Randle on the importance of punching first** [07:15](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=435s)
+**13. Julius Randle — "I think we should punch first. Like in the second half we punch first and we set the tone." — Julius Randle on the importance of punching first** [07:15](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=435s)
 
 Julius Randle: "I think we should punch first. Like in the second half we punch first and we set the tone. I think we have to start every game like that punching first."
 
@@ -136,7 +120,7 @@ Julius Randle: "I think we should punch first. Like in the second half we punch 
 
 From: [Jordi Fernández, Nolan Traore, and Julius Randle Postgame Press Conferences vs. Philadelphia](https://www.youtube.com/watch?v=H82Uyy1mtFg) · *Brooklyn Nets*
 
-**16. Myron Gardner — "good to be able to show my skills out there not just talking like back it up too" — Myron Gardner on showcasing his skills and trash talking** [09:50](https://www.youtube.com/watch?v=L5rHs8WQfRs&t=590s)
+**14. Myron Gardner — "good to be able to show my skills out there not just talking like back it up too" — Myron Gardner on showcasing his skills and trash talking** [09:50](https://www.youtube.com/watch?v=L5rHs8WQfRs&t=590s)
 
 Myron Gardner: "Good to be able to show my skills out there not just talking like back it up too so I know I could hoop show y'all that."
 
@@ -144,7 +128,7 @@ Myron Gardner: "Good to be able to show my skills out there not just talking lik
 
 From: [Ryan Conwell and Myron Gardner Talks Miami Heat Win Streak, Making Their Impact, Giannis' Play & GTA](https://www.youtube.com/watch?v=L5rHs8WQfRs) · *Miami Heat*
 
-**17. Rudy Gobert — "This is not the team that we are. This is not the team that we wanted to be." — Rudy Gobert on the Timberwolves' response after the Chicago loss** [00:14](https://www.youtube.com/watch?v=hlGg43Au058&t=14s)
+**15. Rudy Gobert — "This is not the team that we are. This is not the team that we wanted to be." — Rudy Gobert on the Timberwolves' response after the Chicago loss** [00:14](https://www.youtube.com/watch?v=hlGg43Au058&t=14s)
 
 **Unidentified reporter:** "Rudy, congratulations. What was the focus like tonight, especially after the game the other night against Chicago, in trying to get back on track tonight?"
 
@@ -156,7 +140,7 @@ From: [Rudy Gobert Postgame Interview With Alan Horton \| 11.16.26](https://www.
 
 <small>[Clip it](presserclips://clip?v=hlGg43Au058&t=14&q=1) · [Send to Slack](presserclips://clip?v=hlGg43Au058&t=14&q=1&slack=1)</small>
 
-**18. Jamal Murray — "we're just exhausting ourselves on defense to make them have another 14 seconds to shoot" — Jamal Murray on defensive exhaustion and rebounding** [14:18](https://www.youtube.com/watch?v=u5IKz6K6efE&t=858s)
+**16. Jamal Murray — "we're just exhausting ourselves on defense to make them have another 14 seconds to shoot" — Jamal Murray on defensive exhaustion and rebounding** [14:18](https://www.youtube.com/watch?v=u5IKz6K6efE&t=858s)
 
 Jamal Murray: "We're just exhausting ourselves on defense to make them have another 14 seconds to shoot, and I think that's an issue. Because it's not one game. I think the Portland game stood out because we lost, and it felt like that was really the only negative about that game is we just couldn't rebound with clinging and we didn't help Jokic at all. And then this game was like, well, we're giving them extra shots and we're giving them extra possessions, and I mean, we're not going to win like that."
 
@@ -166,7 +150,7 @@ From: [Full Denver Nuggets Postgame Media Availability vs. PHX 🎙](https://www
 
 <small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=858&q=11) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=858&q=11&slack=1)</small>
 
-**19. Anthony Black — "I think we just did a good job taking the fight to them on that side." — Anthony Black on the team's defensive physicality against Boston** [04:12](https://www.youtube.com/watch?v=VxdsVZLyAuc&t=252s)
+**17. Anthony Black — "I think we just did a good job taking the fight to them on that side." — Anthony Black on the team's defensive physicality against Boston** [04:12](https://www.youtube.com/watch?v=VxdsVZLyAuc&t=252s)
 
 Anthony Black: "I think we just did a good job taking the fight to them on that side of the ball. Like Desmond said, it was a real low-scoring first quarter, and we know that plays in our favor. So I think we just did a good job being physical, blowing up their actions. We had a good game plan coming in, and for the most part, we executed."
 
@@ -176,7 +160,7 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. BOSTON CELTICS \| COACH SWEENEY,  DESMO
 
 <small>[Clip it](presserclips://clip?v=VxdsVZLyAuc&t=252&q=7) · [Send to Slack](presserclips://clip?v=VxdsVZLyAuc&t=252&q=7&slack=1)</small>
 
-**20. Dillon Brooks — "he picked and chose his spots, he got off the ball, he made sacrifice cuts" — Dillon Brooks on Jalen Green's aggressive play and confidence** [00:47](https://www.youtube.com/watch?v=oTSmzi8dzuc&t=47s)
+**18. Dillon Brooks — "he picked and chose his spots, he got off the ball, he made sacrifice cuts" — Dillon Brooks on Jalen Green's aggressive play and confidence** [00:47](https://www.youtube.com/watch?v=oTSmzi8dzuc&t=47s)
 
 **Unidentified reporter:** "You look at **Jalen Green** as well, just being aggressive out there, getting to the rim. What steps did he take tonight and his overall confidence?"
 
@@ -188,7 +172,7 @@ From: [Dillon Brooks Postgame On-Court Interview after Suns win against Denver N
 
 <small>[Clip it](presserclips://clip?v=oTSmzi8dzuc&t=47&q=2) · [Send to Slack](presserclips://clip?v=oTSmzi8dzuc&t=47&q=2&slack=1)</small>
 
-**21. Trae Young — "patience is definitely due for this team. It's been a long time since this team is consistently winning" — Trae Young on the need for patience during the Wizards' rebuilding process** [05:01](https://www.youtube.com/watch?v=u048nITb4kU&t=301s)
+**19. Trae Young — "patience is definitely due for this team. It's been a long time since this team is consistently winning" — Trae Young on the need for patience during the Wizards' rebuilding process** [05:01](https://www.youtube.com/watch?v=u048nITb4kU&t=301s)
 
 Trae Young: "Patience is definitely due for this team. It's been a long time since this team is consistently winning. It's been a lot of I mean rebuilding and years of getting young guys and giving them those reps and it's hard to switch that mentality just on a flip of a switch, so sometimes you got to go through rough patches and losing with that pressure on you knowing that you're you're supposed to win more than you have."
 
@@ -198,7 +182,7 @@ From: [Trae Young and Khris Middleton's Media Availability vs. Memphis Grizzlies
 
 <small>[Clip it](presserclips://clip?v=u048nITb4kU&t=301&q=4) · [Send to Slack](presserclips://clip?v=u048nITb4kU&t=301&q=4&slack=1)</small>
 
-**22. Nikola Jokic — "we didn't turn over the ball that much today, but they had 18 offensive rebounds" — Nikola Jokic on team turnovers and rebounding** [05:42](https://www.youtube.com/watch?v=u5IKz6K6efE&t=342s)
+**20. Nikola Jokic — "we didn't turn over the ball that much today, but they had 18 offensive rebounds" — Nikola Jokic on team turnovers and rebounding** [05:42](https://www.youtube.com/watch?v=u5IKz6K6efE&t=342s)
 
 Nikola Jokic: "We didn't turn over the ball that much today, but they had 18 offensive rebounds, you know. And those turnovers that we had, I think they were always like open layups and just like we couldn't do anything to stop it. So, you know, we cannot give anybody so many chances and opportunities to score."
 
@@ -208,7 +192,7 @@ From: [Full Denver Nuggets Postgame Media Availability vs. PHX 🎙](https://www
 
 <small>[Clip it](presserclips://clip?v=u5IKz6K6efE&t=342&q=5) · [Send to Slack](presserclips://clip?v=u5IKz6K6efE&t=342&q=5&slack=1)</small>
 
-**23. Nolan Traore — "don't be passive in the first minutes of the game like we have to be the one." — Nolan Traore on starting games with defensive intensity** [12:15](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=735s)
+**21. Nolan Traore — "don't be passive in the first minutes of the game like we have to be the one." — Nolan Traore on starting games with defensive intensity** [12:15](https://www.youtube.com/watch?v=H82Uyy1mtFg&t=735s)
 
 Nolan Traore: "just get ready, get ready, get our mind ready and don't let, I mean don't, don't be passive in the first minutes of the game like we have to be the one, the one pushing, the one putting pressure on them and not the, not the, not the inverse. So yeah, that's it."
 
@@ -216,53 +200,15 @@ Nolan Traore: "just get ready, get ready, get our mind ready and don't let, I me
 
 From: [Jordi Fernández, Nolan Traore, and Julius Randle Postgame Press Conferences vs. Philadelphia](https://www.youtube.com/watch?v=H82Uyy1mtFg) · *Brooklyn Nets*
 
----
+**22. Khris Middleton — "I think it's just part of us growing, learning as a team what it takes to win" — Khris Middleton on the team's growth and learning to win** [10:42](https://www.youtube.com/watch?v=u048nITb4kU&t=642s)
 
-## Warriors can’t overcome another slow start in loss to Pelicans | NBC Sports Bay Area — *Golden State Warriors*
+Khris Middleton: "I think it's just part of us growing, learning as a team what it takes to win a game, a complete 48 minutes, having the right mindset, paying attention to details. It's just like I said, keep competing for 48 minutes, knowing that at some point teams are going to go on runs and you know we have to stay strong. We can't fold, we can't panic, we have to stay with it and just just realize that you know as long as we stay with it our time will come."
 
-Source: [https://www.youtube.com/watch?v=0l_ayQ84hLM](https://www.youtube.com/watch?v=0l_ayQ84hLM)
+[https://www.youtube.com/watch?v=u048nITb4kU&t=642s](https://www.youtube.com/watch?v=u048nITb4kU&t=642s)
 
-_Speakers identified: Bonta Hill, Chris Mullin, Festus Ezeli_
+From: [Trae Young and Khris Middleton's Media Availability vs. Memphis Grizzlies \| 11.16.26](https://www.youtube.com/watch?v=u048nITb4kU) · *Washington Wizards*
 
-**1. Chris Mullin — "Sometimes you get back in the game, but the Warriors never gained any traction." — Warriors' recurring first-quarter struggles and lack of team discipline** [00:44](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=44s)
-
-**Bonta Hill:** "Mullin, again, first-quarter league, we've seen this in back-to-back nights against San Antonio. They were down 18 nothing before we could blink. Tonight it was 23 to 2 before the Warriors could make a field goal."
-
-**Chris Mullin:** "Sometimes you get back in the game, but the Warriors never gained any traction. They never led, and the Pelicans from that first quarter on just dictated tempo, pace of play, and their shot-making."
-
-**Festus Ezeli:** "The Warriors, two of 18 from the field and one of 13 from three in the first quarter alone. As you said, Bonta, it is a first-quarter lead, and sometimes you get back in the game, but the Warriors never gained any traction."
-
-[https://www.youtube.com/watch?v=0l_ayQ84hLM&t=44s](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=44s)
-
-**2. Festus Ezeli — "These are things that show a lack of discipline right now for the Warriors." — Warriors' lack of discipline and poor execution without Steph Curry** [02:15](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=135s)
-
-Festus Ezeli: "Having Steph out is a huge detriment to the team because the offense doesn't run the same. But there's a couple of stats that stand out to you. They give up 20 offensive rebounds for 19 points. That's one. They turn the ball over 15 times, give up 27 points. These are things that show a lack of discipline right now for the Warriors. And if you really want to get this ship back on the right track, these are the things that stand out to you. You kind of have to get back into the locker and get back to the drawing board."
-
-[https://www.youtube.com/watch?v=0l_ayQ84hLM&t=135s](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=135s)
-
-**3. Chris Mullin — "I think probably now he's going to have to implement a new offense in general." — Steve Kerr needs to reconfigure rotation and implement new offensive sets** [03:45](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=225s)
-
-Chris Mullin: "With Steph out of the lineup, **Steve Kerr** has to reconfigure his starting lineup, get the rotations off the bench, and I think probably now he's going to have to implement a new offense in general. Tonight we saw Yaxel at the top of the floor a lot, Draymond was in the corner, and I think it's probably time to go to more set plays to start the possession and then play freelance after that, so everyone has a better feel for where they're supposed to be. You know where the shots come, who you're targeting, who you're going after. That may cut down turnovers because that's a problem. When you have a small margin of error, you have to take care of the basketball, you have to get good shots every time down."
-
-[https://www.youtube.com/watch?v=0l_ayQ84hLM&t=225s](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=225s)
-
-**4. Chris Mullin — "With Steph Curry, when he's on the floor, just by standing out there, he's generating space." — Steph Curry's unique gravity and its impact on Warriors' offense** [06:17](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=377s)
-
-Chris Mullin: "With **Steph Curry**, when he's on the floor, just by standing out there, he's generating space and offense for his teammates. So when he's running off screens and they overreact, that's opening up layups, driving lanes. When that's not there, you're looking at a totally different defense. The defense is basically in front of you at all times, and that's why I feel like getting to set plays to start the possession, to control that possession, know where that shot's coming from, understand who you're targeting on the other team's defense, this way you can control the game a little bit, because like you said, it gets out of hand so quickly."
-
-[https://www.youtube.com/watch?v=0l_ayQ84hLM&t=377s](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=377s)
-
-**5. Festus Ezeli — "I think the Warriors can still figure it out with Yaxel being the main focal point." — Yaxel Lendeborg's potential as a focal point for the Warriors** [09:45](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=585s)
-
-Festus Ezeli: "I think the Warriors can still figure it out with Yaxel being the main focal point. When he became aggressive in the second half, you could just see it. It was like, I'm getting to the rim and you guys can't stop me. Now the Warriors have to figure out a way to use some of that to their advantage where he's driving to the rim, guys are collapsing, and then they're finding open shooters. I thought that's something that's a bright spot for the Warriors, knowing that they have a guy like this they can rely on."
-
-[https://www.youtube.com/watch?v=0l_ayQ84hLM&t=585s](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=585s)
-
-**6. Brandin Podziemski — "I'm trying to, as the starting point guard right now, I'm trying to form a great connection." — Brandin Podziemski's need to build chemistry with Yaxel Lendeborg** [13:16](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=796s)
-
-Brandin Podziemski: "If I'm **Brandin Podziemski**, I'm trying to, as the starting point guard right now, I'm trying to form a great connection with Yaxel. And it's got to be a two-guard, like he and the Yaxel got to have that, you know, the pick and roll like Steph and Draymond have. They have that chemistry. I got to start forming that connection with him because regardless of if Steph is here or not, like you still have to have that. Those guys, they run the bench crew. They're part of the bench mob. They come off a pick and roll, you can create shots that way. I thought **Brandin Podziemski** in the first half, a lot of what he, the points he brought into the table were points where he was fouled. He was coming off ball screens, they would foul him, and he would get some shots on the board that way. But I think there's a there's another level that he can get to as a point guard right now and running this team."
-
-[https://www.youtube.com/watch?v=0l_ayQ84hLM&t=796s](https://www.youtube.com/watch?v=0l_ayQ84hLM&t=796s)
+<small>[Clip it](presserclips://clip?v=u048nITb4kU&t=642&q=6) · [Send to Slack](presserclips://clip?v=u048nITb4kU&t=642&q=6&slack=1)</small>
 
 ---
 

@@ -238,16 +238,6 @@ From: [Cavs Shootaround \| Donovan Mitchell & Meleek Thomas Media Availability \
 
 <small>[Clip it](presserclips://clip?v=kZwSNm2Ru3k&t=615&q=8) · [Send to Slack](presserclips://clip?v=kZwSNm2Ru3k&t=615&q=8&slack=1)</small>
 
-**26. Jamal Shead — "I think if Collins is not in foul trouble, I love Scottie and Collins on them." — Jamal Shead on the performance of Scottie Barnes, Dillon Brooks, and Jakob Poeltl** [00:40](https://www.youtube.com/watch?v=mrVkQQyGfwU&t=40s)
-
-Jamal Shead: "Obviously really tough. They just won a championship for a reason. I think that's obvious. But I think if Collins is not in foul trouble, I love Scottie and Collins on them. I think they did an amazing job. I think they played their butt off. Jakob too, when he got into that mix. I think they did an amazing job. We just got to finish the game."
-
-[https://www.youtube.com/watch?v=mrVkQQyGfwU&t=40s](https://www.youtube.com/watch?v=mrVkQQyGfwU&t=40s)
-
-From: [Jamal Shead \| Post Game vs New York Knicks \| November 15, 2026](https://www.youtube.com/watch?v=mrVkQQyGfwU) · *Toronto Raptors*
-
-<small>[Clip it](presserclips://clip?v=mrVkQQyGfwU&t=40&q=2) · [Send to Slack](presserclips://clip?v=mrVkQQyGfwU&t=40&q=2&slack=1)</small>
-
 ---
 
 ## Clippers vs. Hornets | Postgame Interviews | Nov. 15, 2026 | LA Clippers — *LA Clippers*
@@ -1629,30 +1619,6 @@ Jayson Tatum: "I've seen him a couple times this summer and obviously I see him 
 Jayson Tatum: "I'm not 100% yet. I'm getting there though. It's just time. I've done a lot of research on Achilles rehab and a lot of the specialists and research says a lot of guys 12 months after they come back is when they kind of feel, I mean obviously I came back a little early, but per the research and stuff like that, I'm still kind of in return to play phase. I feel a little bit better every single day and that's the goal and I'm certainly not going to get there, hopefully sooner than later."
 
 [https://www.youtube.com/watch?v=bf-DCTMZ3pw&t=272s](https://www.youtube.com/watch?v=bf-DCTMZ3pw&t=272s)
-
----
-
-## Warriors outpaced by Pelicans forward Saddiq Bey in first half | NBC Sports Bay Area — *Golden State Warriors*
-
-Source: [https://www.youtube.com/watch?v=cqB5sgDtkWA](https://www.youtube.com/watch?v=cqB5sgDtkWA)
-
-_Speakers identified: Kelenna Azubuike, Bob Fitzgerald_
-
-**1. Bob Fitzgerald — "the Warriors are the monster deficit and primarily the three-point shooting for the Dubs are shooting 20%" — Warriors' poor three-point shooting and Pelicans' dominant first half** [00:08](https://www.youtube.com/watch?v=cqB5sgDtkWA&t=8s)
-
-**Bob Fitzgerald:** "The Warriors are the monster deficit and primarily the three-point shooting for the Dubs are shooting 20% from the field for the game, but 35 in the first quarter for New Orleans, they get up 24 points and they've just been playing from ahead the whole time."
-
-**Kelenna Azubuike:** "The Pelicans came out with the right mindset. They're saying we're going to play inside-out and the team that's 25th in the league in three-point shooting percentage made 10 threes, and the Warriors started the game going we're just going to start shooting threes, play from the outside, and the team that's number one in the league made three threes."
-
-[https://www.youtube.com/watch?v=cqB5sgDtkWA&t=8s](https://www.youtube.com/watch?v=cqB5sgDtkWA&t=8s)
-
-**2. Bob Fitzgerald — "Saddiq Bey or Jeremiah Fears has to be mission number one in the second half" — Warriors must slow down Saddiq Bey and Jeremiah Fears** [00:43](https://www.youtube.com/watch?v=cqB5sgDtkWA&t=43s)
-
-**Bob Fitzgerald:** "Slowing down **Saddiq Bey** or **Jeremiah Fears** has to be mission number one in the second half because the big-time bifocals, **Saddiq Bey** was seven of eight with 21 points."
-
-**Kelenna Azubuike:** "He did it in a lot of different ways. First of all, he didn't miss a three, so that helped the Pelicans for sure. But he got it from the outside, he went inside, he actually got some work from the mid-post. It was just catch and shoot. First of all, you got to be up to touch with this guy if he's this scorching hot. Push up into him, make him do something else other than shoot three, make him drive by you, help your teammates out if you need it, but man, you got to stop him somehow."
-
-[https://www.youtube.com/watch?v=cqB5sgDtkWA&t=43s](https://www.youtube.com/watch?v=cqB5sgDtkWA&t=43s)
 
 ---
 
