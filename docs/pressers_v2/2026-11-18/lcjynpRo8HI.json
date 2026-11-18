@@ -1,0 +1,236 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Trail Blazers 105, Timberwolves 106 | Nov. 17, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:09",
+      "summary_phrase": "Jason Kent's performance and impact in his first start",
+      "names_mentioned": [
+        "Jason Kent"
+      ],
+      "excerpt": "Jason Kent knew that he was going to get the start. He plays 27 minutes and finds himself a plus-two.",
+      "quote": "The guys that played absolutely played their heart out. Jason Kent knew that he was going to get the start about 37-40 minutes before the game, and he plays 27 minutes and finds himself a plus-two. I think that everybody that checked in absolutely gave it their all. It's a shame because it's a tough one to lose for them because they played so hard.",
+      "start_seconds": 9,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Micah Nori praised Jason Kent for stepping into the starting lineup on short notice, noting that he found out he was starting just 40 minutes before tipoff and played 27 minutes in the win.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jason Kent"
+        ],
+        "teams": [
+          "POR",
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Nori discusses Jason Kent's performance after he was inserted into the starting lineup shortly before the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "01:44",
+      "summary_phrase": "Reasoning behind the decision to start Jason Kent",
+      "names_mentioned": [
+        "Jason Kent"
+      ],
+      "excerpt": "Just wanted to make sure that we have our bench unit the same.",
+      "quote": "Just wanted to make sure that we have our bench unit the same and just keep everybody in their same role except for Jason Kent, and he did a tremendous job.",
+      "start_seconds": 104,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori explains the decision to start Jason Kent was about keeping the bench unit intact and maintaining consistency in roles across the rest of the roster.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jason Kent"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Nori explains the reasoning for starting Jason Kent while keeping the rest of the bench unit roles consistent.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "02:08",
+      "summary_phrase": "Defensive effort and forcing turnovers to stay competitive",
+      "names_mentioned": [],
+      "excerpt": "Our defense forced them to speed up a little bit and did a good job as far as that.",
+      "quote": "Our defense forced them to speed up a little bit and did a good job as far as that. The other thing we did was we kept them off the offensive glass and we were able to get 14 of them as well. Pretty good job there, but that's what helped keep us in the game.",
+      "start_seconds": 128,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori credits the win to the team's defensive effort, specifically noting their ability to force turnovers and control the offensive glass.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori analyzes the defensive performance and rebounding efforts that kept the team competitive in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "02:59",
+      "summary_phrase": "Scoot Henderson's competitive spirit despite recent struggles",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "He's competing. He's trying to stay with it. He's in a bit of a funk, but he's competing.",
+      "quote": "He's competing. He's trying to stay with it. To your point, he's in a bit of a funk, but he's competing and that's all you can ask. He's just trying to do the right thing, play the right way. We needed all hands on deck, quite honestly, and that's what those guys did.",
+      "start_seconds": 179,
+      "end_seconds": 199,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Micah Nori acknowledges that Scoot Henderson is in a bit of a funk right now, but says he is still competing and trying to play the right way.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori comments on Scoot Henderson's competitive effort despite his recent struggles on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "03:34",
+      "summary_phrase": "Reflecting on the warm fan reception and team culture",
+      "names_mentioned": [],
+      "excerpt": "I've been fortunate in 29 years, I've been around a lot of good people, good situations.",
+      "quote": "I've been fortunate in 29 years, I've been around a lot of good people, a lot of good situations, a lot of good organizations. The fan base here, we did a lot of winning. I think that winning attributed to where I'm at right now, and a part of that winning was that staff, those players, and that front office. We're a family with the Trail Blazers, got a lot of good people in our front office, all the way down from our ownership to our players.",
+      "start_seconds": 214,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Micah Nori reflects on his 29 years in the league and praises the Trail Blazers organization, calling the team and front office a family.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori reflects on his career and the positive culture within the Trail Blazers organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Nori",
+      "timestamp": "04:38",
+      "summary_phrase": "Team development and the selfless nature of the roster",
+      "names_mentioned": [],
+      "excerpt": "We've got a lot of guys in that locker room that they compete in an extremely high level.",
+      "quote": "We've got a lot of guys in that locker room that they compete in an extremely high level. We've got a lot of adults in the room, they play and hold themselves to a high standard. No matter who's been out, these guys have all tried to step up and put their best foot forward and it shows. When you don't really care who deserves the credit, it's amazing what you can accomplish because these guys are very, very selfless.",
+      "start_seconds": 278,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Nori says the key to the team's recent success is the selfless nature of the roster, noting that the players do not care who gets the credit.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Nori praises the selfless nature and high standards of the players in the locker room.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Micah Nori",
+      "timestamp": "05:25",
+      "summary_phrase": "Lessons learned from Chris Finch regarding coaching philosophy",
+      "names_mentioned": [
+        "Chris Finch"
+      ],
+      "excerpt": "Just basically just telling guys the truth and being fair and honest.",
+      "quote": "Number one, just brutal truths. Basically just telling guys the truth and being fair and honest. There's no hearsay, there's none of this, so just telling everybody the truth, their roles, and letting them know what you expect of them. The second thing is, win or lose, over the course of 82 games, on a scale of 1 to 10, staying between 4 and 6. Just trying to stay level-headed, don't get too excited over wins, don't get too upset over the losses, but just showing consistency and being able to lead in that manner.",
+      "start_seconds": 325,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Micah Nori shares the coaching philosophy he learned from Chris Finch, emphasizing the importance of telling players the brutal truth and staying level headed throughout the 82 game season.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Finch"
+        ],
+        "teams": [
+          "POR",
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Nori shares the coaching lessons he learned from Chris Finch regarding honesty and maintaining consistency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "lcjynpRo8HI",
+  "url": "https://www.youtube.com/watch?v=lcjynpRo8HI",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-18T04:10:55Z",
+  "duration_seconds": 377,
+  "processed_at": "2026-11-18T05:01:13Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

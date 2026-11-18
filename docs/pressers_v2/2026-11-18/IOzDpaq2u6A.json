@@ -1,0 +1,284 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game vs New York Knicks | November 17 , 2026",
+  "speakers_seen": [
+    "Darko Rajakovic",
+    "Scottie Barnes",
+    "RJ Barrett",
+    "Ja'Kobe Walter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:05",
+      "summary_phrase": "Darko Rajakovic on the defensive breakdown leading to Jalen Brunson's shot",
+      "names_mentioned": [
+        "Jalen Brunson",
+        "Dillon Brooks"
+      ],
+      "excerpt": "I thought we had a breakdown on defensive end. We did not cover that the way we wanted.",
+      "quote": "I thought it was a good call. I thought we had a breakdown on defensive end. We did not cover that the way we wanted and he got open shot and it was right call.",
+      "start_seconds": 5,
+      "end_seconds": 18,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says the defensive breakdown on Jalen Brunson's late shot came down to a failure to cover the play the way the team wanted.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the defensive breakdown that allowed Jalen Brunson to get an open shot.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "Rqq1vwPuB1U",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:37",
+      "summary_phrase": "Darko Rajakovic on the challenges of closing out games in the fourth quarter",
+      "names_mentioned": [],
+      "excerpt": "We are learning what it means to win in a four quarter and that four quarter basketball is different.",
+      "quote": "We are learning what it means to win in a four quarter and that four quarter basketball is different. Four quarter basketball is going to be different in sense of referees, the whistle is going to tighten up. It is going to be different. You got to buy that time, you got to already know what is the criteria in the game. I think four quarter is it comes down to simple execution and it can be a little bit of luck.",
+      "start_seconds": 97,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the Raptors' late-game struggles: Four quarter basketball is different and it comes down to simple execution and a little bit of luck.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the difficulties the team faces while learning to execute in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "Rqq1vwPuB1U",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:30",
+      "summary_phrase": "Darko Rajakovic on the high volume of blitzes faced by Scottie Barnes",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "This might be the most blitzes that Scottie Barnes has seen in his career.",
+      "quote": "I am not sure but this might be the most blitzes that Scottie Barnes has seen in his career. Even when he was getting the ball in a pocket pass, he was not really sure where to go, what to do. I think there is going to be a lot of good teaching and learning clips from this game.",
+      "start_seconds": 210,
+      "end_seconds": 233,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic notes Scottie Barnes is seeing a massive amount of blitzes this season and admits the team has a lot of teaching to do regarding how he handles them.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic comments on the high volume of defensive blitzes Scottie Barnes faced during the game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "Rqq1vwPuB1U",
+        "rank": 5
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:43",
+      "summary_phrase": "Darko Rajakovic on RJ Barrett's development and consistent performance",
+      "names_mentioned": [
+        "RJ Barrett"
+      ],
+      "excerpt": "It looks like he is really maturing now as a player that he is putting more constant performance.",
+      "quote": "He is moving really, really well. He is very quick, always being in the right spots, finds his moments to shoot the ball, plays a lot of energy. I know RJ Barrett for a long time in the league and it looks like he is really maturing now as a player that he is putting more constant performance.",
+      "start_seconds": 283,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic says RJ Barrett is really maturing as a player and putting together more consistent performances lately.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "RJ Barrett"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the development and maturing performance of RJ Barrett.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "Rqq1vwPuB1U",
+        "rank": 8
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scottie Barnes",
+      "timestamp": "05:19",
+      "summary_phrase": "Scottie Barnes on the miscommunication during the final defensive play",
+      "names_mentioned": [],
+      "excerpt": "Just miscommunication on the switch which left them open for the shot.",
+      "quote": "Just miscommunication on the switch which left them open for the shot.",
+      "start_seconds": 319,
+      "end_seconds": 324,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Scottie Barnes says the final defensive play against the Knicks was simply a miscommunication on the switch.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes explains that a defensive miscommunication on a switch led to an open shot for the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "06:45",
+      "summary_phrase": "Ja'Kobe Walter on the need to limit late-game mistakes",
+      "names_mentioned": [],
+      "excerpt": "Just limiting the mistakes at the end of the game. That is when you got to lock in.",
+      "quote": "Just limiting the mistakes at the end of the game. That is when you got to lock in the most. The winning championship teams, they do not make those mistakes at the end of the game. That is when they really lock in on the basics. We just got to stick to the roots, we cannot let it slip at the end.",
+      "start_seconds": 405,
+      "end_seconds": 429,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Scottie Barnes on closing out games: Winning championship teams do not make mistakes at the end of the game. We just have to stick to the roots.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes emphasizes the need for the team to stop making mistakes during the final minutes of games.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "078dZbBBU9s",
+        "rank": 3
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 7,
+      "speaker": "RJ Barrett",
+      "timestamp": "09:00",
+      "summary_phrase": "RJ Barrett on the team's improved play despite the loss",
+      "names_mentioned": [],
+      "excerpt": "Honestly I think we played better than we did last game.",
+      "quote": "Honestly I think we played better than we did last game. So yeah, definitely not the best feeling to lose this game, but at the end of the day, we played better than we did last time. We are really playing well. That is why it is frustrating because we are playing well, we are doing enough to put ourselves in a position to win these games.",
+      "start_seconds": 540,
+      "end_seconds": 566,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "RJ Barrett says it is frustrating to lose because the team is playing well and putting themselves in a position to win.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett discusses the team's improved performance despite the loss to the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "OoT-lHtjHwo",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "RJ Barrett",
+      "timestamp": "12:35",
+      "summary_phrase": "RJ Barrett on giving credit to the Knicks' execution",
+      "names_mentioned": [],
+      "excerpt": "At some point you also got to give credit to the Knicks. They are running their offense.",
+      "quote": "At some point you also got to give credit to the Knicks. It is not like they are a bad team. I mean they are running their offense and they are good at it. They won a championship with it. But I said man, I think we are very well prepared and we are playing really good and we are in the game, we are winning the game for the most part.",
+      "start_seconds": 755,
+      "end_seconds": 783,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "RJ Barrett gives credit to the Knicks for their execution down the stretch, noting that they are a good team.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "RJ Barrett gives credit to the New York Knicks for their execution during the game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "OoT-lHtjHwo",
+        "rank": 6
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "IOzDpaq2u6A",
+  "url": "https://www.youtube.com/watch?v=IOzDpaq2u6A",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-18T04:10:58Z",
+  "duration_seconds": 873,
+  "processed_at": "2026-11-18T05:01:18Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

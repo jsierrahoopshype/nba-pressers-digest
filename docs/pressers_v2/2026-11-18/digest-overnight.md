@@ -12,7 +12,19 @@ From: [RJ Barrett \| Post Game vs New York Knicks \| November 17, 2026](https://
 
 <small>[Clip it](presserclips://clip?v=OoT-lHtjHwo&t=27&q=2) · [Send to Slack](presserclips://clip?v=OoT-lHtjHwo&t=27&q=2&slack=1)</small>
 
-**2. Cade Cunningham — "I thought there were still times where I was a little indecisive at times, especially early on." — Cade Cunningham on his intentionality and aggression throughout the game** [01:01](https://www.youtube.com/watch?v=v7Mz9OBous0&t=61s)
+**2. Ayo Dosunmu — "I trust my teammates and there's no person I'd rather have in that spot right there." — Ayo Dosunmu on the game-winning play and trusting his teammates** [00:03](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s)
+
+**Unidentified speaker:** "Melo comes up with a huge steal. You get the ball. You got to walk me through that final play that gets **Jaden** the bucket and you guys essentially the win."
+
+**Ayo Dosunmu:** "That was a great game. That's probably one of the best games I've been a part of. I was just trying to learn from my mistakes. Kamara took two charges on me in the game, so I just wanted to learn from my mistakes throughout the game. When I got that steal, I wanted to seize the moment, and I saw **Jaden** there and I trust my teammates and there's no person I'd rather have in that spot right there."
+
+[https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s)
+
+From: [Ayo Dosunmu Postgame Interview After Win Against Portland Trail Blazers \| 11.17.26](https://www.youtube.com/watch?v=jgLPOI4PtjQ) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=jgLPOI4PtjQ&t=3&q=1) · [Send to Slack](presserclips://clip?v=jgLPOI4PtjQ&t=3&q=1&slack=1)</small>
+
+**3. Cade Cunningham — "I thought there were still times where I was a little indecisive at times, especially early on." — Cade Cunningham on his intentionality and aggression throughout the game** [01:01](https://www.youtube.com/watch?v=v7Mz9OBous0&t=61s)
 
 **Unidentified reporter:** "You told me for you it is about being intentional about being aggressive. How much did you have to display that tonight?"
 
@@ -24,7 +36,7 @@ From: [Cade Post Game Interview  l  Pistons at Spurs  l 11.17.26 #NBA](https://w
 
 <small>[Clip it](presserclips://clip?v=v7Mz9OBous0&t=61&q=3) · [Send to Slack](presserclips://clip?v=v7Mz9OBous0&t=61&q=3&slack=1)</small>
 
-**3. Ja'Kobe Walter — "The winning championship teams, they don't make those mistakes at the end of the game." — Ja'Kobe Walter on limiting late-game mistakes to close out games** [01:39](https://www.youtube.com/watch?v=078dZbBBU9s&t=99s)
+**4. Ja'Kobe Walter — "The winning championship teams, they don't make those mistakes at the end of the game." — Ja'Kobe Walter on limiting late-game mistakes to close out games** [01:39](https://www.youtube.com/watch?v=078dZbBBU9s&t=99s)
 
 Ja'Kobe Walter: "Just limiting the mistakes at the end of the game. I think that's when you got to lock in the most. The winning championship teams, they don't make those mistakes at the end of the game. That's when they really lock in on the basics. We just got to stick to the roots. We can't let it slip at the end. Got to be able to play with the lead and even when it's a tie game, just figure out those winning plays, those little plays. We just got to always make them just to win those games, and lately we've been messing up."
 
@@ -34,7 +46,7 @@ From: [Ja'Kobe Walter \| Post Game vs New York Knicks \| November 17, 2026](http
 
 <small>[Clip it](presserclips://clip?v=078dZbBBU9s&t=99&q=3) · [Send to Slack](presserclips://clip?v=078dZbBBU9s&t=99&q=3&slack=1)</small>
 
-**4. Jaden McDaniels — "It feels good just to know you can beat the team two times off a back-to-back." — Jaden McDaniels on the importance of winning back-to-back games** [00:35](https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s)
+**5. Jaden McDaniels — "It feels good just to know you can beat the team two times off a back-to-back." — Jaden McDaniels on the importance of winning back-to-back games** [00:35](https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s)
 
 **Unidentified reporter:** "How good was this win feel for you?"
 
@@ -93,6 +105,22 @@ Ja'Kobe Walter: "Honestly no. I think the best people in the league that draw fo
 [https://www.youtube.com/watch?v=078dZbBBU9s&t=154s](https://www.youtube.com/watch?v=078dZbBBU9s&t=154s)
 
 <small>[Clip it](presserclips://clip?v=078dZbBBU9s&t=154&q=5) · [Send to Slack](presserclips://clip?v=078dZbBBU9s&t=154&q=5&slack=1)</small>
+
+---
+
+## Toronto Raptors Full Media Availability | Post Game vs New York Knicks | November 17 , 2026 — *Toronto Raptors*
+
+Source: [https://www.youtube.com/watch?v=IOzDpaq2u6A](https://www.youtube.com/watch?v=IOzDpaq2u6A)
+
+_Speakers identified: Darko Rajakovic, Scottie Barnes, RJ Barrett, Ja'Kobe Walter_
+
+**5. Scottie Barnes — "Just miscommunication on the switch which left them open for the shot." — Scottie Barnes on the miscommunication during the final defensive play** [05:19](https://www.youtube.com/watch?v=IOzDpaq2u6A&t=319s)
+
+Scottie Barnes: "Just miscommunication on the switch which left them open for the shot."
+
+[https://www.youtube.com/watch?v=IOzDpaq2u6A&t=319s](https://www.youtube.com/watch?v=IOzDpaq2u6A&t=319s)
+
+<small>[Clip it](presserclips://clip?v=IOzDpaq2u6A&t=319&q=5) · [Send to Slack](presserclips://clip?v=IOzDpaq2u6A&t=319&q=5&slack=1)</small>
 
 ---
 
@@ -333,6 +361,108 @@ _Speakers identified: Alan Horton, Jaden McDaniels_
 [https://www.youtube.com/watch?v=e3Ngro93UXQ&t=68s](https://www.youtube.com/watch?v=e3Ngro93UXQ&t=68s)
 
 <small>[Clip it](presserclips://clip?v=e3Ngro93UXQ&t=68&q=4) · [Send to Slack](presserclips://clip?v=e3Ngro93UXQ&t=68&q=4&slack=1)</small>
+
+---
+
+## Ayo Dosunmu Postgame Interview After Win Against Portland Trail Blazers | 11.17.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=jgLPOI4PtjQ](https://www.youtube.com/watch?v=jgLPOI4PtjQ)
+
+_Speakers identified: Unidentified speaker, Ayo Dosunmu_
+
+**1. Ayo Dosunmu — "I trust my teammates and there's no person I'd rather have in that spot right there." — Ayo Dosunmu on the game-winning play and trusting his teammates** [00:03](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s)
+
+**Unidentified speaker:** "Melo comes up with a huge steal. You get the ball. You got to walk me through that final play that gets **Jaden** the bucket and you guys essentially the win."
+
+**Ayo Dosunmu:** "That was a great game. That's probably one of the best games I've been a part of. I was just trying to learn from my mistakes. Kamara took two charges on me in the game, so I just wanted to learn from my mistakes throughout the game. When I got that steal, I wanted to seize the moment, and I saw **Jaden** there and I trust my teammates and there's no person I'd rather have in that spot right there."
+
+[https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s)
+
+<small>[Clip it](presserclips://clip?v=jgLPOI4PtjQ&t=3&q=1) · [Send to Slack](presserclips://clip?v=jgLPOI4PtjQ&t=3&q=1&slack=1)</small>
+
+**2. Ayo Dosunmu — "I'm very consistent in what I do. I'm very consistent in my approach." — Ayo Dosunmu on maintaining mental focus and consistency** [00:39](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=39s)
+
+**Unidentified reporter:** "You had a tough night last night scoring-wise. You had one heck of a first half and followed it up with a big second half as well too. How were you able to just mentally lock in and fight back and have that bounce-back game?"
+
+**Ayo Dosunmu:** "Just trusted in my work, believing in my faith, and having trust in my work. I'm very consistent in what I do. I'm very consistent in my approach. I didn't have the game I wanted yesterday, but we got the win and that's what's all about and I wanted to bounce back and I was very excited to do so."
+
+[https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=39s](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=39s)
+
+<small>[Clip it](presserclips://clip?v=jgLPOI4PtjQ&t=39&q=2) · [Send to Slack](presserclips://clip?v=jgLPOI4PtjQ&t=39&q=2&slack=1)</small>
+
+**3. Ayo Dosunmu — "He was amazing. Shout out Trey Lyles. He was the MVP tonight." — Ayo Dosunmu praises Trey Lyles' performance during injury-riddled stretch** [01:05](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=65s)
+
+**Unidentified reporter:** "You guys have been dealing with injuries. **JK** goes down, it's next man up. Tonight, he may not have had a huge scoring night, but how huge was **Trey Lyles** for you guys tonight?"
+
+**Ayo Dosunmu:** "He was amazing. Shout out **Trey Lyles**. He was the MVP tonight. He made big plays, big rebound. He made two big stops right there and that's what's all about. When we down soldiers, it's always next man up mentality, so I'm very excited. It's my uncle's birthday today, so that that win was for him."
+
+[https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=65s](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=65s)
+
+<small>[Clip it](presserclips://clip?v=jgLPOI4PtjQ&t=65&q=3) · [Send to Slack](presserclips://clip?v=jgLPOI4PtjQ&t=65&q=3&slack=1)</small>
+
+---
+
+## Micah Nori Postgame Interview | Trail Blazers 105, Timberwolves 106 | Nov. 17, 2026 — *Portland Trail Blazers*
+
+Source: [https://www.youtube.com/watch?v=lcjynpRo8HI](https://www.youtube.com/watch?v=lcjynpRo8HI)
+
+_Speakers identified: Micah Nori_
+
+**1. Micah Nori — "Jason Kent knew that he was going to get the start. He plays 27 minutes and finds himself a plus-two." — Jason Kent's performance and impact in his first start** [00:09](https://www.youtube.com/watch?v=lcjynpRo8HI&t=9s)
+
+Micah Nori: "The guys that played absolutely played their heart out. **Jason Kent** knew that he was going to get the start about 37-40 minutes before the game, and he plays 27 minutes and finds himself a plus-two. I think that everybody that checked in absolutely gave it their all. It's a shame because it's a tough one to lose for them because they played so hard."
+
+[https://www.youtube.com/watch?v=lcjynpRo8HI&t=9s](https://www.youtube.com/watch?v=lcjynpRo8HI&t=9s)
+
+<small>[Clip it](presserclips://clip?v=lcjynpRo8HI&t=9&q=1) · [Send to Slack](presserclips://clip?v=lcjynpRo8HI&t=9&q=1&slack=1)</small>
+
+**2. Micah Nori — "Just wanted to make sure that we have our bench unit the same." — Reasoning behind the decision to start Jason Kent** [01:44](https://www.youtube.com/watch?v=lcjynpRo8HI&t=104s)
+
+Micah Nori: "Just wanted to make sure that we have our bench unit the same and just keep everybody in their same role except for **Jason Kent**, and he did a tremendous job."
+
+[https://www.youtube.com/watch?v=lcjynpRo8HI&t=104s](https://www.youtube.com/watch?v=lcjynpRo8HI&t=104s)
+
+<small>[Clip it](presserclips://clip?v=lcjynpRo8HI&t=104&q=2) · [Send to Slack](presserclips://clip?v=lcjynpRo8HI&t=104&q=2&slack=1)</small>
+
+**3. Micah Nori — "Our defense forced them to speed up a little bit and did a good job as far as that." — Defensive effort and forcing turnovers to stay competitive** [02:08](https://www.youtube.com/watch?v=lcjynpRo8HI&t=128s)
+
+Micah Nori: "Our defense forced them to speed up a little bit and did a good job as far as that. The other thing we did was we kept them off the offensive glass and we were able to get 14 of them as well. Pretty good job there, but that's what helped keep us in the game."
+
+[https://www.youtube.com/watch?v=lcjynpRo8HI&t=128s](https://www.youtube.com/watch?v=lcjynpRo8HI&t=128s)
+
+<small>[Clip it](presserclips://clip?v=lcjynpRo8HI&t=128&q=3) · [Send to Slack](presserclips://clip?v=lcjynpRo8HI&t=128&q=3&slack=1)</small>
+
+**4. Micah Nori — "He's competing. He's trying to stay with it. He's in a bit of a funk, but he's competing." — Scoot Henderson's competitive spirit despite recent struggles** [02:59](https://www.youtube.com/watch?v=lcjynpRo8HI&t=179s)
+
+Micah Nori: "He's competing. He's trying to stay with it. To your point, he's in a bit of a funk, but he's competing and that's all you can ask. He's just trying to do the right thing, play the right way. We needed all hands on deck, quite honestly, and that's what those guys did."
+
+[https://www.youtube.com/watch?v=lcjynpRo8HI&t=179s](https://www.youtube.com/watch?v=lcjynpRo8HI&t=179s)
+
+<small>[Clip it](presserclips://clip?v=lcjynpRo8HI&t=179&q=4) · [Send to Slack](presserclips://clip?v=lcjynpRo8HI&t=179&q=4&slack=1)</small>
+
+**5. Micah Nori — "I've been fortunate in 29 years, I've been around a lot of good people, good situations." — Reflecting on the warm fan reception and team culture** [03:34](https://www.youtube.com/watch?v=lcjynpRo8HI&t=214s)
+
+Micah Nori: "I've been fortunate in 29 years, I've been around a lot of good people, a lot of good situations, a lot of good organizations. The fan base here, we did a lot of winning. I think that winning attributed to where I'm at right now, and a part of that winning was that staff, those players, and that front office. We're a family with the Trail Blazers, got a lot of good people in our front office, all the way down from our ownership to our players."
+
+[https://www.youtube.com/watch?v=lcjynpRo8HI&t=214s](https://www.youtube.com/watch?v=lcjynpRo8HI&t=214s)
+
+<small>[Clip it](presserclips://clip?v=lcjynpRo8HI&t=214&q=5) · [Send to Slack](presserclips://clip?v=lcjynpRo8HI&t=214&q=5&slack=1)</small>
+
+**6. Micah Nori — "We've got a lot of guys in that locker room that they compete in an extremely high level." — Team development and the selfless nature of the roster** [04:38](https://www.youtube.com/watch?v=lcjynpRo8HI&t=278s)
+
+Micah Nori: "We've got a lot of guys in that locker room that they compete in an extremely high level. We've got a lot of adults in the room, they play and hold themselves to a high standard. No matter who's been out, these guys have all tried to step up and put their best foot forward and it shows. When you don't really care who deserves the credit, it's amazing what you can accomplish because these guys are very, very selfless."
+
+[https://www.youtube.com/watch?v=lcjynpRo8HI&t=278s](https://www.youtube.com/watch?v=lcjynpRo8HI&t=278s)
+
+<small>[Clip it](presserclips://clip?v=lcjynpRo8HI&t=278&q=6) · [Send to Slack](presserclips://clip?v=lcjynpRo8HI&t=278&q=6&slack=1)</small>
+
+**7. Micah Nori — "Just basically just telling guys the truth and being fair and honest." — Lessons learned from Chris Finch regarding coaching philosophy** [05:25](https://www.youtube.com/watch?v=lcjynpRo8HI&t=325s)
+
+Micah Nori: "Number one, just brutal truths. Basically just telling guys the truth and being fair and honest. There's no hearsay, there's none of this, so just telling everybody the truth, their roles, and letting them know what you expect of them. The second thing is, win or lose, over the course of 82 games, on a scale of 1 to 10, staying between 4 and 6. Just trying to stay level-headed, don't get too excited over wins, don't get too upset over the losses, but just showing consistency and being able to lead in that manner."
+
+[https://www.youtube.com/watch?v=lcjynpRo8HI&t=325s](https://www.youtube.com/watch?v=lcjynpRo8HI&t=325s)
+
+<small>[Clip it](presserclips://clip?v=lcjynpRo8HI&t=325&q=7) · [Send to Slack](presserclips://clip?v=lcjynpRo8HI&t=325&q=7&slack=1)</small>
 
 ---
 
