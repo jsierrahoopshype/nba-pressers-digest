@@ -1,0 +1,278 @@
+{
+  "video_title": "Darko Rajakovic | Post Game vs New York Knicks | November 17, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:05",
+      "summary_phrase": "Darko Rajakovic defends the late-game foul call on Jakob Poeltl",
+      "names_mentioned": [
+        "Jakob Poeltl",
+        "Jalen Brunson"
+      ],
+      "excerpt": "I thought it was a good call. I thought we had a breakdown on defensive end.",
+      "quote": "I thought it was a good call. I thought we had a breakdown on defensive end. We did not cover that the way we wanted, and he got an open shot and it was a right call.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 19,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says the late game foul call on Jakob Poeltl was the right call and pointed to a defensive breakdown as the reason for the open shot.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic discusses a late-game defensive breakdown and the foul call involving Jakob Poeltl.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:39",
+      "summary_phrase": "Rajakovic on the team's late-game execution and defensive discipline",
+      "names_mentioned": [],
+      "excerpt": "Our defense was rock solid. We did really good job. It just on that one play.",
+      "quote": "It was one minute and three seconds to go with 102-102. Up till to that point, our defense was rock solid. We did really good job. It just on that one play, that's discipline, that's a little bit of youth. A couple of things can go into that, but I thought that overall we sustained even longer period of discipline and of execution tonight than we did even two days ago.",
+      "text_blocks": [],
+      "start_seconds": 39,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the late game loss to the Knicks: It was a matter of discipline and youth on that one play, but overall the team sustained execution longer than they did two days ago.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the team's defensive discipline and execution during the final minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:37",
+      "summary_phrase": "Rajakovic on the unique challenges of fourth-quarter basketball",
+      "names_mentioned": [],
+      "excerpt": "We are learning what it means to win in a fourth quarter, and that fourth quarter basketball is different.",
+      "quote": "We are learning what it means to win in a fourth quarter, and that fourth quarter basketball is different. Fourth quarter basketball is going to be different in sense of referees, the whistle is going to tighten up. It's going to be different. You got to by that time, you got to already know what is the criteria in the game. I think fourth quarter is it comes down to simple execution and it can be a little bit of luck.",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the learning curve of fourth quarter basketball: The whistle tightens up and you have to understand the criteria of the game to succeed.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the challenges and differences of playing basketball in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:24",
+      "summary_phrase": "Rajakovic addresses the team's ongoing struggles with free-throw shooting",
+      "names_mentioned": [],
+      "excerpt": "If you make eight more free throws, it would be even closer game, or we would win it.",
+      "quote": "If you make eight more free throws, it would be even closer game, or we would win it by that time. Free throws are there is no other way. You got to step on the line and knock down shot and you got to put the work in. Our guys are in the gym, they're putting the work in, they're really trying to to address that. There is a balance of how much work you're putting in and a balance of just like step on the line and knock down a shot without making it a mental barrier.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic addresses the Raptors free throw struggles: You have to step on the line and knock down the shot without making it a mental barrier.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic addresses the team's ongoing struggles with free-throw shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:11",
+      "summary_phrase": "Rajakovic on the high volume of blitzes faced by Scottie Barnes",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "This might be the most blitzes that Scottie Barnes has seen in his career.",
+      "quote": "I got to take a look more at the film. They were super aggressive. You got to be able as a five-man coming to set those screens to slip out earlier so there is no actually two players on the ball so you can create a gap there. This is, I'm not sure, but this might be the most blitzes that Scottie Barnes has seen in his career. Even when he was getting the ball in a pocket pass, he was not really sure where to go, what to do. I think there is going to be a lot of good teaching and learning clips from this game.",
+      "text_blocks": [],
+      "start_seconds": 191,
+      "end_seconds": 233,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Darko Rajakovic says Scottie Barnes may have faced the most blitzes of his career against the Knicks, noting that Barnes was unsure how to react to the pressure.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic analyzes the defensive pressure and blitzes faced by Scottie Barnes during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:50",
+      "summary_phrase": "Rajakovic explains the decision to start Collins over Poeltl",
+      "names_mentioned": [
+        "Collins",
+        "Jakob Poeltl",
+        "Scottie Barnes",
+        "Jakob",
+        "Towns",
+        "Jalen Brunson"
+      ],
+      "excerpt": "The way Scottie Barnes was guarding and switchability with him and Jakob on Towns and Brunson, it was more of a matchup thing.",
+      "quote": "The way Scottie Barnes was guarding and switchability with him and Jakob on Towns and Brunson, it was more of a matchup thing.",
+      "text_blocks": [],
+      "start_seconds": 230,
+      "end_seconds": 239,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic explains the decision to start Collins over Poeltl against New York was strictly a matchup decision based on switchability against Towns and Brunson.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes",
+          "Jakob Poeltl",
+          "Karl-Anthony Towns",
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic explains the strategic reasoning behind his lineup choices and defensive matchups against the Knicks.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:08",
+      "summary_phrase": "Rajakovic on the miscommunication during the late-game defensive breakdown",
+      "names_mentioned": [
+        "Walter"
+      ],
+      "excerpt": "It was a miscommunication. We did not good enough job of being physical and leading the main man.",
+      "quote": "It was a miscommunication. We did not good enough job of being physical and leading the main man to the screen and then it created a little bit of miscommunication there.",
+      "text_blocks": [],
+      "start_seconds": 248,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Darko Rajakovic attributes the late game defensive breakdown to a miscommunication and a lack of physicality when navigating screens.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the cause of a late-game defensive breakdown.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "04:43",
+      "summary_phrase": "Rajakovic praises Landers Nolley's recent performance and development",
+      "names_mentioned": [
+        "Landers"
+      ],
+      "excerpt": "He is moving really, really well. He is very quick, always being in the right spots.",
+      "quote": "He is moving really, really well. He is very quick, always being in the right spots, finds his moments to shoot the ball, plays a lot of energy. I know Landers for a long time in the league and it looks like he's really maturing now as a player that he's putting more constant performance.",
+      "text_blocks": [],
+      "start_seconds": 283,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic praises the development of Landers Nolley, noting that he is maturing as a player and providing more consistent performances.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Landers Nolley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic comments on the recent development and performance of Landers Nolley.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "Rqq1vwPuB1U",
+  "url": "https://www.youtube.com/watch?v=Rqq1vwPuB1U",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-18T04:00:43Z",
+  "duration_seconds": 310,
+  "processed_at": "2026-11-18T04:09:34Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

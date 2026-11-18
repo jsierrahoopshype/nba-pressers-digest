@@ -1,0 +1,246 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons at Spurs  l 11.17.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:05",
+      "summary_phrase": "J.B. Bickerstaff credits defensive effort for win against Spurs",
+      "names_mentioned": [],
+      "excerpt": "that second, third, fourth quarter defensively for us was immaculate.",
+      "quote": "Defense, character. I thought that second, third, fourth quarter defensively for us was immaculate. The way that guys were competing, the way we were playing physical, the way that we were executing our system, the way we were scrapping undersized to rebound the basketball, that was a character win and that's what Detroit Pistons basketball looks like and our guys got back to it tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says the Pistons win over the Spurs was a character win and that is what Detroit Pistons basketball looks like",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Head coach J.B. Bickerstaff discusses the defensive effort and team character following a victory against the San Antonio Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:38",
+      "summary_phrase": "J.B. Bickerstaff praises Cade Cunningham and Jalen Duren's resolve",
+      "names_mentioned": [
+        "Cade Cunningham",
+        "Jalen Duren"
+      ],
+      "excerpt": "they're just winners and that's what's the most important thing to them.",
+      "quote": "They're just winners and that's what's the most important thing to them. They were able to understand how they were being defended. The midrange shot was going to be there for them all night. The guys that they had their bigs on did a good job of setting screens and creating that space for them, but being able to take what's there for you. We made six threes, but we had 60 points in the paint, I believe. So we were being aggressive and getting to the paint and that's what we are, that's the identity that we have to continue to maintain.",
+      "verbatim_original_language": "",
+      "start_seconds": 38,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff on Cade Cunningham and Jalen Duren after the win against the Spurs: They are just winners and that is what is the most important thing to them",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham",
+          "Jalen Duren"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "J.B. Bickerstaff praises the resolve and decision-making of Cade Cunningham and Jalen Duren during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:23",
+      "summary_phrase": "J.B. Bickerstaff on restoring defensive identity through practice",
+      "names_mentioned": [],
+      "excerpt": "we were very intentional with the messaging, we were very intentional with the work that we did.",
+      "quote": "We had a day to practice and we were very intentional with the messaging, we were very intentional with the work that we did, the time that we spent on the floor, just to give guys that feeling to be back at it. It happens. We've traveled a ton, played a lot of games, haven't had a lot of time to practice so there is slippage there. It was great to just get a practice, get in the gym and get that feel back for it.",
+      "verbatim_original_language": "",
+      "start_seconds": 83,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says the team had some slippage due to a heavy travel schedule but a recent practice helped them get back to their defensive identity",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains how a recent practice session helped the team restore their defensive identity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:56",
+      "summary_phrase": "J.B. Bickerstaff on team rebounding and toughness without Jalen Duren",
+      "names_mentioned": [
+        "Jalen Duren"
+      ],
+      "excerpt": "not one person is going to be able to do what Jalen Duren does.",
+      "quote": "Not one person is going to be able to do what Jalen Duren does, but we got a lot of dudes that fight like hell and that's what it comes down to on the boards. The boards comes down to a war and do you have the will to go get it done through contact, through physicality? Do you have the mental toughness to go get it done when it matters? And I thought our guys do and it was important to them and tonight they went out and got it done.",
+      "verbatim_original_language": "",
+      "start_seconds": 116,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff on rebounding without Jalen Duren: Not one person is going to be able to do what Jalen does but we have a lot of dudes that fight like hell",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Duren"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the team's collective effort to rebound effectively in the absence of Jalen Duren.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:44",
+      "summary_phrase": "J.B. Bickerstaff on maintaining an aggressive offensive mindset",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "if you allow them to play comfortable in their defense and just play, Wembanyama takes up all that space",
+      "quote": "Watching the film and studying your opponent, finding the opportunities that are there for you. I think that this is a team that you have to be aggressive versus. If you allow them to play comfortable in their defense and just play, Wembanyama takes up all that space and he can just split the difference, he makes it really difficult on you. But our guys did a great job of just attacking and they got their shots blocked some, but then they went and finished more. So I think that's the important thing for us is our mindset has to be attack, attack, attack.",
+      "verbatim_original_language": "",
+      "start_seconds": 164,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff on attacking Victor Wembanyama: Our guys did a great job of just attacking and they got their shots blocked some but then they went and finished more",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "DET",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains the offensive strategy used to attack the defense led by Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:34",
+      "summary_phrase": "J.B. Bickerstaff on Ausar Thompson's development and playmaking",
+      "names_mentioned": [
+        "Ausar Thompson"
+      ],
+      "excerpt": "the ball in his hands and understanding of where his outlets are.",
+      "quote": "The ball in his hands and understanding of where his outlets are and his teammates doing a great job of finding their spaces because they know he's going to make plays. I think he's recognizing the game and the game slowed down for him on that end of the floor to where he knows where his plays are going to be made and where his outlets are.",
+      "verbatim_original_language": "",
+      "start_seconds": 214,
+      "end_seconds": 240,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says the game has slowed down for Ausar Thompson and he is recognizing where his outlets are and where his plays are going to be made",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ausar Thompson"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "J.B. Bickerstaff evaluates the playmaking development and court awareness of Ausar Thompson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "04:04",
+      "summary_phrase": "J.B. Bickerstaff on Ausar Thompson's physical dominance",
+      "names_mentioned": [
+        "Ausar Thompson",
+        "Cade Cunningham"
+      ],
+      "excerpt": "it's just going to come down to sheer force with Ausar.",
+      "quote": "It's just going to come down to sheer force with Ausar. There's maybe one other person on this planet that can do what he does from an attack standpoint and the explosiveness mixed with the speed and the touch around the rim. I think he's just got to get comfortable doing that over and over and over again until defense decides to make a different decision and right now that's the read for him.",
+      "verbatim_original_language": "",
+      "start_seconds": 244,
+      "end_seconds": 272,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "JB Bickerstaff on Ausar Thompson: There is maybe one other person on this planet that can do what he does from an attack standpoint and the explosiveness mixed with the speed",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ausar Thompson"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff comments on the physical tools and explosive playing style of Ausar Thompson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "MWmcmvnR0P0",
+  "url": "https://www.youtube.com/watch?v=MWmcmvnR0P0",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-18T04:00:42Z",
+  "duration_seconds": 283,
+  "processed_at": "2026-11-18T04:09:28Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

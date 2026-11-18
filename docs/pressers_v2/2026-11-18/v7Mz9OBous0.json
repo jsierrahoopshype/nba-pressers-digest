@@ -1,0 +1,156 @@
+{
+  "video_title": "Cade Post Game Interview  l  Pistons at Spurs  l 11.17.26 #NBA",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Cade Cunningham"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Cade Cunningham",
+      "speakers": [
+        "Unidentified speaker",
+        "Cade Cunningham"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Cade Cunningham on the Pistons' collective effort against the Spurs",
+      "names_mentioned": [],
+      "excerpt": "It was a group effort. Everybody had to bring it.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Short-handed against one of the hottest teams in the league, what sort of effort did this take as a whole?"
+        },
+        {
+          "speaker": "Cade Cunningham",
+          "text": "It was a group effort. Everybody had to bring it. I like my guys. We do this together every day. We love basketball. We all come from a little bit of grit and earning our way to get to this point. We told ourselves if we want a brotherhood, we are going to be a brotherhood by the time we left today. I think we got a little closer today, so it is a good win for us."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Cade Cunningham on the Pistons win over the Spurs: It was a group effort. We told ourselves if we want a brotherhood, we are going to be a brotherhood by the time we left today. I think we got a little closer today.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Cade Cunningham discusses the Pistons' collective effort and team mentality following their win against the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Cade Cunningham",
+      "speakers": [
+        "Unidentified reporter",
+        "Cade Cunningham"
+      ],
+      "timestamp": "00:33",
+      "summary_phrase": "Cade Cunningham on the team's defensive mindset against Victor Wembanyama",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "Nobody in that locker room has fear in their heart for anybody.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Winning points in the paint, the defensive effort against a team that has a player like Victor Wembanyama, what can you say about the whole message that the group had coming into this one?"
+        },
+        {
+          "speaker": "Cade Cunningham",
+          "text": "Have fun, play basketball. It is another game. Obviously they are a good team, but nobody in that locker room has fear in their heart for anybody. It is just about coming out here, playing basketball, doing what we do best, and executing our game plan."
+        }
+      ],
+      "start_seconds": 33,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Cade Cunningham on facing Victor Wembanyama and the Spurs: Nobody in that locker room has fear in their heart for anybody. It is just about coming out here, playing basketball, and executing our game plan.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "DET",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Cade Cunningham explains the team's defensive mindset and lack of fear when facing Victor Wembanyama and the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cade Cunningham",
+      "speakers": [
+        "Unidentified reporter",
+        "Cade Cunningham"
+      ],
+      "timestamp": "01:01",
+      "summary_phrase": "Cade Cunningham on his intentionality and aggression throughout the game",
+      "names_mentioned": [
+        "DJ",
+        "Woo"
+      ],
+      "excerpt": "I thought there were still times where I was a little indecisive at times, especially early on.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You told me for you it is about being intentional about being aggressive. How much did you have to display that tonight?"
+        },
+        {
+          "speaker": "Cade Cunningham",
+          "text": "I did a little bit. I thought there were still times where I was a little indecisive at times, especially early on. Wembanyama kind of made me be indecisive. I was trying to predetermine some of my decision-making, but I think I got a good footing in the game as it went on. My teammates, they were huge. DJ was huge, Woo rebounding the ball. I could go down the list, everybody made a big effort and added to this win. It is a great team win."
+        }
+      ],
+      "start_seconds": 61,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Cade Cunningham admits Victor Wembanyama made him indecisive early in the game: Wembanyama kind of made me be indecisive. I was trying to predetermine some of my decision making, but I think I got a good footing in the game as it went on.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "DET",
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cade Cunningham reflects on his own performance, his struggles against Victor Wembanyama, and the contributions of his teammates in the victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "v7Mz9OBous0",
+  "url": "https://www.youtube.com/watch?v=v7Mz9OBous0",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-18T03:45:45Z",
+  "duration_seconds": 97,
+  "processed_at": "2026-11-18T04:09:43Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

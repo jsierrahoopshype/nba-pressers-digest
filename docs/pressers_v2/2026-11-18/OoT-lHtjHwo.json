@@ -1,0 +1,223 @@
+{
+  "video_title": "RJ Barrett | Post Game vs New York Knicks | November 17, 2026",
+  "speakers_seen": [
+    "RJ Barrett"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Unidentified reporter",
+      "timestamp": "00:00",
+      "summary_phrase": "RJ Barrett on the Raptors' late-game execution struggles",
+      "names_mentioned": [],
+      "excerpt": "must get a little frustrating at this point to play games that are pretty complete",
+      "quote": "It must get a little frustrating at this point to play games that are pretty complete and then just a couple of breakdowns down the last stretch of a game and you end up coming out the wrong end. I mean, how would you assess the first 45, 46 minutes versus how it ended up?",
+      "text_blocks": [],
+      "reporter_question": true,
+      "speaker_confidence": "inferred",
+      "start_seconds": 0,
+      "end_seconds": 21,
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "A reporter asks RJ Barrett about the Raptors' late-game execution struggles after another close loss to the Knicks.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "A reporter asks RJ Barrett about the Raptors' frustration regarding late-game execution struggles in their loss to the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "RJ Barrett",
+      "timestamp": "00:27",
+      "summary_phrase": "RJ Barrett on the Raptors' performance against the Knicks",
+      "names_mentioned": [],
+      "excerpt": "I think we played better than than last game. Definitely not the best feeling to lose",
+      "quote": "Once again, another good team. I think we played well. Honestly, I think we played better than last game. So, yeah, definitely not the best feeling to lose this game, but at the end of the day, we played better than we did last time. We're really playing well. That's why it's frustrating because we are playing well. We're doing enough to put ourselves in a position to win these games. We're up three to start the fourth at home. These should be games that we're winning.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "RJ Barrett says the Raptors are playing well enough to win but are frustrated by late-game losses: These should be games that we are winning.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "RJ Barrett reflects on the team's performance and the frustration of losing close games despite playing well.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "RJ Barrett",
+      "timestamp": "01:37",
+      "summary_phrase": "RJ Barrett on recurring late-game mistakes",
+      "names_mentioned": [],
+      "excerpt": "It's always just key little mistakes or little effort things that are going the other team's way",
+      "quote": "It points to some of the same things in every game. Tonight, it's always just key little mistakes or little effort things that are going the other team's way in these last moments instead of our way. We have to clean those up at the end of the game.",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "RJ Barrett on the Raptors' recurring late-game issues: It is always just key little mistakes or little effort things that are going the other team's way in these last moments instead of our way.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett discusses the recurring late-game mistakes and effort issues that have cost the Raptors games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "RJ Barrett",
+      "timestamp": "02:19",
+      "summary_phrase": "RJ Barrett on the team's preparation and late-game execution",
+      "names_mentioned": [],
+      "excerpt": "This game, I feel like more than the other ones, we really came into this one ready",
+      "quote": "This game, I feel like more than the other ones, we really came into this one ready. Like I said, it's still these games are close, coming down to the wire. A couple plays that we have that they go our way, it's a different game. But we have to give ourselves a better chance in terms of getting out-rebounded like that. It's tough to overcome that.",
+      "text_blocks": [],
+      "start_seconds": 139,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "RJ Barrett points to rebounding as a major factor in the Raptors' loss to the Knicks: It is tough to overcome that.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett explains that rebounding struggles and minor execution errors are preventing the team from winning close games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "RJ Barrett",
+      "timestamp": "03:24",
+      "summary_phrase": "RJ Barrett on his role and responsibilities on the floor",
+      "names_mentioned": [],
+      "excerpt": "I think everybody on the team has a role, and I just try to go out there",
+      "quote": "I think everybody on the team has a role, and I just try to go out there and do my job to the best of my abilities every night on both ends of the floor.",
+      "text_blocks": [],
+      "start_seconds": 204,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 1,
+      "social_post": "RJ Barrett on his approach: I think everybody on the team has a role, and I just try to go out there and do my job to the best of my abilities every night on both ends of the floor.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "RJ Barrett describes his approach to fulfilling his role and responsibilities on the floor for the Raptors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "RJ Barrett",
+      "timestamp": "04:06",
+      "summary_phrase": "RJ Barrett on the Knicks' offensive execution",
+      "names_mentioned": [],
+      "excerpt": "At some point, you also got to give credit to the Knicks. It's not like they're a bad team",
+      "quote": "At some point, you also got to give credit to the Knicks. It's not like they're a bad team. They're running their offense and they're good at it. They won a championship with it. But I think we're very well prepared and we're playing really good and we're in the game, we're winning the game for the most part. Then runs there, runs there, we just got to play a full 48.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "RJ Barrett on the Knicks: At some point, you also got to give credit to the Knicks. It is not like they are a bad team. They are running their offense and they are good at it.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "RJ Barrett acknowledges the offensive execution of the Knicks while emphasizing the need for the Raptors to play a full 48 minutes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "RJ Barrett",
+      "timestamp": "04:51",
+      "summary_phrase": "RJ Barrett on regrouping after timeouts",
+      "names_mentioned": [],
+      "excerpt": "Coach calls a timeout and then I think we just have to do a better job of regrouping",
+      "quote": "Coach calls a timeout and then I think we just have to do a better job of regrouping and coming out and executing, playing with more force. Whatever it is that we got to do during those moments, we got to hunker down and figure that out. We can't allow a 19-0 run. We can't allow things like that.",
+      "text_blocks": [],
+      "start_seconds": 291,
+      "end_seconds": 314,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "RJ Barrett on the Raptors' need to improve execution after timeouts: We cannot allow a 19-0 run. We cannot allow things like that.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "RJ Barrett discusses the need for the team to execute better and avoid large scoring runs following timeouts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "OoT-lHtjHwo",
+  "url": "https://www.youtube.com/watch?v=OoT-lHtjHwo",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-18T03:56:00Z",
+  "duration_seconds": 369,
+  "processed_at": "2026-11-18T04:09:37Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

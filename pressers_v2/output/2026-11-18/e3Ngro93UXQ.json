@@ -1,0 +1,198 @@
+{
+  "video_title": "Jaden McDaniels Postgame Interview With Alan Horton | 11.17.26",
+  "speakers_seen": [
+    "Alan Horton",
+    "Jaden McDaniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaden McDaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "00:09",
+      "summary_phrase": "Jaden McDaniels credits teammates for the game-winning play against Portland",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "That last bucket didn't have nothing to do with me, that's all A-Yo. Whoever tipped the ball",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How do you describe what happened there over the final couple of minutes?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "I don't know what happened, but that last bucket didn't have nothing to do with me, that's all A-Yo. Whoever tipped the ball, that's on them. They just made the right play. I was just lacking up ahead."
+        }
+      ],
+      "start_seconds": 9,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jaden McDaniels credits his teammates for the game winning play against Portland saying that last bucket did not have anything to do with him and that his teammates just made the right play.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ayo Dosunmu"
+        ],
+        "teams": [
+          "MIN",
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels discusses the game-winning play against the Portland Trail Blazers during his postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaden McDaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "00:35",
+      "summary_phrase": "Jaden McDaniels on the importance of winning back-to-back games",
+      "names_mentioned": [],
+      "excerpt": "It feels good just to know you can beat the team two times off a back-to-back.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How good was this win feel for you?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "It feels good just to know you can beat the team two times off a back-to-back. It's kind of like a simulated playoff series, so just excited that we won."
+        }
+      ],
+      "start_seconds": 35,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jaden McDaniels says winning back to back games against the same opponent feels like a simulated playoff series.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels reflects on the significance of defeating the same opponent in back-to-back games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaden McDaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "00:44",
+      "summary_phrase": "Jaden McDaniels explains the difficulty of playing the same team twice",
+      "names_mentioned": [],
+      "excerpt": "There's not much you can change in a day or two, you know, you can't change your plays.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Why is it so hard playing the same team twice?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "There's not much you can change in a day or two, you know, you can't change your plays, you can't change stuff, so it's really just about who plays harder and who executes the right way."
+        }
+      ],
+      "start_seconds": 44,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on the difficulty of playing the same team twice in a row: you cannot change your plays in a day or two so it is really just about who plays harder and who executes the right way.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains the tactical challenges of playing the same opponent twice in a short period.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaden McDaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "01:08",
+      "summary_phrase": "Jaden McDaniels on the Timberwolves' depth and versatility",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "TJ"
+      ],
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You guys have had so many guys in and out of the lineup, how have you been able to maintain what you guys have been doing and winning games?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "I say every time we got a versatile team. See A-Yo had 30, TJ had 30 the other day. It doesn't really matter who has a game, it just, shoot, we just got too many people."
+        }
+      ],
+      "start_seconds": 68,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jaden McDaniels says the Timberwolves are able to maintain their winning ways despite lineup changes because they have a versatile team and too many guys who can step up.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ayo Dosunmu",
+          "TJ Warren"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels highlights the depth and versatility of the Timberwolves roster following recent wins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "e3Ngro93UXQ",
+  "url": "https://www.youtube.com/watch?v=e3Ngro93UXQ",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-18T04:03:02Z",
+  "duration_seconds": 101,
+  "processed_at": "2026-11-18T04:09:22Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

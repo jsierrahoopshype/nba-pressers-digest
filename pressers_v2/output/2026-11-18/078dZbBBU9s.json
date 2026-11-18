@@ -1,0 +1,167 @@
+{
+  "video_title": "Ja'Kobe Walter | Post Game vs New York Knicks | November 17, 2026",
+  "speakers_seen": [
+    "Ja'Kobe Walter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "00:12",
+      "summary_phrase": "Ja'Kobe Walter on the defensive miscommunication against the Knicks",
+      "names_mentioned": [],
+      "excerpt": "I think it's just come down to just listen to your teammates, whatever the call is, do the call.",
+      "quote": "It was a miscommunication. I think it's just come down to just listen to your teammates, whatever the call is, do the call. Just miscommunication and then I can't help the foul. I mean, I can, but just closed out, he got me, he made the shot, flagrant.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ja'Kobe Walter on the defensive breakdown against the Knicks: It was a miscommunication. I think it's just come down to just listen to your teammates, whatever the call is, do the call.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter explains a defensive miscommunication that led to a flagrant foul during the game against the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "01:08",
+      "summary_phrase": "Ja'Kobe Walter on the difficulty of losing a close game",
+      "names_mentioned": [],
+      "excerpt": "It's tough, especially you know you tie the game, with winning time, and then something like that.",
+      "quote": "It's tough, especially you know you tie the game, with winning time, and then something like that. That's very deflating. You just got to find your way to kind of get past it even though it's tough in the moment, because you know it's still a winnable game at that time, and not let that affect us going forward.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Ja'Kobe Walter admits the late game sequence against New York was deflating: It's tough, especially you know you tie the game, with winning time, and then something like that. That's very deflating.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter discusses the emotional difficulty of losing a close game after tying the score late in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "01:39",
+      "summary_phrase": "Ja'Kobe Walter on limiting late-game mistakes to close out games",
+      "names_mentioned": [],
+      "excerpt": "The winning championship teams, they don't make those mistakes at the end of the game.",
+      "quote": "Just limiting the mistakes at the end of the game. I think that's when you got to lock in the most. The winning championship teams, they don't make those mistakes at the end of the game. That's when they really lock in on the basics. We just got to stick to the roots. We can't let it slip at the end. Got to be able to play with the lead and even when it's a tie game, just figure out those winning plays, those little plays. We just got to always make them just to win those games, and lately we've been messing up.",
+      "text_blocks": [],
+      "start_seconds": 99,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ja'Kobe Walter on the Raptors late game struggles: The winning championship teams, they don't make those mistakes at the end of the game. That's when they really lock in on the basics.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter reflects on the team's need to eliminate late-game mistakes to improve their ability to close out close contests.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "02:07",
+      "summary_phrase": "Ja'Kobe Walter on the team's defensive identity",
+      "names_mentioned": [],
+      "excerpt": "Playing defense, that's kind of our identity, so we can't let them get open shots.",
+      "quote": "Rebounding, getting the 50-50 balls, knowing the coverages, playing defense really. Especially for us, playing defense, that's kind of our identity, so we can't let them get open shots. We can't let their shooters get shots. Best players making plays, just limiting those plays. And then offensively, just moving the ball, making the right plays, playing hard.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Ja'Kobe Walter on the Raptors identity: Rebounding, getting the 50-50 balls, knowing the coverages, playing defense really. Especially for us, playing defense, that's kind of our identity.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter describes the Toronto Raptors' defensive identity and the importance of executing fundamentals on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "02:34",
+      "summary_phrase": "Ja'Kobe Walter on guarding left-handed players like Jalen Brunson",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "I think the best people in the league that draw fouls, they all know when you're more likely to foul.",
+      "quote": "Honestly no. I think the best people in the league that draw fouls, they all know when you're more likely to foul. They know how to manipulate the play and get their body in the way, stopping short quickly when you're going down, guarding them, pump faking, stuff like that.",
+      "text_blocks": [],
+      "start_seconds": 154,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ja'Kobe Walter on defending stars like Jalen Brunson: The best people in the league that draw fouls, they all know when you're more likely to foul. They know how to manipulate the play and get their body in the way.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "TOR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter explains how elite players like Jalen Brunson manipulate defenders to draw fouls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "078dZbBBU9s",
+  "url": "https://www.youtube.com/watch?v=078dZbBBU9s",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-18T03:54:18Z",
+  "duration_seconds": 204,
+  "processed_at": "2026-11-18T04:09:39Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

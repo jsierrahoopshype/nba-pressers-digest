@@ -2843,5 +2843,102 @@
    "slot_date": "2026-11-17"
   }
  },
- "pending": {}
+ "pending": {
+  "078dZbBBU9s": {
+   "channel": "Toronto Raptors",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-18",
+   "is_one_off": false,
+   "queued_at": "2026-11-18T04:09:44Z",
+   "run_id": "2026-11-18-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-18",
+   "speaker": "Ja'Kobe Walter",
+   "title": "Ja'Kobe Walter | Post Game vs New York Knicks | November 17, 2026",
+   "top_quote": "It was a miscommunication. I think it's just come down to just listen to your teammates, whatever the call is, do the call. Just miscommunication and then I can't help the foul. I mean, I can, but just closed out, he got me, he made the shot, flagrant.",
+   "video_id": "078dZbBBU9s"
+  },
+  "MWmcmvnR0P0": {
+   "channel": "Detroit Pistons",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-18",
+   "is_one_off": false,
+   "queued_at": "2026-11-18T04:09:44Z",
+   "run_id": "2026-11-18-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-18",
+   "speaker": "J.B. Bickerstaff",
+   "title": "Post Game Press Conference l J.B. Bickerstaff l Pistons at Spurs  l 11.17.26 #NBA",
+   "top_quote": "Defense, character. I thought that second, third, fourth quarter defensively for us was immaculate. The way that guys were competing, the way we were playing physical, the way that we were executing our system, the way we were scrapping undersized to rebound the basketball, that was a character win and that's what Detroit Pistons basketball looks like and our guys got back to it tonight.",
+   "video_id": "MWmcmvnR0P0"
+  },
+  "OoT-lHtjHwo": {
+   "channel": "Toronto Raptors",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-18",
+   "is_one_off": false,
+   "queued_at": "2026-11-18T04:09:44Z",
+   "run_id": "2026-11-18-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-18",
+   "speaker": "",
+   "title": "RJ Barrett | Post Game vs New York Knicks | November 17, 2026",
+   "top_quote": "It must get a little frustrating at this point to play games that are pretty complete and then just a couple of breakdowns down the last stretch of a game and you end up coming out the wrong end. I mean, how would you assess the first 45, 46 minutes versus how it ended up?",
+   "video_id": "OoT-lHtjHwo"
+  },
+  "Rqq1vwPuB1U": {
+   "channel": "Toronto Raptors",
+   "clip_count": 8,
+   "content_type": "presser",
+   "date": "2026-11-18",
+   "is_one_off": false,
+   "queued_at": "2026-11-18T04:09:44Z",
+   "run_id": "2026-11-18-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-18",
+   "speaker": "Darko Rajakovic",
+   "title": "Darko Rajakovic | Post Game vs New York Knicks | November 17, 2026",
+   "top_quote": "I thought it was a good call. I thought we had a breakdown on defensive end. We did not cover that the way we wanted, and he got an open shot and it was a right call.",
+   "video_id": "Rqq1vwPuB1U"
+  },
+  "e3Ngro93UXQ": {
+   "channel": "Minnesota Timberwolves",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-18",
+   "is_one_off": false,
+   "queued_at": "2026-11-18T04:09:44Z",
+   "run_id": "2026-11-18-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-18",
+   "speaker": "Jaden McDaniels",
+   "title": "Jaden McDaniels Postgame Interview With Alan Horton | 11.17.26",
+   "top_quote": "How do you describe what happened there over the final couple of minutes? I don't know what happened, but that last bucket didn't have nothing to do with me, that's all A-Yo. Whoever tipped the ball, that's on them. They just made the right play. I was just lacking up ahead.",
+   "video_id": "e3Ngro93UXQ"
+  },
+  "v7Mz9OBous0": {
+   "channel": "Detroit Pistons",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-18",
+   "is_one_off": false,
+   "queued_at": "2026-11-18T04:09:44Z",
+   "run_id": "2026-11-18-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-18",
+   "speaker": "Cade Cunningham",
+   "title": "Cade Post Game Interview  l  Pistons at Spurs  l 11.17.26 #NBA",
+   "top_quote": "Short-handed against one of the hottest teams in the league, what sort of effort did this take as a whole? It was a group effort. Everybody had to bring it. I like my guys. We do this together every day. We love basketball. We all come from a little bit of grit and earning our way to get to this point. We told ourselves if we want a brotherhood, we are going to be a brotherhood by the time we left today. I think we got a little closer today, so it is a good win for us.",
+   "video_id": "v7Mz9OBous0"
+  }
+ }
 }
