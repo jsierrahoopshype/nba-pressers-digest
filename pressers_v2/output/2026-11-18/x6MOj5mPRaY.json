@@ -1,0 +1,639 @@
+{
+  "video_title": "\"Everybody Just Wanted To Win.\" | LaMelo Ball Postgame Sound | 11.17.26",
+  "speakers_seen": [
+    "LaMelo Ball"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "LaMelo Ball on his defensive play and transition opportunities",
+      "names_mentioned": [],
+      "excerpt": "I knew it was a bad play before. I was looking for a foul, so I knew we had to get the ball back.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "What did you see on that play you got the steal? Obviously time running out, just tell us about that transition right there."
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I knew it was a bad play before. I was looking for a foul, so I knew we had to get the ball back or just make something happen. So, I seen an opportunity and took it, got the steal."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on his clutch steal late in the game: I knew it was a bad play before. I was looking for a foul, so I knew we had to get the ball back or just make something happen.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball explains his defensive steal during the final moments of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:16",
+      "summary_phrase": "LaMelo Ball on Trey's impact coming off the bench",
+      "names_mentioned": [
+        "Trey"
+      ],
+      "excerpt": "Trey's been great. Like I said, he know how to play basketball, another great player out there.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Before that, obviously Trey had some big plays for you guys. Just talk about how impactful and important he's been for you guys coming off the bench."
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Trey's been great. Like I said, he know how to play basketball, another great player out there. Just know what to do, know his role, know how to play, so just love playing with him."
+        }
+      ],
+      "start_seconds": 16,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on Trey coming off the bench: Trey has been great. He knows how to play basketball, he knows his role, he knows how to play, so I just love playing with him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball praises his teammate Trey for his impactful performance off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:31",
+      "summary_phrase": "LaMelo Ball on his missed shot and defensive focus",
+      "names_mentioned": [],
+      "excerpt": "I thought I got fouled, but obviously they said it wasn't, so pretty much I was just like, got to get the ball back.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Was it sticking in your head a little bit the shot that didn't fall that you just really wanted to make a play defensively there?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I thought I got fouled, but obviously they said it wasn't, so pretty much I was just like, got to get the ball back, do something to win, so that's what I did."
+        }
+      ],
+      "start_seconds": 31,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on his defensive mindset after a missed shot: I thought I got fouled, but obviously they said it wasn't, so I was just like, got to get the ball back, do something to win.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball describes his mindset after a missed shot and his focus on defensive effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:47",
+      "summary_phrase": "LaMelo Ball on the team's winning mentality",
+      "names_mentioned": [],
+      "excerpt": "Everybody just wanted to win, pretty much. I mean, just having that it factor to want to win.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "This does seem to be a team that just finds ways to win any means necessarily. What do you think has been the key to being able to win in different ways with different guys kind of starting?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Everybody just wanted to win, pretty much. I mean, just having that it factor to want to win. I feel like that's real big, so you will make any play to win."
+        }
+      ],
+      "start_seconds": 47,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on the team's winning mentality: Everybody just wanted to win, pretty much. I mean, just having that it factor to want to win. I feel like that's real big.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball discusses the team's collective winning mentality and desire to succeed.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "01:06",
+      "summary_phrase": "LaMelo Ball on Ios's offensive contribution",
+      "names_mentioned": [
+        "Ios"
+      ],
+      "excerpt": "I was telling Ios all day yesterday, we going to need a big one from you.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How big was Ios's kind of offense, especially early in that first quarter and then the shot making down the stretch for you guys?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "It was real big. I was telling Ios all day yesterday, we going to need a big one from you. I mean, you got to get going. They got a lot of defenders on their team and they were putting them on people, so I felt Ios was the one who could really just break it open and get it going."
+        }
+      ],
+      "start_seconds": 66,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on Ios's offensive impact: I was telling Ios all day yesterday, we going to need a big one from you. I felt Ios was the one who could really just break it open and get it going.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ios"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball discusses Ios's offensive contribution and shot-making ability during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "01:26",
+      "summary_phrase": "LaMelo Ball on improving in close game situations",
+      "names_mentioned": [],
+      "excerpt": "I feel like as time goes on, we going to get way better with that.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "At the end of games, in close games, what are you guys trying to get to offensively?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I feel like as time goes on, we going to get way better with that. But right now, I mean, we know what we trying to do. Just getting reps of having close games, kind of."
+        }
+      ],
+      "start_seconds": 86,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "LaMelo Ball on late game execution: I feel like as time goes on, we going to get way better with that. But right now, we know what we trying to do. Just getting reps of having close games.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball talks about the team's offensive development in close-game situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified speaker",
+        "LaMelo Ball"
+      ],
+      "timestamp": "01:51",
+      "summary_phrase": "LaMelo Ball on rebounding and Kamar's impact",
+      "names_mentioned": [
+        "Kamar"
+      ],
+      "excerpt": "I always feel like I can rebound, just seeing it tonight and going for them.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "10 rebounds tonight. What went into that? I guess getting the glass so much, is it just coming down with the game needed?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I always feel like I can rebound, just seeing it tonight and going for them. I mean, Kamar, he crashes a lot, so it kind of take me to the rim."
+        }
+      ],
+      "start_seconds": 111,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on his 10 rebound performance: I always feel like I can rebound, just seeing it tonight and going for them. Kamar, he crashes a lot, so it kind of take me to the rim.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kamar"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball discusses his rebounding performance and Kamar's impact on the glass.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "02:07",
+      "summary_phrase": "LaMelo Ball on his defensive performance this season",
+      "names_mentioned": [],
+      "excerpt": "I feel like I'm doing the same thing I've been doing, so maybe just more highlighted, I guess.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Do you feel like you're playing the best defense of your career?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Do I feel like I'm playing the best defense of my career? Honestly, I feel like I'm doing the same thing I've been doing, so maybe just more highlighted, I guess."
+        }
+      ],
+      "start_seconds": 127,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Is LaMelo Ball playing the best defense of his career? He says: I feel like I'm doing the same thing I've been doing, so maybe just more highlighted, I guess.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball responds to a question about whether he is playing the best defense of his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "02:20",
+      "summary_phrase": "LaMelo Ball on Jaden's toughness and impact",
+      "names_mentioned": [
+        "Jaden"
+      ],
+      "excerpt": "16, you can run, jump. I mean, that's just blessings on blessings, so I mean, if you on the floor, you you going to be good.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Finch told us after the game Jaden was a little under the weather. What is it about him that is so important to this team and that kind of like keeps him effective even when maybe he's feeling sick or second night of a back-to-back?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "16, you can run, jump. I mean, that's just blessings on blessings, so I mean, if you on the floor, you you going to be good. And like I said, he know how to play basketball too. He'll find the open man, he'll run, he'll do the extra cut for you. I mean, he played defense the whole game, so another player I just love playing with."
+        }
+      ],
+      "start_seconds": 140,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on Jaden McDaniels playing through illness: 16, you can run, jump. I mean, that's just blessings on blessings. If you on the floor, you going to be good.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball discusses Jaden's toughness and effectiveness despite playing while feeling under the weather.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "02:51",
+      "summary_phrase": "LaMelo Ball on his relationship with Jaden",
+      "names_mentioned": [
+        "Jaden"
+      ],
+      "excerpt": "Jaden, that's my brother. That's that's a real deal Holyfield dude right there.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What's your relationship been with him like off the court?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Jaden, that's my brother. That's that's a real deal Holyfield dude right there."
+        }
+      ],
+      "start_seconds": 171,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "LaMelo Ball on his relationship with Jaden: Jaden, that's my brother. That's that's a real deal Holyfield dude right there.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball describes his close personal relationship with his teammate Jaden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "03:00",
+      "summary_phrase": "LaMelo Ball on the team's next-man-up mentality",
+      "names_mentioned": [],
+      "excerpt": "Next man up mentality. I mean, that's what you got a team for pretty much.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What does it say about this team that you guys keep losing guys and keep playing good basketball?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Next man up mentality. I mean, that's what you got a team for pretty much. One guy go down, next dude got to be ready, and I feel like we got a just a real deep squad to be able to do that."
+        }
+      ],
+      "start_seconds": 180,
+      "end_seconds": 203,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on the team's depth: Next man up mentality. That's what you got a team for pretty much. One guy go down, next dude got to be ready.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball explains the team's next-man-up mentality in dealing with player absences.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "03:15",
+      "summary_phrase": "LaMelo Ball on his approach to building team culture",
+      "names_mentioned": [],
+      "excerpt": "I think it's just growing up, just always talkative. Whoever would come in the room, I would always talk to.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "A lot of people around here who have talked about your effect on the team and the culture, mentioned that you know everyone's name in the building. Like, has that always been something for you, just kind of seeing that or like where does that how do you do that?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I think it's just growing up, just always talkative. Whoever would come in the room, I would always talk to, teachers and everybody. Always, hi, how you doing? Just me pretty much, bless your game."
+        }
+      ],
+      "start_seconds": 195,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 7,
+      "social_post": "LaMelo Ball on why he makes an effort to know everyone's name in the building: I think it's just growing up, just always talkative. Whoever would come in the room, I would always talk to, teachers and everybody.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball reflects on his habit of learning everyone's name in the building.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "03:40",
+      "summary_phrase": "LaMelo Ball on how he remembers everyone's name",
+      "names_mentioned": [],
+      "excerpt": "I think it was just always saying what's up to people and it just stuck with me.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Did you like how do you remember everyone?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Just me, for real. Like I think it was just always saying what's up to people and it just stuck with me. So, I don't really even know I'm doing it."
+        }
+      ],
+      "start_seconds": 220,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 4,
+      "social_post": "LaMelo Ball on his habit of greeting everyone: I think it was just always saying what's up to people and it just stuck with me. So, I don't really even know I'm doing it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball elaborates on why he naturally remembers the names of people he meets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "04:00",
+      "summary_phrase": "LaMelo Ball on maintaining a positive outlook",
+      "names_mentioned": [],
+      "excerpt": "I got fun every day. I mean, whenever I'm alive, breathing well, I mean, it's just a blessing.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How much fun are you having this year?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I got fun every day. I mean, whenever I'm alive, breathing well, I mean, it's just a blessing. You can walk with two feet, anything like that, I mean, it's all blessings. So I just look at the little things."
+        }
+      ],
+      "start_seconds": 240,
+      "end_seconds": 258,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 8,
+      "social_post": "LaMelo Ball on his outlook: I got fun every day. Whenever I'm alive, breathing well, I mean, it's just a blessing. You can walk with two feet, anything like that, it's all blessings.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball shares his perspective on maintaining a positive outlook and appreciating life.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "x6MOj5mPRaY",
+  "url": "https://www.youtube.com/watch?v=x6MOj5mPRaY",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-18T06:41:41Z",
+  "duration_seconds": 264,
+  "processed_at": "2026-11-18T06:44:21Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}
