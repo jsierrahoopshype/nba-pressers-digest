@@ -1209,6 +1209,12 @@
    "run_id": "2026-11-15-overnight",
    "slot_date": "2026-11-15"
   },
+  "O2C6MnSbyFw": {
+   "at": "2026-11-18T21:54:52Z",
+   "quote": "i just remember this is where i started my nba career being drafted here was one of the greatest moments of my life being in the nba for the first time and having this organization be the one to draft",
+   "run_id": "2026-11-18T2153Z-14utc",
+   "slot_date": "2026-11-18"
+  },
   "O42X7BZAGn0": {
    "at": "2026-11-05T21:06:05Z",
    "quote": "we have had to do some soul searching headed into this game we have not been playing up to a consistent level of intensity force collective will the group that played in the atlanta game gave us a spa",
@@ -1496,6 +1502,12 @@
    "run_id": "2026-11-11T2122Z-14utc",
    "seeded": true,
    "slot_date": "2026-11-11"
+  },
+  "TxoyJ03Q1aA": {
+   "at": "2026-11-18T21:54:52Z",
+   "quote": "it s been amazing it s weird i just seen them in boston they play providence so i saw them live there and they played today so unfortunate that i won t be able to get up there but it s been a lot of f",
+   "run_id": "2026-11-18T2153Z-14utc",
+   "slot_date": "2026-11-18"
   },
   "UBfPvL4vRF0": {
    "at": "2026-11-14T15:11:12Z",
@@ -2081,6 +2093,12 @@
    "quote": "look at chicago as a struggling team and maybe take it a little lightly no i mean they just came out they played well they made shots and they just beat us to be honest they just played better than us",
    "run_id": "2026-11-15-overnight",
    "slot_date": "2026-11-15"
+  },
+  "gRx8c_CLmKI": {
+   "at": "2026-11-18T21:54:52Z",
+   "quote": "it has been a blessing regardless everybody is going to go through something so it is just a mindset back definitely coming back into my body i lost 10 pounds but starting to put it back on and yeah g",
+   "run_id": "2026-11-18T2153Z-14utc",
+   "slot_date": "2026-11-18"
   },
   "gTaSL-Jkk38": {
    "at": "2026-11-10T10:27:02Z",
@@ -3018,54 +3036,5 @@
    "slot_date": "2026-11-17"
   }
  },
- "pending": {
-  "O2C6MnSbyFw": {
-   "channel": "Milwaukee Bucks",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-18",
-   "is_one_off": false,
-   "queued_at": "2026-11-18T21:54:52Z",
-   "run_id": "2026-11-18T2153Z-14utc",
-   "run_slot": "14utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-18",
-   "speaker": "Jaime Jaquez Jr.",
-   "title": "Jaime Jaquez Jr. Shootaround Media Availability | 11.18.26",
-   "top_quote": "I just remember this is where I started my NBA career. Being drafted here was one of the greatest moments of my life, being in the NBA for the first time and having this organization be the one to draft me for the three years that I was here. Now I am off on the rest of my career and my journey throughout the NBA, so it was a great place to start.",
-   "video_id": "O2C6MnSbyFw"
-  },
-  "TxoyJ03Q1aA": {
-   "channel": "Boston Celtics",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-18",
-   "is_one_off": false,
-   "queued_at": "2026-11-18T21:54:52Z",
-   "run_id": "2026-11-18T2153Z-14utc",
-   "run_slot": "14utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-18",
-   "speaker": "Derrick White",
-   "title": "Derrick White Discusses Returning Home to Colorado | Celtics Pregame Interview",
-   "top_quote": "It's been amazing. It's weird I just seen them in Boston, they play Providence. So I saw them live there and they played today, so unfortunate that I won't be able to get up there, but it's been a lot of fun just getting back with the team and getting back with CU.",
-   "video_id": "TxoyJ03Q1aA"
-  },
-  "gRx8c_CLmKI": {
-   "channel": "Boston Celtics",
-   "clip_count": 6,
-   "content_type": "presser",
-   "date": "2026-11-18",
-   "is_one_off": false,
-   "queued_at": "2026-11-18T21:54:52Z",
-   "run_id": "2026-11-18T2153Z-14utc",
-   "run_slot": "14utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-18",
-   "speaker": "Devin Carter",
-   "title": "Devin Carter on Dealing with the Worst Illness He's Ever Had | Celtics Pregame Interview",
-   "top_quote": "It has been a blessing regardless. Everybody is going to go through something, so it is just a mindset back. Definitely coming back into my body. I lost 10 pounds, but starting to put it back on and yeah, get some good G League games in.",
-   "video_id": "gRx8c_CLmKI"
-  }
- }
+ "pending": {}
 }
