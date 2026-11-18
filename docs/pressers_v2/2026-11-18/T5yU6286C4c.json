@@ -1,0 +1,142 @@
+{
+  "video_title": "Brice Sensabaugh Walk and Talk Interview vs Clippers after dropping 40 | 11/16/2026",
+  "speakers_seen": [],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brice Sensabaugh",
+      "speakers": [
+        "Unidentified reporter",
+        "Brice Sensabaugh"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Brice Sensabaugh on his career-high 40-point performance against the Clippers",
+      "names_mentioned": [],
+      "excerpt": "This is my best one for sure. I think I was able to defensive rebound.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What's that feeling like when you're that hot, like that on fire?"
+        },
+        {
+          "speaker": "Brice Sensabaugh",
+          "text": "To be honest, man, I've had that's my third one, right? That's the first one we won. So, you know, obviously right now we got a schedule going on, so just trying to do the best I could to get us back in the win column. This is my best one for sure. I think I was able to defensive rebound. I feel like today is it's I mean, this year is different for me, like trying to make an impact on the defensive end, you know, dish the ball a little bit, like play a more complete game. So, this is my best one. Obviously, came out with the win, so that's a story of itself."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Brice Sensabaugh says his 40 point game against the Clippers was his best performance yet because he focused on playing a more complete game and making an impact on the defensive end.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Brice Sensabaugh reflects on his 40-point performance and the importance of contributing defensively in a win against the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brice Sensabaugh",
+      "speakers": [
+        "Unidentified speaker",
+        "Brice Sensabaugh"
+      ],
+      "timestamp": "01:15",
+      "summary_phrase": "Brice Sensabaugh on his underdog mindset and patience this season",
+      "names_mentioned": [
+        "Tom Brady"
+      ],
+      "excerpt": "My whole career I've kind of been the underdog, and you know, it's kind of been a slow start.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "When you do something like that, what's the mindset coming into the next one? I feel like you always got a chip on your shoulder every time I see you."
+        },
+        {
+          "speaker": "Brice Sensabaugh",
+          "text": "Yeah, absolutely. Yeah, that's just how I am. My whole career I've kind of been the underdog, and you know, it's kind of been a slow start this year for me, so just trying to stay patient and you know, prove myself. I feel like Tom Brady said somewhere in an interview like he never felt like he was that guy. He always felt like he had to prove himself. I kind of feel like I keep that same mindset, like I'll never feel like I've made it. You know, like just always trying to prove myself, always trying to do better, always trying to, you know, takes more. So, you know, that's how I go into everything in life, like, you know, game, off the court, family, you know, my diet, all that kind of stuff. Like, I feel like that is who I am and it and it uh, it's my identity, so."
+        }
+      ],
+      "start_seconds": 75,
+      "end_seconds": 146,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Brice Sensabaugh says he keeps a Tom Brady style mindset of always having to prove himself. He says he never feels like he has made it and carries that underdog mentality into everything he does.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Brice Sensabaugh explains his underdog mindset and his commitment to constant self-improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brice Sensabaugh",
+      "speakers": [
+        "Unidentified reporter",
+        "Brice Sensabaugh"
+      ],
+      "timestamp": "02:25",
+      "summary_phrase": "Brice Sensabaugh on his diet and discipline to improve his game",
+      "names_mentioned": [],
+      "excerpt": "Just trying to eat more whole foods and you know, no fast food, no fried food.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "A lot of teams, even like on the sideline, were talking about, 'Man, it look like Brice really slimmed up.' What was your routine and like your eating habits? How did you change that?"
+        },
+        {
+          "speaker": "Brice Sensabaugh",
+          "text": "Yeah, really just discipline. Like, I feel like I'm still young, but as I'm getting older, like my taste buds are starting to develop a little bit. So, just trying to eat more whole foods and you know, no fast food, no fried food. It is tough, it is tough, but yeah, just trying to be mature about it and and uh, send some ball. Let's keep growing."
+        }
+      ],
+      "start_seconds": 145,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Brice Sensabaugh credits his recent physical transformation to discipline and a change in diet. He says he has cut out all fast and fried food to be more mature about his development.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Brice Sensabaugh discusses the dietary changes and discipline he implemented to improve his conditioning.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "T5yU6286C4c",
+  "url": "https://www.youtube.com/watch?v=T5yU6286C4c",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-18T10:50:36Z",
+  "duration_seconds": 191,
+  "processed_at": "2026-11-18T18:11:33Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

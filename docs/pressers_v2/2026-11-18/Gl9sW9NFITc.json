@@ -1,0 +1,239 @@
+{
+  "video_title": "Philadelphia 76ers Practice Media Availability 🎙️ | Joel Embiid | 11.18.26",
+  "speakers_seen": [],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joel Embiid",
+      "timestamp": "00:09",
+      "summary_phrase": "Joel Embiid on working with Drew Hanlen to improve his game",
+      "names_mentioned": [
+        "Drew Hanlen"
+      ],
+      "excerpt": "Obviously the work on the court is one thing, and we do that all the time.",
+      "quote": "Obviously the work on the court is one thing, and we do that all the time, but it was more some of the stuff that we saw on film and trying to see a little bit and trying to see what we can change, and that was one of the things that we saw, and like I said last time.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joel Embiid says he and Drew Hanlen have been spending extra time watching film to identify specific areas of his game that need to change.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid discusses his process of reviewing film with trainer Drew Hanlen to improve his game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joel Embiid",
+      "timestamp": "00:40",
+      "summary_phrase": "Joel Embiid on Kentavious Caldwell-Pope's impact on the team",
+      "names_mentioned": [
+        "Kentavious Caldwell-Pope"
+      ],
+      "excerpt": "He's been doing everything. I think every single game that we've had, especially the close games.",
+      "quote": "He's been doing everything. I think every single game that we've had, especially the close games, you see the big shots at some point. Defensively, he brings in, he's all over the place, high IQ. So, yeah, he's, I mean, for the money he's making, he's done a lot of high-level stuff for us.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joel Embiid is impressed with the impact of Kentavious Caldwell-Pope saying he has been doing high level stuff for the team on both ends of the floor.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kentavious Caldwell-Pope"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joel Embiid praises Kentavious Caldwell-Pope for his defensive impact and high basketball IQ during close games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joel Embiid",
+      "timestamp": "01:18",
+      "summary_phrase": "Joel Embiid on LeBron James' unique playmaking ability",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "I think experience is one. He's been playing for a long, long, long, long time.",
+      "quote": "I think experience is one. He's been playing for a long, long, long, long time, so he's seen it all. He's been in almost every situation you can think of, so that gives him that advantage. But then again, also, the way he's always seen the game is, you know, he wants to make the right play over and over and over. But when you have that mentality, that, you know, that's what separates you from everybody else.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joel Embiid on what separates LeBron James from the rest of the league: his experience and his consistent mentality to always make the right play.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Joel Embiid explains what makes LeBron James a unique playmaker based on his extensive experience and decision-making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joel Embiid",
+      "timestamp": "02:08",
+      "summary_phrase": "Joel Embiid on building chemistry with Tyrese Maxey",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "I had to hit Tyrese in the head a couple times with the ball just to.",
+      "quote": "I had to hit Tyrese in the head a couple times with the ball just to, so that you guys learn where you're supposed to be. I mean, I'm glad he's feeling it because I, you know, that's the same way I feel. You know, I've been, you know, I always tell these guys to be ready because you don't know when the pass is coming. You just got to be ready, and that's some things that he's seen, and obviously, Tyrese has been great.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Joel Embiid jokes that he had to hit Tyrese Maxey in the head with the ball a few times to make sure he is ready for passes at all times.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joel Embiid discusses building chemistry with Tyrese Maxey and the importance of being ready for his passes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joel Embiid",
+      "timestamp": "03:03",
+      "summary_phrase": "Joel Embiid on his long-standing relationship with LeBron James",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "We've always had a close relationship from the time that we played together.",
+      "quote": "We've always had a close relationship from the time that we played together, playing against each other. Obviously, you get closer when you're a teammate, but yeah, he's evolved, but I feel like we've always been great. And then the times that we spent together, it's been great. You see a, you know, from the far, you see a different side of people, and then when you're with them, you see another side, and an even better side, and that's what I've seen with him.",
+      "text_blocks": [],
+      "start_seconds": 183,
+      "end_seconds": 216,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Joel Embiid says getting to know LeBron James as a teammate revealed an even better side of him than what he saw from afar.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Joel Embiid reflects on his long-standing relationship with LeBron James and how his perspective changed after becoming teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Joel Embiid",
+      "timestamp": "03:45",
+      "summary_phrase": "Joel Embiid on his negative experience with helicopters",
+      "names_mentioned": [],
+      "excerpt": "I had a really bad experience. I thought I was not going to make it.",
+      "quote": "I had a really bad experience. I thought I was not going to make it. I was texting my family, and then since that day, I was like, I'm never touching a helicopter ever again.",
+      "text_blocks": [],
+      "start_seconds": 225,
+      "end_seconds": 238,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 9,
+      "social_post": "Joel Embiid says he will never step foot in a helicopter again after a terrifying experience where he thought he was not going to make it.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid explains why he refuses to travel by helicopter following a traumatic past experience.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Joel Embiid",
+      "timestamp": "04:16",
+      "summary_phrase": "Joel Embiid on his focus on aggression over shot-making",
+      "names_mentioned": [],
+      "excerpt": "I don't look at the process about like I made shots. It's about like the process.",
+      "quote": "I don't look at the process about like I made shots. It's about like the process of how I got myself there, you know, how aggressive I was, how I was. And, you know, did everything I did, did everything I do have a meaning? You know, did I have a force? So that's the process, you know. I could have, I could have missed, I could have missed all those shots, but I would have been happy about, you know, how I came out and, you know, how aggressive I was.",
+      "text_blocks": [],
+      "start_seconds": 256,
+      "end_seconds": 291,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joel Embiid says he judges his performance by his aggression and force on the court rather than whether or not his shots actually fall.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid explains that he prioritizes his level of aggression and force over whether or not his shots actually go in.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Gl9sW9NFITc",
+  "url": "https://www.youtube.com/watch?v=Gl9sW9NFITc",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-18T17:21:08Z",
+  "duration_seconds": 311,
+  "processed_at": "2026-11-18T18:11:13Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

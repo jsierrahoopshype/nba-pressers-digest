@@ -1,0 +1,190 @@
+{
+  "video_title": "HoopsHype's Global Ratings for the best rookies in 2026-27",
+  "speakers_seen": [
+    "Cyro Asseo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Cyro Asseo",
+      "timestamp": "00:00",
+      "summary_phrase": "Yaxel Lendeborg's performance and the Golden State Warriors' struggles",
+      "names_mentioned": [
+        "Yaxel Lendeborg",
+        "Stephen Curry"
+      ],
+      "excerpt": "The best rookie in the NBA is trying to keep the Golden State Warriors afloat.",
+      "quote": "The best rookie in the NBA is trying to keep the Golden State Warriors afloat. And his lead might be shrinking. Yaxel Lendeborg still tops the HoopsHype global rating at just over 18 through 14 games. He is putting up 21 points, 7.4 rebounds, and three and a half assists a night while shooting 48% from the field and 39% from three. But the Warriors have lost three straight without Steph Curry and they are 8 and 6 and have sledded to ninth in the West.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Yaxel Lendeborg remains the top rookie in the HoopsHype global ratings, but his lead is shrinking as the Warriors struggle to stay afloat without Steph Curry.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Yaxel Lendeborg",
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Cyro Asseo discusses the performance of rookie Yaxel Lendeborg and the recent struggles of the Golden State Warriors without Stephen Curry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Cyro Asseo",
+      "timestamp": "00:37",
+      "summary_phrase": "Cameron Boozer's rising performance and impact on the Memphis Grizzlies",
+      "names_mentioned": [
+        "Cameron Boozer",
+        "Yaxel Lendeborg"
+      ],
+      "excerpt": "Cameron Boozer is closing in. He sits at 16, just over two points behind.",
+      "quote": "Cameron Boozer is closing in. He sits at 16, just over two points behind. He gives you nearly 10 rebounds a night, five and a half assists, and 16 and a half points. The shot still has to fall at 39% from the field and 32% from three, but Memphis is 10 and 4 and fifth in the West. And by the way, Boozer has improved drastically as a shooter since a rough start to the year.",
+      "verbatim_original_language": "",
+      "start_seconds": 37,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Cameron Boozer is closing in on the top spot in the rookie rankings. While his efficiency is still a work in progress, his impact on a winning Memphis team has been significant.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Cameron Boozer"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Cyro Asseo analyzes the rising performance and shooting improvements of rookie Cameron Boozer for the Memphis Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cyro Asseo",
+      "timestamp": "01:05",
+      "summary_phrase": "Darius Acuff Jr.'s heavy workload for the Sacramento Kings",
+      "names_mentioned": [
+        "Darius Acuff Jr."
+      ],
+      "excerpt": "Darius Acuff Jr. is third at 12. He scores 25 and a half a night with seven assists.",
+      "quote": "Darius Acuff Jr. is third at 12. He scores 25 and a half a night with seven assists in nearly 37 minutes, which lead all rookies. He is doing it for a Kings team that is currently one in twelve.",
+      "verbatim_original_language": "",
+      "start_seconds": 65,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darius Acuff Jr. is carrying a massive workload for Sacramento, leading all rookies with nearly 37 minutes per game while averaging over 25 points.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Darius Acuff Jr."
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Cyro Asseo highlights the heavy workload and scoring production of rookie Darius Acuff Jr. for the Sacramento Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Cyro Asseo",
+      "timestamp": "01:19",
+      "summary_phrase": "Aday Mara's defensive impact and Darryn Peterson's potential",
+      "names_mentioned": [
+        "Aday Mara",
+        "Darryn Peterson",
+        "Devin Booker"
+      ],
+      "excerpt": "Aday Mara jumped to fourth, blocking nearly two shots a night in under 22 minutes.",
+      "quote": "Aday Mara jumped to fourth, blocking nearly two shots a night in under 22 minutes while shooting 63%. Darryn Peterson, my favorite rookie and someone that I think is going to at least be the next coming of Devin Booker if not better, is fifth, scoring 17 a game for Utah.",
+      "verbatim_original_language": "",
+      "start_seconds": 79,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Darryn Peterson is drawing high praise, with Cyro Asseo calling him the next coming of Devin Booker if not better as he continues to impress in Utah.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Aday Mara",
+          "Darryn Peterson",
+          "Devin Booker"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Cyro Asseo evaluates the defensive impact of Aday Mara and compares the potential of rookie Darryn Peterson to Devin Booker.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Cyro Asseo",
+      "timestamp": "01:38",
+      "summary_phrase": "Caleb Wilson's injury and AJ Dybantsa's drop in rankings",
+      "names_mentioned": [
+        "Caleb Wilson",
+        "AJ Dybantsa"
+      ],
+      "excerpt": "Caleb Wilson was averaging almost 19 and six rebounds before he broke his other hand.",
+      "quote": "Caleb Wilson was averaging almost 19 and six rebounds before he broke his other hand and he has dropped to eighth. And the number one pick, AJ Dybantsa, sits tenth at almost 16 points and six rebounds.",
+      "verbatim_original_language": "",
+      "start_seconds": 98,
+      "end_seconds": 112,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Caleb Wilson drops in the rookie rankings after breaking his other hand, while number one pick AJ Dybantsa currently sits at tenth.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "exec",
+        "subjects": [
+          "Caleb Wilson",
+          "AJ Dybantsa"
+        ],
+        "teams": [],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Cyro Asseo reports on Caleb Wilson dropping in the rankings due to a hand injury and the current standing of AJ Dybantsa.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "JDvYQWRCQQE",
+  "url": "https://www.youtube.com/watch?v=JDvYQWRCQQE",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-18T15:06:42Z",
+  "duration_seconds": 127,
+  "processed_at": "2026-11-18T18:11:24Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

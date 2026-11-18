@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-18
 
+[Podcasts & shows](podcasts.md)
+
 # Best of the best
 
 **1. Victor Wembanyama — "It's a terrible feeling. A terrible sight. I know as much as you guys so I hope he's fine." — Victor Wembanyama on Dylan Windler's injury and impact** [01:14](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=74s)
@@ -14,7 +16,35 @@ From: [Victor Wembanyama on Spurs Performance Against the Detroit Pistons](https
 
 <small>[Clip it](presserclips://clip?v=kS7wV2-91Ng&t=74&q=4) · [Send to Slack](presserclips://clip?v=kS7wV2-91Ng&t=74&q=4&slack=1)</small>
 
-**2. LaMelo Ball — "I got fun every day. I mean, whenever I'm alive, breathing well, I mean, it's just a blessing." — LaMelo Ball on maintaining a positive outlook** [04:00](https://www.youtube.com/watch?v=x6MOj5mPRaY&t=240s)
+**2. Joel Embiid — "I had a really bad experience. I thought I was not going to make it." — Joel Embiid on his negative experience with helicopters** [03:45](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=225s)
+
+Joel Embiid: "I had a really bad experience. I thought I was not going to make it. I was texting my family, and then since that day, I was like, I'm never touching a helicopter ever again."
+
+[https://www.youtube.com/watch?v=Gl9sW9NFITc&t=225s](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=225s)
+
+From: [Philadelphia 76ers Practice Media Availability 🎙️ \| Joel Embiid \| 11.18.26](https://www.youtube.com/watch?v=Gl9sW9NFITc) · *Philadelphia 76ers*
+
+<small>[Clip it](presserclips://clip?v=Gl9sW9NFITc&t=225&q=6) · [Send to Slack](presserclips://clip?v=Gl9sW9NFITc&t=225&q=6&slack=1)</small>
+
+**3. Quentin Grimes — "Kobe's one of my idols growing up. Watched him, you try to model your game after him, his intensity." — Quentin Grimes on the legacy of Kobe Bryant** [33:22](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=2002s)
+
+Quentin Grimes: "Kobe's one of my idols growing up. Watched him, you try to model your game after him, his intensity, his passion for the game. That just something that you don't see often and he's one of the reasons that I want to play this game. My dad was a Lakers fan, from here and everything, so that's just crazy to have my name in a conversation with a legend like that."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=2002s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=2002s)
+
+From: [Lakers vs Hornets \| Postgame Interviews x Highlights: November 17, 2026](https://www.youtube.com/watch?v=2Qw9nbz40T8) · *Los Angeles Lakers*
+
+**4. Norchad Omier — "I am so happy now that kids see that it is not just baseball." — Norchad Omier on being the first Nicaraguan player in the NBA** [07:51](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=471s)
+
+Norchad Omier: "I am so happy now that kids see that it is not just baseball. In Nicaragua we play a lot of baseball, but they see that it is not just baseball, they can achieve their dreams in basketball. A lot of basketball is being played in Nicaragua now, so I am very happy about that."
+
+[https://www.youtube.com/watch?v=_7ZesF-fGIE&t=471s](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=471s)
+
+From: [Cavs Shootaround \| James Harden & Norchad Omier Media Availability \| 11.18.2026](https://www.youtube.com/watch?v=_7ZesF-fGIE) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=_7ZesF-fGIE&t=471&q=8) · [Send to Slack](presserclips://clip?v=_7ZesF-fGIE&t=471&q=8&slack=1)</small>
+
+**5. LaMelo Ball — "I got fun every day. I mean, whenever I'm alive, breathing well, I mean, it's just a blessing." — LaMelo Ball on maintaining a positive outlook** [04:00](https://www.youtube.com/watch?v=x6MOj5mPRaY&t=240s)
 
 **Unidentified reporter:** "How much fun are you having this year?"
 
@@ -26,7 +56,7 @@ From: ["Everybody Just Wanted To Win." \| LaMelo Ball Postgame Sound \| 11.17.26
 
 <small>[Clip it](presserclips://clip?v=x6MOj5mPRaY&t=240&q=14) · [Send to Slack](presserclips://clip?v=x6MOj5mPRaY&t=240&q=14&slack=1)</small>
 
-**3. Mitch Johnson — "I just look like he slipped obviously, so hoping for the best but don't know anything yet." — Mitch Johnson provides injury update on Dylan Disu** [00:00](https://www.youtube.com/watch?v=rGo239JfSvk&t=0s)
+**6. Mitch Johnson — "I just look like he slipped obviously, so hoping for the best but don't know anything yet." — Mitch Johnson provides injury update on Dylan Disu** [00:00](https://www.youtube.com/watch?v=rGo239JfSvk&t=0s)
 
 Mitch Johnson: "I just look like he slipped obviously, so hoping for the best but don't know anything yet."
 
@@ -36,7 +66,7 @@ From: [Mitch Johnson on Spurs Continuing to Improve On Both Sides of the Court](
 
 <small>[Clip it](presserclips://clip?v=rGo239JfSvk&t=0&q=1) · [Send to Slack](presserclips://clip?v=rGo239JfSvk&t=0&q=1&slack=1)</small>
 
-**4. Trey Lyles — "I think it is holding each other accountable, wanting to win, knowing that coach is going to be honest to win." — Trey Lyles on team accountability and coach's expectations** [02:00](https://www.youtube.com/watch?v=3An5IoQnaNY&t=120s)
+**7. Trey Lyles — "I think it is holding each other accountable, wanting to win, knowing that coach is going to be honest to win." — Trey Lyles on team accountability and coach's expectations** [02:00](https://www.youtube.com/watch?v=3An5IoQnaNY&t=120s)
 
 Trey Lyles: "I think it is holding each other accountable, wanting to win, knowing that coach is going to be honest to win. We got chewed out pretty good the other day and we had to respond as professionals, as individuals, and as a collective, and we have done that."
 
@@ -46,7 +76,27 @@ From: [“It’s A Special Group That We Have.” \| Trey Lyles Postgame Sound \
 
 <small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=120&q=5) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=120&q=5&slack=1)</small>
 
-**5. RJ Barrett — "I think we played better than than last game. Definitely not the best feeling to lose" — RJ Barrett on the Raptors' performance against the Knicks** [00:27](https://www.youtube.com/watch?v=OoT-lHtjHwo&t=27s)
+**8. Keyonte George — "I was just waiting for him to pop off." — Keyonte George on Bryce Sensabaugh's shooting ability** [00:22](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=22s)
+
+Keyonte George: "Yeah, that's the thing. I wasn't really surprised at all. I was just waiting for him to pop off. You know, sometimes I was calling him, you know, 1-800-B. Whenever you see something immediately, you call it big. So, he's at the top of the key, there's somebody in the crowd, I just said, 'Watch this.' We really embody B whenever he gets going, and you know, he's one of the best shooters on our team. I've said it, I've said it before, he can get hot, we got to find him every single time."
+
+[https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=22s](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=22s)
+
+From: [Keyonte George Post-Game Interview vs Clippers \| 11/18/2026](https://www.youtube.com/watch?v=CkRyMxKg3Lc) · *HoopsHype*
+
+<small>[Clip it](presserclips://clip?v=CkRyMxKg3Lc&t=22&q=2) · [Send to Slack](presserclips://clip?v=CkRyMxKg3Lc&t=22&q=2&slack=1)</small>
+
+**9. Damian Lillard — "It's tough in this league when you don't know if you're going to be suited up." — Damian Lillard evaluates J.K. Dobbins' performance in his debut** [01:22](https://www.youtube.com/watch?v=wQzuLrymocI&t=82s)
+
+Damian Lillard: "I thought he did great. It's tough in this league when you don't know if you're going to be suited up, you don't know if you're going to get DNP, you don't know if you're going to play some minutes, somebody going to be in foul trouble, if you're going to be starting like he did tonight. You just never know. For me as somebody who's never been in that position, I got a lot of respect for guys who have to take that route where it's so unpredictable. I remember talking to him before the trip and he didn't even know he was coming on the trip. It speaks to his preparation and how much this means to him. I thought he played great, fought hard defensively, took shots when they were there, and he played an important role in us being in the position that we were in at the end of the game."
+
+[https://www.youtube.com/watch?v=wQzuLrymocI&t=82s](https://www.youtube.com/watch?v=wQzuLrymocI&t=82s)
+
+From: [Damian Lillard Postgame Interview \| Nov. 17, 2026 \| Portland Trail Blazers](https://www.youtube.com/watch?v=wQzuLrymocI) · *Portland Trail Blazers*
+
+<small>[Clip it](presserclips://clip?v=wQzuLrymocI&t=82&q=2) · [Send to Slack](presserclips://clip?v=wQzuLrymocI&t=82&q=2&slack=1)</small>
+
+**10. RJ Barrett — "I think we played better than than last game. Definitely not the best feeling to lose" — RJ Barrett on the Raptors' performance against the Knicks** [00:27](https://www.youtube.com/watch?v=OoT-lHtjHwo&t=27s)
 
 RJ Barrett: "Once again, another good team. I think we played well. Honestly, I think we played better than last game. So, yeah, definitely not the best feeling to lose this game, but at the end of the day, we played better than we did last time. We're really playing well. That's why it's frustrating because we are playing well. We're doing enough to put ourselves in a position to win these games. We're up three to start the fourth at home. These should be games that we're winning."
 
@@ -56,7 +106,29 @@ From: [RJ Barrett \| Post Game vs New York Knicks \| November 17, 2026](https://
 
 <small>[Clip it](presserclips://clip?v=OoT-lHtjHwo&t=27&q=2) · [Send to Slack](presserclips://clip?v=OoT-lHtjHwo&t=27&q=2&slack=1)</small>
 
-**6. Ayo Dosunmu — "I trust my teammates and there's no person I'd rather have in that spot right there." — Ayo Dosunmu on the game-winning play and trusting his teammates** [00:03](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s)
+**11. Brice Sensabaugh — "This is my best one for sure. I think I was able to defensive rebound." — Brice Sensabaugh on his career-high 40-point performance against the Clippers** [00:00](https://www.youtube.com/watch?v=T5yU6286C4c&t=0s)
+
+**Unidentified reporter:** "What's that feeling like when you're that hot, like that on fire?"
+
+**Brice Sensabaugh:** "To be honest, man, I've had that's my third one, right? That's the first one we won. So, you know, obviously right now we got a schedule going on, so just trying to do the best I could to get us back in the win column. This is my best one for sure. I think I was able to defensive rebound. I feel like today is it's I mean, this year is different for me, like trying to make an impact on the defensive end, you know, dish the ball a little bit, like play a more complete game. So, this is my best one. Obviously, came out with the win, so that's a story of itself."
+
+[https://www.youtube.com/watch?v=T5yU6286C4c&t=0s](https://www.youtube.com/watch?v=T5yU6286C4c&t=0s)
+
+From: [Brice Sensabaugh Walk and Talk Interview vs Clippers after dropping 40 \| 11/16/2026](https://www.youtube.com/watch?v=T5yU6286C4c) · *HoopsHype*
+
+<small>[Clip it](presserclips://clip?v=T5yU6286C4c&t=0&q=1) · [Send to Slack](presserclips://clip?v=T5yU6286C4c&t=0&q=1&slack=1)</small>
+
+**12. James Harden — "trying to figure out what's best for him to make him comfortable and make him play well" — James Harden on integrating Norchad Omier into the team rotation** [00:11](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=11s)
+
+James Harden: "He is so versatile and he is so custom to having a different role than what he has been playing. Trying to figure out what's best for him to make him comfortable and make him play well and then for us as a team. It is only a small dosage of games that we have been playing, but he shoots the ball well, he gets downhill, he does a variety of good things, so trying to find that balance."
+
+[https://www.youtube.com/watch?v=_7ZesF-fGIE&t=11s](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=11s)
+
+From: [Cavs Shootaround \| James Harden & Norchad Omier Media Availability \| 11.18.2026](https://www.youtube.com/watch?v=_7ZesF-fGIE) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=_7ZesF-fGIE&t=11&q=1) · [Send to Slack](presserclips://clip?v=_7ZesF-fGIE&t=11&q=1&slack=1)</small>
+
+**13. Ayo Dosunmu — "I trust my teammates and there's no person I'd rather have in that spot right there." — Ayo Dosunmu on the game-winning play and trusting his teammates** [00:03](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s)
 
 **Unidentified speaker:** "Melo comes up with a huge steal. You get the ball. You got to walk me through that final play that gets **Jaden** the bucket and you guys essentially the win."
 
@@ -68,7 +140,7 @@ From: [Ayo Dosunmu Postgame Interview After Win Against Portland Trail Blazers \
 
 <small>[Clip it](presserclips://clip?v=jgLPOI4PtjQ&t=3&q=1) · [Send to Slack](presserclips://clip?v=jgLPOI4PtjQ&t=3&q=1&slack=1)</small>
 
-**7. Cade Cunningham — "I thought there were still times where I was a little indecisive at times, especially early on." — Cade Cunningham on his intentionality and aggression throughout the game** [01:01](https://www.youtube.com/watch?v=v7Mz9OBous0&t=61s)
+**14. Cade Cunningham — "I thought there were still times where I was a little indecisive at times, especially early on." — Cade Cunningham on his intentionality and aggression throughout the game** [01:01](https://www.youtube.com/watch?v=v7Mz9OBous0&t=61s)
 
 **Unidentified reporter:** "You told me for you it is about being intentional about being aggressive. How much did you have to display that tonight?"
 
@@ -80,7 +152,7 @@ From: [Cade Post Game Interview  l  Pistons at Spurs  l 11.17.26 #NBA](https://w
 
 <small>[Clip it](presserclips://clip?v=v7Mz9OBous0&t=61&q=3) · [Send to Slack](presserclips://clip?v=v7Mz9OBous0&t=61&q=3&slack=1)</small>
 
-**8. Ja'Kobe Walter — "The winning championship teams, they don't make those mistakes at the end of the game." — Ja'Kobe Walter on limiting late-game mistakes to close out games** [01:39](https://www.youtube.com/watch?v=078dZbBBU9s&t=99s)
+**15. Ja'Kobe Walter — "The winning championship teams, they don't make those mistakes at the end of the game." — Ja'Kobe Walter on limiting late-game mistakes to close out games** [01:39](https://www.youtube.com/watch?v=078dZbBBU9s&t=99s)
 
 Ja'Kobe Walter: "Just limiting the mistakes at the end of the game. I think that's when you got to lock in the most. The winning championship teams, they don't make those mistakes at the end of the game. That's when they really lock in on the basics. We just got to stick to the roots. We can't let it slip at the end. Got to be able to play with the lead and even when it's a tie game, just figure out those winning plays, those little plays. We just got to always make them just to win those games, and lately we've been messing up."
 
@@ -90,27 +162,13 @@ From: [Ja'Kobe Walter \| Post Game vs New York Knicks \| November 17, 2026](http
 
 <small>[Clip it](presserclips://clip?v=078dZbBBU9s&t=99&q=3) · [Send to Slack](presserclips://clip?v=078dZbBBU9s&t=99&q=3&slack=1)</small>
 
-**9. Royce O'Neale — "each game is going to be somebody different. Guys got to be ready when their number is called" — Royce O'Neale on Hornets' depth and next-man-up mentality** [00:27](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=27s)
+**16. Luka Doncic — "He got it going, you know. He was bending back in the game, you know, we're trying to give him the ball as he deserved." — Luka Doncic on deferring to Quentin Grimes** [15:05](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=905s)
 
-Royce O'Neale: "Each game is going to be somebody different. Guys got to be ready when their number is called, be ready to play. And I think every game, you don't know who it's going to be, so I think everybody just being prepared mentally, having an impact on the game whenever they get in, that's what's going to help us out down the long."
+Luka Doncic: "He got it going, you know. He was bending back in the game, you know, we're trying to give him the ball as he deserved. What an amazing game from him, so it was unbelievable to watch."
 
-[https://www.youtube.com/watch?v=UOTmVZKOpJw&t=27s](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=27s)
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=905s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=905s)
 
-From: [Hornets at Lakers: Royce O'Neale Postgame Media Availability \| 11/17/2026](https://www.youtube.com/watch?v=UOTmVZKOpJw) · *Charlotte Hornets*
-
-<small>[Clip it](presserclips://clip?v=UOTmVZKOpJw&t=27&q=2) · [Send to Slack](presserclips://clip?v=UOTmVZKOpJw&t=27&q=2&slack=1)</small>
-
-**10. Jaden McDaniels — "It feels good just to know you can beat the team two times off a back-to-back." — Jaden McDaniels on the importance of winning back-to-back games** [00:35](https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s)
-
-**Unidentified reporter:** "How good was this win feel for you?"
-
-**Jaden McDaniels:** "It feels good just to know you can beat the team two times off a back-to-back. It's kind of like a simulated playoff series, so just excited that we won."
-
-[https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s](https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s)
-
-From: [Jaden McDaniels Postgame Interview With Alan Horton \| 11.17.26](https://www.youtube.com/watch?v=e3Ngro93UXQ) · *Minnesota Timberwolves*
-
-<small>[Clip it](presserclips://clip?v=e3Ngro93UXQ&t=35&q=2) · [Send to Slack](presserclips://clip?v=e3Ngro93UXQ&t=35&q=2&slack=1)</small>
+From: [Lakers vs Hornets \| Postgame Interviews x Highlights: November 17, 2026](https://www.youtube.com/watch?v=2Qw9nbz40T8) · *Los Angeles Lakers*
 
 ---
 
@@ -197,6 +255,74 @@ Ja'Kobe Walter: "Honestly no. I think the best people in the league that draw fo
 [https://www.youtube.com/watch?v=078dZbBBU9s&t=154s](https://www.youtube.com/watch?v=078dZbBBU9s&t=154s)
 
 <small>[Clip it](presserclips://clip?v=078dZbBBU9s&t=154&q=5) · [Send to Slack](presserclips://clip?v=078dZbBBU9s&t=154&q=5&slack=1)</small>
+
+---
+
+## Lakers vs Hornets | Postgame Interviews x Highlights: November 17, 2026 — *Los Angeles Lakers*
+
+Source: [https://www.youtube.com/watch?v=2Qw9nbz40T8](https://www.youtube.com/watch?v=2Qw9nbz40T8)
+
+_Speakers identified: JJ Redick, Luka Doncic, Collin Sexton, Quentin Grimes_
+
+**1. JJ Redick — "one of the things we set out to be was resilient. As you go along your journey, there are trials, there are ordeals." — JJ Redick on the Lakers' resilience and team identity** [00:02](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=2s)
+
+JJ Redick: "One of the things we set out to be was resilient. As you go along your journey, there are trials, there are ordeals, and that's how you build resiliency. Even when you're winning, you can have resiliency because there's a lot of resiliency that you can build and a lot of adversity that you'll face every game. Every game presents a different challenge, every game is a little bit different. I got to give a lot of credit to our guys. We didn't play particularly well, I didn't coach particularly well, but they stuck with it."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=2s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=2s)
+
+**2. JJ Redick — "Quentin Grimes had an unbelievable night, aggressive throughout. Shot-making was ridiculous, no bigger shot than the three that sent it to overtime." — JJ Redick praises Quentin Grimes' performance and shot-making** [01:28](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=88s)
+
+JJ Redick: "Obviously, **Quentin Grimes** had an unbelievable night, aggressive throughout. Shot-making was ridiculous, no bigger shot than the three that sent it to overtime. I thought the willingness of Luka, everybody really, but even at times Luka when he got back in the game in the fourth, he kept calling off every play I was calling and just saying, 'No, I'm trying to get Q the ball.' He recognized what was happening. The hot hand theory, I believe, was previously debunked and now it's been confirmed that it's a real thing. It definitely was a real thing tonight. I thought Q was just in a fantastic shooting zone."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=88s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=88s)
+
+**3. JJ Redick — "I thought all three of those guys that played the five, Vando with the offensive rebounds, he had a great night." — JJ Redick on the contributions of Kevon Looney and Carson Cooper** [02:13](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=133s)
+
+JJ Redick: "I thought all three of those guys that played the five, Vando with the offensive rebounds, he had a great night. Carson was part of that group that played well in the fourth. We trusted him to go out there to start overtime. I thought Loon, again, five offensive rebounds, doing what he does. In a game like this where you don't have your best stuff and they're junking the game up, the scoring opportunity stuff matters. Between the offensive rebounding and limiting our turnovers, us turning them over, we won that battle."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=133s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=133s)
+
+**4. JJ Redick — "It's pretty much been his whole career that he's had different roles, different responsibilities." — JJ Redick on Luka Doncic's role and development** [03:13](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=193s)
+
+JJ Redick: "It's pretty much been his whole career that he's had different roles, different responsibilities. There's times that he's got to play off-ball with us when we're fully healthy. We're trying to mix in more stuff for him at the start of the second and the start of the fourth. We've been trying to do that since he's been in the lineup the last three or four games. We're trying to implement more stuff to get him on-ball in those games. A big part is for him, if he's going to play off-ball, he needs to feel like he's touched the ball and he feels like he's in a rhythm."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=193s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=193s)
+
+**5. Luka Doncic — "He got it going, you know. He was bending back in the game, you know, we're trying to give him the ball as he deserved." — Luka Doncic on deferring to Quentin Grimes** [15:05](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=905s)
+
+Luka Doncic: "He got it going, you know. He was bending back in the game, you know, we're trying to give him the ball as he deserved. What an amazing game from him, so it was unbelievable to watch."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=905s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=905s)
+
+**6. Luka Doncic — "Obviously we know what the Vando going to do on the floor. Today he was amazing. Six offensive rebounds." — Luka Doncic on the Lakers' depth and team chemistry** [16:41](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1001s)
+
+Luka Doncic: "Obviously we know what the Vando going to do on the floor. Today he was amazing. Six offensive rebounds in 13 minutes, which is insane, you know. He gives us those extra possessions to help us get back. And Carson, you know, his first game with the Lakers, probably he was a little bit nervous, but he did an amazing job staying in the game. He even started the OT, so props to him."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1001s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1001s)
+
+**7. Collin Sexton — "Tonight was one of those games that just showed our grit, showed our heart, and we have that belief." — Collin Sexton on the team's grit and collective effort** [20:09](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1209s)
+
+Collin Sexton: "Tonight was one of those games that just showed our grit, showed our heart, and we have that belief in ourselves and each other that we got to play to the buzzer. I feel like they tested us a little bit, but we answered to the test and we continued to fight, continue to defend, and no one pointed fingers. I feel like at the end of the day when no one's pointing fingers, we have one common goal and that's to win, no matter who the hero is. And tonight Q was the hero."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1209s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1209s)
+
+**8. Quentin Grimes — "I tried to get 60 but it was close, so that's a big credit to my mom for sure." — Quentin Grimes on his career-high performance and team support** [26:53](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1613s)
+
+Quentin Grimes: "I tried to get 60 but it was close, so that's a big credit to my mom for sure. We had a good meal, good vibe, got some good family in town, so that definitely made it a little easier to go out there and play free. It's just kind of building off the last couple of games, coming into the game knowing we were a little short-handed, so we got to kind of pick up a little bit of slack on that end. And just coming in, Luka did a great job of finding me once I got hot early. JJ kept running plays for me to get me going and everybody was finding me, so credit to my teammates for sure for keeping finding me when I was going to get hot fire a little bit."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1613s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1613s)
+
+**9. Quentin Grimes — "I feel like we were chipping away, chipping away, getting stops, and I was able to hit a three." — Quentin Grimes on the team's resilience and chemistry** [28:15](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1695s)
+
+Quentin Grimes: "I feel like we were chipping away, chipping away, getting stops, and I was able to hit a three and then to get the steal, and then you get the crowd going, you can feel the energy start to change. You can feel the other team start to shift away from their game plan and just I shot it, I was in a rhythm, put it pretty deep in transition and those are the kind of games that shots I can turn the game in the right direction for us."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1695s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=1695s)
+
+**10. Quentin Grimes — "Kobe's one of my idols growing up. Watched him, you try to model your game after him, his intensity." — Quentin Grimes on the legacy of Kobe Bryant** [33:22](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=2002s)
+
+Quentin Grimes: "Kobe's one of my idols growing up. Watched him, you try to model your game after him, his intensity, his passion for the game. That just something that you don't see often and he's one of the reasons that I want to play this game. My dad was a Lakers fan, from here and everything, so that's just crazy to have my name in a conversation with a legend like that."
+
+[https://www.youtube.com/watch?v=2Qw9nbz40T8&t=2002s](https://www.youtube.com/watch?v=2Qw9nbz40T8&t=2002s)
 
 ---
 
@@ -288,6 +414,124 @@ Trey Lyles: "He is just continuing to show what he is capable of. I think that h
 
 ---
 
+## Keyonte George Post-Game Interview vs Clippers | 11/18/2026 — *HoopsHype*
+
+Source: [https://www.youtube.com/watch?v=CkRyMxKg3Lc](https://www.youtube.com/watch?v=CkRyMxKg3Lc)
+
+_Speakers identified: Keyonte George_
+
+**1. Keyonte George — "just trusting the next man to make the right play, and that's what we did tonight." — Keyonte George on trusting teammates to make the right play** [00:00](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=0s)
+
+Keyonte George: "Find the right guy, pocket is over, hit the pocket. The opposite corner is over, hit the corner. It's just simple plays. We hit home runs, and that's kind of been the mood for us, especially down the stretch. Myself included, just trying to hit home runs, just trusting the next man to make the right play, and that's what we did tonight."
+
+[https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=0s](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=0s)
+
+<small>[Clip it](presserclips://clip?v=CkRyMxKg3Lc&t=0&q=1) · [Send to Slack](presserclips://clip?v=CkRyMxKg3Lc&t=0&q=1&slack=1)</small>
+
+**2. Keyonte George — "I was just waiting for him to pop off." — Keyonte George on Bryce Sensabaugh's shooting ability** [00:22](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=22s)
+
+Keyonte George: "Yeah, that's the thing. I wasn't really surprised at all. I was just waiting for him to pop off. You know, sometimes I was calling him, you know, 1-800-B. Whenever you see something immediately, you call it big. So, he's at the top of the key, there's somebody in the crowd, I just said, 'Watch this.' We really embody B whenever he gets going, and you know, he's one of the best shooters on our team. I've said it, I've said it before, he can get hot, we got to find him every single time."
+
+[https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=22s](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=22s)
+
+<small>[Clip it](presserclips://clip?v=CkRyMxKg3Lc&t=22&q=2) · [Send to Slack](presserclips://clip?v=CkRyMxKg3Lc&t=22&q=2&slack=1)</small>
+
+**3. Keyonte George — "we're trying to get out of this hole that we had dug ourselves into." — Keyonte George on the team's relief after recent losses** [01:02](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=62s)
+
+Keyonte George: "Oh, for sure. We're trying to get out of this hole that we had dug ourselves into. Obviously, human nature, we're a little bit relieved, but at the same time, we play tomorrow. Got like 20 minutes to enjoy the win, and we're on to the Lakers. It's just hard to play the right way, having to go out and shots go in, we have energy on the bench. We'll get us, play against a great team on the opposite end. I mean, we all feel good, that's for sure."
+
+[https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=62s](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=62s)
+
+<small>[Clip it](presserclips://clip?v=CkRyMxKg3Lc&t=62&q=3) · [Send to Slack](presserclips://clip?v=CkRyMxKg3Lc&t=62&q=3&slack=1)</small>
+
+**4. Keyonte George — "Will does a great job at shootarounds and film, helping us understand who we want to attack." — Keyonte George on Will Hardy's coaching and team focus** [01:40](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=100s)
+
+Keyonte George: "Will does a great job at shootarounds and film, helping us understand who we want to attack. So, you know, he talks about focus throughout the whole game, I think we were focused for 48 minutes. Knowing who you want to play against, knowing what plays you want to get to, and understanding what was working. So, it casts off to Will. He's done a great job teaching us throughout this whole season so far."
+
+[https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=100s](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=100s)
+
+<small>[Clip it](presserclips://clip?v=CkRyMxKg3Lc&t=100&q=4) · [Send to Slack](presserclips://clip?v=CkRyMxKg3Lc&t=100&q=4&slack=1)</small>
+
+**5. Keyonte George — "every summer I just decided to give my whole self to the organization." — Keyonte George on his commitment to the Utah Jazz organization** [02:12](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=132s)
+
+Keyonte George: "Yeah, I think every summer I just decided to give my whole self to the organization. Diving in with my PD **Chris Jones**, diving in with Will, you know, every now and then. I mean, just being in the gym, being in a place where you know you're comfortable, the cooks, janitors, everybody top to bottom. I'm coming in at night, I see the same guys over and over again. So, for me, it's a special place for me. I got drafted, I'm also big on relationships, but you know, when I'm working out, Will was able to see what I'm working on, and he's able to kind of give his two cents."
+
+[https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=132s](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=132s)
+
+<small>[Clip it](presserclips://clip?v=CkRyMxKg3Lc&t=132&q=5) · [Send to Slack](presserclips://clip?v=CkRyMxKg3Lc&t=132&q=5&slack=1)</small>
+
+**6. Keyonte George — "I feel like I've been had the passing ability, but obviously at this level, people think you got to redo it all over again." — Keyonte George on his growth as a playmaker** [04:01](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=241s)
+
+Keyonte George: "I feel like I've been had the passing ability, but obviously at this level, people think you got to redo it all over again. And for me, I feel like for me it's the same reads. Finding the opposite corner, finding the pocket, throwing the lob, I mean, it's simple plays. I was talking to Will the other day, he was telling me like trust about the reads for the past three seasons, and that kind of hit home for me a little bit just because man he's really been layering my game each and every single year. Now we're able to go out there and compete, and now I'm just, you know, seeing the same reads over and over and over again. It's a copycat league I got filled. So, going into the game, knowing those simple reads and now it's just about playing the game within the game now. That's what the best do, so now I'm striving to, you know, win that game within the game for sure."
+
+[https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=241s](https://www.youtube.com/watch?v=CkRyMxKg3Lc&t=241s)
+
+<small>[Clip it](presserclips://clip?v=CkRyMxKg3Lc&t=241&q=6) · [Send to Slack](presserclips://clip?v=CkRyMxKg3Lc&t=241&q=6&slack=1)</small>
+
+---
+
+## Philadelphia 76ers Practice Media Availability 🎙️ | Joel Embiid | 11.18.26 — *Philadelphia 76ers*
+
+Source: [https://www.youtube.com/watch?v=Gl9sW9NFITc](https://www.youtube.com/watch?v=Gl9sW9NFITc)
+
+**1. Joel Embiid — "Obviously the work on the court is one thing, and we do that all the time." — Joel Embiid on working with Drew Hanlen to improve his game** [00:09](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=9s)
+
+Joel Embiid: "Obviously the work on the court is one thing, and we do that all the time, but it was more some of the stuff that we saw on film and trying to see a little bit and trying to see what we can change, and that was one of the things that we saw, and like I said last time."
+
+[https://www.youtube.com/watch?v=Gl9sW9NFITc&t=9s](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=9s)
+
+<small>[Clip it](presserclips://clip?v=Gl9sW9NFITc&t=9&q=1) · [Send to Slack](presserclips://clip?v=Gl9sW9NFITc&t=9&q=1&slack=1)</small>
+
+**2. Joel Embiid — "He's been doing everything. I think every single game that we've had, especially the close games." — Joel Embiid on Kentavious Caldwell-Pope's impact on the team** [00:40](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=40s)
+
+Joel Embiid: "He's been doing everything. I think every single game that we've had, especially the close games, you see the big shots at some point. Defensively, he brings in, he's all over the place, high IQ. So, yeah, he's, I mean, for the money he's making, he's done a lot of high-level stuff for us."
+
+[https://www.youtube.com/watch?v=Gl9sW9NFITc&t=40s](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=40s)
+
+<small>[Clip it](presserclips://clip?v=Gl9sW9NFITc&t=40&q=2) · [Send to Slack](presserclips://clip?v=Gl9sW9NFITc&t=40&q=2&slack=1)</small>
+
+**3. Joel Embiid — "I think experience is one. He's been playing for a long, long, long, long time." — Joel Embiid on LeBron James' unique playmaking ability** [01:18](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=78s)
+
+Joel Embiid: "I think experience is one. He's been playing for a long, long, long, long time, so he's seen it all. He's been in almost every situation you can think of, so that gives him that advantage. But then again, also, the way he's always seen the game is, you know, he wants to make the right play over and over and over. But when you have that mentality, that, you know, that's what separates you from everybody else."
+
+[https://www.youtube.com/watch?v=Gl9sW9NFITc&t=78s](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=78s)
+
+<small>[Clip it](presserclips://clip?v=Gl9sW9NFITc&t=78&q=3) · [Send to Slack](presserclips://clip?v=Gl9sW9NFITc&t=78&q=3&slack=1)</small>
+
+**4. Joel Embiid — "I had to hit Tyrese in the head a couple times with the ball just to." — Joel Embiid on building chemistry with Tyrese Maxey** [02:08](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=128s)
+
+Joel Embiid: "I had to hit Tyrese in the head a couple times with the ball just to, so that you guys learn where you're supposed to be. I mean, I'm glad he's feeling it because I, you know, that's the same way I feel. You know, I've been, you know, I always tell these guys to be ready because you don't know when the pass is coming. You just got to be ready, and that's some things that he's seen, and obviously, Tyrese has been great."
+
+[https://www.youtube.com/watch?v=Gl9sW9NFITc&t=128s](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=128s)
+
+<small>[Clip it](presserclips://clip?v=Gl9sW9NFITc&t=128&q=4) · [Send to Slack](presserclips://clip?v=Gl9sW9NFITc&t=128&q=4&slack=1)</small>
+
+**5. Joel Embiid — "We've always had a close relationship from the time that we played together." — Joel Embiid on his long-standing relationship with LeBron James** [03:03](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=183s)
+
+Joel Embiid: "We've always had a close relationship from the time that we played together, playing against each other. Obviously, you get closer when you're a teammate, but yeah, he's evolved, but I feel like we've always been great. And then the times that we spent together, it's been great. You see a, you know, from the far, you see a different side of people, and then when you're with them, you see another side, and an even better side, and that's what I've seen with him."
+
+[https://www.youtube.com/watch?v=Gl9sW9NFITc&t=183s](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=183s)
+
+<small>[Clip it](presserclips://clip?v=Gl9sW9NFITc&t=183&q=5) · [Send to Slack](presserclips://clip?v=Gl9sW9NFITc&t=183&q=5&slack=1)</small>
+
+**6. Joel Embiid — "I had a really bad experience. I thought I was not going to make it." — Joel Embiid on his negative experience with helicopters** [03:45](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=225s)
+
+Joel Embiid: "I had a really bad experience. I thought I was not going to make it. I was texting my family, and then since that day, I was like, I'm never touching a helicopter ever again."
+
+[https://www.youtube.com/watch?v=Gl9sW9NFITc&t=225s](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=225s)
+
+<small>[Clip it](presserclips://clip?v=Gl9sW9NFITc&t=225&q=6) · [Send to Slack](presserclips://clip?v=Gl9sW9NFITc&t=225&q=6&slack=1)</small>
+
+**7. Joel Embiid — "I don't look at the process about like I made shots. It's about like the process." — Joel Embiid on his focus on aggression over shot-making** [04:16](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=256s)
+
+Joel Embiid: "I don't look at the process about like I made shots. It's about like the process of how I got myself there, you know, how aggressive I was, how I was. And, you know, did everything I did, did everything I do have a meaning? You know, did I have a force? So that's the process, you know. I could have, I could have missed, I could have missed all those shots, but I would have been happy about, you know, how I came out and, you know, how aggressive I was."
+
+[https://www.youtube.com/watch?v=Gl9sW9NFITc&t=256s](https://www.youtube.com/watch?v=Gl9sW9NFITc&t=256s)
+
+<small>[Clip it](presserclips://clip?v=Gl9sW9NFITc&t=256&q=7) · [Send to Slack](presserclips://clip?v=Gl9sW9NFITc&t=256&q=7&slack=1)</small>
+
+---
+
 ## Toronto Raptors Full Media Availability | Post Game vs New York Knicks | November 17 , 2026 — *Toronto Raptors*
 
 Source: [https://www.youtube.com/watch?v=IOzDpaq2u6A](https://www.youtube.com/watch?v=IOzDpaq2u6A)
@@ -301,6 +545,54 @@ Scottie Barnes: "Just miscommunication on the switch which left them open for th
 [https://www.youtube.com/watch?v=IOzDpaq2u6A&t=319s](https://www.youtube.com/watch?v=IOzDpaq2u6A&t=319s)
 
 <small>[Clip it](presserclips://clip?v=IOzDpaq2u6A&t=319&q=5) · [Send to Slack](presserclips://clip?v=IOzDpaq2u6A&t=319&q=5&slack=1)</small>
+
+---
+
+## HoopsHype's Global Ratings for the best rookies in 2026-27 — *HoopsHype*
+
+Source: [https://www.youtube.com/watch?v=JDvYQWRCQQE](https://www.youtube.com/watch?v=JDvYQWRCQQE)
+
+_Speakers identified: Cyro Asseo_
+
+**1. Cyro Asseo — "The best rookie in the NBA is trying to keep the Golden State Warriors afloat." — Yaxel Lendeborg's performance and the Golden State Warriors' struggles** [00:00](https://www.youtube.com/watch?v=JDvYQWRCQQE&t=0s)
+
+Cyro Asseo: "The best rookie in the NBA is trying to keep the Golden State Warriors afloat. And his lead might be shrinking. **Yaxel Lendeborg** still tops the HoopsHype global rating at just over 18 through 14 games. He is putting up 21 points, 7.4 rebounds, and three and a half assists a night while shooting 48% from the field and 39% from three. But the Warriors have lost three straight without Steph Curry and they are 8 and 6 and have sledded to ninth in the West."
+
+[https://www.youtube.com/watch?v=JDvYQWRCQQE&t=0s](https://www.youtube.com/watch?v=JDvYQWRCQQE&t=0s)
+
+<small>[Clip it](presserclips://clip?v=JDvYQWRCQQE&t=0&q=1) · [Send to Slack](presserclips://clip?v=JDvYQWRCQQE&t=0&q=1&slack=1)</small>
+
+**2. Cyro Asseo — "Cameron Boozer is closing in. He sits at 16, just over two points behind." — Cameron Boozer's rising performance and impact on the Memphis Grizzlies** [00:37](https://www.youtube.com/watch?v=JDvYQWRCQQE&t=37s)
+
+Cyro Asseo: "**Cameron Boozer** is closing in. He sits at 16, just over two points behind. He gives you nearly 10 rebounds a night, five and a half assists, and 16 and a half points. The shot still has to fall at 39% from the field and 32% from three, but Memphis is 10 and 4 and fifth in the West. And by the way, Boozer has improved drastically as a shooter since a rough start to the year."
+
+[https://www.youtube.com/watch?v=JDvYQWRCQQE&t=37s](https://www.youtube.com/watch?v=JDvYQWRCQQE&t=37s)
+
+<small>[Clip it](presserclips://clip?v=JDvYQWRCQQE&t=37&q=2) · [Send to Slack](presserclips://clip?v=JDvYQWRCQQE&t=37&q=2&slack=1)</small>
+
+**3. Cyro Asseo — "Darius Acuff Jr. is third at 12. He scores 25 and a half a night with seven assists." — Darius Acuff Jr.'s heavy workload for the Sacramento Kings** [01:05](https://www.youtube.com/watch?v=JDvYQWRCQQE&t=65s)
+
+Cyro Asseo: "**Darius Acuff Jr.** is third at 12. He scores 25 and a half a night with seven assists in nearly 37 minutes, which lead all rookies. He is doing it for a Kings team that is currently one in twelve."
+
+[https://www.youtube.com/watch?v=JDvYQWRCQQE&t=65s](https://www.youtube.com/watch?v=JDvYQWRCQQE&t=65s)
+
+<small>[Clip it](presserclips://clip?v=JDvYQWRCQQE&t=65&q=3) · [Send to Slack](presserclips://clip?v=JDvYQWRCQQE&t=65&q=3&slack=1)</small>
+
+**4. Cyro Asseo — "Aday Mara jumped to fourth, blocking nearly two shots a night in under 22 minutes." — Aday Mara's defensive impact and Darryn Peterson's potential** [01:19](https://www.youtube.com/watch?v=JDvYQWRCQQE&t=79s)
+
+Cyro Asseo: "**Aday Mara** jumped to fourth, blocking nearly two shots a night in under 22 minutes while shooting 63%. **Darryn Peterson**, my favorite rookie and someone that I think is going to at least be the next coming of **Devin Booker** if not better, is fifth, scoring 17 a game for Utah."
+
+[https://www.youtube.com/watch?v=JDvYQWRCQQE&t=79s](https://www.youtube.com/watch?v=JDvYQWRCQQE&t=79s)
+
+<small>[Clip it](presserclips://clip?v=JDvYQWRCQQE&t=79&q=4) · [Send to Slack](presserclips://clip?v=JDvYQWRCQQE&t=79&q=4&slack=1)</small>
+
+**5. Cyro Asseo — "Caleb Wilson was averaging almost 19 and six rebounds before he broke his other hand." — Caleb Wilson's injury and AJ Dybantsa's drop in rankings** [01:38](https://www.youtube.com/watch?v=JDvYQWRCQQE&t=98s)
+
+Cyro Asseo: "**Caleb Wilson** was averaging almost 19 and six rebounds before he broke his other hand and he has dropped to eighth. And the number one pick, **AJ Dybantsa**, sits tenth at almost 16 points and six rebounds."
+
+[https://www.youtube.com/watch?v=JDvYQWRCQQE&t=98s](https://www.youtube.com/watch?v=JDvYQWRCQQE&t=98s)
+
+<small>[Clip it](presserclips://clip?v=JDvYQWRCQQE&t=98&q=5) · [Send to Slack](presserclips://clip?v=JDvYQWRCQQE&t=98&q=5&slack=1)</small>
 
 ---
 
@@ -616,6 +908,42 @@ Darko Rajakovic: "He is moving really, really well. He is very quick, always bei
 
 ---
 
+## Brice Sensabaugh Walk and Talk Interview vs Clippers after dropping 40 | 11/16/2026 — *HoopsHype*
+
+Source: [https://www.youtube.com/watch?v=T5yU6286C4c](https://www.youtube.com/watch?v=T5yU6286C4c)
+
+**1. Brice Sensabaugh — "This is my best one for sure. I think I was able to defensive rebound." — Brice Sensabaugh on his career-high 40-point performance against the Clippers** [00:00](https://www.youtube.com/watch?v=T5yU6286C4c&t=0s)
+
+**Unidentified reporter:** "What's that feeling like when you're that hot, like that on fire?"
+
+**Brice Sensabaugh:** "To be honest, man, I've had that's my third one, right? That's the first one we won. So, you know, obviously right now we got a schedule going on, so just trying to do the best I could to get us back in the win column. This is my best one for sure. I think I was able to defensive rebound. I feel like today is it's I mean, this year is different for me, like trying to make an impact on the defensive end, you know, dish the ball a little bit, like play a more complete game. So, this is my best one. Obviously, came out with the win, so that's a story of itself."
+
+[https://www.youtube.com/watch?v=T5yU6286C4c&t=0s](https://www.youtube.com/watch?v=T5yU6286C4c&t=0s)
+
+<small>[Clip it](presserclips://clip?v=T5yU6286C4c&t=0&q=1) · [Send to Slack](presserclips://clip?v=T5yU6286C4c&t=0&q=1&slack=1)</small>
+
+**2. Brice Sensabaugh — "My whole career I've kind of been the underdog, and you know, it's kind of been a slow start." — Brice Sensabaugh on his underdog mindset and patience this season** [01:15](https://www.youtube.com/watch?v=T5yU6286C4c&t=75s)
+
+**Unidentified speaker:** "When you do something like that, what's the mindset coming into the next one? I feel like you always got a chip on your shoulder every time I see you."
+
+**Brice Sensabaugh:** "Yeah, absolutely. Yeah, that's just how I am. My whole career I've kind of been the underdog, and you know, it's kind of been a slow start this year for me, so just trying to stay patient and you know, prove myself. I feel like **Tom Brady** said somewhere in an interview like he never felt like he was that guy. He always felt like he had to prove himself. I kind of feel like I keep that same mindset, like I'll never feel like I've made it. You know, like just always trying to prove myself, always trying to do better, always trying to, you know, takes more. So, you know, that's how I go into everything in life, like, you know, game, off the court, family, you know, my diet, all that kind of stuff. Like, I feel like that is who I am and it and it uh, it's my identity, so."
+
+[https://www.youtube.com/watch?v=T5yU6286C4c&t=75s](https://www.youtube.com/watch?v=T5yU6286C4c&t=75s)
+
+<small>[Clip it](presserclips://clip?v=T5yU6286C4c&t=75&q=2) · [Send to Slack](presserclips://clip?v=T5yU6286C4c&t=75&q=2&slack=1)</small>
+
+**3. Brice Sensabaugh — "Just trying to eat more whole foods and you know, no fast food, no fried food." — Brice Sensabaugh on his diet and discipline to improve his game** [02:25](https://www.youtube.com/watch?v=T5yU6286C4c&t=145s)
+
+**Unidentified reporter:** "A lot of teams, even like on the sideline, were talking about, 'Man, it look like Brice really slimmed up.' What was your routine and like your eating habits? How did you change that?"
+
+**Brice Sensabaugh:** "Yeah, really just discipline. Like, I feel like I'm still young, but as I'm getting older, like my taste buds are starting to develop a little bit. So, just trying to eat more whole foods and you know, no fast food, no fried food. It is tough, it is tough, but yeah, just trying to be mature about it and and uh, send some ball. Let's keep growing."
+
+[https://www.youtube.com/watch?v=T5yU6286C4c&t=145s](https://www.youtube.com/watch?v=T5yU6286C4c&t=145s)
+
+<small>[Clip it](presserclips://clip?v=T5yU6286C4c&t=145&q=3) · [Send to Slack](presserclips://clip?v=T5yU6286C4c&t=145&q=3&slack=1)</small>
+
+---
+
 ## Hornets at Lakers: Royce O'Neale Postgame Media Availability | 11/17/2026 — *Charlotte Hornets*
 
 Source: [https://www.youtube.com/watch?v=UOTmVZKOpJw](https://www.youtube.com/watch?v=UOTmVZKOpJw)
@@ -645,6 +973,78 @@ Royce O'Neale: "Just learn from this. We did a lot of good things, a couple thin
 [https://www.youtube.com/watch?v=UOTmVZKOpJw&t=43s](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=43s)
 
 <small>[Clip it](presserclips://clip?v=UOTmVZKOpJw&t=43&q=3) · [Send to Slack](presserclips://clip?v=UOTmVZKOpJw&t=43&q=3&slack=1)</small>
+
+---
+
+## Cavs Shootaround | James Harden & Norchad Omier Media Availability | 11.18.2026 — *Cleveland Cavaliers*
+
+Source: [https://www.youtube.com/watch?v=_7ZesF-fGIE](https://www.youtube.com/watch?v=_7ZesF-fGIE)
+
+_Speakers identified: James Harden, Norchad Omier_
+
+**1. James Harden — "trying to figure out what's best for him to make him comfortable and make him play well" — James Harden on integrating Norchad Omier into the team rotation** [00:11](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=11s)
+
+James Harden: "He is so versatile and he is so custom to having a different role than what he has been playing. Trying to figure out what's best for him to make him comfortable and make him play well and then for us as a team. It is only a small dosage of games that we have been playing, but he shoots the ball well, he gets downhill, he does a variety of good things, so trying to find that balance."
+
+[https://www.youtube.com/watch?v=_7ZesF-fGIE&t=11s](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=11s)
+
+<small>[Clip it](presserclips://clip?v=_7ZesF-fGIE&t=11&q=1) · [Send to Slack](presserclips://clip?v=_7ZesF-fGIE&t=11&q=1&slack=1)</small>
+
+**2. James Harden — "Honestly, the work is just constant communication. In the grand scheme of things, it is still not" — James Harden on the importance of communication with Norchad Omier** [01:00](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=60s)
+
+James Harden: "Honestly, the work is just constant communication. In the grand scheme of things, it is still not a lot of time, so just trying to figure out and communicate. That is the most important thing, when to screen, how to screen, and what does that look like, because I think that getting them easier opportunities at the rim makes our team a lot better."
+
+[https://www.youtube.com/watch?v=_7ZesF-fGIE&t=60s](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=60s)
+
+<small>[Clip it](presserclips://clip?v=_7ZesF-fGIE&t=60&q=2) · [Send to Slack](presserclips://clip?v=_7ZesF-fGIE&t=60&q=2&slack=1)</small>
+
+**3. James Harden — "I think he has done an unbelievable job of putting the work in." — James Harden on Norchad Omier's growth and confidence** [01:57](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=117s)
+
+James Harden: "I think he has done an unbelievable job of putting the work in. He sees how I work and the effort that I put in, still to this day, and he wants to be a part, so he is like, 'Can we work?' and I am like, 'Let's work.' He is with me basically every day putting the work in. The opportunity presented itself and he was prepared for that moment."
+
+[https://www.youtube.com/watch?v=_7ZesF-fGIE&t=117s](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=117s)
+
+<small>[Clip it](presserclips://clip?v=_7ZesF-fGIE&t=117&q=3) · [Send to Slack](presserclips://clip?v=_7ZesF-fGIE&t=117&q=3&slack=1)</small>
+
+**4. Norchad Omier — "I have one word to describe it, I feel blessed." — Norchad Omier on his opportunity with the Cavaliers** [05:06](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=306s)
+
+Norchad Omier: "I have one word to describe it, I feel blessed. I feel blessed to be around these talented guys, guys like James, and I can learn so much from them, so everything, just get better every day."
+
+[https://www.youtube.com/watch?v=_7ZesF-fGIE&t=306s](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=306s)
+
+<small>[Clip it](presserclips://clip?v=_7ZesF-fGIE&t=306&q=4) · [Send to Slack](presserclips://clip?v=_7ZesF-fGIE&t=306&q=4&slack=1)</small>
+
+**5. Norchad Omier — "making the game easier for James, stuff like that." — Norchad Omier on the details of playing with talented teammates** [05:31](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=331s)
+
+Norchad Omier: "At this level, everybody is talented, so little details, hitting someone on rebounds, tagging, making the game easier for James, stuff like that."
+
+[https://www.youtube.com/watch?v=_7ZesF-fGIE&t=331s](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=331s)
+
+<small>[Clip it](presserclips://clip?v=_7ZesF-fGIE&t=331&q=5) · [Send to Slack](presserclips://clip?v=_7ZesF-fGIE&t=331&q=5&slack=1)</small>
+
+**6. Norchad Omier — "Cleveland by itself is just such a great organization, they just make me want to be around" — Norchad Omier on why the Cavaliers were the right fit** [06:14](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=374s)
+
+Norchad Omier: "Cleveland by itself is just such a great organization, they just make me want to be around them more. They just don't care about you on the court but off the court too. They are just such a great organization, you want to be around them."
+
+[https://www.youtube.com/watch?v=_7ZesF-fGIE&t=374s](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=374s)
+
+<small>[Clip it](presserclips://clip?v=_7ZesF-fGIE&t=374&q=6) · [Send to Slack](presserclips://clip?v=_7ZesF-fGIE&t=374&q=6&slack=1)</small>
+
+**7. Norchad Omier — "I started playing basketball pretty late. When I start playing, I think I was 14 years old." — Norchad Omier on his late start to playing basketball** [07:06](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=426s)
+
+Norchad Omier: "I started playing basketball pretty late. When I start playing, I think I was 14 years old. All I did was rebound and pass the ball to who know who to play basketball. I couldn't dribble, I couldn't do anything, so I think that stick with me since then."
+
+[https://www.youtube.com/watch?v=_7ZesF-fGIE&t=426s](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=426s)
+
+<small>[Clip it](presserclips://clip?v=_7ZesF-fGIE&t=426&q=7) · [Send to Slack](presserclips://clip?v=_7ZesF-fGIE&t=426&q=7&slack=1)</small>
+
+**8. Norchad Omier — "I am so happy now that kids see that it is not just baseball." — Norchad Omier on being the first Nicaraguan player in the NBA** [07:51](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=471s)
+
+Norchad Omier: "I am so happy now that kids see that it is not just baseball. In Nicaragua we play a lot of baseball, but they see that it is not just baseball, they can achieve their dreams in basketball. A lot of basketball is being played in Nicaragua now, so I am very happy about that."
+
+[https://www.youtube.com/watch?v=_7ZesF-fGIE&t=471s](https://www.youtube.com/watch?v=_7ZesF-fGIE&t=471s)
+
+<small>[Clip it](presserclips://clip?v=_7ZesF-fGIE&t=471&q=8) · [Send to Slack](presserclips://clip?v=_7ZesF-fGIE&t=471&q=8&slack=1)</small>
 
 ---
 
@@ -974,6 +1374,38 @@ _Speakers identified: Unidentified speaker, Cade Cunningham_
 
 ---
 
+## Damian Lillard Postgame Interview | Nov. 17, 2026 | Portland Trail Blazers — *Portland Trail Blazers*
+
+Source: [https://www.youtube.com/watch?v=wQzuLrymocI](https://www.youtube.com/watch?v=wQzuLrymocI)
+
+_Speakers identified: Damian Lillard_
+
+**1. Damian Lillard — "It's very frustrating to say, especially when you take control of the game." — Damian Lillard on the frustration of losing a close game** [00:01](https://www.youtube.com/watch?v=wQzuLrymocI&t=1s)
+
+Damian Lillard: "It's very frustrating to say, especially when you take control of the game. I thought we executed pretty well down the stretch for that. We managed those last five minutes pretty well, even though we had three or four threes in a row in big possessions. I thought we flowed around. They made timely shots and we probably could have done a little bit better, but for the most part, I thought we managed it well. We put ourselves in position to win on the second night of a back-to-back on the road, and they made the plays in those last couple possessions and we didn't."
+
+[https://www.youtube.com/watch?v=wQzuLrymocI&t=1s](https://www.youtube.com/watch?v=wQzuLrymocI&t=1s)
+
+<small>[Clip it](presserclips://clip?v=wQzuLrymocI&t=1&q=1) · [Send to Slack](presserclips://clip?v=wQzuLrymocI&t=1&q=1&slack=1)</small>
+
+**2. Damian Lillard — "It's tough in this league when you don't know if you're going to be suited up." — Damian Lillard evaluates J.K. Dobbins' performance in his debut** [01:22](https://www.youtube.com/watch?v=wQzuLrymocI&t=82s)
+
+Damian Lillard: "I thought he did great. It's tough in this league when you don't know if you're going to be suited up, you don't know if you're going to get DNP, you don't know if you're going to play some minutes, somebody going to be in foul trouble, if you're going to be starting like he did tonight. You just never know. For me as somebody who's never been in that position, I got a lot of respect for guys who have to take that route where it's so unpredictable. I remember talking to him before the trip and he didn't even know he was coming on the trip. It speaks to his preparation and how much this means to him. I thought he played great, fought hard defensively, took shots when they were there, and he played an important role in us being in the position that we were in at the end of the game."
+
+[https://www.youtube.com/watch?v=wQzuLrymocI&t=82s](https://www.youtube.com/watch?v=wQzuLrymocI&t=82s)
+
+<small>[Clip it](presserclips://clip?v=wQzuLrymocI&t=82&q=2) · [Send to Slack](presserclips://clip?v=wQzuLrymocI&t=82&q=2&slack=1)</small>
+
+**3. Damian Lillard — "With Danny out, I knew I would have more responsibility, just kind of managing the game." — Damian Lillard on adjusting his game with teammates sidelined** [02:22](https://www.youtube.com/watch?v=wQzuLrymocI&t=142s)
+
+Damian Lillard: "With Danny out, I knew I would have more responsibility, just kind of managing the game, scoring the ball, making plays. But just knowing they are a good defensive team and I didn't want to wear myself out out the gate by trying to just go for it. I've been in that position a lot in my career and I knew that I would have to balance it out, play a good floor game and pick my spots. So I spent most of the first half, I came out, took shots that were there, but the reads that were there, I took them. I hit the pocket, I reversed the ball, I advanced the ball to soften them up and eventually once it softened up, I was able to find a stretch. And then from there, I thought I was able to kind of play the balance game, keep them off balance, if they up this time, hit the pocket. I was able to set up my game that way like I always have."
+
+[https://www.youtube.com/watch?v=wQzuLrymocI&t=142s](https://www.youtube.com/watch?v=wQzuLrymocI&t=142s)
+
+<small>[Clip it](presserclips://clip?v=wQzuLrymocI&t=142&q=3) · [Send to Slack](presserclips://clip?v=wQzuLrymocI&t=142&q=3&slack=1)</small>
+
+---
+
 ## "Everybody Just Wanted To Win." | LaMelo Ball Postgame Sound | 11.17.26 — *Minnesota Timberwolves*
 
 Source: [https://www.youtube.com/watch?v=x6MOj5mPRaY](https://www.youtube.com/watch?v=x6MOj5mPRaY)
@@ -1119,3 +1551,93 @@ _Speakers identified: LaMelo Ball_
 [https://www.youtube.com/watch?v=x6MOj5mPRaY&t=240s](https://www.youtube.com/watch?v=x6MOj5mPRaY&t=240s)
 
 <small>[Clip it](presserclips://clip?v=x6MOj5mPRaY&t=240&q=14) · [Send to Slack](presserclips://clip?v=x6MOj5mPRaY&t=240&q=14&slack=1)</small>
+
+---
+
+## Which NBA teams are due to cool off? Lakers, Grizzlies and 76ers under the microscope — *HoopsHype*
+
+Source: [https://www.youtube.com/watch?v=x6brLIPMI5M](https://www.youtube.com/watch?v=x6brLIPMI5M)
+
+_Speakers identified: Cyro Asseo, Sam Yip_
+
+**1. Sam Yip — "it looks like they do have a bigger opening now to actually get to the conference finals" — Lakers' hot start and potential for a deep playoff run** [01:08](https://www.youtube.com/watch?v=x6brLIPMI5M&t=68s)
+
+**Unidentified reporter:** "Is there a team right off the dome that you think has been playing really well in your eyes, Sam?"
+
+**Sam Yip:** "The Lakers right away jump off as a team that's playing really well. A lot of us coming in, we thought they were going to be good, maybe a four or five seed. But right now they are sitting at number one. With the Lakers losing all those players now, it looks like they do have a bigger opening now to actually get to the conference finals, potentially to the finals. And who knows, maybe they could win it all if they keep up this pace."
+
+[https://www.youtube.com/watch?v=x6brLIPMI5M&t=68s](https://www.youtube.com/watch?v=x6brLIPMI5M&t=68s)
+
+<small>[Clip it](presserclips://clip?v=x6brLIPMI5M&t=68&q=1) · [Send to Slack](presserclips://clip?v=x6brLIPMI5M&t=68&q=1&slack=1)</small>
+
+**2. Sam Yip — "he's shooting 45.5% from three. That is not sustainable for someone that career-wise is shooting 32%" — Ziaire Williams' unsustainable three-point shooting performance** [03:15](https://www.youtube.com/watch?v=x6brLIPMI5M&t=195s)
+
+Sam Yip: "**Ziaire Williams** right now is shooting 45.5% from three. That is not sustainable for someone that career-wise is shooting 32%. Matisse Thybulle is also shooting 39% right now from three, and he shot 40% last year with Portland, so that's kind of where maybe he'll be around the 37-38% range, but **Ziaire Williams** right now is shooting out of his mind."
+
+[https://www.youtube.com/watch?v=x6brLIPMI5M&t=195s](https://www.youtube.com/watch?v=x6brLIPMI5M&t=195s)
+
+<small>[Clip it](presserclips://clip?v=x6brLIPMI5M&t=195&q=2) · [Send to Slack](presserclips://clip?v=x6brLIPMI5M&t=195&q=2&slack=1)</small>
+
+**3. Sam Yip — "it's kind of like a no-stars kind of a rotation thing and in a way that kind of feeds" — Memphis Grizzlies' 'no-star' rotation and substitution pattern** [07:44](https://www.youtube.com/watch?v=x6brLIPMI5M&t=464s)
+
+Sam Yip: "The coach, Taylor Jenkins, his substitution patterns in terms of kind of like a soccer style, like five in, five out in a way. It really presents an opportunity. It's kind of like a no-stars kind of a rotation thing and in a way that kind of feeds into the team becomes more of an egalist team when there's not a main guy there, where you just kind of have the substitution patterns."
+
+[https://www.youtube.com/watch?v=x6brLIPMI5M&t=464s](https://www.youtube.com/watch?v=x6brLIPMI5M&t=464s)
+
+<small>[Clip it](presserclips://clip?v=x6brLIPMI5M&t=464&q=3) · [Send to Slack](presserclips://clip?v=x6brLIPMI5M&t=464&q=3&slack=1)</small>
+
+**4. Sam Yip — "if you give this guy a role like a big with bigger minutes, I think his usage goes up" — Ty Jerome's sustainable production and usage in Memphis** [11:34](https://www.youtube.com/watch?v=x6brLIPMI5M&t=694s)
+
+Sam Yip: "I think it is sustainable. Even if you look at his per-36 numbers previously with Cleveland, I remember he was the six-man guy over there. The per-36 numbers they jump out. They jump out at me when I looked at them. If you give this guy a role like a big with bigger minutes, I think his usage goes up, and his numbers would jump up."
+
+[https://www.youtube.com/watch?v=x6brLIPMI5M&t=694s](https://www.youtube.com/watch?v=x6brLIPMI5M&t=694s)
+
+<small>[Clip it](presserclips://clip?v=x6brLIPMI5M&t=694&q=4) · [Send to Slack](presserclips://clip?v=x6brLIPMI5M&t=694&q=4&slack=1)</small>
+
+**5. Sam Yip — "good teams find a way to win. Philadelphia is a very good team" — Philadelphia 76ers' experience and ability to close games** [14:46](https://www.youtube.com/watch?v=x6brLIPMI5M&t=886s)
+
+Sam Yip: "They have **Jaylen Brown**, **LeBron James**, Embiid, even Maxey that is for his considered a veteran. **Jaylen Brown** said last week, I believe he's like, we're winning games, but he's like, we still got a lot of things to improve on. And I think that just goes in terms of being a good vet team is they're winning games they probably shouldn't win, but you know, like there's a saying about how basketball is always decided in the fourth quarter in the last five minutes. All the bad teams usually find a way to lose. Good teams find a way to win. Philadelphia is a very good team."
+
+[https://www.youtube.com/watch?v=x6brLIPMI5M&t=886s](https://www.youtube.com/watch?v=x6brLIPMI5M&t=886s)
+
+<small>[Clip it](presserclips://clip?v=x6brLIPMI5M&t=886&q=5) · [Send to Slack](presserclips://clip?v=x6brLIPMI5M&t=886&q=5&slack=1)</small>
+
+**6. Sam Yip — "outside of Steph, the gravity he creates with spacing, that changes the whole dynamic of the team" — Stephen Curry's impact on Golden State's offensive spacing** [21:24](https://www.youtube.com/watch?v=x6brLIPMI5M&t=1284s)
+
+Sam Yip: "Honestly, outside of Steph, the gravity he creates with spacing, that changes the whole dynamic of the team. Without him, he's one of the, he's probably, if not the best, off-ball superstar we've ever seen in the league. His not being out there, the opponents don't have to focus on always having one guy on him. And that means that with him off the floor now, their number one option is Yaxel. Yaxel was only 10 games into his rookie year, no one even expected him to be this good."
+
+[https://www.youtube.com/watch?v=x6brLIPMI5M&t=1284s](https://www.youtube.com/watch?v=x6brLIPMI5M&t=1284s)
+
+<small>[Clip it](presserclips://clip?v=x6brLIPMI5M&t=1284&q=6) · [Send to Slack](presserclips://clip?v=x6brLIPMI5M&t=1284&q=6&slack=1)</small>
+
+**7. Sam Yip — "they do not have that much depth if you actually look that deeper" — Golden State Warriors' lack of depth without Stephen Curry** [23:38](https://www.youtube.com/watch?v=x6brLIPMI5M&t=1418s)
+
+Sam Yip: "If you look down their roster, they do not have that much depth if you actually look that deeper. So I would say this is a constant concern. Like they do need Steph back as ASAP. Hopefully it's not too long of an injury. If it's over a month, they could keep dropping and it could be pretty dangerous."
+
+[https://www.youtube.com/watch?v=x6brLIPMI5M&t=1418s](https://www.youtube.com/watch?v=x6brLIPMI5M&t=1418s)
+
+<small>[Clip it](presserclips://clip?v=x6brLIPMI5M&t=1418&q=7) · [Send to Slack](presserclips://clip?v=x6brLIPMI5M&t=1418&q=7&slack=1)</small>
+
+**8. Sam Yip — "they do rely a lot on their team defense and you got Queta and Mitchell Robinson manning the five" — Boston Celtics' reliance on team defense and depth** [26:28](https://www.youtube.com/watch?v=x6brLIPMI5M&t=1588s)
+
+Sam Yip: "They don't have that other than **Derek White**. They're not like a point of attack kind of like we have is one defender on them. They do have that, but they do rely a lot on their team defense and you got Queta and **Mitchell Robinson** manning the five. That's a great tandem to have in terms of rim protecting."
+
+[https://www.youtube.com/watch?v=x6brLIPMI5M&t=1588s](https://www.youtube.com/watch?v=x6brLIPMI5M&t=1588s)
+
+<small>[Clip it](presserclips://clip?v=x6brLIPMI5M&t=1588&q=8) · [Send to Slack](presserclips://clip?v=x6brLIPMI5M&t=1588&q=8&slack=1)</small>
+
+**9. Sam Yip — "when Anthony Edwards went down, I was not expecting them to win games like this" — Minnesota Timberwolves' depth and team-based success** [29:16](https://www.youtube.com/watch?v=x6brLIPMI5M&t=1756s)
+
+Sam Yip: "It feels like surprisingly, I put Minnesota there. When **Anthony Edwards** went down, I was not expecting them to win games like this. If you watch the box score of every game, or even if you watch them play, they have a different guy stepping up. It might be AO, it might be **Lamelo Ball** one night, like it's just like a different man and I don't know if that's sustainable."
+
+[https://www.youtube.com/watch?v=x6brLIPMI5M&t=1756s](https://www.youtube.com/watch?v=x6brLIPMI5M&t=1756s)
+
+<small>[Clip it](presserclips://clip?v=x6brLIPMI5M&t=1756&q=9) · [Send to Slack](presserclips://clip?v=x6brLIPMI5M&t=1756&q=9&slack=1)</small>
+
+**10. Cyro Asseo — "I think there's a world Paul George is an All-Star" — Paul George's career renaissance and All-Star potential** [39:24](https://www.youtube.com/watch?v=x6brLIPMI5M&t=2364s)
+
+Cyro Asseo: "I'm going to go with **Paul George** is going to have a career continue to have a career renaissance, play 65 plus games. I think there's a world **Paul George** is an All-Star."
+
+[https://www.youtube.com/watch?v=x6brLIPMI5M&t=2364s](https://www.youtube.com/watch?v=x6brLIPMI5M&t=2364s)
+
+<small>[Clip it](presserclips://clip?v=x6brLIPMI5M&t=2364&q=10) · [Send to Slack](presserclips://clip?v=x6brLIPMI5M&t=2364&q=10&slack=1)</small>

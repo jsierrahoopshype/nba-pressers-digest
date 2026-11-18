@@ -1,0 +1,359 @@
+{
+  "video_title": "Lakers vs Hornets | Postgame Interviews x Highlights: November 17, 2026",
+  "speakers_seen": [
+    "JJ Redick",
+    "Luka Doncic",
+    "Collin Sexton",
+    "Quentin Grimes"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "JJ Redick",
+      "timestamp": "00:02",
+      "summary_phrase": "JJ Redick on the Lakers' resilience and team identity",
+      "names_mentioned": [],
+      "excerpt": "one of the things we set out to be was resilient. As you go along your journey, there are trials, there are ordeals.",
+      "quote": "One of the things we set out to be was resilient. As you go along your journey, there are trials, there are ordeals, and that's how you build resiliency. Even when you're winning, you can have resiliency because there's a lot of resiliency that you can build and a lot of adversity that you'll face every game. Every game presents a different challenge, every game is a little bit different. I got to give a lot of credit to our guys. We didn't play particularly well, I didn't coach particularly well, but they stuck with it.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "JJ Redick on the Lakers win: We did not play particularly well and I did not coach particularly well but the guys stuck with it",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "JJ Redick discusses the team's resilience and ability to overcome adversity during their postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "JJ Redick",
+      "timestamp": "01:28",
+      "summary_phrase": "JJ Redick praises Quentin Grimes' performance and shot-making",
+      "names_mentioned": [
+        "Quentin Grimes"
+      ],
+      "excerpt": "Quentin Grimes had an unbelievable night, aggressive throughout. Shot-making was ridiculous, no bigger shot than the three that sent it to overtime.",
+      "quote": "Obviously, Quentin Grimes had an unbelievable night, aggressive throughout. Shot-making was ridiculous, no bigger shot than the three that sent it to overtime. I thought the willingness of Luka, everybody really, but even at times Luka when he got back in the game in the fourth, he kept calling off every play I was calling and just saying, 'No, I'm trying to get Q the ball.' He recognized what was happening. The hot hand theory, I believe, was previously debunked and now it's been confirmed that it's a real thing. It definitely was a real thing tonight. I thought Q was just in a fantastic shooting zone.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 88,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "JJ Redick says the hot hand theory has been confirmed as a real thing after Quentin Grimes performance tonight",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Quentin Grimes",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "JJ Redick praises Quentin Grimes for his performance and notes how Luka Doncic actively sought to get Grimes the ball during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "JJ Redick",
+      "timestamp": "02:13",
+      "summary_phrase": "JJ Redick on the contributions of Kevon Looney and Carson Cooper",
+      "names_mentioned": [
+        "Kevon Looney",
+        "Carson Cooper"
+      ],
+      "excerpt": "I thought all three of those guys that played the five, Vando with the offensive rebounds, he had a great night.",
+      "quote": "I thought all three of those guys that played the five, Vando with the offensive rebounds, he had a great night. Carson was part of that group that played well in the fourth. We trusted him to go out there to start overtime. I thought Loon, again, five offensive rebounds, doing what he does. In a game like this where you don't have your best stuff and they're junking the game up, the scoring opportunity stuff matters. Between the offensive rebounding and limiting our turnovers, us turning them over, we won that battle.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JJ Redick credits the Lakers frontcourt for their work on the glass and limiting turnovers in a messy game",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevon Looney",
+          "Carson Cooper"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "JJ Redick evaluates the contributions of Kevon Looney and Carson Cooper in the frontcourt during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "JJ Redick",
+      "timestamp": "03:13",
+      "summary_phrase": "JJ Redick on Luka Doncic's role and development",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "It's pretty much been his whole career that he's had different roles, different responsibilities.",
+      "quote": "It's pretty much been his whole career that he's had different roles, different responsibilities. There's times that he's got to play off-ball with us when we're fully healthy. We're trying to mix in more stuff for him at the start of the second and the start of the fourth. We've been trying to do that since he's been in the lineup the last three or four games. We're trying to implement more stuff to get him on-ball in those games. A big part is for him, if he's going to play off-ball, he needs to feel like he's touched the ball and he feels like he's in a rhythm.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 193,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "JJ Redick on managing Luka Doncic: We are trying to implement more stuff to get him on ball in the second and fourth quarters",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "JJ Redick discusses the ongoing efforts to integrate Luka Doncic into different roles and responsibilities within the team's offensive system.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Luka Doncic",
+      "timestamp": "15:05",
+      "summary_phrase": "Luka Doncic on deferring to Quentin Grimes",
+      "names_mentioned": [
+        "Quentin Grimes"
+      ],
+      "excerpt": "He got it going, you know. He was bending back in the game, you know, we're trying to give him the ball as he deserved.",
+      "quote": "He got it going, you know. He was bending back in the game, you know, we're trying to give him the ball as he deserved. What an amazing game from him, so it was unbelievable to watch.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 905,
+      "end_seconds": 919,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Luka Doncic on feeding the hot hand: Quentin Grimes got it going and we were trying to give him the ball as he deserved",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Quentin Grimes"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Luka Doncic explains his decision to defer to Quentin Grimes during the game because of his hot shooting performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Luka Doncic",
+      "timestamp": "16:41",
+      "summary_phrase": "Luka Doncic on the Lakers' depth and team chemistry",
+      "names_mentioned": [
+        "Kevon Looney",
+        "Carson Cooper"
+      ],
+      "excerpt": "Obviously we know what the Vando going to do on the floor. Today he was amazing. Six offensive rebounds.",
+      "quote": "Obviously we know what the Vando going to do on the floor. Today he was amazing. Six offensive rebounds in 13 minutes, which is insane, you know. He gives us those extra possessions to help us get back. And Carson, you know, his first game with the Lakers, probably he was a little bit nervous, but he did an amazing job staying in the game. He even started the OT, so props to him.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 1001,
+      "end_seconds": 1029,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Luka Doncic praises the depth: Vando was amazing with six offensive rebounds in 13 minutes and Carson Cooper did an amazing job in his first game",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Carson Cooper"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Luka Doncic comments on the performance of his teammates, specifically highlighting the contributions of Vando and Carson Cooper.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Collin Sexton",
+      "timestamp": "20:09",
+      "summary_phrase": "Collin Sexton on the team's grit and collective effort",
+      "names_mentioned": [
+        "Quentin Grimes"
+      ],
+      "excerpt": "Tonight was one of those games that just showed our grit, showed our heart, and we have that belief.",
+      "quote": "Tonight was one of those games that just showed our grit, showed our heart, and we have that belief in ourselves and each other that we got to play to the buzzer. I feel like they tested us a little bit, but we answered to the test and we continued to fight, continue to defend, and no one pointed fingers. I feel like at the end of the day when no one's pointing fingers, we have one common goal and that's to win, no matter who the hero is. And tonight Q was the hero.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 1209,
+      "end_seconds": 1246,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Collin Sexton on the Lakers win: At the end of the day when no one is pointing fingers we have one common goal and that is to win",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Quentin Grimes"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Collin Sexton reflects on the team's collective effort and grit, identifying Quentin Grimes as the hero of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Quentin Grimes",
+      "timestamp": "26:53",
+      "summary_phrase": "Quentin Grimes on his career-high performance and team support",
+      "names_mentioned": [],
+      "excerpt": "I tried to get 60 but it was close, so that's a big credit to my mom for sure.",
+      "quote": "I tried to get 60 but it was close, so that's a big credit to my mom for sure. We had a good meal, good vibe, got some good family in town, so that definitely made it a little easier to go out there and play free. It's just kind of building off the last couple of games, coming into the game knowing we were a little short-handed, so we got to kind of pick up a little bit of slack on that end. And just coming in, Luka did a great job of finding me once I got hot early. JJ kept running plays for me to get me going and everybody was finding me, so credit to my teammates for sure for keeping finding me when I was going to get hot fire a little bit.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 1613,
+      "end_seconds": 1666,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Quentin Grimes on his career night: I tried to get 60 but it was close. Luka did a great job of finding me once I got hot early",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic",
+          "JJ Redick"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quentin Grimes discusses his career-high performance and credits his teammates and coaches for helping him maintain his rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Quentin Grimes",
+      "timestamp": "28:15",
+      "summary_phrase": "Quentin Grimes on the team's resilience and chemistry",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "I feel like we were chipping away, chipping away, getting stops, and I was able to hit a three.",
+      "quote": "I feel like we were chipping away, chipping away, getting stops, and I was able to hit a three and then to get the steal, and then you get the crowd going, you can feel the energy start to change. You can feel the other team start to shift away from their game plan and just I shot it, I was in a rhythm, put it pretty deep in transition and those are the kind of games that shots I can turn the game in the right direction for us.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 1695,
+      "end_seconds": 1730,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Quentin Grimes on the comeback: You can feel the energy start to change and you can feel the other team start to shift away from their game plan",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Quentin Grimes describes the momentum shift during the game as he hit key shots and the team gained defensive stops.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Quentin Grimes",
+      "timestamp": "33:22",
+      "summary_phrase": "Quentin Grimes on the legacy of Kobe Bryant",
+      "names_mentioned": [
+        "Kobe Bryant"
+      ],
+      "excerpt": "Kobe's one of my idols growing up. Watched him, you try to model your game after him, his intensity.",
+      "quote": "Kobe's one of my idols growing up. Watched him, you try to model your game after him, his intensity, his passion for the game. That just something that you don't see often and he's one of the reasons that I want to play this game. My dad was a Lakers fan, from here and everything, so that's just crazy to have my name in a conversation with a legend like that.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 2002,
+      "end_seconds": 2029,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 8,
+      "social_post": "Quentin Grimes on playing for the Lakers: Kobe is one of my idols growing up. It is crazy to have my name in a conversation with a legend like that",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Quentin Grimes reflects on his admiration for Kobe Bryant and the significance of his performance in a Lakers uniform.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "2Qw9nbz40T8",
+  "url": "https://www.youtube.com/watch?v=2Qw9nbz40T8",
+  "channel_team": "Los Angeles Lakers",
+  "published": "2026-11-18T09:17:32Z",
+  "duration_seconds": 2032,
+  "processed_at": "2026-11-18T18:11:59Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

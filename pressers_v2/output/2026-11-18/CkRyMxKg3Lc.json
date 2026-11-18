@@ -1,0 +1,214 @@
+{
+  "video_title": "Keyonte George Post-Game Interview vs Clippers | 11/18/2026",
+  "speakers_seen": [
+    "Keyonte George"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Keyonte George",
+      "timestamp": "00:00",
+      "summary_phrase": "Keyonte George on trusting teammates to make the right play",
+      "names_mentioned": [],
+      "excerpt": "just trusting the next man to make the right play, and that's what we did tonight.",
+      "quote": "Find the right guy, pocket is over, hit the pocket. The opposite corner is over, hit the corner. It's just simple plays. We hit home runs, and that's kind of been the mood for us, especially down the stretch. Myself included, just trying to hit home runs, just trusting the next man to make the right play, and that's what we did tonight.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Keyonte George on the Jazz mindset down the stretch: We have been trying to hit home runs, but we are learning to just trust the next man to make the right play.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Keyonte George discusses the importance of trusting his teammates to make the right plays during the final stretch of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Keyonte George",
+      "timestamp": "00:22",
+      "summary_phrase": "Keyonte George on Bryce Sensabaugh's shooting ability",
+      "names_mentioned": [
+        "Bryce Sensabaugh"
+      ],
+      "excerpt": "I was just waiting for him to pop off.",
+      "quote": "Yeah, that's the thing. I wasn't really surprised at all. I was just waiting for him to pop off. You know, sometimes I was calling him, you know, 1-800-B. Whenever you see something immediately, you call it big. So, he's at the top of the key, there's somebody in the crowd, I just said, 'Watch this.' We really embody B whenever he gets going, and you know, he's one of the best shooters on our team. I've said it, I've said it before, he can get hot, we got to find him every single time.",
+      "text_blocks": [],
+      "start_seconds": 22,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 7,
+      "social_post": "Keyonte George says he is not surprised when Bryce Sensabaugh gets hot. He even has a nickname for him: 1-800-B. When he is at the top of the key, Keyonte says he just tells teammates to watch this.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bryce Sensabaugh"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Keyonte George praises Bryce Sensabaugh's shooting ability and his confidence in his teammate's scoring potential.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Keyonte George",
+      "timestamp": "01:02",
+      "summary_phrase": "Keyonte George on the team's relief after recent losses",
+      "names_mentioned": [],
+      "excerpt": "we're trying to get out of this hole that we had dug ourselves into.",
+      "quote": "Oh, for sure. We're trying to get out of this hole that we had dug ourselves into. Obviously, human nature, we're a little bit relieved, but at the same time, we play tomorrow. Got like 20 minutes to enjoy the win, and we're on to the Lakers. It's just hard to play the right way, having to go out and shots go in, we have energy on the bench. We'll get us, play against a great team on the opposite end. I mean, we all feel good, that's for sure.",
+      "text_blocks": [],
+      "start_seconds": 62,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Keyonte George on the Jazz finally getting a win: We are trying to get out of the hole we dug ourselves into. We have about 20 minutes to enjoy this win before we focus on the Lakers.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Keyonte George reflects on the team's relief following a win and their immediate focus on the upcoming game against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Keyonte George",
+      "timestamp": "01:40",
+      "summary_phrase": "Keyonte George on Will Hardy's coaching and team focus",
+      "names_mentioned": [
+        "Will Hardy"
+      ],
+      "excerpt": "Will does a great job at shootarounds and film, helping us understand who we want to attack.",
+      "quote": "Will does a great job at shootarounds and film, helping us understand who we want to attack. So, you know, he talks about focus throughout the whole game, I think we were focused for 48 minutes. Knowing who you want to play against, knowing what plays you want to get to, and understanding what was working. So, it casts off to Will. He's done a great job teaching us throughout this whole season so far.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Keyonte George credits Will Hardy for the team focus tonight: He does a great job at shootarounds and in film helping us understand exactly who we want to attack.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Will Hardy"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Keyonte George credits head coach Will Hardy for his preparation and teaching throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Keyonte George",
+      "timestamp": "02:12",
+      "summary_phrase": "Keyonte George on his commitment to the Utah Jazz organization",
+      "names_mentioned": [
+        "Chris Jones"
+      ],
+      "excerpt": "every summer I just decided to give my whole self to the organization.",
+      "quote": "Yeah, I think every summer I just decided to give my whole self to the organization. Diving in with my PD Chris Jones, diving in with Will, you know, every now and then. I mean, just being in the gym, being in a place where you know you're comfortable, the cooks, janitors, everybody top to bottom. I'm coming in at night, I see the same guys over and over again. So, for me, it's a special place for me. I got drafted, I'm also big on relationships, but you know, when I'm working out, Will was able to see what I'm working on, and he's able to kind of give his two cents.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Keyonte George on his commitment to the Jazz: Every summer I decide to give my whole self to the organization. From the cooks to the janitors, it is a special place for me.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Will Hardy"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Keyonte George describes his commitment to the Utah Jazz organization and his relationship with the staff and Will Hardy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Keyonte George",
+      "timestamp": "04:01",
+      "summary_phrase": "Keyonte George on his growth as a playmaker",
+      "names_mentioned": [
+        "Will Hardy"
+      ],
+      "excerpt": "I feel like I've been had the passing ability, but obviously at this level, people think you got to redo it all over again.",
+      "quote": "I feel like I've been had the passing ability, but obviously at this level, people think you got to redo it all over again. And for me, I feel like for me it's the same reads. Finding the opposite corner, finding the pocket, throwing the lob, I mean, it's simple plays. I was talking to Will the other day, he was telling me like trust about the reads for the past three seasons, and that kind of hit home for me a little bit just because man he's really been layering my game each and every single year. Now we're able to go out there and compete, and now I'm just, you know, seeing the same reads over and over and over again. It's a copycat league I got filled. So, going into the game, knowing those simple reads and now it's just about playing the game within the game now. That's what the best do, so now I'm striving to, you know, win that game within the game for sure.",
+      "text_blocks": [],
+      "start_seconds": 241,
+      "end_seconds": 307,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Keyonte George on his growth as a playmaker: Will Hardy told me to trust the reads I have had for three seasons. It is a copycat league, and now I am just focused on playing the game within the game.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Will Hardy"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Keyonte George discusses his development as a playmaker and the advice he received from Will Hardy regarding reading the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "CkRyMxKg3Lc",
+  "url": "https://www.youtube.com/watch?v=CkRyMxKg3Lc",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-18T10:40:01Z",
+  "duration_seconds": 322,
+  "processed_at": "2026-11-18T18:11:41Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

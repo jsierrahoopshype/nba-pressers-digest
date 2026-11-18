@@ -1,0 +1,160 @@
+{
+  "video_title": "Will The Wizards Trade Anthony Davis Before Deadline?",
+  "speakers_seen": [
+    "Brian Windhorst",
+    "Tim McMahon"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tim McMahon",
+      "speakers": [
+        "Tim McMahon",
+        "Brian Windhorst"
+      ],
+      "timestamp": "00:03",
+      "summary_phrase": "Evaluating the likelihood of a Wizards or Jazz roster flip",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "Which do you think is more likely, these two scenarios?",
+      "text_blocks": [
+        {
+          "speaker": "Tim McMahon",
+          "text": "Let me ask you this, Windy. Which do you think is more likely, these two scenarios? One, on March 1st, the Washington Wizards have a W, a winning record, and I got to call them the Wizards again. Or, number two, on March 1st, Anthony Davis is playing somewhere else."
+        },
+        {
+          "speaker": "Brian Windhorst",
+          "text": "It's a great question. I don't think they're going to have a winning record on March 1st. So, I can't say that that, you know. The Anthony Davis thing is fascinating because he's had some games this year where he's looked spectacular."
+        }
+      ],
+      "start_seconds": 3,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Tim McMahon and Brian Windhorst debate the Wizards future and whether Anthony Davis could be on the move before the trade deadline. McMahon says he does not see a winning record in Washingtons future.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Windhorst",
+      "timestamp": "01:05",
+      "summary_phrase": "The central question surrounding Anthony Davis and the Wizards",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "Whatever one's wanting to know is, are they going to trade him or not?",
+      "quote": "Whatever one's wanting to know is, are they going to trade him or not? Now, the other thing that people are watching is if the Wizards contemplate a coaching change, and whether or not this poor start will result in a coaching change, and if there's a coaching change, whether or not that would buy them a reset.",
+      "start_seconds": 65,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Brian Windhorst notes that the Wizards are facing a major crossroads with their poor start, questioning if a coaching change is on the horizon to force a roster reset.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 3,
+      "speaker": "Tim McMahon",
+      "timestamp": "01:49",
+      "summary_phrase": "Phil Jackson likely wouldn't save the struggling Wizards",
+      "names_mentioned": [
+        "Phil Jackson"
+      ],
+      "excerpt": "I think you can get Phil Jackson at his absolute peak to come to Washington and they're still not going to be a winning team.",
+      "quote": "I think you can get Phil Jackson at his absolute peak to come to Washington and they're still not going to be a winning team.",
+      "start_seconds": 109,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Tim McMahon is not optimistic about the Wizards turnaround, claiming that even if you brought in Phil Jackson at his absolute peak, they still would not be a winning team.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 4,
+      "speaker": "Tim McMahon",
+      "timestamp": "02:43",
+      "summary_phrase": "The Wizards face a difficult trade or pay decision with Anthony Davis",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "It's going to reach a point before the trade deadline where you got to make a decision and that's either trade him or pay him.",
+      "quote": "The Anthony Davis thing, look, it's going to reach a point before the trade deadline where you got to make a decision and that's either trade him or pay him. And I think there's big problems with either of those scenarios. Because if you're paying him, unless there's a significant turnaround, you've got a really expensive team that needs to improve to reach mediocrity. That's not a good thing.",
+      "start_seconds": 163,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 5,
+      "social_post": "The Wizards are facing a difficult reality with Anthony Davis. McMahon argues that whether they trade him or pay him, they are stuck with a team that needs to improve just to reach mediocrity.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Windhorst",
+      "timestamp": "03:45",
+      "summary_phrase": "Will Anthony Davis opt out of his player option?",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "Do we really believe that he is for sure not picking up his $63 million player option for next year?",
+      "quote": "The interesting thing about Anthony Davis is, do we really believe that he is for sure not picking up his $63 million player option for next year?",
+      "start_seconds": 225,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Brian Windhorst questions the assumption that Anthony Davis will definitely opt out of his massive 63 million dollar player option for next season.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 6,
+      "speaker": "Tim McMahon",
+      "timestamp": "04:04",
+      "summary_phrase": "The financial reality of the Anthony Davis contract situation",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "Because nobody wants to pay him.",
+      "quote": "Because nobody wants to pay him. I'm sure somebody would pay him, but maybe not. The reason that you would turn that down is because you could get, I mean, he's going to be, I don't know if he is 33 or going to turn 33, this is his age 33 season. He still, I'm sure, believes he's got one big contract left.",
+      "start_seconds": 244,
+      "end_seconds": 268,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Tim McMahon discusses the financial gamble for Anthony Davis, noting that at age 33, he likely still believes he has one big contract left in him despite the market.",
+      "team": "NBA on ESPN"
+    },
+    {
+      "rank": 7,
+      "speaker": "Tim McMahon",
+      "timestamp": "05:03",
+      "summary_phrase": "The challenge of trading a player like Anthony Davis",
+      "names_mentioned": [
+        "Anthony Davis"
+      ],
+      "excerpt": "It's going to be hard to make a trade of Anthony Davis that's going to win any press conferences or impress your bosses.",
+      "quote": "It's going to be hard to make a trade of Anthony Davis that's going to win any press conferences or impress your bosses. A guy like Anthony Davis, who's been an All-Star a ton of times, all-NBA, won a championship, is a sure-fire Hall of Famer. Guys like that, look at their $63 million player options, they say, yeah, you know what, I'm willing to take less. But less is in the 50s.",
+      "start_seconds": 303,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Trading a player like Anthony Davis is a difficult task for any front office. McMahon explains why moving a Hall of Famer with a 63 million dollar option is a tough sell to ownership.",
+      "team": "NBA on ESPN"
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "yt-quotes rotation",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "DxyEZg3qkgE",
+  "url": "https://www.youtube.com/watch?v=DxyEZg3qkgE",
+  "channel_team": "NBA on ESPN",
+  "published": "2026-11-18T17:00:27Z",
+  "duration_seconds": 394,
+  "processed_at": "2026-11-18T18:10:45Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

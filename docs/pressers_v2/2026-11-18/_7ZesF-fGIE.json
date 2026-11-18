@@ -1,0 +1,276 @@
+{
+  "video_title": "Cavs Shootaround | James Harden & Norchad Omier Media Availability | 11.18.2026",
+  "speakers_seen": [
+    "James Harden",
+    "Norchad Omier"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "James Harden",
+      "timestamp": "00:11",
+      "summary_phrase": "James Harden on integrating Norchad Omier into the team rotation",
+      "names_mentioned": [
+        "Norchad Omier"
+      ],
+      "excerpt": "trying to figure out what's best for him to make him comfortable and make him play well",
+      "quote": "He is so versatile and he is so custom to having a different role than what he has been playing. Trying to figure out what's best for him to make him comfortable and make him play well and then for us as a team. It is only a small dosage of games that we have been playing, but he shoots the ball well, he gets downhill, he does a variety of good things, so trying to find that balance.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "James Harden on integrating Norchad Omier into the Cavs rotation: He shoots the ball well and gets downhill, so we are just trying to find that balance to make him comfortable.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Norchad Omier"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "James Harden discusses the process of integrating Norchad Omier into the Cavaliers rotation during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "James Harden",
+      "timestamp": "01:00",
+      "summary_phrase": "James Harden on the importance of communication with Norchad Omier",
+      "names_mentioned": [
+        "Norchad Omier"
+      ],
+      "excerpt": "Honestly, the work is just constant communication. In the grand scheme of things, it is still not",
+      "quote": "Honestly, the work is just constant communication. In the grand scheme of things, it is still not a lot of time, so just trying to figure out and communicate. That is the most important thing, when to screen, how to screen, and what does that look like, because I think that getting them easier opportunities at the rim makes our team a lot better.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 85,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "James Harden says the key to his chemistry with Norchad Omier is constant communication: It is about knowing when to screen and how to screen to get him easier opportunities at the rim.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Norchad Omier"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "James Harden explains the importance of constant communication with Norchad Omier to improve team execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "James Harden",
+      "timestamp": "01:57",
+      "summary_phrase": "James Harden on Norchad Omier's growth and confidence",
+      "names_mentioned": [
+        "Norchad Omier"
+      ],
+      "excerpt": "I think he has done an unbelievable job of putting the work in.",
+      "quote": "I think he has done an unbelievable job of putting the work in. He sees how I work and the effort that I put in, still to this day, and he wants to be a part, so he is like, 'Can we work?' and I am like, 'Let's work.' He is with me basically every day putting the work in. The opportunity presented itself and he was prepared for that moment.",
+      "text_blocks": [],
+      "start_seconds": 117,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "James Harden on Norchad Omier: He sees the effort I put in and wants to be a part of it. He is with me basically every day putting the work in.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Norchad Omier"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "James Harden praises Norchad Omier for his work ethic and dedication to training with him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Norchad Omier",
+      "timestamp": "05:06",
+      "summary_phrase": "Norchad Omier on his opportunity with the Cavaliers",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "I have one word to describe it, I feel blessed.",
+      "quote": "I have one word to describe it, I feel blessed. I feel blessed to be around these talented guys, guys like James, and I can learn so much from them, so everything, just get better every day.",
+      "text_blocks": [],
+      "start_seconds": 306,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Norchad Omier on playing alongside James Harden: I have one word to describe it, I feel blessed. I can learn so much from these talented guys.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Norchad Omier expresses gratitude for the opportunity to play alongside talented teammates like James Harden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Norchad Omier",
+      "timestamp": "05:31",
+      "summary_phrase": "Norchad Omier on the details of playing with talented teammates",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "making the game easier for James, stuff like that.",
+      "quote": "At this level, everybody is talented, so little details, hitting someone on rebounds, tagging, making the game easier for James, stuff like that.",
+      "text_blocks": [],
+      "start_seconds": 331,
+      "end_seconds": 340,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Norchad Omier on the transition to the NBA: At this level, everybody is talented, so it is about the little details like hitting someone on rebounds and tagging to make the game easier for James.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Norchad Omier describes the specific details he focuses on to make the game easier for James Harden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Norchad Omier",
+      "timestamp": "06:14",
+      "summary_phrase": "Norchad Omier on why the Cavaliers were the right fit",
+      "names_mentioned": [],
+      "excerpt": "Cleveland by itself is just such a great organization, they just make me want to be around",
+      "quote": "Cleveland by itself is just such a great organization, they just make me want to be around them more. They just don't care about you on the court but off the court too. They are just such a great organization, you want to be around them.",
+      "text_blocks": [],
+      "start_seconds": 374,
+      "end_seconds": 392,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Norchad Omier on why he loves the Cavaliers: They do not just care about you on the court but off the court too. They are such a great organization.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Norchad Omier shares his positive impressions of the Cleveland Cavaliers organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Norchad Omier",
+      "timestamp": "07:06",
+      "summary_phrase": "Norchad Omier on his late start to playing basketball",
+      "names_mentioned": [],
+      "excerpt": "I started playing basketball pretty late. When I start playing, I think I was 14 years old.",
+      "quote": "I started playing basketball pretty late. When I start playing, I think I was 14 years old. All I did was rebound and pass the ball to who know who to play basketball. I couldn't dribble, I couldn't do anything, so I think that stick with me since then.",
+      "text_blocks": [],
+      "start_seconds": 426,
+      "end_seconds": 445,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Norchad Omier on his basketball journey: I started playing late at 14. All I did was rebound and pass the ball to people who knew how to play because I could not dribble.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Norchad Omier reflects on his late start in basketball and how his early focus on rebounding shaped his game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Norchad Omier",
+      "timestamp": "07:51",
+      "summary_phrase": "Norchad Omier on being the first Nicaraguan player in the NBA",
+      "names_mentioned": [],
+      "excerpt": "I am so happy now that kids see that it is not just baseball.",
+      "quote": "I am so happy now that kids see that it is not just baseball. In Nicaragua we play a lot of baseball, but they see that it is not just baseball, they can achieve their dreams in basketball. A lot of basketball is being played in Nicaragua now, so I am very happy about that.",
+      "text_blocks": [],
+      "start_seconds": 471,
+      "end_seconds": 492,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 8,
+      "social_post": "Norchad Omier on being the first Nicaraguan player in the NBA: I am happy kids see it is not just baseball. They can achieve their dreams in basketball too.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Norchad Omier discusses the significance of being the first Nicaraguan player in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "_7ZesF-fGIE",
+  "url": "https://www.youtube.com/watch?v=_7ZesF-fGIE",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-18T17:34:04Z",
+  "duration_seconds": 561,
+  "processed_at": "2026-11-18T18:11:20Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}
