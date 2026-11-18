@@ -34,6 +34,12 @@
    "run_id": "2026-11-16-overnight",
    "slot_date": "2026-11-16"
   },
+  "-IHbjwaawnI": {
+   "at": "2026-11-18T02:27:03Z",
+   "quote": "a lot of guys similar to myself just hard workers that enjoy being a part of a team being around each other each and every day and just show up as a professional every day into the building it s been ",
+   "run_id": "2026-11-18T0225Z-20utc",
+   "slot_date": "2026-11-17"
+  },
   "-IxTuqb9wiM": {
    "at": "2026-11-16T23:25:45Z",
    "quote": "the ones that stick out in the first quarter is we lost desmond bane a few times just once on an over help twice just lost sight of him there so you just focus on the ones that you can control at the ",
@@ -1857,6 +1863,12 @@
    "run_id": "2026-11-17-overnight",
    "slot_date": "2026-11-17"
   },
+  "dfShEMKmBhQ": {
+   "at": "2026-11-18T02:27:03Z",
+   "quote": "he s progressing doing well and continuing to be in a good spot and excited for the ramp up for him",
+   "run_id": "2026-11-18T0225Z-20utc",
+   "slot_date": "2026-11-17"
+  },
   "dgZbTPlALhs": {
    "at": "2026-11-05T21:05:45Z",
    "quote": "they switched a little bit of the things up that they were doing the last game so i think more of the focus at shootaround today and during the game was what can we do better we weren t focused about ",
@@ -2831,38 +2843,5 @@
    "slot_date": "2026-11-17"
   }
  },
- "pending": {
-  "-IHbjwaawnI": {
-   "channel": "Oklahoma City Thunder",
-   "clip_count": 17,
-   "content_type": "presser",
-   "date": "2026-11-17",
-   "is_one_off": false,
-   "queued_at": "2026-11-18T02:27:03Z",
-   "run_id": "2026-11-18T0225Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": false,
-   "slot_date": "2026-11-17",
-   "speaker": "Nique Clifford",
-   "title": "Practice Media Availability with Nique Clifford | November 17, 2026 | OKC Thunder",
-   "top_quote": "A lot of guys similar to myself, just hard workers that enjoy being a part of a team, being around each other each and every day, and just show up as a professional every day into the building. It's been a seamless transition. It's been quite easy to get along with all the guys, a lot of great dudes, so it's been a lot of fun so far.",
-   "video_id": "-IHbjwaawnI"
-  },
-  "dfShEMKmBhQ": {
-   "channel": "San Antonio Spurs",
-   "clip_count": 8,
-   "content_type": "presser",
-   "date": "2026-11-17",
-   "is_one_off": false,
-   "queued_at": "2026-11-18T02:27:03Z",
-   "run_id": "2026-11-18T0225Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-17",
-   "speaker": "Mitch Johnson",
-   "title": "Mitch Johnson on Spurs Winning Streak",
-   "top_quote": "He's progressing, doing well, and continuing to be in a good spot and excited for the ramp up for him.",
-   "video_id": "dfShEMKmBhQ"
-  }
- }
+ "pending": {}
 }
