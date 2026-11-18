@@ -1,0 +1,239 @@
+{
+  "video_title": "“It Was Very Important That We Come Out & Got The Win.” | Ayo Dosunmu Postgame Sound | 11.17.26",
+  "speakers_seen": [
+    "Ayo Dosunmu"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "00:00",
+      "summary_phrase": "Ayo Dosunmu on the importance of back-to-back wins",
+      "names_mentioned": [],
+      "excerpt": "It was very important that we came out and got the win.",
+      "quote": "Anytime you play a team back-to-back, it's always challenging. Especially on a back-to-back. We are a well-coached team with Hall of Famers on our team, so it was very important that we came out and got the win. I will not lie to you, the Western Conference is very tough from top to bottom. Each and every win is very important when it comes down to seeding, when it comes down to April, playoff seeding, home-court advantage, things of that nature.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the difficulty of the Western Conference: It is tough from top to bottom and every win is important for seeding come April.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses the importance of securing back-to-back wins in the competitive Western Conference during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "00:50",
+      "summary_phrase": "Ayo Dosunmu on maintaining a next-play mentality",
+      "names_mentioned": [],
+      "excerpt": "I've been putting a lot of work into my game, a lot of work into my craft.",
+      "quote": "Just always having the mindset, next-play mentality. That's always my mentality, next game. Not worrying about really makes and misses and really just trusting your work. I've been putting a lot of work into my game, a lot of work into my craft. I get a lot of shots up, watch a lot of film. So anytime makes and misses, I don't try to get down on myself because I'm always believing in law of averages, always believing in the work you put in. It's always going to show and it's always going to even out.",
+      "verbatim_original_language": "",
+      "start_seconds": 50,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on his shooting mindset: I do not try to get down on myself because I am always believing in the law of averages and the work I put in.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains his mental approach to handling makes and misses by trusting his preparation and the law of averages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "01:30",
+      "summary_phrase": "Ayo Dosunmu on his aggressive role in the starting lineup",
+      "names_mentioned": [],
+      "excerpt": "I never try to put an exactly a limit on it, but I knew that I would have more opportunities.",
+      "quote": "Just always been aggressive. I never try to put an exactly a limit on it, but I knew that I would have more opportunities for sure. And I knew that I was going to have more chances to just be more aggressive. And I always be hard on myself about just being efficient. I take pride in that. Whether I take five shots, I take pride in making three or four. I'm taking 15 shots, I want to make 10, 11, and so on and so on. So just because the portions went up and the more opportunity, I even wanted to lock in even more about being more aggressive.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on his increased role: I knew I would have more opportunities and I wanted to lock in even more about being aggressive and efficient.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu reflects on his increased opportunities in the starting lineup and his focus on maintaining efficiency while being aggressive.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "02:57",
+      "summary_phrase": "Ayo Dosunmu on the final defensive play against Jaden McDaniels",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "LaMelo Ball"
+      ],
+      "excerpt": "Once I seen Drew like he like put his arm up, like he was getting back on defense, I'm like, oh, okay.",
+      "quote": "We got the steal, boom. My immediate reaction was go to the ball. But I didn't know if if LaMelo Ball fouled him or not. So I wasn't expecting a whistle, but I was prepared for a whistle, but I wasn't worrying about a whistle. So I'm going to just try to make sure I grab the ball. Once I seen Drew like he like put his arm up, like he was getting back on defense, I'm like, oh, okay. I got eight seconds and it felt like, I look at the clock and it's like, you know, one of those movies when the clock the the clock just going slow. I felt like I was moving in slow motion.",
+      "verbatim_original_language": "",
+      "start_seconds": 177,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Ayo Dosunmu on the final defensive sequence: I looked at the clock and it felt like one of those movies where the clock is just going slow. I felt like I was moving in slow motion.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu describes his thought process during a critical final defensive play involving Jaden McDaniels and LaMelo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "04:16",
+      "summary_phrase": "Ayo Dosunmu on LaMelo Ball's defensive engagement",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "It's all about competing. That's all about not worrying about whatever his field goal percentage was tonight.",
+      "quote": "It's all about competing. That's all about not worrying about whatever his field goal percentage was tonight or how many turnovers, just really, you know, hone in to that one play. And I try to always give him encouragement in that aspect because of course you want to make every shot. Of course you know you don't want to miss easy shots that you normally make, but at the same time, you have to stay in the moment. That's all about growth, that's all about how you impact the game. And you know, we don't win that game if he don't make that play.",
+      "verbatim_original_language": "",
+      "start_seconds": 256,
+      "end_seconds": 296,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Ayo Dosunmu on LaMelo Ball: We do not win that game if he does not make that defensive play. It is all about staying in the moment.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu discusses the importance of LaMelo Ball staying mentally engaged and competitive despite his shooting struggles during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "05:11",
+      "summary_phrase": "Ayo Dosunmu on his year-over-year improvement and body maintenance",
+      "names_mentioned": [],
+      "excerpt": "It's all about envisioning yourself getting somewhere and understanding that it can't happen overnight.",
+      "quote": "I would say understanding, you know, what ways you can get better and then really working. I think that's very, um, very cliché when people say that, but it's all about, you know, envisioning yourself getting somewhere and understanding that it can't happen overnight. Like you you can't just drastically go from a say, for example, a 25% three-point shooter to a 45% three-point shooter. But you can go from 25 to 30, 30 to 35. Like it's all about just taking those small increments and accepting small wins and really just having faith and then just, you know, trusting, um, my supports, my support system, really, you know, locking into my body.",
+      "verbatim_original_language": "",
+      "start_seconds": 311,
+      "end_seconds": 354,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on improvement: You cannot drastically go from a 25 percent three point shooter to 45 percent overnight. It is all about taking small increments and accepting small wins.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains his philosophy on incremental improvement and the importance of trusting his support system and body maintenance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "06:33",
+      "summary_phrase": "Ayo Dosunmu on the championship habit of the next-man-up mentality",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Trey Lyles"
+      ],
+      "excerpt": "Next man up. I think that's very huge. If you look at any championship team the last 10 years.",
+      "quote": "Next man up. I think that's very huge. If you look at any championship team the last 10 years, um, it's all of been about one, who stayed the most healthy and two, who can adapt the most. Um, and I think we we're showcasing that now. Um, we know we're adapting with guys been out and um, we're trusting each other. You know, yesterday Trey Lyles had a great game, um, he's very impactful for us. Today Trey Lyles had a great game, Bones had great games, you know, we have a lot of guys who are really bought into, um, what we're trying to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 393,
+      "end_seconds": 434,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the team: If you look at any championship team the last 10 years it has been about who stayed the most healthy and who can adapt the most.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Lyles",
+          "Bones Hyland"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu highlights the importance of the next-man-up mentality and praises the contributions of teammates like Trey Lyles and Bones Hyland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "KbFQB8iC-ug",
+  "url": "https://www.youtube.com/watch?v=KbFQB8iC-ug",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-18T06:48:55Z",
+  "duration_seconds": 482,
+  "processed_at": "2026-11-18T07:35:32Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

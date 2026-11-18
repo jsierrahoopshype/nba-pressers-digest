@@ -1,0 +1,106 @@
+{
+  "video_title": "Hornets at Lakers: Royce O'Neale Postgame Media Availability | 11/17/2026",
+  "speakers_seen": [
+    "Royce O'Neale"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Royce O'Neale",
+      "timestamp": "00:03",
+      "summary_phrase": "Royce O'Neale on Hornets' overtime loss and missed opportunities",
+      "names_mentioned": [],
+      "excerpt": "you want to close out the game in the fourth quarter, but going to overtime still gives you a chance",
+      "quote": "It was tough. You want to close out the game in the fourth quarter, but going to overtime still gives you a chance to fight in the game. Just a couple of missed possessions that we missed throughout turnovers and then trying to execute, but I think it's something we can learn from and we were right there.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Royce ONeale on the Hornets overtime loss to the Lakers: It was tough. You want to close out the game in the fourth quarter but we had a couple of missed possessions and turnovers.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Royce O'Neale discusses the Hornets' overtime loss to the Lakers and the team's missed execution in the final moments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Royce O'Neale",
+      "timestamp": "00:27",
+      "summary_phrase": "Royce O'Neale on Hornets' depth and next-man-up mentality",
+      "names_mentioned": [],
+      "excerpt": "each game is going to be somebody different. Guys got to be ready when their number is called",
+      "quote": "Each game is going to be somebody different. Guys got to be ready when their number is called, be ready to play. And I think every game, you don't know who it's going to be, so I think everybody just being prepared mentally, having an impact on the game whenever they get in, that's what's going to help us out down the long.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Royce ONeale on the Hornets rotation: Each game is going to be somebody different. Guys got to be ready when their number is called and have an impact on the game whenever they get in.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Royce O'Neale explains the importance of the Hornets' bench players staying prepared and ready to contribute when called upon.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Royce O'Neale",
+      "timestamp": "00:43",
+      "summary_phrase": "Royce O'Neale on Hornets' takeaways before final road trip game",
+      "names_mentioned": [],
+      "excerpt": "we did a lot of good things, a couple things we can learn from, just build on",
+      "quote": "Just learn from this. We did a lot of good things, a couple things we can learn from, just build on. So continue to get better and then think about it, but be prepared for the next game.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Royce ONeale says the Hornets are focused on learning from their mistakes and building on the good things they did tonight as they prepare for the next game.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Royce O'Neale reflects on the team's performance and the need to improve before the final game of their road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "UOTmVZKOpJw",
+  "url": "https://www.youtube.com/watch?v=UOTmVZKOpJw",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-18T07:24:21Z",
+  "duration_seconds": 61,
+  "processed_at": "2026-11-18T07:35:17Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

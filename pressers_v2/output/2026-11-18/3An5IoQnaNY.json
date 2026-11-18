@@ -1,0 +1,331 @@
+{
+  "video_title": "“It’s A Special Group That We Have.” | Trey Lyles Postgame Sound | 11.17.26",
+  "speakers_seen": [
+    "Trey Lyles"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Trey Lyles",
+      "timestamp": "00:09",
+      "summary_phrase": "Trey Lyles on his defensive play and late-game block",
+      "names_mentioned": [],
+      "excerpt": "I saw an open man and I saw my teammate needed some help, so I just went and tried to make a play.",
+      "quote": "I saw an open man and I saw my teammate needed some help, so I just went and tried to make a play. Thankfully, I have enough sneaky athleticism to go and get it.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Trey Lyles on his late game block: I saw an open man and I saw my teammate needed some help so I just went and tried to make a play. Thankfully I have enough sneaky athleticism to go and get it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles discusses his defensive effort and late-game block during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Trey Lyles",
+      "timestamp": "00:28",
+      "summary_phrase": "Trey Lyles on the Timberwolves' team resilience and shot-making",
+      "names_mentioned": [],
+      "excerpt": "We knew yesterday we missed some shots, and we knew tonight we had to come in and make shots.",
+      "quote": "I think it just shows our resiliency. Obviously, they are a good team, they have all-star players on their team, guys who won championships. We knew yesterday we missed some shots, and we knew tonight we had to come in and make shots. That is what they did tonight, kudos to them, but we were able to make the plays down the stretch that we needed to win the game.",
+      "text_blocks": [],
+      "start_seconds": 28,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trey Lyles says the Timberwolves win over a tough opponent shows the teams resiliency after missing shots the previous night.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles reflects on the team's resilience and ability to make shots in a win against a tough opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Trey Lyles",
+      "timestamp": "00:57",
+      "summary_phrase": "Trey Lyles on the Timberwolves' next-man-up mentality",
+      "names_mentioned": [],
+      "excerpt": "We are professionals, next-man-up mentality. We have guys that can start on other NBA teams coming off the bench.",
+      "quote": "We are professionals, next-man-up mentality. We have guys that can start on other NBA teams coming off the bench. Kudos to everybody on this squad for staying ready, staying prepared, and coming out and doing their job for our team and helping us win.",
+      "text_blocks": [],
+      "start_seconds": 57,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Trey Lyles on the Timberwolves depth: We have guys that can start on other NBA teams coming off the bench. Kudos to everybody on this squad for staying ready.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles explains the next-man-up mentality of the Timberwolves bench unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trey Lyles",
+      "timestamp": "01:21",
+      "summary_phrase": "Trey Lyles on the value of early-season playoff-style games",
+      "names_mentioned": [],
+      "excerpt": "It is amazing, you know, they are a Western Conference team, somebody that we could see in the playoffs.",
+      "quote": "It is amazing, you know, they are a Western Conference team, somebody that we could see in the playoffs potentially. To be able to tough out a win like this is really important for us, and morale overall, and for coach, just knowing that he can rely on the other guys he is putting in.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Trey Lyles says winning tight games against Western Conference rivals is important for team morale and shows the coach can rely on his bench.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles discusses the importance of winning a playoff-style game early in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trey Lyles",
+      "timestamp": "02:00",
+      "summary_phrase": "Trey Lyles on team accountability and coach's expectations",
+      "names_mentioned": [],
+      "excerpt": "I think it is holding each other accountable, wanting to win, knowing that coach is going to be honest to win.",
+      "quote": "I think it is holding each other accountable, wanting to win, knowing that coach is going to be honest to win. We got chewed out pretty good the other day and we had to respond as professionals, as individuals, and as a collective, and we have done that.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Trey Lyles admits the Timberwolves were chewed out by their coach after a poor performance and had to respond as a collective.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Trey Lyles talks about the team responding to accountability and criticism from their coach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Trey Lyles",
+      "timestamp": "02:25",
+      "summary_phrase": "Trey Lyles on Jaden McDaniels' consistency and two-way play",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "He is one of the best, if not the best, two-way player in the league.",
+      "quote": "I think his ability to just be really consistent with not a whole lot of usage, but he gets to his spots and he makes things happen and he does not get out of control. He is one of the best, if not the best, two-way player in the league. We expect that from him every night, he expects it from himself, so he just continues to raise the bar. He is a really good player.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Trey Lyles on Jaden McDaniels: He is one of the best if not the best two way player in the league. We expect that from him every night.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trey Lyles praises Jaden McDaniels for his consistency and two-way play.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Trey Lyles",
+      "timestamp": "03:09",
+      "summary_phrase": "Trey Lyles on the bench unit's role in filling gaps",
+      "names_mentioned": [],
+      "excerpt": "I think it is just paying attention to the game, going out there and filling the gaps that are needed.",
+      "quote": "I think it is just paying attention to the game, going out there and filling the gaps that are needed. I think we do a great job of that, I think our bench has done a great job of that throughout the season, and yeah, just like I said earlier, staying ready, staying competitive, and stepping into that position ready to go.",
+      "text_blocks": [],
+      "start_seconds": 189,
+      "end_seconds": 213,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Trey Lyles credits the Timberwolves bench unit for staying ready and filling the necessary gaps throughout the season.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Trey Lyles explains how the bench unit contributes by staying ready and filling gaps.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Trey Lyles",
+      "timestamp": "03:52",
+      "summary_phrase": "Trey Lyles on coach's accountability and player-coach relationship",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "Rudy Gobert",
+        "Zion Williamson"
+      ],
+      "excerpt": "I respect him as a coach because he holds everybody accountable to equal amount, whether it is Anthony Edwards, Rudy Gobert, Zion Williamson, or me.",
+      "quote": "I think I said this before, but I respect him as a coach because he holds everybody accountable to equal amount, whether it is Anthony Edwards, Rudy Gobert, Zion Williamson, or me. He holds us all to a high level and he expects the most from us. If you have a coach like that that is willing to do that with every player, you have to respect him, and he is a player's coach. He allows us to go out there and play, but he also gets on us when we need it.",
+      "text_blocks": [],
+      "start_seconds": 232,
+      "end_seconds": 268,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Trey Lyles on his coach: He holds everybody accountable to an equal amount whether it is Anthony Edwards or me. He is a players coach.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards",
+          "Rudy Gobert",
+          "Zion Williamson"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Trey Lyles discusses his respect for the coach's approach to holding all players accountable.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Trey Lyles",
+      "timestamp": "04:34",
+      "summary_phrase": "Trey Lyles on Jaden McDaniels' aggression and rebounding",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "He was a little bit more aggressive, a little bit more assertive than he was last night.",
+      "quote": "He was a little bit more aggressive, a little bit more assertive than he was last night. He was getting to a lot of offensive rebounds and that is what we need from him. He is very athletic, he has a lot of energy, he can go and do a lot of things around the rim, so he was awesome tonight. We need that from him for the rest of the year.",
+      "text_blocks": [],
+      "start_seconds": 274,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Trey Lyles says Jaden McDaniels was more aggressive and assertive on the glass tonight and the team needs that from him for the rest of the year.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trey Lyles highlights Jaden McDaniels' aggressive play and rebounding performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Trey Lyles",
+      "timestamp": "05:00",
+      "summary_phrase": "Trey Lyles on Jaden McDaniels' growth and development",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "He is just continuing to show what he is capable of. I think that he will continue to grow.",
+      "quote": "He is just continuing to show what he is capable of. I think that he will continue to grow in his role as a player. He needs to slow down just a little bit sometimes, but we have a lot of guys talking to him and he is taking in a lot of information. So for him to be able to go out and do the things that they are talking to him about on a day-to-day basis is amazing.",
+      "text_blocks": [],
+      "start_seconds": 300,
+      "end_seconds": 331,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trey Lyles on Jaden McDaniels development: He needs to slow down just a little bit sometimes but he is taking in a lot of information.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trey Lyles discusses the ongoing development and growth of Jaden McDaniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "3An5IoQnaNY",
+  "url": "https://www.youtube.com/watch?v=3An5IoQnaNY",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-18T06:50:56Z",
+  "duration_seconds": 334,
+  "processed_at": "2026-11-18T07:35:26Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

@@ -36,7 +36,17 @@ From: [Mitch Johnson on Spurs Continuing to Improve On Both Sides of the Court](
 
 <small>[Clip it](presserclips://clip?v=rGo239JfSvk&t=0&q=1) · [Send to Slack](presserclips://clip?v=rGo239JfSvk&t=0&q=1&slack=1)</small>
 
-**4. RJ Barrett — "I think we played better than than last game. Definitely not the best feeling to lose" — RJ Barrett on the Raptors' performance against the Knicks** [00:27](https://www.youtube.com/watch?v=OoT-lHtjHwo&t=27s)
+**4. Trey Lyles — "I think it is holding each other accountable, wanting to win, knowing that coach is going to be honest to win." — Trey Lyles on team accountability and coach's expectations** [02:00](https://www.youtube.com/watch?v=3An5IoQnaNY&t=120s)
+
+Trey Lyles: "I think it is holding each other accountable, wanting to win, knowing that coach is going to be honest to win. We got chewed out pretty good the other day and we had to respond as professionals, as individuals, and as a collective, and we have done that."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=120s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=120s)
+
+From: [“It’s A Special Group That We Have.” \| Trey Lyles Postgame Sound \| 11.17.26](https://www.youtube.com/watch?v=3An5IoQnaNY) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=120&q=5) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=120&q=5&slack=1)</small>
+
+**5. RJ Barrett — "I think we played better than than last game. Definitely not the best feeling to lose" — RJ Barrett on the Raptors' performance against the Knicks** [00:27](https://www.youtube.com/watch?v=OoT-lHtjHwo&t=27s)
 
 RJ Barrett: "Once again, another good team. I think we played well. Honestly, I think we played better than last game. So, yeah, definitely not the best feeling to lose this game, but at the end of the day, we played better than we did last time. We're really playing well. That's why it's frustrating because we are playing well. We're doing enough to put ourselves in a position to win these games. We're up three to start the fourth at home. These should be games that we're winning."
 
@@ -46,7 +56,7 @@ From: [RJ Barrett \| Post Game vs New York Knicks \| November 17, 2026](https://
 
 <small>[Clip it](presserclips://clip?v=OoT-lHtjHwo&t=27&q=2) · [Send to Slack](presserclips://clip?v=OoT-lHtjHwo&t=27&q=2&slack=1)</small>
 
-**5. Ayo Dosunmu — "I trust my teammates and there's no person I'd rather have in that spot right there." — Ayo Dosunmu on the game-winning play and trusting his teammates** [00:03](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s)
+**6. Ayo Dosunmu — "I trust my teammates and there's no person I'd rather have in that spot right there." — Ayo Dosunmu on the game-winning play and trusting his teammates** [00:03](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s)
 
 **Unidentified speaker:** "Melo comes up with a huge steal. You get the ball. You got to walk me through that final play that gets **Jaden** the bucket and you guys essentially the win."
 
@@ -58,7 +68,7 @@ From: [Ayo Dosunmu Postgame Interview After Win Against Portland Trail Blazers \
 
 <small>[Clip it](presserclips://clip?v=jgLPOI4PtjQ&t=3&q=1) · [Send to Slack](presserclips://clip?v=jgLPOI4PtjQ&t=3&q=1&slack=1)</small>
 
-**6. Cade Cunningham — "I thought there were still times where I was a little indecisive at times, especially early on." — Cade Cunningham on his intentionality and aggression throughout the game** [01:01](https://www.youtube.com/watch?v=v7Mz9OBous0&t=61s)
+**7. Cade Cunningham — "I thought there were still times where I was a little indecisive at times, especially early on." — Cade Cunningham on his intentionality and aggression throughout the game** [01:01](https://www.youtube.com/watch?v=v7Mz9OBous0&t=61s)
 
 **Unidentified reporter:** "You told me for you it is about being intentional about being aggressive. How much did you have to display that tonight?"
 
@@ -70,7 +80,7 @@ From: [Cade Post Game Interview  l  Pistons at Spurs  l 11.17.26 #NBA](https://w
 
 <small>[Clip it](presserclips://clip?v=v7Mz9OBous0&t=61&q=3) · [Send to Slack](presserclips://clip?v=v7Mz9OBous0&t=61&q=3&slack=1)</small>
 
-**7. Ja'Kobe Walter — "The winning championship teams, they don't make those mistakes at the end of the game." — Ja'Kobe Walter on limiting late-game mistakes to close out games** [01:39](https://www.youtube.com/watch?v=078dZbBBU9s&t=99s)
+**8. Ja'Kobe Walter — "The winning championship teams, they don't make those mistakes at the end of the game." — Ja'Kobe Walter on limiting late-game mistakes to close out games** [01:39](https://www.youtube.com/watch?v=078dZbBBU9s&t=99s)
 
 Ja'Kobe Walter: "Just limiting the mistakes at the end of the game. I think that's when you got to lock in the most. The winning championship teams, they don't make those mistakes at the end of the game. That's when they really lock in on the basics. We just got to stick to the roots. We can't let it slip at the end. Got to be able to play with the lead and even when it's a tie game, just figure out those winning plays, those little plays. We just got to always make them just to win those games, and lately we've been messing up."
 
@@ -79,6 +89,28 @@ Ja'Kobe Walter: "Just limiting the mistakes at the end of the game. I think that
 From: [Ja'Kobe Walter \| Post Game vs New York Knicks \| November 17, 2026](https://www.youtube.com/watch?v=078dZbBBU9s) · *Toronto Raptors*
 
 <small>[Clip it](presserclips://clip?v=078dZbBBU9s&t=99&q=3) · [Send to Slack](presserclips://clip?v=078dZbBBU9s&t=99&q=3&slack=1)</small>
+
+**9. Royce O'Neale — "each game is going to be somebody different. Guys got to be ready when their number is called" — Royce O'Neale on Hornets' depth and next-man-up mentality** [00:27](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=27s)
+
+Royce O'Neale: "Each game is going to be somebody different. Guys got to be ready when their number is called, be ready to play. And I think every game, you don't know who it's going to be, so I think everybody just being prepared mentally, having an impact on the game whenever they get in, that's what's going to help us out down the long."
+
+[https://www.youtube.com/watch?v=UOTmVZKOpJw&t=27s](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=27s)
+
+From: [Hornets at Lakers: Royce O'Neale Postgame Media Availability \| 11/17/2026](https://www.youtube.com/watch?v=UOTmVZKOpJw) · *Charlotte Hornets*
+
+<small>[Clip it](presserclips://clip?v=UOTmVZKOpJw&t=27&q=2) · [Send to Slack](presserclips://clip?v=UOTmVZKOpJw&t=27&q=2&slack=1)</small>
+
+**10. Jaden McDaniels — "It feels good just to know you can beat the team two times off a back-to-back." — Jaden McDaniels on the importance of winning back-to-back games** [00:35](https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s)
+
+**Unidentified reporter:** "How good was this win feel for you?"
+
+**Jaden McDaniels:** "It feels good just to know you can beat the team two times off a back-to-back. It's kind of like a simulated playoff series, so just excited that we won."
+
+[https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s](https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s)
+
+From: [Jaden McDaniels Postgame Interview With Alan Horton \| 11.17.26](https://www.youtube.com/watch?v=e3Ngro93UXQ) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=e3Ngro93UXQ&t=35&q=2) · [Send to Slack](presserclips://clip?v=e3Ngro93UXQ&t=35&q=2&slack=1)</small>
 
 ---
 
@@ -168,6 +200,94 @@ Ja'Kobe Walter: "Honestly no. I think the best people in the league that draw fo
 
 ---
 
+## “It’s A Special Group That We Have.” | Trey Lyles Postgame Sound | 11.17.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=3An5IoQnaNY](https://www.youtube.com/watch?v=3An5IoQnaNY)
+
+_Speakers identified: Trey Lyles_
+
+**1. Trey Lyles — "I saw an open man and I saw my teammate needed some help, so I just went and tried to make a play." — Trey Lyles on his defensive play and late-game block** [00:09](https://www.youtube.com/watch?v=3An5IoQnaNY&t=9s)
+
+Trey Lyles: "I saw an open man and I saw my teammate needed some help, so I just went and tried to make a play. Thankfully, I have enough sneaky athleticism to go and get it."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=9s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=9s)
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=9&q=1) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=9&q=1&slack=1)</small>
+
+**2. Trey Lyles — "We knew yesterday we missed some shots, and we knew tonight we had to come in and make shots." — Trey Lyles on the Timberwolves' team resilience and shot-making** [00:28](https://www.youtube.com/watch?v=3An5IoQnaNY&t=28s)
+
+Trey Lyles: "I think it just shows our resiliency. Obviously, they are a good team, they have all-star players on their team, guys who won championships. We knew yesterday we missed some shots, and we knew tonight we had to come in and make shots. That is what they did tonight, kudos to them, but we were able to make the plays down the stretch that we needed to win the game."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=28s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=28s)
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=28&q=2) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=28&q=2&slack=1)</small>
+
+**3. Trey Lyles — "We are professionals, next-man-up mentality. We have guys that can start on other NBA teams coming off the bench." — Trey Lyles on the Timberwolves' next-man-up mentality** [00:57](https://www.youtube.com/watch?v=3An5IoQnaNY&t=57s)
+
+Trey Lyles: "We are professionals, next-man-up mentality. We have guys that can start on other NBA teams coming off the bench. Kudos to everybody on this squad for staying ready, staying prepared, and coming out and doing their job for our team and helping us win."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=57s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=57s)
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=57&q=3) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=57&q=3&slack=1)</small>
+
+**4. Trey Lyles — "It is amazing, you know, they are a Western Conference team, somebody that we could see in the playoffs." — Trey Lyles on the value of early-season playoff-style games** [01:21](https://www.youtube.com/watch?v=3An5IoQnaNY&t=81s)
+
+Trey Lyles: "It is amazing, you know, they are a Western Conference team, somebody that we could see in the playoffs potentially. To be able to tough out a win like this is really important for us, and morale overall, and for coach, just knowing that he can rely on the other guys he is putting in."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=81s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=81s)
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=81&q=4) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=81&q=4&slack=1)</small>
+
+**5. Trey Lyles — "I think it is holding each other accountable, wanting to win, knowing that coach is going to be honest to win." — Trey Lyles on team accountability and coach's expectations** [02:00](https://www.youtube.com/watch?v=3An5IoQnaNY&t=120s)
+
+Trey Lyles: "I think it is holding each other accountable, wanting to win, knowing that coach is going to be honest to win. We got chewed out pretty good the other day and we had to respond as professionals, as individuals, and as a collective, and we have done that."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=120s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=120s)
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=120&q=5) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=120&q=5&slack=1)</small>
+
+**6. Trey Lyles — "He is one of the best, if not the best, two-way player in the league." — Trey Lyles on Jaden McDaniels' consistency and two-way play** [02:25](https://www.youtube.com/watch?v=3An5IoQnaNY&t=145s)
+
+Trey Lyles: "I think his ability to just be really consistent with not a whole lot of usage, but he gets to his spots and he makes things happen and he does not get out of control. He is one of the best, if not the best, two-way player in the league. We expect that from him every night, he expects it from himself, so he just continues to raise the bar. He is a really good player."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=145s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=145s)
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=145&q=6) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=145&q=6&slack=1)</small>
+
+**7. Trey Lyles — "I think it is just paying attention to the game, going out there and filling the gaps that are needed." — Trey Lyles on the bench unit's role in filling gaps** [03:09](https://www.youtube.com/watch?v=3An5IoQnaNY&t=189s)
+
+Trey Lyles: "I think it is just paying attention to the game, going out there and filling the gaps that are needed. I think we do a great job of that, I think our bench has done a great job of that throughout the season, and yeah, just like I said earlier, staying ready, staying competitive, and stepping into that position ready to go."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=189s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=189s)
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=189&q=7) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=189&q=7&slack=1)</small>
+
+**8. Trey Lyles — "I respect him as a coach because he holds everybody accountable to equal amount, whether it is Anthony Edwards, Rudy Gobert, Zion Williamson, or me." — Trey Lyles on coach's accountability and player-coach relationship** [03:52](https://www.youtube.com/watch?v=3An5IoQnaNY&t=232s)
+
+Trey Lyles: "I think I said this before, but I respect him as a coach because he holds everybody accountable to equal amount, whether it is **Anthony Edwards**, **Rudy Gobert**, **Zion Williamson**, or me. He holds us all to a high level and he expects the most from us. If you have a coach like that that is willing to do that with every player, you have to respect him, and he is a player's coach. He allows us to go out there and play, but he also gets on us when we need it."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=232s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=232s)
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=232&q=8) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=232&q=8&slack=1)</small>
+
+**9. Trey Lyles — "He was a little bit more aggressive, a little bit more assertive than he was last night." — Trey Lyles on Jaden McDaniels' aggression and rebounding** [04:34](https://www.youtube.com/watch?v=3An5IoQnaNY&t=274s)
+
+Trey Lyles: "He was a little bit more aggressive, a little bit more assertive than he was last night. He was getting to a lot of offensive rebounds and that is what we need from him. He is very athletic, he has a lot of energy, he can go and do a lot of things around the rim, so he was awesome tonight. We need that from him for the rest of the year."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=274s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=274s)
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=274&q=9) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=274&q=9&slack=1)</small>
+
+**10. Trey Lyles — "He is just continuing to show what he is capable of. I think that he will continue to grow." — Trey Lyles on Jaden McDaniels' growth and development** [05:00](https://www.youtube.com/watch?v=3An5IoQnaNY&t=300s)
+
+Trey Lyles: "He is just continuing to show what he is capable of. I think that he will continue to grow in his role as a player. He needs to slow down just a little bit sometimes, but we have a lot of guys talking to him and he is taking in a lot of information. So for him to be able to go out and do the things that they are talking to him about on a day-to-day basis is amazing."
+
+[https://www.youtube.com/watch?v=3An5IoQnaNY&t=300s](https://www.youtube.com/watch?v=3An5IoQnaNY&t=300s)
+
+<small>[Clip it](presserclips://clip?v=3An5IoQnaNY&t=300&q=10) · [Send to Slack](presserclips://clip?v=3An5IoQnaNY&t=300&q=10&slack=1)</small>
+
+---
+
 ## Toronto Raptors Full Media Availability | Post Game vs New York Knicks | November 17 , 2026 — *Toronto Raptors*
 
 Source: [https://www.youtube.com/watch?v=IOzDpaq2u6A](https://www.youtube.com/watch?v=IOzDpaq2u6A)
@@ -181,6 +301,126 @@ Scottie Barnes: "Just miscommunication on the switch which left them open for th
 [https://www.youtube.com/watch?v=IOzDpaq2u6A&t=319s](https://www.youtube.com/watch?v=IOzDpaq2u6A&t=319s)
 
 <small>[Clip it](presserclips://clip?v=IOzDpaq2u6A&t=319&q=5) · [Send to Slack](presserclips://clip?v=IOzDpaq2u6A&t=319&q=5&slack=1)</small>
+
+---
+
+## “We Got A Really Good Roster.” | Chris Finch Postgame Sound | 11.17.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=K1fbQwSxN0s](https://www.youtube.com/watch?v=K1fbQwSxN0s)
+
+_Speakers identified: Chris Finch_
+
+**1. Chris Finch — "It was a wild chaotic game all the way through by us for sure." — Chris Finch on the Timberwolves' chaotic, hard-fought win** [00:00](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=0s)
+
+Chris Finch: "It was a wild chaotic game all the way through by us for sure. We were getting stops, we just couldn't get rebounds there for a bit. Teams traded punches with big shots on either end, but we made the right plays. If the game goes another minute or two, who knows, maybe we don't win it."
+
+[https://www.youtube.com/watch?v=K1fbQwSxN0s&t=0s](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=0s)
+
+<small>[Clip it](presserclips://clip?v=K1fbQwSxN0s&t=0&q=1) · [Send to Slack](presserclips://clip?v=K1fbQwSxN0s&t=0&q=1&slack=1)</small>
+
+**2. Chris Finch — "He's sneaky athletic, he competes in the air for everything, rebounds, block shots." — Chris Finch praises Kyle Anderson's defensive impact and clutch play** [00:32](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=32s)
+
+Chris Finch: "He's sneaky athletic, he competes in the air for everything, rebounds, block shots. He was phenomenal today. Just did a lot of winning things and then obviously hit the shots, the big shots that we needed him to hit, the one in the corner, the one in the slot. When they slip back door, I thought to myself, oh no, and he came out of nowhere."
+
+[https://www.youtube.com/watch?v=K1fbQwSxN0s&t=32s](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=32s)
+
+<small>[Clip it](presserclips://clip?v=K1fbQwSxN0s&t=32&q=2) · [Send to Slack](presserclips://clip?v=K1fbQwSxN0s&t=32&q=2&slack=1)</small>
+
+**3. Chris Finch — "He's one of our most winning players, there's no doubt about it." — Chris Finch on Jaden McDaniels' competitiveness and resilience** [01:32](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=92s)
+
+Chris Finch: "He's under the weather too, so I was trying to give him breaks early in the game if I could. We kind of let the lead slip back when he wasn't on the floor. He's one of our most winning players, there's no doubt about it. He does things at both ends, he does little things, he does big things, and we just need him out there on the floor."
+
+[https://www.youtube.com/watch?v=K1fbQwSxN0s&t=92s](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=92s)
+
+<small>[Clip it](presserclips://clip?v=K1fbQwSxN0s&t=92&q=3) · [Send to Slack](presserclips://clip?v=K1fbQwSxN0s&t=92&q=3&slack=1)</small>
+
+**4. Chris Finch — "He's still competing, he's still guarding, he's still rebounding." — Chris Finch evaluates Karl-Anthony Towns' impact beyond scoring** [02:05](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=125s)
+
+Chris Finch: "He's been really doing that for us all season. He was in a nice rhythm scoring the ball, that's kind of gone right now, but he's still competing, he's still guarding, he's still rebounding. He's made a couple of those types of steals late in games for us. I think the Houston game he made a big one to help us clinch too, so we love that part about him and he's really embraced that here."
+
+[https://www.youtube.com/watch?v=K1fbQwSxN0s&t=125s](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=125s)
+
+<small>[Clip it](presserclips://clip?v=K1fbQwSxN0s&t=125&q=4) · [Send to Slack](presserclips://clip?v=K1fbQwSxN0s&t=125&q=4&slack=1)</small>
+
+**5. Chris Finch — "He was awesome. Not only did he come in and play well and hold the line." — Chris Finch praises Naz Reid's energy and defensive production** [03:30](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=210s)
+
+Chris Finch: "We always get great energy, lots of production, protected the rim. I think he had four blocks at halftime. He was awesome. Not only did he come in and play well and hold the line, but he gave our guys a lot of inspiration on these back-to-back nights against the same team. Sometimes you need to have somebody change the complexion of the way you play and he was able to do that."
+
+[https://www.youtube.com/watch?v=K1fbQwSxN0s&t=210s](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=210s)
+
+<small>[Clip it](presserclips://clip?v=K1fbQwSxN0s&t=210&q=5) · [Send to Slack](presserclips://clip?v=K1fbQwSxN0s&t=210&q=5&slack=1)</small>
+
+**6. Chris Finch — "We got a really good roster, we got really good roster, and we got good spirit." — Chris Finch on the Timberwolves' depth and roster strength** [04:32](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=272s)
+
+Chris Finch: "Lucky for me, I guess. We got a really good roster, we got really good roster, and we got good spirit. We got a lot of guys that really embrace defense and small plays right now and whatever it takes. We're down bodies and guys who are stepping up. I thought **Bones** was awesome, I should have played him more in the first half. He really came in and kind of gave us a shot in the arm, helped grow the lead in the first half, and then he closed the gap in the second half and I got to get him out there more."
+
+[https://www.youtube.com/watch?v=K1fbQwSxN0s&t=272s](https://www.youtube.com/watch?v=K1fbQwSxN0s&t=272s)
+
+<small>[Clip it](presserclips://clip?v=K1fbQwSxN0s&t=272&q=6) · [Send to Slack](presserclips://clip?v=K1fbQwSxN0s&t=272&q=6&slack=1)</small>
+
+---
+
+## “It Was Very Important That We Come Out & Got The Win.” | Ayo Dosunmu Postgame Sound | 11.17.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=KbFQB8iC-ug](https://www.youtube.com/watch?v=KbFQB8iC-ug)
+
+_Speakers identified: Ayo Dosunmu_
+
+**1. Ayo Dosunmu — "It was very important that we came out and got the win." — Ayo Dosunmu on the importance of back-to-back wins** [00:00](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=0s)
+
+Ayo Dosunmu: "Anytime you play a team back-to-back, it's always challenging. Especially on a back-to-back. We are a well-coached team with Hall of Famers on our team, so it was very important that we came out and got the win. I will not lie to you, the Western Conference is very tough from top to bottom. Each and every win is very important when it comes down to seeding, when it comes down to April, playoff seeding, home-court advantage, things of that nature."
+
+[https://www.youtube.com/watch?v=KbFQB8iC-ug&t=0s](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=0s)
+
+<small>[Clip it](presserclips://clip?v=KbFQB8iC-ug&t=0&q=1) · [Send to Slack](presserclips://clip?v=KbFQB8iC-ug&t=0&q=1&slack=1)</small>
+
+**2. Ayo Dosunmu — "I've been putting a lot of work into my game, a lot of work into my craft." — Ayo Dosunmu on maintaining a next-play mentality** [00:50](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=50s)
+
+Ayo Dosunmu: "Just always having the mindset, next-play mentality. That's always my mentality, next game. Not worrying about really makes and misses and really just trusting your work. I've been putting a lot of work into my game, a lot of work into my craft. I get a lot of shots up, watch a lot of film. So anytime makes and misses, I don't try to get down on myself because I'm always believing in law of averages, always believing in the work you put in. It's always going to show and it's always going to even out."
+
+[https://www.youtube.com/watch?v=KbFQB8iC-ug&t=50s](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=50s)
+
+<small>[Clip it](presserclips://clip?v=KbFQB8iC-ug&t=50&q=2) · [Send to Slack](presserclips://clip?v=KbFQB8iC-ug&t=50&q=2&slack=1)</small>
+
+**3. Ayo Dosunmu — "I never try to put an exactly a limit on it, but I knew that I would have more opportunities." — Ayo Dosunmu on his aggressive role in the starting lineup** [01:30](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=90s)
+
+Ayo Dosunmu: "Just always been aggressive. I never try to put an exactly a limit on it, but I knew that I would have more opportunities for sure. And I knew that I was going to have more chances to just be more aggressive. And I always be hard on myself about just being efficient. I take pride in that. Whether I take five shots, I take pride in making three or four. I'm taking 15 shots, I want to make 10, 11, and so on and so on. So just because the portions went up and the more opportunity, I even wanted to lock in even more about being more aggressive."
+
+[https://www.youtube.com/watch?v=KbFQB8iC-ug&t=90s](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=90s)
+
+<small>[Clip it](presserclips://clip?v=KbFQB8iC-ug&t=90&q=3) · [Send to Slack](presserclips://clip?v=KbFQB8iC-ug&t=90&q=3&slack=1)</small>
+
+**4. Ayo Dosunmu — "Once I seen Drew like he like put his arm up, like he was getting back on defense, I'm like, oh, okay." — Ayo Dosunmu on the final defensive play against Jaden McDaniels** [02:57](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=177s)
+
+Ayo Dosunmu: "We got the steal, boom. My immediate reaction was go to the ball. But I didn't know if if **LaMelo Ball** fouled him or not. So I wasn't expecting a whistle, but I was prepared for a whistle, but I wasn't worrying about a whistle. So I'm going to just try to make sure I grab the ball. Once I seen Drew like he like put his arm up, like he was getting back on defense, I'm like, oh, okay. I got eight seconds and it felt like, I look at the clock and it's like, you know, one of those movies when the clock the the clock just going slow. I felt like I was moving in slow motion."
+
+[https://www.youtube.com/watch?v=KbFQB8iC-ug&t=177s](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=177s)
+
+<small>[Clip it](presserclips://clip?v=KbFQB8iC-ug&t=177&q=4) · [Send to Slack](presserclips://clip?v=KbFQB8iC-ug&t=177&q=4&slack=1)</small>
+
+**5. Ayo Dosunmu — "It's all about competing. That's all about not worrying about whatever his field goal percentage was tonight." — Ayo Dosunmu on LaMelo Ball's defensive engagement** [04:16](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=256s)
+
+Ayo Dosunmu: "It's all about competing. That's all about not worrying about whatever his field goal percentage was tonight or how many turnovers, just really, you know, hone in to that one play. And I try to always give him encouragement in that aspect because of course you want to make every shot. Of course you know you don't want to miss easy shots that you normally make, but at the same time, you have to stay in the moment. That's all about growth, that's all about how you impact the game. And you know, we don't win that game if he don't make that play."
+
+[https://www.youtube.com/watch?v=KbFQB8iC-ug&t=256s](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=256s)
+
+<small>[Clip it](presserclips://clip?v=KbFQB8iC-ug&t=256&q=5) · [Send to Slack](presserclips://clip?v=KbFQB8iC-ug&t=256&q=5&slack=1)</small>
+
+**6. Ayo Dosunmu — "It's all about envisioning yourself getting somewhere and understanding that it can't happen overnight." — Ayo Dosunmu on his year-over-year improvement and body maintenance** [05:11](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=311s)
+
+Ayo Dosunmu: "I would say understanding, you know, what ways you can get better and then really working. I think that's very, um, very cliché when people say that, but it's all about, you know, envisioning yourself getting somewhere and understanding that it can't happen overnight. Like you you can't just drastically go from a say, for example, a 25% three-point shooter to a 45% three-point shooter. But you can go from 25 to 30, 30 to 35. Like it's all about just taking those small increments and accepting small wins and really just having faith and then just, you know, trusting, um, my supports, my support system, really, you know, locking into my body."
+
+[https://www.youtube.com/watch?v=KbFQB8iC-ug&t=311s](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=311s)
+
+<small>[Clip it](presserclips://clip?v=KbFQB8iC-ug&t=311&q=6) · [Send to Slack](presserclips://clip?v=KbFQB8iC-ug&t=311&q=6&slack=1)</small>
+
+**7. Ayo Dosunmu — "Next man up. I think that's very huge. If you look at any championship team the last 10 years." — Ayo Dosunmu on the championship habit of the next-man-up mentality** [06:33](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=393s)
+
+Ayo Dosunmu: "Next man up. I think that's very huge. If you look at any championship team the last 10 years, um, it's all of been about one, who stayed the most healthy and two, who can adapt the most. Um, and I think we we're showcasing that now. Um, we know we're adapting with guys been out and um, we're trusting each other. You know, yesterday **Trey Lyles** had a great game, um, he's very impactful for us. Today **Trey Lyles** had a great game, Bones had great games, you know, we have a lot of guys who are really bought into, um, what we're trying to do."
+
+[https://www.youtube.com/watch?v=KbFQB8iC-ug&t=393s](https://www.youtube.com/watch?v=KbFQB8iC-ug&t=393s)
+
+<small>[Clip it](presserclips://clip?v=KbFQB8iC-ug&t=393&q=7) · [Send to Slack](presserclips://clip?v=KbFQB8iC-ug&t=393&q=7&slack=1)</small>
 
 ---
 
@@ -373,6 +613,38 @@ Darko Rajakovic: "He is moving really, really well. He is very quick, always bei
 [https://www.youtube.com/watch?v=Rqq1vwPuB1U&t=283s](https://www.youtube.com/watch?v=Rqq1vwPuB1U&t=283s)
 
 <small>[Clip it](presserclips://clip?v=Rqq1vwPuB1U&t=283&q=8) · [Send to Slack](presserclips://clip?v=Rqq1vwPuB1U&t=283&q=8&slack=1)</small>
+
+---
+
+## Hornets at Lakers: Royce O'Neale Postgame Media Availability | 11/17/2026 — *Charlotte Hornets*
+
+Source: [https://www.youtube.com/watch?v=UOTmVZKOpJw](https://www.youtube.com/watch?v=UOTmVZKOpJw)
+
+_Speakers identified: Royce O'Neale_
+
+**1. Royce O'Neale — "you want to close out the game in the fourth quarter, but going to overtime still gives you a chance" — Royce O'Neale on Hornets' overtime loss and missed opportunities** [00:03](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=3s)
+
+Royce O'Neale: "It was tough. You want to close out the game in the fourth quarter, but going to overtime still gives you a chance to fight in the game. Just a couple of missed possessions that we missed throughout turnovers and then trying to execute, but I think it's something we can learn from and we were right there."
+
+[https://www.youtube.com/watch?v=UOTmVZKOpJw&t=3s](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=3s)
+
+<small>[Clip it](presserclips://clip?v=UOTmVZKOpJw&t=3&q=1) · [Send to Slack](presserclips://clip?v=UOTmVZKOpJw&t=3&q=1&slack=1)</small>
+
+**2. Royce O'Neale — "each game is going to be somebody different. Guys got to be ready when their number is called" — Royce O'Neale on Hornets' depth and next-man-up mentality** [00:27](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=27s)
+
+Royce O'Neale: "Each game is going to be somebody different. Guys got to be ready when their number is called, be ready to play. And I think every game, you don't know who it's going to be, so I think everybody just being prepared mentally, having an impact on the game whenever they get in, that's what's going to help us out down the long."
+
+[https://www.youtube.com/watch?v=UOTmVZKOpJw&t=27s](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=27s)
+
+<small>[Clip it](presserclips://clip?v=UOTmVZKOpJw&t=27&q=2) · [Send to Slack](presserclips://clip?v=UOTmVZKOpJw&t=27&q=2&slack=1)</small>
+
+**3. Royce O'Neale — "we did a lot of good things, a couple things we can learn from, just build on" — Royce O'Neale on Hornets' takeaways before final road trip game** [00:43](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=43s)
+
+Royce O'Neale: "Just learn from this. We did a lot of good things, a couple things we can learn from, just build on. So continue to get better and then think about it, but be prepared for the next game."
+
+[https://www.youtube.com/watch?v=UOTmVZKOpJw&t=43s](https://www.youtube.com/watch?v=UOTmVZKOpJw&t=43s)
+
+<small>[Clip it](presserclips://clip?v=UOTmVZKOpJw&t=43&q=3) · [Send to Slack](presserclips://clip?v=UOTmVZKOpJw&t=43&q=3&slack=1)</small>
 
 ---
 
@@ -581,6 +853,46 @@ Micah Nori: "Number one, just brutal truths. Basically just telling guys the tru
 [https://www.youtube.com/watch?v=lcjynpRo8HI&t=325s](https://www.youtube.com/watch?v=lcjynpRo8HI&t=325s)
 
 <small>[Clip it](presserclips://clip?v=lcjynpRo8HI&t=325&q=7) · [Send to Slack](presserclips://clip?v=lcjynpRo8HI&t=325&q=7&slack=1)</small>
+
+---
+
+## Hornets at Lakers: Coach Charles Lee Postgame Media Availability | 11/17/2026 — *Charlotte Hornets*
+
+Source: [https://www.youtube.com/watch?v=omFyGiB9vXw](https://www.youtube.com/watch?v=omFyGiB9vXw)
+
+_Speakers identified: Charles Lee_
+
+**1. Charles Lee — "we tend not to foul if they don't have a timeout, it's a different situation for us" — Charles Lee on late-game foul strategy when up three** [00:21](https://www.youtube.com/watch?v=omFyGiB9vXw&t=21s)
+
+Charles Lee: "There was a thought. We've talked about it in the past and typically, up three, the other team has a timeout still. We tend not to foul if they don't have a timeout, it's a different situation for us. But again, I think that there's so many plays that lead up to that one. If we are a little bit better with our get-in and we don't have to go to a jump ball, there's things that we can learn from, things that I can be better at, putting those guys in better positions to be successful at the end of the game too."
+
+[https://www.youtube.com/watch?v=omFyGiB9vXw&t=21s](https://www.youtube.com/watch?v=omFyGiB9vXw&t=21s)
+
+<small>[Clip it](presserclips://clip?v=omFyGiB9vXw&t=21&q=1) · [Send to Slack](presserclips://clip?v=omFyGiB9vXw&t=21&q=1&slack=1)</small>
+
+**2. Charles Lee — "we were the better team. We didn't finish the game, and that's where we have to be better" — Charles Lee on team's late-game execution and defensive lapses** [01:14](https://www.youtube.com/watch?v=omFyGiB9vXw&t=74s)
+
+Charles Lee: "Really proud of the group. For most of the game, we were the better team. We didn't finish the game, and that's where we have to be better. Credit to **Grimes**. I think he got away from us and some of it was isolation into the clock, just creating on his own. And some of it is like, where can we be better coverage-wise? But they had a couple groups that came in without the **Doncic** lineups that brought them good energy and **Sexton** and they turned us over. Even going into that fourth quarter, I actually think it was a low-turnover game for us. I think 10 turnovers going into the fourth, and there's too many costly possessions where you end up with nothing, shot clock violations or five-second calls out of bounds. But again, it's not always the players, it's on the coaches as well."
+
+[https://www.youtube.com/watch?v=omFyGiB9vXw&t=74s](https://www.youtube.com/watch?v=omFyGiB9vXw&t=74s)
+
+<small>[Clip it](presserclips://clip?v=omFyGiB9vXw&t=74&q=2) · [Send to Slack](presserclips://clip?v=omFyGiB9vXw&t=74&q=2&slack=1)</small>
+
+**3. Charles Lee — "there were some transition threes, and again some of it was off the dribble creation one-on-one" — Charles Lee on Quentin Grimes's performance and offensive rebounding issues** [02:16](https://www.youtube.com/watch?v=omFyGiB9vXw&t=136s)
+
+Charles Lee: "There was a bunch of different things that I think that he did. There were some transition threes, and again some of it was off the dribble creation one-on-one or also pocket threes versus our red execution where we can be a little bit tighter. And then another area I thought that their offensive rebounding, 19 offensive rebounds for them and we've been really good defensive rebounding team all year and we let those a couple possessions get away from us and that also equaled some threes for them."
+
+[https://www.youtube.com/watch?v=omFyGiB9vXw&t=136s](https://www.youtube.com/watch?v=omFyGiB9vXw&t=136s)
+
+<small>[Clip it](presserclips://clip?v=omFyGiB9vXw&t=136&q=3) · [Send to Slack](presserclips://clip?v=omFyGiB9vXw&t=136&q=3&slack=1)</small>
+
+**4. Charles Lee — "it takes a ton of discipline from the individual defenders to defend him without fouling" — Charles Lee on the defensive challenge of guarding Luka Doncic** [02:57](https://www.youtube.com/watch?v=omFyGiB9vXw&t=177s)
+
+Charles Lee: "He definitely draws a lot of attention. You have to do a lot of different coverages with him. It takes a ton of discipline from the individual defenders to defend him without fouling. To hold him to seven free throws and he played 42 minutes, I think it's a credit to every last one of our guys that defended him. And we switched a ton and we came out of a timeout one time and tried to blitz him and we hit him. So we gave him a lot of different looks and he had 36 points on 34 field goal attempts, so I would say job done there, but then there's other areas that we just have to be better in."
+
+[https://www.youtube.com/watch?v=omFyGiB9vXw&t=177s](https://www.youtube.com/watch?v=omFyGiB9vXw&t=177s)
+
+<small>[Clip it](presserclips://clip?v=omFyGiB9vXw&t=177&q=4) · [Send to Slack](presserclips://clip?v=omFyGiB9vXw&t=177&q=4&slack=1)</small>
 
 ---
 

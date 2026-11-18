@@ -1,0 +1,218 @@
+{
+  "video_title": "“We Got A Really Good Roster.” | Chris Finch Postgame Sound | 11.17.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:00",
+      "summary_phrase": "Chris Finch on the Timberwolves' chaotic, hard-fought win",
+      "names_mentioned": [],
+      "excerpt": "It was a wild chaotic game all the way through by us for sure.",
+      "quote": "It was a wild chaotic game all the way through by us for sure. We were getting stops, we just couldn't get rebounds there for a bit. Teams traded punches with big shots on either end, but we made the right plays. If the game goes another minute or two, who knows, maybe we don't win it.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Chris Finch on the Timberwolves win: It was a wild chaotic game all the way through. We were getting stops, we just could not get rebounds there for a bit.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch reflects on the Timberwolves' chaotic win against their opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:32",
+      "summary_phrase": "Chris Finch praises Kyle Anderson's defensive impact and clutch play",
+      "names_mentioned": [
+        "Kyle Anderson"
+      ],
+      "excerpt": "He's sneaky athletic, he competes in the air for everything, rebounds, block shots.",
+      "quote": "He's sneaky athletic, he competes in the air for everything, rebounds, block shots. He was phenomenal today. Just did a lot of winning things and then obviously hit the shots, the big shots that we needed him to hit, the one in the corner, the one in the slot. When they slip back door, I thought to myself, oh no, and he came out of nowhere.",
+      "verbatim_original_language": "",
+      "start_seconds": 32,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Chris Finch on Kyle Anderson: He is sneaky athletic and competes in the air for everything. He was phenomenal today and did a lot of winning things.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kyle Anderson"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch praises Kyle Anderson for his defensive impact and clutch shooting during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:32",
+      "summary_phrase": "Chris Finch on Jaden McDaniels' competitiveness and resilience",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "He's one of our most winning players, there's no doubt about it.",
+      "quote": "He's under the weather too, so I was trying to give him breaks early in the game if I could. We kind of let the lead slip back when he wasn't on the floor. He's one of our most winning players, there's no doubt about it. He does things at both ends, he does little things, he does big things, and we just need him out there on the floor.",
+      "verbatim_original_language": "",
+      "start_seconds": 92,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Chris Finch on Jaden McDaniels: He is under the weather but he is one of our most winning players. He does little things and big things and we just need him out there on the floor.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch discusses Jaden McDaniels' resilience and value to the team while playing through illness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "02:05",
+      "summary_phrase": "Chris Finch evaluates Karl-Anthony Towns' impact beyond scoring",
+      "names_mentioned": [
+        "Karl-Anthony Towns"
+      ],
+      "excerpt": "He's still competing, he's still guarding, he's still rebounding.",
+      "quote": "He's been really doing that for us all season. He was in a nice rhythm scoring the ball, that's kind of gone right now, but he's still competing, he's still guarding, he's still rebounding. He's made a couple of those types of steals late in games for us. I think the Houston game he made a big one to help us clinch too, so we love that part about him and he's really embraced that here.",
+      "verbatim_original_language": "",
+      "start_seconds": 125,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch on Karl-Anthony Towns: He was in a nice rhythm scoring the ball, that is kind of gone right now, but he is still competing, guarding, and rebounding.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Karl-Anthony Towns"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch evaluates Karl-Anthony Towns' defensive contributions and effort despite his current shooting slump.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "03:30",
+      "summary_phrase": "Chris Finch praises Naz Reid's energy and defensive production",
+      "names_mentioned": [
+        "Naz Reid",
+        "Rudy Gobert"
+      ],
+      "excerpt": "He was awesome. Not only did he come in and play well and hold the line.",
+      "quote": "We always get great energy, lots of production, protected the rim. I think he had four blocks at halftime. He was awesome. Not only did he come in and play well and hold the line, but he gave our guys a lot of inspiration on these back-to-back nights against the same team. Sometimes you need to have somebody change the complexion of the way you play and he was able to do that.",
+      "verbatim_original_language": "",
+      "start_seconds": 210,
+      "end_seconds": 238,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Chris Finch on Naz Reid: He gave our guys a lot of inspiration. Sometimes you need to have somebody change the complexion of the way you play and he was able to do that.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naz Reid"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch highlights the energy and defensive production Naz Reid provided during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Finch",
+      "timestamp": "04:32",
+      "summary_phrase": "Chris Finch on the Timberwolves' depth and roster strength",
+      "names_mentioned": [
+        "Bones"
+      ],
+      "excerpt": "We got a really good roster, we got really good roster, and we got good spirit.",
+      "quote": "Lucky for me, I guess. We got a really good roster, we got really good roster, and we got good spirit. We got a lot of guys that really embrace defense and small plays right now and whatever it takes. We're down bodies and guys who are stepping up. I thought Bones was awesome, I should have played him more in the first half. He really came in and kind of gave us a shot in the arm, helped grow the lead in the first half, and then he closed the gap in the second half and I got to get him out there more.",
+      "verbatim_original_language": "",
+      "start_seconds": 272,
+      "end_seconds": 312,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Chris Finch on the Timberwolves depth: We got a really good roster and we got good spirit. We are down bodies and guys are stepping up.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Chris Finch discusses the team's roster depth and his intention to give more playing time to Bones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "K1fbQwSxN0s",
+  "url": "https://www.youtube.com/watch?v=K1fbQwSxN0s",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-18T06:48:11Z",
+  "duration_seconds": 317,
+  "processed_at": "2026-11-18T07:35:34Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

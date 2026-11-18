@@ -1,0 +1,156 @@
+{
+  "video_title": "Hornets at Lakers: Coach Charles Lee Postgame Media Availability | 11/17/2026",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:21",
+      "summary_phrase": "Charles Lee on late-game foul strategy when up three",
+      "names_mentioned": [],
+      "excerpt": "we tend not to foul if they don't have a timeout, it's a different situation for us",
+      "quote": "There was a thought. We've talked about it in the past and typically, up three, the other team has a timeout still. We tend not to foul if they don't have a timeout, it's a different situation for us. But again, I think that there's so many plays that lead up to that one. If we are a little bit better with our get-in and we don't have to go to a jump ball, there's things that we can learn from, things that I can be better at, putting those guys in better positions to be successful at the end of the game too.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Charles Lee explains the Hornets strategy on late game fouls when up three points saying they typically do not foul if the opponent has a timeout remaining",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHO",
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Lee explains his decision-making process regarding whether to foul when leading by three points in the final moments of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "01:14",
+      "summary_phrase": "Charles Lee on team's late-game execution and defensive lapses",
+      "names_mentioned": [
+        "Grimes",
+        "Doncic",
+        "Sexton"
+      ],
+      "excerpt": "we were the better team. We didn't finish the game, and that's where we have to be better",
+      "quote": "Really proud of the group. For most of the game, we were the better team. We didn't finish the game, and that's where we have to be better. Credit to Grimes. I think he got away from us and some of it was isolation into the clock, just creating on his own. And some of it is like, where can we be better coverage-wise? But they had a couple groups that came in without the Doncic lineups that brought them good energy and Sexton and they turned us over. Even going into that fourth quarter, I actually think it was a low-turnover game for us. I think 10 turnovers going into the fourth, and there's too many costly possessions where you end up with nothing, shot clock violations or five-second calls out of bounds. But again, it's not always the players, it's on the coaches as well.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Charles Lee takes accountability for the Hornets late game execution against the Lakers noting there were too many costly possessions and shot clock violations down the stretch",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Quentin Grimes",
+          "Luka Doncic",
+          "Collin Sexton"
+        ],
+        "teams": [
+          "CHO",
+          "LAL",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses the team's late-game execution and defensive lapses against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "02:16",
+      "summary_phrase": "Charles Lee on Quentin Grimes's performance and offensive rebounding issues",
+      "names_mentioned": [
+        "Quentin Grimes"
+      ],
+      "excerpt": "there were some transition threes, and again some of it was off the dribble creation one-on-one",
+      "quote": "There was a bunch of different things that I think that he did. There were some transition threes, and again some of it was off the dribble creation one-on-one or also pocket threes versus our red execution where we can be a little bit tighter. And then another area I thought that their offensive rebounding, 19 offensive rebounds for them and we've been really good defensive rebounding team all year and we let those a couple possessions get away from us and that also equaled some threes for them.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Charles Lee points to the 19 offensive rebounds allowed as a major factor in the loss to the Lakers noting that the team has been a strong defensive rebounding group all season",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Quentin Grimes"
+        ],
+        "teams": [
+          "CHO",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Charles Lee breaks down Quentin Grimes's offensive performance and the team's struggles with defensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "02:57",
+      "summary_phrase": "Charles Lee on the defensive challenge of guarding Luka Doncic",
+      "names_mentioned": [
+        "Luka"
+      ],
+      "excerpt": "it takes a ton of discipline from the individual defenders to defend him without fouling",
+      "quote": "He definitely draws a lot of attention. You have to do a lot of different coverages with him. It takes a ton of discipline from the individual defenders to defend him without fouling. To hold him to seven free throws and he played 42 minutes, I think it's a credit to every last one of our guys that defended him. And we switched a ton and we came out of a timeout one time and tried to blitz him and we hit him. So we gave him a lot of different looks and he had 36 points on 34 field goal attempts, so I would say job done there, but then there's other areas that we just have to be better in.",
+      "text_blocks": [],
+      "start_seconds": 177,
+      "end_seconds": 224,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Charles Lee says the Hornets did a good job on Luka Doncic by holding him to 34 field goal attempts for 36 points and limiting him to seven free throws in 42 minutes of play",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "CHO",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses the defensive strategy and challenges involved in guarding Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "omFyGiB9vXw",
+  "url": "https://www.youtube.com/watch?v=omFyGiB9vXw",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-18T07:30:21Z",
+  "duration_seconds": 260,
+  "processed_at": "2026-11-18T07:35:22Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}
