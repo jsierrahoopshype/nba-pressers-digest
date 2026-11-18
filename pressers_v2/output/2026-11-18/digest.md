@@ -2,7 +2,41 @@
 
 # Best of the best
 
-**1. RJ Barrett — "I think we played better than than last game. Definitely not the best feeling to lose" — RJ Barrett on the Raptors' performance against the Knicks** [00:27](https://www.youtube.com/watch?v=OoT-lHtjHwo&t=27s)
+**1. Victor Wembanyama — "It's a terrible feeling. A terrible sight. I know as much as you guys so I hope he's fine." — Victor Wembanyama on Dylan Windler's injury and impact** [01:14](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=74s)
+
+**Unidentified speaker:** "And just on Dylan, I know not much is known right now, but just seeing him down like that and then, you know, I know you went over, you were the first to go over and check on him, just your thoughts on when you see your teammate there lying on the ground and in an obvious pain?"
+
+**Victor Wembanyama:** "Yeah, it's a terrible feeling. A terrible sight. I know as much as you guys so I hope he's fine. I'll check on him today. But yeah, I just hate this. I don't know how how else I can say this."
+
+[https://www.youtube.com/watch?v=kS7wV2-91Ng&t=74s](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=74s)
+
+From: [Victor Wembanyama on Spurs Performance Against the Detroit Pistons](https://www.youtube.com/watch?v=kS7wV2-91Ng) · *San Antonio Spurs*
+
+<small>[Clip it](presserclips://clip?v=kS7wV2-91Ng&t=74&q=4) · [Send to Slack](presserclips://clip?v=kS7wV2-91Ng&t=74&q=4&slack=1)</small>
+
+**2. Mitch Johnson — "I just look like he slipped obviously, so hoping for the best but don't know anything yet." — Mitch Johnson provides injury update on Dylan Disu** [00:00](https://www.youtube.com/watch?v=rGo239JfSvk&t=0s)
+
+Mitch Johnson: "I just look like he slipped obviously, so hoping for the best but don't know anything yet."
+
+[https://www.youtube.com/watch?v=rGo239JfSvk&t=0s](https://www.youtube.com/watch?v=rGo239JfSvk&t=0s)
+
+From: [Mitch Johnson on Spurs Continuing to Improve On Both Sides of the Court](https://www.youtube.com/watch?v=rGo239JfSvk) · *San Antonio Spurs*
+
+<small>[Clip it](presserclips://clip?v=rGo239JfSvk&t=0&q=1) · [Send to Slack](presserclips://clip?v=rGo239JfSvk&t=0&q=1&slack=1)</small>
+
+**3. LaMelo Ball — "Honestly defense. I mean you seen the last play, I tried to make something happen, thought I got fouled." — LaMelo Ball on defensive intensity and team execution** [00:01](https://www.youtube.com/watch?v=-g2A7LR_gSg&t=1s)
+
+**Sean Dorcellus:** "LaMelo, what did it take to get this one done tonight?"
+
+**LaMelo Ball:** "Honestly defense. I mean you seen the last play, I tried to make something happen, thought I got fouled. It wasn't that, so I said on defense we got to get it back. Got it back and then my teammates did the rest, made the bucket and then one more defensive stop."
+
+[https://www.youtube.com/watch?v=-g2A7LR_gSg&t=1s](https://www.youtube.com/watch?v=-g2A7LR_gSg&t=1s)
+
+From: [LaMelo Ball Postgame Interview With Sean Dorcellus \| 11.17.26](https://www.youtube.com/watch?v=-g2A7LR_gSg) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=-g2A7LR_gSg&t=1&q=1) · [Send to Slack](presserclips://clip?v=-g2A7LR_gSg&t=1&q=1&slack=1)</small>
+
+**4. RJ Barrett — "I think we played better than than last game. Definitely not the best feeling to lose" — RJ Barrett on the Raptors' performance against the Knicks** [00:27](https://www.youtube.com/watch?v=OoT-lHtjHwo&t=27s)
 
 RJ Barrett: "Once again, another good team. I think we played well. Honestly, I think we played better than last game. So, yeah, definitely not the best feeling to lose this game, but at the end of the day, we played better than we did last time. We're really playing well. That's why it's frustrating because we are playing well. We're doing enough to put ourselves in a position to win these games. We're up three to start the fourth at home. These should be games that we're winning."
 
@@ -12,7 +46,7 @@ From: [RJ Barrett \| Post Game vs New York Knicks \| November 17, 2026](https://
 
 <small>[Clip it](presserclips://clip?v=OoT-lHtjHwo&t=27&q=2) · [Send to Slack](presserclips://clip?v=OoT-lHtjHwo&t=27&q=2&slack=1)</small>
 
-**2. Ayo Dosunmu — "I trust my teammates and there's no person I'd rather have in that spot right there." — Ayo Dosunmu on the game-winning play and trusting his teammates** [00:03](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s)
+**5. Ayo Dosunmu — "I trust my teammates and there's no person I'd rather have in that spot right there." — Ayo Dosunmu on the game-winning play and trusting his teammates** [00:03](https://www.youtube.com/watch?v=jgLPOI4PtjQ&t=3s)
 
 **Unidentified speaker:** "Melo comes up with a huge steal. You get the ball. You got to walk me through that final play that gets **Jaden** the bucket and you guys essentially the win."
 
@@ -24,7 +58,7 @@ From: [Ayo Dosunmu Postgame Interview After Win Against Portland Trail Blazers \
 
 <small>[Clip it](presserclips://clip?v=jgLPOI4PtjQ&t=3&q=1) · [Send to Slack](presserclips://clip?v=jgLPOI4PtjQ&t=3&q=1&slack=1)</small>
 
-**3. Cade Cunningham — "I thought there were still times where I was a little indecisive at times, especially early on." — Cade Cunningham on his intentionality and aggression throughout the game** [01:01](https://www.youtube.com/watch?v=v7Mz9OBous0&t=61s)
+**6. Cade Cunningham — "I thought there were still times where I was a little indecisive at times, especially early on." — Cade Cunningham on his intentionality and aggression throughout the game** [01:01](https://www.youtube.com/watch?v=v7Mz9OBous0&t=61s)
 
 **Unidentified reporter:** "You told me for you it is about being intentional about being aggressive. How much did you have to display that tonight?"
 
@@ -36,27 +70,43 @@ From: [Cade Post Game Interview  l  Pistons at Spurs  l 11.17.26 #NBA](https://w
 
 <small>[Clip it](presserclips://clip?v=v7Mz9OBous0&t=61&q=3) · [Send to Slack](presserclips://clip?v=v7Mz9OBous0&t=61&q=3&slack=1)</small>
 
-**4. Ja'Kobe Walter — "The winning championship teams, they don't make those mistakes at the end of the game." — Ja'Kobe Walter on limiting late-game mistakes to close out games** [01:39](https://www.youtube.com/watch?v=078dZbBBU9s&t=99s)
+---
 
-Ja'Kobe Walter: "Just limiting the mistakes at the end of the game. I think that's when you got to lock in the most. The winning championship teams, they don't make those mistakes at the end of the game. That's when they really lock in on the basics. We just got to stick to the roots. We can't let it slip at the end. Got to be able to play with the lead and even when it's a tie game, just figure out those winning plays, those little plays. We just got to always make them just to win those games, and lately we've been messing up."
+## LaMelo Ball Postgame Interview With Sean Dorcellus | 11.17.26 — *Minnesota Timberwolves*
 
-[https://www.youtube.com/watch?v=078dZbBBU9s&t=99s](https://www.youtube.com/watch?v=078dZbBBU9s&t=99s)
+Source: [https://www.youtube.com/watch?v=-g2A7LR_gSg](https://www.youtube.com/watch?v=-g2A7LR_gSg)
 
-From: [Ja'Kobe Walter \| Post Game vs New York Knicks \| November 17, 2026](https://www.youtube.com/watch?v=078dZbBBU9s) · *Toronto Raptors*
+_Speakers identified: LaMelo Ball, Sean Dorcellus_
 
-<small>[Clip it](presserclips://clip?v=078dZbBBU9s&t=99&q=3) · [Send to Slack](presserclips://clip?v=078dZbBBU9s&t=99&q=3&slack=1)</small>
+**1. LaMelo Ball — "Honestly defense. I mean you seen the last play, I tried to make something happen, thought I got fouled." — LaMelo Ball on defensive intensity and team execution** [00:01](https://www.youtube.com/watch?v=-g2A7LR_gSg&t=1s)
 
-**5. Jaden McDaniels — "It feels good just to know you can beat the team two times off a back-to-back." — Jaden McDaniels on the importance of winning back-to-back games** [00:35](https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s)
+**Sean Dorcellus:** "LaMelo, what did it take to get this one done tonight?"
 
-**Unidentified reporter:** "How good was this win feel for you?"
+**LaMelo Ball:** "Honestly defense. I mean you seen the last play, I tried to make something happen, thought I got fouled. It wasn't that, so I said on defense we got to get it back. Got it back and then my teammates did the rest, made the bucket and then one more defensive stop."
 
-**Jaden McDaniels:** "It feels good just to know you can beat the team two times off a back-to-back. It's kind of like a simulated playoff series, so just excited that we won."
+[https://www.youtube.com/watch?v=-g2A7LR_gSg&t=1s](https://www.youtube.com/watch?v=-g2A7LR_gSg&t=1s)
 
-[https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s](https://www.youtube.com/watch?v=e3Ngro93UXQ&t=35s)
+<small>[Clip it](presserclips://clip?v=-g2A7LR_gSg&t=1&q=1) · [Send to Slack](presserclips://clip?v=-g2A7LR_gSg&t=1&q=1&slack=1)</small>
 
-From: [Jaden McDaniels Postgame Interview With Alan Horton \| 11.17.26](https://www.youtube.com/watch?v=e3Ngro93UXQ) · *Minnesota Timberwolves*
+**2. LaMelo Ball — "Pretty much just dig deep, lock in, stay focused, listen to the coaches and follow the game plan." — LaMelo Ball on maintaining focus for back-to-back wins** [00:21](https://www.youtube.com/watch?v=-g2A7LR_gSg&t=21s)
 
-<small>[Clip it](presserclips://clip?v=e3Ngro93UXQ&t=35&q=2) · [Send to Slack](presserclips://clip?v=e3Ngro93UXQ&t=35&q=2&slack=1)</small>
+**Unidentified reporter:** "The mentality for this, back-to-back nights, back-to-back wins. What did it take to get both of these against the Western Conference foe?"
+
+**LaMelo Ball:** "Pretty much just dig deep, lock in, stay focused, listen to the coaches and follow the game plan pretty much."
+
+[https://www.youtube.com/watch?v=-g2A7LR_gSg&t=21s](https://www.youtube.com/watch?v=-g2A7LR_gSg&t=21s)
+
+<small>[Clip it](presserclips://clip?v=-g2A7LR_gSg&t=21&q=2) · [Send to Slack](presserclips://clip?v=-g2A7LR_gSg&t=21&q=2&slack=1)</small>
+
+**3. LaMelo Ball — "I feel like all the teams I've been on have been blessings." — LaMelo Ball on the team's high level of offensive talent** [00:35](https://www.youtube.com/watch?v=-g2A7LR_gSg&t=35s)
+
+**Unidentified reporter:** "Last night it was TJ with the 30 ball. Tonight it was I with the 30 ball. Have you ever played on a team that has this much offensive talent?"
+
+**LaMelo Ball:** "I can't do my dogs in the past, but I feel like all the teams I've been on have been blessings."
+
+[https://www.youtube.com/watch?v=-g2A7LR_gSg&t=35s](https://www.youtube.com/watch?v=-g2A7LR_gSg&t=35s)
+
+<small>[Clip it](presserclips://clip?v=-g2A7LR_gSg&t=35&q=3) · [Send to Slack](presserclips://clip?v=-g2A7LR_gSg&t=35&q=3&slack=1)</small>
 
 ---
 
@@ -402,6 +452,64 @@ _Speakers identified: Unidentified speaker, Ayo Dosunmu_
 
 ---
 
+## Victor Wembanyama on Spurs Performance Against the Detroit Pistons — *San Antonio Spurs*
+
+Source: [https://www.youtube.com/watch?v=kS7wV2-91Ng](https://www.youtube.com/watch?v=kS7wV2-91Ng)
+
+_Speakers identified: Victor Wembanyama, Unidentified speaker_
+
+**1. Victor Wembanyama — "I think it's more on us. We didn't do the right things. I think we should have been smarter." — Victor Wembanyama on the Spurs' offensive struggles against Detroit** [00:01](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=1s)
+
+**Unidentified speaker:** "Victor, what do you think Detroit did defensively that made it difficult for you guys to score points? It's your first night under 100 this year."
+
+**Victor Wembanyama:** "I think it's more on us. We didn't do the right things. I think we should have been smarter."
+
+[https://www.youtube.com/watch?v=kS7wV2-91Ng&t=1s](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=1s)
+
+<small>[Clip it](presserclips://clip?v=kS7wV2-91Ng&t=1&q=1) · [Send to Slack](presserclips://clip?v=kS7wV2-91Ng&t=1&q=1&slack=1)</small>
+
+**2. Victor Wembanyama — "I got to focus on what I can influence and on my impact when I'm actually in the game." — Victor Wembanyama on maintaining focus while on the bench** [00:21](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=21s)
+
+**Unidentified speaker:** "Victor, there's obviously an understanding that you're not going to be able to play 48 minutes a night, but when you do have your time on the bench, is there any kind of a natural frustration when the other team goes on a 19-5 run or 20-10, whatever it might be, while you're having to sit there and wait for your minutes to come back in?"
+
+**Victor Wembanyama:** "Yeah, but I got to focus on what I can influence and on my impact when I'm actually in the game. And even when I'm not in the game, I can impact my teammates."
+
+[https://www.youtube.com/watch?v=kS7wV2-91Ng&t=21s](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=21s)
+
+<small>[Clip it](presserclips://clip?v=kS7wV2-91Ng&t=21&q=2) · [Send to Slack](presserclips://clip?v=kS7wV2-91Ng&t=21&q=2&slack=1)</small>
+
+**3. Victor Wembanyama — "We had similar, but that was a good reality check for us." — Victor Wembanyama on the Detroit Pistons' physical defensive play** [01:00](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=60s)
+
+**Unidentified reporter:** "Victor, did it seem like they were as physical as any team has been with you guys so far here in the early season?"
+
+**Victor Wembanyama:** "We had similar, but that was a good reality check for us."
+
+[https://www.youtube.com/watch?v=kS7wV2-91Ng&t=60s](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=60s)
+
+<small>[Clip it](presserclips://clip?v=kS7wV2-91Ng&t=60&q=3) · [Send to Slack](presserclips://clip?v=kS7wV2-91Ng&t=60&q=3&slack=1)</small>
+
+**4. Victor Wembanyama — "It's a terrible feeling. A terrible sight. I know as much as you guys so I hope he's fine." — Victor Wembanyama on Dylan Windler's injury and impact** [01:14](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=74s)
+
+**Unidentified speaker:** "And just on Dylan, I know not much is known right now, but just seeing him down like that and then, you know, I know you went over, you were the first to go over and check on him, just your thoughts on when you see your teammate there lying on the ground and in an obvious pain?"
+
+**Victor Wembanyama:** "Yeah, it's a terrible feeling. A terrible sight. I know as much as you guys so I hope he's fine. I'll check on him today. But yeah, I just hate this. I don't know how how else I can say this."
+
+[https://www.youtube.com/watch?v=kS7wV2-91Ng&t=74s](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=74s)
+
+<small>[Clip it](presserclips://clip?v=kS7wV2-91Ng&t=74&q=4) · [Send to Slack](presserclips://clip?v=kS7wV2-91Ng&t=74&q=4&slack=1)</small>
+
+**5. Victor Wembanyama — "He's really fit into this role where we can trust him. And we know we can go to him because he's relentless." — Victor Wembanyama on Dylan Windler's role and reliability** [01:47](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=107s)
+
+**Unidentified reporter:** "Dylan has been crucial for you guys with his offense in the fourth quarter these last few games. Can you just talk about what Dylan has meant to this team in his second season and what you feel like the rest of the team needs to do to step up if he does miss time?"
+
+**Victor Wembanyama:** "Yeah, it's he's really fit into this role where we can trust him. And we know we can go to him because he's relentless for defenses. They can't rest when he's on the court because he's so able to attack the rim and so smart with his body. So it's just a reliable guy."
+
+[https://www.youtube.com/watch?v=kS7wV2-91Ng&t=107s](https://www.youtube.com/watch?v=kS7wV2-91Ng&t=107s)
+
+<small>[Clip it](presserclips://clip?v=kS7wV2-91Ng&t=107&q=5) · [Send to Slack](presserclips://clip?v=kS7wV2-91Ng&t=107&q=5&slack=1)</small>
+
+---
+
 ## Micah Nori Postgame Interview | Trail Blazers 105, Timberwolves 106 | Nov. 17, 2026 — *Portland Trail Blazers*
 
 Source: [https://www.youtube.com/watch?v=lcjynpRo8HI](https://www.youtube.com/watch?v=lcjynpRo8HI)
@@ -463,6 +571,46 @@ Micah Nori: "Number one, just brutal truths. Basically just telling guys the tru
 [https://www.youtube.com/watch?v=lcjynpRo8HI&t=325s](https://www.youtube.com/watch?v=lcjynpRo8HI&t=325s)
 
 <small>[Clip it](presserclips://clip?v=lcjynpRo8HI&t=325&q=7) · [Send to Slack](presserclips://clip?v=lcjynpRo8HI&t=325&q=7&slack=1)</small>
+
+---
+
+## Mitch Johnson on Spurs Continuing to Improve On Both Sides of the Court — *San Antonio Spurs*
+
+Source: [https://www.youtube.com/watch?v=rGo239JfSvk](https://www.youtube.com/watch?v=rGo239JfSvk)
+
+_Speakers identified: Mitch Johnson_
+
+**1. Mitch Johnson — "I just look like he slipped obviously, so hoping for the best but don't know anything yet." — Mitch Johnson provides injury update on Dylan Disu** [00:00](https://www.youtube.com/watch?v=rGo239JfSvk&t=0s)
+
+Mitch Johnson: "I just look like he slipped obviously, so hoping for the best but don't know anything yet."
+
+[https://www.youtube.com/watch?v=rGo239JfSvk&t=0s](https://www.youtube.com/watch?v=rGo239JfSvk&t=0s)
+
+<small>[Clip it](presserclips://clip?v=rGo239JfSvk&t=0&q=1) · [Send to Slack](presserclips://clip?v=rGo239JfSvk&t=0&q=1&slack=1)</small>
+
+**2. Mitch Johnson — "I thought a ton of credit, all the credit to Detroit in terms of when you look at the numbers." — Mitch Johnson credits Detroit's defensive effort and physical toughness** [00:23](https://www.youtube.com/watch?v=rGo239JfSvk&t=23s)
+
+Mitch Johnson: "I thought a ton of credit, all the credit to Detroit in terms of when you look at the numbers. A lot of things, whether you want to say not our brand, our identity up to our standard, but I mean 22 points off turnovers for them, 60 points in the paint, 24 fast break, so on and so forth. Kept us out of operating areas a good amount of the night. I thought there was some physical and mental toughness in there that's just really good feedback for us to continue to get better."
+
+[https://www.youtube.com/watch?v=rGo239JfSvk&t=23s](https://www.youtube.com/watch?v=rGo239JfSvk&t=23s)
+
+<small>[Clip it](presserclips://clip?v=rGo239JfSvk&t=23&q=2) · [Send to Slack](presserclips://clip?v=rGo239JfSvk&t=23&q=2&slack=1)</small>
+
+**3. Mitch Johnson — "Nine offensive rebounds in the second half is too many." — Mitch Johnson addresses Spurs' struggles with second-chance points** [01:19](https://www.youtube.com/watch?v=rGo239JfSvk&t=79s)
+
+Mitch Johnson: "Nine offensive rebounds in the second half is too many. I don't remember, in terms of a lot of times you just got to get it. There's a lytany of circumstances on each possession that can go into it, but at the end of the day someone's got to get that basketball when it goes off the rim or it's a miss, and nine offensive rebounds in the second half with all the other things I already said makes it really, really tough."
+
+[https://www.youtube.com/watch?v=rGo239JfSvk&t=79s](https://www.youtube.com/watch?v=rGo239JfSvk&t=79s)
+
+<small>[Clip it](presserclips://clip?v=rGo239JfSvk&t=79&q=3) · [Send to Slack](presserclips://clip?v=rGo239JfSvk&t=79&q=3&slack=1)</small>
+
+**4. Mitch Johnson — "Obviously he's a great player, he's hard to replace when he's on the bench." — Mitch Johnson discusses managing Victor Wembanyama's time on the bench** [01:49](https://www.youtube.com/watch?v=rGo239JfSvk&t=109s)
+
+Mitch Johnson: "Obviously he's a great player, he's hard to replace when he's on the bench. Just continuing to improve upon our starting spots defensively. It's very different when Victor is in the game when he's not. So I understand there's a counterintuitive or contradicting philosophy at times in terms of what we're asking the rest of the guys to do, but they're capable of that. There's gravity that's pretty straightforward in terms of when Victor is on offense and it's going to look differently when he's not in the game, and we're capable of that. Victor is not playing 48 minutes, he's not playing 82 games, and we got to keep getting better and continue to get better as a team."
+
+[https://www.youtube.com/watch?v=rGo239JfSvk&t=109s](https://www.youtube.com/watch?v=rGo239JfSvk&t=109s)
+
+<small>[Clip it](presserclips://clip?v=rGo239JfSvk&t=109&q=4) · [Send to Slack](presserclips://clip?v=rGo239JfSvk&t=109&q=4&slack=1)</small>
 
 ---
 

@@ -1,0 +1,146 @@
+{
+  "video_title": "Mitch Johnson on Spurs Continuing to Improve On Both Sides of the Court",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:00",
+      "summary_phrase": "Mitch Johnson provides injury update on Dylan Disu",
+      "names_mentioned": [
+        "Dylan Disu"
+      ],
+      "excerpt": "I just look like he slipped obviously, so hoping for the best but don't know anything yet.",
+      "quote": "I just look like he slipped obviously, so hoping for the best but don't know anything yet.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 7,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Mitch Johnson on the injury to Dylan Disu: I just look like he slipped obviously, so hoping for the best but don't know anything yet.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan Disu"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Interim head coach Mitch Johnson provides an update on Dylan Disu after the player appeared to slip during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:23",
+      "summary_phrase": "Mitch Johnson credits Detroit's defensive effort and physical toughness",
+      "names_mentioned": [],
+      "excerpt": "I thought a ton of credit, all the credit to Detroit in terms of when you look at the numbers.",
+      "quote": "I thought a ton of credit, all the credit to Detroit in terms of when you look at the numbers. A lot of things, whether you want to say not our brand, our identity up to our standard, but I mean 22 points off turnovers for them, 60 points in the paint, 24 fast break, so on and so forth. Kept us out of operating areas a good amount of the night. I thought there was some physical and mental toughness in there that's just really good feedback for us to continue to get better.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson credits Detroit for their physical and mental toughness: I thought a ton of credit, all the credit to Detroit in terms of when you look at the numbers.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the Spurs' loss to the Pistons and credits the opponent for their physical and mental toughness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:19",
+      "summary_phrase": "Mitch Johnson addresses Spurs' struggles with second-chance points",
+      "names_mentioned": [],
+      "excerpt": "Nine offensive rebounds in the second half is too many.",
+      "quote": "Nine offensive rebounds in the second half is too many. I don't remember, in terms of a lot of times you just got to get it. There's a lytany of circumstances on each possession that can go into it, but at the end of the day someone's got to get that basketball when it goes off the rim or it's a miss, and nine offensive rebounds in the second half with all the other things I already said makes it really, really tough.",
+      "text_blocks": [],
+      "start_seconds": 79,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson on the Spurs giving up nine offensive rebounds in the second half: At the end of the day someone's got to get that basketball when it goes off the rim.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson addresses the team's defensive rebounding struggles after allowing nine offensive rebounds in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:49",
+      "summary_phrase": "Mitch Johnson discusses managing Victor Wembanyama's time on the bench",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "Obviously he's a great player, he's hard to replace when he's on the bench.",
+      "quote": "Obviously he's a great player, he's hard to replace when he's on the bench. Just continuing to improve upon our starting spots defensively. It's very different when Victor is in the game when he's not. So I understand there's a counterintuitive or contradicting philosophy at times in terms of what we're asking the rest of the guys to do, but they're capable of that. There's gravity that's pretty straightforward in terms of when Victor is on offense and it's going to look differently when he's not in the game, and we're capable of that. Victor is not playing 48 minutes, he's not playing 82 games, and we got to keep getting better and continue to get better as a team.",
+      "text_blocks": [],
+      "start_seconds": 109,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mitch Johnson on managing Victor Wembanyama's minutes: Victor is not playing 48 minutes, he's not playing 82 games, and we got to keep getting better and continue to get better as a team.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mitch Johnson explains the team's defensive adjustments and philosophy when Victor Wembanyama is resting on the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "rGo239JfSvk",
+  "url": "https://www.youtube.com/watch?v=rGo239JfSvk",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-18T05:05:20Z",
+  "duration_seconds": 194,
+  "processed_at": "2026-11-18T05:52:38Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

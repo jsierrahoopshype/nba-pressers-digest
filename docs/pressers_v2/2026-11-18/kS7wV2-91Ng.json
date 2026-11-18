@@ -1,0 +1,248 @@
+{
+  "video_title": "Victor Wembanyama on Spurs Performance Against the Detroit Pistons",
+  "speakers_seen": [
+    "Victor Wembanyama",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Victor Wembanyama",
+      "speakers": [
+        "Unidentified speaker",
+        "Victor Wembanyama"
+      ],
+      "timestamp": "00:01",
+      "summary_phrase": "Victor Wembanyama on the Spurs' offensive struggles against Detroit",
+      "names_mentioned": [],
+      "excerpt": "I think it's more on us. We didn't do the right things. I think we should have been smarter.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Victor, what do you think Detroit did defensively that made it difficult for you guys to score points? It's your first night under 100 this year."
+        },
+        {
+          "speaker": "Victor Wembanyama",
+          "text": "I think it's more on us. We didn't do the right things. I think we should have been smarter."
+        }
+      ],
+      "start_seconds": 1,
+      "end_seconds": 18,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Victor Wembanyama says the Spurs offensive struggles against Detroit were more about their own execution than the Pistons defense. He noted the team should have been smarter.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama explains why the Spurs struggled offensively in their loss to the Detroit Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Victor Wembanyama",
+      "speakers": [
+        "Unidentified speaker",
+        "Victor Wembanyama"
+      ],
+      "timestamp": "00:21",
+      "summary_phrase": "Victor Wembanyama on maintaining focus while on the bench",
+      "names_mentioned": [],
+      "excerpt": "I got to focus on what I can influence and on my impact when I'm actually in the game.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Victor, there's obviously an understanding that you're not going to be able to play 48 minutes a night, but when you do have your time on the bench, is there any kind of a natural frustration when the other team goes on a 19-5 run or 20-10, whatever it might be, while you're having to sit there and wait for your minutes to come back in?"
+        },
+        {
+          "speaker": "Victor Wembanyama",
+          "text": "Yeah, but I got to focus on what I can influence and on my impact when I'm actually in the game. And even when I'm not in the game, I can impact my teammates."
+        }
+      ],
+      "start_seconds": 21,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Victor Wembanyama on watching runs from the bench: I have to focus on what I can influence and on my impact when I am actually in the game. Even when I am not in the game I can impact my teammates.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Victor Wembanyama discusses his mindset and ability to support teammates while sitting on the bench during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Victor Wembanyama",
+      "speakers": [
+        "Unidentified reporter",
+        "Victor Wembanyama"
+      ],
+      "timestamp": "01:00",
+      "summary_phrase": "Victor Wembanyama on the Detroit Pistons' physical defensive play",
+      "names_mentioned": [],
+      "excerpt": "We had similar, but that was a good reality check for us.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Victor, did it seem like they were as physical as any team has been with you guys so far here in the early season?"
+        },
+        {
+          "speaker": "Victor Wembanyama",
+          "text": "We had similar, but that was a good reality check for us."
+        }
+      ],
+      "start_seconds": 60,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Victor Wembanyama calls the physical defensive effort from the Pistons a good reality check for the Spurs.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama reflects on the physical defensive play of the Detroit Pistons during their recent matchup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Victor Wembanyama",
+      "speakers": [
+        "Unidentified speaker",
+        "Victor Wembanyama"
+      ],
+      "timestamp": "01:14",
+      "summary_phrase": "Victor Wembanyama on Dylan Windler's injury and impact",
+      "names_mentioned": [
+        "Dylan Windler"
+      ],
+      "excerpt": "It's a terrible feeling. A terrible sight. I know as much as you guys so I hope he's fine.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "And just on Dylan, I know not much is known right now, but just seeing him down like that and then, you know, I know you went over, you were the first to go over and check on him, just your thoughts on when you see your teammate there lying on the ground and in an obvious pain?"
+        },
+        {
+          "speaker": "Victor Wembanyama",
+          "text": "Yeah, it's a terrible feeling. A terrible sight. I know as much as you guys so I hope he's fine. I'll check on him today. But yeah, I just hate this. I don't know how how else I can say this."
+        }
+      ],
+      "start_seconds": 74,
+      "end_seconds": 112,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 7,
+      "social_post": "Victor Wembanyama on seeing teammate Dylan Windler go down with an injury: It is a terrible feeling. A terrible sight. I just hate this.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dylan Windler"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Victor Wembanyama reacts to seeing his teammate Dylan Windler suffer an injury during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Victor Wembanyama",
+      "speakers": [
+        "Unidentified reporter",
+        "Victor Wembanyama"
+      ],
+      "timestamp": "01:47",
+      "summary_phrase": "Victor Wembanyama on Dylan Windler's role and reliability",
+      "names_mentioned": [
+        "Dylan Windler"
+      ],
+      "excerpt": "He's really fit into this role where we can trust him. And we know we can go to him because he's relentless.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Dylan has been crucial for you guys with his offense in the fourth quarter these last few games. Can you just talk about what Dylan has meant to this team in his second season and what you feel like the rest of the team needs to do to step up if he does miss time?"
+        },
+        {
+          "speaker": "Victor Wembanyama",
+          "text": "Yeah, it's he's really fit into this role where we can trust him. And we know we can go to him because he's relentless for defenses. They can't rest when he's on the court because he's so able to attack the rim and so smart with his body. So it's just a reliable guy."
+        }
+      ],
+      "start_seconds": 107,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Victor Wembanyama praises Dylan Windler as a reliable teammate who is relentless for defenses and smart with his body.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dylan Windler"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Victor Wembanyama discusses the importance of Dylan Windler to the team's offense and his reliability on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "kS7wV2-91Ng",
+  "url": "https://www.youtube.com/watch?v=kS7wV2-91Ng",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-18T05:11:52Z",
+  "duration_seconds": 190,
+  "processed_at": "2026-11-18T05:52:37Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}

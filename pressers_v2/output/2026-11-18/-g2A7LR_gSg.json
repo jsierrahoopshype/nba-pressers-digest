@@ -1,0 +1,157 @@
+{
+  "video_title": "LaMelo Ball Postgame Interview With Sean Dorcellus | 11.17.26",
+  "speakers_seen": [
+    "LaMelo Ball",
+    "Sean Dorcellus"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Sean Dorcellus",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:01",
+      "summary_phrase": "LaMelo Ball on defensive intensity and team execution",
+      "names_mentioned": [
+        "LaMelo Ball",
+        "Sean Dorcellus"
+      ],
+      "excerpt": "Honestly defense. I mean you seen the last play, I tried to make something happen, thought I got fouled.",
+      "text_blocks": [
+        {
+          "speaker": "Sean Dorcellus",
+          "text": "LaMelo, what did it take to get this one done tonight?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Honestly defense. I mean you seen the last play, I tried to make something happen, thought I got fouled. It wasn't that, so I said on defense we got to get it back. Got it back and then my teammates did the rest, made the bucket and then one more defensive stop."
+        }
+      ],
+      "start_seconds": 1,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on the key to tonight win against a Western Conference opponent: It was all about defense. We had to get it back on the defensive end and my teammates did the rest to make the bucket and get the final stop.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball explains to a reporter how the team secured a win through defensive intensity and a final stop.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:21",
+      "summary_phrase": "LaMelo Ball on maintaining focus for back-to-back wins",
+      "names_mentioned": [
+        "LaMelo Ball",
+        "Sean Dorcellus"
+      ],
+      "excerpt": "Pretty much just dig deep, lock in, stay focused, listen to the coaches and follow the game plan.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "The mentality for this, back-to-back nights, back-to-back wins. What did it take to get both of these against the Western Conference foe?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Pretty much just dig deep, lock in, stay focused, listen to the coaches and follow the game plan pretty much."
+        }
+      ],
+      "start_seconds": 21,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "LaMelo Ball on the mentality for back to back wins: You have to dig deep, lock in, stay focused, listen to the coaches and follow the game plan.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "LaMelo Ball describes the team's mentality during back-to-back games and the importance of following the coaching staff's game plan.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:35",
+      "summary_phrase": "LaMelo Ball on the team's high level of offensive talent",
+      "names_mentioned": [
+        "LaMelo Ball",
+        "Sean Dorcellus"
+      ],
+      "excerpt": "I feel like all the teams I've been on have been blessings.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Last night it was TJ with the 30 ball. Tonight it was I with the 30 ball. Have you ever played on a team that has this much offensive talent?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I can't do my dogs in the past, but I feel like all the teams I've been on have been blessings."
+        }
+      ],
+      "start_seconds": 35,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on the offensive talent of this Timberwolves roster: I cannot do my dogs in the past, but I feel like all the teams I have been on have been blessings.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "TJ"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball reflects on the offensive talent of his current team compared to his past experiences after a high-scoring performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "-g2A7LR_gSg",
+  "url": "https://www.youtube.com/watch?v=-g2A7LR_gSg",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-18T05:03:20Z",
+  "duration_seconds": 60,
+  "processed_at": "2026-11-18T05:52:32Z",
+  "run_id": "2026-11-18-overnight",
+  "is_one_off": false
+}
