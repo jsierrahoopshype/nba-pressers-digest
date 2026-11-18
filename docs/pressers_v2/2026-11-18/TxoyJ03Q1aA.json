@@ -1,0 +1,183 @@
+{
+  "video_title": "Derrick White Discusses Returning Home to Colorado | Celtics Pregame Interview",
+  "speakers_seen": [
+    "Derrick White"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Derrick White",
+      "timestamp": "00:59",
+      "summary_phrase": "Derrick White on his increased involvement and role with the Celtics",
+      "names_mentioned": [],
+      "excerpt": "It's been amazing. It's weird I just seen them in Boston, they play Providence.",
+      "quote": "It's been amazing. It's weird I just seen them in Boston, they play Providence. So I saw them live there and they played today, so unfortunate that I won't be able to get up there, but it's been a lot of fun just getting back with the team and getting back with CU.",
+      "text_blocks": [],
+      "start_seconds": 59,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Derrick White says it has been a lot of fun getting back with his former team at CU while in Colorado for the Celtics game.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Derrick White discusses his return to Colorado and his connection with the University of Colorado basketball team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Derrick White",
+      "timestamp": "02:13",
+      "summary_phrase": "Derrick White on integrating new players and evolving team chemistry",
+      "names_mentioned": [],
+      "excerpt": "We added a lot of unique guys that can do a lot of different things.",
+      "quote": "We added a lot of unique guys that can do a lot of different things, so I think we're just finding different ways to win, different ways to get everybody involved, different ways to attack defenses. That's just going to be something that's going to be evolving throughout the year and as teams start figuring out what we're trying to do, we need to make adjustments to be better at executing what we want to do. It's a never-ending process of just getting better, making adjustments, and making it a group.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Derrick White on the Celtics offense: We are finding different ways to win and different ways to attack defenses. It is a never ending process of getting better and making adjustments.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Derrick White explains how the Celtics are evolving their team chemistry and adjusting their offensive approach throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Derrick White",
+      "timestamp": "02:46",
+      "summary_phrase": "Derrick White on Chris Kristaps Porziņģis's growth and adaptability",
+      "names_mentioned": [
+        "Chris Kristaps Porziņģis"
+      ],
+      "excerpt": "He's willing to learn, to listen. Since I've been here, he's gotten so much better.",
+      "quote": "Obviously super athletic, talented, can do a little bit of everything, can really move. I like the most just his willingness to learn, to listen. Since I've been here, he's gotten so much better and more comfortable and he can really play. It's great to see him continue to get better and when his number is called, he's ready to go.",
+      "text_blocks": [],
+      "start_seconds": 166,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Derrick White praises Kristaps Porzingis for his willingness to learn and listen, noting that he has gotten much better and more comfortable since joining the Celtics.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kristaps Porziņģis"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derrick White praises Kristaps Porziņģis for his adaptability and his willingness to learn since joining the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Derrick White",
+      "timestamp": "04:01",
+      "summary_phrase": "Derrick White on Mike Conley's veteran leadership and team presence",
+      "names_mentioned": [
+        "Mike Conley"
+      ],
+      "excerpt": "He's someone that can connect with every person on the team and not everybody can do that.",
+      "quote": "He's amazing. He's someone that can connect with every person on the team and not everybody can do that. He's got everybody's respect and just the way he goes about his business, we got a lot of love and trust for him, so it's been great to have him and someone we can always lean on.",
+      "text_blocks": [],
+      "start_seconds": 241,
+      "end_seconds": 263,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Derrick White on Mike Conley: He is someone that can connect with every person on the team. He has got everybody's respect and is someone we can always lean on.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mike Conley"
+        ],
+        "teams": [
+          "BOS",
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derrick White shares his respect for Mike Conley and his ability to lead and connect with teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Derrick White",
+      "timestamp": "04:21",
+      "summary_phrase": "Derrick White on the challenge of defending Nikola Jokić and Jamal Murray",
+      "names_mentioned": [
+        "Nikola Jokić",
+        "Jamal Murray"
+      ],
+      "excerpt": "They're both really, really, really good. I think it's the toughest one.",
+      "quote": "They're both really, really, really good. I think it's the toughest one. If you go put two on Jokić, then Jamal will beat you, and if you don't pay attention to Jokić, then okay with the short roll and stuff. They have a lot of chemistry, they've played a lot of games together, so they've seen every sort of defense and it's definitely a challenge for for the team.",
+      "text_blocks": [],
+      "start_seconds": 261,
+      "end_seconds": 288,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Derrick White calls defending Jokic and Murray the toughest challenge in the league because they have seen every sort of defense and have so much chemistry together.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokić",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Derrick White describes the difficulty of defending the duo of Nikola Jokić and Jamal Murray due to their chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "TxoyJ03Q1aA",
+  "url": "https://www.youtube.com/watch?v=TxoyJ03Q1aA",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-18T18:32:54Z",
+  "duration_seconds": 322,
+  "processed_at": "2026-11-18T21:54:49Z",
+  "run_id": "2026-11-18T2153Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

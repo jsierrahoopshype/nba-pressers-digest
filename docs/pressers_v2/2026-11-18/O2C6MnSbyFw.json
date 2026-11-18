@@ -1,0 +1,171 @@
+{
+  "video_title": "Jaime Jaquez Jr. Shootaround Media Availability | 11.18.26",
+  "speakers_seen": [
+    "Jaime Jaquez Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "00:18",
+      "summary_phrase": "Jaime Jaquez Jr. reflects on his NBA career start in Miami",
+      "names_mentioned": [],
+      "excerpt": "I just remember this is where I started my NBA career.",
+      "quote": "I just remember this is where I started my NBA career. Being drafted here was one of the greatest moments of my life, being in the NBA for the first time and having this organization be the one to draft me for the three years that I was here. Now I am off on the rest of my career and my journey throughout the NBA, so it was a great place to start.",
+      "text_blocks": [],
+      "start_seconds": 18,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jaime Jaquez Jr reflects on his start in Miami as he returns to face his former team. He says being drafted by the Heat was one of the greatest moments of his life and he appreciates how the city embraced him.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. reflects on his time with the Miami Heat after being drafted by the organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "00:43",
+      "summary_phrase": "Jaime Jaquez Jr. on his growth as a player and person",
+      "names_mentioned": [],
+      "excerpt": "I feel like I have grown so much, just continuing to grow as a man, as a player.",
+      "quote": "I feel like I have grown so much, just continuing to grow as a man, as a player, just trying to be a better person every single day. It is great that I was able to get my feet wet here, really my first time away from living out of California for the first time. I appreciate how the city embraced me and the team and coaches, it was a great time.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jaime Jaquez Jr says he has grown as a man and a player since his rookie season in Miami. He credits the city and the organization for helping him adjust to life outside of California for the first time.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. discusses his personal and professional growth since moving away from California to play for Miami.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "01:14",
+      "summary_phrase": "Jaime Jaquez Jr. on competing against his former Heat teammates",
+      "names_mentioned": [],
+      "excerpt": "We are all competitors at the end of the day, so anytime we get a chance to compete.",
+      "quote": "We are all competitors at the end of the day, so anytime we get a chance to compete, we are all going to be happy. It is going to be fun playing against these guys. Obviously, I had a lot of history with them, so I am excited to go against them for the first time tonight.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Jaime Jaquez Jr is looking forward to facing his former Heat teammates tonight. He says we are all competitors at the end of the day and he is excited to go against them for the first time.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaime Jaquez Jr. shares his excitement about competing against his former Miami Heat teammates for the first time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "01:52",
+      "summary_phrase": "Jaime Jaquez Jr. on his professional relationship with Erik Spoelstra",
+      "names_mentioned": [
+        "Erik Spoelstra"
+      ],
+      "excerpt": "It is still good, it is business at the end of the day, we are all professionals.",
+      "quote": "It is still good, it is business at the end of the day, we are all professionals. Personally, I think we all still have great relationships and no hard feelings, but like I said, just excited to get out there and compete on a professional level and just excited to get out there tonight.",
+      "text_blocks": [],
+      "start_seconds": 112,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jaime Jaquez Jr says there are no hard feelings regarding his relationship with Erik Spoelstra and the Heat. He notes that it is business at the end of the day and everyone involved remains professional.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Erik Spoelstra"
+        ],
+        "teams": [
+          "MIL",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. describes his current relationship with his former head coach Erik Spoelstra.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "02:33",
+      "summary_phrase": "Jaime Jaquez Jr. on the cultural impact of GTA 6",
+      "names_mentioned": [],
+      "excerpt": "I have never seen a video game have so much influence throughout the entire world.",
+      "quote": "I have never seen a video game have so much influence throughout the entire world. I see the cities lit up with GTA 6 stuff. I am buying into the hype, I am going to buy it and download it. I never really played GTA other than if a friend had it or something, but I think this time I am going to do it and see what it is like, so I am excited.",
+      "text_blocks": [],
+      "start_seconds": 153,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 7,
+      "social_post": "Jaime Jaquez Jr is officially buying into the GTA 6 hype. He says he has never seen a video game have so much influence throughout the entire world and he plans to download it.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. expresses his interest in the upcoming release of the video game GTA 6.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "O2C6MnSbyFw",
+  "url": "https://www.youtube.com/watch?v=O2C6MnSbyFw",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-18T18:52:51Z",
+  "duration_seconds": 181,
+  "processed_at": "2026-11-18T21:54:46Z",
+  "run_id": "2026-11-18T2153Z-14utc",
+  "is_one_off": false
+}

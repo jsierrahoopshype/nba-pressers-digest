@@ -34,7 +34,25 @@ From: [YouTube title: How Memphis Is DIFFERENT From Rest Of NBA + Wolves Winning
 
 <small>[Clip it](presserclips://clip?v=cMRRSS3C9Pk&t=881&q=4) · [Send to Slack](presserclips://clip?v=cMRRSS3C9Pk&t=881&q=4&slack=1)</small>
 
-**4. Tim McMahon — "It's going to reach a point before the trade deadline where you got to make a decision and that's either trade him or pay him." — The Wizards face a difficult trade or pay decision with Anthony Davis** [02:43](https://www.youtube.com/watch?v=DxyEZg3qkgE&t=163s)
+**4. Kendrick Perkins — "When Kevin Garnett went out in the season and it was time for Perk to step up, I was getting you double digits." — Kendrick Perkins challenges Draymond Green's offensive production without Steph Curry** [00:00](https://www.youtube.com/watch?v=4UMbhXotepQ&t=0s)
+
+**Kendrick Perkins:** "When **Kevin Garnett** went out in the season and it was time for Perk to step up, I was getting you double digits. When it was time for me to step up in the playoffs, I was getting you double digits. I was getting 12 to 15 points a game, sometimes 20. When **Kevin Garnett** went out, the Celtics defense didn't drop and I was anchoring. When **Kevin Garnett** went out, my points went up."
+
+**Richard Jefferson:** "What's your career high?"
+
+**Kendrick Perkins:** "29."
+
+**Channing Frye:** "No, 27."
+
+**Kendrick Perkins:** "26."
+
+[https://www.youtube.com/watch?v=4UMbhXotepQ&t=0s](https://www.youtube.com/watch?v=4UMbhXotepQ&t=0s)
+
+From: [Perk to Draymond Green With Steph Out: "You Can't Get 10?"](https://www.youtube.com/watch?v=4UMbhXotepQ) · *Road Trippin*
+
+<small>[Clip it](presserclips://clip?v=4UMbhXotepQ&t=0&q=1) · [Send to Slack](presserclips://clip?v=4UMbhXotepQ&t=0&q=1&slack=1)</small>
+
+**5. Tim McMahon — "It's going to reach a point before the trade deadline where you got to make a decision and that's either trade him or pay him." — The Wizards face a difficult trade or pay decision with Anthony Davis** [02:43](https://www.youtube.com/watch?v=DxyEZg3qkgE&t=163s)
 
 Tim McMahon: "The **Anthony Davis** thing, look, it's going to reach a point before the trade deadline where you got to make a decision and that's either trade him or pay him. And I think there's big problems with either of those scenarios. Because if you're paying him, unless there's a significant turnaround, you've got a really expensive team that needs to improve to reach mediocrity. That's not a good thing."
 
@@ -44,7 +62,7 @@ From: [Will The Wizards Trade Anthony Davis Before Deadline?](https://www.youtub
 
 <small>[Clip it](presserclips://clip?v=DxyEZg3qkgE&t=163&q=4) · [Send to Slack](presserclips://clip?v=DxyEZg3qkgE&t=163&q=4&slack=1)</small>
 
-**5. Lou Williams — "We got to start adding Boston into that conversation. They have a certain recipe that works for them." — Boston Celtics belong in the best run organizations conversation** [02:45](https://www.youtube.com/watch?v=Gzj8LRQh520&t=165s)
+**6. Lou Williams — "We got to start adding Boston into that conversation. They have a certain recipe that works for them." — Boston Celtics belong in the best run organizations conversation** [02:45](https://www.youtube.com/watch?v=Gzj8LRQh520&t=165s)
 
 Lou Williams: "I'm done rooting against the Boston Celtics as long as they got some talent in uniform because of their leadership. You got **Joe Mazzulla** and **Brad** and be able to go from the sideline to the boardroom and still have an impact and have a pulse on what this team needs for them. We've talked about the Miami Heats of the world, the San Antonio Spurs of the world, these plug and play organizations that kind of have a recipe for how they like to do things. We got to start adding Boston into that conversation. They have a certain recipe that works for them. They have a style of play that they like and they go out and they get guys that fit that mold. They're going to live and die by that brand of basketball and it's worked for them. They've gotten a championship out of it. They've been highly competitive with their star players in and out of the lineups for serious injuries and they've kept going. They've traded **Jaylen Brown** away and they're still going. **Jayson Tatum** tore his Achilles up, they were still going. At some point you have to believe that some of these things that they are going through and they're being able to get through is because of the leadership and the guys they have in the position for that. So you got to start adding them in the conversation of being one of the best run organizations."
 
@@ -54,7 +72,7 @@ From: [Celtics BEST Ran Organization in the NBA?!?](https://www.youtube.com/watc
 
 <small>[Clip it](presserclips://clip?v=Gzj8LRQh520&t=165&q=3) · [Send to Slack](presserclips://clip?v=Gzj8LRQh520&t=165&q=3&slack=1)</small>
 
-**6. DeMarcus Cousins — "I think the expectations were a little bit too high for this Mavericks group right now." — Dallas Mavericks are a rebuilding team with high expectations** [07:55](https://www.youtube.com/watch?v=Gzj8LRQh520&t=475s)
+**7. DeMarcus Cousins — "I think the expectations were a little bit too high for this Mavericks group right now." — Dallas Mavericks are a rebuilding team with high expectations** [07:55](https://www.youtube.com/watch?v=Gzj8LRQh520&t=475s)
 
 DeMarcus Cousins: "I don't think the expectations were with them being a above 500 team this year. I think they're also a group going through the motions, going through teaching young guys how to be in this league. Obviously **Cooper Flagg** is a young star in this league, a future superstar. He's showing that he has the potential to be one of the faces of this league eventually, but he's a second year guy. **Kyrie** is coming back off injury, he's still getting back in the mid form, but outside of that, I don't see, you know, just a group of outstanding talent. Like they're kind of going through a rebuild, figuring out what their future is. Obviously they know what their future foundation piece is in **Cooper Flagg**, but we still have to figure out everything around it. As of right now, the only solid pieces are Cooper and **Kyrie**. So I think the expectations are a little bit too high for this Mavericks group right now. And if they do make the playoffs, you know, great for them, but like I said, I don't think that was anybody's expectation coming into this season."
 
@@ -64,7 +82,7 @@ From: [Celtics BEST Ran Organization in the NBA?!?](https://www.youtube.com/watc
 
 <small>[Clip it](presserclips://clip?v=Gzj8LRQh520&t=475&q=6) · [Send to Slack](presserclips://clip?v=Gzj8LRQh520&t=475&q=6&slack=1)</small>
 
-**7. Tim MacMahon — "his leadership has been immense. Like, he's a tough guy, he's a smart guy" — Jaden McDaniels' leadership has been immense for the Timberwolves** [30:45](https://www.youtube.com/watch?v=cMRRSS3C9Pk&t=1845s)
+**8. Tim MacMahon — "his leadership has been immense. Like, he's a tough guy, he's a smart guy" — Jaden McDaniels' leadership has been immense for the Timberwolves** [30:45](https://www.youtube.com/watch?v=cMRRSS3C9Pk&t=1845s)
 
 Tim MacMahon: "His leadership has been immense. Like, he's a tough guy, he's a smart guy, he's a team-first guy. And he's like, they're not going to be like some big long highlight reel, because he doesn't do spectacular things. He does simple things really well. His shooting, he's averaging almost 18 a game, shooting 52, 43, 91, and playing great defense. When you talk about the most impactful trades at last year's deadline, there were a lot of bigger names moved. There's nobody who's moved the needle more than **Jaden McDaniels**."
 
@@ -73,6 +91,46 @@ Tim MacMahon: "His leadership has been immense. Like, he's a tough guy, he's a s
 From: [YouTube title: How Memphis Is DIFFERENT From Rest Of NBA + Wolves Winning Without Ant & Paul George’s Renaissance](https://www.youtube.com/watch?v=cMRRSS3C9Pk) · *NBA on ESPN*
 
 <small>[Clip it](presserclips://clip?v=cMRRSS3C9Pk&t=1845&q=10) · [Send to Slack](presserclips://clip?v=cMRRSS3C9Pk&t=1845&q=10&slack=1)</small>
+
+---
+
+## Perk to Draymond Green With Steph Out: "You Can't Get 10?" — *Road Trippin*
+
+Source: [https://www.youtube.com/watch?v=4UMbhXotepQ](https://www.youtube.com/watch?v=4UMbhXotepQ)
+
+_Speakers identified: Richard Jefferson, Allie Clifton, Kendrick Perkins, Channing Frye_
+
+**1. Kendrick Perkins — "When Kevin Garnett went out in the season and it was time for Perk to step up, I was getting you double digits." — Kendrick Perkins challenges Draymond Green's offensive production without Steph Curry** [00:00](https://www.youtube.com/watch?v=4UMbhXotepQ&t=0s)
+
+**Kendrick Perkins:** "When **Kevin Garnett** went out in the season and it was time for Perk to step up, I was getting you double digits. When it was time for me to step up in the playoffs, I was getting you double digits. I was getting 12 to 15 points a game, sometimes 20. When **Kevin Garnett** went out, the Celtics defense didn't drop and I was anchoring. When **Kevin Garnett** went out, my points went up."
+
+**Richard Jefferson:** "What's your career high?"
+
+**Kendrick Perkins:** "29."
+
+**Channing Frye:** "No, 27."
+
+**Kendrick Perkins:** "26."
+
+[https://www.youtube.com/watch?v=4UMbhXotepQ&t=0s](https://www.youtube.com/watch?v=4UMbhXotepQ&t=0s)
+
+<small>[Clip it](presserclips://clip?v=4UMbhXotepQ&t=0&q=1) · [Send to Slack](presserclips://clip?v=4UMbhXotepQ&t=0&q=1&slack=1)</small>
+
+**2. Richard Jefferson — "You're never as bad as you thought and you're never as good as you thought." — Richard Jefferson on the importance of film study for player development** [03:10](https://www.youtube.com/watch?v=4UMbhXotepQ&t=190s)
+
+Richard Jefferson: "You have to watch a crazy amount of film because that's the only thing that's going to make you even keel. When you don't know, you're emotionally invested in every play. When you watch film, then you realize you're never as bad as you thought and you're never as good as you thought. And then you learn and then you can approach the next day like, okay, here we go."
+
+[https://www.youtube.com/watch?v=4UMbhXotepQ&t=190s](https://www.youtube.com/watch?v=4UMbhXotepQ&t=190s)
+
+<small>[Clip it](presserclips://clip?v=4UMbhXotepQ&t=190&q=2) · [Send to Slack](presserclips://clip?v=4UMbhXotepQ&t=190&q=2&slack=1)</small>
+
+**3. Richard Jefferson — "If you take Steph Curry, Kristaps Porzingis and Jimmy Butler off your team, your record is going to look like this." — Richard Jefferson explains why team success depends on top-tier talent** [03:34](https://www.youtube.com/watch?v=4UMbhXotepQ&t=214s)
+
+Richard Jefferson: "If you take **Steph Curry**, **Kristaps Porzingis** and **Jimmy Butler** off your team, your record is going to look like this. So, respect to him to continue to perform, but their record is going to look like that. If you take the top three players off of any team, you take LaMelo, Ant and you take **Jaden McDaniels** off their team, I don't care how good the rookie is, you could have **Kentavious Caldwell-Pope**, your number is going to be good, you're going to take Ls. You can't feel that pressure of like they still got me, I'm going to win. Not that you're not talented enough, but there is a game management that great players have that put them in a position of, okay, now I got to score, now I got to pace, okay, we're down, okay, the sub. There is a management that goes involved into it."
+
+[https://www.youtube.com/watch?v=4UMbhXotepQ&t=214s](https://www.youtube.com/watch?v=4UMbhXotepQ&t=214s)
+
+<small>[Clip it](presserclips://clip?v=4UMbhXotepQ&t=214&q=3) · [Send to Slack](presserclips://clip?v=4UMbhXotepQ&t=214&q=3&slack=1)</small>
 
 ---
 

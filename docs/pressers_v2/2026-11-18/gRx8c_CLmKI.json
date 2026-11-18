@@ -1,0 +1,198 @@
+{
+  "video_title": "Devin Carter on Dealing with the Worst Illness He's Ever Had | Celtics Pregame Interview",
+  "speakers_seen": [
+    "Devin Carter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Devin Carter",
+      "timestamp": "00:05",
+      "summary_phrase": "Devin Carter on his physical recovery from recent illness",
+      "names_mentioned": [],
+      "excerpt": "I lost 10 pounds, but starting to put it back on and yeah, get some good G League games in.",
+      "quote": "It has been a blessing regardless. Everybody is going to go through something, so it is just a mindset back. Definitely coming back into my body. I lost 10 pounds, but starting to put it back on and yeah, get some good G League games in.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Devin Carter says he is working his way back after losing 10 pounds during a recent illness. He is currently focused on regaining his conditioning through G League action.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Devin Carter discusses his physical recovery and weight loss after suffering from a severe illness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Devin Carter",
+      "timestamp": "00:25",
+      "summary_phrase": "Devin Carter describes the physical impact of his illness",
+      "names_mentioned": [],
+      "excerpt": "I still feel fatigue, more so energy low. Only you play two minutes and everything shuts down.",
+      "quote": "I still feel fatigue, more so energy low. Only you play two minutes and everything shuts down. And then just building that back up. Obviously the way I play is tough to not be tired, so on top of the way I play, dealing with the sickness is just tough. But I am not in a rush, but I definitely feel myself coming back into shape and playing a lot better.",
+      "text_blocks": [],
+      "start_seconds": 25,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Devin Carter describes the lingering effects of his illness, noting that he still deals with fatigue and low energy after short bursts of play as he works to get back into game shape.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Devin Carter describes the lingering fatigue and physical challenges he faces while returning to game shape after his illness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Devin Carter",
+      "timestamp": "01:22",
+      "summary_phrase": "Devin Carter on the frustration of his illness timing",
+      "names_mentioned": [],
+      "excerpt": "I definitely was upset the timing of that happened because I had a good game in Cleveland.",
+      "quote": "Everybody wants to get signed to a deal, you feel more secure. But I definitely was upset the timing of that happened because I had a good game in Cleveland. I was looking forward to playing the rest of the preseason and showing what I worked on all summer and then everything gets stripped quick. But I am working back into it, so feeling good.",
+      "text_blocks": [],
+      "start_seconds": 82,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Devin Carter admits he was frustrated by the timing of his illness, which sidelined him just as he was building momentum following a strong preseason performance in Cleveland.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Devin Carter expresses frustration regarding the timing of his illness, which interrupted his momentum following a preseason game in Cleveland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Devin Carter",
+      "timestamp": "02:13",
+      "summary_phrase": "Devin Carter on using G League games for conditioning",
+      "names_mentioned": [
+        "Craig"
+      ],
+      "excerpt": "I think G League is actually been very helpful so far, getting my wind back.",
+      "quote": "I am watching the games and then I am getting edits of the games. Even the G League games I am playing, Coach Craig is clipping stuff and sending it, and we are watching them together. I think G League is actually been very helpful so far, getting my wind back and getting reps in that I missed out on for four weeks.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Devin Carter says the G League has been helpful for his recovery, allowing him to get his wind back and log necessary reps after missing four weeks of action.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Devin Carter explains how he is using G League games and film study with his coach to regain his conditioning.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Devin Carter",
+      "timestamp": "02:35",
+      "summary_phrase": "Devin Carter on his role and mindset as a perimeter defender",
+      "names_mentioned": [],
+      "excerpt": "Picking up full court, being a point of attack defender, taking care of the ball.",
+      "quote": "Picking up full court, being a point of attack defender, taking care of the ball, trying not to turn the ball over, playmaking, whatever the team needs in the moment, guarding the best player. I think I do a good job of just doing the little things that help the team win.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Devin Carter outlines his role with the Celtics, emphasizing his focus on being a point of attack defender, taking care of the ball, and doing the little things to help the team win.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Devin Carter outlines his approach to his role as a perimeter defender and playmaker for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Devin Carter",
+      "timestamp": "03:35",
+      "summary_phrase": "Devin Carter on the team chemistry and work ethic of the Celtics",
+      "names_mentioned": [],
+      "excerpt": "Chemistry on the team is at all time high. I have never been a part of a team with chemistry like this.",
+      "quote": "How hard everybody works. Everybody wants to show up, everybody wants to be around people, everybody wants to get better. Chemistry on the team is at all time high. I have never been a part of a team with chemistry like this. We do stuff off the court and it is just great to be around.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 233,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Devin Carter says the chemistry on this Celtics team is at an all time high, adding that he has never been part of a group that works as hard or spends as much time together off the court.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Devin Carter praises the work ethic and chemistry of his Celtics teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "gRx8c_CLmKI",
+  "url": "https://www.youtube.com/watch?v=gRx8c_CLmKI",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-18T18:37:12Z",
+  "duration_seconds": 233,
+  "processed_at": "2026-11-18T21:54:50Z",
+  "run_id": "2026-11-18T2153Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
