@@ -2831,5 +2831,38 @@
    "slot_date": "2026-11-17"
   }
  },
- "pending": {}
+ "pending": {
+  "-IHbjwaawnI": {
+   "channel": "Oklahoma City Thunder",
+   "clip_count": 17,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-18T02:27:03Z",
+   "run_id": "2026-11-18T0225Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": false,
+   "slot_date": "2026-11-17",
+   "speaker": "Nique Clifford",
+   "title": "Practice Media Availability with Nique Clifford | November 17, 2026 | OKC Thunder",
+   "top_quote": "A lot of guys similar to myself, just hard workers that enjoy being a part of a team, being around each other each and every day, and just show up as a professional every day into the building. It's been a seamless transition. It's been quite easy to get along with all the guys, a lot of great dudes, so it's been a lot of fun so far.",
+   "video_id": "-IHbjwaawnI"
+  },
+  "dfShEMKmBhQ": {
+   "channel": "San Antonio Spurs",
+   "clip_count": 8,
+   "content_type": "presser",
+   "date": "2026-11-17",
+   "is_one_off": false,
+   "queued_at": "2026-11-18T02:27:03Z",
+   "run_id": "2026-11-18T0225Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-17",
+   "speaker": "Mitch Johnson",
+   "title": "Mitch Johnson on Spurs Winning Streak",
+   "top_quote": "He's progressing, doing well, and continuing to be in a good spot and excited for the ramp up for him.",
+   "video_id": "dfShEMKmBhQ"
+  }
+ }
 }

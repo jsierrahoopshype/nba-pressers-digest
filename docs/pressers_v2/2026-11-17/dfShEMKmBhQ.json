@@ -1,0 +1,267 @@
+{
+  "video_title": "Mitch Johnson on Spurs Winning Streak",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:10",
+      "summary_phrase": "Tobias Harris's recovery progress and return timeline",
+      "names_mentioned": [
+        "Tobias Harris"
+      ],
+      "excerpt": "He's progressing, doing well, and continuing to be in a good spot.",
+      "quote": "He's progressing, doing well, and continuing to be in a good spot and excited for the ramp up for him.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 18,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson says Tobias Harris is progressing well and the team is focused on a methodical ramp up for his return.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tobias Harris"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Mitch Johnson provides an update on the recovery progress of Tobias Harris.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:22",
+      "summary_phrase": "Uncertainty regarding Tobias Harris's return before Christmas",
+      "names_mentioned": [
+        "Tobias Harris"
+      ],
+      "excerpt": "For his sake, I hope so. But again, we will take it very methodical.",
+      "quote": "For his sake, I hope so. But again, we will take it very methodical and whenever he comes back, it will be later than he wanted and later than he probably could, but at this stage, the reward over the risk.",
+      "text_blocks": [],
+      "start_seconds": 22,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Mitch Johnson says the Spurs will be cautious with Tobias Harris and prioritize reward over risk, noting his return will be later than he wants.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tobias Harris"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Mitch Johnson discusses the cautious approach to Tobias Harris returning to the court.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:00",
+      "summary_phrase": "New players integrating into the Spurs' team culture",
+      "names_mentioned": [],
+      "excerpt": "You want to show how you can help. You want to impact positive.",
+      "quote": "Especially new to the program, you want to show how you can help. You want to impact positive. You want to join the party, so to speak, and he was excited about joining our program. That's a guy that had a lot of options and was a highly sought person during the summer. So his perspective has been great. He has been extremely engaging and helpful in as many ways as he can and looking forward to adding on the court to that long list.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Mitch Johnson praises the integration of new players, noting that even with many options in the summer, they were excited about joining the Spurs program.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tobias Harris"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mitch Johnson discusses the integration of new players like Tobias Harris into the Spurs program.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "02:12",
+      "summary_phrase": "The Spurs' core group maintaining a competitive standard",
+      "names_mentioned": [],
+      "excerpt": "There's been a core group of these guys who've been here long enough that have earned the expectation.",
+      "quote": "There's been a core group of these guys who've been here long enough that have earned the expectation and deserved reputation of competitiveness, of consistency, of effort, of fight. We had some guys here that have been here longer than others that we used to talk about how when we used to lose a lot of games, we still played hard to the end and made it closer than a lot of people thought. So it's still present, just maybe some different circumstances, but those guys deserve that recognition.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Mitch Johnson credits the Spurs core group for maintaining a reputation of competitiveness and effort regardless of the team's record.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson reflects on the competitive culture established by the veteran core of the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mitch Johnson",
+      "timestamp": "03:40",
+      "summary_phrase": "Maintaining coaching standards despite the team's winning streak",
+      "names_mentioned": [],
+      "excerpt": "We're going to coach the same way. If we lost a few games, that doesn't make us.",
+      "quote": "We're going to coach the same way. If we lost a few games, that doesn't make us all of a sudden light years behind to where we are now because we won some of those games. There were some plays when games were in the balance and those guys in there made some plays and executed some things and that's a positive and something to build upon. There's a ton of things that we need to clean up and continue to improve upon.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson says the coaching staff will maintain the same standards during the winning streak, noting there are still a ton of things to clean up.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mitch Johnson explains that the coaching staff maintains the same standards regardless of recent game results.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mitch Johnson",
+      "timestamp": "05:04",
+      "summary_phrase": "The importance of off-court development for Spurs players",
+      "names_mentioned": [
+        "Manu Ginobili"
+      ],
+      "excerpt": "Part of the corporate knowledge of being with the Spurs or a Spur for those players is.",
+      "quote": "Part of the corporate knowledge of being with the Spurs or a Spur for those players is a good amount of that. It's about talking to Manu Ginobili about off-the-court development. It's seeing alumni in our walls and being able to have informal conversations and pick their brain and ask them questions in an intimate setting where it doesn't need to be a politically correct answer. It's about understanding the relationship that we have with the community and our fans and how we don't have the traditional fan base or relationship where it's mostly tied to wins and losses.",
+      "text_blocks": [],
+      "start_seconds": 304,
+      "end_seconds": 342,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Mitch Johnson highlights the value of Spurs players having informal access to alumni like Manu Ginobili for off the court development.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Manu Ginobili"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson describes how players benefit from interacting with Spurs alumni like Manu Ginobili.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Mitch Johnson",
+      "timestamp": "06:35",
+      "summary_phrase": "The impact of three-point defense on team performance",
+      "names_mentioned": [],
+      "excerpt": "The more you peel back the layers at some of the three-point stuff there can be a lot.",
+      "quote": "The more you peel back the layers at some of the three-point stuff there can be a lot that goes into it. On the surface level, we're trying to be disciplined in terms of where we pressure the basketball, where we facilitate or try to help dictate the basketball to go when we're on defense. We're trying to make sure that we're closing out appropriately and rotating. Until there's been some progress there, still some progress to be had, but I sometimes pause a little bit with some of that stuff because that stuff can fluctuate pretty quickly.",
+      "text_blocks": [],
+      "start_seconds": 395,
+      "end_seconds": 433,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Mitch Johnson discusses the Spurs defensive approach to three point shooting, noting that he sometimes pauses on the metrics because that stuff can fluctuate pretty quickly.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the team's defensive strategy regarding three-point shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Mitch Johnson",
+      "timestamp": "07:50",
+      "summary_phrase": "The Spurs' unique relationship with the military community",
+      "names_mentioned": [],
+      "excerpt": "When I think of San Antonio, at least there's a few brands, companies, organizations, types of people.",
+      "quote": "When I think of San Antonio, at least there's a few brands, companies, organizations, types of people, I guess you could say. Spurs are one, H-E-B is one, USAA, right? And I think at the top of that list is the military. It shows itself here in so many ways whether active or retired or in different aspects and yeah, we have quite a relationship and been able to be very blessed to have quite some experiences with various different avenues in that world and just very grateful and appreciative of all they do and represent for us.",
+      "text_blocks": [],
+      "start_seconds": 470,
+      "end_seconds": 508,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Mitch Johnson reflects on the Spurs unique relationship with the San Antonio military community, calling it a top priority for the organization.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson speaks about the Spurs' connection to the San Antonio military community.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "dfShEMKmBhQ",
+  "url": "https://www.youtube.com/watch?v=dfShEMKmBhQ",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-18T00:28:35Z",
+  "duration_seconds": 522,
+  "processed_at": "2026-11-18T02:26:43Z",
+  "run_id": "2026-11-18T0225Z-20utc",
+  "is_one_off": false
+}

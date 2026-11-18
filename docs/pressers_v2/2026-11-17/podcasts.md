@@ -24,7 +24,27 @@ From: [Nba Gameday Vlog! Behind The Scenes Of How Pregame Of An NBA Game Goes! I
 
 <small>[Clip it](presserclips://clip?v=6oiWGD1qZp4&t=300&q=1) · [Send to Slack](presserclips://clip?v=6oiWGD1qZp4&t=300&q=1&slack=1)</small>
 
-**3. Michelle Beadle — "We just got the shit beat out of us, I was flustered the entire game." — Yaxel's reaction to the Spurs loss** [03:45](https://www.youtube.com/watch?v=or_JcuQIwUU&t=225s)
+**3. Channing Frye — "Is Jayson Tatum out of that group, a top three or four scorer? No." — Channing Frye evaluates Jayson Tatum's standing among top players** [12:05](https://www.youtube.com/watch?v=j41zIbbgYDI&t=725s)
+
+Channing Frye: "Let's give down to brass tacks. Is **Jayson Tatum** out of that group, a top three or four scorer? No. Is **Jayson Tatum** out of that group, a top three or four defender? No. **Jayson Tatum** is a star, is a perennial All-Star on the Boston Celtics. When you're in a room with Steph, KD, Bron, and Ant, and **Devin Booker**, and **Joel Embiid**, and **Devin Booker** accepted a role where he was like, I'll guard the best guy. Oh, you need me to stand me in the corner. Oh, I need to move without the ball. I don't need the ball. I've accepted my role. Bam, **Joel Embiid**, like even **Joel Embiid** accepted coming in and out at a certain time. **Jayson Tatum**, brother man, it's never probably happened in his life. Stop using that as an excuse. You are not those guys."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=725s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=725s)
+
+From: [Perk Calls Out Draymond’s Scoring and Wants Anthony Davis in Golden State](https://www.youtube.com/watch?v=j41zIbbgYDI) · *Road Trippin*
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=725&q=9) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=725&q=9&slack=1)</small>
+
+**4. Kendrick Perkins — "LaMelo Ball, he never played winning basketball. He's not a winner. He's not the Hornets are shit right now." — Kendrick Perkins criticizes the Charlotte Hornets' management** [14:46](https://www.youtube.com/watch?v=j41zIbbgYDI&t=886s)
+
+Kendrick Perkins: "**LaMelo Ball**, he never played winning basketball. He's not a winner. He's not the Hornets are shit right now. Oh, what's his name, coach? What's his name, **Charles Lee**? By the way, **Charles Lee**, you better watch out. You better watch out. This is a player's league and the way that you're going with that old school Larry Brown mentality and trying to, you know, hey man, listen, you ain't as a head coach, your resume is not that strong to be going at players. **LaMelo Ball** left the Hornets because him and **Charles Lee** didn't have a great relationship."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=886s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=886s)
+
+From: [Perk Calls Out Draymond’s Scoring and Wants Anthony Davis in Golden State](https://www.youtube.com/watch?v=j41zIbbgYDI) · *Road Trippin*
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=886&q=13) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=886&q=13&slack=1)</small>
+
+**5. Michelle Beadle — "We just got the shit beat out of us, I was flustered the entire game." — Yaxel's reaction to the Spurs loss** [03:45](https://www.youtube.com/watch?v=or_JcuQIwUU&t=225s)
 
 **Michelle Beadle:** "His quote after getting beat by the Spurs the way they did, and I quote, 'We just got the shit beat out of us, I was flustered the entire game. I'm not going to move past this. It felt helpless out there.' He also went on to cut his hair, Boogie, cut it all."
 
@@ -36,7 +56,7 @@ From: [How the Warriors Can SURVIVE without Steph Curry!](https://www.youtube.co
 
 <small>[Clip it](presserclips://clip?v=or_JcuQIwUU&t=225&q=4) · [Send to Slack](presserclips://clip?v=or_JcuQIwUU&t=225&q=4&slack=1)</small>
 
-**4. DeMarcus Cousins — "It's time to move on. If I'm Zion, it's time to move on." — DeMarcus Cousins argues it is time for Zion Williamson to move on** [00:19](https://www.youtube.com/watch?v=99D49HGRfgY&t=19s)
+**6. DeMarcus Cousins — "It's time to move on. If I'm Zion, it's time to move on." — DeMarcus Cousins argues it is time for Zion Williamson to move on** [00:19](https://www.youtube.com/watch?v=99D49HGRfgY&t=19s)
 
 **Michelle Beadle:** "Boogie, we know Dejounte's situation and his desires. Should they just trade Zion? By the way, we do this every season. Every single season we're like, 'Should they trade Zion?' Should we finally do something, please, for the love of everything?"
 
@@ -48,17 +68,7 @@ From: [Boogie - BLOW UP The Pelicans! Get Zion Out Of There!](https://www.youtub
 
 <small>[Clip it](presserclips://clip?v=99D49HGRfgY&t=19&q=1) · [Send to Slack](presserclips://clip?v=99D49HGRfgY&t=19&q=1&slack=1)</small>
 
-**5. Kendrick Perkins — "Get Anthony Davis to a situation where he's not wasting this 25 points and almost 10 rebounds" — Anthony Davis needs to be in a winning situation** [02:15](https://www.youtube.com/watch?v=L1qrignrZU0&t=135s)
-
-Kendrick Perkins: "It's **Anthony Davis** that I'm looking at. **Anthony Davis** didn't sign a contract extension. Whatever type of agreement they had or auditioning for each other to show each other that they want to be committed, that's gone out the window. Get **Anthony Davis** to a situation where he's not wasting this 25 points and almost 10 rebounds that he's giving you a night right now. The only knock on **Anthony Davis** is when he's available. He's been available. And so now, when you look around the league, Golden State, and you're looking for a guy to give you that boost to actually somewhat put you in the mix or put you over the hump, **Anthony Davis** is that guy."
-
-[https://www.youtube.com/watch?v=L1qrignrZU0&t=135s](https://www.youtube.com/watch?v=L1qrignrZU0&t=135s)
-
-From: [What to make of AD's future amid Wizards' losing streak + Giannis and Heat clicking 👀 \| NBA Today](https://www.youtube.com/watch?v=L1qrignrZU0) · *NBA on ESPN*
-
-<small>[Clip it](presserclips://clip?v=L1qrignrZU0&t=135&q=1) · [Send to Slack](presserclips://clip?v=L1qrignrZU0&t=135&q=1&slack=1)</small>
-
-**6. Tim MacMahon — "Anthony Davis didn't sign an extension because one wasn't put on the table" — Why Anthony Davis did not sign a contract extension** [03:20](https://www.youtube.com/watch?v=L1qrignrZU0&t=200s)
+**7. Tim MacMahon — "Anthony Davis didn't sign an extension because one wasn't put on the table" — Why Anthony Davis did not sign a contract extension** [03:20](https://www.youtube.com/watch?v=L1qrignrZU0&t=200s)
 
 **Tim MacMahon:** "Perk, you know why **Anthony Davis** didn't sign an extension? Because one wasn't put on the table. They paid **Trey Young** a ton of money, a contract that looked extremely questionable the second the ink dried, looks even worse now. They didn't put an extension on the table for **Anthony Davis**. Why trade for him if you're not willing to pay him? And by the way, that complicates the possibility of trading him, because I like the idea that you bring up, potentially trading him to the Warriors."
 
@@ -70,7 +80,7 @@ From: [What to make of AD's future amid Wizards' losing streak + Giannis and Hea
 
 <small>[Clip it](presserclips://clip?v=L1qrignrZU0&t=200&q=2) · [Send to Slack](presserclips://clip?v=L1qrignrZU0&t=200&q=2&slack=1)</small>
 
-**7. Rachel Nichols — "This is a grossly mismanaged team." — Pelicans' mismanagement and Dejounte Murray's trade situation** [01:02](https://www.youtube.com/watch?v=VBVFPzT7khg&t=62s)
+**8. Rachel Nichols — "This is a grossly mismanaged team." — Pelicans' mismanagement and Dejounte Murray's trade situation** [01:02](https://www.youtube.com/watch?v=VBVFPzT7khg&t=62s)
 
 **Rachel Nichols:** "I am not sure why they sent him home. I think that maybe he was being disruptive to the team, but I do not know if this is going to be a quick resolution. It has been five years since he was an All-Star. Defense has fallen off considerably. I do not know if this is going to be something they are going to get done this week. And then you have a guy who, frankly, could be contributing to your team because your team is so bad, you need all hands on deck, and he is not there. All it points out to me is yet again, this is a grossly mismanaged team. I love **Joe Dumars** as a human. I covered those Pistons teams that kept making the Eastern Conference Finals, the ones that won the Finals. I thought he was a mastermind with that team, but it is just not happening now with this team, and it is one more asset squandered."
 
@@ -82,7 +92,7 @@ From: [Dejounte Murray Wants a Trade: The Pelicans Have Bigger Problems \| Chris
 
 <small>[Clip it](presserclips://clip?v=VBVFPzT7khg&t=62&q=2) · [Send to Slack](presserclips://clip?v=VBVFPzT7khg&t=62&q=2&slack=1)</small>
 
-**8. Chandler Parsons — "I want seven dudes on this team that you could trade and you can, whether it's lateral or you can get better." — Chandler Parsons believes the Pelicans have enough talent to trade for assets** [01:31](https://www.youtube.com/watch?v=99D49HGRfgY&t=91s)
+**9. Chandler Parsons — "I want seven dudes on this team that you could trade and you can, whether it's lateral or you can get better." — Chandler Parsons believes the Pelicans have enough talent to trade for assets** [01:31](https://www.youtube.com/watch?v=99D49HGRfgY&t=91s)
 
 Chandler Parsons: "They have a first-year coach, **Willie Green**, who I feel like this is just a bad opportunity for him. He got a raw end in Orlando. Now he's really in a dark place with them starting off 4 and 10. And this team has talent. I was talking about the Jazz earlier. I want seven dudes on this team that you could trade and you can, whether it's lateral or you can get better. There is so much talent from Murphy to **Saddiq Bey** to Zion, **Dyson Daniels**, **Jordan Hawkins**. There are so many guys on this roster that can produce for other NBA teams. It's the only bright side for this team though, because they're not competitive. They just seem like they don't even want to be there."
 
@@ -91,6 +101,16 @@ Chandler Parsons: "They have a first-year coach, **Willie Green**, who I feel li
 From: [Boogie - BLOW UP The Pelicans! Get Zion Out Of There!](https://www.youtube.com/watch?v=99D49HGRfgY) · *Run It Back*
 
 <small>[Clip it](presserclips://clip?v=99D49HGRfgY&t=91&q=2) · [Send to Slack](presserclips://clip?v=99D49HGRfgY&t=91&q=2&slack=1)</small>
+
+**10. Tony Massenburg — "Spoelstra is doing that's been great with this team that we didn't see with the Heat" — Erik Spoelstra's leadership has changed the Heat's culture** [09:22](https://www.youtube.com/watch?v=L1qrignrZU0&t=562s)
+
+Tony Massenburg: "I think one thing that Spoelstra is doing that's been great with this team that we didn't see with the Heat in 2010, **Wade**, **Bosh**, **LeBron**. They started 8-7, they were calling for Spoelstra's job. There was a lot of pressure on that team, and he brought a lot of the pressure because he was very business-like, he was very transactional. He's changed that over the last couple years. He went to Greece to spend time with **Giannis**. He spent time with Bam, maybe Klay, maybe on his boat. But he spent time with them and he's made these relationships where I think it's taking a lot of the stress off the team, off their 3-6 start and turn things around right now."
+
+[https://www.youtube.com/watch?v=L1qrignrZU0&t=562s](https://www.youtube.com/watch?v=L1qrignrZU0&t=562s)
+
+From: [What to make of AD's future amid Wizards' losing streak + Giannis and Heat clicking 👀 \| NBA Today](https://www.youtube.com/watch?v=L1qrignrZU0) · *NBA on ESPN*
+
+<small>[Clip it](presserclips://clip?v=L1qrignrZU0&t=562&q=5) · [Send to Slack](presserclips://clip?v=L1qrignrZU0&t=562&q=5&slack=1)</small>
 
 ---
 
@@ -657,6 +677,168 @@ _Speakers identified: Sommer Ray, Michael Porter Jr._
 [https://www.youtube.com/watch?v=iZ1WW1MzwnQ&t=3612s](https://www.youtube.com/watch?v=iZ1WW1MzwnQ&t=3612s)
 
 <small>[Clip it](presserclips://clip?v=iZ1WW1MzwnQ&t=3612&q=12) · [Send to Slack](presserclips://clip?v=iZ1WW1MzwnQ&t=3612&q=12&slack=1)</small>
+
+---
+
+## Perk Calls Out Draymond’s Scoring and Wants Anthony Davis in Golden State — *Road Trippin*
+
+Source: [https://www.youtube.com/watch?v=j41zIbbgYDI](https://www.youtube.com/watch?v=j41zIbbgYDI)
+
+_Speakers identified: Richard Jefferson, Allie Clifton, Kendrick Perkins, Channing Frye_
+
+**1. Kendrick Perkins — "It makes my skin crawl. You don't come off being organic. It's almost like he does these interviews" — Kendrick Perkins criticizes Jayson Tatum's interview style** [00:00](https://www.youtube.com/watch?v=j41zIbbgYDI&t=0s)
+
+Kendrick Perkins: "It makes my skin crawl. You don't come off being organic. It's almost like he does these interviews to be accepted by the world."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=0s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=0s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=0&q=1) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=0&q=1&slack=1)</small>
+
+**2. Richard Jefferson — "You have a top offense and a top 10 defense, you are a contender." — Richard Jefferson argues Miami Heat are a true contender** [00:08](https://www.youtube.com/watch?v=j41zIbbgYDI&t=8s)
+
+Richard Jefferson: "You have a top offense and a top 10 defense, you are a contender."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=8s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=8s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=8&q=2) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=8&q=2&slack=1)</small>
+
+**3. Kendrick Perkins — "We had Draymond, you can't get 10? You can't get 10 points when Kevin Garnett went out?" — Kendrick Perkins criticizes Draymond Green's scoring production** [00:23](https://www.youtube.com/watch?v=j41zIbbgYDI&t=23s)
+
+Kendrick Perkins: "We had Draymond, you can't get 10? You can't get 10 points when **Kevin Garnett** went out in the season and it was time for Perk to step up? I was getting you double digits."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=23s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=23s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=23&q=3) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=23&q=3&slack=1)</small>
+
+**4. Kendrick Perkins — "Klay Thompson, light skin ass, get to lighting up and shooting those threes and knock them down" — Kendrick Perkins praises Klay Thompson's recent performance** [03:00](https://www.youtube.com/watch?v=j41zIbbgYDI&t=180s)
+
+Kendrick Perkins: "They play a style of play that is just an A-U style. They want to get out, they want to run, they want to play isolation. They want Giannis and Bam to be able to have driving gaps and all of a sudden you see Klay, light skin ass, get to lighting up and shooting those threes and knock them down consistently. Like he's found his niche. You could tell when a basketball player is in a safe place. He's in that space right now."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=180s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=180s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=180&q=4) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=180&q=4&slack=1)</small>
+
+**5. Kendrick Perkins — "Giannis added the mid-range to his game. I believe he's like 38 for 48 from the mid-range" — Kendrick Perkins highlights Giannis Antetokounmpo's improved mid-range game** [03:52](https://www.youtube.com/watch?v=j41zIbbgYDI&t=232s)
+
+Kendrick Perkins: "Giannis added the mid-range to his game. I believe he's like 38 for 48 from the mid-range jump shot. That's good. It makes him harder to guard, which is scary."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=232s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=232s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=232&q=5) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=232&q=5&slack=1)</small>
+
+**6. Richard Jefferson — "If Klay leaves the building and walks in the hallway, his defender is going to go there" — Richard Jefferson discusses Klay Thompson's defensive impact** [04:16](https://www.youtube.com/watch?v=j41zIbbgYDI&t=256s)
+
+Richard Jefferson: "When we spoke with **Erik Spoelstra**, he was like, look, Klay cannot hit a shot. If Klay leaves the building and walks in the hallway, his defender is going to go there too. And that's the truth. Wherever he goes, you just going to go with him. Klay, I don't care where you're going, I'm not going to get in trouble."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=256s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=256s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=256&q=6) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=256&q=6&slack=1)</small>
+
+**7. Allie Clifton — "Jason Tatum, he's opening up on a lot of different topics right now." — Allie Clifton and Kendrick Perkins discuss Jayson Tatum's recent interview** [10:28](https://www.youtube.com/watch?v=j41zIbbgYDI&t=628s)
+
+**Allie Clifton:** "**Jayson Tatum**, he's opening up on a lot of different topics right now. In an interview and cover story publishing yesterday for the magazine, The Boardroom, what, what?"
+
+**Kendrick Perkins:** "It's just **Jayson Tatum** in his interviews. It's like, it makes my skin crawl. And the reason being is because they don't come off being organic. It's almost like he does these interviews to be accepted by the world."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=628s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=628s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=628&q=7) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=628&q=7&slack=1)</small>
+
+**8. Kendrick Perkins — "I believe that he should have complete tunnel vision. Not that he don't go get his money" — Kendrick Perkins advises Jayson Tatum to focus on basketball** [11:05](https://www.youtube.com/watch?v=j41zIbbgYDI&t=665s)
+
+Kendrick Perkins: "I believe that he should have complete tunnel vision. Not that he don't go get his money and do the endorsement deals and stuff like that. I just think like adding more to what's already been there, him and the **Jaylen Brown** back and forth and all that shit, and then all of a sudden another interview that you're talking about, Olympics that happened two years ago. If you felt that way, you should have spoken on that shit then. Like why now?"
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=665s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=665s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=665&q=8) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=665&q=8&slack=1)</small>
+
+**9. Channing Frye — "Is Jayson Tatum out of that group, a top three or four scorer? No." — Channing Frye evaluates Jayson Tatum's standing among top players** [12:05](https://www.youtube.com/watch?v=j41zIbbgYDI&t=725s)
+
+Channing Frye: "Let's give down to brass tacks. Is **Jayson Tatum** out of that group, a top three or four scorer? No. Is **Jayson Tatum** out of that group, a top three or four defender? No. **Jayson Tatum** is a star, is a perennial All-Star on the Boston Celtics. When you're in a room with Steph, KD, Bron, and Ant, and **Devin Booker**, and **Joel Embiid**, and **Devin Booker** accepted a role where he was like, I'll guard the best guy. Oh, you need me to stand me in the corner. Oh, I need to move without the ball. I don't need the ball. I've accepted my role. Bam, **Joel Embiid**, like even **Joel Embiid** accepted coming in and out at a certain time. **Jayson Tatum**, brother man, it's never probably happened in his life. Stop using that as an excuse. You are not those guys."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=725s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=725s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=725&q=9) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=725&q=9&slack=1)</small>
+
+**10. Channing Frye — "Anthony Edwards has proven more than Jayson Tatum? I'm asking, I'm just asking" — Channing Frye questions Jayson Tatum's championship experience** [13:14](https://www.youtube.com/watch?v=j41zIbbgYDI&t=794s)
+
+Channing Frye: "**Anthony Edwards** has proven more than **Jayson Tatum**? I'm asking, I'm just asking because you want to talk about championships. How many championships is that? Four, six? And then **Jayson Tatum**? Okay, but look, there's not enough minutes for these dudes who have proven it. How many championships is that? Four, six? And **Anthony Edwards** has proven more than **Jayson Tatum**? I'm asking, I'm just asking."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=794s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=794s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=794&q=10) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=794&q=10&slack=1)</small>
+
+**11. Channing Frye — "When Steph and them are diverting to Anthony Edwards, we don't need to question. Come on, stop it." — Channing Frye defends his critique of Jayson Tatum** [13:29](https://www.youtube.com/watch?v=j41zIbbgYDI&t=809s)
+
+Channing Frye: "When Steph and them are diverting to **Anthony Edwards**, we don't need to question. Come on, stop it. Stop this. The Olympics is over. We can all have everyone has their different approach, right? Whether it's Steph, and Edwards likes to talk trash, and Edwards likes to talk trash, KD's kind of quiet. Everybody's got their different approach. This is JT's approach, in my opinion, for motivation. So when he has these conversations like this, I view it through a lens of these are the things that are still motivating him. I don't look at it as such a negative lens. JT's one of the best players in the league. He's been an MVP candidate, Conference Finals, NBA Finals, NBA champion. He is a Hall of Famer. Right now, if you stop, he's a Hall of Famer."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=809s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=809s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=809&q=11) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=809&q=11&slack=1)</small>
+
+**12. Kendrick Perkins — "I love JT. I just feel like a lot of stuff he he's doing or he does is just like" — Kendrick Perkins discusses Jayson Tatum's emotional maturity** [14:05](https://www.youtube.com/watch?v=j41zIbbgYDI&t=845s)
+
+Kendrick Perkins: "I love JT. I just feel like a lot of stuff he he's doing or he does is just like, not like, bro, you cool, bro. Like people fuck with you. And that's the difference between **Jayson Tatum** and Luka. Luka ain't going to keep talking about the shit about how Dallas traded him. He talked about it and addressed that shit the time it happened and all of a sudden it's been foot in motherfucker's ass."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=845s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=845s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=845&q=12) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=845&q=12&slack=1)</small>
+
+**13. Kendrick Perkins — "LaMelo Ball, he never played winning basketball. He's not a winner. He's not the Hornets are shit right now." — Kendrick Perkins criticizes the Charlotte Hornets' management** [14:46](https://www.youtube.com/watch?v=j41zIbbgYDI&t=886s)
+
+Kendrick Perkins: "**LaMelo Ball**, he never played winning basketball. He's not a winner. He's not the Hornets are shit right now. Oh, what's his name, coach? What's his name, **Charles Lee**? By the way, **Charles Lee**, you better watch out. You better watch out. This is a player's league and the way that you're going with that old school Larry Brown mentality and trying to, you know, hey man, listen, you ain't as a head coach, your resume is not that strong to be going at players. **LaMelo Ball** left the Hornets because him and **Charles Lee** didn't have a great relationship."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=886s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=886s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=886&q=13) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=886&q=13&slack=1)</small>
+
+**14. Channing Frye — "You don't bring back DeAndre Jordan if you don't have people that are there to develop your young guys" — Channing Frye defends LaMelo Ball's potential** [15:06](https://www.youtube.com/watch?v=j41zIbbgYDI&t=906s)
+
+Channing Frye: "You don't bring back **DeAndre Jordan** if you don't have people that are there to develop your young guys. And I think Dejounte Murray was like, I'm not here to be patient. I'm here to win. But like, how much weight does he have and where is he going to go to be the best version of himself in this situation? I remember Channing Billups, he was in Channing Billups was in Boston, gets drafted by him, didn't really fit, kind of just went to Detroit and then became Channing Billups. So you see it often times. Great players go to a, Kyle Lowry, kind of once he got to Toronto, I think he started in Memphis with you, once he got Houston, he became Kyle Lowry like, you know, Hall of Fame champion, right? So, so this is what I'm saying. So for have a young player bounce around to a couple of spots and then become who they were, Joe Johnson. Joe Johnson was in, he was in Boston, did not play, sent them to Phoenix, played, he became Joe Johnson in Atlanta and then eventually Brooklyn. So like, so again, all we are hoping if we are, are critical of a player or just the way he's handling that situation, that doesn't determine his whole career."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=906s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=906s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=906&q=14) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=906&q=14&slack=1)</small>
+
+**15. Kendrick Perkins — "He had a rough time, but he had a great time. He probably thought he should have won" — Kendrick Perkins discusses LaMelo Ball's development** [16:00](https://www.youtube.com/watch?v=j41zIbbgYDI&t=960s)
+
+Kendrick Perkins: "He had a rough time, but he had a great time. He probably thought he should have won Conference Finals MVP. Probably thought he should have won Finals MVP and then all of a sudden you go to the Olympics and then you don't get playing time. But the motivation part is what I can't give him a pass. Like there's certain guys that when they come out publicly and they say that I have the fucking Mamba mentality and I idolize Kobe. See, that's the difference between Jayson Tatum and Luka. Luka ain't going to keep talking about the shit about how Dallas traded him. He talked about it and addressed that shit the time it happened and all of a sudden it's been foot in motherfucker's ass."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=960s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=960s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=960&q=15) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=960&q=15&slack=1)</small>
+
+**16. Kendrick Perkins — "Zion could go help another team. I think he need a change of scenery" — Kendrick Perkins suggests Zion Williamson needs a change of scenery** [17:03](https://www.youtube.com/watch?v=j41zIbbgYDI&t=1023s)
+
+Kendrick Perkins: "Zion could go help another team. I think he need a change of scenery. You know the name of team? I think, to be honest, if they could pull off to get Zion to Golden State, I think it would be somewhat of an upgrade to something. It would be some, some, some type of upgrade. Like, let's not act like he's not in shape. The Zion we've been seeing, you still look up, he's 19 to 22 points, so it's, it's something."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=1023s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=1023s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=1023&q=16) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=1023&q=16&slack=1)</small>
+
+**17. Kendrick Perkins — "It's time for them to trade Zion, it's time for them to trade Dejounte Murray" — Kendrick Perkins criticizes the Pelicans' roster management** [17:20](https://www.youtube.com/watch?v=j41zIbbgYDI&t=1040s)
+
+Kendrick Perkins: "It's time for them to trade Zion, it's time for them to trade **Dejounte Murray**. It's time for them to trade **Trae Young**. Don't you say, don't you say. No, no, no, no, no, no, no, no. I'm not, I'm not, I'm not. Okay, I'm about to add. So because all the extra curricular shit that's been going on outside of basketball, you don't actually help yourself. And then when you do return on the floor, you have to produce, man. The numbers have, they have to be there. You have a new coach in Jamal Mosley. It seems like to me, he's going kind of the old school way where it's like, I'm not handing out shit. I know what the front office wants and Joe Dumars and Troy Weaver, but we going to earn, I'm going to earn some, some respect and we going to build this culture."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=1040s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=1040s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=1040&q=17) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=1040&q=17&slack=1)</small>
+
+**18. Kendrick Perkins — "The Pelicans just have to stop straddling the fence and don't be scared of the rebuild." — Kendrick Perkins argues the Pelicans should rebuild** [18:21](https://www.youtube.com/watch?v=j41zIbbgYDI&t=1101s)
+
+Kendrick Perkins: "The Pelicans just have to stop straddling the fence and don't be scared of the rebuild. Like they're the only team that got the mixture of they got everything. It's like everything like a gumbo. It's like, bro, you don't need, they have everything meaning they have veterans, they have the middle people like that's trying to win, then they have these two young guys that they're trying to build around. And Jeremiah Fears and Derek Quinn. It's time for them to trade Zion, it's time for them to trade Dejounte Murray. It's time for them to trade Trae Young."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=1101s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=1101s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=1101&q=18) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=1101&q=18&slack=1)</small>
+
+**19. Kendrick Perkins — "He's going to, I think what is it? Yeah, one and a half three pointers." — Kendrick Perkins predicts Anthony Davis's performance** [19:33](https://www.youtube.com/watch?v=j41zIbbgYDI&t=1173s)
+
+Kendrick Perkins: "He's going to, I think what is it? Yeah, one and a half three pointers. He's going to make over one and a half three pointers. He shot 12 the other night."
+
+[https://www.youtube.com/watch?v=j41zIbbgYDI&t=1173s](https://www.youtube.com/watch?v=j41zIbbgYDI&t=1173s)
+
+<small>[Clip it](presserclips://clip?v=j41zIbbgYDI&t=1173&q=19) · [Send to Slack](presserclips://clip?v=j41zIbbgYDI&t=1173&q=19&slack=1)</small>
 
 ---
 

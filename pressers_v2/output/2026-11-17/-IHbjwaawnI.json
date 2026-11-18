@@ -1,0 +1,567 @@
+{
+  "video_title": "Practice Media Availability with Nique Clifford | November 17, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Nique Clifford",
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nique Clifford",
+      "timestamp": "01:08",
+      "summary_phrase": "Nique Clifford on fitting into the Thunder's team culture",
+      "names_mentioned": [],
+      "excerpt": "A lot of guys similar to myself, just hard workers that enjoy being a part of a team.",
+      "quote": "A lot of guys similar to myself, just hard workers that enjoy being a part of a team, being around each other each and every day, and just show up as a professional every day into the building. It's been a seamless transition. It's been quite easy to get along with all the guys, a lot of great dudes, so it's been a lot of fun so far.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Nique Clifford on his transition to the Thunder: It has been a seamless transition and it has been quite easy to get along with all the guys",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nique Clifford discusses his transition to the Thunder and how he fits into the team culture.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nique Clifford",
+      "timestamp": "01:45",
+      "summary_phrase": "Nique Clifford on learning from his new teammates",
+      "names_mentioned": [
+        "AJ",
+        "Jared",
+        "Alex",
+        "Shai"
+      ],
+      "excerpt": "I've known AJ for a little bit. I knew Jared a little bit through the draft process.",
+      "quote": "I've known AJ for a little bit. I knew Jared a little bit through the draft process as well. And I've been asking questions to Alex a lot. He's been a guy that I used to watch a ton of his film defensively and always was a huge fan of him, and same with Shai. Big fans of both of them, so I've just been trying to pick their brains a little bit and get to know them.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Nique Clifford says he has been picking the brains of Alex Caruso and Shai Gilgeous Alexander to learn from them",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Mitchell",
+          "Jared McCain",
+          "Alex Caruso",
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nique Clifford describes learning from his new teammates and picking their brains.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nique Clifford",
+      "timestamp": "02:18",
+      "summary_phrase": "Nique Clifford on his excitement for his first home game",
+      "names_mentioned": [],
+      "excerpt": "I came to the playoff games when y'all played the Spurs last year, Sacramento brought me out here.",
+      "quote": "I came to the playoff games when y'all played the Spurs last year, Sacramento brought me out here and it was a really cool experience just being in the building. It was electric, so obviously I played here also twice, so being on this side of it is going to be quite cool and I know the fan base is awesome from what everything I've heard, so I'm excited.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Nique Clifford on playing at home for the Thunder: I came to the playoff games when yall played the Spurs last year and it was electric",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Nique Clifford shares his excitement about playing his first home game for the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nique Clifford",
+      "timestamp": "02:48",
+      "summary_phrase": "Nique Clifford on building a relationship with coach Mark Daigneault",
+      "names_mentioned": [
+        "Mark"
+      ],
+      "excerpt": "He's a really chill, cool guy. He's low-key similar to my college coach a little bit.",
+      "quote": "He's a really chill, cool guy. He's low-key similar to my college coach a little bit in a sense, and I was really close with my college coach, so I've really gravitated towards him and I feel like we're building a great relationship. He's starting to trust me more, I'm trusting in him, so he's a really great coach and I'm excited to just learn and grow with him.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Nique Clifford on Mark Daigneault: He is a really chill cool guy and I feel like we are building a great relationship",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mark Daigneault"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Nique Clifford discusses building a relationship with head coach Mark Daigneault.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nique Clifford",
+      "timestamp": "03:22",
+      "summary_phrase": "Nique Clifford on his motivation to help the team win",
+      "names_mentioned": [],
+      "excerpt": "That's what you do all this for is for the end of the year, the playoffs.",
+      "quote": "That's what you do all this for is for the end of the year, the playoffs, trying to win a championship. So for all the work to come into fruition, obviously we got a ways to go to get to that point, but it's been a history around here that y'all go to the playoffs. We go to the playoffs, so I'm definitely looking forward to that experience and I just want to help the team win. So any way I can impact in that and what they need from me, I'm willing to do that.",
+      "text_blocks": [],
+      "start_seconds": 202,
+      "end_seconds": 239,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Nique Clifford on his goals with the Thunder: That is what you do all this for is for the end of the year the playoffs trying to win a championship",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Nique Clifford expresses his desire to help the team reach the playoffs and win a championship.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nique Clifford",
+      "timestamp": "04:36",
+      "summary_phrase": "Nique Clifford on developing his offensive game",
+      "names_mentioned": [],
+      "excerpt": "Towards the end of the year last year, I started to get really comfortable.",
+      "quote": "Towards the end of the year last year, I started to get really comfortable, started to just learn the pace of the NBA game and just the personnel that you're playing against is a big part of it. So that was where I got to for the end of the season coming into this year. Didn't go as I planned, had a really great off-season though and training camp, really great training camp, so all of those things have helped me kind of develop and get better as an NBA player.",
+      "text_blocks": [],
+      "start_seconds": 276,
+      "end_seconds": 311,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nique Clifford on his development: Towards the end of the year last year I started to get really comfortable and learn the pace of the NBA game",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Nique Clifford reflects on his development as an NBA player following a strong training camp.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nique Clifford",
+      "timestamp": "05:48",
+      "summary_phrase": "Nique Clifford on the personalities of his new teammates",
+      "names_mentioned": [
+        "Jared",
+        "Jaylin",
+        "J-Will"
+      ],
+      "excerpt": "I feel like Jared is a big personality. He's always going to make you laugh, make you smile.",
+      "quote": "I feel like Jared is a big personality. He's always going to make you laugh, make you smile. Heart is pretty funny. J-Will wasn't on the road trip, but he's been a guy that's made me laugh since I've been here. Honestly, a lot of the guys is pretty funny, got some good personalities, so I've enjoyed being around all of them.",
+      "text_blocks": [],
+      "start_seconds": 348,
+      "end_seconds": 372,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "Nique Clifford on Thunder personalities: Jared is a big personality he is always going to make you laugh",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jared McCain",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nique Clifford shares his thoughts on the personalities of his new teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Mark Daigneault",
+      "timestamp": "06:40",
+      "summary_phrase": "Mark Daigneault on the challenges of developing a rookie",
+      "names_mentioned": [],
+      "excerpt": "He's getting one hand on the ball and the other hand is wrestling with big physical fives.",
+      "quote": "He's getting one hand on the ball and the other hand is wrestling with big physical fives in the NBA. He's a rookie player, so it's hard what he's doing. He's having to deal with the physicality of that position and also try to go pursue the ball, which is a learned skill. But I thought last game especially, he got his second hand up there more often, and there's going to be times where it's better for him to get off the contact and then just go pursue it because he's got such range.",
+      "text_blocks": [],
+      "start_seconds": 400,
+      "end_seconds": 437,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mark Daigneault on rookie development: He is having to deal with the physicality of that position and also try to go pursue the ball which is a learned skill",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the physical challenges a rookie faces when playing the center position.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Mark Daigneault",
+      "timestamp": "07:25",
+      "summary_phrase": "Mark Daigneault on the defensive impact of his players",
+      "names_mentioned": [],
+      "excerpt": "His ability to do that effectively is huge. It has a huge downstream effect on the team.",
+      "quote": "His ability to do that effectively is huge. It has a huge downstream effect on the team defensively. Then he's a great off-ball player, he's got great anticipation, he's always trying to disrupt the play from the off-ball positions. He's an elite communicator, he's an elite reader of the game in terms of anticipating what the other team's trying to do, and then he's got like crazy instincts on top of all that.",
+      "text_blocks": [],
+      "start_seconds": 445,
+      "end_seconds": 473,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mark Daigneault on defensive impact: His ability to do that effectively is huge it has a huge downstream effect on the team defensively",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault praises a player's defensive instincts and communication skills.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Mark Daigneault",
+      "timestamp": "08:14",
+      "summary_phrase": "Mark Daigneault on the defensive growth of his players",
+      "names_mentioned": [
+        "Jared"
+      ],
+      "excerpt": "He's really done a very good job fundamentally, especially defensively.",
+      "quote": "He's really done a very good job fundamentally, especially defensively. Last season I thought when we first got him, there were certainly some fundamental gaps and he's not tall, so he's giving something up on that end to begin with, so he's improved that. And then offensively, he's been really aggressive, he's been great on the ball, great off the ball. Hasn't shot a great percentage yet, but he certainly is live and he knows how to use his gravity.",
+      "text_blocks": [],
+      "start_seconds": 494,
+      "end_seconds": 525,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mark Daigneault on defensive growth: He has really done a very good job fundamentally especially defensively",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault evaluates a player's fundamental defensive growth and offensive aggression.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Mark Daigneault",
+      "timestamp": "08:45",
+      "summary_phrase": "Mark Daigneault on the challenge of guarding primary defenders",
+      "names_mentioned": [
+        "AJ Mitchell"
+      ],
+      "excerpt": "Him and AJ Mitchell are guys that are being guarded by primary defenders and taking on primary defenders.",
+      "quote": "Him and AJ Mitchell are guys that are being guarded by primary defenders and taking on primary defenders every night, and that's more challenging, but it also gives you a blueprint for where you need to improve and those guys will take that feedback and they'll improve as a result of it.",
+      "text_blocks": [],
+      "start_seconds": 525,
+      "end_seconds": 545,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mark Daigneault on AJ Mitchell and others: They are guys that are being guarded by primary defenders and taking on primary defenders every night",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "AJ Mitchell"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the challenge for players like AJ Mitchell when facing primary defenders.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Mark Daigneault",
+      "timestamp": "09:19",
+      "summary_phrase": "Mark Daigneault on the team's ability to adjust",
+      "names_mentioned": [],
+      "excerpt": "They have really tangible skill sets that help teams win, so that's the first thing.",
+      "quote": "They have really tangible skill sets that help teams win, so that's the first thing. They really know who they are at this point in their careers, so there's still improvement that they can make in a system and as individual players, but they're at the point where their foundation is so strong as players, both fundamentally and understanding who they are, that they're kind of touching up the edges at this point.",
+      "text_blocks": [],
+      "start_seconds": 559,
+      "end_seconds": 587,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mark Daigneault on his players: They really know who they are at this point in their careers",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault comments on the strong foundation and skill sets of his players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Mark Daigneault",
+      "timestamp": "10:07",
+      "summary_phrase": "Mark Daigneault on the evolution of a player's shot profile",
+      "names_mentioned": [],
+      "excerpt": "I think some of the driving, especially early in his career was a result of us playing lineups.",
+      "quote": "I think some of the driving, especially early in his career was a result of us playing lineups where we didn't have fives, and there's benefits to that from a spacing standpoint at times, but there's also a downside. I think we can screen for him a lot better now than we could back then. Our defense is much better now than it was back then, but I think some of it is contextual, but he's really worked on his catch and shoots, he's really worked on his off-ball play, he's really worked on his range as a shooter over time.",
+      "text_blocks": [],
+      "start_seconds": 607,
+      "end_seconds": 646,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mark Daigneault on shot profiles: We can screen for him a lot better now than we could back then",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault explains how a player's offensive shot profile has evolved over time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Mark Daigneault",
+      "timestamp": "11:03",
+      "summary_phrase": "Mark Daigneault on the longevity of his players",
+      "names_mentioned": [
+        "Aaron",
+        "Lou"
+      ],
+      "excerpt": "Lou is seven, right? So I mean, just look at the number of guys in the NBA that have played",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "They were here forever, and it's if you if you step back and look at how many players are with a team for five years, like Aaron was here, or how many, was he five years or six?"
+        },
+        {
+          "speaker": "Mark Daigneault",
+          "text": "Lou is seven, right? So I mean, just look at the number of guys in the NBA that have played for a team for seven straight years, not many, and five straight years."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Mark Daigneault"
+      ],
+      "reporter_split": true,
+      "start_seconds": 663,
+      "end_seconds": 690,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Mark Daigneault on roster continuity: Just look at the number of guys in the NBA that have played for a team for seven straight years not many",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Wiggins",
+          "Luguentz Dort"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault reflects on the rarity of players staying with the same team for five to seven years.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Mark Daigneault",
+      "timestamp": "12:36",
+      "summary_phrase": "Mark Daigneault on the character of his players",
+      "names_mentioned": [],
+      "excerpt": "Certainly starts with they're just great people, and they're great professionals.",
+      "quote": "Certainly starts with they're just great people, and they're great professionals. They're of great character, they're great teammates, they're coachable, any character trait you could ever want in a professional basketball player, both of those guys have. They're competitive, they're hungry, they're high character, professional all that stuff.",
+      "text_blocks": [],
+      "start_seconds": 756,
+      "end_seconds": 774,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Mark Daigneault on team culture: They are just great people and they are great professionals they are of great character",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault praises the character and professionalism of his players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Mark Daigneault",
+      "timestamp": "13:02",
+      "summary_phrase": "Mark Daigneault on the team-first mentality of his players",
+      "names_mentioned": [
+        "Wiggs",
+        "Lou"
+      ],
+      "excerpt": "Wiggs is a ultimate team guy that was always ready, no matter when his number was called.",
+      "quote": "Wiggs is a ultimate team guy that was always ready, no matter when his number was called. His role was fluid over his time here and yet he wasn't fluid, you know, he was incredibly consistent, always ready to play, always ready to contribute and help the team and did in some big moments for us. And then Lou, there's something about who he's guarding night in and night out, the matchup difficulty that he was able to take and the fearlessness with which he did that was a huge tone setter for our team.",
+      "text_blocks": [],
+      "start_seconds": 782,
+      "end_seconds": 819,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Mark Daigneault on team identity: Wiggs is a ultimate team guy that was always ready no matter when his number was called",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Wiggins",
+          "Luguentz Dort"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault highlights the team-first mentality and consistency of Aaron Wiggins and Luguentz Dort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Mark Daigneault",
+      "timestamp": "14:21",
+      "summary_phrase": "Mark Daigneault on the consistency of his players",
+      "names_mentioned": [
+        "Wiggins",
+        "Cameron Williams",
+        "PV"
+      ],
+      "excerpt": "I think it's the same thing I just said about Wiggins. I mean those guys just don't change.",
+      "quote": "I think it's the same thing I just said about Wiggins. I mean those guys just don't change. They don't change who they are ever. They're always in character. Cameron Williams has been here, he's been, you know, like a younger player trying to establish himself and then a five man for us and then a more of a spot rotation player and now is playing like you said, a heavy dose of minutes and he has not changed one bit in any of those circumstances. You just, you can't throw him off if you tried. And so because of that, he's able to handle any situation. And you know, I mentioned that with Wiggins, but like when you have guys like like PV right now, I think is doing a great job, but he's a two-way and so he can only play 50 games.",
+      "text_blocks": [],
+      "start_seconds": 861,
+      "end_seconds": 917,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mark Daigneault on consistency: Those guys just do not change they do not change who they are ever",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Wiggins",
+          "Cameron Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the consistency of players like Cameron Williams and Aaron Wiggins regardless of their role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "-IHbjwaawnI",
+  "url": "https://www.youtube.com/watch?v=-IHbjwaawnI",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-17T22:44:36Z",
+  "duration_seconds": 952,
+  "processed_at": "2026-11-18T02:26:57Z",
+  "run_id": "2026-11-18T0225Z-20utc",
+  "is_one_off": false
+}
