@@ -1,0 +1,141 @@
+{
+  "video_title": "Neemias Queta PRAISES Chris Cenac Jr. After Extended Minutes | Celtics vs Nuggets Postgame",
+  "speakers_seen": [
+    "Neemias Queta"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Neemias Queta",
+      "timestamp": "00:04",
+      "summary_phrase": "Neemias Queta on team defensive rotations and decision-making",
+      "names_mentioned": [],
+      "excerpt": "they were really aggressive on their rotations, causes us some indecision and I think we can get better",
+      "quote": "I think it's just a couple of things. Sometimes the pass are not needing the ball a couple times. A couple times they were really aggressive on their rotations, causes us some indecision and I think we can get better at that while still working on those things. When a team doubles, this we should be getting everything we want, so I think it's something that we need to get better at and learning curve.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Neemias Queta on the Celtics offensive struggles against defensive pressure: When a team doubles, we should be getting everything we want. It is a learning curve for us.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Neemias Queta discusses the team's defensive rotations and offensive decision-making following the game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Neemias Queta",
+      "timestamp": "01:12",
+      "summary_phrase": "Neemias Queta praises Chris Cenac Jr.'s impact and versatility",
+      "names_mentioned": [
+        "Chris Cenac Jr."
+      ],
+      "excerpt": "his ability to impact the ball, being a help side defender as well, just versatility",
+      "quote": "Just impact, you know, his ability to impact the ball, being a help side defender as well, just versatility, his physicality was off the charts as well. Rebounding was key to us too. I think he just got so much versatility in his game, maybe he can impact winning right away. So shout out to him and I think he's going to keep on learning and get him better.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Neemias Queta was impressed by Chris Cenac Jr. after the game, noting his physicality was off the charts and that he has the versatility to impact winning right away.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Cenac Jr."
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Neemias Queta praises the impact and versatility of Chris Cenac Jr. following the Celtics game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Neemias Queta",
+      "timestamp": "01:55",
+      "summary_phrase": "Neemias Queta on the need for better discipline and composure",
+      "names_mentioned": [],
+      "excerpt": "being disciplined and sound, I think that will go a long way for us",
+      "quote": "I think it's just a mixture of things. There was one possession where they went three thousand in a row. I think at that point we should be able to understand. Just in general, me, all my teammates, we should be able to understand that some delays like that can really get them going. We got them the bonus pretty early in both quarters, third and fourth. So I think it's something that we need to get better at and learn how to play in that. Obviously we can all be better. A couple fouls on jump shooters, a couple fouls on getting jumping on the air on the shot fakes and fouling jump shooters too. So I think it's just being disciplined and sound, I think that will go a long way for us.",
+      "text_blocks": [],
+      "start_seconds": 115,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Neemias Queta on the need for better discipline: We got them the bonus pretty early in both quarters. Fouling jump shooters and jumping on shot fakes is something we need to get better at.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Neemias Queta reflects on the need for better defensive discipline and composure during the game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Neemias Queta",
+      "timestamp": "02:40",
+      "summary_phrase": "Neemias Queta on handling defensive pressure and turnovers",
+      "names_mentioned": [
+        "Jayson Tatum"
+      ],
+      "excerpt": "I don't think we should overreact when things like that happen, we should just settle down",
+      "quote": "I think we all can be better in general. I think it was something that we were for them, they kept going to it and I think we could have definitely handled it better. But it's part of the game, they went on their run in those moments and I don't think we should overreact when things like that happen, we should just settle down, be able to be able to go to our strengths and play through them. I don't think it was something that disrupted us offensively that much, but I think we can definitely get better with those because eight turnovers in a row, yeah that's that's bad. So we can all get better and work on that.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Neemias Queta on the team committing eight turnovers in a row: We should not overreact when things like that happen. We should just settle down and be able to go to our strengths.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Neemias Queta addresses the team's struggles with defensive pressure and turnovers during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "DLxI4AeFN4w",
+  "url": "https://www.youtube.com/watch?v=DLxI4AeFN4w",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-19T06:22:49Z",
+  "duration_seconds": 213,
+  "processed_at": "2026-11-19T07:03:51Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

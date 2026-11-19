@@ -1,0 +1,204 @@
+{
+  "video_title": "Jayson Tatum TAKES BLAME For Celtics Brutal 3rd Quarter in Loss | Celtics vs Nuggets Postgame",
+  "speakers_seen": [
+    "Jayson Tatum"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jayson Tatum",
+      "timestamp": "00:12",
+      "summary_phrase": "Jayson Tatum on Celtics' third-quarter struggles and turnovers",
+      "names_mentioned": [],
+      "excerpt": "I got to communicate better, I got to execute better, I got to take care of the ball.",
+      "quote": "Just executing. The four turnovers I had in the third quarter really put us in a sink. In those situations, I got to communicate better, I got to execute better, I got to take care of the ball, and I think that really put us in a hole and was the turning point of the game in the second half.",
+      "verbatim_original_language": "",
+      "start_seconds": 12,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Jayson Tatum takes accountability for the Celtics loss to the Nuggets, citing his four third quarter turnovers as the turning point of the game. He says he has to communicate and execute better to avoid putting the team in a hole.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum discusses his turnovers during the third quarter of the Celtics' loss to the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jayson Tatum",
+      "timestamp": "00:47",
+      "summary_phrase": "Jayson Tatum on his late-game technical foul",
+      "names_mentioned": [
+        "John Goble"
+      ],
+      "excerpt": "I should have just probably gave the ball to the ref closest to me.",
+      "quote": "I should have just probably gave the ball to the ref closest to me. Whatever I thought that John Goble was looking at our bench, I should have just found the guy closest to the ref, closest to me, and just gave them the ball. So that's on me. I wasn't mad. It wasn't a foul on me. We just called a timeout. John Goble called a timeout and pointed at our bench. I thought he was looking at this way, but yeah, they called a tech. So for me, just find the female ref that was there or the other ref and whoever was probably closest and should have just gave them the ball.",
+      "verbatim_original_language": "",
+      "start_seconds": 47,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Jayson Tatum explains his late game technical foul against the Nuggets, admitting he should have just handed the ball to the nearest official. He says he was not mad, just trying to navigate the situation after a timeout.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "John Goble"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum explains the circumstances surrounding the technical foul he received during the game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jayson Tatum",
+      "timestamp": "01:44",
+      "summary_phrase": "Jayson Tatum on Celtics' need to adjust to defensive coverage",
+      "names_mentioned": [],
+      "excerpt": "Whatever we thought we were doing, playing aggressive or what not, refs call certain things.",
+      "quote": "Whatever we thought we were doing, playing aggressive or what not, refs call certain things and we probably got to just adjust to it a little bit better and try to just adjust in real time.",
+      "verbatim_original_language": "",
+      "start_seconds": 104,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on the Celtics needing to adjust to how the game is being officiated in real time. He says the team needs to adapt better to the aggressive defensive coverage and the way refs are calling the game.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum reflects on the need for the Celtics to adjust to officiating and defensive coverage in real time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jayson Tatum",
+      "timestamp": "02:05",
+      "summary_phrase": "Jayson Tatum on the development of Chris and Jamal",
+      "names_mentioned": [
+        "Chris",
+        "Jamal"
+      ],
+      "excerpt": "I thought it was big for them today and last game just getting to play in real minutes.",
+      "quote": "I thought it was big for them today and last game just getting to play in real minutes and real moments and showing his value and how he can help us as a team.",
+      "verbatim_original_language": "",
+      "start_seconds": 125,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jayson Tatum praises the development of his younger teammates, noting how important it is for them to get real minutes and show their value to the team in high pressure moments.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris",
+          "Jamal"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jayson Tatum praises the performance and development of teammates Chris and Jamal in recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jayson Tatum",
+      "timestamp": "02:31",
+      "summary_phrase": "Jayson Tatum on what he looks for in young rookies",
+      "names_mentioned": [],
+      "excerpt": "Just his willingness to listen, to learn, to make plays, do all the little things.",
+      "quote": "Just his willingness to listen, to learn, to make plays, do all the little things. Obviously going to make mistakes, but just how quickly do they learn from the mistakes that they make.",
+      "verbatim_original_language": "",
+      "start_seconds": 151,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on what he looks for in rookies, emphasizing a willingness to listen, learn, and how quickly they can recover from the mistakes they inevitably make on the floor.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum describes the qualities he values in young rookies, specifically their willingness to learn from mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jayson Tatum",
+      "timestamp": "02:54",
+      "summary_phrase": "Jayson Tatum on Celtics' execution against Nuggets' defensive coverage",
+      "names_mentioned": [],
+      "excerpt": "For me it just should have just communicate with the big.",
+      "quote": "For me it just should have just communicate with the big. There was one or two times where they blitz and I threw it to the big, he wasn't looking. And that's on me, right? I got to communicate to the big or tell the two side guys to lift up. And if they put two on the ball, it's my job to make the right play. In the third quarter I didn't do that and I think that's kind of what turned the game around for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 174,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jayson Tatum breaks down his struggles against the Nuggets blitz coverage, saying it is his job to communicate with the bigs and make the right play when the defense puts two on the ball.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum analyzes his failure to communicate with teammates against the Nuggets' defensive blitz coverage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "-1Wjx9r8vyI",
+  "url": "https://www.youtube.com/watch?v=-1Wjx9r8vyI",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-19T06:19:37Z",
+  "duration_seconds": 217,
+  "processed_at": "2026-11-19T07:03:58Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

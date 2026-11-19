@@ -82,7 +82,15 @@ From: [Cavs vs Grizzlies \| Jarrett Allen & Donovan Mitchell Post Game \| 11.18.
 
 <small>[Clip it](presserclips://clip?v=UG0fLQk9kac&t=366&q=4) · [Send to Slack](presserclips://clip?v=UG0fLQk9kac&t=366&q=4&slack=1)</small>
 
-**10. Franz Wagner — "I'm excited. Should be a fun game. It's a blessing we get to play on the same court" — Franz Wagner on playing against his brother** [12:04](https://www.youtube.com/watch?v=Afi9HSr5AlM&t=724s)
+**10. Jayson Tatum — "I got to communicate better, I got to execute better, I got to take care of the ball." — Jayson Tatum on Celtics' third-quarter struggles and turnovers** [00:12](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=12s)
+
+Jayson Tatum: "Just executing. The four turnovers I had in the third quarter really put us in a sink. In those situations, I got to communicate better, I got to execute better, I got to take care of the ball, and I think that really put us in a hole and was the turning point of the game in the second half."
+
+[https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=12s](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=12s)
+
+From: [Jayson Tatum TAKES BLAME For Celtics Brutal 3rd Quarter in Loss \| Celtics vs Nuggets Postgame](https://www.youtube.com/watch?v=-1Wjx9r8vyI) · *Boston Celtics*
+
+**11. Franz Wagner — "I'm excited. Should be a fun game. It's a blessing we get to play on the same court" — Franz Wagner on playing against his brother** [12:04](https://www.youtube.com/watch?v=Afi9HSr5AlM&t=724s)
 
 Franz Wagner: "I'm excited. Should be a fun game. It will be a great day for our family. I think it's a blessing we get to play on the same court in the NBA game."
 
@@ -92,7 +100,19 @@ From: [POSTGAME SOUND: PHILADELPHIA 76ERS VS. ORLANDO MAGIC \| COACH SWEENEY,  J
 
 <small>[Clip it](presserclips://clip?v=Afi9HSr5AlM&t=724&q=9) · [Send to Slack](presserclips://clip?v=Afi9HSr5AlM&t=724&q=9&slack=1)</small>
 
-**11. Donovan Mitchell — "you're not defined by two free throws at the end of a game." — Donovan Mitchell defends Sam Merrill after missed free throws** [04:48](https://www.youtube.com/watch?v=UG0fLQk9kac&t=288s)
+**12. Dillon Brooks — "I love when guys compete, and he's a competitor. He came out to play, he showed me a lot." — Dillon Brooks on his competitive matchup with De'Aaron Fox** [00:23](https://www.youtube.com/watch?v=GN9G2uIHidU&t=23s)
+
+**Unidentified reporter:** "Looking at that third quarter, it looked like **De'Aaron Fox** kind of chirped you a little bit. Did that maybe motivate you and fire you up some?"
+
+**Dillon Brooks:** "I love when guys compete, and he's a competitor. He came out to play, he showed me a lot. Me and him going back and forth, going back and forth in baskets, I like that. I like it a lot."
+
+[https://www.youtube.com/watch?v=GN9G2uIHidU&t=23s](https://www.youtube.com/watch?v=GN9G2uIHidU&t=23s)
+
+From: [Dillon Brooks Postgame On-Court Interview after Suns win against Sacramento Kings \| 11-18-26](https://www.youtube.com/watch?v=GN9G2uIHidU) · *Phoenix Suns*
+
+<small>[Clip it](presserclips://clip?v=GN9G2uIHidU&t=23&q=2) · [Send to Slack](presserclips://clip?v=GN9G2uIHidU&t=23&q=2&slack=1)</small>
+
+**13. Donovan Mitchell — "you're not defined by two free throws at the end of a game." — Donovan Mitchell defends Sam Merrill after missed free throws** [04:48](https://www.youtube.com/watch?v=UG0fLQk9kac&t=288s)
 
 Donovan Mitchell: "There's a reason why I made the pass. We all trust him, and I would do it again tomorrow, I'd do it again the next night. You're not defined by two free throws at the end of a game. For him, he's done so much for us on a consistent basis. Defensively, I feel like they weren't giving him a lot of calls that he truly deserved. I think he deserves a lot more respect on the defensive end of the ball than he's been getting, and I have a bone to pick with some of the refs on that because he's really doing the little things and he's not getting the whistle he deserves."
 
@@ -102,7 +122,7 @@ From: [Cavs vs Grizzlies \| Jarrett Allen & Donovan Mitchell Post Game \| 11.18.
 
 <small>[Clip it](presserclips://clip?v=UG0fLQk9kac&t=288&q=3) · [Send to Slack](presserclips://clip?v=UG0fLQk9kac&t=288&q=3&slack=1)</small>
 
-**12. Meleek Thomas — "Don is special, he's special as a leader, he's special as a player, special as a human being" — Meleek Thomas on Donovan Mitchell's leadership and impact** [09:11](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=551s)
+**14. Meleek Thomas — "Don is special, he's special as a leader, he's special as a player, special as a human being" — Meleek Thomas on Donovan Mitchell's leadership and impact** [09:11](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=551s)
 
 Meleek Thomas: "Don is special, he's special as a leader, he's special as a player, special as a human being. And it's just things that I learn from him on a day-to-day basis that will be like, yeah, he's an amazing basketball player, but he also wants the best for the ones that he's around. So I'm just learning from him on and off the court, but the basketball kind of speaks for itself and I I take a lot from him. We work off of each other, I watch what he does on film, I watch his old stuff and you you got to appreciate a amazing person that's alongside of you basketball and off the court when when you got a guy like that."
 
@@ -112,7 +132,7 @@ From: [Cavs vs Grizzlies \| Mario Hezonja & Meleek Thomas Post Game \| 11.18.202
 
 <small>[Clip it](presserclips://clip?v=CgMYkSv-e_E&t=551&q=12) · [Send to Slack](presserclips://clip?v=CgMYkSv-e_E&t=551&q=12&slack=1)</small>
 
-**13. Georges Niang — "the Steph injury is unfortunate we're missing bodies but at the end of the day we have good spirit" — Georges Niang on the Warriors' resilience despite Steph Curry's injury** [00:08](https://www.youtube.com/watch?v=g1-WmM-mEvc&t=8s)
+**15. Georges Niang — "the Steph injury is unfortunate we're missing bodies but at the end of the day we have good spirit" — Georges Niang on the Warriors' resilience despite Steph Curry's injury** [00:08](https://www.youtube.com/watch?v=g1-WmM-mEvc&t=8s)
 
 Georges Niang: "The biggest thing is we got to continue to keep chopping wood and continuing to grow and get better. The **Steph** injury is unfortunate we're missing bodies but at the end of the day we have good spirit. I think we're pulling for one another but this is a unique situation. You are used to playing a certain style with certain players and then when they're out you kind of have to reinvent yourself and we're in that process."
 
@@ -120,7 +140,7 @@ Georges Niang: "The biggest thing is we got to continue to keep chopping wood an
 
 From: [Georges Niang declares Warriors won’t go down without fight \| NBC Sports Bay Area](https://www.youtube.com/watch?v=g1-WmM-mEvc) · *Golden State Warriors*
 
-**14. Mario Hezonja — "too many lead changes when we had a chance to put them away, we didn't take advantage" — Mario Hezonja on the team's frustration with late-game execution** [00:08](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=8s)
+**16. Mario Hezonja — "too many lead changes when we had a chance to put them away, we didn't take advantage" — Mario Hezonja on the team's frustration with late-game execution** [00:08](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=8s)
 
 Mario Hezonja: "too many lead changes when we had a chance to put them away, we didn't take advantage of it. We could, and then the most frustrating part is just see that ball just not going in. Great looks, great shots. Don't even mind at the rim. At the rim, free throw. Those are all easy looks for us, so it's extremely frustrating that we lost. Today we competed, we fought, but also another thing is just head up tomorrow, clean stuff on the film and keep it going because we have a next game pretty soon."
 
@@ -130,7 +150,15 @@ From: [Cavs vs Grizzlies \| Mario Hezonja & Meleek Thomas Post Game \| 11.18.202
 
 <small>[Clip it](presserclips://clip?v=CgMYkSv-e_E&t=8&q=1) · [Send to Slack](presserclips://clip?v=CgMYkSv-e_E&t=8&q=1&slack=1)</small>
 
-**15. Kyshawn George — "15 years old, 5'7, under 150 pounds and you going up against 21 year olds." — Kyshawn George on his development and physical growth** [05:53](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=353s)
+**17. Neemias Queta — "his ability to impact the ball, being a help side defender as well, just versatility" — Neemias Queta praises Chris Cenac Jr.'s impact and versatility** [01:12](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=72s)
+
+Neemias Queta: "Just impact, you know, his ability to impact the ball, being a help side defender as well, just versatility, his physicality was off the charts as well. Rebounding was key to us too. I think he just got so much versatility in his game, maybe he can impact winning right away. So shout out to him and I think he's going to keep on learning and get him better."
+
+[https://www.youtube.com/watch?v=DLxI4AeFN4w&t=72s](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=72s)
+
+From: [Neemias Queta PRAISES Chris Cenac Jr. After Extended Minutes \| Celtics vs Nuggets Postgame](https://www.youtube.com/watch?v=DLxI4AeFN4w) · *Boston Celtics*
+
+**18. Kyshawn George — "15 years old, 5'7, under 150 pounds and you going up against 21 year olds." — Kyshawn George on his development and physical growth** [05:53](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=353s)
 
 Kyshawn George: "15 years old, 5'7, under 150 pounds and you going up against 21 year olds that could dunk and all that stuff. So I just had to compensate, keep the main goal in head and just sit my way at it. Obviously the growth spurt helped a lot, but I think that stuck with me and kept me level headed."
 
@@ -140,7 +168,7 @@ From: [Media Availability: Head Coach Brian Keife, AJ Dybantsa, and Kyshawn Geor
 
 <small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=353&q=7) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=353&q=7&slack=1)</small>
 
-**16. Immanuel Quickley — "We have the lead, we're right there, end of the game, we got to find a way." — Immanuel Quickley on the recurring issue of losing close games** [01:04](https://www.youtube.com/watch?v=OZLfHvwYfzE&t=64s)
+**19. Immanuel Quickley — "We have the lead, we're right there, end of the game, we got to find a way." — Immanuel Quickley on the recurring issue of losing close games** [01:04](https://www.youtube.com/watch?v=OZLfHvwYfzE&t=64s)
 
 Immanuel Quickley: "A lot are similar. Obviously every game is different, but a lot are similar just the fact that we're losing close. It's not like we're losing by 20, 30 every game. We have the lead, we're right there, end of the game, we got to find a way. I mean, we just got to find a way to get it done, that's pretty much it."
 
@@ -150,7 +178,7 @@ From: [Immanuel Quickley \| Post Game vs Washington Wizards \| November 18, 2026
 
 <small>[Clip it](presserclips://clip?v=OZLfHvwYfzE&t=64&q=3) · [Send to Slack](presserclips://clip?v=OZLfHvwYfzE&t=64&q=3&slack=1)</small>
 
-**17. Brayden Burries — "They don't make half their threes and probably win tonight, so just got to move on to tomorrow" — Brayden Burries on team growth despite the losing streak** [01:50](https://www.youtube.com/watch?v=peOGVp9vW0M&t=110s)
+**20. Brayden Burries — "They don't make half their threes and probably win tonight, so just got to move on to tomorrow" — Brayden Burries on team growth despite the losing streak** [01:50](https://www.youtube.com/watch?v=peOGVp9vW0M&t=110s)
 
 **Unidentified reporter:** "11 losses in a row. It's tough for anybody at any level. What's giving you hope about the growth that you've seen from this group?"
 
@@ -162,7 +190,7 @@ From: [Brayden Burries Postgame Media Availability \| 11.18.26](https://www.yout
 
 <small>[Clip it](presserclips://clip?v=peOGVp9vW0M&t=110&q=5) · [Send to Slack](presserclips://clip?v=peOGVp9vW0M&t=110&q=5&slack=1)</small>
 
-**18. Jordan Poole — "It's just a matter of reps, being able to play, especially at a young age." — Jordan Poole on Jeremiah Fears' development as a playmaker** [01:23](https://www.youtube.com/watch?v=vL49lzp13lA&t=83s)
+**21. Jordan Poole — "It's just a matter of reps, being able to play, especially at a young age." — Jordan Poole on Jeremiah Fears' development as a playmaker** [01:23](https://www.youtube.com/watch?v=vL49lzp13lA&t=83s)
 
 Jordan Poole: "They are pushing **Jeremiah Fears** into that role and they are obviously trying to put him in a position so he can learn, get a lot of reps, get a lot of minutes. I feel like he has been doing a really good job of that. He had a really good game, obviously last game with the triple-double. It's just a matter of reps, being able to play, especially at a young age, seeing a lot of different actions in time early. He has been doing a good job. Shout out to the coaching staff and obviously hopefully he can keep it up."
 
@@ -172,13 +200,49 @@ From: [Jordan Poole \| Pelicans vs. Pistons Postgame Interview 11/18/26](https:/
 
 <small>[Clip it](presserclips://clip?v=vL49lzp13lA&t=83&q=1) · [Send to Slack](presserclips://clip?v=vL49lzp13lA&t=83&q=1&slack=1)</small>
 
-**19. Cooper Flagg — "just getting back to competing at a really high level. Everybody that touched the court today" — Cooper Flagg on the team's improved effort and intensity** [01:02](https://www.youtube.com/watch?v=1ASrj4j87pw&t=62s)
+---
 
-Cooper Flagg: "I just think the effort, just getting back to competing at a really high level. I thought, you know, everybody that touched the court today came in with the right mindset of just playing really, really hard and it's contagious too. If you have a couple guys starting the game with high energy, it's contagious to everybody else. So I just thought we did a better job of starting out early with a high level of intensity."
+## Jayson Tatum TAKES BLAME For Celtics Brutal 3rd Quarter in Loss | Celtics vs Nuggets Postgame — *Boston Celtics*
 
-[https://www.youtube.com/watch?v=1ASrj4j87pw&t=62s](https://www.youtube.com/watch?v=1ASrj4j87pw&t=62s)
+Source: [https://www.youtube.com/watch?v=-1Wjx9r8vyI](https://www.youtube.com/watch?v=-1Wjx9r8vyI)
 
-From: [Cooper Flagg & P.J. Washington Postgame \| Mavericks vs. Warriors \| Nov. 18, 2026](https://www.youtube.com/watch?v=1ASrj4j87pw) · *Dallas Mavericks*
+_Speakers identified: Jayson Tatum_
+
+**1. Jayson Tatum — "I got to communicate better, I got to execute better, I got to take care of the ball." — Jayson Tatum on Celtics' third-quarter struggles and turnovers** [00:12](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=12s)
+
+Jayson Tatum: "Just executing. The four turnovers I had in the third quarter really put us in a sink. In those situations, I got to communicate better, I got to execute better, I got to take care of the ball, and I think that really put us in a hole and was the turning point of the game in the second half."
+
+[https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=12s](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=12s)
+
+**2. Jayson Tatum — "I should have just probably gave the ball to the ref closest to me." — Jayson Tatum on his late-game technical foul** [00:47](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=47s)
+
+Jayson Tatum: "I should have just probably gave the ball to the ref closest to me. Whatever I thought that **John Goble** was looking at our bench, I should have just found the guy closest to the ref, closest to me, and just gave them the ball. So that's on me. I wasn't mad. It wasn't a foul on me. We just called a timeout. **John Goble** called a timeout and pointed at our bench. I thought he was looking at this way, but yeah, they called a tech. So for me, just find the female ref that was there or the other ref and whoever was probably closest and should have just gave them the ball."
+
+[https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=47s](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=47s)
+
+**3. Jayson Tatum — "Whatever we thought we were doing, playing aggressive or what not, refs call certain things." — Jayson Tatum on Celtics' need to adjust to defensive coverage** [01:44](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=104s)
+
+Jayson Tatum: "Whatever we thought we were doing, playing aggressive or what not, refs call certain things and we probably got to just adjust to it a little bit better and try to just adjust in real time."
+
+[https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=104s](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=104s)
+
+**4. Jayson Tatum — "I thought it was big for them today and last game just getting to play in real minutes." — Jayson Tatum on the development of Chris and Jamal** [02:05](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=125s)
+
+Jayson Tatum: "I thought it was big for them today and last game just getting to play in real minutes and real moments and showing his value and how he can help us as a team."
+
+[https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=125s](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=125s)
+
+**5. Jayson Tatum — "Just his willingness to listen, to learn, to make plays, do all the little things." — Jayson Tatum on what he looks for in young rookies** [02:31](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=151s)
+
+Jayson Tatum: "Just his willingness to listen, to learn, to make plays, do all the little things. Obviously going to make mistakes, but just how quickly do they learn from the mistakes that they make."
+
+[https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=151s](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=151s)
+
+**6. Jayson Tatum — "For me it just should have just communicate with the big." — Jayson Tatum on Celtics' execution against Nuggets' defensive coverage** [02:54](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=174s)
+
+Jayson Tatum: "For me it just should have just communicate with the big. There was one or two times where they blitz and I threw it to the big, he wasn't looking. And that's on me, right? I got to communicate to the big or tell the two side guys to lift up. And if they put two on the ball, it's my job to make the right play. In the third quarter I didn't do that and I think that's kind of what turned the game around for us."
+
+[https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=174s](https://www.youtube.com/watch?v=-1Wjx9r8vyI&t=174s)
 
 ---
 
@@ -768,6 +832,38 @@ Kyrie Irving: "Those guys are just very resilient and understanding the world th
 
 ---
 
+## Neemias Queta PRAISES Chris Cenac Jr. After Extended Minutes | Celtics vs Nuggets Postgame — *Boston Celtics*
+
+Source: [https://www.youtube.com/watch?v=DLxI4AeFN4w](https://www.youtube.com/watch?v=DLxI4AeFN4w)
+
+_Speakers identified: Neemias Queta_
+
+**1. Neemias Queta — "they were really aggressive on their rotations, causes us some indecision and I think we can get better" — Neemias Queta on team defensive rotations and decision-making** [00:04](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=4s)
+
+Neemias Queta: "I think it's just a couple of things. Sometimes the pass are not needing the ball a couple times. A couple times they were really aggressive on their rotations, causes us some indecision and I think we can get better at that while still working on those things. When a team doubles, this we should be getting everything we want, so I think it's something that we need to get better at and learning curve."
+
+[https://www.youtube.com/watch?v=DLxI4AeFN4w&t=4s](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=4s)
+
+**2. Neemias Queta — "his ability to impact the ball, being a help side defender as well, just versatility" — Neemias Queta praises Chris Cenac Jr.'s impact and versatility** [01:12](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=72s)
+
+Neemias Queta: "Just impact, you know, his ability to impact the ball, being a help side defender as well, just versatility, his physicality was off the charts as well. Rebounding was key to us too. I think he just got so much versatility in his game, maybe he can impact winning right away. So shout out to him and I think he's going to keep on learning and get him better."
+
+[https://www.youtube.com/watch?v=DLxI4AeFN4w&t=72s](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=72s)
+
+**3. Neemias Queta — "being disciplined and sound, I think that will go a long way for us" — Neemias Queta on the need for better discipline and composure** [01:55](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=115s)
+
+Neemias Queta: "I think it's just a mixture of things. There was one possession where they went three thousand in a row. I think at that point we should be able to understand. Just in general, me, all my teammates, we should be able to understand that some delays like that can really get them going. We got them the bonus pretty early in both quarters, third and fourth. So I think it's something that we need to get better at and learn how to play in that. Obviously we can all be better. A couple fouls on jump shooters, a couple fouls on getting jumping on the air on the shot fakes and fouling jump shooters too. So I think it's just being disciplined and sound, I think that will go a long way for us."
+
+[https://www.youtube.com/watch?v=DLxI4AeFN4w&t=115s](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=115s)
+
+**4. Neemias Queta — "I don't think we should overreact when things like that happen, we should just settle down" — Neemias Queta on handling defensive pressure and turnovers** [02:40](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=160s)
+
+Neemias Queta: "I think we all can be better in general. I think it was something that we were for them, they kept going to it and I think we could have definitely handled it better. But it's part of the game, they went on their run in those moments and I don't think we should overreact when things like that happen, we should just settle down, be able to be able to go to our strengths and play through them. I don't think it was something that disrupted us offensively that much, but I think we can definitely get better with those because eight turnovers in a row, yeah that's that's bad. So we can all get better and work on that."
+
+[https://www.youtube.com/watch?v=DLxI4AeFN4w&t=160s](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=160s)
+
+---
+
 ## Cavs vs Grizzlies | Kenny Atkinson Post Game | 11.18.2026 — *Cleveland Cavaliers*
 
 Source: [https://www.youtube.com/watch?v=EMh3AG5hV1w](https://www.youtube.com/watch?v=EMh3AG5hV1w)
@@ -887,6 +983,44 @@ Bam Adebayo: "Still haven't really grasped it to be honest, because I grew up pl
 Bam Adebayo: "I've been quarterbacking defense a long time. I think the coach trusts me enough to when I make different calls, he trusts me. And all of that's built on trust honestly. My teammates know I'm always communicating, being extra vocal on the defensive end so we know we're in our right spots."
 
 [https://www.youtube.com/watch?v=Ea-GfFFEXpo&t=374s](https://www.youtube.com/watch?v=Ea-GfFFEXpo&t=374s)
+
+---
+
+## Dillon Brooks Postgame On-Court Interview after Suns win against Sacramento Kings | 11-18-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=GN9G2uIHidU](https://www.youtube.com/watch?v=GN9G2uIHidU)
+
+_Speakers identified: Dillon Brooks, Amanda_
+
+**1. Dillon Brooks — "I know this is a long road trip, some guys got to step up in each game" — Dillon Brooks on his aggressive playstyle and team effort** [00:00](https://www.youtube.com/watch?v=GN9G2uIHidU&t=0s)
+
+**Unidentified reporter:** "Dillon, a season-high 29 points for you. How are you able to settle in and get into a flow state out there?"
+
+**Dillon Brooks:** "I think starting from the right from the beginning when I got the and-one, just trying to be aggressive throughout. I know this is a long road trip, some guys got to step up in each game and I felt like this game was for me to step up."
+
+[https://www.youtube.com/watch?v=GN9G2uIHidU&t=0s](https://www.youtube.com/watch?v=GN9G2uIHidU&t=0s)
+
+<small>[Clip it](presserclips://clip?v=GN9G2uIHidU&t=0&q=1) · [Send to Slack](presserclips://clip?v=GN9G2uIHidU&t=0&q=1&slack=1)</small>
+
+**2. Dillon Brooks — "I love when guys compete, and he's a competitor. He came out to play, he showed me a lot." — Dillon Brooks on his competitive matchup with De'Aaron Fox** [00:23](https://www.youtube.com/watch?v=GN9G2uIHidU&t=23s)
+
+**Unidentified reporter:** "Looking at that third quarter, it looked like **De'Aaron Fox** kind of chirped you a little bit. Did that maybe motivate you and fire you up some?"
+
+**Dillon Brooks:** "I love when guys compete, and he's a competitor. He came out to play, he showed me a lot. Me and him going back and forth, going back and forth in baskets, I like that. I like it a lot."
+
+[https://www.youtube.com/watch?v=GN9G2uIHidU&t=23s](https://www.youtube.com/watch?v=GN9G2uIHidU&t=23s)
+
+<small>[Clip it](presserclips://clip?v=GN9G2uIHidU&t=23&q=2) · [Send to Slack](presserclips://clip?v=GN9G2uIHidU&t=23&q=2&slack=1)</small>
+
+**3. Dillon Brooks — "We knew we had to get back in the game and we kind of did in that third quarter." — Dillon Brooks on the Suns' defensive intensity in the second half** [00:44](https://www.youtube.com/watch?v=GN9G2uIHidU&t=44s)
+
+**Unidentified reporter:** "The defensive tenacity really picked up there in the second half. You guys forced five turnovers in the third quarter. What was said at halftime to motivate you even more?"
+
+**Dillon Brooks:** "We knew we had to get back in the game and we kind of did in that third quarter. And then slowly we figured it out, gaining our physicality, getting to the ball more, making them feel us, making them take more tougher shots in the paint and it slowly wore on them."
+
+[https://www.youtube.com/watch?v=GN9G2uIHidU&t=44s](https://www.youtube.com/watch?v=GN9G2uIHidU&t=44s)
+
+<small>[Clip it](presserclips://clip?v=GN9G2uIHidU&t=44&q=3) · [Send to Slack](presserclips://clip?v=GN9G2uIHidU&t=44&q=3&slack=1)</small>
 
 ---
 
@@ -1209,6 +1343,56 @@ Ime Udoka: "It's good to see guys step in. Steven obviously played well. We can 
 Ime Udoka: "A lot is matchup and personnel based, but we do like Reed and Fred out there together. You think smaller guards and all that, but two handlers, two shooters, a lot of spacing behind who they're out there with, usually Kevin and Alpi at the time. But yeah, we were going Marcus initially first and if they have bigger personnel on the court, maybe we still do that. But tonight we liked what we saw against them and I like Fred and Reed and their chemistry together."
 
 [https://www.youtube.com/watch?v=a_-MS-B_QGk&t=157s](https://www.youtube.com/watch?v=a_-MS-B_QGk&t=157s)
+
+---
+
+## Chris Cenac Jr. REACTS to Entering Celtics Rotation | Celtics vs Nuggets Postgame — *Boston Celtics*
+
+Source: [https://www.youtube.com/watch?v=e-Xp13kEiFU](https://www.youtube.com/watch?v=e-Xp13kEiFU)
+
+_Speakers identified: Chris Cenac Jr._
+
+**1. Chris Cenac Jr. — "just staying ready at all times. I think I'm just staying ready whenever my name's called." — Chris Cenac Jr. on adjusting to NBA rotation minutes** [00:05](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=5s)
+
+Chris Cenac Jr.: "It's a change, but just staying ready at all times. I think I'm just staying ready whenever my name's called, go out there and compete, do what's asked."
+
+[https://www.youtube.com/watch?v=e-Xp13kEiFU&t=5s](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=5s)
+
+**2. Chris Cenac Jr. — "they told me I have a chance to play, just be ready. And that's what I did." — Chris Cenac Jr. on his sudden defensive assignment against Jamal Murray** [00:39](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=39s)
+
+Chris Cenac Jr.: "It was on the fly. They told me I have a chance to play, just be ready. And that's what I did."
+
+[https://www.youtube.com/watch?v=e-Xp13kEiFU&t=39s](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=39s)
+
+**3. Chris Cenac Jr. — "coming from Houston and how we play every day and how hard we practice translates a little bit." — Chris Cenac Jr. on the physical transition from college to NBA** [01:14](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=74s)
+
+Chris Cenac Jr.: "Coming from Houston and how we play every day and how hard we practice translates a little bit. I just go out there and do what's asked of me and play as hard as I can."
+
+[https://www.youtube.com/watch?v=e-Xp13kEiFU&t=74s](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=74s)
+
+**4. Chris Cenac Jr. — "Joe just said I got Jamal and I stepped up and just did my best." — Chris Cenac Jr. on Joe Mazzulla's defensive instructions** [01:40](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=100s)
+
+Chris Cenac Jr.: "Joe just said I got Jamal and I stepped up and just did my best and guarded."
+
+[https://www.youtube.com/watch?v=e-Xp13kEiFU&t=100s](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=100s)
+
+**5. Chris Cenac Jr. — "I studied the personnel before the game, because when I'm at the four I can switch onto anybody." — Chris Cenac Jr. on his defensive strategy against Jamal Murray** [01:55](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=115s)
+
+Chris Cenac Jr.: "Just knowing the personnel. I studied the personnel before the game, because when I'm at the four I can switch onto anybody, so just knowing the personnel."
+
+[https://www.youtube.com/watch?v=e-Xp13kEiFU&t=115s](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=115s)
+
+**6. Chris Cenac Jr. — "I think my length can be a problem for him, so just showing my hands, being long." — Chris Cenac Jr. on using his length to defend Jamal Murray** [02:17](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=137s)
+
+Chris Cenac Jr.: "I think my length can be a problem for him, so just showing my hands, being long, and yeah, just guarding with physicality."
+
+[https://www.youtube.com/watch?v=e-Xp13kEiFU&t=137s](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=137s)
+
+**7. Chris Cenac Jr. — "once I'm in a game, I'm just thinking about the next play or the present." — Chris Cenac Jr. on his mindset during high-pressure NBA moments** [02:30](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=150s)
+
+Chris Cenac Jr.: "Once I'm in a game, I'm just thinking about the next play or the present and how I can help the team."
+
+[https://www.youtube.com/watch?v=e-Xp13kEiFU&t=150s](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=150s)
 
 ---
 
@@ -1785,3 +1969,67 @@ Steve Kerr: "I think we always have a good sense of perspective around here. We'
 Steve Kerr: "LJ's done a really nice job. He's worked hard for us and he's gotten himself healthy this year. He's a great shooter, that's why we have him in the starting lineup trying to add some firepower to that group and a great young guy to coach. He's a guy who's committed to the team and loves the game and I enjoy having him with the group."
 
 [https://www.youtube.com/watch?v=vMdFd6yCG-Y&t=295s](https://www.youtube.com/watch?v=vMdFd6yCG-Y&t=295s)
+
+---
+
+## "continue to stick to our identity" | Josh Green locker room media availability after win in LA — *Utah Jazz*
+
+Source: [https://www.youtube.com/watch?v=wCubmWw25tM](https://www.youtube.com/watch?v=wCubmWw25tM)
+
+_Speakers identified: Josh Green_
+
+**1. Josh Green — "it gives us confidence to what we try to build up and what we're trying to do" — Josh Green on team confidence after back-to-back wins** [00:06](https://www.youtube.com/watch?v=wCubmWw25tM&t=6s)
+
+Josh Green: "I think it just goes back to the work we put into training camp. It gives us confidence to what we try to build up and what we're trying to do. So, I think enjoy it, but we have a hard schedule coming up, so just making sure that we enjoy it but get back and ready to go on Friday."
+
+[https://www.youtube.com/watch?v=wCubmWw25tM&t=6s](https://www.youtube.com/watch?v=wCubmWw25tM&t=6s)
+
+<small>[Clip it](presserclips://clip?v=wCubmWw25tM&t=6&q=1) · [Send to Slack](presserclips://clip?v=wCubmWw25tM&t=6&q=1&slack=1)</small>
+
+**2. Josh Green — "the younger guys have done an amazing job of being able to step up at the end" — Josh Green on team execution and young players stepping up** [00:28](https://www.youtube.com/watch?v=wCubmWw25tM&t=28s)
+
+Josh Green: "I think just sticking to the game plan. And also when the games are getting close, being able to just relax and understand that we're in control. I think the younger guys have done an amazing job of being able to step up at the end of the games. **Keon Ellis** is taking a huge leap; he's being a great leader for us, so that helps out when we have that."
+
+[https://www.youtube.com/watch?v=wCubmWw25tM&t=28s](https://www.youtube.com/watch?v=wCubmWw25tM&t=28s)
+
+<small>[Clip it](presserclips://clip?v=wCubmWw25tM&t=28&q=2) · [Send to Slack](presserclips://clip?v=wCubmWw25tM&t=28&q=2&slack=1)</small>
+
+**3. Josh Green — "Luka is Luka, he's a great player, so there's only so much you can really scout for" — Josh Green on defending Luka Doncic** [00:51](https://www.youtube.com/watch?v=wCubmWw25tM&t=51s)
+
+Josh Green: "At the end of the day, Luka is Luka, he's a great player, so there's only so much you can really scout for. For me, it's just going out there, giving as much effort as I can, and playing as hard as I can."
+
+[https://www.youtube.com/watch?v=wCubmWw25tM&t=51s](https://www.youtube.com/watch?v=wCubmWw25tM&t=51s)
+
+<small>[Clip it](presserclips://clip?v=wCubmWw25tM&t=51&q=3) · [Send to Slack](presserclips://clip?v=wCubmWw25tM&t=51&q=3&slack=1)</small>
+
+**4. Josh Green — "we know he can shoot the ball, that will all come around" — Josh Green on Jaden Hardy's shooting slump** [01:15](https://www.youtube.com/watch?v=wCubmWw25tM&t=75s)
+
+Josh Green: "It's 15 games into the season. We've seen **Jaden Hardy**, we know he can shoot the ball, so really it's 15, it's too early to say that. So we know he can shoot the ball, that will all come around, but we have utmost faith in Jaden. He's had an amazing year both sides of the court, defensively he's been a huge piece for our team."
+
+[https://www.youtube.com/watch?v=wCubmWw25tM&t=75s](https://www.youtube.com/watch?v=wCubmWw25tM&t=75s)
+
+<small>[Clip it](presserclips://clip?v=wCubmWw25tM&t=75&q=4) · [Send to Slack](presserclips://clip?v=wCubmWw25tM&t=75&q=4&slack=1)</small>
+
+**5. Josh Green — "he's being a front runner and we're being able to go off him and be energetic" — Josh Green on Jaden Hardy's leadership and playmaking** [01:34](https://www.youtube.com/watch?v=wCubmWw25tM&t=94s)
+
+Josh Green: "Towards the end of the game, him being able to step up and be our leader, he's being a front runner and we're being able to go off him and be energetic. He's been ready to go, he's been locked in, and it shows in our losses, he's been frustrated and he's been trying to win. So it's been great, he's been great."
+
+[https://www.youtube.com/watch?v=wCubmWw25tM&t=94s](https://www.youtube.com/watch?v=wCubmWw25tM&t=94s)
+
+<small>[Clip it](presserclips://clip?v=wCubmWw25tM&t=94&q=5) · [Send to Slack](presserclips://clip?v=wCubmWw25tM&t=94&q=5&slack=1)</small>
+
+**6. Josh Green — "a lot better than where it was three, four games ago" — Josh Green on team's improved ability to close out games** [01:58](https://www.youtube.com/watch?v=wCubmWw25tM&t=118s)
+
+Josh Green: "A lot better than where it was three, four games ago. And I think that's been a big emphasis on what we've done. We've been able to learn off other teams in the NBA too with how they finish games. So it's a learning process and I think it shows that we're paying attention and sticking to the game plan."
+
+[https://www.youtube.com/watch?v=wCubmWw25tM&t=118s](https://www.youtube.com/watch?v=wCubmWw25tM&t=118s)
+
+<small>[Clip it](presserclips://clip?v=wCubmWw25tM&t=118&q=6) · [Send to Slack](presserclips://clip?v=wCubmWw25tM&t=118&q=6&slack=1)</small>
+
+**7. Josh Green — "it's a good win for us to show how good of a team we are" — Josh Green on the significance of beating a top team** [02:26](https://www.youtube.com/watch?v=wCubmWw25tM&t=146s)
+
+Josh Green: "It feels good. It feels great. I think it shows it's a good win for us to show how good of a team we are. Obviously our record isn't showing that right now, but at the end of the day, I think it shows that we have a talented team. We just need to go out and make sure we're the team hitting first and continue to stick to our identity."
+
+[https://www.youtube.com/watch?v=wCubmWw25tM&t=146s](https://www.youtube.com/watch?v=wCubmWw25tM&t=146s)
+
+<small>[Clip it](presserclips://clip?v=wCubmWw25tM&t=146&q=7) · [Send to Slack](presserclips://clip?v=wCubmWw25tM&t=146&q=7&slack=1)</small>

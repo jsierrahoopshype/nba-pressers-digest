@@ -1,0 +1,244 @@
+{
+  "video_title": "Chris Cenac Jr. REACTS to Entering Celtics Rotation | Celtics vs Nuggets Postgame",
+  "speakers_seen": [
+    "Chris Cenac Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Cenac Jr.",
+      "timestamp": "00:05",
+      "summary_phrase": "Chris Cenac Jr. on adjusting to NBA rotation minutes",
+      "names_mentioned": [],
+      "excerpt": "just staying ready at all times. I think I'm just staying ready whenever my name's called.",
+      "quote": "It's a change, but just staying ready at all times. I think I'm just staying ready whenever my name's called, go out there and compete, do what's asked.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 16,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Chris Cenac Jr on adjusting to his new role in the Celtics rotation: It is a change but I am just staying ready at all times and doing what is asked.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Chris Cenac Jr. discusses his mindset regarding his recent transition into the Celtics rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Cenac Jr.",
+      "timestamp": "00:39",
+      "summary_phrase": "Chris Cenac Jr. on his sudden defensive assignment against Jamal Murray",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "they told me I have a chance to play, just be ready. And that's what I did.",
+      "quote": "It was on the fly. They told me I have a chance to play, just be ready. And that's what I did.",
+      "text_blocks": [],
+      "start_seconds": 39,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Chris Cenac Jr on being thrown into the fire to guard Jamal Murray: It was on the fly. They told me I have a chance to play, just be ready. And that is what I did.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Chris Cenac Jr. describes being told on short notice that he would be guarding Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Cenac Jr.",
+      "timestamp": "01:14",
+      "summary_phrase": "Chris Cenac Jr. on the physical transition from college to NBA",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "coming from Houston and how we play every day and how hard we practice translates a little bit.",
+      "quote": "Coming from Houston and how we play every day and how hard we practice translates a little bit. I just go out there and do what's asked of me and play as hard as I can.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Chris Cenac Jr credits his time at Houston for helping him handle the physical transition to the NBA: I just go out there and do what is asked of me and play as hard as I can.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Chris Cenac Jr. explains how his practice habits at Houston prepared him for the physical demands of the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Cenac Jr.",
+      "timestamp": "01:40",
+      "summary_phrase": "Chris Cenac Jr. on Joe Mazzulla's defensive instructions",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "Joe just said I got Jamal and I stepped up and just did my best.",
+      "quote": "Joe just said I got Jamal and I stepped up and just did my best and guarded.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Chris Cenac Jr on his defensive assignment against Jamal Murray: Joe just said I got Jamal and I stepped up and just did my best and guarded.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joe Mazzulla",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Chris Cenac Jr. discusses receiving defensive instructions from head coach Joe Mazzulla to guard Jamal Murray.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Cenac Jr.",
+      "timestamp": "01:55",
+      "summary_phrase": "Chris Cenac Jr. on his defensive strategy against Jamal Murray",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "I studied the personnel before the game, because when I'm at the four I can switch onto anybody.",
+      "quote": "Just knowing the personnel. I studied the personnel before the game, because when I'm at the four I can switch onto anybody, so just knowing the personnel.",
+      "text_blocks": [],
+      "start_seconds": 115,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Chris Cenac Jr on his defensive preparation: I studied the personnel before the game, because when I am at the four I can switch onto anybody.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Chris Cenac Jr. explains his preparation and defensive strategy regarding Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Cenac Jr.",
+      "timestamp": "02:17",
+      "summary_phrase": "Chris Cenac Jr. on using his length to defend Jamal Murray",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "I think my length can be a problem for him, so just showing my hands, being long.",
+      "quote": "I think my length can be a problem for him, so just showing my hands, being long, and yeah, just guarding with physicality.",
+      "text_blocks": [],
+      "start_seconds": 137,
+      "end_seconds": 146,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Chris Cenac Jr on how he used his length to defend Jamal Murray: I think my length can be a problem for him, so just showing my hands, being long, and guarding with physicality.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Chris Cenac Jr. discusses how he uses his physical length to defend Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Chris Cenac Jr.",
+      "timestamp": "02:30",
+      "summary_phrase": "Chris Cenac Jr. on his mindset during high-pressure NBA moments",
+      "names_mentioned": [],
+      "excerpt": "once I'm in a game, I'm just thinking about the next play or the present.",
+      "quote": "Once I'm in a game, I'm just thinking about the next play or the present and how I can help the team.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Chris Cenac Jr on his mindset during high pressure moments: Once I am in a game, I am just thinking about the next play or the present and how I can help the team.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Chris Cenac Jr. reflects on his mental approach to staying focused during NBA games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "e-Xp13kEiFU",
+  "url": "https://www.youtube.com/watch?v=e-Xp13kEiFU",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-19T06:11:52Z",
+  "duration_seconds": 171,
+  "processed_at": "2026-11-19T07:03:59Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

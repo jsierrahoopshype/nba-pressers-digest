@@ -1,0 +1,150 @@
+{
+  "video_title": "Dillon Brooks Postgame On-Court Interview after Suns win against Sacramento Kings | 11-18-26",
+  "speakers_seen": [
+    "Dillon Brooks",
+    "Amanda"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dillon Brooks",
+      "speakers": [
+        "Unidentified reporter",
+        "Dillon Brooks"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Dillon Brooks on his aggressive playstyle and team effort",
+      "names_mentioned": [
+        "Dillon Brooks"
+      ],
+      "excerpt": "I know this is a long road trip, some guys got to step up in each game",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Dillon, a season-high 29 points for you. How are you able to settle in and get into a flow state out there?"
+        },
+        {
+          "speaker": "Dillon Brooks",
+          "text": "I think starting from the right from the beginning when I got the and-one, just trying to be aggressive throughout. I know this is a long road trip, some guys got to step up in each game and I felt like this game was for me to step up."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 27,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Dillon Brooks on his 29 point performance against the Kings: I think starting from the right from the beginning when I got the and-one, just trying to be aggressive throughout. I know this is a long road trip, some guys got to step up.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks discusses his aggressive offensive performance and his mindset during the game against the Sacramento Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dillon Brooks",
+      "speakers": [
+        "Unidentified reporter",
+        "Dillon Brooks"
+      ],
+      "timestamp": "00:23",
+      "summary_phrase": "Dillon Brooks on his competitive matchup with De'Aaron Fox",
+      "names_mentioned": [
+        "De'Aaron Fox"
+      ],
+      "excerpt": "I love when guys compete, and he's a competitor. He came out to play, he showed me a lot.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Looking at that third quarter, it looked like De'Aaron Fox kind of chirped you a little bit. Did that maybe motivate you and fire you up some?"
+        },
+        {
+          "speaker": "Dillon Brooks",
+          "text": "I love when guys compete, and he's a competitor. He came out to play, he showed me a lot. Me and him going back and forth, going back and forth in baskets, I like that. I like it a lot."
+        }
+      ],
+      "start_seconds": 23,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Dillon Brooks on his competitive back and forth with DeAaron Fox: I love when guys compete, and he is a competitor. He came out to play, he showed me a lot. Me and him going back and forth in baskets, I like that.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "De'Aaron Fox"
+        ],
+        "teams": [
+          "PHX",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks reacts to a question about his competitive back-and-forth matchup with De'Aaron Fox during the third quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dillon Brooks",
+      "speakers": [
+        "Unidentified reporter",
+        "Dillon Brooks"
+      ],
+      "timestamp": "00:44",
+      "summary_phrase": "Dillon Brooks on the Suns' defensive intensity in the second half",
+      "names_mentioned": [],
+      "excerpt": "We knew we had to get back in the game and we kind of did in that third quarter.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "The defensive tenacity really picked up there in the second half. You guys forced five turnovers in the third quarter. What was said at halftime to motivate you even more?"
+        },
+        {
+          "speaker": "Dillon Brooks",
+          "text": "We knew we had to get back in the game and we kind of did in that third quarter. And then slowly we figured it out, gaining our physicality, getting to the ball more, making them feel us, making them take more tougher shots in the paint and it slowly wore on them."
+        }
+      ],
+      "start_seconds": 44,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dillon Brooks on the Suns defensive intensity in the second half: We knew we had to get back in the game. Gaining our physicality, getting to the ball more, making them feel us, making them take more tougher shots in the paint.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Dillon Brooks explains the defensive adjustments and increased physicality the Suns utilized in the second half to overcome the Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "GN9G2uIHidU",
+  "url": "https://www.youtube.com/watch?v=GN9G2uIHidU",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-19T06:32:20Z",
+  "duration_seconds": 75,
+  "processed_at": "2026-11-19T07:03:44Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

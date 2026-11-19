@@ -1,0 +1,240 @@
+{
+  "video_title": "\"continue to stick to our identity\" | Josh Green locker room media availability after win in LA",
+  "speakers_seen": [
+    "Josh Green"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Josh Green",
+      "timestamp": "00:06",
+      "summary_phrase": "Josh Green on team confidence after back-to-back wins",
+      "names_mentioned": [],
+      "excerpt": "it gives us confidence to what we try to build up and what we're trying to do",
+      "quote": "I think it just goes back to the work we put into training camp. It gives us confidence to what we try to build up and what we're trying to do. So, I think enjoy it, but we have a hard schedule coming up, so just making sure that we enjoy it but get back and ready to go on Friday.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Josh Green says the team is leaning on the work put in during training camp to maintain confidence after recent wins.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Josh Green discusses the team's confidence following back-to-back victories.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Josh Green",
+      "timestamp": "00:28",
+      "summary_phrase": "Josh Green on team execution and young players stepping up",
+      "names_mentioned": [
+        "Keon Ellis"
+      ],
+      "excerpt": "the younger guys have done an amazing job of being able to step up at the end",
+      "quote": "I think just sticking to the game plan. And also when the games are getting close, being able to just relax and understand that we're in control. I think the younger guys have done an amazing job of being able to step up at the end of the games. Keon Ellis is taking a huge leap; he's being a great leader for us, so that helps out when we have that.",
+      "text_blocks": [],
+      "start_seconds": 28,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Josh Green credits Keon Ellis for taking a huge leap and providing leadership for the team during crunch time.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Keon Ellis"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Josh Green praises Keon Ellis for his leadership and performance in close games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Josh Green",
+      "timestamp": "00:51",
+      "summary_phrase": "Josh Green on defending Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "Luka is Luka, he's a great player, so there's only so much you can really scout for",
+      "quote": "At the end of the day, Luka is Luka, he's a great player, so there's only so much you can really scout for. For me, it's just going out there, giving as much effort as I can, and playing as hard as I can.",
+      "text_blocks": [],
+      "start_seconds": 51,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Josh Green on defending Luka Doncic: Luka is Luka and there is only so much you can really scout for.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "UTA",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Josh Green explains his defensive approach when playing against Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Josh Green",
+      "timestamp": "01:15",
+      "summary_phrase": "Josh Green on Jaden Hardy's shooting slump",
+      "names_mentioned": [
+        "Jaden Hardy"
+      ],
+      "excerpt": "we know he can shoot the ball, that will all come around",
+      "quote": "It's 15 games into the season. We've seen Jaden Hardy, we know he can shoot the ball, so really it's 15, it's too early to say that. So we know he can shoot the ball, that will all come around, but we have utmost faith in Jaden. He's had an amazing year both sides of the court, defensively he's been a huge piece for our team.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Josh Green says it is too early to worry about Jaden Hardy shooting slump and the team has utmost faith in him.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden Hardy"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Josh Green expresses confidence in Jaden Hardy despite his recent shooting struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Josh Green",
+      "timestamp": "01:34",
+      "summary_phrase": "Josh Green on Jaden Hardy's leadership and playmaking",
+      "names_mentioned": [
+        "Jaden Hardy"
+      ],
+      "excerpt": "he's being a front runner and we're being able to go off him and be energetic",
+      "quote": "Towards the end of the game, him being able to step up and be our leader, he's being a front runner and we're being able to go off him and be energetic. He's been ready to go, he's been locked in, and it shows in our losses, he's been frustrated and he's been trying to win. So it's been great, he's been great.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Josh Green praises Jaden Hardy for his leadership and energy even during the team losses.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden Hardy"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Josh Green highlights Jaden Hardy's leadership and competitive mindset during the team's recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Josh Green",
+      "timestamp": "01:58",
+      "summary_phrase": "Josh Green on team's improved ability to close out games",
+      "names_mentioned": [],
+      "excerpt": "a lot better than where it was three, four games ago",
+      "quote": "A lot better than where it was three, four games ago. And I think that's been a big emphasis on what we've done. We've been able to learn off other teams in the NBA too with how they finish games. So it's a learning process and I think it shows that we're paying attention and sticking to the game plan.",
+      "text_blocks": [],
+      "start_seconds": 118,
+      "end_seconds": 141,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Josh Green says the team is improving at closing out games by learning from how other NBA teams finish.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Josh Green comments on the team's improved ability to execute game plans and close out games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Josh Green",
+      "timestamp": "02:26",
+      "summary_phrase": "Josh Green on the significance of beating a top team",
+      "names_mentioned": [],
+      "excerpt": "it's a good win for us to show how good of a team we are",
+      "quote": "It feels good. It feels great. I think it shows it's a good win for us to show how good of a team we are. Obviously our record isn't showing that right now, but at the end of the day, I think it shows that we have a talented team. We just need to go out and make sure we're the team hitting first and continue to stick to our identity.",
+      "text_blocks": [],
+      "start_seconds": 146,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Josh Green says the team needs to continue to stick to our identity after a big win against a top opponent.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Josh Green reflects on the importance of the team's recent win against a top opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "wCubmWw25tM",
+  "url": "https://www.youtube.com/watch?v=wCubmWw25tM",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-19T06:33:41Z",
+  "duration_seconds": 176,
+  "processed_at": "2026-11-19T07:03:47Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}
