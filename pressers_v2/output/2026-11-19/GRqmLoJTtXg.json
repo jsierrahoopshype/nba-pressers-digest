@@ -1,0 +1,86 @@
+{
+  "video_title": "Damian Lillard Media Availability | Nov. 19, 2026 | Portland Trail Blazers",
+  "speakers_seen": [
+    "Damian Lillard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:47",
+      "summary_phrase": "Damian Lillard on the challenges of returning from injury",
+      "names_mentioned": [],
+      "excerpt": "I wasn't going to fold to a significant injury or a tough time.",
+      "quote": "It is all a journey. All of our careers is a journey. You experience injuries, you experience highs and lows in your performance. That is what we spend our entire lives working towards, to continue to push on this journey. Being injured, being waived, and then having to fight my way back to being able to get in form and play at a good level again, it was tough, but it was something I was up for. There is no other way that I would have went out. I wasn't going to fold to a significant injury or a tough time. This is the only way for me to do the work and put the time in and make sure that I was able to get back and finish my career like I want.",
+      "verbatim_original_language": "",
+      "start_seconds": 47,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Damian Lillard reflects on his recovery process and the mental toughness required to return from injury saying it is all a journey and he was not going to fold to a significant injury",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Damian Lillard discusses his personal experience and mindset while recovering from a significant injury during his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Damian Lillard",
+      "timestamp": "01:44",
+      "summary_phrase": "Damian Lillard on the team's decision to waive him",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "The team was focused on bringing somebody in here that they could pair with Giannis.",
+      "quote": "I was injured. I wasn't going to be available to play last season. The team was focused on bringing somebody in here that they could pair with Giannis so that they could still be a competitive team, which is the business side of it. That is what I saw. I haven't thought about it since it happened. I am not sitting around playing something that happened over a year ago. I saw it for what it was and I moved on.",
+      "verbatim_original_language": "",
+      "start_seconds": 104,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Damian Lillard on being waived by the Bucks last season: The team was focused on bringing somebody in here that they could pair with Giannis so that they could still be a competitive team. I saw it for what it was and I moved on.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "POR",
+          "MIL"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Damian Lillard reflects on the team's decision to waive him while he was injured to pursue other roster moves alongside Giannis Antetokounmpo.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "GRqmLoJTtXg",
+  "url": "https://www.youtube.com/watch?v=GRqmLoJTtXg",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-19T21:07:53Z",
+  "duration_seconds": 184,
+  "processed_at": "2026-11-19T22:08:43Z",
+  "run_id": "2026-11-19T2207Z-14utc",
+  "is_one_off": false
+}

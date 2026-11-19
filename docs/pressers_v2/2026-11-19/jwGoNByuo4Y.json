@@ -1,0 +1,519 @@
+{
+  "video_title": "LIVE: Pelicans vs. Pistons Postgame Interviews 11/18/2026",
+  "speakers_seen": [
+    "Jordan Poole",
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Poole",
+      "timestamp": "19:49",
+      "summary_phrase": "Jordan Poole on his role and opportunity in the rotation",
+      "names_mentioned": [],
+      "excerpt": "being able to get the opportunity, I know what I'm capable of, just trying to get consistent opportunity.",
+      "quote": "Being able to get the opportunity, I know what I'm capable of, just trying to get consistent opportunity. That's all it is, and figuring out who I'm out there on the court with and just trying to make it easy for those guys as well as myself and the team and just trying to play basketball the right way.",
+      "text_blocks": [],
+      "start_seconds": 1189,
+      "end_seconds": 1212,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Poole on finding his rhythm in the rotation: Being able to get the opportunity, I know what I am capable of, just trying to get consistent opportunity. That is all it is.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jordan Poole discusses his desire for consistent rotation minutes and his approach to playing with teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Poole",
+      "timestamp": "20:18",
+      "summary_phrase": "Jordan Poole on the team's defensive struggles and rebounding",
+      "names_mentioned": [],
+      "excerpt": "we were getting a lot of initial stops. I think it was just a lot of rebounds.",
+      "quote": "We were getting a lot of initial stops. I think it was just a lot of rebounds that we weren't able to finish our first possession, and they got some second-chance points. And then it's tough when we want to be able to play physical basketball and then we're kind of getting ticky-tack fouls, and it's kind of hard for us to play our defense on top of them being able to knock threes down. It was just a pretty tough recipe tonight.",
+      "text_blocks": [],
+      "start_seconds": 1218,
+      "end_seconds": 1250,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Poole on the defensive struggles against Detroit: It was just a pretty tough recipe tonight. We were getting initial stops but could not finish possessions with rebounds.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jordan Poole reflects on the team's defensive struggles and rebounding issues against the Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Poole",
+      "timestamp": "21:05",
+      "summary_phrase": "Jordan Poole on Jeremiah Fears' development as a playmaker",
+      "names_mentioned": [
+        "Jeremiah Fears"
+      ],
+      "excerpt": "they're obviously trying to put him in a position so he can learn, get a lot of reps.",
+      "quote": "They're obviously trying to put him in a position so he can learn, get a lot of reps, get a lot of minutes. I feel like he's been doing a really good job of that. He had a really good game, obviously last game with the triple-double, so it's just a matter of reps, being able to play, especially at a young age, seeing a lot of different actions and time early. He's been doing a good job.",
+      "text_blocks": [],
+      "start_seconds": 1265,
+      "end_seconds": 1295,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Poole on the development of Jeremiah Fears: They are trying to put him in a position so he can learn and get a lot of reps. He has been doing a really good job.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jeremiah Fears"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Poole comments on the development and playmaking growth of his teammate Jeremiah Fears.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vL49lzp13lA",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Poole",
+      "timestamp": "21:43",
+      "summary_phrase": "Jordan Poole on the team's high turnover rate",
+      "names_mentioned": [],
+      "excerpt": "anytime you have a high amount of turnovers, it makes you second-guess a little bit.",
+      "quote": "Anytime you have a high amount of turnovers, it makes you second-guess a little bit. But I don't think it was necessarily because of their defense, it was probably just more of our offense. We just got to be stronger with the ball. You don't want to pass up any opportunities where you don't get a shot. It kind of hindered us a tiny bit on that side. We just got to be better while still also being aggressive.",
+      "text_blocks": [],
+      "start_seconds": 1303,
+      "end_seconds": 1333,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Poole on the high turnover rate: I do not think it was necessarily because of their defense, it was probably just more of our offense. We just got to be stronger with the ball.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jordan Poole addresses the team's high turnover rate during the game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vL49lzp13lA",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Poole",
+      "timestamp": "22:23",
+      "summary_phrase": "Jordan Poole on the team's chemistry and coaching staff",
+      "names_mentioned": [],
+      "excerpt": "I think we're teaching the right stuff, especially our coaching staff and the places that we want to be.",
+      "quote": "I think we're teaching the right stuff, especially our coaching staff and the places that we want to be. Just a really good team over there. I think we're in a good space, you know, we just got to just figure it out. I think we're talented enough, I think we got the right pieces, it's just a matter of just putting it all together.",
+      "text_blocks": [],
+      "start_seconds": 1343,
+      "end_seconds": 1368,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Poole on team chemistry: I think we are in a good space, you know, we just got to figure it out. I think we are talented enough, I think we got the right pieces.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jordan Poole discusses the team's chemistry and the coaching staff's direction.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vL49lzp13lA",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Poole",
+      "timestamp": "23:22",
+      "summary_phrase": "Jordan Poole on the team's need for better ball movement",
+      "names_mentioned": [],
+      "excerpt": "you want to move the ball, you want to swing the ball, you want to find ways to make it easy.",
+      "quote": "You want to move the ball, you want to swing the ball, you want to find ways to make it easy not only for yourself but for your team. It's a new group, it's a very talented group. It's just really trusting and believing that the next guy can help you out. You know, I think sometimes we know how talented we are and guys kind of try to do it themselves, but I do and DJ and a couple of the other older guys on the team are just trying to preach in general, maybe to some of the younger guys who are also still learning, that like, make it easy on yourself over the course of the game.",
+      "text_blocks": [],
+      "start_seconds": 1402,
+      "end_seconds": 1448,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Poole on ball movement: I think sometimes we know how talented we are and guys kind of try to do it themselves. We are just trying to preach to the younger guys to make it easy on yourself over the course of the game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Poole explains the need for better ball movement and trust among the younger players on the team.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vL49lzp13lA",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Poole",
+      "timestamp": "24:00",
+      "summary_phrase": "Jordan Poole on the Pelicans' unique playing style",
+      "names_mentioned": [],
+      "excerpt": "we got a pretty unique style of basketball that we play, very physical, very downhill.",
+      "quote": "We got a pretty unique style of basketball that we play, very physical, very downhill. I think we're the number one team in points in the paint. So, when we get stops, we can get out and run, and we're a physical team and we can get layups. Obviously, you want to move the ball, you want to swing the ball, you want to find ways to make it easy not only for yourself but for your team.",
+      "text_blocks": [],
+      "start_seconds": 1440,
+      "end_seconds": 1470,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Poole on the Pelicans style: We got a pretty unique style of basketball that we play, very physical, very downhill. I think we are the number one team in points in the paint.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jordan Poole describes the Pelicans' unique physical and downhill playing style.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vL49lzp13lA",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "29:38",
+      "summary_phrase": "Jamahl Mosley on the team's turnover issues",
+      "names_mentioned": [],
+      "excerpt": "we have nine turnovers in the first quarter. So, our ability to take care of the basketball.",
+      "quote": "We have nine turnovers in the first quarter. So, our ability to take care of the basketball, which we said, this is the team, they're handsy, they're going to grab, they're going to hold, they're physical, they play that way. 16 turnovers for 20 points, give them 21 fast-break points, 10 second-chance points, and then you put them on the line 27 times. So, those are not winning the possession battle.",
+      "text_blocks": [],
+      "start_seconds": 1778,
+      "end_seconds": 1805,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the turnover battle: We have nine turnovers in the first quarter. 16 turnovers for 20 points, give them 21 fast break points, 10 second chance points. Those are not winning the possession battle.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley breaks down the turnover issues and possession battle against the Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "mQYGABe76po",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "30:11",
+      "summary_phrase": "Jamahl Mosley on missed opportunities and transition defense",
+      "names_mentioned": [],
+      "excerpt": "there were moments in the game we get downhill, attack the basket, we end up missing a layup.",
+      "quote": "There were moments in the game we get downhill, attack the basket, we end up missing a layup or miss a shot. That is as good as a turnover, because we got two guys at the rim and they were just throwing it up ahead for knockdown threes or easy, easy layups.",
+      "text_blocks": [],
+      "start_seconds": 1811,
+      "end_seconds": 1831,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on missed opportunities: There were moments in the game we get downhill, attack the basket, we end up missing a layup or miss a shot. That is as good as a turnover.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley explains how missed layups contributed to the team's transition defense struggles.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "mQYGABe76po",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "30:35",
+      "summary_phrase": "Jamahl Mosley on the team's 'next man up' culture",
+      "names_mentioned": [],
+      "excerpt": "no matter who's out there, they can go and execute the vision.",
+      "quote": "No matter who's out there, they can go and execute the vision. Absolutely, and there's been moments we've shown it. It's just we have to make sure we sustain it, because like you said, get it to three, there's moments in the game, you keep pushing, and then that's when the small possession battles matter. You can't turn over twice in a row as you're making a run back, now you give them momentum.",
+      "text_blocks": [],
+      "start_seconds": 1835,
+      "end_seconds": 1863,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the next man up culture: No matter who is out there, they can go and execute the vision. It is just we have to make sure we sustain it.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley discusses the importance of sustaining effort and execution regardless of the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "31:13",
+      "summary_phrase": "Jamahl Mosley on the team's performance on the home stand",
+      "names_mentioned": [],
+      "excerpt": "we were one and four on a home stand. Not too happy about it.",
+      "quote": "We were one and four on a home stand. Not too happy about it. There are moments we played very well and there's moments that we didn't. And so based on all the things with guys in, guys out, movement, there's a level of consistency that needs to be there and that we just, to your point, no matter who steps up and steps in, we have to have that level of consistency night in and night out.",
+      "text_blocks": [],
+      "start_seconds": 1873,
+      "end_seconds": 1903,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on the home stand: We were one and four on a home stand. Not too happy about it. There is a level of consistency that needs to be there.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley expresses dissatisfaction with the team's one and four record during their recent home stand.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "mQYGABe76po",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "32:05",
+      "summary_phrase": "Jamahl Mosley on the status of injured players",
+      "names_mentioned": [],
+      "excerpt": "we'll find out more tomorrow once guys, you know, go come in and get some treatment.",
+      "quote": "We'll find out more tomorrow once guys, you know, go come in and get some treatment. Again, but we're demanding a lot of these guys that are on the roster to play heavy minutes, aggressive minutes, the style of play that we want to play, physical defensively, get out and run offensively. You're demanding a lot on those guys. So whenever these guys are able to get back, it'll be a welcome sight.",
+      "text_blocks": [],
+      "start_seconds": 1925,
+      "end_seconds": 1953,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on injury status: We will find out more tomorrow once guys come in and get some treatment. We are demanding a lot of these guys that are on the roster to play heavy minutes.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Jamahl Mosley provides an update on the status of injured players and the heavy workload on the current roster.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "mQYGABe76po",
+        "rank": 5
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "32:33",
+      "summary_phrase": "Jamahl Mosley on the team's defensive and offensive consistency",
+      "names_mentioned": [],
+      "excerpt": "you don't want to let the offense dictate your defense.",
+      "quote": "You don't want to let the offense dictate your defense. And a lot of that early was happening because they were getting out and get such easy baskets. And you know, playing against a Detroit team when they're getting easy baskets because you turn it over and then you come back down and have to play against them in the halfcourt and it's grabbing, holding, physical, like that begins to wear you down. And our ability to mentally sustain that effort is where we've got to get to.",
+      "text_blocks": [],
+      "start_seconds": 1953,
+      "end_seconds": 1987,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on defensive effort: You do not want to let the offense dictate your defense. Our ability to mentally sustain that effort is where we have got to get to.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley explains how turnovers and the Pistons' physical play impacted the team's defensive consistency.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "mQYGABe76po",
+        "rank": 6
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "34:40",
+      "summary_phrase": "Jamahl Mosley on the growth of Daron Pierre Jr.",
+      "names_mentioned": [
+        "Daron Pierre Jr."
+      ],
+      "excerpt": "what he's called to do is, you know, when we call him up to be with this group.",
+      "quote": "What he's called to do is, you know, when we call him up to be with this group, you know, play with a high level of energy, to continue to attack the basket, defend at a high level, continue to move it, share it, trust it, but play with a level of confidence and decisiveness when you're on the floor. And that's what he's done for us. Again, and that's depending on how things go, we'll continue to look at it, but that's the growth of these young guys and that's why we have the squad and that's why we're so connected to be able to see when you bring someone to the group, they step right in like nothing changes.",
+      "text_blocks": [],
+      "start_seconds": 2080,
+      "end_seconds": 2127,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the growth of Daron Pierre Jr: When we call him up to be with this group, play with a high level of energy, to continue to attack the basket, defend at a high level, continue to move it, share it, trust it.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Daron Pierre Jr."
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Jamahl Mosley discusses the growth and expectations for Daron Pierre Jr. when he is called up to the team.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "mQYGABe76po",
+        "rank": 7
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "35:25",
+      "summary_phrase": "Jamahl Mosley on Carlos's recent struggles",
+      "names_mentioned": [
+        "Carlos"
+      ],
+      "excerpt": "Carlos is going to get, Carlos will be on track.",
+      "quote": "Carlos is going to get, Carlos will be on track. And I think a lot of that was because of the way that they were the way that they were playing and they were grabbing and physical. I wanted to get a little bit more presence at the rim going with DeAndre, right? And so there was a moment we made a run back with DeAndre in the game and then trying to mix it up from there was what I was trying to do. But again, Carlos continues to work on his game. He continues to get into a shot, he continues to talk to his coaches, us coaches as well as watch film. So he's going to be just fine.",
+      "text_blocks": [],
+      "start_seconds": 2125,
+      "end_seconds": 2172,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Carlos: Carlos is going to get on track. I wanted to get a little bit more presence at the rim going with DeAndre. Carlos continues to work on his game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Carlos",
+          "DeAndre"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Jamahl Mosley explains his decision to play DeAndre over Carlos to gain more rim presence.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "mQYGABe76po",
+        "rank": 8
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "jwGoNByuo4Y",
+  "url": "https://www.youtube.com/watch?v=jwGoNByuo4Y",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-19T19:34:18Z",
+  "duration_seconds": 2242,
+  "processed_at": "2026-11-19T22:09:11Z",
+  "run_id": "2026-11-19T2207Z-14utc",
+  "is_one_off": false
+}
