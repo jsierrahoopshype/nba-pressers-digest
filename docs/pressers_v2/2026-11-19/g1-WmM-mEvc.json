@@ -1,0 +1,150 @@
+{
+  "video_title": "Georges Niang declares Warriors won’t go down without fight | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Georges Niang"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Georges Niang",
+      "timestamp": "00:08",
+      "summary_phrase": "Georges Niang on the Warriors' resilience despite Steph Curry's injury",
+      "names_mentioned": [
+        "Steph"
+      ],
+      "excerpt": "the Steph injury is unfortunate we're missing bodies but at the end of the day we have good spirit",
+      "quote": "The biggest thing is we got to continue to keep chopping wood and continuing to grow and get better. The Steph injury is unfortunate we're missing bodies but at the end of the day we have good spirit. I think we're pulling for one another but this is a unique situation. You are used to playing a certain style with certain players and then when they're out you kind of have to reinvent yourself and we're in that process.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Georges Niang says the Warriors are in the process of reinventing themselves while dealing with the Steph Curry injury. He notes the team has to keep chopping wood and growing despite missing key bodies.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Georges Niang discusses the impact of Stephen Curry's injury on the team's ability to maintain their usual style of play.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Georges Niang",
+      "timestamp": "00:41",
+      "summary_phrase": "Georges Niang on Trayce Jackson-Davis's development as a rookie",
+      "names_mentioned": [
+        "Yaxel"
+      ],
+      "excerpt": "we're asking Yaxel to do a lot especially as a rookie and I think he's doing a great job",
+      "quote": "We're asking Yaxel to do a lot especially as a rookie and I think he's doing a great job of taking it head on and really trying to implicate the things that we're trying to have him do in everyday process. Now that he is a forefront of everyone's scouting report that becomes a little difficult. Those pictures that you're seeing as a second or third option are totally different when you're the number one option and teams are like we're taking you away.",
+      "text_blocks": [],
+      "start_seconds": 41,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Georges Niang praises Trayce Jackson Davis for handling the increased defensive attention that comes with being a primary option for the Warriors.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trayce Jackson-Davis"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Georges Niang discusses the challenges rookie Trayce Jackson-Davis faces as he takes on a larger role in the team's rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Georges Niang",
+      "timestamp": "02:07",
+      "summary_phrase": "Georges Niang on maintaining perspective during difficult NBA seasons",
+      "names_mentioned": [
+        "Steve"
+      ],
+      "excerpt": "you just have to weather the storm bad times are going to happen during the year",
+      "quote": "I've been in the NBA so long, I hate to say I've been in the NBA so long like I'm a 20-year guy, but you just have to weather the storm. Bad times are going to happen during the year and you're not going to remember this in January, February when you're clicking on all cylinders. But I think this is good for us to go through this. Steve's been extremely positive and I think that's what we need through this period, but I think as the players we're not going to go down without a fight.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Georges Niang remains optimistic about the Warriors despite their current struggles. He says the team is not going to go down without a fight and credits Steve Kerr for keeping a positive attitude during this period.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Georges Niang reflects on the team's struggles and praises Steve Kerr's positive leadership during a difficult stretch of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Georges Niang",
+      "timestamp": "02:58",
+      "summary_phrase": "Georges Niang on learning from past experiences with losing teams",
+      "names_mentioned": [],
+      "excerpt": "this is just a league where people say you have to have amnesia",
+      "quote": "When I first signed a two-way with Utah, I think when I got there we were like 13 and 25 and my thought process going into it was like, wow, we're going to be losing and I'm going to get to play. And I think we won like 23 out of our next 28 games. This is just a league where people say you have to have amnesia. Things can change in an instance and if you're not ready to be humble enough to take on the success you can continue to fail.",
+      "text_blocks": [],
+      "start_seconds": 178,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Georges Niang reflects on his early career in Utah to remind his teammates that things can change in an instant in the NBA. He says you have to have amnesia and be ready to handle success if you want to turn a season around.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Georges Niang reflects on his early career experience with the Utah Jazz to explain why the team must remain resilient during losing streaks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "g1-WmM-mEvc",
+  "url": "https://www.youtube.com/watch?v=g1-WmM-mEvc",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-19T04:33:09Z",
+  "duration_seconds": 247,
+  "processed_at": "2026-11-19T05:20:07Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

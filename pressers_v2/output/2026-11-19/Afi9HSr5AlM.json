@@ -1,0 +1,305 @@
+{
+  "video_title": "POSTGAME SOUND: PHILADELPHIA 76ERS VS. ORLANDO MAGIC | COACH SWEENEY,  JALEN, & FRANZ",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Jalen Suggs",
+    "Franz Wagner"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:09",
+      "summary_phrase": "Coach Sweeney on Orlando's fourth quarter defensive intensity",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "their defense was strong in the fourth. We had a tough time getting going there offensively",
+      "quote": "Their defense was strong in the fourth. We had a tough time getting going there offensively. I thought throughout the course of the game, in totality offensively, we were pretty good. We needed to play a little bit better defense, keep them off the free throw line, and Joel Embiid being the primary guy there. They made some tough shots, some shots that we could take away, but in the fourth quarter I thought we got a little stagnant offensively. We had some good looks, but we need to execute a little bit better there and coach a little better.",
+      "verbatim_original_language": "",
+      "start_seconds": 9,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney on the Magic fourth quarter struggles against the 76ers: We got a little stagnant offensively. We had some good looks but we need to execute a little bit better there and coach a little better.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "ORL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the defensive challenges posed by Joel Embiid during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:47",
+      "summary_phrase": "Coach Sweeney on Joel Embiid's impact on the game",
+      "names_mentioned": [
+        "Joel Embiid",
+        "James Harden"
+      ],
+      "excerpt": "more than anything Embiid getting to the foul line in that quarter throughout the game",
+      "quote": "In that second quarter they got it going a little bit. Some of their guys made some tough shots. James Harden got it going a little bit for a stretch there, but really more than anything Embiid getting to the foul line in that quarter, throughout the game, just in general, I thought really gave them not only the opportunity to score points because he was 12 of 14, but the clock stopped, time to rest. I thought our energy early was really good, and then with that, started stagnating us on the offensive end, couldn't get out the same way we were.",
+      "verbatim_original_language": "",
+      "start_seconds": 47,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Sweeney breaks down the difficulty of defending Joel Embiid: He gave them not only the opportunity to score points but the clock stopped and gave them time to rest.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid",
+          "James Harden"
+        ],
+        "teams": [
+          "ORL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney analyzes how Joel Embiid and James Harden impacted the game flow in the second quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:27",
+      "summary_phrase": "Coach Sweeney on team's poor free throw shooting",
+      "names_mentioned": [],
+      "excerpt": "Anytime you shoot 52 percent from the free throw line, it's not a great number",
+      "quote": "Anytime you shoot 52 percent from the free throw line, it's not a great number, and those guys all want to shoot better at the free throw line. But just in general, when something doesn't go good, I think you deliberately go to working on it and making sure that you're sound in terms of the effort you put into it, concentrating on it, regardless of what it is, whether it's a defensive scheme or running a pick and roll or shooting threes or free throws, whatever it may be. If something doesn't go good, the next day you get back to work, really try to be deliberate about it, focus on what you need to do better, less than the result.",
+      "verbatim_original_language": "",
+      "start_seconds": 87,
+      "end_seconds": 134,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Coach Sweeney on the Magic shooting 52 percent from the free throw line: Anytime you shoot 52 percent from the free throw line it is not a great number. If something does not go good the next day you get back to work.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney addresses the team's poor free throw shooting performance following the loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Sweeney",
+      "timestamp": "03:00",
+      "summary_phrase": "Coach Sweeney on Joel Embiid's offensive versatility",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "it opens up the paint a tremendous amount when he is hunting shots",
+      "quote": "It opens up the paint a tremendous amount when he is hunting shots and doing a good job finding those opportunities to attack not just from the three-point line, but just in general. He got nine up tonight and he probably could have gotten a couple more up. But in general, I think he's done a great job here the last five, six games and he's got to keep it up.",
+      "verbatim_original_language": "",
+      "start_seconds": 180,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney on Joel Embiid: It opens up the paint a tremendous amount when he is hunting shots and doing a good job finding those opportunities to attack.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "ORL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney comments on Joel Embiid's offensive versatility and recent performance trend.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jalen Suggs",
+      "timestamp": "04:52",
+      "summary_phrase": "Jalen Suggs on missed shots and defensive lapses",
+      "names_mentioned": [],
+      "excerpt": "I think they got a lot of good looks. I think we had to force them to miss",
+      "quote": "I think they got a lot of good looks. I think we had to force them to miss some shots and we had let them get rolling. I think you go back and look at the second quarter, I think we allowed a couple of the guys to get in rhythm there with free throws, with good shot attempts, and I think that carried over into the second half where they felt comfortable. We had them where we wanted them, we got to be better in going to finish games. Point blank period, that's supposed to be us.",
+      "verbatim_original_language": "",
+      "start_seconds": 292,
+      "end_seconds": 330,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jalen Suggs on the Magic failing to close out the 76ers: We had them where we wanted them. We got to be better in going to finish games. Point blank period, that is supposed to be us.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jalen Suggs reflects on the team's defensive lapses and inability to close out the game against Philadelphia.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jalen Suggs",
+      "timestamp": "07:25",
+      "summary_phrase": "Jalen Suggs on defending Tyrese Maxey and LeBron James",
+      "names_mentioned": [
+        "Tyrese Maxey",
+        "LeBron James",
+        "Cade Cunningham"
+      ],
+      "excerpt": "It don't change. It don't change. It's all the same game",
+      "quote": "It don't change. It don't change. It's all the same game. Tyrese Maxey, aggressive. He's a first rounder for a reason. See love, high level player, is in this league for a reason, he's proven that. There are guys off the bench who are solid and then obviously, and coming back home and being from here, he was ready to hoops. It don't change at all. The job remains the same and we got to come out and win the ball game.",
+      "verbatim_original_language": "",
+      "start_seconds": 445,
+      "end_seconds": 477,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jalen Suggs on the defensive mindset against high level guards: It does not change. It does not change. It is all the same game. The job remains the same and we got to come out and win the ball game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "ORL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Jalen Suggs discusses the defensive approach required when facing high-level players like Tyrese Maxey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Franz Wagner",
+      "timestamp": "10:06",
+      "summary_phrase": "Franz Wagner on missed opportunities and poor execution",
+      "names_mentioned": [],
+      "excerpt": "I thought they made some not so easy shots. But their shot making was pretty good",
+      "quote": "I thought they made some not so easy shots. But their shot making was pretty good in the second half. And I thought we missed some opportunities even in the first half to extend the lead even more and not let them hang around. And then I think our execution against their zone wasn't really good.",
+      "verbatim_original_language": "",
+      "start_seconds": 606,
+      "end_seconds": 628,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Franz Wagner on the loss to Philadelphia: I thought we missed some opportunities even in the first half to extend the lead and not let them hang around. Our execution against their zone was not really good.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Franz Wagner explains that poor execution against Philadelphia's zone defense contributed to the loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Franz Wagner",
+      "timestamp": "11:35",
+      "summary_phrase": "Franz Wagner on the importance of closing games",
+      "names_mentioned": [],
+      "excerpt": "every possession matters even if it's five minutes to go in the second quarter",
+      "quote": "Every possession matters even if it's five minutes to go in the second quarter. I think we missed some opportunities to extend the lead and gave them life when we really think we controlled the game. We'll learn from it, get better, bunch of games left.",
+      "verbatim_original_language": "",
+      "start_seconds": 695,
+      "end_seconds": 713,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Franz Wagner on the team's missed opportunities: Every possession matters even if it is five minutes to go in the second quarter. We gave them life when we really think we controlled the game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner emphasizes the importance of maintaining focus throughout every possession to secure a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Franz Wagner",
+      "timestamp": "12:04",
+      "summary_phrase": "Franz Wagner on playing against his brother",
+      "names_mentioned": [
+        "Moe Wagner"
+      ],
+      "excerpt": "I'm excited. Should be a fun game. It's a blessing we get to play on the same court",
+      "quote": "I'm excited. Should be a fun game. It will be a great day for our family. I think it's a blessing we get to play on the same court in the NBA game.",
+      "verbatim_original_language": "",
+      "start_seconds": 724,
+      "end_seconds": 737,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 7,
+      "social_post": "Franz Wagner on facing his brother: I am excited. Should be a fun game. It will be a great day for our family. I think it is a blessing we get to play on the same court in an NBA game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner shares his excitement about the opportunity to play against his brother in an NBA game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Afi9HSr5AlM",
+  "url": "https://www.youtube.com/watch?v=Afi9HSr5AlM",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-19T05:15:32Z",
+  "duration_seconds": 830,
+  "processed_at": "2026-11-19T05:19:35Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

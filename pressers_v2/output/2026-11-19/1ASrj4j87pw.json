@@ -1,0 +1,299 @@
+{
+  "video_title": "Cooper Flagg & P.J. Washington Postgame | Mavericks vs. Warriors | Nov. 18, 2026",
+  "speakers_seen": [
+    "Cooper Flagg",
+    "P.J. Washington"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "P.J. Washington",
+      "speakers": [],
+      "timestamp": "00:34",
+      "summary_phrase": "P.J. Washington on the impact of playing with Kyrie Irving",
+      "names_mentioned": [
+        "Kyrie Irving"
+      ],
+      "excerpt": "playing with a guy like this and Kyrie to create so much friction on the defensive end",
+      "quote": "I think just in general, obviously playing with a guy like this and Kyrie to create so much friction on the defensive end for other teams. Just being available, being open and being ready to shoot, it's going to work wonders and obviously it's going to get them more shots as well. So I think tonight the shots just fell for me and I just made sure my feet were set and just try to shoot with more confidence.",
+      "start_seconds": 34,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "PJ Washington on playing alongside Kyrie Irving: It creates so much friction on the defensive end for other teams. When I am open and ready to shoot, it works wonders.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "P.J. Washington discusses the impact of playing alongside Kyrie Irving after a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Cooper Flagg",
+      "speakers": [],
+      "timestamp": "01:02",
+      "summary_phrase": "Cooper Flagg on the team's improved effort and intensity",
+      "names_mentioned": [],
+      "excerpt": "just getting back to competing at a really high level. Everybody that touched the court today",
+      "quote": "I just think the effort, just getting back to competing at a really high level. I thought, you know, everybody that touched the court today came in with the right mindset of just playing really, really hard and it's contagious too. If you have a couple guys starting the game with high energy, it's contagious to everybody else. So I just thought we did a better job of starting out early with a high level of intensity.",
+      "start_seconds": 62,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Cooper Flagg on the Mavericks defensive intensity: I thought everybody that touched the court today came in with the right mindset of just playing really hard and it is contagious.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg reflects on the team's improved effort and intensity during their recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cooper Flagg",
+      "speakers": [],
+      "timestamp": "01:28",
+      "summary_phrase": "Cooper Flagg on the importance of strong starts",
+      "names_mentioned": [],
+      "excerpt": "come out early and set the tone that that's not the team that we are",
+      "quote": "I think it was pretty important. Obviously all three of those games, bad first halves. So I think just to come out early and set the tone that that's not the team that we are and try to just set that tone early was really important.",
+      "start_seconds": 88,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cooper Flagg on the Mavs recent struggles: We had bad first halves in all three of those games. To come out early and set the tone that that is not the team that we are was really important.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg explains the importance of starting games with high intensity after struggling in previous first halves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "P.J. Washington",
+      "speakers": [],
+      "timestamp": "01:54",
+      "summary_phrase": "P.J. Washington on the defensive impact of his duo with Flagg",
+      "names_mentioned": [
+        "Kyrie Irving"
+      ],
+      "excerpt": "when he's applying pressure on the defensive end he gets feels like he gets a steal",
+      "quote": "I think just applying pressure. I feel like obviously he's a gifted talent on both ends of the floor but when he's applying pressure on the defensive end he gets feels like he gets a steal every other play or a block shot. So my thing with him is just do everything. Obviously he can, he's going to and it changes the game for us. And then myself, I just try to be as good as I can playing off him and Kyrie.",
+      "start_seconds": 114,
+      "end_seconds": 146,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "PJ Washington on Cooper Flagg: He is a gifted talent on both ends of the floor. When he is applying pressure on the defensive end he gets a steal every other play or a block shot. It changes the game for us.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cooper Flagg",
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "P.J. Washington describes the defensive impact of playing with Cooper Flagg and Kyrie Irving.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Cooper Flagg",
+      "speakers": [],
+      "timestamp": "02:22",
+      "summary_phrase": "Cooper Flagg on maintaining consistency and confidence",
+      "names_mentioned": [
+        "P.J. Washington"
+      ],
+      "excerpt": "Dusty is going to give us the confidence to take all our open shots",
+      "quote": "I think a lot of what P.J. said and then just I think it just needs to look the same every game. Like he said, I'm capable of doing it. I'm told on myself that I can do it. So I just got to go every single night with that intensity, that level of pressure and do it. And it's the same with both of us. Like when we're both in that right head space, right mentality, make or miss shots, Dusty is going to give us the confidence to take all our open shots, get to our spots and do what we need to do.",
+      "start_seconds": 142,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Cooper Flagg on his development: I am told on myself that I can do it. I just have to go every single night with that intensity, that level of pressure and do it.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dusty May"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Cooper Flagg discusses maintaining consistency and the confidence provided by head coach Dusty May.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Cooper Flagg",
+      "speakers": [],
+      "timestamp": "03:04",
+      "summary_phrase": "Cooper Flagg on the connection between communication and defense",
+      "names_mentioned": [],
+      "excerpt": "the communication was better, the intensity was better and that just led to better defense",
+      "quote": "I would say all of the above. I think the intensity obviously started it off and the effort and I think that comes with better communication. When you're more into it, you're applying better pressure when you hear four teammates behind you talking to you, letting you know you're not alone. So the communication was better, the intensity was better and that just led to better defense.",
+      "start_seconds": 184,
+      "end_seconds": 210,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Cooper Flagg on defensive improvements: When you are applying better pressure and you hear four teammates behind you talking to you, letting you know you are not alone, it leads to better defense.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg explains how improved communication and intensity led to better defensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "P.J. Washington",
+      "speakers": [],
+      "timestamp": "03:44",
+      "summary_phrase": "P.J. Washington on the importance of defensive effort",
+      "names_mentioned": [],
+      "excerpt": "being on the floor and I would say just effort, being able to guard",
+      "quote": "Being on the floor and I would say just effort, being able to guard and just trying to make a difference on the defensive end. I think that's where I want to hang my hat. I feel like when I pressure guys or when I'm playing on that end it follows on the offense for me. So tonight I just took it upon myself to try to pick up early, try to make it tough for the opposing players and it just got me going.",
+      "start_seconds": 224,
+      "end_seconds": 257,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "PJ Washington on his defensive mindset: I want to hang my hat on being able to guard. I feel like when I pressure guys or when I am playing on that end it follows on the offense for me.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "P.J. Washington discusses his focus on defensive effort and how it helps his offensive rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "P.J. Washington",
+      "speakers": [],
+      "timestamp": "04:25",
+      "summary_phrase": "P.J. Washington on managing his injury and professional approach",
+      "names_mentioned": [],
+      "excerpt": "he's going to be really great in this league I'm not worried about him at all",
+      "quote": "It's a long season, obviously as a rookie it's tough. Some post games you haven't played in your life, so for him it's just making sure his body is where it needs to be, making sure it's even right, sticking well and just being a professional. I think he's going to be really great in this league I'm not worried about him at all. Obviously he's just going through the injury so for him it's just being the same each and every day and just trying to chase consistency.",
+      "start_seconds": 265,
+      "end_seconds": 299,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "PJ Washington on Cooper Flagg dealing with injury: It is a long season and it is tough. For him it is just making sure his body is where it needs to be and being a professional. I am not worried about him at all.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cooper Flagg"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "P.J. Washington talks about Cooper Flagg managing his injury and his development as a rookie.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "P.J. Washington",
+      "speakers": [],
+      "timestamp": "04:56",
+      "summary_phrase": "P.J. Washington on maintaining momentum for the team",
+      "names_mentioned": [],
+      "excerpt": "start the games better, start some higher intensity, our ball pressure and it leads to good things",
+      "quote": "Just start the games better, start some higher intensity, our ball pressure and it leads to good things for us. I feel like as a team when we're doing that, it's hard for a team to score and it's hard for a team to beat us.",
+      "start_seconds": 296,
+      "end_seconds": 312,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "PJ Washington on the key to winning: Start the games better, start with higher intensity and ball pressure. When we are doing that, it is hard for a team to score and it is hard for a team to beat us.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "P.J. Washington emphasizes the need for the team to maintain high intensity and ball pressure to win games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "1ASrj4j87pw",
+  "url": "https://www.youtube.com/watch?v=1ASrj4j87pw",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-19T04:59:03Z",
+  "duration_seconds": 312,
+  "processed_at": "2026-11-19T05:19:49Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

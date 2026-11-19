@@ -1,0 +1,168 @@
+{
+  "video_title": "Jordan Poole | Pelicans vs. Pistons Postgame Interview 11/18/26",
+  "speakers_seen": [
+    "Jordan Poole"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Poole",
+      "timestamp": "01:23",
+      "summary_phrase": "Jordan Poole on Jeremiah Fears' development as a playmaker",
+      "names_mentioned": [
+        "Jeremiah Fears"
+      ],
+      "excerpt": "It's just a matter of reps, being able to play, especially at a young age.",
+      "quote": "They are pushing Jeremiah Fears into that role and they are obviously trying to put him in a position so he can learn, get a lot of reps, get a lot of minutes. I feel like he has been doing a really good job of that. He had a really good game, obviously last game with the triple-double. It's just a matter of reps, being able to play, especially at a young age, seeing a lot of different actions in time early. He has been doing a good job. Shout out to the coaching staff and obviously hopefully he can keep it up.",
+      "verbatim_original_language": "",
+      "start_seconds": 83,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Poole praises Jeremiah Fears for his recent development and triple double performance saying it is just a matter of reps and seeing different actions early on",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jeremiah Fears"
+        ],
+        "teams": [
+          "NOP",
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jordan Poole discusses the development and recent performance of Jeremiah Fears following the game against the Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Poole",
+      "timestamp": "02:05",
+      "summary_phrase": "Jordan Poole on the team's high turnover rate",
+      "names_mentioned": [],
+      "excerpt": "Anytime you have a high amount of turnovers it makes you second guess a little bit.",
+      "quote": "Anytime you have a high amount of turnovers it makes you second guess a little bit, but I don't think it was necessarily because of their defense. It was probably just more of our offense. We just got to be stronger with the ball. You don't want to pass up any opportunities where you don't get a shot. It hinders us a tiny bit on that side. We just got to be better while still also being aggressive.",
+      "verbatim_original_language": "",
+      "start_seconds": 125,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jordan Poole on the teams high turnover rate against the Pelicans We just got to be stronger with the ball You do not want to pass up any opportunities where you do not get a shot",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jordan Poole addresses the team's high turnover rate and the need for better ball security during the postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Poole",
+      "timestamp": "02:47",
+      "summary_phrase": "Jordan Poole on the team's chemistry and development",
+      "names_mentioned": [],
+      "excerpt": "I think we're in a good space, you know, we just got to just figure it out.",
+      "quote": "They have been together for a while, they have been a team for a while, so just being able to know your tendencies, the guys you are on the court with, obviously with the coach is making an emphasis on, I think we're teaching the right stuff, especially our coaching staff and the places that we want to be. It's just a really good team over there. I think we're in a good space, you know, we just got to just figure it out. I think we're talented enough, I think we got the right pieces, just a matter of just putting it all together.",
+      "verbatim_original_language": "",
+      "start_seconds": 167,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Poole on the current state of the team We are in a good space we just got to figure it out I think we are talented enough and we have the right pieces just a matter of putting it all together",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jordan Poole reflects on the team's chemistry and the coaching staff's emphasis on development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Poole",
+      "timestamp": "04:23",
+      "summary_phrase": "Jordan Poole on the team's unique, physical style of play",
+      "names_mentioned": [],
+      "excerpt": "We got a pretty unique style of basketball that we play, very physical, very downhill.",
+      "quote": "We got a pretty unique style of basketball that we play, very physical, very downhill. I think we're the number one team in points in the paint. When we get stops, we can get out and run and we're a physical team and we can get layups. Obviously you want to move the ball, you want to swing the ball, you want to find ways to make it easy not only for yourself but for your team. It's a new group, it's a very talented group. It's just really trusting and believing that the next guy can help you out, you know. I think sometimes we know how talented we are and guys kind of try to do it themselves.",
+      "verbatim_original_language": "",
+      "start_seconds": 263,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jordan Poole says the team has a unique physical style of play and notes that sometimes guys try to do it themselves because they know how talented they are",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jordan Poole describes the team's physical style of play and the importance of trusting teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Poole",
+      "timestamp": "05:40",
+      "summary_phrase": "Jordan Poole on his role and mindset during the season",
+      "names_mentioned": [],
+      "excerpt": "I'm getting more consistent minutes now so I'm able to kind of catch my flow.",
+      "quote": "I feel like I do a really good job of just kind of playing team ball out there, trying to get other guys involved, trying to get easy buckets for other people, just using my experience, you know, being able to play at the highest level. I know I'm a threat out there and I know the defense guards me as if I'm a threat, but I just try to make it as easy as possible for my guys while being aggressive. Obviously, I'm getting more consistent minutes now so I'm able to kind of catch my flow and make it easy on guys. We're doing some learning and teaching out there but, you know, we're also trying to be really aggressive and win games. It's just a matter of time for us, you know. We're talented, we just got to we got to figure it out. That's all it is.",
+      "verbatim_original_language": "",
+      "start_seconds": 340,
+      "end_seconds": 398,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordan Poole on his role and mindset I know I am a threat out there and I know the defense guards me as if I am a threat but I just try to make it as easy as possible for my guys while being aggressive",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jordan Poole discusses his personal role, mindset, and consistency in minutes during the current season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "vL49lzp13lA",
+  "url": "https://www.youtube.com/watch?v=vL49lzp13lA",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-19T04:44:26Z",
+  "duration_seconds": 494,
+  "processed_at": "2026-11-19T05:20:05Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,385 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.18.26",
+  "speakers_seen": [
+    "Coach Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Nurse",
+      "timestamp": "00:11",
+      "summary_phrase": "Coach Nurse on the team's slow start and tactical adjustments",
+      "names_mentioned": [],
+      "excerpt": "they were just flying 100 miles an hour and we weren't",
+      "quote": "It was looking like it was heading that way. They were just flying 100 miles an hour and we weren't, and they were really putting it on us. We had to try to change a few things and change the rhythm of the game, and sometimes that works and sometimes it doesn't. We obviously got the rhythm of the game changed with the zone and were able to play it for a long time. And then when we did go back to our man-to-man, I think we had some energy to play it and we played it very well late.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Coach Nurse says the Sixers had to change the rhythm of the game against a fast opponent by switching to a zone defense to slow things down.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Nurse discusses the team's tactical adjustments, specifically the use of zone defense to change the rhythm of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Nurse",
+      "timestamp": "00:54",
+      "summary_phrase": "Coach Nurse credits offensive execution for late-game success",
+      "names_mentioned": [],
+      "excerpt": "we did a very nice job tonight of our execution offensively down the stretch",
+      "quote": "We did a very nice job tonight of our execution offensively down the stretch. We worked on some stuff this morning that we hadn't used before and they ran all that stuff very, very well and very calmly and with composure.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Nurse credited the team for their offensive execution down the stretch tonight, noting they ran new plays they had only practiced this morning.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nurse praises the team's offensive execution and composure during late-game situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Nurse",
+      "timestamp": "01:12",
+      "summary_phrase": "Coach Nurse praises bench depth in win without key players",
+      "names_mentioned": [
+        "Dean",
+        "Tyrese",
+        "Jaylen",
+        "Filon",
+        "Walker",
+        "Taco",
+        "Caleb Love"
+      ],
+      "excerpt": "we had to play a lot of guys tonight that hadn't played much missing Dean and Tyrese",
+      "quote": "We had to play a lot of guys tonight that hadn't played much missing Dean and Tyrese and Jaylen. Every one of them off the bench did something. Filon came in and made some shots, Walker hit a huge three, Taco obviously impacted the game, Caleb Love came in and hit a shot. We had to play everybody over there pretty much and those guys really did a great job. They made shots, they played solidly, they didn't turn it over much. We needed all the reinforcements tonight and those guys came through.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "With Dean, Tyrese, and Jaylen out, Coach Nurse praised his bench depth, saying they needed all the reinforcements tonight and everyone who came in did a great job.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dean Wade",
+          "Tyrese Maxey",
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Coach Nurse highlights the contributions of bench players while missing key rotation members.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Nurse",
+      "timestamp": "02:16",
+      "summary_phrase": "Coach Nurse evaluates Tyrese Maxey's performance and ball handling",
+      "names_mentioned": [
+        "Tyrese"
+      ],
+      "excerpt": "Tyrese did a nice job of handling the ball, organizing the offense enough",
+      "quote": "Tyrese did a nice job of handling the ball, organizing the offense enough, got in some tight spaces and still created some plays out of them, and then obviously stepped into a couple threes, so he did a lot of what he can do tonight.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Nurse liked what he saw from Tyrese Maxey tonight, highlighting his ability to organize the offense and create plays even in tight spaces.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nurse evaluates the ball handling and playmaking performance of Tyrese Maxey.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Nurse",
+      "timestamp": "02:36",
+      "summary_phrase": "Coach Nurse on the team's early-season culture of sacrifice",
+      "names_mentioned": [],
+      "excerpt": "these guys are first and foremost about winning, they're about trying to get better each day",
+      "quote": "These guys are first and foremost about winning, they're about trying to get better each day. I haven't sensed any of disappointment or lack of anything that they don't think they're getting. They just seem to let it fly and some nights it's some guys and some nights it's other guys and it doesn't seem to matter to them very much.",
+      "text_blocks": [],
+      "start_seconds": 156,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Coach Nurse says the current Sixers culture is built on sacrifice, noting that the players are focused on winning and do not seem to care who gets the stats on any given night.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Nurse reflects on the team's culture of sacrifice and commitment to winning.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Coach Nurse",
+      "timestamp": "03:19",
+      "summary_phrase": "Coach Nurse praises BJ Boston's second-half performance",
+      "names_mentioned": [
+        "BJ"
+      ],
+      "excerpt": "he played the entire second half, that was pretty impressive",
+      "quote": "He played the entire second half, that was pretty impressive. I thought he did a great job again of just getting over the screens and keeping his guy in front of him. He just was really good with his chesting on the drives and then obviously his continued hitting those huge shots.",
+      "text_blocks": [],
+      "start_seconds": 199,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Nurse was impressed by BJ Boston playing the entire second half, specifically praising his defensive effort and ability to hit huge shots.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "BJ Boston"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nurse praises the defensive effort and shooting performance of BJ Boston in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Coach Nurse",
+      "timestamp": "04:06",
+      "summary_phrase": "Coach Nurse on the importance of executing set plays",
+      "names_mentioned": [
+        "Ant"
+      ],
+      "excerpt": "you want your stuff to work that you're putting in",
+      "quote": "You want your stuff to work that you're putting in, and especially down the stretch. We got so many things that we're trying to look at once we're getting to know the personnel a little bit better. For Ant, it showed he was, we had a little thing where he comes flying off behind Joel and he doesn't get to do that that much. So there tonight he gets the opportunity to do it and it was very good for us on a number of plays.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Nurse discussed the importance of executing set plays down the stretch, specifically highlighting a new action for Ant involving Joel Embiid.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anfernee Simons",
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Nurse discusses the execution of specific set plays involving Anfernee Simons and Joel Embiid.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Coach Nurse",
+      "timestamp": "05:05",
+      "summary_phrase": "Coach Nurse compares current Orlando team to 2019 playoff squad",
+      "names_mentioned": [],
+      "excerpt": "they were fast in the paint, they were playing off the catch in the paint",
+      "quote": "They obviously did a good job of executing their offense. They made a ton of shots, but they were making the right read-outs. They were fast in the paint, they were playing off the catch in the paint, they were flying around screens, very pacey. And when we tried to plug, they'd kick it out and they were getting the ball where it needed to go. And I think that was the first time in a long time I felt like the three-point shooting we were trying to stop was versus not.",
+      "text_blocks": [],
+      "start_seconds": 305,
+      "end_seconds": 340,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Coach Nurse compared the current Orlando team to his 2019 playoff squad, noting their pace and ability to make the right reads in the paint.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Nurse analyzes the offensive execution and pace of the opposing Orlando team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Coach Nurse",
+      "timestamp": "05:58",
+      "summary_phrase": "Coach Nurse explains decision to hold out injured players",
+      "names_mentioned": [
+        "Tyrese",
+        "Dean",
+        "Jaylen"
+      ],
+      "excerpt": "Tyrese poured a little soreness in his foot and he went through walk-through",
+      "quote": "Tyrese poured a little soreness in his foot and he went through walk-through today, but came in tonight and said he was a little sore and we just decided that we were going to hold him out. All three of those guys, Dean and Jaylen and Tyrese, were probably an abundance of caution situations and he just wasn't ready to go.",
+      "text_blocks": [],
+      "start_seconds": 358,
+      "end_seconds": 381,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Coach Nurse explained that holding out Tyrese Maxey, Dean, and Jaylen was an abundance of caution due to soreness, confirming they were not ready to go tonight.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Maxey",
+          "Dean Wade",
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Nurse explains the decision to hold out Tyrese Maxey, Dean Wade, and Jaylen Brown due to injury concerns.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Coach Nurse",
+      "timestamp": "06:30",
+      "summary_phrase": "Coach Nurse on Joel Embiid's offensive patience and development",
+      "names_mentioned": [
+        "Joel",
+        "LeBron"
+      ],
+      "excerpt": "we're trying to get him to be a little bit more assertive",
+      "quote": "We're trying to get him to be a little bit more assertive. If the play's there, take it right immediately. If it's not, then try to get to another play, and I think that's improving and I think that's helping us as a team. I think he made some really nice passes to LeBron down the lane. The passing element is also there for him. We don't get to showcase that often, but now with a little bit bigger cutting wings, we might be able to get him in some more passing situations and just develop from there.",
+      "text_blocks": [],
+      "start_seconds": 390,
+      "end_seconds": 428,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Coach Nurse says he is pushing Joel Embiid to be more assertive and improve his passing, noting that bigger cutting wings are helping showcase Embiid's playmaking ability.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid",
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Coach Nurse discusses Joel Embiid's offensive development and his passing chemistry with teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Coach Nurse",
+      "timestamp": "07:24",
+      "summary_phrase": "Coach Nurse on Anthony Simons' confidence and spacing impact",
+      "names_mentioned": [
+        "Anthony Simons"
+      ],
+      "excerpt": "he really provides some confident spacing",
+      "quote": "He really provides some confident spacing, if that makes sense. When he's out there, they got to be really careful. So I think there's some drives he creates and just about every time he lets it go, whether he's on balance or not, you think it's going in, and that is a big deal.",
+      "text_blocks": [],
+      "start_seconds": 444,
+      "end_seconds": 465,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Nurse on Anthony Simons: He provides confident spacing and every time he lets it go, you think it is going in.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anfernee Simons"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nurse comments on the impact Anfernee Simons has on floor spacing and his shooting confidence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Ktnw7g85zAw",
+  "url": "https://www.youtube.com/watch?v=Ktnw7g85zAw",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-19T04:41:47Z",
+  "duration_seconds": 496,
+  "processed_at": "2026-11-19T05:20:12Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

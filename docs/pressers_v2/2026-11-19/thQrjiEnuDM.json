@@ -1,0 +1,221 @@
+{
+  "video_title": "Dusty May Postgame Press Conference | Mavericks vs. Warriors | Nov. 18, 2026",
+  "speakers_seen": [
+    "Dusty May"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dusty May",
+      "timestamp": "00:26",
+      "summary_phrase": "Dusty May on Luka Doncic's defensive and playmaking impact",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "Obviously he was all over the place tonight. I thought defensively, his passes, he had nine assists.",
+      "quote": "Obviously he was all over the place tonight. I thought defensively, his passes, he had nine assists and I think missed a foul in a couple and maybe missed a couple dunks. Definitely a game, but he also sacrificed some of his rebounds. He was being extremely physical with his blockouts and a lot of the times the best blockout guys are not the guys that get the balls. And so that's a sacrifice that the winning players make. He just looked like himself. He impacted almost every possession.",
+      "text_blocks": [],
+      "start_seconds": 26,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Dusty May on Luka Doncic after tonight's win: He sacrificed some of his rebounds to be physical with his blockouts. That is a sacrifice that the winning players make. He just looked like himself and impacted almost every possession.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "DAL",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Head coach Dusty May discusses Luka Doncic's impact on the game following the Mavericks' victory over the Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dusty May",
+      "timestamp": "01:26",
+      "summary_phrase": "Dusty May on the benefits of playing at home",
+      "names_mentioned": [],
+      "excerpt": "You get to sleep in your own bed, you're comfortable, you have a lot of support behind you.",
+      "quote": "You get to sleep in your own bed, you're comfortable, you have a lot of support behind you. And then also we had a couple days off. They came from a road trip, and so there's a lot that goes into it. But nonetheless, the making shots energizes us, but I think our guys just had a different level of focus and intensity tonight. They wanted to get back on the right track after the way we played on the road.",
+      "text_blocks": [],
+      "start_seconds": 86,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dusty May on the Mavs bouncing back at home: We had a couple days off and our guys just had a different level of focus and intensity tonight. They wanted to get back on the right track after the way we played on the road.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Dusty May explains the advantages of playing at home and the team's improved focus after a recent road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dusty May",
+      "timestamp": "02:06",
+      "summary_phrase": "Dusty May on PJ Washington's defensive and shooting performance",
+      "names_mentioned": [
+        "PJ Washington"
+      ],
+      "excerpt": "I thought his point of attack defense, I thought he was able to guard smaller guys.",
+      "quote": "Obviously the three-point shooting was what we needed, but I thought his point of attack defense, I thought he was able to guard smaller guys. He was picking up full. Just his overall activity, his focus, he played great physicality and I thought he was completely engaged for 25 minutes.",
+      "text_blocks": [],
+      "start_seconds": 126,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dusty May praised PJ Washington's performance against the Warriors: Obviously the three-point shooting was what we needed, but I thought his point of attack defense, his overall activity, his focus, he played great physicality.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "PJ Washington"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May evaluates PJ Washington's defensive activity and shooting performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dusty May",
+      "timestamp": "02:32",
+      "summary_phrase": "Dusty May on evaluating team performance with a small sample size",
+      "names_mentioned": [],
+      "excerpt": "15 games is usually a safe place to start.",
+      "quote": "15 games is usually a safe place to start, and we're at 15 and we've got a day tomorrow where we don't have a typical, you know, we are on a game, got a couple days. It's so we'll look at lineup combinations, a little more in depth, two-man groups, three-man groups, five-man groups. But also part of it is eye test. Do we feel good about the way we're playing? Because sometimes you play great and the ball doesn't go in, and sometimes you play terribly and the ball does go in. And so you just try to combine the analytics, the stats, all the data with your eye test and your feel and your experience and try to make the best decisions for the group.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 201,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dusty May on evaluating the Mavs at the 15-game mark: We will look at lineup combinations more in depth, but also part of it is eye test. You try to combine the analytics, the stats, all the data with your eye test and your feel.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Dusty May discusses his process for evaluating team performance and lineup combinations after 15 games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dusty May",
+      "timestamp": "03:22",
+      "summary_phrase": "Dusty May on managing rotation depth and player minutes",
+      "names_mentioned": [
+        "Naji Marshall",
+        "Luka Doncic",
+        "Caleb Martin"
+      ],
+      "excerpt": "There's a couple guys that we want to play more.",
+      "quote": "To be honest, there's a couple guys that we want to play more. And it's a great problem whenever they're not getting the minutes because some other guys are playing really well. I thought Naji Marshall played really well. We had intentions to get Max more minutes tonight and I thought Naji was playing incredibly well. Obviously it's tough to take Luka and Coop off the floor when they're rolling and Caleb Martin is becoming a heck of a glue guy for us. So that's hopefully as we evolve into a good team and then eventually a really good team, that's the problem we have every night where we have too many guys playing well and there's just not enough and that's ultimately what every good team does is sacrifice for each other.",
+      "text_blocks": [],
+      "start_seconds": 202,
+      "end_seconds": 253,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Dusty May on managing the Mavs rotation: There are a couple guys we want to play more. It is a great problem whenever they are not getting the minutes because some other guys are playing really well. That is what every good team does.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naji Marshall",
+          "Caleb Martin",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Dusty May addresses the challenge of managing rotation depth and distributing minutes among his players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Dusty May",
+      "timestamp": "04:07",
+      "summary_phrase": "Dusty May on the synergy between Luka Doncic and PJ Washington",
+      "names_mentioned": [
+        "PJ Washington",
+        "Luka Doncic"
+      ],
+      "excerpt": "PJ with his ability to stretch the floor and Coop's court vision and being able to play over the top.",
+      "quote": "PJ with his ability to stretch the floor and Coop's court vision and being able to play over the top. Those are two pretty lethal things that mesh well together typically. And then also two 6-9 point of attack defenders that are active. I thought Coop made plays in gaps today. I thought PJ's on-ball defense. So, you know, we'd love to have as many 6-9 versatile, skilled, positionless players on the floor at one time. And so, I mean, those two guys are both that. So that's ultimately like what you want is as much of size, length, athleticism, connectivity. And so when we're at our best, usually those two guys are playing off of each other as well.",
+      "text_blocks": [],
+      "start_seconds": 247,
+      "end_seconds": 293,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dusty May on the synergy between Luka Doncic and PJ Washington: We would love to have as many 6-9 versatile, skilled, positionless players on the floor at one time. When we are at our best, those two guys are playing off of each other.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic",
+          "PJ Washington"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dusty May explains how the skill sets of Luka Doncic and PJ Washington complement each other on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "thQrjiEnuDM",
+  "url": "https://www.youtube.com/watch?v=thQrjiEnuDM",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-19T05:03:33Z",
+  "duration_seconds": 301,
+  "processed_at": "2026-11-19T05:19:29Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

@@ -1,0 +1,485 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game vs Washington Wizards | November 18, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic",
+    "Allen Graves",
+    "Immanuel Quickley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Allen Graves",
+      "timestamp": "00:20",
+      "summary_phrase": "Allen Graves on his growing comfort and role in the rotation",
+      "names_mentioned": [],
+      "excerpt": "I feel like I'm getting more comfortable out there, just understanding my role with this team",
+      "quote": "I feel like I'm getting more comfortable out there, just understanding my role with this team and just trying to make winning plays. I feel like they're entrusting me with a lot, especially as a rookie being able to be in the rotation and be able to get a chance to play each and every night. So just figuring it out as I'm going, getting more comfortable, playing on the ball, playing off the ball, getting crashing, getting offensive rebounds, and then defensively as well. I'm learning how to guard pin-downs, guard screens, things like that, just being able to adjust in the game. They're entrusting me and just instilling a lot of confidence in me throughout this whole process.",
+      "verbatim_original_language": "",
+      "start_seconds": 20,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Gradey Dick says he is feeling more comfortable in the Raptors rotation and is focused on learning how to guard screens and make winning plays as a rookie.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Gradey Dick discusses his rookie season development and growing comfort within the Raptors rotation.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "e1zsMgqkfVk",
+        "rank": 1
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 2,
+      "speaker": "Allen Graves",
+      "timestamp": "01:11",
+      "summary_phrase": "Allen Graves on the Washington Wizards' championship mentality",
+      "names_mentioned": [],
+      "excerpt": "You could tell they were a championship team, just them being able to when they make mistakes",
+      "quote": "You could tell they were a championship team, just them being able to when they make mistakes, getting right back to it, next play mentality. I feel like that's something we're growing in and just continuing to build. They're just to stick to what they do, no matter if it's going good or bad, they're going to stick to what they do and run it with execution, and I feel like that's the biggest part.",
+      "verbatim_original_language": "",
+      "start_seconds": 71,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Gradey Dick on the Wizards: You could tell they were a championship team. They have a next play mentality and stick to their execution no matter if things are going good or bad.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Gradey Dick reflects on the championship mentality displayed by the Washington Wizards during their matchup.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "e1zsMgqkfVk",
+        "rank": 2
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 3,
+      "speaker": "Allen Graves",
+      "timestamp": "01:50",
+      "summary_phrase": "Allen Graves on the team's motto and staying together",
+      "names_mentioned": [],
+      "excerpt": "Got to pull together in these times because that's the only way we're going to get out",
+      "quote": "Got to pull together in these times because that's the only way we're going to get out. You know our motto, every time we see it on the board when we're walking out, is stronger together. So really taking emphasis to that and pulling together throughout this time because we don't, we got each other. That's the only way we are family, and just trying to pull together so that we can get out of this, and I feel like that's the only way.",
+      "verbatim_original_language": "",
+      "start_seconds": 110,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Gradey Dick says the Raptors are leaning into their motto of being stronger together as they try to pull through this difficult stretch of the season.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Gradey Dick emphasizes the importance of team unity and the Raptors motto during a difficult stretch.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "e1zsMgqkfVk",
+        "rank": 3
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 4,
+      "speaker": "Allen Graves",
+      "timestamp": "02:20",
+      "summary_phrase": "Allen Graves on studying Scottie Barnes for offensive rebounding",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "Scottie is an amazing offensive rebounder, just his physical physicality on it",
+      "quote": "I came into the league with was offensive rebounding, but obviously watching film, Scottie is an amazing offensive rebounder, just his physical physicality on it. I feel like he puts himself in the right position in order to be able to grab the rebounds. So just trying to study that and then obviously learning how people shoot. Just trying to figure out who shoots what way, you know, if they back-rim more, front-rim, just trying to figure that out and put myself in the best position to where I can get a hand on it or grab the offensive rebound.",
+      "verbatim_original_language": "",
+      "start_seconds": 140,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Gradey Dick is studying Scottie Barnes to improve his offensive rebounding: I am trying to figure out who shoots what way, if they back rim more or front rim, and put myself in the best position.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Gradey Dick explains how he studies Scottie Barnes to improve his own offensive rebounding skills.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "e1zsMgqkfVk",
+        "rank": 4
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 5,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "04:09",
+      "summary_phrase": "Immanuel Quickley on the team's need for collective effort",
+      "names_mentioned": [],
+      "excerpt": "You got to rely on everybody together. Can't just do it with just one person",
+      "quote": "I think just playing together. Short, obviously a lot of guys, you got to rely on everybody together. Can't just do it with just one person. I thought we did a pretty good job of moving their defense around, gave ourselves a chance to tie it then.",
+      "verbatim_original_language": "",
+      "start_seconds": 249,
+      "end_seconds": 267,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Scottie Barnes on the Raptors offensive approach: We have to rely on everybody together. We did a pretty good job of moving their defense around to give ourselves a chance.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes discusses the need for collective effort following a close loss.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "OZLfHvwYfzE",
+        "rank": 1
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 6,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "04:34",
+      "summary_phrase": "Immanuel Quickley on the final play execution",
+      "names_mentioned": [
+        "Chris",
+        "AD",
+        "Jameson"
+      ],
+      "excerpt": "At first we were trying to get Chris in the action and then they switched with AD",
+      "quote": "At first we were trying to get Chris in the action and then they switched with AD. Try to get the quick two but realized probably wasn't going to have enough time, so try to find a shooter. I thought Jameson got a pretty good look at the end, one of our better shooters, so live with that.",
+      "verbatim_original_language": "",
+      "start_seconds": 274,
+      "end_seconds": 296,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Scottie Barnes explains the final play: We tried to get Chris in the action but they switched with AD. We realized we did not have enough time for a quick two, so we tried to find a shooter.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Boucher",
+          "Anthony Davis"
+        ],
+        "teams": [
+          "TOR",
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Scottie Barnes explains the thought process behind the final play execution against the opposing defense.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "OZLfHvwYfzE",
+        "rank": 2
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 7,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "05:05",
+      "summary_phrase": "Immanuel Quickley on the team's recurring close losses",
+      "names_mentioned": [],
+      "excerpt": "The fact that we're losing close. It's not like we're losing by 20, 30 every game",
+      "quote": "A lot are similar. Obviously every game's different, but a lot are similar just the fact that we're losing close. It's not like we're losing by 20, 30 every game. We have the lead, we're right there end of the game. We got to find a way. I mean, we just got to find a way to get it done, that's pretty much it.",
+      "verbatim_original_language": "",
+      "start_seconds": 305,
+      "end_seconds": 330,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Scottie Barnes on the Raptors recurring close losses: It is not like we are losing by 20 or 30 every game. We have the lead, we are right there at the end. We just have to find a way to get it done.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes addresses the team's recurring trend of losing close games.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "OZLfHvwYfzE",
+        "rank": 3
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 8,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "05:31",
+      "summary_phrase": "Darko Rajakovic on the team's resilience despite injuries",
+      "names_mentioned": [],
+      "excerpt": "Guys are doing their best and giving all they got over there for 48 minutes",
+      "quote": "Getting in mind what we're going through with the number of injuries and everything, obviously it's very, very hard and guys are doing their best and giving all they got over there for 48 minutes to try to help the team to try to win a game. Obviously, it's not something that our outcome of those games is not something that we can be happy with and satisfied with, but it's also seeing the bigger picture and I thought today that we did a really good job of improving a lot of things.",
+      "verbatim_original_language": "",
+      "start_seconds": 331,
+      "end_seconds": 367,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the Raptors injury situation: It is very hard and guys are doing their best. The outcome is not something we can be happy with, but we are seeing the bigger picture.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic discusses the team's resilience and effort while managing a high number of injuries.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "BSqpz3tZeM8",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "06:26",
+      "summary_phrase": "Darko Rajakovic on the final possession strategy",
+      "names_mentioned": [
+        "Trey",
+        "Jameson"
+      ],
+      "excerpt": "We tried over there because they still had Trey on the court just to run right away",
+      "quote": "We tried over there because they still had Trey on the court just to run right away and try to create advantage over there. Jameson got a three-point shot that would take us to overtime, the ball did not go through. If he makes that shot, we're seeing different story.",
+      "verbatim_original_language": "",
+      "start_seconds": 386,
+      "end_seconds": 405,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the final possession: Jameson got a three point shot that would take us to overtime, the ball did not go through. If he makes that shot, we are seeing a different story.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Murphy III"
+        ],
+        "teams": [
+          "TOR",
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic breaks down the strategy behind the final offensive possession.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "BSqpz3tZeM8",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "06:49",
+      "summary_phrase": "Darko Rajakovic on the decision not to burn a timeout",
+      "names_mentioned": [],
+      "excerpt": "We were trying to get the three there for sure",
+      "quote": "We were trying to get the three there for sure. We were down to one timeout, it was 20 seconds when we started the possession, so I did not want to burn timeout there like we wanted to take right away so we have timeout for the last possession of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 409,
+      "end_seconds": 429,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic explains why he did not call a timeout: We were down to one timeout with 20 seconds left, so I did not want to burn it so we would have it for the final possession.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic explains his decision not to use a timeout during the final sequence.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "BSqpz3tZeM8",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "07:15",
+      "summary_phrase": "Darko Rajakovic on maintaining team preparation and work ethic",
+      "names_mentioned": [],
+      "excerpt": "Controlling what we can control, our preparation, our work, our intentionality, how hard we play",
+      "quote": "Controlling what we can control, our preparation, our work, our intentionality, how hard we play, how hard we compete. We constantly show the film to the guys, what do we need to do better, how we can stay ready, and just got to build. It's a tough moment for us right now, but I think through these tough moments, something really good and something special is going to be born.",
+      "verbatim_original_language": "",
+      "start_seconds": 435,
+      "end_seconds": 462,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the team's struggles: It is a tough moment for us right now, but I think through these tough moments, something really good and something special is going to be born.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the team's focus on preparation and work ethic during a difficult period.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "BSqpz3tZeM8",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "07:49",
+      "summary_phrase": "Darko Rajakovic on the disparity in free throw shooting",
+      "names_mentioned": [],
+      "excerpt": "For me the disparity 27 for them and 14 to for us, that was a big disparity",
+      "quote": "Always when it comes to the free throws, obviously you want to make those and for me the disparity 27 for them and 14 to for us, that was a big disparity in the game. Obviously we want to make those shots and it would be much better if we do.",
+      "verbatim_original_language": "",
+      "start_seconds": 469,
+      "end_seconds": 489,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic points to the free throw disparity as a major factor in the loss: 27 for them and 14 for us, that was a big disparity in the game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic comments on the disparity in free throw attempts between the two teams.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "BSqpz3tZeM8",
+        "rank": 5
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "08:18",
+      "summary_phrase": "Darko Rajakovic on Gradey Dick's performance and development",
+      "names_mentioned": [
+        "Gradey",
+        "Trey",
+        "Anthony Davis"
+      ],
+      "excerpt": "He was finding out a couple of drives to the rim, a couple of cuts",
+      "quote": "He did a lot of great stuff. He was finding out a couple of drives to the rim, a couple of cuts, he's constantly active on the glass. He matched up several situations with Trey, he was matched up with Anthony Davis. For him, those minutes are super, super valuable and I think he's really trying on the court to giving all his got.",
+      "verbatim_original_language": "",
+      "start_seconds": 498,
+      "end_seconds": 523,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic praises Gradey Dick: He was matched up with Anthony Davis. For him, those minutes are super valuable and I think he is really trying on the court.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Gradey Dick",
+          "Trey Murphy III",
+          "Anthony Davis"
+        ],
+        "teams": [
+          "TOR",
+          "NOP",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darko Rajakovic evaluates Gradey Dick's performance and defensive assignments against specific opponents.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "BSqpz3tZeM8",
+        "rank": 6
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "DZGktbIFxcw",
+  "url": "https://www.youtube.com/watch?v=DZGktbIFxcw",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-19T04:33:07Z",
+  "duration_seconds": 526,
+  "processed_at": "2026-11-19T05:20:27Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

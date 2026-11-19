@@ -1,0 +1,292 @@
+{
+  "video_title": "Steve Kerr, Georges Niang react to Warriors’ loss to Mavericks | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Steve Kerr",
+    "Georges Niang"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Steve Kerr",
+      "timestamp": "01:08",
+      "summary_phrase": "Steve Kerr on Brandin Podziemski's growth and skill set",
+      "names_mentioned": [
+        "Brandin Podziemski"
+      ],
+      "excerpt": "He's quick, he's got great feel, a great skill set.",
+      "quote": "Brandin Podziemski is a great player. He's quick, he's got great feel, a great skill set. He was knocking down the three tonight. He was at 27% coming in and hit a crazy leaner three in the first half and that really got them going. Tonight he had a great night, nine assists and he's got the full package for sure.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Steve Kerr praises Brandin Podziemski after a strong performance against the Mavericks, calling him a great player with the full package.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandin Podziemski"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Steve Kerr discusses the performance and skill set of Brandin Podziemski following the loss to the Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vMdFd6yCG-Y",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Steve Kerr",
+      "timestamp": "01:47",
+      "summary_phrase": "Steve Kerr on the necessity of experimenting with lineups",
+      "names_mentioned": [
+        "Draymond Green",
+        "Trayce Jackson-Davis",
+        "Dario Saric"
+      ],
+      "excerpt": "You have to experiment when you're in a state that we are right now.",
+      "quote": "You have to experiment when you're in a state that we are right now, missing so many guys and trying to find combinations that haven't played together before. You're trying to find things that click. We wanted to go bigger tonight with Trayce Jackson-Davis and give Kevon Looney that lob threat and give Draymond Green help at the rim. He was going to guard Maxi Kleber and so we needed some help behind him. So, we tried something different, but this is just where we are right now.",
+      "text_blocks": [],
+      "start_seconds": 107,
+      "end_seconds": 141,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Steve Kerr explains the decision to go bigger with Trayce Jackson-Davis and Kevon Looney, noting the team is in a state where they have to experiment to find combinations that click.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trayce Jackson-Davis",
+          "Kevon Looney",
+          "Draymond Green",
+          "Maxi Kleber"
+        ],
+        "teams": [
+          "GSW",
+          "DAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Steve Kerr explains his decision to experiment with a larger lineup featuring Trayce Jackson-Davis against the Mavericks.",
+        "best": true,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vMdFd6yCG-Y",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Steve Kerr",
+      "timestamp": "02:47",
+      "summary_phrase": "Steve Kerr on Draymond Green's defensive value",
+      "names_mentioned": [
+        "Draymond Green"
+      ],
+      "excerpt": "He's our best defensive player and that's not even a thought.",
+      "quote": "Draymond Green is our best defensive player and that's not even a thought.",
+      "text_blocks": [],
+      "start_seconds": 167,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Steve Kerr on Draymond Green: Draymond is our best defensive player and that is not even a thought.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Draymond Green"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Steve Kerr comments on the defensive importance of Draymond Green to the Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vMdFd6yCG-Y",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Steve Kerr",
+      "timestamp": "03:11",
+      "summary_phrase": "Steve Kerr on the team's offensive struggles and shot selection",
+      "names_mentioned": [
+        "Brandin Podziemski"
+      ],
+      "excerpt": "We're attempting some difficult shots and we've got to get the ball moving.",
+      "quote": "We're forcing things. A lot of guys are really trying to do things on their own. Brandin Podziemski had probably four or five off-the-dribble fadeaway shots in the first half just trying to carry us. He knows that we need him and so he's trying really hard. We're attempting some difficult shots and we've got to get the ball moving and create easier shots for each other. But easier said than done. We'll keep looking at the film, keep working with the guys and I know they're connected.",
+      "text_blocks": [],
+      "start_seconds": 191,
+      "end_seconds": 225,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Steve Kerr says the Warriors are forcing things offensively, noting that players are trying to do too much on their own and need to get the ball moving to create easier shots.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandin Podziemski"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr addresses the team's offensive struggles and shot selection during the game against the Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vMdFd6yCG-Y",
+        "rank": 5
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Georges Niang",
+      "timestamp": "05:36",
+      "summary_phrase": "Georges Niang on the team's need to adapt to injuries",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "The Stephen Curry injury is unfortunate, we're missing bodies.",
+      "quote": "The Stephen Curry injury is unfortunate, we're missing bodies, but at the end of the day, I think we have good spirit. I think we're pulling for one another, but this is a unique situation. You're used to playing a certain style with certain players and then when they're out, you kind of have to reinvent yourself and we're in that process.",
+      "text_blocks": [],
+      "start_seconds": 336,
+      "end_seconds": 360,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Georges Niang on the Warriors dealing with the Stephen Curry injury: You have to reinvent yourself and we are in that process.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Georges Niang discusses how the team is adapting to the absence of Stephen Curry due to injury.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "g1-WmM-mEvc",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Georges Niang",
+      "timestamp": "06:09",
+      "summary_phrase": "Georges Niang on Brandin Podziemski's role as a rookie",
+      "names_mentioned": [
+        "Brandin Podziemski"
+      ],
+      "excerpt": "We're asking Brandin Podziemski to do a lot, especially as a rookie.",
+      "quote": "We're asking Brandin Podziemski to do a lot, especially as a rookie, and I think he's doing a great job of taking it head on and really trying to implicate the things that we're trying to have him do in everyday process. Now that he is the forefront of everyone's scouting report, that becomes a little difficult. Those pictures that you're seeing as a second or third option are totally different when you're the number one option and teams are like, we're taking you away.",
+      "text_blocks": [],
+      "start_seconds": 369,
+      "end_seconds": 402,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Georges Niang discusses the challenge for Brandin Podziemski as a rookie, noting that it is totally different when you are the number one option on a scouting report.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brandin Podziemski"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Georges Niang talks about the increased pressure and defensive attention Brandin Podziemski is facing as a rookie.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "g1-WmM-mEvc",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Georges Niang",
+      "timestamp": "07:35",
+      "summary_phrase": "Georges Niang on weathering the storm during a long season",
+      "names_mentioned": [
+        "Steve Kerr"
+      ],
+      "excerpt": "You just have to weather the storm. Bad times are going to happen during the year.",
+      "quote": "You just have to weather the storm. Bad times are going to happen during the year, and you're not going to remember this in January or February when you're clicking on all cylinders. But I think this is good for us to go through this. Steve Kerr has been extremely positive and I think that's what we need through this period. But I think as the players, we're not going to go down without a fight.",
+      "text_blocks": [],
+      "start_seconds": 455,
+      "end_seconds": 484,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Georges Niang on the Warriors' current struggles: You just have to weather the storm. We are not going to go down without a fight.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Georges Niang reflects on the team's mindset and the positive leadership of Steve Kerr during a difficult stretch.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "g1-WmM-mEvc",
+        "rank": 3
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "PbfMscPB6Gk",
+  "url": "https://www.youtube.com/watch?v=PbfMscPB6Gk",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-19T04:54:32Z",
+  "duration_seconds": 575,
+  "processed_at": "2026-11-19T05:19:54Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

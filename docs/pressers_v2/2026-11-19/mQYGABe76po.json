@@ -1,0 +1,307 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs. Pistons Postgame Interview 11/18/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:21",
+      "summary_phrase": "Jamahl Mosley on the impact of early turnovers against Detroit",
+      "names_mentioned": [],
+      "excerpt": "We have nine turnovers in the first quarter. So, our ability to take care of the basketball.",
+      "quote": "We have nine turnovers in the first quarter. So, our ability to take care of the basketball, which we said, this is the team. They are handsy, they are going to grab, they are going to hold, they are physical. They play that way. 16 turnovers for 20 points. Give them 21 fast-break points, 10 second-chance points, and then you put them on the line 27 times. Those are not winning the possession battle.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley points to the 16 turnovers as the primary reason for the Pelicans loss to the Pistons tonight. He says those errors are not winning the possession battle.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the team's high turnover rate and poor possession battle during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:54",
+      "summary_phrase": "Jamahl Mosley on missed opportunities during the team's comeback attempt",
+      "names_mentioned": [],
+      "excerpt": "We get downhill, attack the basket, we end up missing a layup or miss a shot.",
+      "quote": "There were moments in the game we get downhill, attack the basket, we end up missing a layup or miss a shot. That is as good as a turnover, because we got two guys at the rim and they were just throwing it up ahead for knockdown threes or easy layups.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley says missing layups and shots at the rim is just as damaging as a turnover because it leads to easy transition opportunities for the opponent.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains how missed layups and shots at the rim negatively impacted the team's momentum during their comeback attempt.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:12",
+      "summary_phrase": "Jamahl Mosley on the importance of next-man-up mentality",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "Is having that next man mentality type of culture the end goal for the Pelicans as well, to have, no",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "The Pistons are without Cade Cunningham, dealing with a couple of their injuries, but they had guys step up, played their game plan."
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Is having that next man mentality type of culture the end goal for the Pelicans as well, to have, no matter who is out there, they can go and execute the vision? Absolutely. Absolutely. And there have been moments we have shown it. It is just we have to make sure we sustain it."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "reporter_split": true,
+      "start_seconds": 72,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the Pelicans have shown flashes of a next man up mentality but the team needs to find a way to sustain that effort consistently.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "NOP",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley responds to a question about the importance of a next-man-up mentality while referencing the injured Cade Cunningham.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:56",
+      "summary_phrase": "Jamahl Mosley assesses the team's performance on the recent homestand",
+      "names_mentioned": [],
+      "excerpt": "We were one and four on a homestand. Not too happy about it.",
+      "quote": "We were one and four on a homestand. Not too happy about it. There are moments we played very well and there are moments that we didn't. And so, based on all the things with guys in, guys out, movement, there is a level of consistency that needs to be there. One and four is not the record we are looking for.",
+      "text_blocks": [],
+      "start_seconds": 116,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley is not happy with the Pelicans finishing 1 and 4 on their recent homestand. He says there is a level of consistency that needs to be there.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reflects on the team's disappointing one and four record during their recent homestand.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:47",
+      "summary_phrase": "Jamahl Mosley on the status of injured players before the road trip",
+      "names_mentioned": [],
+      "excerpt": "We will find out more tomorrow, once guys come in and get some treatment.",
+      "quote": "We will find out more tomorrow, once guys come in and get some treatment. We are demanding a lot of these guys that are on the roster to play heavy minutes, aggressive minutes, the style of play that we want to play, physical defensively, get out and run offensively. You are demanding a lot on those guys. So, whenever these guys are able to get back, it will be a welcome sight.",
+      "text_blocks": [],
+      "start_seconds": 167,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the team will know more about the status of injured players tomorrow. He notes the current roster is being asked to play heavy and aggressive minutes.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jamahl Mosley provides an update on the status of injured players and the physical toll of the current rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:16",
+      "summary_phrase": "Jamahl Mosley on the team's defensive struggles and mental fatigue",
+      "names_mentioned": [],
+      "excerpt": "You don't want to let the offense dictate your defense.",
+      "quote": "We have talked about it at times, you don't want to let the offense dictate your defense. A lot of that early was happening because they were getting such easy baskets. Playing against a Detroit team when they are getting easy baskets because you turn it over, and then you come back down and have to play against them in the halfcourt and it is grabbing, holding, physical, that begins to wear you down. Our ability to mentally sustain that effort is where we have got to get to.",
+      "text_blocks": [],
+      "start_seconds": 196,
+      "end_seconds": 230,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the Pelicans must learn not to let their offense dictate their defense. He adds that the team needs to improve their ability to mentally sustain effort.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's defensive struggles and the mental fatigue caused by the opponent's physical style of play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:22",
+      "summary_phrase": "Jamahl Mosley on the development of Jaron Pierre Jr.",
+      "names_mentioned": [
+        "Jaron Pierre Jr."
+      ],
+      "excerpt": "What he is called to do is, when we call him up, to be with this group, play with a",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "One of the positives of this homestand has been the breakout of Jaron Pierre Jr. What have you seen from him over the past couple of games and has he earned a look for minutes whenever the team gets healthier?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "What he is called to do is, when we call him up, to be with this group, play with a high level of energy, to continue to attack the basket, defend at a high level, continue to move it, share it, trust it, but play with a level of confidence and decisiveness when you are on the floor. And that is what he has done for us."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "reporter_split": true,
+      "start_seconds": 322,
+      "end_seconds": 363,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley praises Jaron Pierre Jr for his energy and decisiveness during the recent homestand, noting he has played with a high level of confidence.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaron Pierre Jr."
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley evaluates the recent performance and development of Jaron Pierre Jr. during the homestand.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:07",
+      "summary_phrase": "Jamahl Mosley on Carlos's recent shooting struggles",
+      "names_mentioned": [
+        "Carlos"
+      ],
+      "excerpt": "Any thoughts about that and any message to him to kind of get him back on track?",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Carlos has been a guy who has been kind of struggling with his outside shot over this last recent stretch. In the second half, you went with another look kind of away from him."
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Any thoughts about that and any message to him to kind of get him back on track? Carlos is going to be on track. I wanted to get a little bit more presence at the rim going with DeAndre. There was a moment we made a run back with DeAndre in the game, and then trying to mix it up from there was what I was trying to do. Carlos continues to work on his game, he continues to get into his shot, he continues to talk to his coaches, as well as watch film, so he is going to be just fine."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "reporter_split": true,
+      "start_seconds": 367,
+      "end_seconds": 405,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley says Carlos will be just fine despite his recent shooting struggles. Mosley explains that his decision to play DeAndre was about adding more presence at the rim.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Carlos",
+          "DeAndre"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley explains his decision to bench Carlos for DeAndre to gain more rim presence during the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "mQYGABe76po",
+  "url": "https://www.youtube.com/watch?v=mQYGABe76po",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-19T04:48:30Z",
+  "duration_seconds": 405,
+  "processed_at": "2026-11-19T05:19:51Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

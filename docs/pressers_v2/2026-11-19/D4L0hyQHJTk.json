@@ -1,0 +1,222 @@
+{
+  "video_title": "Kyrie Irving Postgame Interview | Mavericks vs. Warriors | Nov. 18, 2026",
+  "speakers_seen": [
+    "Kyrie Irving"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kyrie Irving",
+      "timestamp": "00:07",
+      "summary_phrase": "Kyrie Irving on his relationship with Dereck Lively II",
+      "names_mentioned": [
+        "Dereck Lively II"
+      ],
+      "excerpt": "he's been an advocate and supporter of Kyrie FC. It's a fan club that I have for a minute",
+      "quote": "We had a conversation in the summertime after he got drafted. He's been an advocate and supporter of Kyrie FC. It's a fan club that I have for a minute, you know what I mean? But I think just unconditional support, unconditional love, that before he got into the league, that was cool. I didn't really know much about him, watched him in college a little bit and kind of fell in love with his game and his skill set and what he's able to do out there.",
+      "verbatim_original_language": "",
+      "start_seconds": 7,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Kyrie Irving reveals Dereck Lively II was a member of his fan club before entering the NBA. Kyrie says he fell in love with Lively's game and skill set early on.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kyrie Irving discusses his relationship with teammate Dereck Lively II and his initial impressions of the young center.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kyrie Irving",
+      "timestamp": "00:44",
+      "summary_phrase": "Kyrie Irving on Dereck Lively II's development and pressure",
+      "names_mentioned": [
+        "Dereck Lively II"
+      ],
+      "excerpt": "he's learning on the fly and he has a lot of pressure on his back right now",
+      "quote": "He's learning on the fly and he has a lot of pressure on his back right now to be the number one guy and number two guy. So I know he has a lot of pressure on his shoulders, so I just hope he takes it easy a little bit. I gave him some advice before the season started, but besides that, yeah, always be close to him.",
+      "verbatim_original_language": "",
+      "start_seconds": 44,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kyrie Irving on the pressure facing Dereck Lively II this season. Kyrie says he hopes the young center takes it easy on himself while learning on the fly.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kyrie Irving reflects on the pressure Dereck Lively II faces as a young player and the advice he provided him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kyrie Irving",
+      "timestamp": "01:14",
+      "summary_phrase": "Kyrie Irving on Dereck Lively II battling early season injuries",
+      "names_mentioned": [
+        "Dereck Lively II"
+      ],
+      "excerpt": "anytime you're battling injury coming into the season it's going to be tough",
+      "quote": "Anytime you're battling injury coming into the season it's going to be tough just because you got to get in game shape and you need game reps. Sometimes we don't have a lot of practice time, it could be a little difficult but I feel like he's handled it well. We have yet to see the best version of him. He has a lot of room to grow, I think he would say that as well. So just give a lot of grace and a lot of support.",
+      "verbatim_original_language": "",
+      "start_seconds": 74,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kyrie Irving believes we have yet to see the best version of Dereck Lively II. He says the young big man needs grace and support while working his way back from early season injuries.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Kyrie Irving discusses the challenges Dereck Lively II has faced while recovering from injuries early in the season.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kyrie Irving",
+      "timestamp": "01:51",
+      "summary_phrase": "Kyrie Irving on Dereck Lively II's accountability and honesty",
+      "names_mentioned": [
+        "Dereck Lively II"
+      ],
+      "excerpt": "you want somebody like that who has those personality traits where they're going to take accountability",
+      "quote": "You want somebody like that who has those personality traits where they're going to take accountability for losses, take accountability for wins, really give a lot of flowers to their teammates as well. And he's a lot more honest than NBA players that his media training kind of skipped over a little bit. And I like it to be honest with you, just because that honesty and that self-awareness goes a long way.",
+      "verbatim_original_language": "",
+      "start_seconds": 111,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Kyrie Irving praises Dereck Lively II for his honesty and self-awareness. Kyrie says he likes that Lively is more honest than the average player who has been through media training.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kyrie Irving praises Dereck Lively II for his accountability and honest personality.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kyrie Irving",
+      "timestamp": "03:07",
+      "summary_phrase": "Kyrie Irving on the Mavericks' recent road struggles",
+      "names_mentioned": [],
+      "excerpt": "those last three games on the road were really tough, especially starting in Minnesota",
+      "quote": "Those last three games on the road were really tough, especially starting in Minnesota, got blown out. And then going to Cleveland and playing against their second unit, it was embarrassing. And then going into Boston and we just didn't have the energy to compete in that first quarter where they came out firing. In this league you're seeing a lot of games going on where teams are well-rested going against teams on back-to-backs.",
+      "verbatim_original_language": "",
+      "start_seconds": 187,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Kyrie Irving calls the Mavericks recent road performance embarrassing. He points to the lack of energy in Boston and the loss to the Cleveland second unit as major issues.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "MIN",
+          "CLE",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Kyrie Irving reflects on the team's recent difficult road trip and losses against Minnesota, Cleveland, and Boston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kyrie Irving",
+      "timestamp": "04:25",
+      "summary_phrase": "Kyrie Irving on connecting with Omar and Ibrahim",
+      "names_mentioned": [
+        "Omar",
+        "Ibrahim"
+      ],
+      "excerpt": "those guys are just very resilient and understanding the world that we live in",
+      "quote": "Those guys are just very resilient and understanding the world that we live in and how much they're representing of their culture and where they come from and all Palestinians around the world is a huge deal. For them to wait for me after the game, for them to give me their jersey, it means a lot to me. I don't take any of those moments for granted and it reminds me that my purpose is just continuously bigger than basketball.",
+      "verbatim_original_language": "",
+      "start_seconds": 265,
+      "end_seconds": 296,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 8,
+      "social_post": "Kyrie Irving reflects on meeting fans after the game. He says moments like these remind him that his purpose is continuously bigger than basketball.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Kyrie Irving discusses his postgame interaction with fans and the significance of representing his values beyond basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "D4L0hyQHJTk",
+  "url": "https://www.youtube.com/watch?v=D4L0hyQHJTk",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-19T05:08:04Z",
+  "duration_seconds": 305,
+  "processed_at": "2026-11-19T05:19:32Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
