@@ -1,0 +1,198 @@
+{
+  "video_title": "Joe Mazzulla on Tatum's Tech: We Can't Put Ourselves in That Position | Celtics vs Nuggets Postgame",
+  "speakers_seen": [
+    "Joe Mazzulla"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:12",
+      "summary_phrase": "Joe Mazzulla on handling opponent blitzing and two-on-one reads",
+      "names_mentioned": [],
+      "excerpt": "If a team is going to welcome blitzing and two-on-ones, we have to take advantage of that.",
+      "quote": "We just have to handle it. We should welcome two-on-the-ball. We have great guys that can pass, we have great skill, we have guys that can make two-on-one reads. It is just something that we have to continue to work on and be better at. If a team is going to welcome blitzing and two-on-ones, we have to take advantage of that. It is ball-handling and screening, it is spacing, making the right two-on-one reads. We had two-on-one read turnovers to the roller and two-on-one read turnovers to the corner, and I might open. We just have to be sharper in those reads and welcome that type of pick-and-roll coverage because it gives us a ton on the back side of that.",
+      "verbatim_original_language": "",
+      "start_seconds": 12,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says the Celtics need to be sharper with their two on one reads against blitzing defenses. He believes the team should welcome that coverage to create opportunities on the back side.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses the team's performance against defensive blitzing and two-on-one reads following the game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "01:14",
+      "summary_phrase": "Joe Mazzulla on DeRozan drawing fouls and team discipline",
+      "names_mentioned": [
+        "DeRozan",
+        "Murray",
+        "Jokic"
+      ],
+      "excerpt": "He just did a good job of getting an angle on us and getting drawn fouls.",
+      "quote": "We had three or four on DeRozan. He just did a good job of getting an angle on us and getting drawn fouls, something that he has been good at his entire career. Whether it is we get an angle on individual defense or we are kind of helping and they get a one-more around the side of them, there was a couple there. Obviously, both Murray and Jokic are great at drawing fouls, so you have to be extremely disciplined on that. It was a combination of those.",
+      "verbatim_original_language": "",
+      "start_seconds": 74,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla on defending stars like DeRozan and Jokic: You have to be extremely disciplined to avoid drawing fouls against players who are so good at getting to the line.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "DeMar DeRozan",
+          "Jamal Murray",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "BOS",
+          "SAC",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla explains the difficulty of defending DeMar DeRozan, Jamal Murray, and Nikola Jokic without committing fouls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "02:56",
+      "summary_phrase": "Joe Mazzulla on Chris's defensive versatility and growth",
+      "names_mentioned": [
+        "Chris",
+        "Murray",
+        "PG",
+        "JT",
+        "Aaron Gordon"
+      ],
+      "excerpt": "He has a level of talent and athleticism and has the ability to make plays.",
+      "quote": "He has a level of talent and athleticism and has the ability to make plays on both ends of the floor. He is really versatile. He can guard point guards. He did a decent job in the first half on Aaron Gordon and kind of matching that type of physicality, taking some of the pressure off PG or JT and those guys having to defend them. He has the versatility, he has the toughness, he has the athleticism, he has the talent. He just needs the reps to get better and better. I thought that was a bright spot from tonight, was just kind of his growth from game one to game two. He just has to keep it up.",
+      "verbatim_original_language": "",
+      "start_seconds": 176,
+      "end_seconds": 222,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla praised the defensive versatility of his young player, noting his ability to guard point guards and match physicality against Aaron Gordon to take pressure off Tatum and George.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Gordon",
+          "Paul George",
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla praises a player for his defensive versatility and growth while guarding Aaron Gordon.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "03:33",
+      "summary_phrase": "Joe Mazzulla on the technical foul called on Jayson Tatum",
+      "names_mentioned": [
+        "Jason"
+      ],
+      "excerpt": "We just can't put ourselves in that position to even give the refs an opportunity.",
+      "quote": "I didn't. No, I will go back and watch it. But we just can't put ourselves in that position to even give the refs an opportunity to interpret a certain type of way. So, we just have to be better there.",
+      "verbatim_original_language": "",
+      "start_seconds": 213,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Joe Mazzulla on Jayson Tatum's technical foul: We just cannot put ourselves in that position to even give the refs an opportunity to interpret a certain type of way.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla reacts to a technical foul called on Jayson Tatum during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "03:47",
+      "summary_phrase": "Joe Mazzulla on offensive process improvements in the fourth quarter",
+      "names_mentioned": [
+        "Derrick",
+        "Payton",
+        "PG",
+        "Niemi"
+      ],
+      "excerpt": "I will take that shot ten times out of ten for Derrick being able to make that.",
+      "quote": "In the start of the quarter, we had Derrick and Payton in some off-ball actions, had PG playing off-ball on some stuff there. We went back to a little bit of their blitz reads, and Niemi made some good stuff in the seam. We had, like I said, we had a couple offensive rebounds that got us extra possessions. We didn't turn it over. I think we only had one or two turnovers in the fourth quarter. I think the shot late, I will take that shot ten times out of ten for Derrick being able to make that. It is just a difference in the third quarter live-ball turnovers versus two-on-one reads. Fourth quarter, I thought we did a better job of that.",
+      "verbatim_original_language": "",
+      "start_seconds": 227,
+      "end_seconds": 267,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla credits a reduction in live ball turnovers and better execution on blitz reads for the Celtics improved offensive performance in the fourth quarter.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Derrick White",
+          "Payton Pritchard",
+          "Paul George"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla evaluates the team's offensive execution and turnover management during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ryUCXicME0c",
+  "url": "https://www.youtube.com/watch?v=ryUCXicME0c",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-19T06:05:08Z",
+  "duration_seconds": 267,
+  "processed_at": "2026-11-19T06:12:14Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

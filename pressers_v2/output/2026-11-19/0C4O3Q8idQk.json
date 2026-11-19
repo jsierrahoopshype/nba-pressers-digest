@@ -1,0 +1,139 @@
+{
+  "video_title": "SGA on Facing Former Teammates | Postgame Media | November 18, 2026",
+  "speakers_seen": [
+    "Shai Gilgeous-Alexander"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "00:14",
+      "summary_phrase": "Shai Gilgeous-Alexander on the challenge of integrating new players",
+      "names_mentioned": [],
+      "excerpt": "the challenge is different, that's all. And it's a new challenge for this group.",
+      "quote": "It's obviously been different than what we've had in the past. We've had the same 10-12 guys come back the last five years. So it's obviously a little bit different. But I think I've said this before, the challenge is different, that's all. And it's a new challenge for this group. We have no choice but to plug away at it like we do any other challenge, no matter who's out there, and keep trying to get better.",
+      "text_blocks": [],
+      "start_seconds": 14,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder roster turnover: It is obviously different than what we have had in the past. We have had the same 10-12 guys for five years. The challenge is different, that is all.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander discusses the adjustment period of integrating new teammates into the roster after years of continuity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "01:25",
+      "summary_phrase": "Shai Gilgeous-Alexander reflects on former teammates leaving the team",
+      "names_mentioned": [],
+      "excerpt": "it's bittersweet, especially when you go through a journey like we've been through",
+      "quote": "It's bittersweet, especially when you go through a journey like we've been through where you bluntly suck as a basketball team and then you rise to the top and grow together like that. Personally, I've seen their careers grow and they've seen my careers grow as players and as men as well. So it sucks to see them go, but they're flourishing. They look really good out there.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 7,
+      "social_post": "Shai Gilgeous-Alexander on seeing former teammates leave: It is bittersweet, especially when you go through a journey where you bluntly suck as a basketball team and then you rise to the top and grow together like that.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander reflects on the emotional experience of seeing former teammates leave the organization after growing together.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "02:41",
+      "summary_phrase": "Shai Gilgeous-Alexander on facing former teammate Lu Dort",
+      "names_mentioned": [
+        "Lu Dort"
+      ],
+      "excerpt": "It was what I expected. Lu's guarded me before and I didn't think he'd pick up any magical powers",
+      "quote": "It was fun. It was what I expected. Lu's guarded me before and I didn't think he'd pick up any magical powers in the last four or five months. But yeah, it was fun. Hell of a defender.",
+      "text_blocks": [],
+      "start_seconds": 161,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 8,
+      "social_post": "Shai Gilgeous-Alexander on facing Lu Dort: I did not think he would pick up any magical powers in the last four or five months. It was fun. Hell of a defender.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Lu Dort"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander comments on the experience of playing against his former teammate Lu Dort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "03:41",
+      "summary_phrase": "Shai Gilgeous-Alexander on his evolving shot selection and team defense",
+      "names_mentioned": [],
+      "excerpt": "I don't ever decide what I'm going to do before I do it. So I'm literally just out there playing",
+      "quote": "I don't ever decide what I'm going to do before I do it. So I'm literally just out there playing basketball. And if there's a pattern that has changed, it's probably something that they're doing to make me change. And in the summertime, I try to work on everything to make sure that if they're forcing me to do something, that I'm comfortable enough to do it in that area. And I guess that's the result.",
+      "text_blocks": [],
+      "start_seconds": 221,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Shai Gilgeous-Alexander on his shot selection: I do not ever decide what I am going to do before I do it. I am literally just out there playing basketball. If there is a pattern that has changed, it is probably something they are doing.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander explains his approach to shot selection and adapting to defensive schemes during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "0C4O3Q8idQk",
+  "url": "https://www.youtube.com/watch?v=0C4O3Q8idQk",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-19T05:30:22Z",
+  "duration_seconds": 248,
+  "processed_at": "2026-11-19T06:12:22Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

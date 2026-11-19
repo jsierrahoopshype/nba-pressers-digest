@@ -3039,6 +3039,22 @@
   }
  },
  "pending": {
+  "0C4O3Q8idQk": {
+   "channel": "Oklahoma City Thunder",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T06:12:38Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-19",
+   "speaker": "Shai Gilgeous-Alexander",
+   "title": "SGA on Facing Former Teammates | Postgame Media | November 18, 2026",
+   "top_quote": "It's obviously been different than what we've had in the past. We've had the same 10-12 guys come back the last five years. So it's obviously a little bit different. But I think I've said this before, the challenge is different, that's all. And it's a new challenge for this group. We have no choice but to plug away at it like we do any other challenge, no matter who's out there, and keep trying to get better.",
+   "video_id": "0C4O3Q8idQk"
+  },
   "0b5XUAlkyuc": {
    "channel": "Milwaukee Bucks",
    "clip_count": 3,
@@ -3134,6 +3150,22 @@
    "title": "POSTGAME SOUND: PHILADELPHIA 76ERS VS. ORLANDO MAGIC | COACH SWEENEY,  JALEN, & FRANZ",
    "top_quote": "Their defense was strong in the fourth. We had a tough time getting going there offensively. I thought throughout the course of the game, in totality offensively, we were pretty good. We needed to play a little bit better defense, keep them off the free throw line, and Joel Embiid being the primary guy there. They made some tough shots, some shots that we could take away, but in the fourth quarter I thought we got a little stagnant offensively. We had some good looks, but we need to execute a little bit better there and coach a little better.",
    "video_id": "Afi9HSr5AlM"
+  },
+  "B-N5g_GuAKE": {
+   "channel": "Oklahoma City Thunder",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T06:12:38Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Jared McCain",
+   "title": "Jared McCain on Defensive Adjustments | Postgame Media | November 18, 2026",
+   "top_quote": "A lot of it is just competing at a high level. I think we rebounded in that little stretch. They had some, they punched us in the mouth a few times, big runs for them, and that's what we got to contain. Sometimes when Shai goes out, we have to be able to keep the game in reach and even be able to push forward. In that third quarter, I think we were able to do that a little bit, but it still got out of hand a little bit, and I think that's what's going to be on film probably.",
+   "video_id": "B-N5g_GuAKE"
   },
   "BSqpz3tZeM8": {
    "channel": "Toronto Raptors",
@@ -3231,6 +3263,22 @@
    "top_quote": "It takes time. Obviously when we were 0-4, shots weren't falling and you're trying to build the connection. And then you get a win and you start figuring out how obviously the connection can get better. From the beginning of the year till now, you see how better it's gotten. For us, it's watching film, seeing how we can really exhaust that two-man game.",
    "video_id": "Ea-GfFFEXpo"
   },
+  "HnvXc-_a-vg": {
+   "channel": "Oklahoma City Thunder",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T06:12:38Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Mark Daigneault",
+   "title": "Coach Daigneault on Learning from Tonight's Game | Postgame Media | November 18, 2026",
+   "top_quote": "It was a little bit of a shot variance first half. I thought we got decent shots that didn't go down, they had shots go down, and so that was part of the disparity. I thought we gave ourselves a chance to control the game, and the second half I thought we weren't good enough fundamentally to be honest with you to control a home win. So we need to learn from that. There's things that are controllable in the game, there's things that aren't, and I thought we let too much of the controllable stuff go tonight and left the game up to chance, and credit Atlanta, they made more plays.",
+   "video_id": "HnvXc-_a-vg"
+  },
   "Ktnw7g85zAw": {
    "channel": "Philadelphia 76ers",
    "clip_count": 11,
@@ -3246,6 +3294,22 @@
    "title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.18.26",
    "top_quote": "It was looking like it was heading that way. They were just flying 100 miles an hour and we weren't, and they were really putting it on us. We had to try to change a few things and change the rhythm of the game, and sometimes that works and sometimes it doesn't. We obviously got the rhythm of the game changed with the zone and were able to play it for a long time. And then when we did go back to our man-to-man, I think we had some energy to play it and we played it very well late.",
    "video_id": "Ktnw7g85zAw"
+  },
+  "MI0KcQsVoU4": {
+   "channel": "Washington Wizards",
+   "clip_count": 9,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T06:12:38Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-19",
+   "speaker": "Brian Keefe",
+   "title": "Media Availability: Head Coach Brian Keife, AJ Dybantsa, and Kyshawn George | 11.18.26",
+   "top_quote": "His energy you could feel it all over the place and not just on his rebounding. Obviously you saw his attacking, but he was also guarding their best player tonight. He was chasing over pick and rolls, fighting over screens, and to have the energy to do that, that's pretty impressive.",
+   "video_id": "MI0KcQsVoU4"
   },
   "OZLfHvwYfzE": {
    "channel": "Toronto Raptors",
@@ -3406,6 +3470,22 @@
    "title": "Doug Christie details importance of Leaky Black to Kings | NBC Sports California",
    "top_quote": "Leaky is doing exactly what I like, down in the stance, arms out, just presenting a picture that gaps aren't there. Then he's extremely active with his hands. When someone leaves their feet, he leaves his feet, which puts them in a real tough position. Really good hands, especially on defense, runs the floor, shoots the shots when he's open. He's just a team player, but defensively solid. You can put him on just about anybody, and yeah, big fan of Leaky.",
    "video_id": "q2aeD0nd0gk"
+  },
+  "ryUCXicME0c": {
+   "channel": "Boston Celtics",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T06:12:38Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Joe Mazzulla",
+   "title": "Joe Mazzulla on Tatum's Tech: We Can't Put Ourselves in That Position | Celtics vs Nuggets Postgame",
+   "top_quote": "We just have to handle it. We should welcome two-on-the-ball. We have great guys that can pass, we have great skill, we have guys that can make two-on-one reads. It is just something that we have to continue to work on and be better at. If a team is going to welcome blitzing and two-on-ones, we have to take advantage of that. It is ball-handling and screening, it is spacing, making the right two-on-one reads. We had two-on-one read turnovers to the roller and two-on-one read turnovers to the corner, and I might open. We just have to be sharper in those reads and welcome that type of pick-and-roll coverage because it gives us a ton on the back side of that.",
+   "video_id": "ryUCXicME0c"
   },
   "thQrjiEnuDM": {
    "channel": "Dallas Mavericks",

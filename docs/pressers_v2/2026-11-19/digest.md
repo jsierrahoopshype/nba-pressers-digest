@@ -20,7 +20,27 @@ Ime Udoka: "He got swelling on the right eye. He got poked in both basically. So
 
 From: [Houston Rockets Postgane: Ime Udoka talks win and Alperen Sengun injury](https://www.youtube.com/watch?v=a_-MS-B_QGk) · *Houston Rockets*
 
-**3. Kyrie Irving — "those guys are just very resilient and understanding the world that we live in" — Kyrie Irving on connecting with Omar and Ibrahim** [04:25](https://www.youtube.com/watch?v=D4L0hyQHJTk&t=265s)
+**3. Shai Gilgeous-Alexander — "It was what I expected. Lu's guarded me before and I didn't think he'd pick up any magical powers" — Shai Gilgeous-Alexander on facing former teammate Lu Dort** [02:41](https://www.youtube.com/watch?v=0C4O3Q8idQk&t=161s)
+
+Shai Gilgeous-Alexander: "It was fun. It was what I expected. Lu's guarded me before and I didn't think he'd pick up any magical powers in the last four or five months. But yeah, it was fun. Hell of a defender."
+
+[https://www.youtube.com/watch?v=0C4O3Q8idQk&t=161s](https://www.youtube.com/watch?v=0C4O3Q8idQk&t=161s)
+
+From: [SGA on Facing Former Teammates \| Postgame Media \| November 18, 2026](https://www.youtube.com/watch?v=0C4O3Q8idQk) · *Oklahoma City Thunder*
+
+<small>[Clip it](presserclips://clip?v=0C4O3Q8idQk&t=161&q=3) · [Send to Slack](presserclips://clip?v=0C4O3Q8idQk&t=161&q=3&slack=1)</small>
+
+**4. Jared McCain — "Wiggs especially was one of the main ones to reach out to me." — Jared McCain on the team's culture and support from veterans** [04:11](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=251s)
+
+Jared McCain: "There's such good people, and I talk about it since I got here, but **Wiggs** especially was one of the main ones to reach out to me and help me with whatever I needed on the court. And **Lou** is just a nice guy. He embraced me, and that's all I can ask for. With all the stuff that I do outside of the court, they're just great people, and I think that's what **Sam Presti** is really good at bringing in. It was really cool to see the tribute video, and when **Lou** was guarding me, I was just kind of laughing. Just seeing **Lou** on the other side, it was funny."
+
+[https://www.youtube.com/watch?v=B-N5g_GuAKE&t=251s](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=251s)
+
+From: [Jared McCain on Defensive Adjustments \| Postgame Media \| November 18, 2026](https://www.youtube.com/watch?v=B-N5g_GuAKE) · *Oklahoma City Thunder*
+
+<small>[Clip it](presserclips://clip?v=B-N5g_GuAKE&t=251&q=6) · [Send to Slack](presserclips://clip?v=B-N5g_GuAKE&t=251&q=6&slack=1)</small>
+
+**5. Kyrie Irving — "those guys are just very resilient and understanding the world that we live in" — Kyrie Irving on connecting with Omar and Ibrahim** [04:25](https://www.youtube.com/watch?v=D4L0hyQHJTk&t=265s)
 
 Kyrie Irving: "Those guys are just very resilient and understanding the world that we live in and how much they're representing of their culture and where they come from and all Palestinians around the world is a huge deal. For them to wait for me after the game, for them to give me their jersey, it means a lot to me. I don't take any of those moments for granted and it reminds me that my purpose is just continuously bigger than basketball."
 
@@ -28,7 +48,7 @@ Kyrie Irving: "Those guys are just very resilient and understanding the world th
 
 From: [Kyrie Irving Postgame Interview \| Mavericks vs. Warriors \| Nov. 18, 2026](https://www.youtube.com/watch?v=D4L0hyQHJTk) · *Dallas Mavericks*
 
-**4. Bam Adebayo — "I grew up playing that game. I grew up seeing my idol Kobe being on the cover." — Bam Adebayo on being featured on the NBA 2K cover** [05:25](https://www.youtube.com/watch?v=Ea-GfFFEXpo&t=325s)
+**6. Bam Adebayo — "I grew up playing that game. I grew up seeing my idol Kobe being on the cover." — Bam Adebayo on being featured on the NBA 2K cover** [05:25](https://www.youtube.com/watch?v=Ea-GfFFEXpo&t=325s)
 
 Bam Adebayo: "Still haven't really grasped it to be honest, because I grew up playing that game. I grew up seeing my idol Kobe being on the cover. As a kid growing up, you always picture yourself being on the cover of 2K. And to have that moment to be a part of it, obviously it's surreal. I'm truly blessed and I'm truly excited to be a part of a game like that and be the cover for real."
 
@@ -36,7 +56,7 @@ Bam Adebayo: "Still haven't really grasped it to be honest, because I grew up pl
 
 From: [Bam Adebayo Talks Miami Heat 6 Wins Straight, Tyler Herro Relationship and Growing Giannis Chemistry](https://www.youtube.com/watch?v=Ea-GfFFEXpo) · *Miami Heat*
 
-**5. Steve Kerr — "you have to experiment when you're in a state that we are right now missing so many guys" — Steve Kerr on experimenting with starting lineups amid injuries** [01:34](https://www.youtube.com/watch?v=vMdFd6yCG-Y&t=94s)
+**7. Steve Kerr — "you have to experiment when you're in a state that we are right now missing so many guys" — Steve Kerr on experimenting with starting lineups amid injuries** [01:34](https://www.youtube.com/watch?v=vMdFd6yCG-Y&t=94s)
 
 Steve Kerr: "You have to experiment when you're in a state that we are right now missing so many guys and trying to find combinations that haven't played together before. So, you're trying to find things that click. We wanted to go bigger tonight with **Charles** and give Jax that lob threat and give Draymond help at the rim. He was going to guard Flag and so we needed some help behind him. So, we tried something different, but this is just where we are right now. We're wiped out with injuries and the guys are really, really competing and playing hard and staying together."
 
@@ -44,7 +64,7 @@ Steve Kerr: "You have to experiment when you're in a state that we are right now
 
 From: [Steve Kerr admits Warriors are ‘wiped out’ after another loss \| NBC Sports Bay Area](https://www.youtube.com/watch?v=vMdFd6yCG-Y) · *Golden State Warriors*
 
-**6. P.J. Washington — "he's going to be really great in this league I'm not worried about him at all" — P.J. Washington on managing his injury and professional approach** [04:25](https://www.youtube.com/watch?v=1ASrj4j87pw&t=265s)
+**8. P.J. Washington — "he's going to be really great in this league I'm not worried about him at all" — P.J. Washington on managing his injury and professional approach** [04:25](https://www.youtube.com/watch?v=1ASrj4j87pw&t=265s)
 
 P.J. Washington: "It's a long season, obviously as a rookie it's tough. Some post games you haven't played in your life, so for him it's just making sure his body is where it needs to be, making sure it's even right, sticking well and just being a professional. I think he's going to be really great in this league I'm not worried about him at all. Obviously he's just going through the injury so for him it's just being the same each and every day and just trying to chase consistency."
 
@@ -52,7 +72,7 @@ P.J. Washington: "It's a long season, obviously as a rookie it's tough. Some pos
 
 From: [Cooper Flagg & P.J. Washington Postgame \| Mavericks vs. Warriors \| Nov. 18, 2026](https://www.youtube.com/watch?v=1ASrj4j87pw) · *Dallas Mavericks*
 
-**7. Jarrett Allen — "we have an identity and the base, but we just had so many circumstances." — Jarrett Allen on the team's identity and current injury struggles** [06:06](https://www.youtube.com/watch?v=UG0fLQk9kac&t=366s)
+**9. Jarrett Allen — "we have an identity and the base, but we just had so many circumstances." — Jarrett Allen on the team's identity and current injury struggles** [06:06](https://www.youtube.com/watch?v=UG0fLQk9kac&t=366s)
 
 Jarrett Allen: "I think we have an identity and the base, but we just had so many circumstances that don't let us build upon it. I feel like we're finding out what works as well. It's not going to be perfect, but we're missing Evan, PY, Sam, things just haven't been in the best way for us to build upon the base of getting the ball down the court, kicking it. We're just trying to figure out how to build a house on the base basically."
 
@@ -62,7 +82,7 @@ From: [Cavs vs Grizzlies \| Jarrett Allen & Donovan Mitchell Post Game \| 11.18.
 
 <small>[Clip it](presserclips://clip?v=UG0fLQk9kac&t=366&q=4) · [Send to Slack](presserclips://clip?v=UG0fLQk9kac&t=366&q=4&slack=1)</small>
 
-**8. Franz Wagner — "I'm excited. Should be a fun game. It's a blessing we get to play on the same court" — Franz Wagner on playing against his brother** [12:04](https://www.youtube.com/watch?v=Afi9HSr5AlM&t=724s)
+**10. Franz Wagner — "I'm excited. Should be a fun game. It's a blessing we get to play on the same court" — Franz Wagner on playing against his brother** [12:04](https://www.youtube.com/watch?v=Afi9HSr5AlM&t=724s)
 
 Franz Wagner: "I'm excited. Should be a fun game. It will be a great day for our family. I think it's a blessing we get to play on the same court in the NBA game."
 
@@ -72,7 +92,7 @@ From: [POSTGAME SOUND: PHILADELPHIA 76ERS VS. ORLANDO MAGIC \| COACH SWEENEY,  J
 
 <small>[Clip it](presserclips://clip?v=Afi9HSr5AlM&t=724&q=9) · [Send to Slack](presserclips://clip?v=Afi9HSr5AlM&t=724&q=9&slack=1)</small>
 
-**9. Donovan Mitchell — "you're not defined by two free throws at the end of a game." — Donovan Mitchell defends Sam Merrill after missed free throws** [04:48](https://www.youtube.com/watch?v=UG0fLQk9kac&t=288s)
+**11. Donovan Mitchell — "you're not defined by two free throws at the end of a game." — Donovan Mitchell defends Sam Merrill after missed free throws** [04:48](https://www.youtube.com/watch?v=UG0fLQk9kac&t=288s)
 
 Donovan Mitchell: "There's a reason why I made the pass. We all trust him, and I would do it again tomorrow, I'd do it again the next night. You're not defined by two free throws at the end of a game. For him, he's done so much for us on a consistent basis. Defensively, I feel like they weren't giving him a lot of calls that he truly deserved. I think he deserves a lot more respect on the defensive end of the ball than he's been getting, and I have a bone to pick with some of the refs on that because he's really doing the little things and he's not getting the whistle he deserves."
 
@@ -82,7 +102,7 @@ From: [Cavs vs Grizzlies \| Jarrett Allen & Donovan Mitchell Post Game \| 11.18.
 
 <small>[Clip it](presserclips://clip?v=UG0fLQk9kac&t=288&q=3) · [Send to Slack](presserclips://clip?v=UG0fLQk9kac&t=288&q=3&slack=1)</small>
 
-**10. Meleek Thomas — "Don is special, he's special as a leader, he's special as a player, special as a human being" — Meleek Thomas on Donovan Mitchell's leadership and impact** [09:11](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=551s)
+**12. Meleek Thomas — "Don is special, he's special as a leader, he's special as a player, special as a human being" — Meleek Thomas on Donovan Mitchell's leadership and impact** [09:11](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=551s)
 
 Meleek Thomas: "Don is special, he's special as a leader, he's special as a player, special as a human being. And it's just things that I learn from him on a day-to-day basis that will be like, yeah, he's an amazing basketball player, but he also wants the best for the ones that he's around. So I'm just learning from him on and off the court, but the basketball kind of speaks for itself and I I take a lot from him. We work off of each other, I watch what he does on film, I watch his old stuff and you you got to appreciate a amazing person that's alongside of you basketball and off the court when when you got a guy like that."
 
@@ -92,7 +112,7 @@ From: [Cavs vs Grizzlies \| Mario Hezonja & Meleek Thomas Post Game \| 11.18.202
 
 <small>[Clip it](presserclips://clip?v=CgMYkSv-e_E&t=551&q=12) · [Send to Slack](presserclips://clip?v=CgMYkSv-e_E&t=551&q=12&slack=1)</small>
 
-**11. Georges Niang — "the Steph injury is unfortunate we're missing bodies but at the end of the day we have good spirit" — Georges Niang on the Warriors' resilience despite Steph Curry's injury** [00:08](https://www.youtube.com/watch?v=g1-WmM-mEvc&t=8s)
+**13. Georges Niang — "the Steph injury is unfortunate we're missing bodies but at the end of the day we have good spirit" — Georges Niang on the Warriors' resilience despite Steph Curry's injury** [00:08](https://www.youtube.com/watch?v=g1-WmM-mEvc&t=8s)
 
 Georges Niang: "The biggest thing is we got to continue to keep chopping wood and continuing to grow and get better. The **Steph** injury is unfortunate we're missing bodies but at the end of the day we have good spirit. I think we're pulling for one another but this is a unique situation. You are used to playing a certain style with certain players and then when they're out you kind of have to reinvent yourself and we're in that process."
 
@@ -100,7 +120,7 @@ Georges Niang: "The biggest thing is we got to continue to keep chopping wood an
 
 From: [Georges Niang declares Warriors won’t go down without fight \| NBC Sports Bay Area](https://www.youtube.com/watch?v=g1-WmM-mEvc) · *Golden State Warriors*
 
-**12. Mario Hezonja — "too many lead changes when we had a chance to put them away, we didn't take advantage" — Mario Hezonja on the team's frustration with late-game execution** [00:08](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=8s)
+**14. Mario Hezonja — "too many lead changes when we had a chance to put them away, we didn't take advantage" — Mario Hezonja on the team's frustration with late-game execution** [00:08](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=8s)
 
 Mario Hezonja: "too many lead changes when we had a chance to put them away, we didn't take advantage of it. We could, and then the most frustrating part is just see that ball just not going in. Great looks, great shots. Don't even mind at the rim. At the rim, free throw. Those are all easy looks for us, so it's extremely frustrating that we lost. Today we competed, we fought, but also another thing is just head up tomorrow, clean stuff on the film and keep it going because we have a next game pretty soon."
 
@@ -110,7 +130,17 @@ From: [Cavs vs Grizzlies \| Mario Hezonja & Meleek Thomas Post Game \| 11.18.202
 
 <small>[Clip it](presserclips://clip?v=CgMYkSv-e_E&t=8&q=1) · [Send to Slack](presserclips://clip?v=CgMYkSv-e_E&t=8&q=1&slack=1)</small>
 
-**13. Immanuel Quickley — "We have the lead, we're right there, end of the game, we got to find a way." — Immanuel Quickley on the recurring issue of losing close games** [01:04](https://www.youtube.com/watch?v=OZLfHvwYfzE&t=64s)
+**15. Kyshawn George — "15 years old, 5'7, under 150 pounds and you going up against 21 year olds." — Kyshawn George on his development and physical growth** [05:53](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=353s)
+
+Kyshawn George: "15 years old, 5'7, under 150 pounds and you going up against 21 year olds that could dunk and all that stuff. So I just had to compensate, keep the main goal in head and just sit my way at it. Obviously the growth spurt helped a lot, but I think that stuck with me and kept me level headed."
+
+[https://www.youtube.com/watch?v=MI0KcQsVoU4&t=353s](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=353s)
+
+From: [Media Availability: Head Coach Brian Keife, AJ Dybantsa, and Kyshawn George \| 11.18.26](https://www.youtube.com/watch?v=MI0KcQsVoU4) · *Washington Wizards*
+
+<small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=353&q=7) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=353&q=7&slack=1)</small>
+
+**16. Immanuel Quickley — "We have the lead, we're right there, end of the game, we got to find a way." — Immanuel Quickley on the recurring issue of losing close games** [01:04](https://www.youtube.com/watch?v=OZLfHvwYfzE&t=64s)
 
 Immanuel Quickley: "A lot are similar. Obviously every game is different, but a lot are similar just the fact that we're losing close. It's not like we're losing by 20, 30 every game. We have the lead, we're right there, end of the game, we got to find a way. I mean, we just got to find a way to get it done, that's pretty much it."
 
@@ -120,7 +150,7 @@ From: [Immanuel Quickley \| Post Game vs Washington Wizards \| November 18, 2026
 
 <small>[Clip it](presserclips://clip?v=OZLfHvwYfzE&t=64&q=3) · [Send to Slack](presserclips://clip?v=OZLfHvwYfzE&t=64&q=3&slack=1)</small>
 
-**14. Brayden Burries — "They don't make half their threes and probably win tonight, so just got to move on to tomorrow" — Brayden Burries on team growth despite the losing streak** [01:50](https://www.youtube.com/watch?v=peOGVp9vW0M&t=110s)
+**17. Brayden Burries — "They don't make half their threes and probably win tonight, so just got to move on to tomorrow" — Brayden Burries on team growth despite the losing streak** [01:50](https://www.youtube.com/watch?v=peOGVp9vW0M&t=110s)
 
 **Unidentified reporter:** "11 losses in a row. It's tough for anybody at any level. What's giving you hope about the growth that you've seen from this group?"
 
@@ -132,7 +162,7 @@ From: [Brayden Burries Postgame Media Availability \| 11.18.26](https://www.yout
 
 <small>[Clip it](presserclips://clip?v=peOGVp9vW0M&t=110&q=5) · [Send to Slack](presserclips://clip?v=peOGVp9vW0M&t=110&q=5&slack=1)</small>
 
-**15. Jordan Poole — "It's just a matter of reps, being able to play, especially at a young age." — Jordan Poole on Jeremiah Fears' development as a playmaker** [01:23](https://www.youtube.com/watch?v=vL49lzp13lA&t=83s)
+**18. Jordan Poole — "It's just a matter of reps, being able to play, especially at a young age." — Jordan Poole on Jeremiah Fears' development as a playmaker** [01:23](https://www.youtube.com/watch?v=vL49lzp13lA&t=83s)
 
 Jordan Poole: "They are pushing **Jeremiah Fears** into that role and they are obviously trying to put him in a position so he can learn, get a lot of reps, get a lot of minutes. I feel like he has been doing a really good job of that. He had a really good game, obviously last game with the triple-double. It's just a matter of reps, being able to play, especially at a young age, seeing a lot of different actions in time early. He has been doing a good job. Shout out to the coaching staff and obviously hopefully he can keep it up."
 
@@ -142,13 +172,53 @@ From: [Jordan Poole \| Pelicans vs. Pistons Postgame Interview 11/18/26](https:/
 
 <small>[Clip it](presserclips://clip?v=vL49lzp13lA&t=83&q=1) · [Send to Slack](presserclips://clip?v=vL49lzp13lA&t=83&q=1&slack=1)</small>
 
-**16. Cooper Flagg — "just getting back to competing at a really high level. Everybody that touched the court today" — Cooper Flagg on the team's improved effort and intensity** [01:02](https://www.youtube.com/watch?v=1ASrj4j87pw&t=62s)
+**19. Cooper Flagg — "just getting back to competing at a really high level. Everybody that touched the court today" — Cooper Flagg on the team's improved effort and intensity** [01:02](https://www.youtube.com/watch?v=1ASrj4j87pw&t=62s)
 
 Cooper Flagg: "I just think the effort, just getting back to competing at a really high level. I thought, you know, everybody that touched the court today came in with the right mindset of just playing really, really hard and it's contagious too. If you have a couple guys starting the game with high energy, it's contagious to everybody else. So I just thought we did a better job of starting out early with a high level of intensity."
 
 [https://www.youtube.com/watch?v=1ASrj4j87pw&t=62s](https://www.youtube.com/watch?v=1ASrj4j87pw&t=62s)
 
 From: [Cooper Flagg & P.J. Washington Postgame \| Mavericks vs. Warriors \| Nov. 18, 2026](https://www.youtube.com/watch?v=1ASrj4j87pw) · *Dallas Mavericks*
+
+---
+
+## SGA on Facing Former Teammates | Postgame Media | November 18, 2026 — *Oklahoma City Thunder*
+
+Source: [https://www.youtube.com/watch?v=0C4O3Q8idQk](https://www.youtube.com/watch?v=0C4O3Q8idQk)
+
+_Speakers identified: Shai Gilgeous-Alexander_
+
+**1. Shai Gilgeous-Alexander — "the challenge is different, that's all. And it's a new challenge for this group." — Shai Gilgeous-Alexander on the challenge of integrating new players** [00:14](https://www.youtube.com/watch?v=0C4O3Q8idQk&t=14s)
+
+Shai Gilgeous-Alexander: "It's obviously been different than what we've had in the past. We've had the same 10-12 guys come back the last five years. So it's obviously a little bit different. But I think I've said this before, the challenge is different, that's all. And it's a new challenge for this group. We have no choice but to plug away at it like we do any other challenge, no matter who's out there, and keep trying to get better."
+
+[https://www.youtube.com/watch?v=0C4O3Q8idQk&t=14s](https://www.youtube.com/watch?v=0C4O3Q8idQk&t=14s)
+
+<small>[Clip it](presserclips://clip?v=0C4O3Q8idQk&t=14&q=1) · [Send to Slack](presserclips://clip?v=0C4O3Q8idQk&t=14&q=1&slack=1)</small>
+
+**2. Shai Gilgeous-Alexander — "it's bittersweet, especially when you go through a journey like we've been through" — Shai Gilgeous-Alexander reflects on former teammates leaving the team** [01:25](https://www.youtube.com/watch?v=0C4O3Q8idQk&t=85s)
+
+Shai Gilgeous-Alexander: "It's bittersweet, especially when you go through a journey like we've been through where you bluntly suck as a basketball team and then you rise to the top and grow together like that. Personally, I've seen their careers grow and they've seen my careers grow as players and as men as well. So it sucks to see them go, but they're flourishing. They look really good out there."
+
+[https://www.youtube.com/watch?v=0C4O3Q8idQk&t=85s](https://www.youtube.com/watch?v=0C4O3Q8idQk&t=85s)
+
+<small>[Clip it](presserclips://clip?v=0C4O3Q8idQk&t=85&q=2) · [Send to Slack](presserclips://clip?v=0C4O3Q8idQk&t=85&q=2&slack=1)</small>
+
+**3. Shai Gilgeous-Alexander — "It was what I expected. Lu's guarded me before and I didn't think he'd pick up any magical powers" — Shai Gilgeous-Alexander on facing former teammate Lu Dort** [02:41](https://www.youtube.com/watch?v=0C4O3Q8idQk&t=161s)
+
+Shai Gilgeous-Alexander: "It was fun. It was what I expected. Lu's guarded me before and I didn't think he'd pick up any magical powers in the last four or five months. But yeah, it was fun. Hell of a defender."
+
+[https://www.youtube.com/watch?v=0C4O3Q8idQk&t=161s](https://www.youtube.com/watch?v=0C4O3Q8idQk&t=161s)
+
+<small>[Clip it](presserclips://clip?v=0C4O3Q8idQk&t=161&q=3) · [Send to Slack](presserclips://clip?v=0C4O3Q8idQk&t=161&q=3&slack=1)</small>
+
+**4. Shai Gilgeous-Alexander — "I don't ever decide what I'm going to do before I do it. So I'm literally just out there playing" — Shai Gilgeous-Alexander on his evolving shot selection and team defense** [03:41](https://www.youtube.com/watch?v=0C4O3Q8idQk&t=221s)
+
+Shai Gilgeous-Alexander: "I don't ever decide what I'm going to do before I do it. So I'm literally just out there playing basketball. And if there's a pattern that has changed, it's probably something that they're doing to make me change. And in the summertime, I try to work on everything to make sure that if they're forcing me to do something, that I'm comfortable enough to do it in that area. And I guess that's the result."
+
+[https://www.youtube.com/watch?v=0C4O3Q8idQk&t=221s](https://www.youtube.com/watch?v=0C4O3Q8idQk&t=221s)
+
+<small>[Clip it](presserclips://clip?v=0C4O3Q8idQk&t=221&q=4) · [Send to Slack](presserclips://clip?v=0C4O3Q8idQk&t=221&q=4&slack=1)</small>
 
 ---
 
@@ -433,6 +503,62 @@ Franz Wagner: "I'm excited. Should be a fun game. It will be a great day for our
 [https://www.youtube.com/watch?v=Afi9HSr5AlM&t=724s](https://www.youtube.com/watch?v=Afi9HSr5AlM&t=724s)
 
 <small>[Clip it](presserclips://clip?v=Afi9HSr5AlM&t=724&q=9) · [Send to Slack](presserclips://clip?v=Afi9HSr5AlM&t=724&q=9&slack=1)</small>
+
+---
+
+## Jared McCain on Defensive Adjustments | Postgame Media | November 18, 2026 — *Oklahoma City Thunder*
+
+Source: [https://www.youtube.com/watch?v=B-N5g_GuAKE](https://www.youtube.com/watch?v=B-N5g_GuAKE)
+
+_Speakers identified: Jared McCain_
+
+**1. Jared McCain — "A lot of it is just competing at a high level." — Jared McCain on the importance of high-level competition and rebounding** [00:15](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=15s)
+
+Jared McCain: "A lot of it is just competing at a high level. I think we rebounded in that little stretch. They had some, they punched us in the mouth a few times, big runs for them, and that's what we got to contain. Sometimes when Shai goes out, we have to be able to keep the game in reach and even be able to push forward. In that third quarter, I think we were able to do that a little bit, but it still got out of hand a little bit, and I think that's what's going to be on film probably."
+
+[https://www.youtube.com/watch?v=B-N5g_GuAKE&t=15s](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=15s)
+
+<small>[Clip it](presserclips://clip?v=B-N5g_GuAKE&t=15&q=1) · [Send to Slack](presserclips://clip?v=B-N5g_GuAKE&t=15&q=1&slack=1)</small>
+
+**2. Jared McCain — "A lot of it is reps. We talk about it a lot just getting those reps." — Jared McCain on coordinating defensive rotations and rebounding** [01:13](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=73s)
+
+Jared McCain: "A lot of it is reps. We talk about it a lot just getting those reps with when we have the double big in, and they're guarding somebody who plays on the perimeter, being able to get back in and rebound, or if they're guarding someone in the paint and they kick it out, being able to contest those shots and get the ball. I think a lot of it is just playing with each other, just figuring it out. Sometimes we're out there and we get kind of stuck, so I think a lot of it is just figuring out, flying around, just trying to do our best with what we have."
+
+[https://www.youtube.com/watch?v=B-N5g_GuAKE&t=73s](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=73s)
+
+<small>[Clip it](presserclips://clip?v=B-N5g_GuAKE&t=73&q=2) · [Send to Slack](presserclips://clip?v=B-N5g_GuAKE&t=73&q=2&slack=1)</small>
+
+**3. Jared McCain — "I credit my teammates, coaches, they they gave me the confidence." — Jared McCain on maintaining confidence despite shooting struggles** [02:12](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=132s)
+
+Jared McCain: "I credit my teammates, coaches, they gave me the confidence. If I'm 0 for 10, I feel like I can take that 11th one with just as much confidence if I was 10 for 10. I try, it's hard to try and not base things off of results, but in my head that's what I'm going for, is just shoot the next one with the same confidence. No matter what it is, that's what I do, and that's what I've been good at since I was a kid. Having that confidence, no matter what it is, no matter how many shots I've made already, my teammates and coaches give me that."
+
+[https://www.youtube.com/watch?v=B-N5g_GuAKE&t=132s](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=132s)
+
+<small>[Clip it](presserclips://clip?v=B-N5g_GuAKE&t=132&q=3) · [Send to Slack](presserclips://clip?v=B-N5g_GuAKE&t=132&q=3&slack=1)</small>
+
+**4. Jared McCain — "I feel like it naturally happens with the way they guard AJ or Shai." — Jared McCain on his natural shooting rhythm and team chemistry** [03:02](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=182s)
+
+Jared McCain: "I feel like it naturally happens with the way they guard **AJ** or **Shai**, and the way me and **Hart** played together. But I think finding shots is what I'm good at also, so I think those threes are something that I try and look for in the game. But it's not something I'm consciously trying to get as many up as I can, but if they're open, I'm definitely going to take them."
+
+[https://www.youtube.com/watch?v=B-N5g_GuAKE&t=182s](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=182s)
+
+<small>[Clip it](presserclips://clip?v=B-N5g_GuAKE&t=182&q=4) · [Send to Slack](presserclips://clip?v=B-N5g_GuAKE&t=182&q=4&slack=1)</small>
+
+**5. Jared McCain — "Just staying steady throughout the whole game." — Jared McCain on maintaining team composure during close games** [03:37](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=217s)
+
+Jared McCain: "Just staying steady throughout the whole game. I feel like with this team, even since last year, we've been in a lot of positions like that in playoffs, and it's a game of runs. So just being able to stay confident with the team and being able to execute whatever coach says, and just not waver our confidence, not waver whatever we're doing out there. No matter what the score is, we're going to go out there and compete. I think that's the main thing with basketball and sports in general."
+
+[https://www.youtube.com/watch?v=B-N5g_GuAKE&t=217s](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=217s)
+
+<small>[Clip it](presserclips://clip?v=B-N5g_GuAKE&t=217&q=5) · [Send to Slack](presserclips://clip?v=B-N5g_GuAKE&t=217&q=5&slack=1)</small>
+
+**6. Jared McCain — "Wiggs especially was one of the main ones to reach out to me." — Jared McCain on the team's culture and support from veterans** [04:11](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=251s)
+
+Jared McCain: "There's such good people, and I talk about it since I got here, but **Wiggs** especially was one of the main ones to reach out to me and help me with whatever I needed on the court. And **Lou** is just a nice guy. He embraced me, and that's all I can ask for. With all the stuff that I do outside of the court, they're just great people, and I think that's what **Sam Presti** is really good at bringing in. It was really cool to see the tribute video, and when **Lou** was guarding me, I was just kind of laughing. Just seeing **Lou** on the other side, it was funny."
+
+[https://www.youtube.com/watch?v=B-N5g_GuAKE&t=251s](https://www.youtube.com/watch?v=B-N5g_GuAKE&t=251s)
+
+<small>[Clip it](presserclips://clip?v=B-N5g_GuAKE&t=251&q=6) · [Send to Slack](presserclips://clip?v=B-N5g_GuAKE&t=251&q=6&slack=1)</small>
 
 ---
 
@@ -764,6 +890,38 @@ Bam Adebayo: "I've been quarterbacking defense a long time. I think the coach tr
 
 ---
 
+## Coach Daigneault on Learning from Tonight's Game | Postgame Media | November 18, 2026 — *Oklahoma City Thunder*
+
+Source: [https://www.youtube.com/watch?v=HnvXc-_a-vg](https://www.youtube.com/watch?v=HnvXc-_a-vg)
+
+_Speakers identified: Mark Daigneault_
+
+**1. Mark Daigneault — "the second half I thought we weren't good enough fundamentally to be honest with you to control a home win" — Mark Daigneault on the team's poor second-half execution** [00:16](https://www.youtube.com/watch?v=HnvXc-_a-vg&t=16s)
+
+Mark Daigneault: "It was a little bit of a shot variance first half. I thought we got decent shots that didn't go down, they had shots go down, and so that was part of the disparity. I thought we gave ourselves a chance to control the game, and the second half I thought we weren't good enough fundamentally to be honest with you to control a home win. So we need to learn from that. There's things that are controllable in the game, there's things that aren't, and I thought we let too much of the controllable stuff go tonight and left the game up to chance, and credit Atlanta, they made more plays."
+
+[https://www.youtube.com/watch?v=HnvXc-_a-vg&t=16s](https://www.youtube.com/watch?v=HnvXc-_a-vg&t=16s)
+
+<small>[Clip it](presserclips://clip?v=HnvXc-_a-vg&t=16&q=1) · [Send to Slack](presserclips://clip?v=HnvXc-_a-vg&t=16&q=1&slack=1)</small>
+
+**2. Mark Daigneault — "he gives us experience, physicality, rebounding, offensive floor spacing and ball moving" — Mark Daigneault on Jalen Williams' return to the lineup** [01:31](https://www.youtube.com/watch?v=HnvXc-_a-vg&t=91s)
+
+Mark Daigneault: "It's huge. He is good to have back out there. He gives us experience, physicality, rebounding, offensive floor spacing and ball moving, and so he brings a lot to the table for us and gives us good minutes. He wasn't going to play a ton of minutes tonight, we're still working him back in, but I thought he played his minutes well, he competed hard, he took the charges and helped us when he was out there."
+
+[https://www.youtube.com/watch?v=HnvXc-_a-vg&t=91s](https://www.youtube.com/watch?v=HnvXc-_a-vg&t=91s)
+
+<small>[Clip it](presserclips://clip?v=HnvXc-_a-vg&t=91&q=2) · [Send to Slack](presserclips://clip?v=HnvXc-_a-vg&t=91&q=2&slack=1)</small>
+
+**3. Mark Daigneault — "we're playing double big in parts of the game and when we do that we're betting on other facets" — Mark Daigneault on the team's double-big lineup spacing** [03:22](https://www.youtube.com/watch?v=HnvXc-_a-vg&t=202s)
+
+Mark Daigneault: "Some of this is contextual, we're playing double big in parts of the game and when we do that we're betting on other facets of the game quite frankly. We're not going to have the type of three-point spacing when those guys are out there together that we would if we put different lineups out there, but those decisions are about trade-offs and we get a lot of benefits by having those guys out there together. We need to focus on our fundamentals and allow the outcomes, whether that's the game outcomes or the stats, to come downstream from there. If you get obsessive with one thing in a vacuum, you're not regarding all the other parts of the game."
+
+[https://www.youtube.com/watch?v=HnvXc-_a-vg&t=202s](https://www.youtube.com/watch?v=HnvXc-_a-vg&t=202s)
+
+<small>[Clip it](presserclips://clip?v=HnvXc-_a-vg&t=202&q=3) · [Send to Slack](presserclips://clip?v=HnvXc-_a-vg&t=202&q=3&slack=1)</small>
+
+---
+
 ## Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.18.26 — *Philadelphia 76ers*
 
 Source: [https://www.youtube.com/watch?v=Ktnw7g85zAw](https://www.youtube.com/watch?v=Ktnw7g85zAw)
@@ -857,6 +1015,88 @@ Coach Nurse: "He really provides some confident spacing, if that makes sense. Wh
 [https://www.youtube.com/watch?v=Ktnw7g85zAw&t=444s](https://www.youtube.com/watch?v=Ktnw7g85zAw&t=444s)
 
 <small>[Clip it](presserclips://clip?v=Ktnw7g85zAw&t=444&q=11) · [Send to Slack](presserclips://clip?v=Ktnw7g85zAw&t=444&q=11&slack=1)</small>
+
+---
+
+## Media Availability: Head Coach Brian Keife, AJ Dybantsa, and Kyshawn George | 11.18.26 — *Washington Wizards*
+
+Source: [https://www.youtube.com/watch?v=MI0KcQsVoU4](https://www.youtube.com/watch?v=MI0KcQsVoU4)
+
+_Speakers identified: Brian Keefe, AJ Dybantsa, Kyshawn George_
+
+**1. Brian Keefe — "His energy you could feel it all over the place and not just on his rebounding." — Brian Keefe on AJ Dybantsa's energy and defensive versatility** [00:50](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=50s)
+
+Brian Keefe: "His energy you could feel it all over the place and not just on his rebounding. Obviously you saw his attacking, but he was also guarding their best player tonight. He was chasing over pick and rolls, fighting over screens, and to have the energy to do that, that's pretty impressive."
+
+[https://www.youtube.com/watch?v=MI0KcQsVoU4&t=50s](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=50s)
+
+<small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=50&q=1) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=50&q=1&slack=1)</small>
+
+**2. Brian Keefe — "The rim protection plus the shooting and then you saw the playmaking at the start." — Brian Keefe on Alex Sarr's versatility and playmaking ability** [01:16](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=76s)
+
+Brian Keefe: "You saw the shooting, this is what is a versatile player. The rim protection plus the shooting and then you saw the playmaking at the start of the fourth quarter. We can play offense through **Alex Sarr**. He found **Trey**, he found **Kyshawn George** for a little back door play. That's what's great about him is he can do so many multiple things and I thought he had a nice game tonight."
+
+[https://www.youtube.com/watch?v=MI0KcQsVoU4&t=76s](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=76s)
+
+<small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=76&q=2) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=76&q=2&slack=1)</small>
+
+**3. Brian Keefe — "People don't realize how good a passer Chris Middleton is." — Brian Keefe on Chris Middleton's veteran presence and passing** [02:18](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=138s)
+
+Brian Keefe: "**Chris Middleton** has been doing this for a very long time. He really knows how to play, steadies us, and gives us a comfort. Very underrated passer, people don't realize how good a passer **Chris Middleton** is. Always makes the right play out there and it was a big presence for us tonight on the court."
+
+[https://www.youtube.com/watch?v=MI0KcQsVoU4&t=138s](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=138s)
+
+<small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=138&q=3) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=138&q=3&slack=1)</small>
+
+**4. AJ Dybantsa — "He's just pulling me aside telling me I'm doing wrong, telling me I'm doing right." — AJ Dybantsa on Patrick Ewing's mentorship and game adjustments** [03:01](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=181s)
+
+**Unidentified reporter:** "Where is **Patrick Ewing** bringing to the team and how he is helping you personally to grow?"
+
+**AJ Dybantsa:** "He's just pulling me aside telling me I'm doing wrong, telling me I'm doing right. Slow down, speed up, take the shot, don't take the shot. It's just little things."
+
+[https://www.youtube.com/watch?v=MI0KcQsVoU4&t=181s](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=181s)
+
+<small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=181&q=4) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=181&q=4&slack=1)</small>
+
+**5. AJ Dybantsa — "It's more so the physicality for me rather than the speed." — AJ Dybantsa on adjusting to the speed of the NBA game** [03:26](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=206s)
+
+AJ Dybantsa: "I've been playing up a lot in my life, especially now with college getting a lot older. College game is really fast and I went to BYU under **Kevin Young**. He played an NBA style game so we were playing up and down, but it's more so the physicality for me rather than the speed."
+
+[https://www.youtube.com/watch?v=MI0KcQsVoU4&t=206s](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=206s)
+
+<small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=206&q=5) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=206&q=5&slack=1)</small>
+
+**6. Kyshawn George — "He was aggressive, he was active, he did what number one picks do." — Kyshawn George on AJ Dybantsa's first career double-double** [04:33](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=273s)
+
+Kyshawn George: "He was aggressive, he was active, he did what number one picks do. He showcased his talent and looking forward to see more."
+
+[https://www.youtube.com/watch?v=MI0KcQsVoU4&t=273s](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=273s)
+
+<small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=273&q=6) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=273&q=6&slack=1)</small>
+
+**7. Kyshawn George — "15 years old, 5'7, under 150 pounds and you going up against 21 year olds." — Kyshawn George on his development and physical growth** [05:53](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=353s)
+
+Kyshawn George: "15 years old, 5'7, under 150 pounds and you going up against 21 year olds that could dunk and all that stuff. So I just had to compensate, keep the main goal in head and just sit my way at it. Obviously the growth spurt helped a lot, but I think that stuck with me and kept me level headed."
+
+[https://www.youtube.com/watch?v=MI0KcQsVoU4&t=353s](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=353s)
+
+<small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=353&q=7) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=353&q=7&slack=1)</small>
+
+**8. Kyshawn George — "He brings an emotional stability to the team." — Kyshawn George on Patrick Ewing's impact as a coach** [06:26](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=386s)
+
+Kyshawn George: "He brings an emotional stability to the team. He's been through most of the stuff you can think of in the league. So being able to have that caliber of player, legend on the staff is great value because he brings that stability. Doesn't necessarily talk a lot, but when he talks, everybody listens and it's very important."
+
+[https://www.youtube.com/watch?v=MI0KcQsVoU4&t=386s](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=386s)
+
+<small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=386&q=8) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=386&q=8&slack=1)</small>
+
+**9. Kyshawn George — "I even think I got an extra notch in me." — Kyshawn George on his confidence and shooting range** [07:32](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=452s)
+
+Kyshawn George: "100%, 100%. I even think I got an extra notch in me. So I'm just making the simple play, making the right play and trusting my work. 100%."
+
+[https://www.youtube.com/watch?v=MI0KcQsVoU4&t=452s](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=452s)
+
+<small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=452&q=9) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=452&q=9&slack=1)</small>
 
 ---
 
@@ -1277,6 +1517,44 @@ Doug Christie: "Leaky is doing exactly what I like, down in the stance, arms out
 Doug Christie: "Throw that out the window and just be aggressive. That's what run really hard, get to the corners, come off of pin-downs, looking, understanding when you're coming off the pin-down, make the reading the corner before you even go. You should already know, am I about to turn the corner? Am I open? Catch the ball ready to shoot it. Defensively active in gaps. Just aggression, because sometimes when you go to find it, you don't find it. When you go to be aggressive is when you find it."
 
 [https://www.youtube.com/watch?v=q2aeD0nd0gk&t=148s](https://www.youtube.com/watch?v=q2aeD0nd0gk&t=148s)
+
+---
+
+## Joe Mazzulla on Tatum's Tech: We Can't Put Ourselves in That Position | Celtics vs Nuggets Postgame — *Boston Celtics*
+
+Source: [https://www.youtube.com/watch?v=ryUCXicME0c](https://www.youtube.com/watch?v=ryUCXicME0c)
+
+_Speakers identified: Joe Mazzulla_
+
+**1. Joe Mazzulla — "If a team is going to welcome blitzing and two-on-ones, we have to take advantage of that." — Joe Mazzulla on handling opponent blitzing and two-on-one reads** [00:12](https://www.youtube.com/watch?v=ryUCXicME0c&t=12s)
+
+Joe Mazzulla: "We just have to handle it. We should welcome two-on-the-ball. We have great guys that can pass, we have great skill, we have guys that can make two-on-one reads. It is just something that we have to continue to work on and be better at. If a team is going to welcome blitzing and two-on-ones, we have to take advantage of that. It is ball-handling and screening, it is spacing, making the right two-on-one reads. We had two-on-one read turnovers to the roller and two-on-one read turnovers to the corner, and I might open. We just have to be sharper in those reads and welcome that type of pick-and-roll coverage because it gives us a ton on the back side of that."
+
+[https://www.youtube.com/watch?v=ryUCXicME0c&t=12s](https://www.youtube.com/watch?v=ryUCXicME0c&t=12s)
+
+**2. Joe Mazzulla — "He just did a good job of getting an angle on us and getting drawn fouls." — Joe Mazzulla on DeRozan drawing fouls and team discipline** [01:14](https://www.youtube.com/watch?v=ryUCXicME0c&t=74s)
+
+Joe Mazzulla: "We had three or four on **DeRozan**. He just did a good job of getting an angle on us and getting drawn fouls, something that he has been good at his entire career. Whether it is we get an angle on individual defense or we are kind of helping and they get a one-more around the side of them, there was a couple there. Obviously, both **Murray** and **Jokic** are great at drawing fouls, so you have to be extremely disciplined on that. It was a combination of those."
+
+[https://www.youtube.com/watch?v=ryUCXicME0c&t=74s](https://www.youtube.com/watch?v=ryUCXicME0c&t=74s)
+
+**3. Joe Mazzulla — "He has a level of talent and athleticism and has the ability to make plays." — Joe Mazzulla on Chris's defensive versatility and growth** [02:56](https://www.youtube.com/watch?v=ryUCXicME0c&t=176s)
+
+Joe Mazzulla: "He has a level of talent and athleticism and has the ability to make plays on both ends of the floor. He is really versatile. He can guard point guards. He did a decent job in the first half on **Aaron Gordon** and kind of matching that type of physicality, taking some of the pressure off **PG** or **JT** and those guys having to defend them. He has the versatility, he has the toughness, he has the athleticism, he has the talent. He just needs the reps to get better and better. I thought that was a bright spot from tonight, was just kind of his growth from game one to game two. He just has to keep it up."
+
+[https://www.youtube.com/watch?v=ryUCXicME0c&t=176s](https://www.youtube.com/watch?v=ryUCXicME0c&t=176s)
+
+**4. Joe Mazzulla — "We just can't put ourselves in that position to even give the refs an opportunity." — Joe Mazzulla on the technical foul called on Jayson Tatum** [03:33](https://www.youtube.com/watch?v=ryUCXicME0c&t=213s)
+
+Joe Mazzulla: "I didn't. No, I will go back and watch it. But we just can't put ourselves in that position to even give the refs an opportunity to interpret a certain type of way. So, we just have to be better there."
+
+[https://www.youtube.com/watch?v=ryUCXicME0c&t=213s](https://www.youtube.com/watch?v=ryUCXicME0c&t=213s)
+
+**5. Joe Mazzulla — "I will take that shot ten times out of ten for Derrick being able to make that." — Joe Mazzulla on offensive process improvements in the fourth quarter** [03:47](https://www.youtube.com/watch?v=ryUCXicME0c&t=227s)
+
+Joe Mazzulla: "In the start of the quarter, we had **Derrick** and **Payton** in some off-ball actions, had **PG** playing off-ball on some stuff there. We went back to a little bit of their blitz reads, and **Niemi** made some good stuff in the seam. We had, like I said, we had a couple offensive rebounds that got us extra possessions. We didn't turn it over. I think we only had one or two turnovers in the fourth quarter. I think the shot late, I will take that shot ten times out of ten for **Derrick** being able to make that. It is just a difference in the third quarter live-ball turnovers versus two-on-one reads. Fourth quarter, I thought we did a better job of that."
+
+[https://www.youtube.com/watch?v=ryUCXicME0c&t=227s](https://www.youtube.com/watch?v=ryUCXicME0c&t=227s)
 
 ---
 

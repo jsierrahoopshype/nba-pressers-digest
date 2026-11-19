@@ -1,0 +1,211 @@
+{
+  "video_title": "Jared McCain on Defensive Adjustments | Postgame Media | November 18, 2026",
+  "speakers_seen": [
+    "Jared McCain"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jared McCain",
+      "timestamp": "00:15",
+      "summary_phrase": "Jared McCain on the importance of high-level competition and rebounding",
+      "names_mentioned": [],
+      "excerpt": "A lot of it is just competing at a high level.",
+      "quote": "A lot of it is just competing at a high level. I think we rebounded in that little stretch. They had some, they punched us in the mouth a few times, big runs for them, and that's what we got to contain. Sometimes when Shai goes out, we have to be able to keep the game in reach and even be able to push forward. In that third quarter, I think we were able to do that a little bit, but it still got out of hand a little bit, and I think that's what's going to be on film probably.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jared McCain on the Thunder needing to maintain composure when Shai Gilgeous Alexander is off the floor: Sometimes when Shai goes out we have to be able to keep the game in reach and even be able to push forward.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain discusses the team's need to maintain competitiveness during stretches when Shai Gilgeous-Alexander is off the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jared McCain",
+      "timestamp": "01:13",
+      "summary_phrase": "Jared McCain on coordinating defensive rotations and rebounding",
+      "names_mentioned": [
+        "Shai"
+      ],
+      "excerpt": "A lot of it is reps. We talk about it a lot just getting those reps.",
+      "quote": "A lot of it is reps. We talk about it a lot just getting those reps with when we have the double big in, and they're guarding somebody who plays on the perimeter, being able to get back in and rebound, or if they're guarding someone in the paint and they kick it out, being able to contest those shots and get the ball. I think a lot of it is just playing with each other, just figuring it out. Sometimes we're out there and we get kind of stuck, so I think a lot of it is just figuring out, flying around, just trying to do our best with what we have.",
+      "text_blocks": [],
+      "start_seconds": 73,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jared McCain says the Thunder defensive struggles with double big lineups come down to reps: Sometimes we are out there and we get kind of stuck so I think a lot of it is just figuring out flying around and trying to do our best.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain explains the defensive challenges and adjustments required when playing with a double-big lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jared McCain",
+      "timestamp": "02:12",
+      "summary_phrase": "Jared McCain on maintaining confidence despite shooting struggles",
+      "names_mentioned": [],
+      "excerpt": "I credit my teammates, coaches, they they gave me the confidence.",
+      "quote": "I credit my teammates, coaches, they gave me the confidence. If I'm 0 for 10, I feel like I can take that 11th one with just as much confidence if I was 10 for 10. I try, it's hard to try and not base things off of results, but in my head that's what I'm going for, is just shoot the next one with the same confidence. No matter what it is, that's what I do, and that's what I've been good at since I was a kid. Having that confidence, no matter what it is, no matter how many shots I've made already, my teammates and coaches give me that.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 175,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Jared McCain on his shooting mentality: If I am 0 for 10 I feel like I can take that 11th one with just as much confidence if I was 10 for 10. It is hard to try and not base things off of results.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain discusses his mindset regarding shooting confidence and the support he receives from his teammates and coaches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jared McCain",
+      "timestamp": "03:02",
+      "summary_phrase": "Jared McCain on his natural shooting rhythm and team chemistry",
+      "names_mentioned": [
+        "AJ",
+        "Shai",
+        "Hart"
+      ],
+      "excerpt": "I feel like it naturally happens with the way they guard AJ or Shai.",
+      "quote": "I feel like it naturally happens with the way they guard AJ or Shai, and the way me and Hart played together. But I think finding shots is what I'm good at also, so I think those threes are something that I try and look for in the game. But it's not something I'm consciously trying to get as many up as I can, but if they're open, I'm definitely going to take them.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 210,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jared McCain on finding his rhythm in the Thunder offense: Finding shots is what I am good at also. It is not something I am consciously trying to get as many up as I can but if they are open I am definitely going to take them.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ",
+          "Shai Gilgeous-Alexander",
+          "Hart"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain describes how he finds shooting opportunities within the flow of the offense alongside teammates like Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jared McCain",
+      "timestamp": "03:37",
+      "summary_phrase": "Jared McCain on maintaining team composure during close games",
+      "names_mentioned": [],
+      "excerpt": "Just staying steady throughout the whole game.",
+      "quote": "Just staying steady throughout the whole game. I feel like with this team, even since last year, we've been in a lot of positions like that in playoffs, and it's a game of runs. So just being able to stay confident with the team and being able to execute whatever coach says, and just not waver our confidence, not waver whatever we're doing out there. No matter what the score is, we're going to go out there and compete. I think that's the main thing with basketball and sports in general.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jared McCain on the Thunder maintaining composure during runs: It is a game of runs. So just being able to stay confident with the team and being able to execute whatever coach says and just not waver our confidence.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jared McCain reflects on the importance of maintaining team composure and executing coaching instructions during game runs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jared McCain",
+      "timestamp": "04:11",
+      "summary_phrase": "Jared McCain on the team's culture and support from veterans",
+      "names_mentioned": [
+        "Wiggs",
+        "Lou",
+        "Sam Presti"
+      ],
+      "excerpt": "Wiggs especially was one of the main ones to reach out to me.",
+      "quote": "There's such good people, and I talk about it since I got here, but Wiggs especially was one of the main ones to reach out to me and help me with whatever I needed on the court. And Lou is just a nice guy. He embraced me, and that's all I can ask for. With all the stuff that I do outside of the court, they're just great people, and I think that's what Sam Presti is really good at bringing in. It was really cool to see the tribute video, and when Lou was guarding me, I was just kind of laughing. Just seeing Lou on the other side, it was funny.",
+      "text_blocks": [],
+      "start_seconds": 251,
+      "end_seconds": 290,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 8,
+      "social_post": "Jared McCain on playing against Lu Dort: It was really cool to see the tribute video and when Lou was guarding me I was just kind of laughing. Just seeing Lou on the other side it was funny.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Wiggs",
+          "Lou",
+          "Sam Presti"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jared McCain praises the team culture and the support he has received from veterans and general manager Sam Presti.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "B-N5g_GuAKE",
+  "url": "https://www.youtube.com/watch?v=B-N5g_GuAKE",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-19T05:30:30Z",
+  "duration_seconds": 290,
+  "processed_at": "2026-11-19T06:12:14Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

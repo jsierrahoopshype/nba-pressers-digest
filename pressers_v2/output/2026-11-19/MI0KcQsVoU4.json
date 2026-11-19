@@ -1,0 +1,324 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keife, AJ Dybantsa, and Kyshawn George | 11.18.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "AJ Dybantsa",
+    "Kyshawn George"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:50",
+      "summary_phrase": "Brian Keefe on AJ Dybantsa's energy and defensive versatility",
+      "names_mentioned": [
+        "AJ Dybantsa"
+      ],
+      "excerpt": "His energy you could feel it all over the place and not just on his rebounding.",
+      "quote": "His energy you could feel it all over the place and not just on his rebounding. Obviously you saw his attacking, but he was also guarding their best player tonight. He was chasing over pick and rolls, fighting over screens, and to have the energy to do that, that's pretty impressive.",
+      "verbatim_original_language": "",
+      "start_seconds": 50,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Brian Keefe praised AJ Dybantsa for his defensive versatility tonight saying his energy was felt all over the floor while chasing over screens and guarding the opponents best player",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Brian Keefe discusses the defensive performance and energy of AJ Dybantsa following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:16",
+      "summary_phrase": "Brian Keefe on Alex Sarr's versatility and playmaking ability",
+      "names_mentioned": [
+        "Alex Sarr",
+        "Trey",
+        "Kyshawn George"
+      ],
+      "excerpt": "The rim protection plus the shooting and then you saw the playmaking at the start.",
+      "quote": "You saw the shooting, this is what is a versatile player. The rim protection plus the shooting and then you saw the playmaking at the start of the fourth quarter. We can play offense through Alex Sarr. He found Trey, he found Kyshawn George for a little back door play. That's what's great about him is he can do so many multiple things and I thought he had a nice game tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 76,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Brian Keefe says the Wizards are comfortable running their offense through Alex Sarr noting his rim protection and playmaking ability as key factors in his development",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alex Sarr",
+          "Trey Murphy III",
+          "Kyshawn George"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe praises the versatility and playmaking ability of Alex Sarr during a post-game media session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:18",
+      "summary_phrase": "Brian Keefe on Chris Middleton's veteran presence and passing",
+      "names_mentioned": [
+        "Chris Middleton"
+      ],
+      "excerpt": "People don't realize how good a passer Chris Middleton is.",
+      "quote": "Chris Middleton has been doing this for a very long time. He really knows how to play, steadies us, and gives us a comfort. Very underrated passer, people don't realize how good a passer Chris Middleton is. Always makes the right play out there and it was a big presence for us tonight on the court.",
+      "verbatim_original_language": "",
+      "start_seconds": 138,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brian Keefe calls Chris Middleton a very underrated passer and says his veteran presence provides a necessary comfort for the team on the court",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Khris Middleton"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Brian Keefe highlights the veteran presence and passing skills of Khris Middleton after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "AJ Dybantsa",
+      "speakers": [
+        "Unidentified reporter",
+        "AJ Dybantsa"
+      ],
+      "timestamp": "03:01",
+      "summary_phrase": "AJ Dybantsa on Patrick Ewing's mentorship and game adjustments",
+      "names_mentioned": [
+        "Patrick Ewing"
+      ],
+      "excerpt": "He's just pulling me aside telling me I'm doing wrong, telling me I'm doing right.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Where is Patrick Ewing bringing to the team and how he is helping you personally to grow?"
+        },
+        {
+          "speaker": "AJ Dybantsa",
+          "text": "He's just pulling me aside telling me I'm doing wrong, telling me I'm doing right. Slow down, speed up, take the shot, don't take the shot. It's just little things."
+        }
+      ],
+      "start_seconds": 181,
+      "end_seconds": 199,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "AJ Dybantsa on working with Patrick Ewing: He is just pulling me aside telling me what I am doing wrong and what I am doing right. It is just little things",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Patrick Ewing"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa explains how assistant coach Patrick Ewing provides mentorship and guidance on his game adjustments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "03:26",
+      "summary_phrase": "AJ Dybantsa on adjusting to the speed of the NBA game",
+      "names_mentioned": [
+        "Kevin Young"
+      ],
+      "excerpt": "It's more so the physicality for me rather than the speed.",
+      "quote": "I've been playing up a lot in my life, especially now with college getting a lot older. College game is really fast and I went to BYU under Kevin Young. He played an NBA style game so we were playing up and down, but it's more so the physicality for me rather than the speed.",
+      "verbatim_original_language": "",
+      "start_seconds": 206,
+      "end_seconds": 227,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "AJ Dybantsa says the biggest adjustment to the NBA level has been the physicality rather than the speed of the game",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevin Young"
+        ],
+        "teams": [
+          "WAS",
+          "BYU"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa discusses his transition to the NBA and how playing under Kevin Young at BYU prepared him for the physicality of the league.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kyshawn George",
+      "timestamp": "04:33",
+      "summary_phrase": "Kyshawn George on AJ Dybantsa's first career double-double",
+      "names_mentioned": [
+        "AJ Dybantsa"
+      ],
+      "excerpt": "He was aggressive, he was active, he did what number one picks do.",
+      "quote": "He was aggressive, he was active, he did what number one picks do. He showcased his talent and looking forward to see more.",
+      "verbatim_original_language": "",
+      "start_seconds": 273,
+      "end_seconds": 282,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Kyshawn George on AJ Dybantsa after his first career double double: He was aggressive and active and he did what number one picks do",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kyshawn George comments on AJ Dybantsa's aggressive play and performance after he recorded his first career double-double.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kyshawn George",
+      "timestamp": "05:53",
+      "summary_phrase": "Kyshawn George on his development and physical growth",
+      "names_mentioned": [],
+      "excerpt": "15 years old, 5'7, under 150 pounds and you going up against 21 year olds.",
+      "quote": "15 years old, 5'7, under 150 pounds and you going up against 21 year olds that could dunk and all that stuff. So I just had to compensate, keep the main goal in head and just sit my way at it. Obviously the growth spurt helped a lot, but I think that stuck with me and kept me level headed.",
+      "verbatim_original_language": "",
+      "start_seconds": 353,
+      "end_seconds": 376,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "Kyshawn George reflects on his journey from being 5 foot 7 and under 150 pounds at age 15 to the NBA: I just had to compensate and keep the main goal in my head",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George reflects on his personal development and physical growth since his early teenage years.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kyshawn George",
+      "timestamp": "06:26",
+      "summary_phrase": "Kyshawn George on Patrick Ewing's impact as a coach",
+      "names_mentioned": [
+        "Patrick Ewing"
+      ],
+      "excerpt": "He brings an emotional stability to the team.",
+      "quote": "He brings an emotional stability to the team. He's been through most of the stuff you can think of in the league. So being able to have that caliber of player, legend on the staff is great value because he brings that stability. Doesn't necessarily talk a lot, but when he talks, everybody listens and it's very important.",
+      "verbatim_original_language": "",
+      "start_seconds": 386,
+      "end_seconds": 408,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Kyshawn George says Patrick Ewing brings emotional stability to the Wizards: He does not necessarily talk a lot but when he talks everybody listens",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Patrick Ewing"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George describes the value of having Patrick Ewing on the coaching staff and the stability he brings to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kyshawn George",
+      "timestamp": "07:32",
+      "summary_phrase": "Kyshawn George on his confidence and shooting range",
+      "names_mentioned": [],
+      "excerpt": "I even think I got an extra notch in me.",
+      "quote": "100%, 100%. I even think I got an extra notch in me. So I'm just making the simple play, making the right play and trusting my work. 100%.",
+      "verbatim_original_language": "",
+      "start_seconds": 452,
+      "end_seconds": 463,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Kyshawn George says he feels he has another notch in him regarding his confidence and shooting range: I am just making the simple play and trusting my work",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George expresses his confidence in his shooting and his ability to make the right plays on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "MI0KcQsVoU4",
+  "url": "https://www.youtube.com/watch?v=MI0KcQsVoU4",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-19T05:24:47Z",
+  "duration_seconds": 463,
+  "processed_at": "2026-11-19T06:12:30Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

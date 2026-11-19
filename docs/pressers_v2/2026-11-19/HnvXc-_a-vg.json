@@ -1,0 +1,114 @@
+{
+  "video_title": "Coach Daigneault on Learning from Tonight's Game | Postgame Media | November 18, 2026",
+  "speakers_seen": [
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:16",
+      "summary_phrase": "Mark Daigneault on the team's poor second-half execution",
+      "names_mentioned": [],
+      "excerpt": "the second half I thought we weren't good enough fundamentally to be honest with you to control a home win",
+      "quote": "It was a little bit of a shot variance first half. I thought we got decent shots that didn't go down, they had shots go down, and so that was part of the disparity. I thought we gave ourselves a chance to control the game, and the second half I thought we weren't good enough fundamentally to be honest with you to control a home win. So we need to learn from that. There's things that are controllable in the game, there's things that aren't, and I thought we let too much of the controllable stuff go tonight and left the game up to chance, and credit Atlanta, they made more plays.",
+      "verbatim_original_language": "",
+      "start_seconds": 16,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Mark Daigneault says the Thunder were not good enough fundamentally in the second half to control the game. He noted the team let too much of the controllable stuff go and left the outcome up to chance.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the team's performance and second-half execution following a loss to the Atlanta Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "timestamp": "01:31",
+      "summary_phrase": "Mark Daigneault on Jalen Williams' return to the lineup",
+      "names_mentioned": [
+        "Jalen Williams"
+      ],
+      "excerpt": "he gives us experience, physicality, rebounding, offensive floor spacing and ball moving",
+      "quote": "It's huge. He is good to have back out there. He gives us experience, physicality, rebounding, offensive floor spacing and ball moving, and so he brings a lot to the table for us and gives us good minutes. He wasn't going to play a ton of minutes tonight, we're still working him back in, but I thought he played his minutes well, he competed hard, he took the charges and helped us when he was out there.",
+      "verbatim_original_language": "",
+      "start_seconds": 91,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Mark Daigneault on Jalen Williams returning to the lineup: It is huge to have him back. He brings experience, physicality, rebounding, and floor spacing. He competed hard and helped us while he was out there.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Mark Daigneault comments on Jalen Williams returning to the lineup after an injury and his impact on the team.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "timestamp": "03:22",
+      "summary_phrase": "Mark Daigneault on the team's double-big lineup spacing",
+      "names_mentioned": [],
+      "excerpt": "we're playing double big in parts of the game and when we do that we're betting on other facets",
+      "quote": "Some of this is contextual, we're playing double big in parts of the game and when we do that we're betting on other facets of the game quite frankly. We're not going to have the type of three-point spacing when those guys are out there together that we would if we put different lineups out there, but those decisions are about trade-offs and we get a lot of benefits by having those guys out there together. We need to focus on our fundamentals and allow the outcomes, whether that's the game outcomes or the stats, to come downstream from there. If you get obsessive with one thing in a vacuum, you're not regarding all the other parts of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 202,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mark Daigneault explains the trade-offs of playing a double big lineup. He says they are betting on other facets of the game and sacrificing some three-point spacing to get the benefits of having those guys out there together.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mark Daigneault explains the trade-offs involved in playing a double-big lineup and the impact on floor spacing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "HnvXc-_a-vg",
+  "url": "https://www.youtube.com/watch?v=HnvXc-_a-vg",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-19T05:30:34Z",
+  "duration_seconds": 314,
+  "processed_at": "2026-11-19T06:12:12Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}
