@@ -846,6 +846,12 @@
    "run_id": "2026-11-19-overnight",
    "slot_date": "2026-11-19"
   },
+  "GRqmLoJTtXg": {
+   "at": "2026-11-19T22:09:19Z",
+   "quote": "it is all a journey all of our careers is a journey you experience injuries you experience highs and lows in your performance that is what we spend our entire lives working towards to continue to push",
+   "run_id": "2026-11-19T2207Z-14utc",
+   "slot_date": "2026-11-19"
+  },
   "GW5rTpDyXaY": {
    "at": "2026-11-16T18:39:18Z",
    "quote": "i think just our attention to personnel obviously we knew a cuff was going to have the ball a lot and just showing him a lot of bodies and then i think just overall being the team we always are being ",
@@ -2309,6 +2315,12 @@
    "run_id": "2026-11-19-overnight",
    "slot_date": "2026-11-19"
   },
+  "jwGoNByuo4Y": {
+   "at": "2026-11-19T22:09:19Z",
+   "quote": "being able to get the opportunity i know what i m capable of just trying to get consistent opportunity that s all it is and figuring out who i m out there on the court with and just trying to make it ",
+   "run_id": "2026-11-19T2207Z-14utc",
+   "slot_date": "2026-11-19"
+  },
   "jy8L2TcrmZ4": {
    "at": "2026-11-16T18:39:18Z",
    "quote": "it has got to be frustrating that these conversations are kind of similar right good start big lead you guys are scrapping and fighting tonight though what it seemed like if it wasn t 48 it was about ",
@@ -3123,38 +3135,5 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {
-  "GRqmLoJTtXg": {
-   "channel": "Portland Trail Blazers",
-   "clip_count": 2,
-   "content_type": "presser",
-   "date": "2026-11-19",
-   "is_one_off": false,
-   "queued_at": "2026-11-19T22:09:19Z",
-   "run_id": "2026-11-19T2207Z-14utc",
-   "run_slot": "14utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-19",
-   "speaker": "Damian Lillard",
-   "title": "Damian Lillard Media Availability | Nov. 19, 2026 | Portland Trail Blazers",
-   "top_quote": "It is all a journey. All of our careers is a journey. You experience injuries, you experience highs and lows in your performance. That is what we spend our entire lives working towards, to continue to push on this journey. Being injured, being waived, and then having to fight my way back to being able to get in form and play at a good level again, it was tough, but it was something I was up for. There is no other way that I would have went out. I wasn't going to fold to a significant injury or a tough time. This is the only way for me to do the work and put the time in and make sure that I was able to get back and finish my career like I want.",
-   "video_id": "GRqmLoJTtXg"
-  },
-  "jwGoNByuo4Y": {
-   "channel": "New Orleans Pelicans",
-   "clip_count": 15,
-   "content_type": "presser",
-   "date": "2026-11-19",
-   "is_one_off": false,
-   "queued_at": "2026-11-19T22:09:19Z",
-   "run_id": "2026-11-19T2207Z-14utc",
-   "run_slot": "14utc",
-   "single_speaker": false,
-   "slot_date": "2026-11-19",
-   "speaker": "Jordan Poole",
-   "title": "LIVE: Pelicans vs. Pistons Postgame Interviews 11/18/2026",
-   "top_quote": "Being able to get the opportunity, I know what I'm capable of, just trying to get consistent opportunity. That's all it is, and figuring out who I'm out there on the court with and just trying to make it easy for those guys as well as myself and the team and just trying to play basketball the right way.",
-   "video_id": "jwGoNByuo4Y"
-  }
- }
+ "pending": {}
 }
