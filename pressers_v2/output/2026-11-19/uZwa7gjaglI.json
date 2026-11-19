@@ -1,0 +1,165 @@
+{
+  "video_title": "Doug Christie details Kings’ ‘frustration’ as skid continues | NBC Sports California",
+  "speakers_seen": [
+    "Doug Christie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Doug Christie",
+      "timestamp": "00:15",
+      "summary_phrase": "Doug Christie on the Sacramento Kings' current frustration and lack of consistency",
+      "names_mentioned": [],
+      "excerpt": "There's a level of frustration obviously because you know we all want to win.",
+      "quote": "There's a level of frustration obviously because you know we all want to win. When talking to a couple of the guys, coaches and players, part of it is the sustainability of what we do. We show it that okay, we can compete, here we are, and then all of a sudden, whether it's zero-pass shots, the pace of execution, all those little tiny things, they just rear their head. You got to look in the mirror and you got to say to yourself, how can we put together 48 minutes of sustainable basketball that allows us to compete.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Doug Christie says the Kings are struggling with the sustainability of their play, noting that the team needs to look in the mirror to figure out how to put together 48 minutes of consistent basketball.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Assistant coach Doug Christie discusses the team's current frustration and lack of consistent execution during their losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Doug Christie",
+      "timestamp": "01:33",
+      "summary_phrase": "Doug Christie on the need for mental fortitude and discipline to break through",
+      "names_mentioned": [],
+      "excerpt": "the mental fortitude and the discipline that it takes to break through because you're right",
+      "quote": "That's why you have to break through and that's what I told them, the mental fortitude and the discipline that it takes to break through because you're right, when that happens all of a sudden you think like, oh, here we go again. You can't do that. You can't. That's going to be part of the game. That's going to happen from time to time, but you just go back and you execute because our execution has to be at a higher level.",
+      "text_blocks": [],
+      "start_seconds": 93,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie says the Kings must develop the mental fortitude to avoid the here we go again mentality when things go wrong during a game, emphasizing that execution must be at a higher level.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie emphasizes the need for mental toughness and discipline to overcome negative momentum during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Doug Christie",
+      "timestamp": "02:32",
+      "summary_phrase": "Doug Christie on the importance of consistent execution over 48 minutes",
+      "names_mentioned": [],
+      "excerpt": "you got to go out there and you got to execute it for 48 minutes.",
+      "quote": "We script it, the execution, the force and the pace that we're going into some of our actions is just not it. We do it harder in practice sometimes than we do in the game. When you're playing against someone who doesn't care for you, doesn't like you, and you have to get off of this, you got to be mean. That's what you have to do because it's going to hurt to go through what you got to go through. It's mentally tough and it's physically tough and you have to go through both of them. You got to go out there and you got to execute it for 48 minutes.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Doug Christie says the Kings need to be meaner on the court, noting that the team often executes with more force and pace in practice than they do in actual games.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie explains that the team must match their practice intensity and execute with more force during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Doug Christie",
+      "timestamp": "05:40",
+      "summary_phrase": "Doug Christie on building a sustainable winning culture for the Sacramento Kings",
+      "names_mentioned": [],
+      "excerpt": "we're trying to build a sustainable winner",
+      "quote": "Everything is because that's what we're trying to build here. We're trying to build a sustainable winner and a sustainable winner, there are parts in what we're doing that are headed that way. But then all those little things that I'm talking about, those are the things that you got to push aside and you got to stay consistent with it and you got to make sure that you're doing it on a day-to-day basis. We're showing them, we're talking about them, we're working on it, but then you got to go to the court and you got to execute that.",
+      "text_blocks": [],
+      "start_seconds": 340,
+      "end_seconds": 379,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie says the Kings are still working to build a sustainable winner, noting that the team is showing progress in some areas but must push aside the small mistakes to stay consistent.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie discusses the ongoing process of building a sustainable winning culture within the organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Doug Christie",
+      "timestamp": "07:03",
+      "summary_phrase": "Doug Christie on the resilience of the Sacramento Kings community",
+      "names_mentioned": [
+        "Scotty"
+      ],
+      "excerpt": "Tough times don't last, tough people do.",
+      "quote": "Tough times don't last, tough people do. And this is a tough community and know that we are going to do everything that we can to make sure that when we work through this, because there's another side to this and when we get to the other side of this, they will be happy. But going through it is difficult. It's difficult for me, it's difficult for our guys, it's difficult for our coaches. I'm sure Scotty and it's difficult, but it is part of the process that we're going through.",
+      "text_blocks": [],
+      "start_seconds": 423,
+      "end_seconds": 458,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Doug Christie says tough times do not last but tough people do, acknowledging that the current stretch is difficult for the players, coaches, and the Sacramento community.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie reflects on the difficulty of the current losing stretch for the players, coaches, and the Sacramento community.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "uZwa7gjaglI",
+  "url": "https://www.youtube.com/watch?v=uZwa7gjaglI",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-19T07:22:14Z",
+  "duration_seconds": 628,
+  "processed_at": "2026-11-19T07:55:24Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

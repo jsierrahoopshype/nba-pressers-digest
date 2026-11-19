@@ -1,0 +1,208 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability  | 11-18-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:05",
+      "summary_phrase": "Devin Booker's efficiency and impact on the Phoenix Suns",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "he was just incredibly efficient tonight. I thought from the jump, even in the end of the first quarter",
+      "quote": "Devin was just incredibly efficient tonight. I thought from the jump, even in the end of the first quarter, he found his rhythm. I thought our overall first unit really played well, and then they closed that thing out. It surprised me he got there that quick. We had to confirm in the coach's locker room that he got there that quick. So yeah, it was a pretty cool moment, and then in his normal fashion, he talked about winning. Doing it on a win is impactful, too. We'll keep stacking, we'll follow his lead. He had another great night, and we're lucky to have him.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott on Devin Booker after his efficient performance tonight: He found his rhythm from the jump. We are lucky to have him.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses Devin Booker's efficient performance and leadership following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:57",
+      "summary_phrase": "Dylan's season-high performance and offensive development",
+      "names_mentioned": [
+        "Dylan"
+      ],
+      "excerpt": "he can score in so many different ways and that comes from his work",
+      "quote": "Dylan had a season-high for him, 29 points. He can score in so many different ways and that comes from his work. We saw that last year as he continued to develop his offensive game. We've asked him to do it at all levels. He does it in closeouts, tonight some catch-and-shoot threes, then he's able to drive some of those closeouts because of how aggressive they were with Booker. At the end of the shot clock, the ball, we feel good with it in his hands because he's able to create a shot and get to his spot. Tonight he had a great night.",
+      "text_blocks": [],
+      "start_seconds": 57,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott praises Dylan for his season high 29 points: At the end of the shot clock, we feel good with the ball in his hands because he is able to create a shot and get to his spot.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott praises Dylan for his season-high 29 points and his continued offensive development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:36",
+      "summary_phrase": "Devin Booker's playmaking and scoring versatility",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "just the ability to shoot it at all three levels, scored at all three levels",
+      "quote": "Just the ability to shoot it at all three levels, scored at all three levels. You fear his speed, he's able to shoot it off the bounce. At this age, I thought some were incredibly tough. You can tell he has that in-between game where he's trying to get to his floater. He's a tough cover, he's so shifty. You want to put some size on him, but he's so shifty. I thought Dylan there in the second half really tried to slow him down, and we had a good spurt there, especially in the third quarter, just to try and slow him down.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the challenge of defending an opponent: You want to put some size on him, but he is so shifty. We had a good spurt there in the third quarter just to try and slow him down.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker",
+          "Dylan"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott analyzes Devin Booker's scoring versatility and Dylan's defensive effort against him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:08",
+      "summary_phrase": "The team's focus on stacking quality segments of play",
+      "names_mentioned": [],
+      "excerpt": "we're just going to continue to talk about just stacking our small segments of time",
+      "quote": "We're just going to continue to talk about just stacking our small segments of time, and just they will build continually over time that we'll get better. We believe in that. We believe every time we're together, whether that's a meal, whether that's a shootaround, whether that's a film session, that we have to go all in. All in all the time, and they'll continually stack. We talk a lot about stacking, even this morning. Can we stack some of these good segments of time over the course of this road trip to have a great road trip? And we're off to a good start.",
+      "text_blocks": [],
+      "start_seconds": 188,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jordan Ott on the Suns mindset: We are just going to continue to talk about stacking our small segments of time. We believe every time we are together, we have to go all in.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains the team's philosophy of stacking quality segments of play to improve over time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:02",
+      "summary_phrase": "Addressing the team's defensive standards and consistency",
+      "names_mentioned": [],
+      "excerpt": "I don't think our defense was up to our standard. I think we have shifted some of that",
+      "quote": "I don't think our defense was up to our standard. I think we have shifted some of that practice time, time in meetings. We got to guard. We know we have to be a really good defensive team to get to where we want to get to. Offensively, we have enough talent. Our offensive talent is high level. Can we create enough stops, continuous stops in stretches when the ball just doesn't go in? So don't be affected by offense, continue to have our defense, continue to bring pressure. We want to create a habit defensively, that will help our offense. I think we've done a better job of that over the last handful of games.",
+      "text_blocks": [],
+      "start_seconds": 242,
+      "end_seconds": 287,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Jordan Ott admits the team defense is not yet where it needs to be: I do not think our defense was up to our standard. We know we have to be a really good defensive team to get to where we want to get to.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott addresses the need for the team to maintain defensive standards regardless of offensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:05",
+      "summary_phrase": "Jaylen's defensive growth and integration into the team",
+      "names_mentioned": [
+        "Jaylen",
+        "Miles"
+      ],
+      "excerpt": "his ability to move defensively can just create another element to it",
+      "quote": "You can see his speed. Anytime he's in the open court, anytime he gets downhill, that's what we need. We need paint pressure. We're a predominantly jump-shooting team. Him and Miles provide some of that paint pressure, that downhill thrust that we need offensively. And defensively, he can create havoc. He showed it the other night in the third quarter. We put him on a cuff tonight to start. His ability to move defensively can just create another element to it. We're going to keep challenging him, keep integrating him with this group because he didn't play a ton of minutes, especially in that regular season last year. He's taking strides, we'll be right with him, helping him along the way.",
+      "text_blocks": [],
+      "start_seconds": 305,
+      "end_seconds": 352,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott on Jaylen's development: We need paint pressure. We are a predominantly jump shooting team. Him and Miles provide some of that downhill thrust that we need offensively.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen",
+          "Miles"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the defensive growth and offensive contributions of Jaylen and Miles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "kh38uWtGToo",
+  "url": "https://www.youtube.com/watch?v=kh38uWtGToo",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-19T07:07:32Z",
+  "duration_seconds": 364,
+  "processed_at": "2026-11-19T07:55:22Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}
