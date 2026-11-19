@@ -7,9 +7,12 @@ One committed JSON file, pressers_v2/output/slack_alerted.json:
      "pending": {video_id: {item fields + "run_id", "run_slot", "slot_date", "queued_at"}}}
 
 - Every run adds its new (non-podcast) videos to "pending".
-- Overnight items wait until the night is over: a run that starts at or after
-  10:00 UTC on the same day, or any run on a later day (the catch-up when the
-  10 UTC run fails or never fires). Every other item is due right away.
+- Overnight items wait until the night is over: a run whose Slack step runs at
+  or after 09:05 UTC on the same day (the overnight chain's last run always
+  lands 09:10-10:00 UTC, so the digest posts by ~11:00 Madrid), or any run on a
+  later day (the catch-up). Every other item is due right away.
+  (Nov 19 2026: the old 10:00 UTC rule waited for a cron GitHub fired at
+  18:21 UTC, so Jorge got the night's digest at ~19:30 Madrid.)
 - A video id in "alerted" is never posted again. slack_notify.py moves ids
   from "pending" to "alerted" only after a successful post.
 - A due item whose top quote is essentially the same text as one already
@@ -30,6 +33,11 @@ from pathlib import Path
 STATE_PATH = Path(__file__).resolve().parent / "output" / "slack_alerted.json"
 OVERNIGHT_SLOT = "overnight"
 OVERNIGHT_LAST_HOUR = 10       # the last overnight trigger is 10:23 UTC
+# Overnight items post from 09:05 UTC: the chain (tools/overnight_chain.py) starts
+# no run whose extract would land at or after 10:00, so its last run ends 09:10-10:00
+# UTC and always posts. A chain run ending before 09:10 can still start one more
+# run; that one posts only what it found itself (ids already alerted are skipped).
+OVERNIGHT_POST_FROM = (9, 5)   # (hour, minute) UTC
 KEEP_DAYS = 14
 QUOTE_PREFIX_CHARS = 200
 QUOTE_MIN_SIMILARITY = 0.85
@@ -109,14 +117,19 @@ def overnight_run_id(day: str) -> str:
     return f"{day}-{OVERNIGHT_SLOT}"
 
 
+def overnight_over(now: datetime) -> bool:
+    """True from 09:05 UTC: the overnight chain's last run (see OVERNIGHT_POST_FROM)."""
+    return (now.hour, now.minute) >= OVERNIGHT_POST_FROM
+
+
 def is_due(item: dict, now: datetime) -> bool:
-    """Overnight items wait for the end of their night: due from 10:00 UTC
+    """Overnight items wait for the end of their night: due from 09:05 UTC
     on their own day, or on any later day (catch-up). The rest: right away."""
     if item.get("run_slot") != OVERNIGHT_SLOT:
         return True
     if item.get("run_id") != overnight_run_id(now.strftime("%Y-%m-%d")):
         return True
-    return now.hour >= OVERNIGHT_LAST_HOUR
+    return overnight_over(now)
 
 
 def add_pending(state: dict, items: list, run_id: str, run_slot: str, slot_date: str, now: datetime) -> list:

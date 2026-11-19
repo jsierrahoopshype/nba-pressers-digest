@@ -2535,8 +2535,9 @@ def queue_slack(run_slot: str, today: str, now: datetime, processed_items: list,
 
     - Podcasts & shows never go to Slack (hoopshype-yt-quotes alerts them);
       their page link stays in the post.
-    - Overnight runs post nothing until the night is over (10:00 UTC); the
-      first run from then on (any slot) posts every pending overnight video.
+    - Overnight runs post nothing until the night is over (09:05 UTC, the
+      overnight chain's last run); the first run from then on (any slot)
+      posts every pending overnight video.
     - A video id already alerted is never posted again; a video whose top
       quote repeats one already shown is dropped (single-speaker wins).
     slack_alerted.json is saved here (pending) and by slack_notify.py after
@@ -2559,9 +2560,9 @@ def queue_slack(run_slot: str, today: str, now: datetime, processed_items: list,
     except Exception as e:   # never let the Slack bookkeeping block the run's outputs
         log(f"[slack] state failed ({type(e).__name__}: {e}); no Slack post this run")
         return None
-    # An overnight run before 10:00 UTC is one of the hourly drip runs: it
-    # only posts when an older slot's items are due (catch-up).
-    final_run = run_slot != OVERNIGHT_SLOT or now.hour >= slack_state.OVERNIGHT_LAST_HOUR
+    # An overnight run before 09:05 UTC is one of the drip runs: it only
+    # posts when an older slot's items are due (catch-up).
+    final_run = run_slot != OVERNIGHT_SLOT or slack_state.overnight_over(now)
     groups = slack_state.group_by_slot(kept)
     for g in groups:
         g["pages"] = slot_pages(g, run_slot, today, pages)
