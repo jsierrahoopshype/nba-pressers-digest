@@ -145,6 +145,12 @@
    "seeded": true,
    "slot_date": "2026-11-05"
   },
+  "1az1dgHCL84": {
+   "at": "2026-11-19T01:53:37Z",
+   "quote": "they just beat us they played a good game they made shots we gave them different coverages they just had it going offensively tonight hats off to them they played a good game and we couldn t stop them",
+   "run_id": "2026-11-19T0152Z-20utc",
+   "slot_date": "2026-11-18"
+  },
   "1lcH1CVTfS8": {
    "at": "2026-11-05T21:04:40Z",
    "quote": "nuggets have been here we generally played good against this team somehow they figure it out every time but we started good today which was a positive i think we won every quarter except the third but",
@@ -485,6 +491,12 @@
    "seeded": true,
    "slot_date": "2026-11-05"
   },
+  "8eLGGOTmyO4": {
+   "at": "2026-11-19T01:53:37Z",
+   "quote": "that was a great game that he can wrap his mind around the other night he was so active on the four offensive rebounds he felt his energy defensively he had that multiple effort closeout and then bloc",
+   "run_id": "2026-11-19T0152Z-20utc",
+   "slot_date": "2026-11-18"
+  },
   "8eOjkf0zaxc": {
    "at": "2026-11-12T21:28:34Z",
    "quote": "when you watch the rockets play last year they would just get the ball to kevin and sengun and they would go one on one kenny knows this the point guard even if you be not the best player on the team ",
@@ -711,6 +723,13 @@
    "quote": "you and lamelo it s kind of one of the two of you are out on the floor at all times just talk about what as the point guards you want to have of course all the time especially at halftime i think that",
    "run_id": "2026-11-13-overnight",
    "slot_date": "2026-11-13"
+  },
+  "DQxiUb-f8Vw": {
+   "at": "2026-11-19T01:53:37Z",
+   "dup_of": "NuBURYR4mg8",
+   "quote": "as the kings continue to search for an identity and some consistency you are trying to find players who fit the mold for what you want to see around kings rookie darius acuff jr i know the sample size",
+   "run_id": "2026-11-19T0152Z-20utc",
+   "slot_date": "2026-11-18"
   },
   "DntBlPIQ5Gw": {
    "at": "2026-11-05T21:04:53Z",
@@ -1174,6 +1193,12 @@
    "run_id": "2026-11-08-overnight",
    "seeded": true,
    "slot_date": "2026-11-08"
+  },
+  "NuBURYR4mg8": {
+   "at": "2026-11-19T01:53:37Z",
+   "quote": "as the kings continue to search for an identity and some consistency you re trying to find players who fit the mold for what you want to see around kings rookie darius acuff jr the kings are in desper",
+   "run_id": "2026-11-19T0152Z-20utc",
+   "slot_date": "2026-11-18"
   },
   "O0_KTRoGjmM": {
    "at": "2026-11-15T15:42:28Z",
@@ -2427,6 +2452,12 @@
    "seeded": true,
    "slot_date": "2026-11-09"
   },
+  "nu9lTz9aUAs": {
+   "at": "2026-11-19T01:53:37Z",
+   "quote": "a high level defensive team at that so just getting out on the break having our stops lead to our running i think that s the big key for us having our defense be the trigger point and so that s how yo",
+   "run_id": "2026-11-19T0152Z-20utc",
+   "slot_date": "2026-11-18"
+  },
   "o-r0fEUdsIY": {
    "at": "2026-11-12T17:39:12Z",
    "quote": "just staying aggressive we got a lot of rebounds and we were pushing in transition i mean that s when we re best so again just trying to get rebounds push and just playing the flow of the offense",
@@ -2623,6 +2654,12 @@
    "quote": "there s an and everyone on this squad is end of game situations what did you see in this one i thought we did a pretty good job of defensively trying to guard trying to throw some different looks at b",
    "run_id": "2026-11-13-overnight",
    "slot_date": "2026-11-13"
+  },
+  "syzlCKK5OU4": {
+   "at": "2026-11-19T01:53:37Z",
+   "quote": "my coaching has suffered without steph as well let s be honest raymond is not nearly as good of a pr guy without steph i listened to a tape of tim roy the other night no excitement no energy so we all",
+   "run_id": "2026-11-19T0152Z-20utc",
+   "slot_date": "2026-11-18"
   },
   "t0_A7IQKbLo": {
    "at": "2026-11-12T01:54:45Z",
@@ -3001,102 +3038,5 @@
    "slot_date": "2026-11-17"
   }
  },
- "pending": {
-  "1az1dgHCL84": {
-   "channel": "LA Clippers",
-   "clip_count": 4,
-   "content_type": "presser",
-   "date": "2026-11-18",
-   "is_one_off": false,
-   "queued_at": "2026-11-19T01:53:37Z",
-   "run_id": "2026-11-19T0152Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": false,
-   "slot_date": "2026-11-18",
-   "speaker": "Tyronn Lue",
-   "title": "Clippers vs. Jazz | Postgame Interviews | Nov. 17, 2026 | LA Clippers",
-   "top_quote": "They just beat us. They played a good game, they made shots. We gave them different coverages, they just had it going offensively tonight. Hats off to them, they played a good game and we couldn't stop them. Getting into the paint, threes, whatever they wanted, so they played a good game and they beat us.",
-   "video_id": "1az1dgHCL84"
-  },
-  "8eLGGOTmyO4": {
-   "channel": "Miami Heat",
-   "clip_count": 6,
-   "content_type": "presser",
-   "date": "2026-11-18",
-   "is_one_off": false,
-   "queued_at": "2026-11-19T01:53:37Z",
-   "run_id": "2026-11-19T0152Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-18",
-   "speaker": "Erik Spoelstra",
-   "title": "Erik Spoelstra Talks Miami Heat Defense, Taking on Tyler Herro and Former Players, Wants To Play GTA",
-   "top_quote": "That was a great game that he can wrap his mind around the other night. He was so active on the four offensive rebounds. He felt his energy defensively. He had that multiple effort closeout and then block on Kevin Durant. The game usually rewards effort and energy, and it's doing that for Wiggins right now, and you can see how that unlocks a lot of stuff for our basketball team. I understand it's not the easiest thing to have your role changed like that, but he's adapting and he's finding a way to make a big impact.",
-   "video_id": "8eLGGOTmyO4"
-  },
-  "DQxiUb-f8Vw": {
-   "channel": "Sacramento Kings",
-   "clip_count": 3,
-   "content_type": "presser",
-   "date": "2026-11-18",
-   "is_one_off": false,
-   "queued_at": "2026-11-19T01:53:37Z",
-   "run_id": "2026-11-19T0152Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": false,
-   "slot_date": "2026-11-18",
-   "speaker": "Deuce Mason",
-   "title": "What Leaky Black adds to Kings to complement Darius Acuff Jr. | NBC Sports California",
-   "top_quote": "As the Kings continue to search for an identity and some consistency, you are trying to find players who fit the mold for what you want to see around Kings rookie Darius Acuff Jr. I know the sample size is small, but one guy comes to mind: Leaky Black. The Kings are in desperate need of players who do the dirty work. Can you guard a couple of positions? Can you play defense with physicality? Can you communicate? Can you give that first, second, and third efforts? And oh, can you also hit the three? I think they have that on the roster in Leaky Black.",
-   "video_id": "DQxiUb-f8Vw"
-  },
-  "NuBURYR4mg8": {
-   "channel": "Sacramento Kings",
-   "clip_count": 2,
-   "content_type": "presser",
-   "date": "2026-11-18",
-   "is_one_off": false,
-   "queued_at": "2026-11-19T01:53:37Z",
-   "run_id": "2026-11-19T0152Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": false,
-   "slot_date": "2026-11-18",
-   "speaker": "Deuce Mason",
-   "title": "Deuce explains what Leaky Black adds to Kings to complement Darius Acuff Jr. | NBC Sports California",
-   "top_quote": "As the Kings continue to search for an identity and some consistency, you're trying to find players who fit the mold for what you want to see around Kings rookie Darius Acuff Jr. The Kings are in desperate need of players who do the dirty work. Can you guard a couple of positions? Can you play defense with physicality? Can you communicate? Can you give that first, second, and third efforts? And oh, can you also hit the three? I think they have that on the roster in Leaky Black. When he's gotten the chance, I think he's shown that he can really help this team.",
-   "video_id": "NuBURYR4mg8"
-  },
-  "nu9lTz9aUAs": {
-   "channel": "New Orleans Pelicans",
-   "clip_count": 4,
-   "content_type": "presser",
-   "date": "2026-11-18",
-   "is_one_off": false,
-   "queued_at": "2026-11-19T01:53:37Z",
-   "run_id": "2026-11-19T0152Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-18",
-   "speaker": "Jamahl Mosley",
-   "title": "LIVE: Pelicans vs. Pistons Pregame w/ Jamahl Mosley 11/18/2026",
-   "top_quote": "A high-level defensive team at that. So just getting out on the break, having our stops lead to our running. I think that's the big key for us, having our defense be the trigger point. And so that's how you can get out to the fast start, really sitting down and guarding and then getting out on the break, finishing early before you play against their half-court defense.",
-   "video_id": "nu9lTz9aUAs"
-  },
-  "syzlCKK5OU4": {
-   "channel": "Golden State Warriors",
-   "clip_count": 4,
-   "content_type": "presser",
-   "date": "2026-11-18",
-   "is_one_off": false,
-   "queued_at": "2026-11-19T01:53:37Z",
-   "run_id": "2026-11-19T0152Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-18",
-   "speaker": "Steve Kerr",
-   "title": "Steve Kerr discusses Warriors’ struggles trying to replace injured Steph Curry | NBC Sports Bay Area",
-   "top_quote": "My coaching has suffered without Steph as well. Let's be honest, Raymond is not nearly as good of a PR guy without Steph. I listened to a tape of Tim Roy the other night. No excitement, no energy. So we all miss Steph. The game is harder without him. Take away any team's superstar and all of a sudden the defense is not nearly as compromised and the game just gets more difficult.",
-   "video_id": "syzlCKK5OU4"
-  }
- }
+ "pending": {}
 }
