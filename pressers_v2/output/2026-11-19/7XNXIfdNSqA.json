@@ -1,0 +1,148 @@
+{
+  "video_title": "Joe Mazzulla on GAME PLANNING Against Nikola Jokic | Celtics vs Nuggets Pregame",
+  "speakers_seen": [
+    "Joe Mazzulla"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:01",
+      "summary_phrase": "Joe Mazzulla on players staying connected to their college programs",
+      "names_mentioned": [],
+      "excerpt": "every player that we have is shaped by their college, whether it's their teammates, the environment, their coaches.",
+      "quote": "I think it's great. Every player that we have is shaped by their college, whether it's their teammates, the environment, their coaches. They are who they are because of those people. Same for me, so it's a great thing.",
+      "text_blocks": [],
+      "start_seconds": 1,
+      "end_seconds": 16,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla says he loves seeing his players stay connected to their college programs because those environments shaped who they are today.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses his thoughts on players maintaining connections to their college programs during a pregame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:37",
+      "summary_phrase": "Joe Mazzulla on the strategy for defending Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Joel Embiid"
+      ],
+      "excerpt": "you have to defend him with your offense. You can't play inefficient offense.",
+      "quote": "There's certain guys, Jokic, Embiid, two-man combinations. You have to defend him with your offense. You can't play inefficient offense. You can't allow them to get more shots than you. You can't turn the ball over. If you get into a close game, you have to pick your poison. He is a very good player and he has an ability to put pressure on every single coverage. He's seen every single coverage. So it's not about stopping him, it's about maintaining him and winning on the margins.",
+      "text_blocks": [],
+      "start_seconds": 37,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla on defending Nikola Jokic: You have to defend him with your offense. You cannot play inefficient basketball or turn the ball over because he has seen every single coverage.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Joel Embiid"
+        ],
+        "teams": [
+          "BOS",
+          "DEN",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla explains the strategic approach required to defend elite players like Nikola Jokic and Joel Embiid.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "02:00",
+      "summary_phrase": "Joe Mazzulla on the necessity of playing two-way basketball",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "you have to play two-way basketball. You have to have understanding of what the other team is great at.",
+      "quote": "You have to play two-way basketball. You have to have understanding of what the other team is great at. You have to combat that, you have to take that away and you have to try to impose your will on it. Try to play connected basketball regardless. You can't win one without the other. If you just look at it from one perspective and say, 'Okay, how are we going to stop him?' that's not a right answer. You have to put pressure on them with the things that you do well.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla emphasizes that stopping a player like Jokic is not the right goal. Instead you have to play two way basketball and impose your will on the game.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla emphasizes the importance of playing two-way basketball and imposing team strengths when facing difficult opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "02:43",
+      "summary_phrase": "Joe Mazzulla on the team's upcoming road trip schedule",
+      "names_mentioned": [],
+      "excerpt": "we knew in August what the schedule was, so we had plenty of time to prepare for it.",
+      "quote": "It doesn't really matter. You have to play the games. There is what it is. I'm good up to this point on some of the travel stuff, but we knew in August what the schedule was, so we had plenty of time to prepare for it.",
+      "text_blocks": [],
+      "start_seconds": 163,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla is not worried about the upcoming road trip schedule saying the team knew what the travel looked like back in August and had plenty of time to prepare.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla comments on the team's upcoming road trip schedule and the necessity of being prepared for travel.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "7XNXIfdNSqA",
+  "url": "https://www.youtube.com/watch?v=7XNXIfdNSqA",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-19T02:06:10Z",
+  "duration_seconds": 193,
+  "processed_at": "2026-11-19T02:44:48Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

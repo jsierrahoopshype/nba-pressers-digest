@@ -3038,5 +3038,54 @@
    "slot_date": "2026-11-17"
   }
  },
- "pending": {}
+ "pending": {
+  "7XNXIfdNSqA": {
+   "channel": "Boston Celtics",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T02:44:48Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Joe Mazzulla",
+   "title": "Joe Mazzulla on GAME PLANNING Against Nikola Jokic | Celtics vs Nuggets Pregame",
+   "top_quote": "I think it's great. Every player that we have is shaped by their college, whether it's their teammates, the environment, their coaches. They are who they are because of those people. Same for me, so it's a great thing.",
+   "video_id": "7XNXIfdNSqA"
+  },
+  "q2aeD0nd0gk": {
+   "channel": "Sacramento Kings",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T02:44:48Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Doug Christie",
+   "title": "Doug Christie details importance of Leaky Black to Kings | NBC Sports California",
+   "top_quote": "Leaky is doing exactly what I like, down in the stance, arms out, just presenting a picture that gaps aren't there. Then he's extremely active with his hands. When someone leaves their feet, he leaves his feet, which puts them in a real tough position. Really good hands, especially on defense, runs the floor, shoots the shots when he's open. He's just a team player, but defensively solid. You can put him on just about anybody, and yeah, big fan of Leaky.",
+   "video_id": "q2aeD0nd0gk"
+  },
+  "vMC7XvjJr4Q": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T02:44:48Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Cam Spencer",
+   "title": "Cam Spencer Walk-Off Interview | Grizzlies vs. Cavaliers",
+   "top_quote": "Cam, it was a high-scoring first half, not a lot of defense. What did you guys do better defensively in that second half? I felt like we dictated a little bit more, even when they got paint touches. I feel like we collapsed on them, made them kick out a little bit tougher, and made one more effort to get a contest on some of those outside shots. Credit to them, they are a well-coached team, but I am proud of our guys for finishing it out.",
+   "video_id": "vMC7XvjJr4Q"
+  }
+ }
 }

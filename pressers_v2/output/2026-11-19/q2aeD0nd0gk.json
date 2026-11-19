@@ -1,0 +1,143 @@
+{
+  "video_title": "Doug Christie details importance of Leaky Black to Kings | NBC Sports California",
+  "speakers_seen": [
+    "Doug Christie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Doug Christie",
+      "timestamp": "00:36",
+      "summary_phrase": "Doug Christie praises Leaky Black's defensive impact and fundamentals",
+      "names_mentioned": [
+        "Leaky Black"
+      ],
+      "excerpt": "Leaky is doing exactly what I like, down in the stance, arms out, just presenting a picture.",
+      "quote": "Leaky is doing exactly what I like, down in the stance, arms out, just presenting a picture that gaps aren't there. Then he's extremely active with his hands. When someone leaves their feet, he leaves his feet, which puts them in a real tough position. Really good hands, especially on defense, runs the floor, shoots the shots when he's open. He's just a team player, but defensively solid. You can put him on just about anybody, and yeah, big fan of Leaky.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Doug Christie is high on Leaky Black, praising his defensive fundamentals and activity. Christie says Black is a team player who is solid enough to guard just about anybody.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Leaky Black"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Sacramento Kings assistant coach Doug Christie discusses the defensive contributions and team-oriented play of Leaky Black.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Doug Christie",
+      "timestamp": "01:22",
+      "summary_phrase": "Doug Christie on coaching De'Aaron Fox to improve defensive decision-making",
+      "names_mentioned": [
+        "De'Aaron Fox",
+        "Caruso",
+        "Alex Caruso",
+        "Keegan Murray"
+      ],
+      "excerpt": "What did you see? And then getting off the ball early when he comes off. If he sees that there's",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What I want him to do is digest the game early, understand, let's go off of a drag, let's go off of a mid pick-and-roll, let's go off of a double drag. What were those coverages?"
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "What did you see? And then getting off the ball early when he comes off. If he sees that there's a crowd, get off of it, calculate that, read it, make sure that you're making the notes and then let's go back to things that were working. Where did you see gaps at? Where did you see something? Also for your teammate, because ultimately, he's going to be able to find his rhythm. He can get his own shot, but sometimes he's like, 'Hey coach, I think we should run a stack.' There's something for Keegan on a hip down. Those are the things that I really want him to digest the game, not only for himself but for his teammates."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Doug Christie"
+      ],
+      "reporter_split": true,
+      "start_seconds": 82,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Doug Christie wants De'Aaron Fox to digest the game earlier to help his teammates. Christie is pushing Fox to read coverages and get off the ball early when he sees a crowd.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "De'Aaron Fox",
+          "Keegan Murray"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Doug Christie explains his coaching approach to helping De'Aaron Fox improve his defensive decision-making and playmaking for teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Doug Christie",
+      "timestamp": "02:28",
+      "summary_phrase": "Doug Christie emphasizes aggression over consistency for Keegan Murray",
+      "names_mentioned": [
+        "Keegan Murray"
+      ],
+      "excerpt": "Throw that out the window and just be aggressive.",
+      "quote": "Throw that out the window and just be aggressive. That's what run really hard, get to the corners, come off of pin-downs, looking, understanding when you're coming off the pin-down, make the reading the corner before you even go. You should already know, am I about to turn the corner? Am I open? Catch the ball ready to shoot it. Defensively active in gaps. Just aggression, because sometimes when you go to find it, you don't find it. When you go to be aggressive is when you find it.",
+      "text_blocks": [],
+      "start_seconds": 148,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Doug Christie has a simple message for Keegan Murray: throw consistency out the window and just be aggressive. Christie says Murray finds his rhythm when he plays with aggression rather than searching for it.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keegan Murray"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Doug Christie shares his advice for Keegan Murray regarding the importance of playing with aggression on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "q2aeD0nd0gk",
+  "url": "https://www.youtube.com/watch?v=q2aeD0nd0gk",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-19T02:30:21Z",
+  "duration_seconds": 204,
+  "processed_at": "2026-11-19T02:44:47Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

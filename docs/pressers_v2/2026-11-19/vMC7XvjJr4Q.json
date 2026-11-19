@@ -1,0 +1,188 @@
+{
+  "video_title": "Cam Spencer Walk-Off Interview | Grizzlies vs. Cavaliers",
+  "speakers_seen": [
+    "Rob Fischer",
+    "Cam Spencer"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Cam Spencer",
+      "speakers": [
+        "Unidentified reporter",
+        "Cam Spencer"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Cam Spencer on Memphis Grizzlies' defensive improvement in the second half",
+      "names_mentioned": [],
+      "excerpt": "I felt like we dictated a little bit more, even when they got paint touches",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Cam, it was a high-scoring first half, not a lot of defense. What did you guys do better defensively in that second half?"
+        },
+        {
+          "speaker": "Cam Spencer",
+          "text": "I felt like we dictated a little bit more, even when they got paint touches. I feel like we collapsed on them, made them kick out a little bit tougher, and made one more effort to get a contest on some of those outside shots. Credit to them, they are a well-coached team, but I am proud of our guys for finishing it out."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cam Spencer on the Grizzlies defensive turnaround in the second half: We dictated more, collapsed on paint touches, and made one more effort to get a contest on outside shots.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Cam Spencer discusses the Memphis Grizzlies defensive adjustments made during the second half of the game against the Cleveland Cavaliers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Cam Spencer",
+      "speakers": [
+        "Unidentified reporter",
+        "Cam Spencer"
+      ],
+      "timestamp": "00:24",
+      "summary_phrase": "Cam Spencer on the Memphis Grizzlies' offensive ball movement",
+      "names_mentioned": [],
+      "excerpt": "We have just been sharing the ball, making simple plays, on-time, on-target passes",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "The offense has been clicking these last four games. What is going so well, what feels so smooth?"
+        },
+        {
+          "speaker": "Cam Spencer",
+          "text": "I was proud of how we didn't let our defense control our offense, or vice versa. We have just been sharing the ball, making simple plays, on-time, on-target passes is something that we talk about a lot. Having a big fella get going too is a huge piece for us, so credit to everybody, it was a team effort tonight."
+        }
+      ],
+      "start_seconds": 24,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cam Spencer credits the Grizzlies recent offensive success to simple plays and ball movement: We have just been sharing the ball, making simple plays, on-time, on-target passes is something that we talk about a lot.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cam Spencer explains the factors contributing to the recent success and ball movement of the Memphis Grizzlies offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cam Spencer",
+      "speakers": [
+        "Unidentified reporter",
+        "Cam Spencer"
+      ],
+      "timestamp": "00:49",
+      "summary_phrase": "Cam Spencer on the value of having multiple playmakers on the floor",
+      "names_mentioned": [],
+      "excerpt": "When everybody can shoot, pass, and dribble, I feel like everybody is a threat",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How great is it to have so many facilitators on the floor at the same time?"
+        },
+        {
+          "speaker": "Cam Spencer",
+          "text": "It makes offense that much easier. When everybody can shoot, pass, and dribble, I feel like everybody is a threat to do all those three. It makes the game very simple on that end and a very unselfish group, so proud of the guys."
+        }
+      ],
+      "start_seconds": 49,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Cam Spencer on the value of having multiple playmakers on the floor: When everybody can shoot, pass, and dribble, I feel like everybody is a threat to do all those three. It makes the game very simple.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cam Spencer describes the offensive benefits of having multiple playmakers on the floor for the Memphis Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Cam Spencer",
+      "speakers": [
+        "Unidentified reporter",
+        "Cam Spencer"
+      ],
+      "timestamp": "01:10",
+      "summary_phrase": "Cam Spencer on preparing for the Golden State Warriors",
+      "names_mentioned": [],
+      "excerpt": "Quick turnaround, got to get our legs back, obviously going home, we got to defend home court",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Golden State tomorrow night. You have already seen that team. What is important tomorrow night?"
+        },
+        {
+          "speaker": "Cam Spencer",
+          "text": "Quick turnaround, got to get our legs back, obviously going home, we got to defend home court, and obviously watch the film from the last game and learn from that and get a win."
+        }
+      ],
+      "start_seconds": 70,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Cam Spencer on the quick turnaround against the Warriors: We have to get our legs back, defend home court, and watch the film from the last game to learn from that and get a win.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Cam Spencer discusses the preparation and mindset for the Memphis Grizzlies upcoming game against the Golden State Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: interview",
+  "format": "ytq-1",
+  "video_id": "vMC7XvjJr4Q",
+  "url": "https://www.youtube.com/watch?v=vMC7XvjJr4Q",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-19T02:43:32Z",
+  "duration_seconds": 89,
+  "processed_at": "2026-11-19T02:44:47Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}
