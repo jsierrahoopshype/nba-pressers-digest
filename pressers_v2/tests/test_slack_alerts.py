@@ -86,17 +86,26 @@ class SlackAlertTests(unittest.TestCase):
     def test_no_post_before_last_overnight_run_then_one_post(self):
         self.assertIsNone(self.run_at(at("02:05"), "overnight", [item("aaaaaaaaaa1", QUOTES[0])]))
         self.assertIsNone(self.run_at(at("05:40"), "overnight", [item("aaaaaaaaaa2", QUOTES[1])]))
-        self.assertIsNone(self.run_at(at("09:10"), "overnight", []))
+        self.assertIsNone(self.run_at(at("09:04"), "overnight", []))
         self.assertEqual(self.posted, [])
         self.assertEqual(sorted(self.state()["pending"]), ["aaaaaaaaaa1", "aaaaaaaaaa2"])
-        # the last overnight run (10 UTC): one post with the whole night
-        p = self.run_at(at("10:31"), "overnight", [item("aaaaaaaaaa3", QUOTES[2])])
+        # the chain's last overnight run (09:10-10:00 UTC): one post with the whole night
+        p = self.run_at(at("09:38"), "overnight", [item("aaaaaaaaaa3", QUOTES[2])])
         self.assertEqual(sorted(self.posted_ids(p)), ["aaaaaaaaaa1", "aaaaaaaaaa2", "aaaaaaaaaa3"])
         self.assertEqual(len(self.posted), 1)
         self.assertIn(f"*NBA Pressers v2 — {DAY} overnight*", self.posted[0])
         self.assertEqual(self.state()["pending"], {})
         # a later overnight run with nothing new posts nothing
         self.assertIsNone(self.run_at(at("11:40"), "overnight", []))
+        self.assertEqual(len(self.posted), 1)
+
+    def test_nov19_night_posts_from_last_chain_run_not_evening_cron(self):
+        # Nov 19 2026: chain runs ended 02:44 ... 09:39 UTC, the next cron came at 18:21
+        self.assertIsNone(self.run_at(at("05:20"), "overnight", [item("gggggggggg1", QUOTES[0])]))
+        self.assertIsNone(self.run_at(at("08:52"), "overnight", [item("gggggggggg2", QUOTES[1])]))
+        p = self.run_at(at("09:39"), "overnight", [])
+        self.assertEqual(sorted(self.posted_ids(p)), ["gggggggggg1", "gggggggggg2"])
+        self.assertIsNone(self.run_at(at("18:21"), "overnight", []))
         self.assertEqual(len(self.posted), 1)
 
     def test_catch_up_when_last_overnight_run_is_missed(self):
