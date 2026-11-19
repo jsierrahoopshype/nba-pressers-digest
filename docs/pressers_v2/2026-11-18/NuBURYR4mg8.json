@@ -1,0 +1,95 @@
+{
+  "video_title": "Deuce explains what Leaky Black adds to Kings to complement Darius Acuff Jr. | NBC Sports California",
+  "speakers_seen": [],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Deuce Mason",
+      "timestamp": "00:00",
+      "summary_phrase": "Leaky Black provides necessary defensive versatility and spacing for the Kings",
+      "names_mentioned": [
+        "Darius Acuff Jr.",
+        "Leaky Black"
+      ],
+      "excerpt": "The Kings are in desperate need of players who do the dirty work.",
+      "quote": "As the Kings continue to search for an identity and some consistency, you're trying to find players who fit the mold for what you want to see around Kings rookie Darius Acuff Jr. The Kings are in desperate need of players who do the dirty work. Can you guard a couple of positions? Can you play defense with physicality? Can you communicate? Can you give that first, second, and third efforts? And oh, can you also hit the three? I think they have that on the roster in Leaky Black. When he's gotten the chance, I think he's shown that he can really help this team.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Deuce Mason argues that Leaky Black is the exact type of defensive minded role player the Kings need to surround Darius Acuff Jr with as they look for consistency this season.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Darius Acuff Jr.",
+          "Leaky Black"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Deuce Mason discusses how Leaky Black provides defensive versatility and spacing to complement rookie Darius Acuff Jr. on the Kings roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Deuce Mason",
+      "timestamp": "00:55",
+      "summary_phrase": "Leaky Black's perimeter shooting complements Darius Acuff Jr.'s playstyle",
+      "names_mentioned": [
+        "Leaky Black",
+        "Darius Acuff Jr."
+      ],
+      "excerpt": "That shooting is the perfect complement to Darius Acuff Jr.",
+      "quote": "In the Kings' lone win this year against Dallas, he had four threes and four steals. He did that again against the Oklahoma City Thunder. He's also shooting the ball well from downtown, 14 of 30 from distance with three games where he's had at least four threes. That shooting is the perfect complement to Darius Acuff Jr. He's got great length, he's strong defensively, he could spread the floor with his three-point shooting, and he's unselfish. The best part, he knows who he is. I'd love to see Leaky Black get some more minutes for the Kings.",
+      "verbatim_original_language": "",
+      "start_seconds": 55,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Deuce Mason highlights Leaky Black as a key rotation piece for the Kings, noting his 14 of 30 shooting from deep and defensive versatility as the perfect complement to Darius Acuff Jr.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Leaky Black",
+          "Darius Acuff Jr."
+        ],
+        "teams": [
+          "SAC",
+          "DAL",
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Deuce Mason analyzes Leaky Black's recent shooting performance and defensive impact as a complementary piece for Darius Acuff Jr. on the Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "default",
+  "format": "ytq-1",
+  "video_id": "NuBURYR4mg8",
+  "url": "https://www.youtube.com/watch?v=NuBURYR4mg8",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-19T01:14:39Z",
+  "duration_seconds": 101,
+  "processed_at": "2026-11-19T01:53:13Z",
+  "run_id": "2026-11-19T0152Z-20utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

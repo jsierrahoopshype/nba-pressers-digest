@@ -1,0 +1,161 @@
+{
+  "video_title": "Steve Kerr discusses Warriors’ struggles trying to replace injured Steph Curry | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Steve Kerr"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Steve Kerr",
+      "timestamp": "04:40",
+      "summary_phrase": "Steve Kerr on the difficulty of coaching without Steph Curry",
+      "names_mentioned": [
+        "Steph Curry",
+        "Tim Roy"
+      ],
+      "excerpt": "My coaching has suffered without Steph as well. Let's be honest, Raymond is not nearly as good.",
+      "quote": "My coaching has suffered without Steph as well. Let's be honest, Raymond is not nearly as good of a PR guy without Steph. I listened to a tape of Tim Roy the other night. No excitement, no energy. So we all miss Steph. The game is harder without him. Take away any team's superstar and all of a sudden the defense is not nearly as compromised and the game just gets more difficult.",
+      "text_blocks": [],
+      "start_seconds": 280,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 7,
+      "social_post": "Steve Kerr admits the Warriors are struggling without Steph Curry saying the game is just harder without him. He joked that even the PR staff is not as good without Steph on the floor.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Steve Kerr discusses the challenges of coaching the team while Stephen Curry is sidelined with an injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Steve Kerr",
+      "timestamp": "05:05",
+      "summary_phrase": "Steve Kerr on the team's need to adapt without Steph Curry",
+      "names_mentioned": [
+        "Steph Curry"
+      ],
+      "excerpt": "We have to make adjustments and find ways to attack. When you do that as a group.",
+      "quote": "We have to make adjustments and find ways to attack. When you do that as a group, then individual guys can shine. But when individuals try to take it upon themselves to replace Steph, it will be a struggle.",
+      "text_blocks": [],
+      "start_seconds": 305,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Steve Kerr says the Warriors must focus on group adjustments rather than individual players trying to replace Steph Curry to avoid struggling on the court.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr explains the need for the team to adapt collectively rather than relying on individuals to replace Stephen Curry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Steve Kerr",
+      "timestamp": "07:22",
+      "summary_phrase": "Steve Kerr on the unique skill sets of Mikal Bridges and Kyrie Irving",
+      "names_mentioned": [
+        "Mikal Bridges",
+        "Kyrie Irving"
+      ],
+      "excerpt": "Guys like that, like Mikal Bridges and Kyrie Irving, can play with anybody.",
+      "quote": "Guys like that, like Mikal Bridges and Kyrie Irving, can play with anybody. That's one of the things that makes them both special is you don't have to build lineups around them because they're so skilled and smart. So when you put two of them together, it becomes really difficult to defend and to try to defeat. The skill set, the intelligence, the competitiveness, they fit beautifully.",
+      "text_blocks": [],
+      "start_seconds": 442,
+      "end_seconds": 468,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Steve Kerr praises the versatility of Mikal Bridges and Kyrie Irving noting that their high basketball IQ and skill sets allow them to fit into any lineup seamlessly.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mikal Bridges",
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "GSW",
+          "BKN",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Steve Kerr comments on the high skill level and versatility of Mikal Bridges and Kyrie Irving.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Steve Kerr",
+      "timestamp": "09:00",
+      "summary_phrase": "Steve Kerr on George Niang's impact as a teammate",
+      "names_mentioned": [
+        "George Niang"
+      ],
+      "excerpt": "He's just an incredible human being. He's incredibly competitive and hilarious at the same time.",
+      "quote": "He's just an incredible human being. He's incredibly competitive and hilarious at the same time. There's probably no better combination if you want a teammate who's going to help you win and keep things loose and connect the guys. Everybody loves George and he's also just a winning player. He's smart, tough, the ball moves when he's out there. He either shoots it or moves it, the ball never sticks.",
+      "text_blocks": [],
+      "start_seconds": 540,
+      "end_seconds": 567,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Steve Kerr calls George Niang an incredible teammate who keeps the locker room loose while remaining a tough and smart winning player.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Georges Niang"
+        ],
+        "teams": [
+          "GSW",
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Steve Kerr praises Georges Niang for his personality and his impact as a teammate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "syzlCKK5OU4",
+  "url": "https://www.youtube.com/watch?v=syzlCKK5OU4",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-19T00:51:20Z",
+  "duration_seconds": 597,
+  "processed_at": "2026-11-19T01:53:19Z",
+  "run_id": "2026-11-19T0152Z-20utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

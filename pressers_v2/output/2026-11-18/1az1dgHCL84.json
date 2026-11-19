@@ -1,0 +1,143 @@
+{
+  "video_title": "Clippers vs. Jazz | Postgame Interviews | Nov. 17, 2026 | LA Clippers",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Kobe Brown"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:17",
+      "summary_phrase": "Tyronn Lue credits Jazz offense for Clippers defensive struggles",
+      "names_mentioned": [],
+      "excerpt": "They played a good game, they made shots. We gave them different coverages, they just had it going.",
+      "quote": "They just beat us. They played a good game, they made shots. We gave them different coverages, they just had it going offensively tonight. Hats off to them, they played a good game and we couldn't stop them. Getting into the paint, threes, whatever they wanted, so they played a good game and they beat us.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Tyronn Lue credits the Jazz offense for the Clippers defensive struggles tonight saying they just had it going offensively and we could not stop them",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the Clippers defensive struggles and the Jazz offensive performance following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:55",
+      "summary_phrase": "Tyronn Lue analyzes second unit struggles against Jazz",
+      "names_mentioned": [
+        "Kobe Brown"
+      ],
+      "excerpt": "It just hurt us when Kobe came in picking up full court, was aggressive, picking us up full court.",
+      "quote": "We activated our defense at the end of the second quarter, turning them over, getting physical, getting into the basketball, and we were able to get out in transition and get some easy baskets. In the third quarter, they came out and they had it going offensively. I thought with the second unit, it just hurt us when Kobe came in picking up full court, was aggressive, picking us up full court, and we struggled with that to kind of get into our flow offensively.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue says the Clippers second unit struggled to get into an offensive flow because of the defensive pressure applied by the Jazz",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kobe Brown"
+        ],
+        "teams": [
+          "LAC",
+          "UTA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue explains how the Clippers second unit struggled against the defensive pressure applied by Kobe Brown.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kobe Brown",
+      "timestamp": "02:30",
+      "summary_phrase": "Kobe Brown on his improved comfort level attacking the rim",
+      "names_mentioned": [],
+      "excerpt": "I think my comfortability has gotten a lot better, especially going downhill and finding the right play.",
+      "quote": "I've been working a lot on around that area, just passes, shots, floaters, all that, and I think it's starting to translate to the game. I think my comfortability has gotten a lot better, especially going downhill and finding the right play.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Kobe Brown says his comfort level attacking the rim is improving as his work on floaters and passing starts to translate to the game",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kobe Brown describes his progress in developing his offensive game and comfort level attacking the rim.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kobe Brown",
+      "timestamp": "03:32",
+      "summary_phrase": "Kobe Brown identifies defensive lapses and rebounding as key issues",
+      "names_mentioned": [],
+      "excerpt": "We started missing shots and then defensively, we were in rotation a lot and they had a lot.",
+      "quote": "We started missing shots and then defensively, we were in rotation a lot and they had a lot of threes off, especially corner threes, and then I think there was a couple of them where we gave them offensive rebounds, and I think that's kind of what it was, just that run and we didn't come back with the right energy after that.",
+      "text_blocks": [],
+      "start_seconds": 212,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kobe Brown points to defensive rotations and giving up offensive rebounds as the main reasons for the Clippers struggles against the Jazz",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Kobe Brown identifies defensive rotations, allowing corner threes, and poor rebounding as the primary reasons for the Clippers loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "1az1dgHCL84",
+  "url": "https://www.youtube.com/watch?v=1az1dgHCL84",
+  "channel_team": "LA Clippers",
+  "published": "2026-11-18T23:27:54Z",
+  "duration_seconds": 338,
+  "processed_at": "2026-11-19T01:53:25Z",
+  "run_id": "2026-11-19T0152Z-20utc",
+  "is_one_off": false
+}

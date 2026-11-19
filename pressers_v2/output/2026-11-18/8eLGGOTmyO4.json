@@ -1,0 +1,204 @@
+{
+  "video_title": "Erik Spoelstra Talks Miami Heat Defense, Taking on Tyler Herro and Former Players, Wants To Play GTA",
+  "speakers_seen": [
+    "Erik Spoelstra"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:00",
+      "summary_phrase": "Andrew Wiggins' defensive impact and energy in his new role",
+      "names_mentioned": [
+        "Andrew Wiggins",
+        "Kevin Durant"
+      ],
+      "excerpt": "The game usually rewards effort and energy, and it's doing that for Wiggins right now.",
+      "quote": "That was a great game that he can wrap his mind around the other night. He was so active on the four offensive rebounds. He felt his energy defensively. He had that multiple effort closeout and then block on Kevin Durant. The game usually rewards effort and energy, and it's doing that for Wiggins right now, and you can see how that unlocks a lot of stuff for our basketball team. I understand it's not the easiest thing to have your role changed like that, but he's adapting and he's finding a way to make a big impact.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra on Andrew Wiggins' recent defensive surge: The game usually rewards effort and energy, and it is doing that for Wiggins right now. You can see how that unlocks a lot of stuff for our basketball team.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Andrew Wiggins",
+          "Kevin Durant"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra discusses Andrew Wiggins' recent defensive performance and energy in a new role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "01:03",
+      "summary_phrase": "Erik Spoelstra on the unique global nature of the GTA-themed game",
+      "names_mentioned": [],
+      "excerpt": "It's 10x everything and to have that opportunity in a regular season game, I think is exciting.",
+      "quote": "This is a really unique night. I think this is going to be a lot of fun. It's going to be a global game tonight because of the setup with GTA. I think it's awesome, I think it's fun. It's 10x everything and to have that opportunity in a regular season game, I think is exciting. I've never played the game before, but I'm fully aware of it and if they want to send me a console, I'll play. I'm curious now, I want to play.",
+      "text_blocks": [],
+      "start_seconds": 63,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 9,
+      "social_post": "Erik Spoelstra on the GTA themed game: I have never played the game before, but I am fully aware of it and if they want to send me a console, I will play. I am curious now, I want to play.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra comments on the unique theme of the upcoming game involving GTA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "01:41",
+      "summary_phrase": "Managing the emotional weight of facing former Heat players",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "There's a human side to it. It's just toughness, that's the awkward part of the business.",
+      "quote": "I understand there's other emotions of our players, Giannis and Bobby coming over from over there, and there's a lot of history that they've had over there, so I know it means a lot to them. And then the four guys that we sent over there, a lot of emotions for them and for us. There's a human side to it. I know some of the storylines that are probably out there, but we really do view those guys in such a great regard. It is love. It's just toughness, that's the awkward part of the business. We're trying to do something and they're trying to do something.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Erik Spoelstra on facing former players: There is a human side to it. I know some of the storylines that are probably out there, but we really do view those guys in such a great regard. It is love. It is just toughness.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo",
+          "Bobby Portis"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra discusses the emotional aspect of facing former players and the human side of the business.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "02:13",
+      "summary_phrase": "Maintaining defensive identity and avoiding regression",
+      "names_mentioned": [],
+      "excerpt": "There's no shortcuts to this. We're doing the hard things defensively that is changing the karma of our season.",
+      "quote": "I want us to build on what we've been doing, how we've been trending. I don't want to take a step back with that. There's no shortcuts to this. We're doing the hard things defensively that is changing the karma of our season, and I don't want to take a step back with that. You have to have the discipline to focus on the task, not the storylines, not the emotions, but really the identity of how we've been playing. That's what I want to see us handle tonight, and it's a different type of thing that we have to handle right now.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra on maintaining defensive identity: We are doing the hard things defensively that is changing the karma of our season, and I do not want to take a step back with that.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra emphasizes the need for the team to maintain their defensive identity and focus.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "03:38",
+      "summary_phrase": "Prioritizing collective defensive effort over specific schemes",
+      "names_mentioned": [],
+      "excerpt": "It's been way more about this collective intensity and effort and a commitment to doing the tough things.",
+      "quote": "It was collaborative, but I was trying to get our guys on the road trip to stop, or not, because they were great about it. It's not about the schemes. We can figure out the schemes; there's a bunch of schemes that work. And ultimately, yes, I do want their feedback to see if we do this scheme, will it result in this kind of effort that I'm looking for. If it won't, then tell me the scheme and we'll figure it out, I'll adapt from there. It's been way more about this collective intensity and effort and a commitment to doing the tough things in this league. There's so many good offensive teams and players, you're not going to defend them with a scheme. You're not. You have to do ridiculously tough things and do it over and over and over and build that until it's a collective habit.",
+      "text_blocks": [],
+      "start_seconds": 218,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra on defensive schemes: It is not about the schemes. We can figure out the schemes. It has been way more about this collective intensity and effort and a commitment to doing the tough things in this league.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Erik Spoelstra explains his philosophy on prioritizing collective defensive effort over specific tactical schemes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "04:42",
+      "summary_phrase": "Addressing the team's defensive struggles against the three-point line",
+      "names_mentioned": [],
+      "excerpt": "An absolute red alert. Come on, we were getting destroyed at the three-point line.",
+      "quote": "An absolute red alert. Come on, we were getting destroyed at the three-point line in a lot of those losses early on. You just look at the difference between the points from behind the arc, we were getting beat by 20 plus in each of those games. Part of it is we also weren't shooting well from there, but you can't make up the difference there. So we have to continue to be on alert to take away the three-point line. It's hard. You get them now in transition, we had one the other night, it was a four-on-one, but that's an open shot. You still have to find a way to close that one down and get another effort, get your next group back.",
+      "text_blocks": [],
+      "start_seconds": 282,
+      "end_seconds": 330,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra on the team's struggles defending the three-point line: An absolute red alert. We were getting destroyed at the three-point line in a lot of those losses early on. We have to continue to be on alert to take away the three-point line.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra addresses the team's defensive struggles in defending the three-point line.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "8eLGGOTmyO4",
+  "url": "https://www.youtube.com/watch?v=8eLGGOTmyO4",
+  "channel_team": "Miami Heat",
+  "published": "2026-11-18T22:54:10Z",
+  "duration_seconds": 348,
+  "processed_at": "2026-11-19T01:53:33Z",
+  "run_id": "2026-11-19T0152Z-20utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

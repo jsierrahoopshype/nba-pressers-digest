@@ -1,0 +1,131 @@
+{
+  "video_title": "What Leaky Black adds to Kings to complement Darius Acuff Jr. | NBC Sports California",
+  "speakers_seen": [
+    "Deuce Mason"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Deuce Mason",
+      "timestamp": "00:00",
+      "summary_phrase": "Leaky Black's potential as a defensive specialist for the Kings",
+      "names_mentioned": [
+        "Darius Acuff Jr.",
+        "Leaky Black"
+      ],
+      "excerpt": "The Kings are in desperate need of players who do the dirty work.",
+      "quote": "As the Kings continue to search for an identity and some consistency, you are trying to find players who fit the mold for what you want to see around Kings rookie Darius Acuff Jr. I know the sample size is small, but one guy comes to mind: Leaky Black. The Kings are in desperate need of players who do the dirty work. Can you guard a couple of positions? Can you play defense with physicality? Can you communicate? Can you give that first, second, and third efforts? And oh, can you also hit the three? I think they have that on the roster in Leaky Black.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Deuce Mason makes the case for Leaky Black to see more minutes for the Kings. He argues Black provides the defensive physicality and floor spacing needed to complement rookie Darius Acuff Jr.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Darius Acuff Jr.",
+          "Leaky Black"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Deuce Mason discusses how Leaky Black fits into the Sacramento Kings roster alongside rookie Darius Acuff Jr.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Deuce Mason",
+      "timestamp": "00:38",
+      "summary_phrase": "Leaky Black's development and fit within the Kings' roster",
+      "names_mentioned": [
+        "Leaky Black"
+      ],
+      "excerpt": "When he's gotten the chance, I think he's shown that he can really help this team.",
+      "quote": "Leaky Black is 27 years old and he's bounced around the league a little bit. He's been on Charlotte, Washington, and the G League, and right now on a two-way deal with Sacramento trying to find that long-term NBA home. But when he's gotten the chance, I think he's shown that he can really help this team. In the Kings' lone win this year against Dallas, he had four threes and four steals. He did that again against the Oklahoma City Thunder.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Leaky Black has been bouncing around the league but has shown flashes of impact for the Kings. Deuce Mason highlights his performance against Dallas and OKC as reasons he deserves a longer look.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Leaky Black"
+        ],
+        "teams": [
+          "SAC",
+          "CHA",
+          "WAS",
+          "DAL",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Deuce Mason reviews the career path and recent performance of Leaky Black for the Sacramento Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Deuce Mason",
+      "timestamp": "01:06",
+      "summary_phrase": "Leaky Black's shooting improvement as a complement to Darius Acuff Jr.",
+      "names_mentioned": [
+        "Darius Acuff Jr.",
+        "Leaky Black"
+      ],
+      "excerpt": "That shooting is the perfect complement to Darius Acuff Jr.",
+      "quote": "He's also shooting the ball well from downtown, 14 of 30 from distance with three games where he's had at least four threes. That shooting is the perfect complement to Darius Acuff Jr. He's got great length, he's strong defensively, he could spread the floor with his three-point shooting, and he's unselfish. And the best part, he knows who he is. I'd love to see Leaky Black get some more minutes for the Kings.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "With 14 of 30 shooting from deep, Leaky Black is proving to be a reliable floor spacer. Deuce Mason says Black knows his role and is the perfect complement to Darius Acuff Jr.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Leaky Black",
+          "Darius Acuff Jr."
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Deuce Mason advocates for Leaky Black to receive more playing time due to his shooting and defensive fit with Darius Acuff Jr.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "default",
+  "format": "ytq-1",
+  "video_id": "DQxiUb-f8Vw",
+  "url": "https://www.youtube.com/watch?v=DQxiUb-f8Vw",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-19T00:54:50Z",
+  "duration_seconds": 102,
+  "processed_at": "2026-11-19T01:53:14Z",
+  "run_id": "2026-11-19T0152Z-20utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

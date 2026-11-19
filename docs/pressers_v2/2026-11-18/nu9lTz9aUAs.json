@@ -1,0 +1,149 @@
+{
+  "video_title": "LIVE: Pelicans vs. Pistons Pregame w/ Jamahl Mosley 11/18/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "speakers": [],
+      "timestamp": "04:42",
+      "summary_phrase": "Jamahl Mosley on using defense to trigger the Pelicans' transition offense",
+      "names_mentioned": [],
+      "excerpt": "having our stops lead to our running. I think that's the big key for us",
+      "quote": "A high-level defensive team at that. So just getting out on the break, having our stops lead to our running. I think that's the big key for us, having our defense be the trigger point. And so that's how you can get out to the fast start, really sitting down and guarding and then getting out on the break, finishing early before you play against their half-court defense.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 282,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the key for the Pelicans tonight is letting their defense be the trigger point to get out on the break and play in transition.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Pelicans head coach Jamahl Mosley discusses the importance of defensive stops to fuel the team's transition offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "speakers": [],
+      "timestamp": "05:09",
+      "summary_phrase": "Jamahl Mosley on the Pistons' transition-heavy playstyle and Cade Cunningham",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "the head of the snake for them is Cade, but they have so many guys",
+      "quote": "They're looking to get steals, get stops to get out and run and similar to what we want to do. Obviously, the head of the snake for them is Cade, but they have so many guys that have contributed so much to what they do. And so our ability to stop them, finish possessions out to get out and go, and then in the half-court, we've got to execute because they're very handsy, they're very physical, they pack the paint in. So we've got to make quick decisions and then get out and run early.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 309,
+      "end_seconds": 346,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley calls Cade Cunningham the head of the snake for the Pistons and emphasizes the need for the Pelicans to make quick decisions against their physical defense.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "NOP",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the defensive game plan against the Pistons and identifies Cade Cunningham as a key player to contain.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "speakers": [],
+      "timestamp": "06:20",
+      "summary_phrase": "Jamahl Mosley on the unpredictable nature of NBA game outcomes",
+      "names_mentioned": [],
+      "excerpt": "one night you can win by 50, one night you can beat somebody by 20",
+      "quote": "This is the league. One night you can win by 50, one night you can beat somebody by 20, one night you lose by one, one night you beat somebody by 30. It's the NBA. Teams are talented, teams are competing, teams are going after it. So to understand that no one wants to hear that about the losses, but understanding it's part of the league and certain situations happen on any given night, so you've got to be prepared on any given night every time you step on the floor.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 380,
+      "end_seconds": 415,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the nature of the NBA season: One night you can win by 50, one night you lose by one. It is just part of the league.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reflects on the unpredictable nature of NBA game results and the need for consistent preparation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "speakers": [],
+      "timestamp": "07:15",
+      "summary_phrase": "Jamahl Mosley on coaching against his friend and former colleague",
+      "names_mentioned": [],
+      "excerpt": "friendship will come after the fact, but while we're on those sidelines between the game lines",
+      "quote": "We'll talk pregame a little bit. It's not playoff basketball yet, so in playoffs we don't speak at all, but during the regular season, after the media, we'll have a conversation on the court, talk it out. My son's here, so he'll get to see Uncle JB. And then from there, once the game gets started, he'll be on the sideline on his side, I'll be on my side, and I'm taking care of the Pelicans and he's taking care of the Pistons and that's it. And so friendship will come after the fact, but while we're on those sidelines between the game lines, it's ready to go.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 435,
+      "end_seconds": 477,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Jamahl Mosley on facing a friend and former colleague: We will talk pregame and he will see my son, but once the game starts, friendship comes after the fact. Between the lines, it is ready to go.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "J.B. Bickerstaff"
+        ],
+        "teams": [
+          "NOP",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley describes his pregame interaction with Pistons head coach J.B. Bickerstaff and their professional approach during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "nu9lTz9aUAs",
+  "url": "https://www.youtube.com/watch?v=nu9lTz9aUAs",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-18T23:22:09Z",
+  "duration_seconds": 510,
+  "processed_at": "2026-11-19T01:53:27Z",
+  "run_id": "2026-11-19T0152Z-20utc",
+  "is_one_off": false
+}
