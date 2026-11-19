@@ -112,7 +112,15 @@ From: [Dillon Brooks Postgame On-Court Interview after Suns win against Sacramen
 
 <small>[Clip it](presserclips://clip?v=GN9G2uIHidU&t=23&q=2) · [Send to Slack](presserclips://clip?v=GN9G2uIHidU&t=23&q=2&slack=1)</small>
 
-**13. Donovan Mitchell — "you're not defined by two free throws at the end of a game." — Donovan Mitchell defends Sam Merrill after missed free throws** [04:48](https://www.youtube.com/watch?v=UG0fLQk9kac&t=288s)
+**13. Zach LaVine — "it's been more of our MO than any other quarter. I don't know if team teams are jumping on us" — Zach LaVine on the team's recurring third-quarter struggles** [01:11](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=71s)
+
+Zach LaVine: "It's been more of our MO than any other quarter. I don't know if team teams are jumping on us, if they're being more aggressive. We have to hang our hat on something to where we come out third quarter, even throughout the whole game. Our identity offensively, defensively, what are we going for? I think I said that earlier this year, and times throughout the most of the game, it feels like we're playing randomly. That's just not going to work throughout the 48 minutes of an NBA game where teams are going at certain things and matchups."
+
+[https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=71s](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=71s)
+
+From: [Zach LaVine, Doug Christie analyze Kings’ tough loss to Suns \| NBC Sports California](https://www.youtube.com/watch?v=SJhOX9Ucdv0) · *Sacramento Kings*
+
+**14. Donovan Mitchell — "you're not defined by two free throws at the end of a game." — Donovan Mitchell defends Sam Merrill after missed free throws** [04:48](https://www.youtube.com/watch?v=UG0fLQk9kac&t=288s)
 
 Donovan Mitchell: "There's a reason why I made the pass. We all trust him, and I would do it again tomorrow, I'd do it again the next night. You're not defined by two free throws at the end of a game. For him, he's done so much for us on a consistent basis. Defensively, I feel like they weren't giving him a lot of calls that he truly deserved. I think he deserves a lot more respect on the defensive end of the ball than he's been getting, and I have a bone to pick with some of the refs on that because he's really doing the little things and he's not getting the whistle he deserves."
 
@@ -122,7 +130,7 @@ From: [Cavs vs Grizzlies \| Jarrett Allen & Donovan Mitchell Post Game \| 11.18.
 
 <small>[Clip it](presserclips://clip?v=UG0fLQk9kac&t=288&q=3) · [Send to Slack](presserclips://clip?v=UG0fLQk9kac&t=288&q=3&slack=1)</small>
 
-**14. Demar Derozan — "I would be lying to you to tell you it ain't tough. It is tough." — Demar Derozan on the learning curve of coming off the bench** [03:43](https://www.youtube.com/watch?v=pgHzmiWbooo&t=223s)
+**15. Demar Derozan — "I would be lying to you to tell you it ain't tough. It is tough." — Demar Derozan on the learning curve of coming off the bench** [03:43](https://www.youtube.com/watch?v=pgHzmiWbooo&t=223s)
 
 Demar Derozan: "I would be lying to you to tell you it ain't tough. It is tough. We are 12, 13 games in, still so much learning, trying to get comfortable with it, get accustomed to doing something for the first time in 17 years. So, just try to figure out how, when, how much I can dictate the game when I am out there, what I see before I go in there. Every moment has been a learning curve for me. Just want to continue to get better at it."
 
@@ -132,7 +140,7 @@ From: [Full Denver Nuggets Postgame Media Availability vs. BOS 🎙](https://www
 
 <small>[Clip it](presserclips://clip?v=pgHzmiWbooo&t=223&q=3) · [Send to Slack](presserclips://clip?v=pgHzmiWbooo&t=223&q=3&slack=1)</small>
 
-**15. Meleek Thomas — "Don is special, he's special as a leader, he's special as a player, special as a human being" — Meleek Thomas on Donovan Mitchell's leadership and impact** [09:11](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=551s)
+**16. Meleek Thomas — "Don is special, he's special as a leader, he's special as a player, special as a human being" — Meleek Thomas on Donovan Mitchell's leadership and impact** [09:11](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=551s)
 
 Meleek Thomas: "Don is special, he's special as a leader, he's special as a player, special as a human being. And it's just things that I learn from him on a day-to-day basis that will be like, yeah, he's an amazing basketball player, but he also wants the best for the ones that he's around. So I'm just learning from him on and off the court, but the basketball kind of speaks for itself and I I take a lot from him. We work off of each other, I watch what he does on film, I watch his old stuff and you you got to appreciate a amazing person that's alongside of you basketball and off the court when when you got a guy like that."
 
@@ -142,7 +150,7 @@ From: [Cavs vs Grizzlies \| Mario Hezonja & Meleek Thomas Post Game \| 11.18.202
 
 <small>[Clip it](presserclips://clip?v=CgMYkSv-e_E&t=551&q=12) · [Send to Slack](presserclips://clip?v=CgMYkSv-e_E&t=551&q=12&slack=1)</small>
 
-**16. Georges Niang — "the Steph injury is unfortunate we're missing bodies but at the end of the day we have good spirit" — Georges Niang on the Warriors' resilience despite Steph Curry's injury** [00:08](https://www.youtube.com/watch?v=g1-WmM-mEvc&t=8s)
+**17. Georges Niang — "the Steph injury is unfortunate we're missing bodies but at the end of the day we have good spirit" — Georges Niang on the Warriors' resilience despite Steph Curry's injury** [00:08](https://www.youtube.com/watch?v=g1-WmM-mEvc&t=8s)
 
 Georges Niang: "The biggest thing is we got to continue to keep chopping wood and continuing to grow and get better. The **Steph** injury is unfortunate we're missing bodies but at the end of the day we have good spirit. I think we're pulling for one another but this is a unique situation. You are used to playing a certain style with certain players and then when they're out you kind of have to reinvent yourself and we're in that process."
 
@@ -150,7 +158,7 @@ Georges Niang: "The biggest thing is we got to continue to keep chopping wood an
 
 From: [Georges Niang declares Warriors won’t go down without fight \| NBC Sports Bay Area](https://www.youtube.com/watch?v=g1-WmM-mEvc) · *Golden State Warriors*
 
-**17. Mario Hezonja — "too many lead changes when we had a chance to put them away, we didn't take advantage" — Mario Hezonja on the team's frustration with late-game execution** [00:08](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=8s)
+**18. Mario Hezonja — "too many lead changes when we had a chance to put them away, we didn't take advantage" — Mario Hezonja on the team's frustration with late-game execution** [00:08](https://www.youtube.com/watch?v=CgMYkSv-e_E&t=8s)
 
 Mario Hezonja: "too many lead changes when we had a chance to put them away, we didn't take advantage of it. We could, and then the most frustrating part is just see that ball just not going in. Great looks, great shots. Don't even mind at the rim. At the rim, free throw. Those are all easy looks for us, so it's extremely frustrating that we lost. Today we competed, we fought, but also another thing is just head up tomorrow, clean stuff on the film and keep it going because we have a next game pretty soon."
 
@@ -160,7 +168,7 @@ From: [Cavs vs Grizzlies \| Mario Hezonja & Meleek Thomas Post Game \| 11.18.202
 
 <small>[Clip it](presserclips://clip?v=CgMYkSv-e_E&t=8&q=1) · [Send to Slack](presserclips://clip?v=CgMYkSv-e_E&t=8&q=1&slack=1)</small>
 
-**18. Neemias Queta — "his ability to impact the ball, being a help side defender as well, just versatility" — Neemias Queta praises Chris Cenac Jr.'s impact and versatility** [01:12](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=72s)
+**19. Neemias Queta — "his ability to impact the ball, being a help side defender as well, just versatility" — Neemias Queta praises Chris Cenac Jr.'s impact and versatility** [01:12](https://www.youtube.com/watch?v=DLxI4AeFN4w&t=72s)
 
 Neemias Queta: "Just impact, you know, his ability to impact the ball, being a help side defender as well, just versatility, his physicality was off the charts as well. Rebounding was key to us too. I think he just got so much versatility in his game, maybe he can impact winning right away. So shout out to him and I think he's going to keep on learning and get him better."
 
@@ -168,7 +176,7 @@ Neemias Queta: "Just impact, you know, his ability to impact the ball, being a h
 
 From: [Neemias Queta PRAISES Chris Cenac Jr. After Extended Minutes \| Celtics vs Nuggets Postgame](https://www.youtube.com/watch?v=DLxI4AeFN4w) · *Boston Celtics*
 
-**19. Kyshawn George — "15 years old, 5'7, under 150 pounds and you going up against 21 year olds." — Kyshawn George on his development and physical growth** [05:53](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=353s)
+**20. Kyshawn George — "15 years old, 5'7, under 150 pounds and you going up against 21 year olds." — Kyshawn George on his development and physical growth** [05:53](https://www.youtube.com/watch?v=MI0KcQsVoU4&t=353s)
 
 Kyshawn George: "15 years old, 5'7, under 150 pounds and you going up against 21 year olds that could dunk and all that stuff. So I just had to compensate, keep the main goal in head and just sit my way at it. Obviously the growth spurt helped a lot, but I think that stuck with me and kept me level headed."
 
@@ -178,7 +186,7 @@ From: [Media Availability: Head Coach Brian Keife, AJ Dybantsa, and Kyshawn Geor
 
 <small>[Clip it](presserclips://clip?v=MI0KcQsVoU4&t=353&q=7) · [Send to Slack](presserclips://clip?v=MI0KcQsVoU4&t=353&q=7&slack=1)</small>
 
-**20. Immanuel Quickley — "We have the lead, we're right there, end of the game, we got to find a way." — Immanuel Quickley on the recurring issue of losing close games** [01:04](https://www.youtube.com/watch?v=OZLfHvwYfzE&t=64s)
+**21. Immanuel Quickley — "We have the lead, we're right there, end of the game, we got to find a way." — Immanuel Quickley on the recurring issue of losing close games** [01:04](https://www.youtube.com/watch?v=OZLfHvwYfzE&t=64s)
 
 Immanuel Quickley: "A lot are similar. Obviously every game is different, but a lot are similar just the fact that we're losing close. It's not like we're losing by 20, 30 every game. We have the lead, we're right there, end of the game, we got to find a way. I mean, we just got to find a way to get it done, that's pretty much it."
 
@@ -188,7 +196,7 @@ From: [Immanuel Quickley \| Post Game vs Washington Wizards \| November 18, 2026
 
 <small>[Clip it](presserclips://clip?v=OZLfHvwYfzE&t=64&q=3) · [Send to Slack](presserclips://clip?v=OZLfHvwYfzE&t=64&q=3&slack=1)</small>
 
-**21. Brayden Burries — "They don't make half their threes and probably win tonight, so just got to move on to tomorrow" — Brayden Burries on team growth despite the losing streak** [01:50](https://www.youtube.com/watch?v=peOGVp9vW0M&t=110s)
+**22. Brayden Burries — "They don't make half their threes and probably win tonight, so just got to move on to tomorrow" — Brayden Burries on team growth despite the losing streak** [01:50](https://www.youtube.com/watch?v=peOGVp9vW0M&t=110s)
 
 **Unidentified reporter:** "11 losses in a row. It's tough for anybody at any level. What's giving you hope about the growth that you've seen from this group?"
 
@@ -200,7 +208,7 @@ From: [Brayden Burries Postgame Media Availability \| 11.18.26](https://www.yout
 
 <small>[Clip it](presserclips://clip?v=peOGVp9vW0M&t=110&q=5) · [Send to Slack](presserclips://clip?v=peOGVp9vW0M&t=110&q=5&slack=1)</small>
 
-**22. Jordan Poole — "It's just a matter of reps, being able to play, especially at a young age." — Jordan Poole on Jeremiah Fears' development as a playmaker** [01:23](https://www.youtube.com/watch?v=vL49lzp13lA&t=83s)
+**23. Jordan Poole — "It's just a matter of reps, being able to play, especially at a young age." — Jordan Poole on Jeremiah Fears' development as a playmaker** [01:23](https://www.youtube.com/watch?v=vL49lzp13lA&t=83s)
 
 Jordan Poole: "They are pushing **Jeremiah Fears** into that role and they are obviously trying to put him in a position so he can learn, get a lot of reps, get a lot of minutes. I feel like he has been doing a really good job of that. He had a really good game, obviously last game with the triple-double. It's just a matter of reps, being able to play, especially at a young age, seeing a lot of different actions in time early. He has been doing a good job. Shout out to the coaching staff and obviously hopefully he can keep it up."
 
@@ -210,7 +218,7 @@ From: [Jordan Poole \| Pelicans vs. Pistons Postgame Interview 11/18/26](https:/
 
 <small>[Clip it](presserclips://clip?v=vL49lzp13lA&t=83&q=1) · [Send to Slack](presserclips://clip?v=vL49lzp13lA&t=83&q=1&slack=1)</small>
 
-**23. Josh Green — "we know he can shoot the ball, that will all come around" — Josh Green on Jaden Hardy's shooting slump** [01:15](https://www.youtube.com/watch?v=wCubmWw25tM&t=75s)
+**24. Josh Green — "we know he can shoot the ball, that will all come around" — Josh Green on Jaden Hardy's shooting slump** [01:15](https://www.youtube.com/watch?v=wCubmWw25tM&t=75s)
 
 Josh Green: "It's 15 games into the season. We've seen **Jaden Hardy**, we know he can shoot the ball, so really it's 15, it's too early to say that. So we know he can shoot the ball, that will all come around, but we have utmost faith in Jaden. He's had an amazing year both sides of the court, defensively he's been a huge piece for our team."
 
@@ -220,7 +228,7 @@ From: ["continue to stick to our identity" \| Josh Green locker room media avail
 
 <small>[Clip it](presserclips://clip?v=wCubmWw25tM&t=75&q=4) · [Send to Slack](presserclips://clip?v=wCubmWw25tM&t=75&q=4&slack=1)</small>
 
-**24. Chris Cenac Jr. — "Joe just said I got Jamal and I stepped up and just did my best." — Chris Cenac Jr. on Joe Mazzulla's defensive instructions** [01:40](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=100s)
+**25. Chris Cenac Jr. — "Joe just said I got Jamal and I stepped up and just did my best." — Chris Cenac Jr. on Joe Mazzulla's defensive instructions** [01:40](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=100s)
 
 Chris Cenac Jr.: "Joe just said I got Jamal and I stepped up and just did my best and guarded."
 
@@ -1291,6 +1299,54 @@ Immanuel Quickley: "A lot are similar. Obviously every game is different, but a 
 [https://www.youtube.com/watch?v=OZLfHvwYfzE&t=64s](https://www.youtube.com/watch?v=OZLfHvwYfzE&t=64s)
 
 <small>[Clip it](presserclips://clip?v=OZLfHvwYfzE&t=64&q=3) · [Send to Slack](presserclips://clip?v=OZLfHvwYfzE&t=64&q=3&slack=1)</small>
+
+---
+
+## Zach LaVine, Doug Christie analyze Kings’ tough loss to Suns | NBC Sports California — *Sacramento Kings*
+
+Source: [https://www.youtube.com/watch?v=SJhOX9Ucdv0](https://www.youtube.com/watch?v=SJhOX9Ucdv0)
+
+_Speakers identified: Zach LaVine, Doug Christie_
+
+**1. Zach LaVine — "we have a bad lull or a bad stretch and then now we're playing from a 10-15 point deficit" — Zach LaVine on the team's struggles to maintain consistency** [00:18](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=18s)
+
+Zach LaVine: "We are still competing every day. We are just trying to find one. It is as simple as that. We have to search and try to find one. It is the same story of playing good throughout a couple of quarters. We have a bad lull or a bad stretch and then now we're playing from a 10-15 point deficit and we're trading baskets back and forth and the clock runs out on you."
+
+[https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=18s](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=18s)
+
+**2. Zach LaVine — "it's been more of our MO than any other quarter. I don't know if team teams are jumping on us" — Zach LaVine on the team's recurring third-quarter struggles** [01:11](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=71s)
+
+Zach LaVine: "It's been more of our MO than any other quarter. I don't know if team teams are jumping on us, if they're being more aggressive. We have to hang our hat on something to where we come out third quarter, even throughout the whole game. Our identity offensively, defensively, what are we going for? I think I said that earlier this year, and times throughout the most of the game, it feels like we're playing randomly. That's just not going to work throughout the 48 minutes of an NBA game where teams are going at certain things and matchups."
+
+[https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=71s](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=71s)
+
+**3. Zach LaVine — "he's doing his best, just like the rest of us. He hasn't changed his demeanor" — Zach LaVine on head coach's efforts to keep the team together** [02:15](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=135s)
+
+Zach LaVine: "He is doing his best, just like the rest of us. He hasn't changed his demeanors. He is still coming in talking. I know it's as frustrating for him as it is for all of us. I don't know his struggles. I've never been a head coach before. I wouldn't want to be in that situation. I don't see myself coaching, but it's a tough job, man. I think he's doing it to the best of his abilities, just like the rest of us. I don't think anyone was trying to fail. He's holding it together."
+
+[https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=135s](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=135s)
+
+**4. Zach LaVine — "It's frustrating as it gets, it's not going to we have to try to do it for each other." — Zach LaVine on the team's record-breaking poor start** [03:12](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=192s)
+
+**Unidentified reporter:** "You don't want to be on that record and we all are. But what can you do besides try to put your best foot forward on the next game?"
+
+**Zach LaVine:** "It's frustrating as it gets, it's not going to we have to try to do it for each other. We have to find something to come together and we have to find a game to win and after that, you have to try to find another one. It's simple, obviously. It seems a lot easier than it's said, but we're sitting there trying to find one."
+
+[https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=192s](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=192s)
+
+**5. Zach LaVine — "there's not a lot of positive things to say. Call a spade a spade. We're 1-13" — Zach LaVine on dealing with negative outside noise** [04:13](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=253s)
+
+Zach LaVine: "There's not a lot of positive things to say. Call a spade a spade. We're 1-13. What besides us looking at film and looking at the good things we do, the public is not going to see that. They're not going to see the hard work or the things that we put into trying to win. That's their job to be the critics or to be negative and I understand why. You're 1-13, there's not a lot of good things to say, but it's our job to try to go out here and do our jobs each and every day."
+
+[https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=253s](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=253s)
+
+**8. Doug Christie — "That's the discipline. The discipline is, oh, we were spraying the basketball, oh, we were executing splits, got a back" — Doug Christie on the discipline required to execute consistently** [09:20](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=560s)
+
+**Unidentified reporter:** "That's an easy one, but how did you get there before that?"
+
+**Doug Christie:** "That's the discipline. The discipline is, oh, we were spraying the basketball, oh, we were executing splits, got a back door, we were pushing the tempo. Obviously, you got to get stops and get out and push the basketball, but how you got to that, too many times, it's so easy for us to go away from how we got there. How we got there is what's going to keep us there and ultimately go over it. And to be quite frank with you, sometimes that's boring. It's just you got to do it again, groundhog day over and over and over and over."
+
+[https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=560s](https://www.youtube.com/watch?v=SJhOX9Ucdv0&t=560s)
 
 ---
 

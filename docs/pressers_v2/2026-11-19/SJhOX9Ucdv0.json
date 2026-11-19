@@ -1,0 +1,321 @@
+{
+  "video_title": "Zach LaVine, Doug Christie analyze Kings’ tough loss to Suns | NBC Sports California",
+  "speakers_seen": [
+    "Zach LaVine",
+    "Doug Christie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Zach LaVine",
+      "timestamp": "00:18",
+      "summary_phrase": "Zach LaVine on the team's struggles to maintain consistency",
+      "names_mentioned": [],
+      "excerpt": "we have a bad lull or a bad stretch and then now we're playing from a 10-15 point deficit",
+      "quote": "We are still competing every day. We are just trying to find one. It is as simple as that. We have to search and try to find one. It is the same story of playing good throughout a couple of quarters. We have a bad lull or a bad stretch and then now we're playing from a 10-15 point deficit and we're trading baskets back and forth and the clock runs out on you.",
+      "text_blocks": [],
+      "start_seconds": 18,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Zach LaVine on the team's ongoing struggles to maintain consistency during games: We are just trying to find one win. It is the same story of playing good for a couple of quarters then having a bad stretch and playing from a deficit.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Zach LaVine discusses the team's ongoing struggles to maintain consistency and avoid deficits during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Zach LaVine",
+      "timestamp": "01:11",
+      "summary_phrase": "Zach LaVine on the team's recurring third-quarter struggles",
+      "names_mentioned": [],
+      "excerpt": "it's been more of our MO than any other quarter. I don't know if team teams are jumping on us",
+      "quote": "It's been more of our MO than any other quarter. I don't know if team teams are jumping on us, if they're being more aggressive. We have to hang our hat on something to where we come out third quarter, even throughout the whole game. Our identity offensively, defensively, what are we going for? I think I said that earlier this year, and times throughout the most of the game, it feels like we're playing randomly. That's just not going to work throughout the 48 minutes of an NBA game where teams are going at certain things and matchups.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Zach LaVine admits the team feels like they are playing randomly: It feels like we are playing randomly. That is just not going to work throughout the 48 minutes of an NBA game where teams are going at certain things and matchups.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Zach LaVine reflects on the team's recurring struggles during the third quarter and a lack of offensive and defensive identity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Zach LaVine",
+      "timestamp": "02:15",
+      "summary_phrase": "Zach LaVine on head coach's efforts to keep the team together",
+      "names_mentioned": [
+        "Christie"
+      ],
+      "excerpt": "he's doing his best, just like the rest of us. He hasn't changed his demeanor",
+      "quote": "He is doing his best, just like the rest of us. He hasn't changed his demeanors. He is still coming in talking. I know it's as frustrating for him as it is for all of us. I don't know his struggles. I've never been a head coach before. I wouldn't want to be in that situation. I don't see myself coaching, but it's a tough job, man. I think he's doing it to the best of his abilities, just like the rest of us. I don't think anyone was trying to fail. He's holding it together.",
+      "text_blocks": [],
+      "start_seconds": 135,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Zach LaVine on the difficulty of the head coaching job: I have never been a head coach before. I would not want to be in that situation. I do not see myself coaching, but it is a tough job, man.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Zach LaVine defends the head coach's efforts and demeanor during the team's difficult start to the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Zach LaVine",
+      "timestamp": "03:12",
+      "summary_phrase": "Zach LaVine on the team's record-breaking poor start",
+      "names_mentioned": [],
+      "excerpt": "It's frustrating as it gets, it's not going to we have to try to do it for each other.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You don't want to be on that record and we all are. But what can you do besides try to put your best foot forward on the next game?"
+        },
+        {
+          "speaker": "Zach LaVine",
+          "text": "It's frustrating as it gets, it's not going to we have to try to do it for each other. We have to find something to come together and we have to find a game to win and after that, you have to try to find another one. It's simple, obviously. It seems a lot easier than it's said, but we're sitting there trying to find one."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Zach LaVine"
+      ],
+      "reporter_split": true,
+      "start_seconds": 192,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Zach LaVine on the team's 1-13 start: You do not want to be on that record and we all are. But what can you do besides try to put your best foot forward on the next game? It is as frustrating as it gets.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Zach LaVine addresses the team's poor record and the necessity of focusing on the next game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Zach LaVine",
+      "timestamp": "04:13",
+      "summary_phrase": "Zach LaVine on dealing with negative outside noise",
+      "names_mentioned": [],
+      "excerpt": "there's not a lot of positive things to say. Call a spade a spade. We're 1-13",
+      "quote": "There's not a lot of positive things to say. Call a spade a spade. We're 1-13. What besides us looking at film and looking at the good things we do, the public is not going to see that. They're not going to see the hard work or the things that we put into trying to win. That's their job to be the critics or to be negative and I understand why. You're 1-13, there's not a lot of good things to say, but it's our job to try to go out here and do our jobs each and every day.",
+      "text_blocks": [],
+      "start_seconds": 253,
+      "end_seconds": 291,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Zach LaVine on the criticism surrounding the team's 1-13 record: There is not a lot of positive things to say. Call a spade a spade. It is our job to try to go out here and do our jobs each and every day.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Zach LaVine comments on the team's 1-13 record and how the players handle negative outside criticism.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Doug Christie",
+      "timestamp": "06:51",
+      "summary_phrase": "Doug Christie on the team's lack of sustainable execution",
+      "names_mentioned": [],
+      "excerpt": "how can we put together 48 minutes of sustainable basketball that allows us to to compete",
+      "quote": "I think there's a level of frustration obviously because we all want to win. I think when talking to a couple of the guys, coaches and players, part of it is the sustainability of what we do. We show it that okay, we can compete, here we are, and then all of a sudden, whether it's zero pass shots, the pace of execution, all those little tiny things, they just rear their head. And that is that you got to look in the mirror and you got to say to yourself, how can we put together 48 minutes of sustainable basketball that allows us to to compete.",
+      "text_blocks": [],
+      "start_seconds": 411,
+      "end_seconds": 452,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Doug Christie on the team's lack of sustainable execution: You have to look in the mirror and you have to say to yourself, how can we put together 48 minutes of sustainable basketball that allows us to compete.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie explains the team's difficulty in maintaining sustainable execution throughout a full 48-minute game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "uZwa7gjaglI",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Doug Christie",
+      "timestamp": "08:10",
+      "summary_phrase": "Doug Christie on the mental fortitude required to break through",
+      "names_mentioned": [],
+      "excerpt": "that's why you have to break through and that's what I told them the mental fortitude",
+      "quote": "That's why you have to break through and that's what I told them the mental fortitude and the discipline that it takes to break through because you're right, when that happens all of a sudden you think like, oh, here we go again. You can't do that. You just you can't. That's that's going to be part of the game. That's going to happen from time to time, but you just go back and you execute because the our execution has to be at a higher level.",
+      "text_blocks": [],
+      "start_seconds": 490,
+      "end_seconds": 523,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie on the mental hurdle of losing: When that happens all of a sudden you think like, oh, here we go again. You cannot do that. That is going to be part of the game, but you just go back and you execute.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie discusses the mental fortitude and discipline required for the team to overcome game-time adversity.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "uZwa7gjaglI",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Doug Christie",
+      "timestamp": "09:20",
+      "summary_phrase": "Doug Christie on the discipline required to execute consistently",
+      "names_mentioned": [],
+      "excerpt": "That's the discipline. The discipline is, oh, we were spraying the basketball, oh, we were executing splits, got a back",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "That's an easy one, but how did you get there before that?"
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "That's the discipline. The discipline is, oh, we were spraying the basketball, oh, we were executing splits, got a back door, we were pushing the tempo. Obviously, you got to get stops and get out and push the basketball, but how you got to that, too many times, it's so easy for us to go away from how we got there. How we got there is what's going to keep us there and ultimately go over it. And to be quite frank with you, sometimes that's boring. It's just you got to do it again, groundhog day over and over and over and over."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Doug Christie"
+      ],
+      "reporter_split": true,
+      "start_seconds": 560,
+      "end_seconds": 605,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Doug Christie on the monotony of NBA discipline: How we got there is what is going to keep us there. To be quite frank with you, sometimes that is boring. It is just you have to do it again, groundhog day over and over.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie emphasizes that consistent execution requires repetitive discipline, even when the process feels monotonous.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Doug Christie",
+      "timestamp": "13:32",
+      "summary_phrase": "Doug Christie on the team's resilience and future outlook",
+      "names_mentioned": [],
+      "excerpt": "tough times don't last, tough people do. And this is a tough community",
+      "quote": "I know that these fans love our team and our organization more than anything. Tough times don't last, tough people do. And this is a tough community and know that we are going to do everything that we can to make sure that when we work through this, because there's another side to this and when we get to the other side of this, they they will be happy. But going through it is difficult. I mean it's it's difficult for me, it's difficult for our guys, it's difficult for our coaches.",
+      "text_blocks": [],
+      "start_seconds": 812,
+      "end_seconds": 847,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Doug Christie on the team's current struggles: Tough times do not last, tough people do. This is a tough community and know that we are going to do everything that we can to make sure that when we work through this, there is another side to this.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie shares a message of resilience for the fans while acknowledging the difficulty of the current losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "uZwa7gjaglI",
+        "rank": 5
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "SJhOX9Ucdv0",
+  "url": "https://www.youtube.com/watch?v=SJhOX9Ucdv0",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-19T08:15:07Z",
+  "duration_seconds": 1025,
+  "processed_at": "2026-11-19T08:47:40Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
