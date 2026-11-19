@@ -1,0 +1,205 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons at Pelicans  l 11.18.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:08",
+      "summary_phrase": "J.B. Bickerstaff on the Pistons' team-first offensive philosophy",
+      "names_mentioned": [],
+      "excerpt": "they all play the same way and they all want to share the game",
+      "quote": "That's the blessing of this group. One guy goes down or eight guys go down, however many guys we got out right now, they all play the same way and they all want to share the game. When you play that way, everybody can get involved. That was the point of emphasis going in, just making sure that we're sharing the ball, sharing the game, and everybody gets to eat.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff on the Pistons offensive philosophy: The blessing of this group is that they all play the same way and they all want to share the game. Everybody gets to eat.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Head coach J.B. Bickerstaff discusses the team's offensive philosophy regarding ball movement and sharing the ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:40",
+      "summary_phrase": "J.B. Bickerstaff praises Alperen Sengun's defensive intensity and intangibles",
+      "names_mentioned": [
+        "Alperen Sengun"
+      ],
+      "excerpt": "he's got so many intangibles that it's hard to keep him off the floor",
+      "quote": "I think the defensive intensity that Alperen Sengun brought, he set the tone for us on that end of the floor. The contribution that he makes all over the floor, just what he does to impact winning, the spirit that he plays with, his ability to make shots. I've said it before, he's got so many intangibles that it's hard to keep him off the floor, and he did it again tonight.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "JB Bickerstaff on Alperen Sengun: He has so many intangibles that it is hard to keep him off the floor. He set the tone for us on the defensive end tonight.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alperen Sengun"
+        ],
+        "teams": [
+          "DET",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff praises Alperen Sengun for his defensive intensity and overall impact on the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:14",
+      "summary_phrase": "J.B. Bickerstaff evaluates Danny Jenkins' growth and development",
+      "names_mentioned": [
+        "Danny Jenkins"
+      ],
+      "excerpt": "resolve, stick-to-itiveness, work ethic, competitive, selfless, willing to do whatever it takes for the team to win",
+      "quote": "Resolve, stick-to-itiveness, work ethic, competitive, selfless, willing to do whatever it takes for the team to win. Defensively he's dogged, he's rugged, loves the competition of it on that end of the floor, and takes all of it personal.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff on Danny Jenkins: He is dogged and rugged on the defensive end and takes all of it personal.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Danny Jenkins"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff evaluates the growth and competitive nature of Danny Jenkins.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:39",
+      "summary_phrase": "J.B. Bickerstaff on the team's ability to integrate new players",
+      "names_mentioned": [
+        "Elijah Harper",
+        "Chet"
+      ],
+      "excerpt": "when they step on the floor, they understand the brand of basketball that we play",
+      "quote": "Just their ability to fit in. A lot of times when guys get an opportunity, they feel like they have to do something more, but our guys aren't that way. When they step on the floor, they understand the brand of basketball that we play, and they just go out and do that. There's benefits in that, guys that are willing to sacrifice for the team, and that's the most important thing for us.",
+      "text_blocks": [],
+      "start_seconds": 99,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff on integrating new players: A lot of times guys feel like they have to do something more when they get an opportunity but our guys understand the brand of basketball we play.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains how the team integrates new players into their established brand of basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:03",
+      "summary_phrase": "J.B. Bickerstaff on Isaiah Joe's performance and development",
+      "names_mentioned": [
+        "Isaiah Joe"
+      ],
+      "excerpt": "it's hard playing just those spot minutes, sometimes to catch a rhythm",
+      "quote": "I thought it was good. It's hard, I know it's hard playing just those spot minutes, sometimes to catch a rhythm, but you see the impact that he can have on the floor, the different things that he can do. The shot making obviously, but he can playmake as well and competes on the defensive end. It was good to see him back, we'll continue to bump his minutes up as he progresses and help him catch a rhythm a little bit.",
+      "text_blocks": [],
+      "start_seconds": 123,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff on Isaiah Joe: It is hard playing spot minutes to catch a rhythm but we will continue to bump his minutes up as he progresses.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Isaiah Joe"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses Isaiah Joe's performance and the plan to increase his playing time as he progresses.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:31",
+      "summary_phrase": "J.B. Bickerstaff on the importance of ball movement and spacing",
+      "names_mentioned": [],
+      "excerpt": "it's so hard for defenses to guard that motion and that ball movement",
+      "quote": "It's what we want to do every night. We want to share the ball. It's so hard for defenses to guard that motion and that ball movement. Most defenses are good on the first side, you get to the second side it opens up, you get to the third side you're going to get whatever you want. That's what we're trying to put the stress on defenses, is to have to move, have to guard multiple situations, where it gives them opportunities for us for them to make mistakes, and then we try to make them pay.",
+      "text_blocks": [],
+      "start_seconds": 151,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff on offensive spacing: We want to share the ball. It is so hard for defenses to guard that motion and that ball movement.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains the strategic importance of ball movement and spacing in stressing opposing defenses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "1w10AaV0R-I",
+  "url": "https://www.youtube.com/watch?v=1w10AaV0R-I",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-19T13:38:51Z",
+  "duration_seconds": 185,
+  "processed_at": "2026-11-19T18:23:26Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

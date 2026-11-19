@@ -1,0 +1,111 @@
+{
+  "video_title": "Pregame fits with Andy & Shak 📸",
+  "speakers_seen": [
+    "Andy",
+    "Shak"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Shak",
+      "speakers": [
+        "Shak",
+        "Andy"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Allen Iverson's lasting influence on NBA fashion and dress codes",
+      "names_mentioned": [
+        "Allen Iverson"
+      ],
+      "excerpt": "Allen Iverson really changed the game when it comes to the NBA dress codes",
+      "text_blocks": [
+        {
+          "speaker": "Shak",
+          "text": "Allen Iverson really changed the game when it comes to the NBA dress codes. He really set the tone when it came to pregame fits, and he basically walked so these guys could run. Honestly, AI is a trendsetter."
+        },
+        {
+          "speaker": "Andy",
+          "text": "The biggest thing about AI, those times, I remember them vividly. The NBA was moving like African parents, no tattoos, no saggy pants, no cornrows. But now we see it, the guys really get a chance to express themselves. The way that you are dressed is a true reflection of who you are as an individual."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Allen Iverson really changed the game when it comes to NBA dress codes. He set the tone for pregame fits and walked so these guys could run. AI is a true trendsetter.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Allen Iverson"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Shak discusses the historical impact of Allen Iverson on NBA fashion and league dress codes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shak",
+      "speakers": [
+        "Shak",
+        "Andy",
+        "Shak"
+      ],
+      "timestamp": "00:55",
+      "summary_phrase": "The functional evolution of modern NBA pregame tunnel fashion",
+      "names_mentioned": [],
+      "excerpt": "These fits are loose. They allow guys to perform.",
+      "text_blocks": [
+        {
+          "speaker": "Shak",
+          "text": "These fits for me, what they are giving me is that they are loose. They allow guys to perform. It is all about having the ability for the blood to circulate throughout your body so that you guys can hit the floor running and put up those shots."
+        },
+        {
+          "speaker": "Andy",
+          "text": "These fits, they say early bedtime to me. They say I am rested. I put this out on the bed the night before."
+        },
+        {
+          "speaker": "Shak",
+          "text": "For me, it just looks comfortable. Guys are not really pushing it, but I like that because again, we are here to handle business on the court, not on the runway."
+        }
+      ],
+      "start_seconds": 55,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 2,
+      "social_post": "Modern pregame fits are all about comfort and circulation. We are here to handle business on the court, not on the runway.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Shak shares his perspective on the evolution and functionality of modern NBA pregame fashion.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "rPfMCnVi0zo",
+  "url": "https://www.youtube.com/watch?v=rPfMCnVi0zo",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-19T17:24:58Z",
+  "duration_seconds": 86,
+  "processed_at": "2026-11-19T18:23:22Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-19
 
+[Podcasts & shows](podcasts.md)
+
 # Best of the best
 
 **1. Coach Nurse — "Tyrese poured a little soreness in his foot and he went through walk-through" — Coach Nurse explains decision to hold out injured players** [05:58](https://www.youtube.com/watch?v=Ktnw7g85zAw&t=358s)
@@ -228,13 +230,25 @@ From: ["continue to stick to our identity" \| Josh Green locker room media avail
 
 <small>[Clip it](presserclips://clip?v=wCubmWw25tM&t=75&q=4) · [Send to Slack](presserclips://clip?v=wCubmWw25tM&t=75&q=4&slack=1)</small>
 
-**25. Chris Cenac Jr. — "Joe just said I got Jamal and I stepped up and just did my best." — Chris Cenac Jr. on Joe Mazzulla's defensive instructions** [01:40](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=100s)
+**25. T.J. McConnell — "We've kind of just got punched in the mouth and we've waited for that to happen." — T.J. McConnell on the team's struggle with adversity** [07:31](https://www.youtube.com/watch?v=zsTXehmwp80&t=451s)
 
-Chris Cenac Jr.: "Joe just said I got Jamal and I stepped up and just did my best and guarded."
+T.J. McConnell: "We've kind of just got punched in the mouth and we've waited for that to happen and then that's when we kind of react and we just have to be better. But in times like this, can't go our separate ways, which we haven't, and we have to be better, but at the same time, each and every one of us have to look ourselves in the mirror too."
 
-[https://www.youtube.com/watch?v=e-Xp13kEiFU&t=100s](https://www.youtube.com/watch?v=e-Xp13kEiFU&t=100s)
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=451s](https://www.youtube.com/watch?v=zsTXehmwp80&t=451s)
 
-From: [Chris Cenac Jr. REACTS to Entering Celtics Rotation \| Celtics vs Nuggets Postgame](https://www.youtube.com/watch?v=e-Xp13kEiFU) · *Boston Celtics*
+From: [Rick Carlisle, T.J. McConnell & Kelly Oubre Jr. Postgame Media Availability \| November 15, 2026](https://www.youtube.com/watch?v=zsTXehmwp80) · *Indiana Pacers*
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=451&q=7) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=451&q=7&slack=1)</small>
+
+**26. Kelly Oubre Jr. — "I think that we're thinking too much. We don't want our man to score." — Kelly Oubre Jr. on the team's mental focus issues** [12:43](https://www.youtube.com/watch?v=zsTXehmwp80&t=763s)
+
+Kelly Oubre Jr.: "I think it's a mental focus issue. I think that we're thinking too much. We don't want our man to score and then you're not helping your brother out when he's helping somebody else out, right? So it's a connective issue that we have to fix and we have to fix it fast."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=763s](https://www.youtube.com/watch?v=zsTXehmwp80&t=763s)
+
+From: [Rick Carlisle, T.J. McConnell & Kelly Oubre Jr. Postgame Media Availability \| November 15, 2026](https://www.youtube.com/watch?v=zsTXehmwp80) · *Indiana Pacers*
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=763&q=10) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=763&q=10&slack=1)</small>
 
 ---
 
@@ -413,6 +427,62 @@ P.J. Washington: "It's a long season, obviously as a rookie it's tough. Some pos
 P.J. Washington: "Just start the games better, start some higher intensity, our ball pressure and it leads to good things for us. I feel like as a team when we're doing that, it's hard for a team to score and it's hard for a team to beat us."
 
 [https://www.youtube.com/watch?v=1ASrj4j87pw&t=296s](https://www.youtube.com/watch?v=1ASrj4j87pw&t=296s)
+
+---
+
+## Post Game Press Conference l J.B. Bickerstaff l Pistons at Pelicans  l 11.18.26 #NBA — *Detroit Pistons*
+
+Source: [https://www.youtube.com/watch?v=1w10AaV0R-I](https://www.youtube.com/watch?v=1w10AaV0R-I)
+
+_Speakers identified: J.B. Bickerstaff_
+
+**1. J.B. Bickerstaff — "they all play the same way and they all want to share the game" — J.B. Bickerstaff on the Pistons' team-first offensive philosophy** [00:08](https://www.youtube.com/watch?v=1w10AaV0R-I&t=8s)
+
+J.B. Bickerstaff: "That's the blessing of this group. One guy goes down or eight guys go down, however many guys we got out right now, they all play the same way and they all want to share the game. When you play that way, everybody can get involved. That was the point of emphasis going in, just making sure that we're sharing the ball, sharing the game, and everybody gets to eat."
+
+[https://www.youtube.com/watch?v=1w10AaV0R-I&t=8s](https://www.youtube.com/watch?v=1w10AaV0R-I&t=8s)
+
+<small>[Clip it](presserclips://clip?v=1w10AaV0R-I&t=8&q=1) · [Send to Slack](presserclips://clip?v=1w10AaV0R-I&t=8&q=1&slack=1)</small>
+
+**2. J.B. Bickerstaff — "he's got so many intangibles that it's hard to keep him off the floor" — J.B. Bickerstaff praises Alperen Sengun's defensive intensity and intangibles** [00:40](https://www.youtube.com/watch?v=1w10AaV0R-I&t=40s)
+
+J.B. Bickerstaff: "I think the defensive intensity that **Alperen Sengun** brought, he set the tone for us on that end of the floor. The contribution that he makes all over the floor, just what he does to impact winning, the spirit that he plays with, his ability to make shots. I've said it before, he's got so many intangibles that it's hard to keep him off the floor, and he did it again tonight."
+
+[https://www.youtube.com/watch?v=1w10AaV0R-I&t=40s](https://www.youtube.com/watch?v=1w10AaV0R-I&t=40s)
+
+<small>[Clip it](presserclips://clip?v=1w10AaV0R-I&t=40&q=2) · [Send to Slack](presserclips://clip?v=1w10AaV0R-I&t=40&q=2&slack=1)</small>
+
+**3. J.B. Bickerstaff — "resolve, stick-to-itiveness, work ethic, competitive, selfless, willing to do whatever it takes for the team to win" — J.B. Bickerstaff evaluates Danny Jenkins' growth and development** [01:14](https://www.youtube.com/watch?v=1w10AaV0R-I&t=74s)
+
+J.B. Bickerstaff: "Resolve, stick-to-itiveness, work ethic, competitive, selfless, willing to do whatever it takes for the team to win. Defensively he's dogged, he's rugged, loves the competition of it on that end of the floor, and takes all of it personal."
+
+[https://www.youtube.com/watch?v=1w10AaV0R-I&t=74s](https://www.youtube.com/watch?v=1w10AaV0R-I&t=74s)
+
+<small>[Clip it](presserclips://clip?v=1w10AaV0R-I&t=74&q=3) · [Send to Slack](presserclips://clip?v=1w10AaV0R-I&t=74&q=3&slack=1)</small>
+
+**4. J.B. Bickerstaff — "when they step on the floor, they understand the brand of basketball that we play" — J.B. Bickerstaff on the team's ability to integrate new players** [01:39](https://www.youtube.com/watch?v=1w10AaV0R-I&t=99s)
+
+J.B. Bickerstaff: "Just their ability to fit in. A lot of times when guys get an opportunity, they feel like they have to do something more, but our guys aren't that way. When they step on the floor, they understand the brand of basketball that we play, and they just go out and do that. There's benefits in that, guys that are willing to sacrifice for the team, and that's the most important thing for us."
+
+[https://www.youtube.com/watch?v=1w10AaV0R-I&t=99s](https://www.youtube.com/watch?v=1w10AaV0R-I&t=99s)
+
+<small>[Clip it](presserclips://clip?v=1w10AaV0R-I&t=99&q=4) · [Send to Slack](presserclips://clip?v=1w10AaV0R-I&t=99&q=4&slack=1)</small>
+
+**5. J.B. Bickerstaff — "it's hard playing just those spot minutes, sometimes to catch a rhythm" — J.B. Bickerstaff on Isaiah Joe's performance and development** [02:03](https://www.youtube.com/watch?v=1w10AaV0R-I&t=123s)
+
+J.B. Bickerstaff: "I thought it was good. It's hard, I know it's hard playing just those spot minutes, sometimes to catch a rhythm, but you see the impact that he can have on the floor, the different things that he can do. The shot making obviously, but he can playmake as well and competes on the defensive end. It was good to see him back, we'll continue to bump his minutes up as he progresses and help him catch a rhythm a little bit."
+
+[https://www.youtube.com/watch?v=1w10AaV0R-I&t=123s](https://www.youtube.com/watch?v=1w10AaV0R-I&t=123s)
+
+<small>[Clip it](presserclips://clip?v=1w10AaV0R-I&t=123&q=5) · [Send to Slack](presserclips://clip?v=1w10AaV0R-I&t=123&q=5&slack=1)</small>
+
+**6. J.B. Bickerstaff — "it's so hard for defenses to guard that motion and that ball movement" — J.B. Bickerstaff on the importance of ball movement and spacing** [02:31](https://www.youtube.com/watch?v=1w10AaV0R-I&t=151s)
+
+J.B. Bickerstaff: "It's what we want to do every night. We want to share the ball. It's so hard for defenses to guard that motion and that ball movement. Most defenses are good on the first side, you get to the second side it opens up, you get to the third side you're going to get whatever you want. That's what we're trying to put the stress on defenses, is to have to move, have to guard multiple situations, where it gives them opportunities for us for them to make mistakes, and then we try to make them pay."
+
+[https://www.youtube.com/watch?v=1w10AaV0R-I&t=151s](https://www.youtube.com/watch?v=1w10AaV0R-I&t=151s)
+
+<small>[Clip it](presserclips://clip?v=1w10AaV0R-I&t=151&q=6) · [Send to Slack](presserclips://clip?v=1w10AaV0R-I&t=151&q=6&slack=1)</small>
 
 ---
 
@@ -1908,6 +1978,36 @@ Doug Christie: "Throw that out the window and just be aggressive. That's what ru
 
 ---
 
+## Pregame fits with Andy & Shak 📸 — *Toronto Raptors*
+
+Source: [https://www.youtube.com/watch?v=rPfMCnVi0zo](https://www.youtube.com/watch?v=rPfMCnVi0zo)
+
+_Speakers identified: Andy, Shak_
+
+**1. Shak — "Allen Iverson really changed the game when it comes to the NBA dress codes" — Allen Iverson's lasting influence on NBA fashion and dress codes** [00:00](https://www.youtube.com/watch?v=rPfMCnVi0zo&t=0s)
+
+**Shak:** "**Allen Iverson** really changed the game when it comes to the NBA dress codes. He really set the tone when it came to pregame fits, and he basically walked so these guys could run. Honestly, AI is a trendsetter."
+
+**Andy:** "The biggest thing about AI, those times, I remember them vividly. The NBA was moving like African parents, no tattoos, no saggy pants, no cornrows. But now we see it, the guys really get a chance to express themselves. The way that you are dressed is a true reflection of who you are as an individual."
+
+[https://www.youtube.com/watch?v=rPfMCnVi0zo&t=0s](https://www.youtube.com/watch?v=rPfMCnVi0zo&t=0s)
+
+<small>[Clip it](presserclips://clip?v=rPfMCnVi0zo&t=0&q=1) · [Send to Slack](presserclips://clip?v=rPfMCnVi0zo&t=0&q=1&slack=1)</small>
+
+**2. Shak — "These fits are loose. They allow guys to perform." — The functional evolution of modern NBA pregame tunnel fashion** [00:55](https://www.youtube.com/watch?v=rPfMCnVi0zo&t=55s)
+
+**Shak:** "These fits for me, what they are giving me is that they are loose. They allow guys to perform. It is all about having the ability for the blood to circulate throughout your body so that you guys can hit the floor running and put up those shots."
+
+**Andy:** "These fits, they say early bedtime to me. They say I am rested. I put this out on the bed the night before."
+
+**Shak:** "For me, it just looks comfortable. Guys are not really pushing it, but I like that because again, we are here to handle business on the court, not on the runway."
+
+[https://www.youtube.com/watch?v=rPfMCnVi0zo&t=55s](https://www.youtube.com/watch?v=rPfMCnVi0zo&t=55s)
+
+<small>[Clip it](presserclips://clip?v=rPfMCnVi0zo&t=55&q=2) · [Send to Slack](presserclips://clip?v=rPfMCnVi0zo&t=55&q=2&slack=1)</small>
+
+---
+
 ## Joe Mazzulla on Tatum's Tech: We Can't Put Ourselves in That Position | Celtics vs Nuggets Postgame — *Boston Celtics*
 
 Source: [https://www.youtube.com/watch?v=ryUCXicME0c](https://www.youtube.com/watch?v=ryUCXicME0c)
@@ -2331,3 +2431,99 @@ Quentin Grimes: "We let a lot of emotion last night in last night's game, coming
 Quentin Grimes: "It's a good problem to have, you know, I mean coach that wants to get you the ball, wants to get you in a rhythm and stay in that rhythm that I've been in. So I feel like it's a good thing, you know, I mean he's really good at what he does. We were rolling right now, so I have no no doubt about that he'll be able to keep me in this rhythm that I'm in right now whether once we all get back healthy for sure."
 
 [https://www.youtube.com/watch?v=y5SzKkkJoNo&t=1172s](https://www.youtube.com/watch?v=y5SzKkkJoNo&t=1172s)
+
+---
+
+## Rick Carlisle, T.J. McConnell & Kelly Oubre Jr. Postgame Media Availability | November 15, 2026 — *Indiana Pacers*
+
+Source: [https://www.youtube.com/watch?v=zsTXehmwp80](https://www.youtube.com/watch?v=zsTXehmwp80)
+
+_Speakers identified: Rick Carlisle, T.J. McConnell, Kelly Oubre Jr._
+
+**1. Rick Carlisle — "The reality is we got to compete better together." — Rick Carlisle on the need for better team competition** [00:27](https://www.youtube.com/watch?v=zsTXehmwp80&t=27s)
+
+Rick Carlisle: "There are a lot of reasons you can come up with, a lot of excuses, a lot of this and a lot of that. The reality is we got to compete better together, and I got to do a better job of getting these guys ready."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=27s](https://www.youtube.com/watch?v=zsTXehmwp80&t=27s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=27&q=1) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=27&q=1&slack=1)</small>
+
+**2. Rick Carlisle — "We're making mistakes that are leading to wide open shots." — Rick Carlisle on defensive mistakes leading to open shots** [01:35](https://www.youtube.com/watch?v=zsTXehmwp80&t=95s)
+
+Rick Carlisle: "We're making mistakes that are leading to wide open shots. It's one thing if you're protecting the paint and that's leading to non-paint touch threes. Those are ones that we can live with, we can deal with. The ones where we make mistakes, give up the paint, then give up the three, those are unguardable in many cases and there were too many of those."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=95s](https://www.youtube.com/watch?v=zsTXehmwp80&t=95s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=95&q=2) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=95&q=2&slack=1)</small>
+
+**3. Rick Carlisle — "Durant rose up and and hit some difficult ones right in our face." — Rick Carlisle on Kevin Durant's difficult shot-making** [02:03](https://www.youtube.com/watch?v=zsTXehmwp80&t=123s)
+
+Rick Carlisle: "They've got some great shot making on that team. Durant rose up and and hit some difficult ones right in our face, but that's going to happen. You got to keep playing."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=123s](https://www.youtube.com/watch?v=zsTXehmwp80&t=123s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=123&q=3) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=123&q=3&slack=1)</small>
+
+**4. Rick Carlisle — "He gave us juice, gave us direction, gave us leadership and was aggressive and and feisty." — Rick Carlisle on T.J. McConnell's impact off the bench** [03:25](https://www.youtube.com/watch?v=zsTXehmwp80&t=205s)
+
+Rick Carlisle: "I thought he played well when he came in. He gave us juice, gave us direction, gave us leadership and was aggressive and and feisty. That's what we need."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=205s](https://www.youtube.com/watch?v=zsTXehmwp80&t=205s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=205&q=4) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=205&q=4&slack=1)</small>
+
+**5. Rick Carlisle — "When you start getting into it with officials, generally you're getting into more problems than you need." — Rick Carlisle on the negative impact of arguing with officials** [05:14](https://www.youtube.com/watch?v=zsTXehmwp80&t=314s)
+
+Rick Carlisle: "There were too many technicals. I had two of them. That's not good. It starts with me. You got to understand that when you start getting into it with officials, generally you're getting into more problems than you need. My technicals came because I thought Pascal got hit three or four times and there were no calls, but then there were some calls at their end. That was my beef."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=314s](https://www.youtube.com/watch?v=zsTXehmwp80&t=314s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=314&q=5) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=314&q=5&slack=1)</small>
+
+**6. T.J. McConnell — "I close out to a guy but it needs to be an extra effort." — T.J. McConnell on the team's lack of extra effort** [06:52](https://www.youtube.com/watch?v=zsTXehmwp80&t=412s)
+
+T.J. McConnell: "I just think it's extra effort things. We react to the drive and I'm part of that problem where I close out to a guy but it needs to be an extra effort and we'll get that fixed."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=412s](https://www.youtube.com/watch?v=zsTXehmwp80&t=412s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=412&q=6) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=412&q=6&slack=1)</small>
+
+**7. T.J. McConnell — "We've kind of just got punched in the mouth and we've waited for that to happen." — T.J. McConnell on the team's struggle with adversity** [07:31](https://www.youtube.com/watch?v=zsTXehmwp80&t=451s)
+
+T.J. McConnell: "We've kind of just got punched in the mouth and we've waited for that to happen and then that's when we kind of react and we just have to be better. But in times like this, can't go our separate ways, which we haven't, and we have to be better, but at the same time, each and every one of us have to look ourselves in the mirror too."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=451s](https://www.youtube.com/watch?v=zsTXehmwp80&t=451s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=451&q=7) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=451&q=7&slack=1)</small>
+
+**8. T.J. McConnell — "Someone that is obviously one of the great players this league has ever seen." — T.J. McConnell on his relationship with Kevin Durant** [08:37](https://www.youtube.com/watch?v=zsTXehmwp80&t=517s)
+
+T.J. McConnell: "It was just banter from playing against one another since I've been in the league. Someone that is obviously one of the great players this league has ever seen, so kind of just genuine respect for one another."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=517s](https://www.youtube.com/watch?v=zsTXehmwp80&t=517s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=517&q=8) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=517&q=8&slack=1)</small>
+
+**9. Kelly Oubre Jr. — "When we're facing up opponents like that, we have to be more disciplined, we have to be more together." — Kelly Oubre Jr. on the need for team discipline** [11:18](https://www.youtube.com/watch?v=zsTXehmwp80&t=678s)
+
+Kelly Oubre Jr.: "This is a very strong team that we just played. Some of the tallest and strongest individuals in our league. So when we're facing up opponents like that, we have to be more disciplined, we have to be more together. We have to continue to just hold a tight fort and I think we were a little loose at some points throughout the game."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=678s](https://www.youtube.com/watch?v=zsTXehmwp80&t=678s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=678&q=9) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=678&q=9&slack=1)</small>
+
+**10. Kelly Oubre Jr. — "I think that we're thinking too much. We don't want our man to score." — Kelly Oubre Jr. on the team's mental focus issues** [12:43](https://www.youtube.com/watch?v=zsTXehmwp80&t=763s)
+
+Kelly Oubre Jr.: "I think it's a mental focus issue. I think that we're thinking too much. We don't want our man to score and then you're not helping your brother out when he's helping somebody else out, right? So it's a connective issue that we have to fix and we have to fix it fast."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=763s](https://www.youtube.com/watch?v=zsTXehmwp80&t=763s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=763&q=10) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=763&q=10&slack=1)</small>
+
+**11. Kelly Oubre Jr. — "I don't think he's scared of anything. He is someone who has that will, that fight, that hunger." — Kelly Oubre Jr. on the rookie's fearless play** [13:12](https://www.youtube.com/watch?v=zsTXehmwp80&t=792s)
+
+Kelly Oubre Jr.: "I don't think he's scared of anything. He is someone who has that will, that fight, that hunger. To be his size also and to accomplish what he has in college and then to make it to the pros and be able to stand his ground, it's amazing. But that goes internal. That's nothing that we taught, nothing that he's learned from being in the NBA, that's just what's in him."
+
+[https://www.youtube.com/watch?v=zsTXehmwp80&t=792s](https://www.youtube.com/watch?v=zsTXehmwp80&t=792s)
+
+<small>[Clip it](presserclips://clip?v=zsTXehmwp80&t=792&q=11) · [Send to Slack](presserclips://clip?v=zsTXehmwp80&t=792&q=11&slack=1)</small>

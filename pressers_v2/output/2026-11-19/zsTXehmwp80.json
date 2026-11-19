@@ -1,0 +1,353 @@
+{
+  "video_title": "Rick Carlisle, T.J. McConnell & Kelly Oubre Jr. Postgame Media Availability | November 15, 2026",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "T.J. McConnell",
+    "Kelly Oubre Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:27",
+      "summary_phrase": "Rick Carlisle on the need for better team competition",
+      "names_mentioned": [],
+      "excerpt": "The reality is we got to compete better together.",
+      "quote": "There are a lot of reasons you can come up with, a lot of excuses, a lot of this and a lot of that. The reality is we got to compete better together, and I got to do a better job of getting these guys ready.",
+      "verbatim_original_language": "",
+      "start_seconds": 27,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Rick Carlisle says the Pacers need to compete better together and admits he needs to do a better job getting the team ready after a tough loss.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle addresses the media following a loss and emphasizes the need for better collective effort and preparation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:35",
+      "summary_phrase": "Rick Carlisle on defensive mistakes leading to open shots",
+      "names_mentioned": [],
+      "excerpt": "We're making mistakes that are leading to wide open shots.",
+      "quote": "We're making mistakes that are leading to wide open shots. It's one thing if you're protecting the paint and that's leading to non-paint touch threes. Those are ones that we can live with, we can deal with. The ones where we make mistakes, give up the paint, then give up the three, those are unguardable in many cases and there were too many of those.",
+      "verbatim_original_language": "",
+      "start_seconds": 95,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rick Carlisle points to defensive mistakes leading to wide open shots as a major issue for the Pacers right now.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses defensive lapses that resulted in open three-point shots for the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:03",
+      "summary_phrase": "Rick Carlisle on Kevin Durant's difficult shot-making",
+      "names_mentioned": [
+        "Kevin Durant"
+      ],
+      "excerpt": "Durant rose up and and hit some difficult ones right in our face.",
+      "quote": "They've got some great shot making on that team. Durant rose up and and hit some difficult ones right in our face, but that's going to happen. You got to keep playing.",
+      "verbatim_original_language": "",
+      "start_seconds": 123,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Rick Carlisle on Kevin Durant hitting tough shots in the Pacers faces: That is going to happen, you just have to keep playing.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Durant"
+        ],
+        "teams": [
+          "IND",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle comments on Kevin Durant's ability to make difficult shots during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "03:25",
+      "summary_phrase": "Rick Carlisle on T.J. McConnell's impact off the bench",
+      "names_mentioned": [
+        "T.J. McConnell"
+      ],
+      "excerpt": "He gave us juice, gave us direction, gave us leadership and was aggressive and and feisty.",
+      "quote": "I thought he played well when he came in. He gave us juice, gave us direction, gave us leadership and was aggressive and and feisty. That's what we need.",
+      "verbatim_original_language": "",
+      "start_seconds": 205,
+      "end_seconds": 216,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Rick Carlisle praises TJ McConnell for the energy and leadership he provided off the bench tonight.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "T.J. McConnell"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rick Carlisle praises T.J. McConnell for the energy and leadership he provided off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Rick Carlisle",
+      "timestamp": "05:14",
+      "summary_phrase": "Rick Carlisle on the negative impact of arguing with officials",
+      "names_mentioned": [
+        "Pascal Siakam"
+      ],
+      "excerpt": "When you start getting into it with officials, generally you're getting into more problems than you need.",
+      "quote": "There were too many technicals. I had two of them. That's not good. It starts with me. You got to understand that when you start getting into it with officials, generally you're getting into more problems than you need. My technicals came because I thought Pascal got hit three or four times and there were no calls, but then there were some calls at their end. That was my beef.",
+      "verbatim_original_language": "",
+      "start_seconds": 314,
+      "end_seconds": 341,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Rick Carlisle takes accountability for his two technical fouls tonight: It starts with me. You have to understand that when you start getting into it with officials, generally you are getting into more problems than you need.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Pascal Siakam"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle reflects on his technical fouls and the frustration regarding officiating calls involving Pascal Siakam.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "T.J. McConnell",
+      "timestamp": "06:52",
+      "summary_phrase": "T.J. McConnell on the team's lack of extra effort",
+      "names_mentioned": [],
+      "excerpt": "I close out to a guy but it needs to be an extra effort.",
+      "quote": "I just think it's extra effort things. We react to the drive and I'm part of that problem where I close out to a guy but it needs to be an extra effort and we'll get that fixed.",
+      "verbatim_original_language": "",
+      "start_seconds": 412,
+      "end_seconds": 427,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "TJ McConnell admits he is part of the problem regarding the Pacers defensive effort and says the team needs to fix their reaction to drives.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "T.J. McConnell discusses the team's need for better defensive effort and closing out on shooters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "T.J. McConnell",
+      "timestamp": "07:31",
+      "summary_phrase": "T.J. McConnell on the team's struggle with adversity",
+      "names_mentioned": [],
+      "excerpt": "We've kind of just got punched in the mouth and we've waited for that to happen.",
+      "quote": "We've kind of just got punched in the mouth and we've waited for that to happen and then that's when we kind of react and we just have to be better. But in times like this, can't go our separate ways, which we haven't, and we have to be better, but at the same time, each and every one of us have to look ourselves in the mirror too.",
+      "verbatim_original_language": "",
+      "start_seconds": 451,
+      "end_seconds": 478,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "TJ McConnell says the Pacers have been waiting to get punched in the mouth before reacting and that every player needs to look in the mirror.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "T.J. McConnell talks about the team's struggle to handle adversity and the need for individual accountability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "T.J. McConnell",
+      "timestamp": "08:37",
+      "summary_phrase": "T.J. McConnell on his relationship with Kevin Durant",
+      "names_mentioned": [
+        "Kevin Durant"
+      ],
+      "excerpt": "Someone that is obviously one of the great players this league has ever seen.",
+      "quote": "It was just banter from playing against one another since I've been in the league. Someone that is obviously one of the great players this league has ever seen, so kind of just genuine respect for one another.",
+      "verbatim_original_language": "",
+      "start_seconds": 517,
+      "end_seconds": 532,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "TJ McConnell on his banter with Kevin Durant: It was just banter from playing against one another since I have been in the league. Just genuine respect for one another.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevin Durant"
+        ],
+        "teams": [
+          "IND",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "T.J. McConnell describes his interaction with Kevin Durant as respectful banter between long-time opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kelly Oubre Jr.",
+      "timestamp": "11:18",
+      "summary_phrase": "Kelly Oubre Jr. on the need for team discipline",
+      "names_mentioned": [],
+      "excerpt": "When we're facing up opponents like that, we have to be more disciplined, we have to be more together.",
+      "quote": "This is a very strong team that we just played. Some of the tallest and strongest individuals in our league. So when we're facing up opponents like that, we have to be more disciplined, we have to be more together. We have to continue to just hold a tight fort and I think we were a little loose at some points throughout the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 678,
+      "end_seconds": 703,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kelly Oubre Jr says the Pacers were a little loose and need to be more disciplined when facing strong teams.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Kelly Oubre Jr. discusses the need for greater discipline and team cohesion when facing strong opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Kelly Oubre Jr.",
+      "timestamp": "12:43",
+      "summary_phrase": "Kelly Oubre Jr. on the team's mental focus issues",
+      "names_mentioned": [],
+      "excerpt": "I think that we're thinking too much. We don't want our man to score.",
+      "quote": "I think it's a mental focus issue. I think that we're thinking too much. We don't want our man to score and then you're not helping your brother out when he's helping somebody else out, right? So it's a connective issue that we have to fix and we have to fix it fast.",
+      "verbatim_original_language": "",
+      "start_seconds": 763,
+      "end_seconds": 783,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kelly Oubre Jr identifies a mental focus issue for the Pacers: We are thinking too much. It is a connective issue that we have to fix and we have to fix it fast.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Kelly Oubre Jr. identifies mental focus and defensive connectivity as key areas the team must improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Kelly Oubre Jr.",
+      "timestamp": "13:12",
+      "summary_phrase": "Kelly Oubre Jr. on the rookie's fearless play",
+      "names_mentioned": [
+        "Stephen Adams"
+      ],
+      "excerpt": "I don't think he's scared of anything. He is someone who has that will, that fight, that hunger.",
+      "quote": "I don't think he's scared of anything. He is someone who has that will, that fight, that hunger. To be his size also and to accomplish what he has in college and then to make it to the pros and be able to stand his ground, it's amazing. But that goes internal. That's nothing that we taught, nothing that he's learned from being in the NBA, that's just what's in him.",
+      "verbatim_original_language": "",
+      "start_seconds": 792,
+      "end_seconds": 819,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Kelly Oubre Jr on the rookie: I do not think he is scared of anything. He has that will, that fight, that hunger. That is nothing we taught, that is just what is in him.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Kelly Oubre Jr. praises the fearless play and natural competitive drive of a rookie teammate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "zsTXehmwp80",
+  "url": "https://www.youtube.com/watch?v=zsTXehmwp80",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-19T15:49:20Z",
+  "duration_seconds": 850,
+  "processed_at": "2026-11-19T18:23:38Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}
