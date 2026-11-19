@@ -1,0 +1,241 @@
+{
+  "video_title": "Bam Adebayo Talks Miami Heat 6 Wins Straight, Tyler Herro Relationship and Growing Giannis Chemistry",
+  "speakers_seen": [
+    "Bam Adebayo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bam Adebayo",
+      "timestamp": "00:13",
+      "summary_phrase": "Bam Adebayo on building chemistry with Tyler Herro",
+      "names_mentioned": [
+        "Tyler Herro"
+      ],
+      "excerpt": "it takes time. Obviously when we were 0-4, shots weren't falling and you're trying to build the connection.",
+      "quote": "It takes time. Obviously when we were 0-4, shots weren't falling and you're trying to build the connection. And then you get a win and you start figuring out how obviously the connection can get better. From the beginning of the year till now, you see how better it's gotten. For us, it's watching film, seeing how we can really exhaust that two-man game.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Bam Adebayo on the Heat finding their rhythm with Tyler Herro: It takes time. From the beginning of the year till now you see how much better the connection has gotten. We are watching film to really exhaust that two man game.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bam Adebayo discusses the development of his on-court chemistry with Tyler Herro throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Bam Adebayo",
+      "timestamp": "01:38",
+      "summary_phrase": "Bam Adebayo on the team's commitment to winning",
+      "names_mentioned": [],
+      "excerpt": "We want to keep winning. We want to keep this streak going and everybody understands what's at stake.",
+      "quote": "We want to keep winning. We want to keep this streak going and everybody understands what's at stake. We want to keep building this this type of effort, energy every night where you see a certain type of dominance. And that's what we're building towards.",
+      "text_blocks": [],
+      "start_seconds": 98,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bam Adebayo on the Heat winning streak: We want to keep this going and everybody understands what is at stake. We want to keep building this type of effort and energy every night where you see a certain type of dominance.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Bam Adebayo reflects on the team's current winning streak and their collective focus on maintaining high energy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Bam Adebayo",
+      "timestamp": "02:40",
+      "summary_phrase": "Bam Adebayo on moving past emotional moments",
+      "names_mentioned": [],
+      "excerpt": "I'm not one of the people that hold grudges. I give it to God and I move on.",
+      "quote": "I've been moved past that. I'm not one of the people that hold grudges. I give it to God and I move on. That's why I feel like I've been blessed with situations I've been in and to be able to play in this game and be a part of something historic like GTA night. For me, it's not worrying about the negativity, it's worrying about how we can build this basketball team and keep stacking these wins.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Bam Adebayo on moving past negativity: I am not one of the people that hold grudges. I give it to God and I move on. It is not worrying about the negativity, it is worrying about how we can build this basketball team.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Bam Adebayo explains his mindset regarding moving past negative situations and focusing on team success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Bam Adebayo",
+      "timestamp": "03:27",
+      "summary_phrase": "Bam Adebayo on improving the two-man game with Giannis Antetokounmpo",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "Obviously you can figure out how to be aggressive when each other has the ball.",
+      "quote": "Obviously you can figure out how to be aggressive when each other has the ball, figuring out how you can get out of each other's way, but also being a great cutter for one another. I feel like that's the biggest thing that's changed, trying to be cutters for one another when the other one has the ball.",
+      "text_blocks": [],
+      "start_seconds": 207,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Bam Adebayo on his chemistry with Giannis: The biggest thing that has changed is trying to be cutters for one another. We are figuring out how to be aggressive when each other has the ball and how to get out of each other's way.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bam Adebayo discusses the tactical adjustments made to improve the two-man game with Giannis Antetokounmpo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Bam Adebayo",
+      "timestamp": "04:27",
+      "summary_phrase": "Bam Adebayo on Giannis Antetokounmpo's trust in teammates",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "To me, it just shows how easy we can make the game for him.",
+      "quote": "To me, it just shows how easy we can make the game for him, where he doesn't have to feel like he's a one-man army and has to will it. You get him in different spots where teams can't just build a wall. Sometimes he's ducking in on the post, sometimes it's in transition, and every once in a while he'll be at the top of the key where he can get full head of steam. It's mixing up his shot diet so he can be more comfortable in that way.",
+      "text_blocks": [],
+      "start_seconds": 267,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Bam Adebayo on Giannis Antetokounmpo: We want to make the game easy for him so he does not feel like he is a one man army. We are mixing up his shot diet so he can be more comfortable and teams cannot just build a wall.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bam Adebayo explains how the team is working to support Giannis Antetokounmpo to ensure he does not have to carry the load alone.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Bam Adebayo",
+      "timestamp": "05:25",
+      "summary_phrase": "Bam Adebayo on being featured on the NBA 2K cover",
+      "names_mentioned": [
+        "Kobe Bryant"
+      ],
+      "excerpt": "I grew up playing that game. I grew up seeing my idol Kobe being on the cover.",
+      "quote": "Still haven't really grasped it to be honest, because I grew up playing that game. I grew up seeing my idol Kobe being on the cover. As a kid growing up, you always picture yourself being on the cover of 2K. And to have that moment to be a part of it, obviously it's surreal. I'm truly blessed and I'm truly excited to be a part of a game like that and be the cover for real.",
+      "text_blocks": [],
+      "start_seconds": 325,
+      "end_seconds": 355,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 8,
+      "social_post": "Bam Adebayo on being the NBA 2K cover athlete: I grew up playing that game and seeing my idol Kobe on the cover. As a kid you always picture yourself there. To have that moment is surreal. I am truly blessed.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Bam Adebayo shares his reaction to being featured on the cover of the NBA 2K video game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Bam Adebayo",
+      "timestamp": "06:14",
+      "summary_phrase": "Bam Adebayo on his defensive communication role",
+      "names_mentioned": [],
+      "excerpt": "I think the coach trusts me enough to when I make different calls, he trusts me.",
+      "quote": "I've been quarterbacking defense a long time. I think the coach trusts me enough to when I make different calls, he trusts me. And all of that's built on trust honestly. My teammates know I'm always communicating, being extra vocal on the defensive end so we know we're in our right spots.",
+      "text_blocks": [],
+      "start_seconds": 374,
+      "end_seconds": 394,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bam Adebayo on his role as the defensive anchor: I have been quarterbacking the defense a long time. The coach trusts me enough when I make different calls. It is all built on trust and being vocal so we are in our right spots.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Bam Adebayo describes his role as the defensive leader and the trust established with his coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "Ea-GfFFEXpo",
+  "url": "https://www.youtube.com/watch?v=Ea-GfFFEXpo",
+  "channel_team": "Miami Heat",
+  "published": "2026-11-19T04:14:27Z",
+  "duration_seconds": 425,
+  "processed_at": "2026-11-19T04:27:42Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

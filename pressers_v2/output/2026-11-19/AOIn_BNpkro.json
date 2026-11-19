@@ -1,0 +1,145 @@
+{
+  "video_title": "Hawks vs. Thunder Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:11",
+      "summary_phrase": "Quin Snyder on the fundamentals required for the Hawks to succeed",
+      "names_mentioned": [],
+      "excerpt": "We need to run, we need to pass the ball, change sides, break the paint, and play defense.",
+      "quote": "We played the way that we need to play to be a good team. There's some simplicity to it. We need to run, we need to pass the ball, change sides, break the paint, and play defense. We do those things, we'll be competitive.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Quin Snyder on the Hawks identity: We need to run, pass the ball, change sides, break the paint, and play defense. If we do those things, we will be competitive.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Head coach Quin Snyder discusses the fundamental team play required for the Hawks to be competitive.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:46",
+      "summary_phrase": "Quin Snyder on Dyson Daniels' impact beyond the box score",
+      "names_mentioned": [
+        "Dyson Daniels"
+      ],
+      "excerpt": "The box score, the way it is right now, it never reflects what Dyson does.",
+      "quote": "The box score, the way it is right now, it never reflects what Dyson does. You can't, because of all the little things that he does to help his team win. His ability to defend and push the ball and make plays, he's unselfish offensively and we don't take him for granted.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Quin Snyder says Dyson Daniels impact goes beyond the box score: You cannot reflect what he does because of all the little things he does to help his team win. We do not take him for granted.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dyson Daniels"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quin Snyder praises Dyson Daniels for his defensive contributions and unselfish play that do not always show up in the box score.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:35",
+      "summary_phrase": "Quin Snyder on the readiness and development of Hawks role players",
+      "names_mentioned": [
+        "Corey"
+      ],
+      "excerpt": "They've just stayed ready. I think Corey as much as anyone, and he blocked a shot tonight.",
+      "quote": "They've just stayed ready. I think Corey as much as anyone, and he blocked a shot tonight. It's, you wish you could play more people, and so guys that don't get as many minutes, when they get a chance to play, they're throwing themselves into it and it's because they've stayed locked in mentally.",
+      "text_blocks": [],
+      "start_seconds": 95,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Quin Snyder praises his bench players for staying ready: When guys that do not get as many minutes get a chance to play, they are throwing themselves into it because they have stayed locked in mentally.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Corey"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quin Snyder discusses how reserve players like Corey have remained mentally prepared to contribute when given playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:32",
+      "summary_phrase": "Quin Snyder on the composure of his players during high-stakes moments",
+      "names_mentioned": [],
+      "excerpt": "It would have been easy to be nervous or force yourself on the game or so much emotion.",
+      "quote": "It would have been easy to be nervous or force yourself on the game or so much emotion involved, and they were both really focused and made plays on both ends of the floor. Big plays, so happy for them and our whole group.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 169,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Quin Snyder on his players composure in high stakes moments: It would have been easy to be nervous or force yourself on the game, but they were both really focused and made plays on both ends of the floor.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder comments on the focus and composure his players maintained during high-stakes moments in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "AOIn_BNpkro",
+  "url": "https://www.youtube.com/watch?v=AOIn_BNpkro",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-19T04:08:13Z",
+  "duration_seconds": 182,
+  "processed_at": "2026-11-19T04:27:59Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

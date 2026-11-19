@@ -1,0 +1,210 @@
+{
+  "video_title": "Darko Rajakovic | Post Game vs Washington Wizards | November 18, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:08",
+      "summary_phrase": "Darko Rajakovic on team's resilience amid injury-riddled season",
+      "names_mentioned": [],
+      "excerpt": "guys are doing their best and giving all they got over there for 48 minutes",
+      "quote": "In mind of what we're going through with the number of injuries and everything, obviously it's very, very hard and guys are doing their best and giving all they got over there for 48 minutes to try to help the team to try to win a game. Obviously, it's not something that outcome of those games is not something that we can be happy with and satisfied with, but it's also seeing the bigger picture and I thought today that we did a really good job of improving a lot of things.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says the Raptors are doing their best to stay resilient despite the high number of injuries this season, noting that the team is focused on seeing the bigger picture while trying to improve.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic discusses the team's resilience and effort while dealing with a high number of injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:03",
+      "summary_phrase": "Rajakovic explains final possession strategy and missed shot",
+      "names_mentioned": [
+        "Trae Young",
+        "Jameson Battle"
+      ],
+      "excerpt": "Jameson Battle got a three-point shot that would take us to overtime. The ball did not go through.",
+      "quote": "We tried over there because they still had Trae Young on the court just to run right away and try to create that advantage over there. Jameson Battle got a three-point shot that would take us to overtime. The ball did not go through. If he makes that shot, we're seeing a different story.",
+      "verbatim_original_language": "",
+      "start_seconds": 63,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the final possession against the Wizards: We tried to run right away to create an advantage. Jameson Battle got a three point shot that would take us to overtime. If he makes that shot we are seeing a different story.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trae Young",
+          "Jameson Battle"
+        ],
+        "teams": [
+          "TOR",
+          "ATL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic explains the strategy behind the final possession and the missed shot by Jameson Battle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:22",
+      "summary_phrase": "Rajakovic on decision to not burn final timeout",
+      "names_mentioned": [],
+      "excerpt": "I did not want to burn timeout there like we wanted to attack right away",
+      "quote": "We were trying to get the three there for sure. We were down to one timeout. It was 20 seconds when we started the possession, so I did not want to burn timeout there like we wanted to attack right away so we have timeout for the last possession of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 82,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic explains why he held onto his final timeout during the closing seconds: I did not want to burn the timeout there because we wanted to attack right away so we would have it for the last possession of the game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic explains his decision not to use a timeout during the final sequence of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:52",
+      "summary_phrase": "Rajakovic on maintaining team focus and preparation",
+      "names_mentioned": [],
+      "excerpt": "It's controlling what we can control: our preparation, our work, our intentionality, how hard we play",
+      "quote": "It's controlling what we can control: our preparation, our work, our intentionality, how hard we play, how hard we compete. We constantly show the film to the guys, what do we need to do better, how we can stay ready, and just got to build. It's a tough moment for us right now, but I think through these tough moments something really good and something special is going to be born.",
+      "verbatim_original_language": "",
+      "start_seconds": 112,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the team's current struggles: It is a tough moment for us right now, but I think through these tough moments something really good and something special is going to be born.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses how the team is maintaining focus and preparation during a difficult stretch of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:26",
+      "summary_phrase": "Rajakovic addresses team's free throw shooting disparity",
+      "names_mentioned": [],
+      "excerpt": "for me the disparity 27 for them and 14 for us, that was a big disparity",
+      "quote": "Always when it comes to the free throws, obviously you want to make those. For me the disparity 27 for them and 14 for us, that was a big disparity in the game. Obviously, we want to make those shots and it would be much better if we do.",
+      "verbatim_original_language": "",
+      "start_seconds": 146,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic points to the free throw disparity as a major factor in the loss: 27 for them and 14 for us, that was a big disparity in the game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic comments on the free throw disparity between the Raptors and their opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:55",
+      "summary_phrase": "Rajakovic evaluates Allen's performance and impact",
+      "names_mentioned": [
+        "Trae Young",
+        "Anthony Davis"
+      ],
+      "excerpt": "he was matching up several situations with Trae Young. He was matched up with Anthony Davis.",
+      "quote": "I think he did a lot of great stuff. He was finding out a couple of drives to the rim, a couple of cuts. He's constantly active on the glass. He matched up several situations with Trae Young. He was matched up with Anthony Davis. For him, those minutes are super, super valuable and I think he's really trying on the court, giving all his got.",
+      "verbatim_original_language": "",
+      "start_seconds": 175,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic praises the effort of his young players: He was matched up with Trae Young and Anthony Davis. For him, those minutes are super valuable and I think he is really trying on the court, giving all he has got.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trae Young",
+          "Anthony Davis"
+        ],
+        "teams": [
+          "TOR",
+          "ATL",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates the performance and defensive assignments of a player during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "BSqpz3tZeM8",
+  "url": "https://www.youtube.com/watch?v=BSqpz3tZeM8",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-19T04:11:39Z",
+  "duration_seconds": 203,
+  "processed_at": "2026-11-19T04:27:56Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

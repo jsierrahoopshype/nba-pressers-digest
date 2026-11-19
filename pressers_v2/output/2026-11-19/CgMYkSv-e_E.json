@@ -1,0 +1,387 @@
+{
+  "video_title": "Cavs vs Grizzlies | Mario Hezonja & Meleek Thomas Post Game | 11.18.2026",
+  "speakers_seen": [
+    "Mario Hezonja",
+    "Meleek Thomas"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mario Hezonja",
+      "timestamp": "00:08",
+      "summary_phrase": "Mario Hezonja on the team's frustration with late-game execution",
+      "names_mentioned": [],
+      "excerpt": "too many lead changes when we had a chance to put them away, we didn't take advantage",
+      "quote": "too many lead changes when we had a chance to put them away, we didn't take advantage of it. We could, and then the most frustrating part is just see that ball just not going in. Great looks, great shots. Don't even mind at the rim. At the rim, free throw. Those are all easy looks for us, so it's extremely frustrating that we lost. Today we competed, we fought, but also another thing is just head up tomorrow, clean stuff on the film and keep it going because we have a next game pretty soon.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mario Hezonja on the Cavs loss to Memphis: It is extremely frustrating that we lost. We had great looks, great shots, and we just did not take advantage of it.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja discusses the team's frustration following a loss to the Memphis Grizzlies due to missed opportunities and poor late-game execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mario Hezonja",
+      "timestamp": "01:04",
+      "summary_phrase": "Mario Hezonja on the team's chemistry and defensive identity",
+      "names_mentioned": [],
+      "excerpt": "Moving off of them and being in the right place at the right time, and then that's just opportunistic stuff.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "how easy and how great it is to play with such a good players."
+        },
+        {
+          "speaker": "Mario Hezonja",
+          "text": "Moving off of them and being in the right place at the right time, and then that's just opportunistic stuff. The most important is being there defensive, being a defensive presence for them, cleaning the glass on the rebound, doing rebounds, getting the open looks when I have the ball, making the right reads and all the stuff that matters for us and for our identity of basketball that we play."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Mario Hezonja"
+      ],
+      "reporter_split": true,
+      "start_seconds": 64,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mario Hezonja on his role: The most important thing is being a defensive presence, cleaning the glass, and making the right reads for the identity of basketball that we play.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mario Hezonja explains his role in the team's defensive identity and the importance of playing alongside his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mario Hezonja",
+      "timestamp": "01:45",
+      "summary_phrase": "Mario Hezonja on his comfort level playing the center position",
+      "names_mentioned": [],
+      "excerpt": "Mike G just tells me like to take their five and there's just not even second thought",
+      "quote": "I wasn't even paying attention. Sometimes just Mike G just tells me like to take their five and there's just not even second thought at all for it because I think we we're taking advantage of that a lot and you can see that also from our opponents what they're trying to go away then off the off the ball from me. So it's it's being it's being great.",
+      "verbatim_original_language": "",
+      "start_seconds": 105,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Mario Hezonja on playing center: Sometimes Mike G just tells me to take their five and there is not even a second thought at all. I think we are taking advantage of that a lot.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mario Hezonja discusses his comfort level playing the center position when instructed by the coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mario Hezonja",
+      "timestamp": "02:33",
+      "summary_phrase": "Mario Hezonja on the Grizzlies' physicality and size advantage",
+      "names_mentioned": [],
+      "excerpt": "they were a little bit bigger team than than than normal",
+      "quote": "they were a little bit bigger team than than than normal, quote unquote, if I can say that, I can say that. I think we we responded there. Obviously there is they will do the damage with the with their center. They're they're pretty big on pretty much on every position other than the point guard so far. So yeah, I think we just got to keep head down and keep keep working and it will come. Trust me, it will come.",
+      "verbatim_original_language": "",
+      "start_seconds": 153,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mario Hezonja on facing a bigger Grizzlies team: They were a little bit bigger than normal. Obviously they will do damage with their center, but we just have to keep our heads down and keep working.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja reflects on the physical challenge posed by the Memphis Grizzlies' size advantage during their recent matchup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mario Hezonja",
+      "timestamp": "03:11",
+      "summary_phrase": "Mario Hezonja on the team's defensive adaptation and growth",
+      "names_mentioned": [],
+      "excerpt": "I think we are adaptation is perfect thanks to coaching staff thanks to Kenny",
+      "quote": "I think we are adaptation is perfect thanks to coaching staff thanks to Kenny. Still it's so early. I know it's frustrating to listen to this, but it is just the reality of the things. It's still super early, so we have to see what works the best for us. Physicality was there today, like we were really competing and everything. There was maybe too many possessions over they were just score regardless of our coverage and everything, so that just props to them because those were like kind of pull-up threes, like the far threes too, so it just you want to say you live with those, but you kind of die with those too, you know.",
+      "verbatim_original_language": "",
+      "start_seconds": 191,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mario Hezonja on defensive adjustments: It is still so early. I know it is frustrating to listen to this, but it is just the reality. We have to see what works best for us.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mario Hezonja comments on the team's defensive adaptation and the early-season process under head coach Kenny Atkinson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mario Hezonja",
+      "timestamp": "04:41",
+      "summary_phrase": "Mario Hezonja on the team's need for better rebounding",
+      "names_mentioned": [],
+      "excerpt": "do more. Simple. It's you can see like we had so many rebounds and everything but just do more",
+      "quote": "do more. Simple. It's you can see like we had so many rebounds and everything but just do more. It's just not it's it's it's not enough when you if you lose, so do more, double down, triple down on it, everybody get involved. It's get it's it's visibly right already better, but it's obvious we got to do we got to do better if we want to win on a big stage.",
+      "verbatim_original_language": "",
+      "start_seconds": 281,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mario Hezonja on rebounding: Do more. It is simple. It is not enough when you lose, so double down, triple down on it, and everybody get involved.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja emphasizes the need for the team to improve their rebounding efforts to win games on a big stage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Meleek Thomas",
+      "timestamp": "06:02",
+      "summary_phrase": "Meleek Thomas on the team's resilience and effort",
+      "names_mentioned": [],
+      "excerpt": "we want to lose games like that rather than lose them without energy and effort",
+      "quote": "just resiliency. Like Don said, we want to lose games like that rather than lose them without energy and effort. So if it goes down to the wire and we have to go out like that, then that's preferred. But obviously a win is what we want, but our resiliency, our effort, our energy, our our urge to just fight and just keep going at it and have the will to win at at all times is that's what we're looking for.",
+      "verbatim_original_language": "",
+      "start_seconds": 362,
+      "end_seconds": 394,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Meleek Thomas on the team's effort: We want to lose games like that rather than lose them without energy and effort. Our urge to just fight and have the will to win at all times is what we are looking for.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas discusses the team's resilience and the importance of maintaining effort despite the loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Meleek Thomas",
+      "timestamp": "06:42",
+      "summary_phrase": "Meleek Thomas on improving defensive communication and rebounding",
+      "names_mentioned": [],
+      "excerpt": "definitely communicate a little better, rebound a little better, everything that we can control",
+      "quote": "definitely communicate a little better, rebound a little better, everything that we can control and we will.",
+      "verbatim_original_language": "",
+      "start_seconds": 402,
+      "end_seconds": 409,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Meleek Thomas on areas for improvement: We definitely need to communicate a little better and rebound a little better. Everything that we can control, we will.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas identifies defensive communication and rebounding as key areas for the team to improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Meleek Thomas",
+      "timestamp": "07:11",
+      "summary_phrase": "Meleek Thomas on the team's improved defensive connectivity",
+      "names_mentioned": [],
+      "excerpt": "we more connected, kind of like at times with arm's length apart",
+      "quote": "we more connected, kind of like at times with arm's length apart, there for each other and support of drives, there for each other to give us more chances to have the flexions and steals and just we kind of pack it in a little more just for our scheme of things.",
+      "verbatim_original_language": "",
+      "start_seconds": 431,
+      "end_seconds": 451,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Meleek Thomas on defensive connectivity: We are more connected, kind of like at times with arms length apart, there for each other to support drives and give us more chances to have deflections and steals.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas describes the team's improved defensive connectivity and scheme adjustments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Meleek Thomas",
+      "timestamp": "07:37",
+      "summary_phrase": "Meleek Thomas on the challenge of playing smaller lineups",
+      "names_mentioned": [],
+      "excerpt": "it's not really a challenge, it's just if you want it more than other guys on other side",
+      "quote": "it's not really a challenge, it's just if you want it more than other guys on other side. So if it's four guards that they're at times and we're playing harder than them, we'll we'll reap the benefits. But if we're laxadaisical, cool, lazy, it doesn't matter who you got out there, I just feel like the other team is going to get the best of you. But four guards or not, I just feel like if we put our best foot forward, most times we get the upper hand.",
+      "verbatim_original_language": "",
+      "start_seconds": 457,
+      "end_seconds": 492,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Meleek Thomas on playing smaller lineups: It is not really a challenge, it is just if you want it more than the other guys. If we are laxadaisical, it does not matter who you have out there.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas discusses the challenge of playing against smaller lineups and the importance of effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Meleek Thomas",
+      "timestamp": "08:15",
+      "summary_phrase": "Meleek Thomas on the impact of playing bigger opponents in the post",
+      "names_mentioned": [],
+      "excerpt": "I don't know if it really puts us at a disadvantage, sometimes it might, sometimes it will",
+      "quote": "I don't know if it really puts us at a disadvantage, sometimes it might, sometimes it will, sometimes it might not. It's really just how we respond. Like if there's a bigger guy in the post, fight in the post and if we're doing a great job at just trying to deny the pass or trying to just play this game to our best ability then usually we'll have success. Like I said, it's usually when we're not putting full energy to whatever we're doing when it doesn't work on our favor.",
+      "verbatim_original_language": "",
+      "start_seconds": 495,
+      "end_seconds": 530,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Meleek Thomas on size disadvantages: I do not know if it really puts us at a disadvantage. It is really just how we respond. If there is a bigger guy in the post, we fight.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Meleek Thomas addresses how the team responds to playing against bigger opponents in the post.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Meleek Thomas",
+      "timestamp": "09:11",
+      "summary_phrase": "Meleek Thomas on Donovan Mitchell's leadership and impact",
+      "names_mentioned": [
+        "Donovan Mitchell"
+      ],
+      "excerpt": "Don is special, he's special as a leader, he's special as a player, special as a human being",
+      "quote": "Don is special, he's special as a leader, he's special as a player, special as a human being. And it's just things that I learn from him on a day-to-day basis that will be like, yeah, he's an amazing basketball player, but he also wants the best for the ones that he's around. So I'm just learning from him on and off the court, but the basketball kind of speaks for itself and I I take a lot from him. We work off of each other, I watch what he does on film, I watch his old stuff and you you got to appreciate a amazing person that's alongside of you basketball and off the court when when you got a guy like that.",
+      "verbatim_original_language": "",
+      "start_seconds": 551,
+      "end_seconds": 589,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Meleek Thomas on Donovan Mitchell: Don is special as a leader, a player, and a human being. I take a lot from him. You have to appreciate an amazing person that is alongside of you.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Meleek Thomas praises Donovan Mitchell for his leadership and impact on his development as a player.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "CgMYkSv-e_E",
+  "url": "https://www.youtube.com/watch?v=CgMYkSv-e_E",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-19T03:47:54Z",
+  "duration_seconds": 589,
+  "processed_at": "2026-11-19T04:28:18Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

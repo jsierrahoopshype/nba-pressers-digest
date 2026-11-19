@@ -1,0 +1,188 @@
+{
+  "video_title": "Cavs vs Grizzlies | Jarrett Allen & Donovan Mitchell Post Game | 11.18.2026",
+  "speakers_seen": [
+    "Jarrett Allen",
+    "Donovan Mitchell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "00:59",
+      "summary_phrase": "Donovan Mitchell on the team's defensive adjustment to a drop scheme",
+      "names_mentioned": [],
+      "excerpt": "when you're playing in a drop, you're susceptible to threes.",
+      "quote": "When you're playing in a drop, you're susceptible to threes. We're doing a great job protecting the paint and I would say this probably feels like the first game that we really got burned from deep like that. From the three-point line, the biggest thing with us is, and I told the guys, don't, especially in that third quarter where they were making contested shots, we were getting back. It felt crazy because it was just non-stop, but stick with it. There's going to be nights, there's things that we could clean up, obviously, and there's certain mistakes that we made that obviously contributed to that, but as a total, taking away rim attempts and protecting our paint is huge.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 59,
+      "end_seconds": 105,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Donovan Mitchell on the Cavs defensive drop scheme: We are doing a great job protecting the paint, but this was the first game we really got burned from deep. We have things to clean up.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell discusses the team's defensive performance and their vulnerability to three-point shots while playing a drop scheme against the Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "03:02",
+      "summary_phrase": "Donovan Mitchell on the team's growth despite the loss",
+      "names_mentioned": [],
+      "excerpt": "this loss to me was one of a good loss for us.",
+      "quote": "I told everybody in the locker room, you always want to learn through a win. I've told y'all that a thousand times, but this loss to me was one of a good loss for us. There's things that we can really take away from watching the film, not even just the schematic standpoint, just the effort, energy, resilient. We got a shot blocked twice in the fourth quarter, but he's still going. There's no oh, screw it, it ain't going to do it. For myself, missing two shots, still getting downhill, still making the right play. James, same thing, everybody down the line. Sam's diving into the bench for a loose ball, North Chad, there's so many things that we should be really, really, really happy about tonight.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Donovan Mitchell calls the loss to the Grizzlies a good loss for the Cavs. He says he is happy with the effort and resilience the team showed despite the result.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Sam Merrill"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell reflects on the team's effort and resilience following a loss to the Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "04:48",
+      "summary_phrase": "Donovan Mitchell defends Sam Merrill after missed free throws",
+      "names_mentioned": [
+        "Sam"
+      ],
+      "excerpt": "you're not defined by two free throws at the end of a game.",
+      "quote": "There's a reason why I made the pass. We all trust him, and I would do it again tomorrow, I'd do it again the next night. You're not defined by two free throws at the end of a game. For him, he's done so much for us on a consistent basis. Defensively, I feel like they weren't giving him a lot of calls that he truly deserved. I think he deserves a lot more respect on the defensive end of the ball than he's been getting, and I have a bone to pick with some of the refs on that because he's really doing the little things and he's not getting the whistle he deserves.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 288,
+      "end_seconds": 332,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Donovan Mitchell is backing Sam Merrill after his missed free throws. Mitchell says he would make the same pass again and adds he has a bone to pick with refs regarding how they officiate Merrill on defense.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Sam Merrill"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell expresses support for Sam Merrill after he missed critical free throws and defends his defensive effort to the media.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jarrett Allen",
+      "speakers": [],
+      "timestamp": "06:06",
+      "summary_phrase": "Jarrett Allen on the team's identity and current injury struggles",
+      "names_mentioned": [],
+      "excerpt": "we have an identity and the base, but we just had so many circumstances.",
+      "quote": "I think we have an identity and the base, but we just had so many circumstances that don't let us build upon it. I feel like we're finding out what works as well. It's not going to be perfect, but we're missing Evan, PY, Sam, things just haven't been in the best way for us to build upon the base of getting the ball down the court, kicking it. We're just trying to figure out how to build a house on the base basically.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 366,
+      "end_seconds": 398,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Jarrett Allen on the Cavs current struggles: We have an identity, but injuries to Evan Mobley and others are making it hard to build. We are just trying to figure out how to build a house on the base.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Evan Mobley"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jarrett Allen explains the difficulty of establishing a consistent team identity while dealing with multiple player injuries.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Donovan Mitchell",
+      "speakers": [],
+      "timestamp": "07:30",
+      "summary_phrase": "Donovan Mitchell on why great players miss free throws",
+      "names_mentioned": [
+        "LeBron",
+        "Steve Nash"
+      ],
+      "excerpt": "it's more of a mental focus than anything else.",
+      "quote": "I don't have an answer for that. I don't know what was fully said in context, so I don't know. I don't know. I think for me it's just a mental thing. You go out there and do your routine and knock it down. Sometimes you miss, sometimes you make it, but I think it's more of a mental focus than anything else. But like I said, I don't know what he said, I don't know what Steve said, I didn't see the dialogue, but for me it's just do my routine and do what I've been practicing.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 450,
+      "end_seconds": 488,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Donovan Mitchell on missing free throws: It is more of a mental focus than anything else. You just have to go out there and do your routine.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Donovan Mitchell answers a question regarding the mental aspect of shooting free throws.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "UG0fLQk9kac",
+  "url": "https://www.youtube.com/watch?v=UG0fLQk9kac",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-19T03:43:34Z",
+  "duration_seconds": 494,
+  "processed_at": "2026-11-19T04:28:17Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

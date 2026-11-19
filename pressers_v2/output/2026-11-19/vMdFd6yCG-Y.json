@@ -1,0 +1,255 @@
+{
+  "video_title": "Steve Kerr admits Warriors are ‘wiped out’ after another loss | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Steve Kerr"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Steve Kerr",
+      "timestamp": "00:06",
+      "summary_phrase": "Steve Kerr on Warriors' third-quarter turnover and execution struggles",
+      "names_mentioned": [],
+      "excerpt": "got away from us a little bit in the third, forced a couple turnovers",
+      "quote": "It got away from us a little bit in the third, forced a couple turnovers and had two or three run-outs for layups or dunks and felt like those were kind of dispiriting. But the guys are competing, they were diving on the floor for loose balls, they were playing their butts off out there. So, we recognize the circumstances right now and can't fault the effort at all. We could get better execution-wise, but it's the NBA, it's an unforgiving league and we've got to find a way.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Steve Kerr says the Warriors are struggling with execution but praised the team for competing despite the circumstances. He noted that while they forced turnovers in the third quarter, the effort remains high.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr discusses the team's performance and execution struggles during the third quarter of their recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Steve Kerr",
+      "timestamp": "00:54",
+      "summary_phrase": "Steve Kerr on Jonathan Kuminga's growth and development this season",
+      "names_mentioned": [
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "he's quick, he's got great feel, great skill set",
+      "quote": "He's a great player. He's quick, he's got great feel, great skill set. He was knocking down the three tonight. I think he was at 27% coming in and hit a crazy leaner three in the first half and that really got them going. Tonight he had a great night, nine assists, and he's got the full package for sure.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Steve Kerr is impressed with Jonathan Kuminga lately, calling him a great player with the full package after a nine assist performance tonight.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Steve Kerr praises Jonathan Kuminga for his skill set and overall performance in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Steve Kerr",
+      "timestamp": "01:34",
+      "summary_phrase": "Steve Kerr on experimenting with starting lineups amid injuries",
+      "names_mentioned": [
+        "Stephen Curry",
+        "Draymond Green",
+        "Charles"
+      ],
+      "excerpt": "you have to experiment when you're in a state that we are right now missing so many guys",
+      "quote": "You have to experiment when you're in a state that we are right now missing so many guys and trying to find combinations that haven't played together before. So, you're trying to find things that click. We wanted to go bigger tonight with Charles and give Jax that lob threat and give Draymond help at the rim. He was going to guard Flag and so we needed some help behind him. So, we tried something different, but this is just where we are right now. We're wiped out with injuries and the guys are really, really competing and playing hard and staying together.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 134,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Steve Kerr admits the Warriors are wiped out by injuries, forcing the team to experiment with new lineups and combinations to find what clicks.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Charles Bassey",
+          "Jaxson Hayes",
+          "Draymond Green"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries",
+          "coaching decisions"
+        ],
+        "context": "Steve Kerr explains his decision to experiment with the starting lineup due to the team's current injury situation.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Steve Kerr",
+      "timestamp": "02:45",
+      "summary_phrase": "Steve Kerr rules out moving Draymond Green to the bench",
+      "names_mentioned": [
+        "Draymond Green"
+      ],
+      "excerpt": "he's our best defensive player and that's not even a thought",
+      "quote": "No, he's our best defensive player and that's not even a thought.",
+      "text_blocks": [],
+      "start_seconds": 165,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Steve Kerr shuts down any idea of moving Draymond Green to the bench, stating he is their best defensive player and it is not even a thought.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Draymond Green"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Steve Kerr addresses a question regarding whether he plans to move Draymond Green to the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Steve Kerr",
+      "timestamp": "03:10",
+      "summary_phrase": "Steve Kerr on Warriors' offensive struggles and forced shots",
+      "names_mentioned": [
+        "Axel"
+      ],
+      "excerpt": "we're forcing things, a lot of guys are really trying to do things on their own",
+      "quote": "We're forcing things, a lot of guys are really trying to do things on their own. Axel had probably four or five off-the-dribble fadeaway shots in the first half just trying to carry us. He knows that we need him and so he's trying really hard. BP as well, we're attempting some difficult shots and we've got to get the ball moving and create easier shots for each other. Easier said than done, so we'll keep looking at the film, keep working with the guys and I know they're connected, I know their character. These guys are going to stay with it and we'll find a way.",
+      "text_blocks": [],
+      "start_seconds": 190,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Steve Kerr says the Warriors are forcing shots and trying to do too much individually, emphasizing the need to get the ball moving to create easier opportunities.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Axel Toupane",
+          "Brandin Podziemski"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Steve Kerr discusses the team's offensive struggles and the tendency of players to force difficult shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Steve Kerr",
+      "timestamp": "04:12",
+      "summary_phrase": "Steve Kerr on maintaining team perspective during difficult stretch",
+      "names_mentioned": [],
+      "excerpt": "we're some of the luckiest people on earth, we get to play basketball for a living",
+      "quote": "I think we always have a good sense of perspective around here. We're some of the luckiest people on earth, we get to play basketball for a living. We've got another game tomorrow, so if this is the worst thing that's ever going to happen to us, I think we'll be okay. It's just a matter of understanding that basketball is just like life. Sometimes things go wrong and when they do, you've got two choices: you can either stay with it or quit and there's only really one choice, so we stay with it.",
+      "text_blocks": [],
+      "start_seconds": 252,
+      "end_seconds": 289,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Steve Kerr on the team's struggles, saying basketball is like life and sometimes things go wrong, but the only choice is to stay with it.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr shares his perspective on maintaining a positive outlook during a difficult stretch of games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Steve Kerr",
+      "timestamp": "04:55",
+      "summary_phrase": "Steve Kerr on Kevon Looney's contributions and development",
+      "names_mentioned": [
+        "Kevon Looney"
+      ],
+      "excerpt": "he's worked hard for us and he's gotten himself healthy this year",
+      "quote": "LJ's done a really nice job. He's worked hard for us and he's gotten himself healthy this year. He's a great shooter, that's why we have him in the starting lineup trying to add some firepower to that group and a great young guy to coach. He's a guy who's committed to the team and loves the game and I enjoy having him with the group.",
+      "text_blocks": [],
+      "start_seconds": 295,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Steve Kerr praises Kevon Looney for his hard work and health this year, noting he is in the starting lineup to add firepower to the group.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevon Looney"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Steve Kerr comments on Kevon Looney's contributions and his role in the starting lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "vMdFd6yCG-Y",
+  "url": "https://www.youtube.com/watch?v=vMdFd6yCG-Y",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-19T04:08:01Z",
+  "duration_seconds": 328,
+  "processed_at": "2026-11-19T04:28:03Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

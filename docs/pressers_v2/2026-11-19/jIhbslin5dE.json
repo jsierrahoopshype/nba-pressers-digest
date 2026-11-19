@@ -1,0 +1,219 @@
+{
+  "video_title": "Erik Spoelstra Talks Miami Heat Win Streak, Facing Former Players, Giannis' Unselfishness, GTA Binge",
+  "speakers_seen": [
+    "Erik Spoelstra"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "01:06",
+      "summary_phrase": "Giannis Antetokounmpo's unselfish play is helping the Bucks' offense grow",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "Giannis is really allowing and helping our offense to exponentially grow.",
+      "quote": "Giannis is really allowing and helping our offense to exponentially grow. Getting off the ball, getting other guys involved, going to dribble hand-offs, playing on the baseline some. And yet he's still able to do what he does at his best. Great players always can figure it out, but I think he's really helping unlock a lot of other guys and their confidence and allowing other guys to play out of a rhythm and a flow and become serious weapons for our team.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra on Giannis Antetokounmpo: He is really helping unlock a lot of other guys and their confidence and allowing other guys to play out of a rhythm and a flow and become serious weapons for our team.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra discusses the offensive impact of Giannis Antetokounmpo during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "03:35",
+      "summary_phrase": "Davion Mitchell's disruptive play and shooting confidence",
+      "names_mentioned": [
+        "Davion Mitchell"
+      ],
+      "excerpt": "He was really disruptive in that first half with some of the switching.",
+      "quote": "He was really disruptive in that first half with some of the switching and a lot of times hand-offs, pick-and-roll, whatever it was, the matchup always ended up with him on the ball and that's what we want. If the ball can find a way where he's defending it and we have a lot of good defenders, but he was really disruptive. He works at his game so much and that's what we feel. Why put a limit on anyone? He's in world-class shape right now, his confidence is continuing to grow, his teammates want him to be aggressive and be the engine for our transition game.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 256,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Spoelstra on Davion Mitchell: He is in world class shape right now, his confidence is continuing to grow, his teammates want him to be aggressive and be the engine for our transition game.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Davion Mitchell"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra praises the defensive performance and confidence of Davion Mitchell after a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "05:02",
+      "summary_phrase": "Ryan's consistent performance off the bench",
+      "names_mentioned": [
+        "Ryan"
+      ],
+      "excerpt": "He competes on the ball. He had a couple great defensive possessions.",
+      "quote": "He competes on the ball. He had a couple great defensive possessions. He's playing a combo guard for us with D-Mitch, but at times he has to handle the ball which is fine. He's going to gain confidence there. If they pressure him too much, that ball can go to Giannis or Bam, which also is a good thing for us. But his shooting and his ability to have timely catching goes and make some plays in the paint are important for our offense.",
+      "text_blocks": [],
+      "start_seconds": 302,
+      "end_seconds": 334,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Spoelstra on his bench rotation: If they pressure him too much, that ball can go to Giannis or Bam, which also is a good thing for us.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ryan",
+          "Davion Mitchell",
+          "Giannis Antetokounmpo",
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra evaluates the performance and versatility of Ryan in the team's rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "07:23",
+      "summary_phrase": "Clay's development as a playmaker and shooter",
+      "names_mentioned": [
+        "Clay"
+      ],
+      "excerpt": "It can lead to that. It's setting up the flow.",
+      "quote": "It can lead to that. It's setting up the flow. Our offense wants to be a flow where you're not feeling tension or stress and that's a fine balance when you have somebody that's such an aggressive force of nature that can get downhill. By the very nature of how he plays, there's some tension to that. But I think what's beautiful about his mind is he's able to see the possibilities when he can just go to a dribble hand-off or just swing it and kick it and let somebody else play. Those are tough decisions for a defense.",
+      "text_blocks": [],
+      "start_seconds": 443,
+      "end_seconds": 481,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Spoelstra on offensive flow: Our offense wants to be a flow where you are not feeling tension or stress and that is a fine balance when you have somebody that is such an aggressive force of nature that can get downhill.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Clay"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra explains how Clay contributes to the team's offensive flow and decision-making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "10:33",
+      "summary_phrase": "Davion Mitchell's impact in the fourth quarter",
+      "names_mentioned": [
+        "Davion Mitchell"
+      ],
+      "excerpt": "If people are paying attention, he's done this in big games for us.",
+      "quote": "If people are paying attention, he's done this in big games for us. The reality is our last two years nobody was watching us. So if these kind of clutch games or his clutch plays and big shots, those were going unnoticed, but not to us. In the play-in games he was spectacular in all season. People roll their eyes that that's a play-in, well that's the best that we had at that time and he showed up in a great way. He's just continued to do that, but more people are watching now.",
+      "text_blocks": [],
+      "start_seconds": 633,
+      "end_seconds": 669,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Spoelstra on Davion Mitchell getting more attention: The reality is our last two years nobody was watching us. So if these kind of clutch games or his clutch plays and big shots, those were going unnoticed, but not to us.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Davion Mitchell"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra highlights Davion Mitchell's history of performing in high-pressure situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "11:22",
+      "summary_phrase": "Cass's work ethic and relentless drive",
+      "names_mentioned": [
+        "Cass"
+      ],
+      "excerpt": "You root for a guy like Cass because of his makeup, his toughness, and his relentless work ethic.",
+      "quote": "You root for a guy like Cass because of his makeup, his toughness, and his relentless work ethic. When he was with us and we have a day like tomorrow and we'll have two practice days after that, I would literally have to go up to him and say, you do not come in tomorrow. You can't come in. And he still would come in and get an hour and a half workout. He's relentless and so yeah, hopefully we gave him some things that help him for the rest of his career, but he's going to do it one way or another.",
+      "text_blocks": [],
+      "start_seconds": 682,
+      "end_seconds": 722,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Spoelstra on the work ethic of Cass: I would literally have to go up to him and say, you do not come in tomorrow. You cannot come in. And he still would come in and get an hour and a half workout.",
+      "team": "Miami Heat",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cass"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra reflects on the work ethic and character of former player Cass.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "jIhbslin5dE",
+  "url": "https://www.youtube.com/watch?v=jIhbslin5dE",
+  "channel_team": "Miami Heat",
+  "published": "2026-11-19T04:17:54Z",
+  "duration_seconds": 791,
+  "processed_at": "2026-11-19T04:27:45Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

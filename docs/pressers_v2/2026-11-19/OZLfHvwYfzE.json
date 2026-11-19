@@ -1,0 +1,117 @@
+{
+  "video_title": "Immanuel Quickley | Post Game vs Washington Wizards | November 18, 2026",
+  "speakers_seen": [
+    "Immanuel Quickley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:08",
+      "summary_phrase": "Immanuel Quickley on the importance of team-based offensive execution",
+      "names_mentioned": [],
+      "excerpt": "You got to rely on everybody together. Can't just do it with just one person.",
+      "quote": "I think just playing together. Obviously, a lot of guys, you got to rely on everybody together. Can't just do it with just one person. We did a pretty good job of moving their defense around, gave ourselves a chance to tie it then.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the Raptors offensive approach tonight: I think just playing together. Obviously a lot of guys, you got to rely on everybody together. Can't just do it with just one person.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses the importance of collective offensive execution following a loss to the Washington Wizards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:33",
+      "summary_phrase": "Immanuel Quickley breaks down the final possession against the Wizards",
+      "names_mentioned": [
+        "Chris Boucher",
+        "Anthony Davis",
+        "Davion Mitchell"
+      ],
+      "excerpt": "I thought Davion Mitchell got a pretty good look at the end, one of our better shooters.",
+      "quote": "At first we were trying to get Chris Boucher in the action, and then they switched with Anthony Davis. Tried to get the quick two, but realized probably wasn't going to have enough time, so tried to find a shooter. I thought Davion Mitchell got a pretty good look at the end, one of our better shooters, so live with that.",
+      "verbatim_original_language": "",
+      "start_seconds": 33,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on the final possession against Washington: At first we were trying to get Chris Boucher in the action. I thought Davion Mitchell got a pretty good look at the end, one of our better shooters, so live with that.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Boucher",
+          "Anthony Davis",
+          "Davion Mitchell"
+        ],
+        "teams": [
+          "TOR",
+          "WAS",
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Immanuel Quickley explains the tactical breakdown and decision-making process during the final possession of the game against the Wizards.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "01:04",
+      "summary_phrase": "Immanuel Quickley on the recurring issue of losing close games",
+      "names_mentioned": [],
+      "excerpt": "We have the lead, we're right there, end of the game, we got to find a way.",
+      "quote": "A lot are similar. Obviously every game is different, but a lot are similar just the fact that we're losing close. It's not like we're losing by 20, 30 every game. We have the lead, we're right there, end of the game, we got to find a way. I mean, we just got to find a way to get it done, that's pretty much it.",
+      "verbatim_original_language": "",
+      "start_seconds": 64,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on the Raptors recurring struggles in close games: It is not like we are losing by 20 or 30 every game. We have the lead, we are right there, end of the game, we got to find a way to get it done.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley reflects on the team's recurring difficulty in closing out close games during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "OZLfHvwYfzE",
+  "url": "https://www.youtube.com/watch?v=OZLfHvwYfzE",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-19T04:11:54Z",
+  "duration_seconds": 86,
+  "processed_at": "2026-11-19T04:27:50Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}
