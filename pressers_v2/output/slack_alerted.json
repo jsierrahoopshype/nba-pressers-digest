@@ -3039,6 +3039,22 @@
   }
  },
  "pending": {
+  "0b5XUAlkyuc": {
+   "channel": "Milwaukee Bucks",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T03:36:22Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Taylor Jenkins",
+   "title": "Taylor Jenkins Postgame Press Conference | 11.18.26",
+   "top_quote": "Our guys competed, they executed our game plan. This has been one of the top paint teams in the league, especially with those two guys. They had 32 points, a lot of guys made shots tonight. They got some open ones, we could have rotated a little bit better. Our transition defense pick up points were a little low, allowed them to get some rhythm threes, but our guys kept fighting down 30. You can just lay down, our guys fought.",
+   "video_id": "0b5XUAlkyuc"
+  },
   "7XNXIfdNSqA": {
    "channel": "Boston Celtics",
    "clip_count": 4,
@@ -3055,6 +3071,38 @@
    "top_quote": "I think it's great. Every player that we have is shaped by their college, whether it's their teammates, the environment, their coaches. They are who they are because of those people. Same for me, so it's a great thing.",
    "video_id": "7XNXIfdNSqA"
   },
+  "EMh3AG5hV1w": {
+   "channel": "Cleveland Cavaliers",
+   "clip_count": 8,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T03:36:22Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Kenny Atkinson",
+   "title": "Cavs vs Grizzlies | Kenny Atkinson Post Game | 11.18.2026",
+   "top_quote": "Obviously fouls, I think we fouled them 18 times. They went to the free throw line 18 times in the second quarter. So, drives and fouls. And like you said Danny, they were living at our rim, you know, fourth quarter we cleaned it up, but defense wasn't good enough.",
+   "video_id": "EMh3AG5hV1w"
+  },
+  "a_-MS-B_QGk": {
+   "channel": "Houston Rockets",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T03:36:22Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Ime Udoka",
+   "title": "Houston Rockets Postgane: Ime Udoka talks win and Alperen Sengun injury",
+   "top_quote": "That's who he is and I said it a game or two ago that we're not really concerned about the percentage or numbers. He's getting great looks and that's going to come back to life. Every shot he shoots, we feel very confident about and obviously he does as well. So, never concerned about that. If he's taking the right ones, the worm is going to turn eventually.",
+   "video_id": "a_-MS-B_QGk"
+  },
   "q2aeD0nd0gk": {
    "channel": "Sacramento Kings",
    "clip_count": 3,
@@ -3070,6 +3118,22 @@
    "title": "Doug Christie details importance of Leaky Black to Kings | NBC Sports California",
    "top_quote": "Leaky is doing exactly what I like, down in the stance, arms out, just presenting a picture that gaps aren't there. Then he's extremely active with his hands. When someone leaves their feet, he leaves his feet, which puts them in a real tough position. Really good hands, especially on defense, runs the floor, shoots the shots when he's open. He's just a team player, but defensively solid. You can put him on just about anybody, and yeah, big fan of Leaky.",
    "video_id": "q2aeD0nd0gk"
+  },
+  "uPDcMUJE_xk": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-19T03:36:22Z",
+   "run_id": "2026-11-19-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Tuomas Iisalo",
+   "title": "Tuomas Iisalo Press Conference | Grizzlies vs. Cavaliers",
+   "top_quote": "Hendricks really had a major impact on the game tonight. He might have made the biggest plays of the whole game with his, it was at least a double block and then I think Abu took the ball from Allen in that, but just a tremendous play and it's been great to see him blossom into the player that he's only scratching the surface of what he can be.",
+   "video_id": "uPDcMUJE_xk"
   },
   "vMC7XvjJr4Q": {
    "channel": "Memphis Grizzlies",

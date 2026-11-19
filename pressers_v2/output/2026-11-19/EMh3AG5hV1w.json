@@ -1,0 +1,278 @@
+{
+  "video_title": "Cavs vs Grizzlies | Kenny Atkinson Post Game | 11.18.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:00",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' defensive struggles against the Grizzlies",
+      "names_mentioned": [],
+      "excerpt": "they were living at our rim, you know, fourth quarter we cleaned it up, but defense wasn't good enough.",
+      "quote": "Obviously fouls, I think we fouled them 18 times. They went to the free throw line 18 times in the second quarter. So, drives and fouls. And like you said Danny, they were living at our rim, you know, fourth quarter we cleaned it up, but defense wasn't good enough.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 19,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson points to defensive lapses and foul trouble as the main issues in the loss to Memphis, noting the Grizzlies lived at the rim in the second quarter.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the defensive issues and high foul count during the Cavaliers loss to the Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:22",
+      "summary_phrase": "Kenny Atkinson explains the decision to use smaller lineups against Memphis",
+      "names_mentioned": [],
+      "excerpt": "I felt like we needed speed against their athleticism, you know, super fast team, speed and shooting.",
+      "quote": "I felt like we needed speed against their athleticism, you know, super fast team, speed and shooting. It's a choice you make, but listen, I thought we competed really hard. I thought we had great opportunities at the end. I mean, how many rim attempts that didn't go, open threes, we couldn't hit the big shot. They hit the big shots, got to give them a lot of credit, they played great.",
+      "text_blocks": [],
+      "start_seconds": 22,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says the decision to go with smaller lineups against the Grizzlies was a calculated choice to match the speed and athleticism of a super fast team.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains his reasoning for utilizing smaller lineups to match the speed and athleticism of the Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:05",
+      "summary_phrase": "Kenny Atkinson praises the Grizzlies' athleticism and Boozer's impact",
+      "names_mentioned": [
+        "Boozer"
+      ],
+      "excerpt": "They are very, very athletic and physical, you know, there's a reason they're 8-0 on the road.",
+      "quote": "High level, they're super athletic. They are very, very athletic and physical, you know, there's a reason they're 8-0 on the road right now. It's a good team, Boozer obviously changes a lot for them. He's a big time player.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on the 8-0 road Grizzlies: They are very athletic and physical, and Boozer obviously changes a lot for them. He is a big time player.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Boozer"
+        ],
+        "teams": [
+          "CLE",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the overall athleticism of the Grizzlies and the impact of Boozer on their performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:30",
+      "summary_phrase": "Kenny Atkinson on Mario's physical play and offensive contributions",
+      "names_mentioned": [
+        "Mario"
+      ],
+      "excerpt": "Really good. You don't, that's a lineup that we haven't played a lot obviously and he was really good.",
+      "quote": "Really good. You don't, that's a lineup that we haven't played a lot obviously and he was really good. I thought we got a lot of good contributions from our bench too. I thought the competition level was very high on our part, not perfect, got to clean up things defensively, but I like that we gave ourselves a chance there at the end.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson praised the bench contributions and competition level against Memphis, despite the defensive errors.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mario"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson evaluates the performance of Mario and the bench unit during the game against Memphis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:12",
+      "summary_phrase": "Kenny Atkinson on Donovan's improved play and recent performance",
+      "names_mentioned": [
+        "Donovan"
+      ],
+      "excerpt": "He's moving great, he's got his explosiveness, credit to all the work he does in the offseason.",
+      "quote": "We are relying on him a lot obviously, that he's moving great, he's got his explosiveness, credit to all the work he does in the offseason, all the extra work he does, but I see the same thing. He's got a lot of pop right now.",
+      "text_blocks": [],
+      "start_seconds": 132,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on Donovan Mitchell: We are relying on him a lot, but he is moving great and has his explosiveness back. He has a lot of pop right now.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson comments on the physical condition and recent performance of Donovan.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:38",
+      "summary_phrase": "Kenny Atkinson on Craig's defensive impact and bench performance",
+      "names_mentioned": [
+        "Craig",
+        "Malik",
+        "Tyrese"
+      ],
+      "excerpt": "It's probably not too easy for him when Malik and Tyrese get the playing time too.",
+      "quote": "It's probably not too easy for him when Malik and Tyrese get the playing time too. Just how do you feel like he's been handling that and it seems like every time he's on the floor he's making the most of his minutes. He's handled it great, you know, he's kind of out of, in and out, in and out, I feel like these last couple games he's really caught his rhythm. Like I said, we needed his athleticism tonight, you know, that's a very, very athletic team, and he's a guy that can match that.",
+      "text_blocks": [],
+      "start_seconds": 158,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says Craig has handled his fluctuating minutes well and is finally catching his rhythm.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Craig",
+          "Malik",
+          "Tyrese"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses how Craig has handled fluctuating playing time alongside Malik and Tyrese.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:16",
+      "summary_phrase": "Kenny Atkinson on Sam's decision-making and drawing fouls",
+      "names_mentioned": [
+        "Sam"
+      ],
+      "excerpt": "I love the process, right? I love that he drove, he's so smart to draw the foul.",
+      "quote": "Listen, I love the process, right? I love that he drove, he's so smart to draw the foul. That's what I look at, that's a great play. This is sports, right? But I loved his savviness on that drive to draw the foul, it's great. It happens, happens to the best, happens to great shooters sometimes, but I loved how he got to the line.",
+      "text_blocks": [],
+      "start_seconds": 196,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson praised the savviness of Sam on his late drive to draw a foul, calling it a great play despite the outcome.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Sam"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the decision-making and basketball IQ shown by Sam when driving to the basket to draw a foul.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:48",
+      "summary_phrase": "Kenny Atkinson on James's rhythm and development",
+      "names_mentioned": [
+        "James"
+      ],
+      "excerpt": "I think historically it's kind of taken him a little while to get going.",
+      "quote": "I think historically it's kind of taken him a little while to get going, but I've seen the same thing these last couple games, a lot more pop, moving better, and I think it'll just keep getting better, and therefore we'll keep getting better.",
+      "text_blocks": [],
+      "start_seconds": 228,
+      "end_seconds": 245,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson notes that James is finally finding his rhythm and moving better, which he believes will help the team continue to improve.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson shares his observations on the rhythm and physical development of James over the last few games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "EMh3AG5hV1w",
+  "url": "https://www.youtube.com/watch?v=EMh3AG5hV1w",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-19T02:52:07Z",
+  "duration_seconds": 263,
+  "processed_at": "2026-11-19T03:36:10Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

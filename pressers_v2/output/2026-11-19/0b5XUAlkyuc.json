@@ -1,0 +1,112 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 11.18.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:18",
+      "summary_phrase": "Taylor Jenkins on defensive struggles and transition defense issues",
+      "names_mentioned": [],
+      "excerpt": "our transition defense pick up points were a little low, allowed them to get some rhythm threes",
+      "quote": "Our guys competed, they executed our game plan. This has been one of the top paint teams in the league, especially with those two guys. They had 32 points, a lot of guys made shots tonight. They got some open ones, we could have rotated a little bit better. Our transition defense pick up points were a little low, allowed them to get some rhythm threes, but our guys kept fighting down 30. You can just lay down, our guys fought.",
+      "verbatim_original_language": "",
+      "start_seconds": 18,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins on the defensive struggles tonight: We could have rotated a little bit better and our transition defense pick up points were low, but I am proud that our guys kept fighting down 30.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's defensive performance and transition defense issues following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:37",
+      "summary_phrase": "Taylor Jenkins on second quarter defensive and offensive execution",
+      "names_mentioned": [],
+      "excerpt": "second quarter is it lineup based, is it strategy based? Give our opponents credit, they play well",
+      "quote": "There is a lot of numbers that we are studying. Second quarter is it lineup based, is it strategy based? Give our opponents credit, they play well. There is some of those situations where they get a 50-50 ball, don't turn it over on a dead ball situation. We get a wide open shot, a couple possessions where we don't make it. There is a collection of things when it comes to the second quarter, but also the first quarter had its moments too.",
+      "verbatim_original_language": "",
+      "start_seconds": 97,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Taylor Jenkins on the team's second quarter struggles: There is a collection of things when it comes to the second quarter, but the first quarter had its moments too.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins analyzes the factors contributing to the team's struggles during the second quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:18",
+      "summary_phrase": "Taylor Jenkins evaluates the development of Casper Ware",
+      "names_mentioned": [
+        "Casper Ware",
+        "Mitchell"
+      ],
+      "excerpt": "I love his competitiveness, I love that competitive spirit he brings every single day",
+      "quote": "I love his competitiveness, I love that competitive spirit he brings every single day. We were just talking about a moment ago, just his ability to disrupt on the defensive side, on-ball point of attack defense. He is getting steals, rotating off the ball, putting his body on the line and then just continuing to make progress as a playmaker. A guy that can create advantages for us on the offensive side, transition, it's attacking off of pick and rolls, it's scoring, it's playmaking. He is putting it together, I think the last week or so has been a really good stretch for him.",
+      "verbatim_original_language": "",
+      "start_seconds": 138,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins is seeing real progress from Casper Ware: He is putting it together, I think the last week or so has been a really good stretch for him.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Casper Ware"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins evaluates the recent development and defensive impact of Casper Ware.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "0b5XUAlkyuc",
+  "url": "https://www.youtube.com/watch?v=0b5XUAlkyuc",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-19T03:31:44Z",
+  "duration_seconds": 258,
+  "processed_at": "2026-11-19T03:36:07Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false
+}

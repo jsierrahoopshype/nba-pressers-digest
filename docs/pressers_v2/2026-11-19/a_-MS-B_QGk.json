@@ -1,0 +1,165 @@
+{
+  "video_title": "Houston Rockets Postgane: Ime Udoka talks win and Alperen Sengun injury",
+  "speakers_seen": [
+    "Ime Udoka"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ime Udoka",
+      "timestamp": "00:18",
+      "summary_phrase": "Ime Udoka on Jalen Green's shooting confidence and performance",
+      "names_mentioned": [
+        "Jalen Green"
+      ],
+      "excerpt": "we're not really concerned about the percentage or numbers. He's getting great looks",
+      "quote": "That's who he is and I said it a game or two ago that we're not really concerned about the percentage or numbers. He's getting great looks and that's going to come back to life. Every shot he shoots, we feel very confident about and obviously he does as well. So, never concerned about that. If he's taking the right ones, the worm is going to turn eventually.",
+      "verbatim_original_language": "",
+      "start_seconds": 18,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Ime Udoka says the Rockets are not concerned about Jalen Green's shooting percentages. He noted that the team feels confident in every shot Green takes and believes the worm is going to turn eventually.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Green"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka discusses Jalen Green's shooting performance and confidence level.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ime Udoka",
+      "timestamp": "01:26",
+      "summary_phrase": "Ime Udoka provides medical update on Alperen Sengun's injury",
+      "names_mentioned": [
+        "Alperen Sengun"
+      ],
+      "excerpt": "He got swelling on the right eye. He got poked in both basically",
+      "quote": "He got swelling on the right eye. He got poked in both basically. Some swelling on the right eye and I think a scratch on his cornea on the left. Not sure what that means time-wise, but hopefully he's okay and obviously can come back tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 86,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 4,
+      "social_post": "Ime Udoka provides an update on Alperen Sengun after he was poked in both eyes. Sengun is dealing with swelling in his right eye and a potential scratch on his left cornea.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alperen Sengun"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Ime Udoka provides an update on Alperen Sengun's eye injury sustained during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ime Udoka",
+      "timestamp": "01:53",
+      "summary_phrase": "Ime Udoka on team depth and filling in for injured players",
+      "names_mentioned": [
+        "Steven Adams",
+        "Oscar Tshiebwe"
+      ],
+      "excerpt": "it's good to see guys step in. Steven obviously played well. We can go small ball",
+      "quote": "It's good to see guys step in. Steven obviously played well. We can go small ball and then Oscar has been filling in very nicely. Next person up, and I think our guys have kind of lived by that all season. But it's nice to have your whole group at some point as well. In the meantime, other guys are doing an excellent job filling in.",
+      "verbatim_original_language": "",
+      "start_seconds": 113,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ime Udoka praised the Rockets depth and next man up mentality while dealing with injuries. He noted that guys like Steven Adams and Oscar Tshiebwe have been doing an excellent job filling in.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Steven Adams",
+          "Oscar Tshiebwe"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka praises the team's depth and the performance of players filling in for injured teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ime Udoka",
+      "timestamp": "02:37",
+      "summary_phrase": "Ime Udoka on rotation strategy and backcourt chemistry",
+      "names_mentioned": [
+        "Reed Sheppard",
+        "Fred VanVleet",
+        "Kevin Porter Jr.",
+        "Alperen Sengun",
+        "Marcus Sasser"
+      ],
+      "excerpt": "a lot is matchup and personnel based, but we do like Reed and Fred out there together",
+      "quote": "A lot is matchup and personnel based, but we do like Reed and Fred out there together. You think smaller guards and all that, but two handlers, two shooters, a lot of spacing behind who they're out there with, usually Kevin and Alpi at the time. But yeah, we were going Marcus initially first and if they have bigger personnel on the court, maybe we still do that. But tonight we liked what we saw against them and I like Fred and Reed and their chemistry together.",
+      "verbatim_original_language": "",
+      "start_seconds": 157,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ime Udoka explains his rotation strategy regarding the backcourt. He says he likes the chemistry between Fred VanVleet and Reed Sheppard because of the spacing and ball handling they provide.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Reed Sheppard",
+          "Fred VanVleet",
+          "Kevin Porter Jr.",
+          "Alperen Sengun",
+          "Marcus Sasser"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Ime Udoka explains his rotation strategy and the chemistry between his backcourt players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "a_-MS-B_QGk",
+  "url": "https://www.youtube.com/watch?v=a_-MS-B_QGk",
+  "channel_team": "Houston Rockets",
+  "published": "2026-11-19T02:49:00Z",
+  "duration_seconds": 251,
+  "processed_at": "2026-11-19T03:36:21Z",
+  "run_id": "2026-11-19-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
