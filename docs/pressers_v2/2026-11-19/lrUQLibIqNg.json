@@ -1,0 +1,92 @@
+{
+  "video_title": "Steve Kerr focused on finding Warriors' identity without Steph | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Steve Kerr"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Steve Kerr",
+      "timestamp": "00:16",
+      "summary_phrase": "Warriors prioritizing team identity during Steph Curry's absence",
+      "names_mentioned": [
+        "Steph",
+        "Brandon Williams"
+      ],
+      "excerpt": "the priority is finding an identity without Steph, without Brandon Williams and the other guys",
+      "quote": "For us right now, the priority is finding an identity without Steph, without Brandon Williams and the other guys. It's been a rough trip obviously, but we're focused on ourselves, but that doesn't keep us from going through the scouting report and matchups and making sure we're ready for Memphis.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Steve Kerr says the Warriors priority right now is finding an identity without Steph Curry and other injured players while they prepare for the upcoming matchup against Memphis.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry",
+          "Brandon Williams"
+        ],
+        "teams": [
+          "GSW",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Steve Kerr discusses the team's focus on establishing a new identity while Stephen Curry and Brandon Williams are sidelined due to injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Steve Kerr",
+      "timestamp": "01:18",
+      "summary_phrase": "Steve Kerr recalls Mike Fratello's early days coaching Memphis",
+      "names_mentioned": [
+        "Mike Fratello",
+        "Marv Albert"
+      ],
+      "excerpt": "I'm reminded of when Mike Fratello was a coach here, right after he left TNT",
+      "quote": "I'm reminded of when Mike Fratello was a coach here, right after he left TNT. He and Marv Albert and I were partners, and so he takes the Memphis job, and whoever Memphis's PR guy was back then, he sent us a photo of Mike giving a press conference with zero people. There was literally nobody. And Marv, I think we showed it on the broadcast like five different times just to make fun of Mike, so now I know how he felt.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 7,
+      "social_post": "Steve Kerr shares a funny story about Mike Fratello once holding a press conference in Memphis where literally nobody showed up.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mike Fratello"
+        ],
+        "teams": [
+          "GSW",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Steve Kerr shares a humorous anecdote about former coach Mike Fratello's early days with the Memphis Grizzlies.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "lrUQLibIqNg",
+  "url": "https://www.youtube.com/watch?v=lrUQLibIqNg",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-20T00:07:12Z",
+  "duration_seconds": 111,
+  "processed_at": "2026-11-20T01:46:58Z",
+  "run_id": "2026-11-20T0146Z-20utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

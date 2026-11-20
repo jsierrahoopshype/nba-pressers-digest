@@ -1,0 +1,186 @@
+{
+  "video_title": "Mitch Johnson on Team Depth and Next Man Up Mentality",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:12",
+      "summary_phrase": "Mitch Johnson on the emotional impact of Dylan Windler's injury",
+      "names_mentioned": [
+        "Dylan Windler"
+      ],
+      "excerpt": "The visuals and optics of falls, potential injuries, whatever you want to call it can be impressionable.",
+      "quote": "The visuals and optics of falls, potential injuries, whatever you want to call it can be impressionable, and that one did not look great. There is a lot of WebMD and you try to not let your mind run the wrong way and you hope for the best, but you really do not know. It is part of things we cannot control, so just very lucky, fortunate, and mostly just happy for Dylan obviously that there will be some time, but I think like you said, very best case scenario for a lot of the things that what could have been.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Mitch Johnson says Dylan Windler is lucky after his recent injury, calling it the best case scenario for what could have been.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan Windler"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Mitch Johnson discusses the injury sustained by Dylan Windler and expresses relief regarding the prognosis.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:14",
+      "summary_phrase": "Mitch Johnson on Julian Champagnie's 200 consecutive games played",
+      "names_mentioned": [
+        "Julian Champagnie"
+      ],
+      "excerpt": "In our line of work, very impressive and in any line of work, very commendable.",
+      "quote": "In our line of work, very impressive and in any line of work, very commendable. There is a consistency, there is a disposition in terms of not allowing circumstances, things you cannot control, decisions that other people may hold that may still affect you, whatever it may be, outcomes, results, personal desires, all those things to be able to show up to work 200 times in a row, especially with our travel and wear and tear on the body, the mind, everything else, it is very, very impressive.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Mitch Johnson praises Julian Champagnie for his 200 consecutive games played, calling the consistency very impressive given the travel and wear and tear of the NBA.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Julian Champagnie"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson praises Julian Champagnie for his consistency in playing 200 consecutive games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "02:17",
+      "summary_phrase": "Mitch Johnson on adjusting team rotations following injury news",
+      "names_mentioned": [],
+      "excerpt": "Another opportunity that will require us to think a little differently than maybe we have so far.",
+      "quote": "Another opportunity that will require us to think a little differently than maybe we have so far this year in terms of lineups, rotations, different combinations, and I think that will serve us well. It has typically in the past, doesn't mean it always feels good, but we are still learning a lot about ourselves and this will give us an opportunity in more ways than we are even preparing for.",
+      "text_blocks": [],
+      "start_seconds": 137,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Mitch Johnson says the team will have to think differently about lineups and rotations following recent injury news.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mitch Johnson explains that the team will need to adjust their lineups and rotations due to recent injury news.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "03:07",
+      "summary_phrase": "Mitch Johnson on the Spurs' G League development program",
+      "names_mentioned": [
+        "Chris Condon",
+        "Jakobe"
+      ],
+      "excerpt": "The brand of basketball seems to be what Chris and his staff have been preaching.",
+      "quote": "Chris Condon has done a great job. Those guys that were with us in camp and in the off-season made impressions on us then, the players and the staff. Very happy that their camp went well, obviously they won some games, they are playing well. The brand of basketball seems to be what Chris and his staff have been preaching and talked about last we saw them. The G League is a long year, and so when you can start off on a good spot, that can be helpful because typically percentages and circumstances and history tells you you are going to hit a rough patch.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Mitch Johnson credits Chris Condon and the G League staff for a strong start to the season, noting that the G League is a long year.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Condon"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson comments on the progress of the Spurs' G League affiliate and the work of Chris Condon.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mitch Johnson",
+      "timestamp": "04:14",
+      "summary_phrase": "Mitch Johnson on scouting and developing Jakobe Walter",
+      "names_mentioned": [
+        "Brian Wright",
+        "Jakobe",
+        "Rick Barnes"
+      ],
+      "excerpt": "Brian Wright specifically, at least with me, identified Jakobe last year early on.",
+      "quote": "Brian Wright specifically, at least with me, identified Jakobe last year early on. We talked casually sometimes just about players, professional, college basketball, and he had mentioned Jakobe to me a few different times. Obviously came from a good program in Tennessee, played for a tough-minded coach that requires a lot of the brand of basketball that we discuss a lot in terms of defense and the way they play offensively, sharing the ball, and Coach Rick Barnes. Credit to Brian Wright and his staff and we obviously had an opportunity to add him to our program and he has been everything that and more and we are very excited to just kind of keep him growing.",
+      "text_blocks": [],
+      "start_seconds": 254,
+      "end_seconds": 299,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Mitch Johnson says Brian Wright identified Jakobe Walter early last year and that he has been everything and more for the Spurs program.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakobe Walter",
+          "Brian Wright",
+          "Rick Barnes"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the scouting and development of Jakobe Walter, crediting Brian Wright and Rick Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "LWtuDXYvo5s",
+  "url": "https://www.youtube.com/watch?v=LWtuDXYvo5s",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-20T00:45:22Z",
+  "duration_seconds": 309,
+  "processed_at": "2026-11-20T01:47:01Z",
+  "run_id": "2026-11-20T0146Z-20utc",
+  "is_one_off": false
+}

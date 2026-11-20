@@ -211,13 +211,6 @@
    "run_id": "2026-11-16T2322Z-14utc",
    "slot_date": "2026-11-16"
   },
-  "2XmcEynQJhc": {
-   "at": "2026-11-06T00:57:54Z",
-   "quote": "i just had to make sure i got an off hand and i was pretty sure it was good i mean it s back to back so it s tough but i think we stayed with it i don t know",
-   "run_id": "2026-11-06T0057Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-05"
-  },
   "2bN4Zz9lLKM": {
    "at": "2026-11-10T20:48:38Z",
    "quote": "it s like a bittersweet you know playing against him i don t want him to have the best game against us but besides that i m watching and i m rooting for him he s a great guy so he has a great energy t",
@@ -922,13 +915,6 @@
    "run_id": "2026-11-16-overnight",
    "slot_date": "2026-11-16"
   },
-  "HeVV6ZnIBns": {
-   "at": "2026-11-06T00:58:19Z",
-   "quote": "he finds so many ways to impact the game and we ve seen that with his defense we ve seen it with rebounding tonight i thought the boards were something that was crucial for our team and to get that mo",
-   "run_id": "2026-11-06T0057Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-05"
-  },
   "HnvXc-_a-vg": {
    "at": "2026-11-19T18:24:05Z",
    "quote": "it was a little bit of a shot variance first half i thought we got decent shots that didn t go down they had shots go down and so that was part of the disparity i thought we gave ourselves a chance to",
@@ -1292,13 +1278,6 @@
    "seeded": true,
    "slot_date": "2026-11-08"
   },
-  "Ol8z8XbrbSM": {
-   "at": "2026-11-06T00:58:17Z",
-   "quote": "i will comment quickly i mean i would say we made some plays but we cannot overlook the fact that we were down 22 to the celtics and came back and took the lead i am way more focused on that we put ou",
-   "run_id": "2026-11-06T0057Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-05"
-  },
   "OoT-lHtjHwo": {
    "at": "2026-11-18T18:12:26Z",
    "quote": "it must get a little frustrating at this point to play games that are pretty complete and then just a couple of breakdowns down the last stretch of a game and you end up coming out the wrong end i mea",
@@ -1311,13 +1290,6 @@
    "run_id": "2026-11-09-overnight",
    "seeded": true,
    "slot_date": "2026-11-09"
-  },
-  "PUKhOlonZWs": {
-   "at": "2026-11-06T00:58:13Z",
-   "quote": "we just came out with a different mentality a different fire a lot of us were just sick and tired of being sick and tired and we just came out with a tenacity a ferociousness that was really great to ",
-   "run_id": "2026-11-06T0057Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-05"
   },
   "PVbafnXI_RQ": {
    "at": "2026-11-17T18:39:34Z",
@@ -1400,13 +1372,6 @@
    "quote": "i think we don t got to find that i think our main focus off the game is not offense the better we play defense the better we going to be on offense and i think it s been a thing collectively includin",
    "run_id": "2026-11-13-overnight",
    "slot_date": "2026-11-13"
-  },
-  "REepGD9nSfQ": {
-   "at": "2026-11-06T00:58:06Z",
-   "quote": "you can t come in on the road especially against a really good team and five turnovers i think i think four of them were live ball and then i think we were two for nine from three in the first quarter",
-   "run_id": "2026-11-06T0057Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-05"
   },
   "RO4mB3hbFP0": {
    "at": "2026-11-10T06:10:00Z",
@@ -2248,13 +2213,6 @@
    "run_id": "2026-10-29-overnight",
    "seeded": true,
    "slot_date": "2026-10-29"
-  },
-  "irnr0f42XYo": {
-   "at": "2026-11-06T00:58:07Z",
-   "quote": "we got to step up our game and got to be more physical more aggressive i think that s the only way to play i m going to do that as much as i can for the rest of the season try to give them that as muc",
-   "run_id": "2026-11-06T0057Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-05"
   },
   "j0jITf8AGRs": {
    "at": "2026-11-10T04:27:05Z",
@@ -3102,13 +3060,6 @@
    "seeded": true,
    "slot_date": "2026-11-11"
   },
-  "z5e5UnCk4nI": {
-   "at": "2026-11-06T00:58:02Z",
-   "quote": "i m seeing the most progress from myself in being patient and staying in the moment i thought i took good looks i might have had two or three bad ones but i m not forcing anything i m getting clean lo",
-   "run_id": "2026-11-06T0057Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-05"
-  },
   "zOPwteIKyTI": {
    "at": "2026-11-15T15:42:28Z",
    "quote": "for us it s keep building keep worrying about us keep building keep chipping away and keep trying to stack these dubs",
@@ -3135,5 +3086,38 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {}
+ "pending": {
+  "LWtuDXYvo5s": {
+   "channel": "San Antonio Spurs",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T01:47:09Z",
+   "run_id": "2026-11-20T0146Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Mitch Johnson",
+   "title": "Mitch Johnson on Team Depth and Next Man Up Mentality",
+   "top_quote": "The visuals and optics of falls, potential injuries, whatever you want to call it can be impressionable, and that one did not look great. There is a lot of WebMD and you try to not let your mind run the wrong way and you hope for the best, but you really do not know. It is part of things we cannot control, so just very lucky, fortunate, and mostly just happy for Dylan obviously that there will be some time, but I think like you said, very best case scenario for a lot of the things that what could have been.",
+   "video_id": "LWtuDXYvo5s"
+  },
+  "lrUQLibIqNg": {
+   "channel": "Golden State Warriors",
+   "clip_count": 2,
+   "content_type": "presser",
+   "date": "2026-11-19",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T01:47:09Z",
+   "run_id": "2026-11-20T0146Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-19",
+   "speaker": "Steve Kerr",
+   "title": "Steve Kerr focused on finding Warriors' identity without Steph | NBC Sports Bay Area",
+   "top_quote": "For us right now, the priority is finding an identity without Steph, without Brandon Williams and the other guys. It's been a rough trip obviously, but we're focused on ourselves, but that doesn't keep us from going through the scouting report and matchups and making sure we're ready for Memphis.",
+   "video_id": "lrUQLibIqNg"
+  }
+ }
 }
