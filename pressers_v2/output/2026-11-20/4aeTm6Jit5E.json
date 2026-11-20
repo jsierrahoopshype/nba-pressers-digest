@@ -1,0 +1,208 @@
+{
+  "video_title": "Mitch Johnson on Spurs Finding Their Identity and Playing Their Brand of Basketball",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:12",
+      "summary_phrase": "Mitch Johnson on maintaining team identity while rotating different lineups",
+      "names_mentioned": [],
+      "excerpt": "I think it only makes you better as you continue to play guys and play different combinations",
+      "quote": "I think it only makes you better as you continue to play guys and play different combinations and different lineups and what not. Sometimes that may produce even different environments and style in a way just in terms of the lineups, but we still want to try to maintain that brand and that identity.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson says the Spurs are focused on maintaining their brand and identity while experimenting with different lineups and combinations throughout the season.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mitch Johnson discusses the benefits of using different player combinations and lineups to maintain the team identity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:51",
+      "summary_phrase": "Mitch Johnson on the team's passing and turnover issues",
+      "names_mentioned": [],
+      "excerpt": "I actually don't think our passing has been very sharp this year",
+      "quote": "It hasn't shown itself in turnovers. I actually don't think our passing has been very sharp this year. I think we've had a lot of passes that have not been on time on target. I think it's affected our shooting at times. We're doing a very good job for the most part this year of ball security. Tonight we did not. So, yeah, I don't know. We had 37 assists, which I love. Obviously 21 turnovers for 25 Clipper points is way too many, so we can bottle that up and be a little bit sharper.",
+      "text_blocks": [],
+      "start_seconds": 51,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mitch Johnson says the Spurs passing has not been sharp this year. While they had 37 assists tonight, he noted that 21 turnovers leading to 25 Clippers points is way too many.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson evaluates the team's passing quality and turnover issues following a game against the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:24",
+      "summary_phrase": "Mitch Johnson on Jordan's professional approach and value to the team",
+      "names_mentioned": [
+        "Jordan"
+      ],
+      "excerpt": "He's always ready, he's a consummate professional",
+      "quote": "Kind of come to expect it at this point. He's always ready, he's a consummate professional. He knows exactly what he's going to do on the court and what we're asking of him and has very valuable for a coaching a team and a player.",
+      "text_blocks": [],
+      "start_seconds": 84,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Mitch Johnson praises the professionalism of his players, noting that he has come to expect a high level of preparation and reliability from them on the court.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jordan"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson praises Jordan for his professional approach and readiness to contribute to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:48",
+      "summary_phrase": "Mitch Johnson on Julian's ability to thrive in any role",
+      "names_mentioned": [
+        "Julian"
+      ],
+      "excerpt": "I'll take him taking as many shots as he wants over time",
+      "quote": "He's been doing it for a while for this team. Again, when we find someone like him with good passes and catch him in rhythm, I'll take him taking as many shots as he wants over time. I trust the percentages on that.",
+      "text_blocks": [],
+      "start_seconds": 108,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson expresses full confidence in Julian, saying he trusts his percentages and wants him taking as many shots as he wants when he is in rhythm.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Julian"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson expresses trust in Julian's shooting ability and his capacity to thrive in his role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mitch Johnson",
+      "timestamp": "02:23",
+      "summary_phrase": "Mitch Johnson on the team's defensive energy and activity",
+      "names_mentioned": [],
+      "excerpt": "I thought in the second half, we really put some energy into the game",
+      "quote": "I thought in the second half, we really put some energy into the game and our activity was raised, our physicality was raised. And I think that's when we started creating more possessions, whether it was steals on defense, offensive rebounds on offense, and just playing with more energy. And again, we played with enough guys off the bench tonight that it felt like that was warranted, and I thought we got to it. We needed more consistent, but we did a good job with that as the game went on.",
+      "text_blocks": [],
+      "start_seconds": 143,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson credits the Spurs second half turnaround to increased energy and physicality, which helped the team create more possessions through steals and offensive rebounds.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson reflects on the team's improved defensive energy and physicality during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mitch Johnson",
+      "timestamp": "03:22",
+      "summary_phrase": "Mitch Johnson on adjusting to aggressive defensive schemes",
+      "names_mentioned": [
+        "Victor",
+        "Luca"
+      ],
+      "excerpt": "I thought we did a better job, it's probably threefold",
+      "quote": "I thought we did a better job. It's probably threefold, making sure we put the players in the right environments or preparation in terms of then what to do when they see that. And then there's the spacing aspect around that and there's also a little bit of adamant of still rolling if you're Victor or Luca at times to cause that crowd and then that opens up things on the back end or on the second side. And then there's the obviously going back to the passing and making them then chase after that because they can't take away that and cover on the on the perimeter.",
+      "text_blocks": [],
+      "start_seconds": 202,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Mitch Johnson breaks down how the Spurs are adjusting to aggressive defensive schemes by focusing on spacing and utilizing Victor and Luca to draw the crowd and open up the perimeter.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama",
+          "Luca"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mitch Johnson explains the tactical adjustments needed to counter aggressive defensive schemes, specifically mentioning Victor Wembanyama and Luca.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "4aeTm6Jit5E",
+  "url": "https://www.youtube.com/watch?v=4aeTm6Jit5E",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-20T04:40:37Z",
+  "duration_seconds": 276,
+  "processed_at": "2026-11-20T05:12:21Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

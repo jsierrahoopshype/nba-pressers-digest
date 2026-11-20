@@ -1,0 +1,252 @@
+{
+  "video_title": "Nate Ament Postgame Media Availability | 11.19.26",
+  "speakers_seen": [
+    "Nate Ament"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nate Ament",
+      "timestamp": "00:06",
+      "summary_phrase": "Nate Ament on his offensive confidence and decision-making growth",
+      "names_mentioned": [],
+      "excerpt": "the decision making how quick that's come for me just from a shoot it from a drive",
+      "quote": "Very confident, I think. Learning the offense and learning the players I am playing with, learning the spots I can attack and just the decision making how quick that's come for me just from a shoot it from a drive, but just reading the defense and knowing what I am going to do before I catch it.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Nate Ament says his offensive growth is coming from learning the system and reading the defense before he even catches the ball.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament discusses his personal growth in offensive confidence and decision-making during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nate Ament",
+      "timestamp": "00:35",
+      "summary_phrase": "Nate Ament on the defensive challenge of guarding Jrue Holiday",
+      "names_mentioned": [
+        "Jrue Holiday"
+      ],
+      "excerpt": "Jrue Holiday probably my favorite player in the league now just because of what he did",
+      "quote": "I think I have grown. Guarding the best players also teaches me a lot about offense, about my offense. Tonight was tough. Jrue Holiday probably my favorite player in the league now just because of what he did. That was crazy, but it is good to go against all different type of players across the league.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Nate Ament says Jrue Holiday is now his favorite player in the league after facing him tonight. He called the experience of guarding him crazy.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jrue Holiday"
+        ],
+        "teams": [
+          "MIL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Nate Ament reflects on the challenge of guarding Jrue Holiday after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nate Ament",
+      "timestamp": "00:57",
+      "summary_phrase": "Nate Ament on the physicality and decision-making of NBA superstars",
+      "names_mentioned": [],
+      "excerpt": "the force they play with the physicality their decision making and how strong they are",
+      "quote": "I have gotten a chance to play against a lot of the superstars of the league and guard them. I think what is synonymous with them all, even though they have all different games, is just the force they play with, the physicality, their decision making and how strong they are with the ball. So I have tried to take that and play with the same amount of force and quickness and understand my game more.",
+      "text_blocks": [],
+      "start_seconds": 57,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Nate Ament on what he has learned from guarding NBA superstars: It is all about the force, physicality, and decision making they play with.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament explains what he has learned about physicality and decision-making from guarding NBA superstars.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nate Ament",
+      "timestamp": "01:46",
+      "summary_phrase": "Nate Ament on learning from veteran offensive execution",
+      "names_mentioned": [],
+      "excerpt": "just their offensive execution the way that they were so good at playing off each other",
+      "quote": "Just their offensive execution, the way that they were so good at playing off each other. They knew who is getting the ball where and when they were getting it. So I think just for us learning that and how they took it to another level as the quarters went on.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nate Ament says the team is focused on learning from the offensive execution of veteran opponents who know exactly where the ball needs to go.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament discusses observing the offensive execution of the opposing team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nate Ament",
+      "timestamp": "02:13",
+      "summary_phrase": "Nate Ament on the team's need for better late-game execution",
+      "names_mentioned": [],
+      "excerpt": "down the stretch we got to be better at executing and a lot of it comes down",
+      "quote": "I think that we have been getting better and better as we have progressed. It is just so hard to win in this league, especially going against some of the teams we have been going against these past couple months. I think down the stretch we got to be better at executing and a lot of it comes down to the other team making some spectacular plays and maybe more competitive effort on our side on the defensive end of the ball.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Nate Ament admits the team needs to be better at executing down the stretch and bringing more competitive effort on the defensive end.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament identifies the need for better late-game execution and defensive effort for the Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nate Ament",
+      "timestamp": "02:57",
+      "summary_phrase": "Nate Ament on the adjustment process for a young team",
+      "names_mentioned": [],
+      "excerpt": "it has been very tough it has been tough not coming from a lot of losses",
+      "quote": "It has been very tough. It has been tough not coming from a lot of losses. In the end, I think it will be good for us to learn how to lose and how to respond to losses, but it has been tough not coming from a lot of losses.",
+      "text_blocks": [],
+      "start_seconds": 177,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Nate Ament on the struggles of a young team: It has been tough not coming from a lot of losses, but learning how to respond to them will be good for us in the end.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament describes the difficulty of adjusting to a losing season as a young player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nate Ament",
+      "timestamp": "03:17",
+      "summary_phrase": "Nate Ament on the benefits of growing with another rookie",
+      "names_mentioned": [],
+      "excerpt": "it helps to bounce a lot of frustration off each other ways we can be better",
+      "quote": "For sure, I think it helps to bounce a lot of frustration off each other, ways we can be better, ways we can help the team even though we are rookies, ways we can try to get us more wins.",
+      "text_blocks": [],
+      "start_seconds": 197,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Nate Ament says it helps to have another rookie on the team to bounce frustration off of as they look for ways to contribute to more wins.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nate Ament discusses the benefits of navigating the rookie experience alongside another teammate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Nate Ament",
+      "timestamp": "03:37",
+      "summary_phrase": "Nate Ament on the team's progress and the process",
+      "names_mentioned": [],
+      "excerpt": "the way that we have been playing has been more about just the process possession by possession",
+      "quote": "Definitely. I think just the way that we have been playing has been more about just the process, possession by possession. Going back to the beginning of the season, there has been games where we put one good quarter together. Then throughout the season up until now, this game, I would say we put three and a half good quarters together. So it has just been building and building and building.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nate Ament sees progress in the team, noting they have gone from playing one good quarter to putting three and a half good quarters together.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament assesses the team's progress and focus on the process throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "HWq9Ssv2i0s",
+  "url": "https://www.youtube.com/watch?v=HWq9Ssv2i0s",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-20T04:32:51Z",
+  "duration_seconds": 258,
+  "processed_at": "2026-11-20T05:12:38Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

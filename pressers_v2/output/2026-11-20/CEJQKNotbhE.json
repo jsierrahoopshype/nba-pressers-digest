@@ -1,0 +1,336 @@
+{
+  "video_title": "“We Took To Long To Get Into Rhythm.” | LaMelo Ball Postgame Sound | 11.19.26",
+  "speakers_seen": [
+    "LaMelo Ball",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "LaMelo Ball on Minnesota's late-game offensive struggles",
+      "names_mentioned": [],
+      "excerpt": "I think we just hit too long. We should have hit beginning of the game.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "LaMelo, you guys played great defense to get back into the game in the fourth. What made it difficult down the stretch to just get a couple of buckets?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Probably just taking that long to really get to it. I think we just hit too long. We should have hit beginning of the game."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on the Timberwolves offensive struggles down the stretch: We took too long to get into rhythm. We should have hit beginning of the game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball discusses the team's offensive struggles during the final minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:17",
+      "summary_phrase": "LaMelo Ball on developing decision-making and team chemistry",
+      "names_mentioned": [
+        "Finch"
+      ],
+      "excerpt": "I feel like just more games, it will get better and better.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Finch was saying that he wants you to be able to make decisions on when to be aggressive late and when to get your other teammates involved. How are you going about that process of finding that?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "I feel like just more games, it will get better and better."
+        }
+      ],
+      "start_seconds": 17,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on his ongoing development and chemistry with the team: I feel like just more games, it will get better and better.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Finch"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "LaMelo Ball responds to a question about head coach Chris Finch's instructions regarding his late-game decision-making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "00:55",
+      "summary_phrase": "LaMelo Ball takes responsibility for final possession miss",
+      "names_mentioned": [],
+      "excerpt": "Just a bucket for real. I put that on me, so yeah. A good play.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What did you feel like was missing at the end of the game on that one possession?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "Just a bucket for real. I put that on me, so yeah. A good play."
+        }
+      ],
+      "start_seconds": 55,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "LaMelo Ball takes accountability for the final possession miss: Just a bucket for real. I put that on me.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball takes personal responsibility for failing to score on the final possession of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "01:26",
+      "summary_phrase": "LaMelo Ball on pick-and-roll chemistry with Rudy Gobert",
+      "names_mentioned": [
+        "Rudy",
+        "Kuminga",
+        "Jonathan"
+      ],
+      "excerpt": "It's really who's the defender, not really the screener.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You've been running pick-and-rolls with both bigs, but it seems like more with Kuminga a lot tonight. How does that change anything for you if you're running with Jonathan as the screener versus Rudy?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "It's really who's the defender, not really the screener."
+        }
+      ],
+      "start_seconds": 86,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on his pick and roll chemistry with different bigs: It is really who is the defender, not really the screener.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jonathan Kuminga",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball explains how he determines his approach in pick-and-roll situations based on the defender rather than the screener.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "01:42",
+      "summary_phrase": "LaMelo Ball evaluates Jonathan Kuminga's aggressive performance",
+      "names_mentioned": [
+        "Jonathan"
+      ],
+      "excerpt": "It was smooth. I thought he did well. All of us just some little dumb stuff.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Jonathan was pretty aggressive tonight. How did you think of his approach and his decision-making?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "It was smooth. I thought he did well. All of us just some little dumb stuff. I feel like if we would have critiqued that, we would have been straight."
+        }
+      ],
+      "start_seconds": 102,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on Jonathan Kuminga's performance: It was smooth. I thought he did well. All of us just some little dumb stuff.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball evaluates Jonathan Kuminga's aggressive play and overall performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "01:57",
+      "summary_phrase": "LaMelo Ball on Rudy Gobert's defensive versatility",
+      "names_mentioned": [
+        "Rudy"
+      ],
+      "excerpt": "He's a four-time defensive player. It's self-explanatory. He knows how to play defense real good.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "In the fourth, New York was trying to get Rudy on switches on the front, and you've played point guard against him before. How is Rudy so good at defending point guards when people are hunting him like that?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "He's a four-time defensive player. It's self-explanatory. He knows how to play defense real good."
+        }
+      ],
+      "start_seconds": 117,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "LaMelo Ball on Rudy Gobert's defensive versatility: He is a four-time defensive player. It is self-explanatory. He knows how to play defense real good.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN",
+          "NYK"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball praises Rudy Gobert's defensive ability when facing switches against opposing guards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "LaMelo Ball",
+      "speakers": [
+        "Unidentified reporter",
+        "LaMelo Ball"
+      ],
+      "timestamp": "02:30",
+      "summary_phrase": "LaMelo Ball on Anthony Edwards' impact from the bench",
+      "names_mentioned": [
+        "Ant"
+      ],
+      "excerpt": "It's always love to just have him out there. Another voice, people going to listen.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How was it with Ant on the bench? A couple of timeouts I seen both of you all talking. Was he like giving advice on what he's seeing?"
+        },
+        {
+          "speaker": "LaMelo Ball",
+          "text": "It's always love to just have him out there. Another voice, people going to listen, so we definitely love it."
+        }
+      ],
+      "start_seconds": 150,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on having Anthony Edwards providing input from the bench: It is always love to just have him out there. Another voice, people going to listen, so we definitely love it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball describes the value of having Anthony Edwards providing input from the bench during timeouts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "CEJQKNotbhE",
+  "url": "https://www.youtube.com/watch?v=CEJQKNotbhE",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-20T05:01:49Z",
+  "duration_seconds": 170,
+  "processed_at": "2026-11-20T05:12:09Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

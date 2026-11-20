@@ -1,0 +1,242 @@
+{
+  "video_title": "Stephon Castle on Making Adjustments and Closing Out Game Strong",
+  "speakers_seen": [
+    "Stephon Castle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Stephon Castle",
+      "timestamp": "00:06",
+      "summary_phrase": "Stephon Castle on overcoming turnovers and securing a win",
+      "names_mentioned": [],
+      "excerpt": "It always feels good when you don't play your best, you still come out with the win.",
+      "quote": "It always feels good when you don't play your best, you still come out with the win. It gives you stuff to look at, but just understanding that we could beat teams in a lot of different ways with a lot of adversity on our back. Being able to see that, and I think closing out the fourth quarter was a positive.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Stephon Castle on the Spurs winning despite not playing their best: It always feels good when you do not play your best and still come out with the win.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle discusses the team's ability to secure a win despite not playing their best basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Stephon Castle",
+      "timestamp": "00:48",
+      "summary_phrase": "Stephon Castle on his offensive adjustments after halftime",
+      "names_mentioned": [
+        "Dylan"
+      ],
+      "excerpt": "I was getting probably just one dribble too deep into the paint.",
+      "quote": "I don't think it was anything they were doing. For me, I was getting probably just one dribble too deep into the paint, and by the time I tried to make my read, they were already pretty much reacting out. So, being able to make the adjustment at halftime, I think it opened it up for me.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Stephon Castle says his halftime adjustment was simple: he was taking one dribble too deep into the paint and needed to make his reads earlier.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle explains the offensive adjustments he made at halftime regarding his decision-making in the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Stephon Castle",
+      "timestamp": "01:27",
+      "summary_phrase": "Stephon Castle on the team's defensive intensity and physicality",
+      "names_mentioned": [],
+      "excerpt": "The game was a lot closer than we're comfortable with.",
+      "quote": "The game was a lot closer than we're comfortable with, and I feel a large part of that was us making it too easy for them offensively, allowing them to test the paint whenever, or us not rotating to an open shooter when they shoot one of the highest three-point percentages in the league. Just holding it on that, keeping them out of the paint, and trying to play more physical, trying to play our brand.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Stephon Castle on the Spurs defensive struggles: We were making it too easy for them offensively and not rotating to open shooters.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle reflects on the team's defensive lapses and the need for increased physicality.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Stephon Castle",
+      "timestamp": "02:10",
+      "summary_phrase": "Stephon Castle on team spacing and defensive coverage",
+      "names_mentioned": [
+        "Victor"
+      ],
+      "excerpt": "I don't think it's really a spacing thing for us. I think it's just because of Victor most times.",
+      "quote": "I don't think it's really a spacing thing for us. I think it's just because of Victor most times. I think just not trying to take a step ahead of the play and just read it, because teams guard us differently. Teams go from one through five red to blitzing to them packing the paint. Every team we play is a different type of coverage, so I don't think it's really a spacing thing for us. I think it's just trying to get to the paint with one less dribble and trying to make the right reads.",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Stephon Castle says the Spurs spacing issues are often just a result of how teams choose to defend Victor Wembanyama.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle discusses how opposing defensive coverages affect the team's offensive spacing and decision-making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Stephon Castle",
+      "timestamp": "03:21",
+      "summary_phrase": "Stephon Castle on the benefits of defensive blitzing",
+      "names_mentioned": [
+        "Vic",
+        "KJ"
+      ],
+      "excerpt": "It opens up the court on the back side so much for our shooters.",
+      "quote": "Most times when teams blitz us, whoever starts with the ball first usually doesn't get the assist, but it opens up the court on the back side so much for our shooters, especially with the creators that we have in the short roll, whether it's Vic or another guard or KJ or anybody like that. Being able to catch the ball in the middle and play second side with the three-on-two or two-on-one is pretty beneficial for us.",
+      "text_blocks": [],
+      "start_seconds": 201,
+      "end_seconds": 231,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Stephon Castle explains why teams blitzing the Spurs actually helps their offense: It opens up the court on the back side for shooters.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama",
+          "Keldon Johnson"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle explains how the team exploits defensive blitzing strategies to create open looks for shooters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Stephon Castle",
+      "timestamp": "03:55",
+      "summary_phrase": "Stephon Castle on Julian Champagnie's adaptability and impact",
+      "names_mentioned": [
+        "Julian"
+      ],
+      "excerpt": "He just focuses on the right things. He knows his strengths, and he plays to them all the time.",
+      "quote": "He just focuses on the right things. He knows his strengths, and he plays to them all the time. Whatever other four guys he's on the court with, I feel like he knows what he brings to our team, and we all know what we expect from him every night, whether shots are going in or not. I feel like that's where pretty much all his success comes from.",
+      "text_blocks": [],
+      "start_seconds": 235,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Stephon Castle on Julian Champagnie: He just focuses on the right things and knows his strengths. We all know what to expect from him every night.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Julian Champagnie"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Stephon Castle praises Julian Champagnie for his consistency and understanding of his role within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Stephon Castle",
+      "timestamp": "04:28",
+      "summary_phrase": "Stephon Castle on Jordan Hall's readiness and impact",
+      "names_mentioned": [
+        "Jordan",
+        "J-Mac"
+      ],
+      "excerpt": "J-Mac is always ready to play.",
+      "quote": "I think coach said it best. J-Mac is always ready to play, and whether he comes into the game for two minutes or ten minutes, I feel like we all feel his impact right away on both ends. Just making the right play, being able to touch the paint, knowing all of our defensive coverages, so having those kind of guys on your team, those are the kind of guys you want to play with.",
+      "text_blocks": [],
+      "start_seconds": 268,
+      "end_seconds": 297,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Stephon Castle praises Jordan Hall for his readiness: Whether he comes in for two minutes or ten, we all feel his impact right away on both ends.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jordan Hall"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Stephon Castle commends Jordan Hall for his readiness and immediate impact whenever he enters the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "0VWvumox1Kg",
+  "url": "https://www.youtube.com/watch?v=0VWvumox1Kg",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-20T04:45:34Z",
+  "duration_seconds": 311,
+  "processed_at": "2026-11-20T05:12:23Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

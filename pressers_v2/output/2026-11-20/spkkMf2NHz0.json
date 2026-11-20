@@ -1,0 +1,142 @@
+{
+  "video_title": "Victor Wembanyama on Team Being Connected and Making Progress",
+  "speakers_seen": [
+    "Victor Wembanyama"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "00:25",
+      "summary_phrase": "Victor Wembanyama on Jordan McLaughlin's leadership and impact",
+      "names_mentioned": [
+        "Jordan McLaughlin"
+      ],
+      "excerpt": "He has been an example to all of us on how to respond to all sorts of situations",
+      "quote": "He has been an example to all of us on how to respond to all sorts of situations that he has been put in. He keeps this base for all of us. He keeps showing the example, impacting the game whether he plays 15 or zero minutes. He impacts the game, he impacts us, he says the right things. So, he is inspiring all of us.",
+      "text_blocks": [],
+      "start_seconds": 25,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Victor Wembanyama praises Jordan McLaughlin for his leadership and impact on the Spurs roster regardless of his playing time saying he is an example to the whole team.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jordan McLaughlin"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Victor Wembanyama discusses the leadership qualities and positive influence of his teammate Jordan McLaughlin.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "00:57",
+      "summary_phrase": "Victor Wembanyama on his recurring dunking injury",
+      "names_mentioned": [],
+      "excerpt": "I have had this blister forever and it is killing me",
+      "quote": "I am not going to lie, I have had this blister forever and it is killing me. Every time I dunk it kills me, so if I can avoid it, I will avoid it. I have been dragging this blister for I do not know how long because of dunking. If I can avoid it, I will avoid it.",
+      "text_blocks": [],
+      "start_seconds": 57,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 9,
+      "social_post": "Victor Wembanyama reveals he has been playing through a recurring blister that is killing him every time he dunks saying if he can avoid dunking he will avoid it.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Victor Wembanyama explains that he is dealing with a persistent blister on his hand that causes him pain when he dunks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "01:53",
+      "summary_phrase": "Victor Wembanyama on team defensive connectivity",
+      "names_mentioned": [],
+      "excerpt": "The main thing is we were all connected and we were on the floor together",
+      "quote": "Defense was solid, still some mistakes here and there, but the main thing is we were all connected and we were on the floor together, played defense together. We were mostly on the same page tonight, so that compensates for some of the mistakes.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Victor Wembanyama says the Spurs defensive effort was solid tonight noting that while there were still mistakes the team was connected and on the same page.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama reflects on the team's defensive performance and their ability to stay connected on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "03:02",
+      "summary_phrase": "Victor Wembanyama on prioritizing body health and shooting development",
+      "names_mentioned": [],
+      "excerpt": "I have really put in priority my body and working on my body",
+      "quote": "For now in my career, I have really put in priority my body and working on my body. It is true that the shooting repetitions, I do not do them enough in the season, they arrive during the season. And because a reality of my game is that the more I am in form, the better I am. And when I am in form, even the difficult shots go in. So, I do not worry because I know that I am perhaps a diesel on the long term. But it will go in, I have no doubt. It is my best season for now, and it is my worst season to shoot. That just means that there is still a lot of potential.",
+      "verbatim_original_language": "Pour l'instant dans ma carrière, j'ai vraiment mis en priorité mon corps et travailler sur mon corps. Et c'est vrai que les répétitions de tir, je les fais pas assez pendant la saison, elles arrivent pendant la saison. Et parce qu'une réalité aussi de mon jeu, c'est que plus je suis en forme, meilleur je suis. Et quand je suis en forme, même les tirs difficiles ils rentrent. Donc ouais ouais ouais voilà, je je m'inquiète pas parce que je sais que comme je l'ai dit, je suis peut-être un diesel sur le long terme. Mais ouais ça ça va rentrer, je me fais aucun doute, j'ai aucun doute. C'est ma meilleure saison pour l'instant et c'est ma pire saison au shoot. Ça veut juste dire qu'il y a encore beaucoup de potentiel.",
+      "text_blocks": [],
+      "start_seconds": 182,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Victor Wembanyama remains confident in his shooting despite a slow start to the season saying he is a diesel on the long term and that his current struggles show there is still a lot of potential.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama discusses his focus on physical conditioning and his confidence that his shooting will improve over time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "spkkMf2NHz0",
+  "url": "https://www.youtube.com/watch?v=spkkMf2NHz0",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-20T04:47:18Z",
+  "duration_seconds": 290,
+  "processed_at": "2026-11-20T05:12:23Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

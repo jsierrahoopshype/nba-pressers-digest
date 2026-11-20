@@ -1,0 +1,295 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Portland Trail Blazers 124, Milwaukee Bucks 114 | Nov. 19, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:07",
+      "summary_phrase": "Micah Nori on Portland's turnover and rebounding struggles",
+      "names_mentioned": [],
+      "excerpt": "the thing that hurt us obviously is the 22 turnovers and then the 12 rebounds",
+      "quote": "I think so, but I also think that the thing that hurt us obviously is the 22 turnovers and then the 12 rebounds that we allowed offensively for them. We give them 20 second-chance points and we give them 31 points off turnovers. So a lot of that was self-inflicted. However, I thought it was still a gutsy win by our guys. We were just trying to find a group of five that gave us some consistent minutes and in the fourth quarter we challenged them and they hold them to 22 points defensively.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Micah Nori on the Blazers win over the Bucks: We gave them 20 second chance points and 31 points off turnovers. A lot of that was self inflicted but it was still a gutsy win by our guys.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Head coach Micah Nori discusses the team's performance and turnover struggles following their win against the Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "00:43",
+      "summary_phrase": "Micah Nori praises Scoot Henderson's performance off the bench",
+      "names_mentioned": [
+        "Scoot Henderson",
+        "Drew Holiday"
+      ],
+      "excerpt": "Scoot Henderson, comes off the bench for 35 minutes, goes 8 for 12, 5 for 6",
+      "quote": "Shout out to Scoot Henderson, comes off the bench for 35 minutes, goes 8 for 12, 5 for 6. We challenge him to get more involved on the glass. He finds a way to find seven offensive rebounds and scores 27, and then Drew Holiday to come back here and be a plus-33 was phenomenal. But you got to find a way to win some ugly games. They are all not going to be pretty, and we made enough plays in the end and got enough stops to get it done.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Micah Nori praised Scoot Henderson after his 27 point performance off the bench: You have to find a way to win some ugly games. They are all not going to be pretty and we made enough plays in the end to get it done.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson",
+          "Drew Holiday"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Nori praises the individual performances of Scoot Henderson and Drew Holiday in the win against Milwaukee.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "01:15",
+      "summary_phrase": "Micah Nori on the impact of Dame and Drew Holiday",
+      "names_mentioned": [
+        "Dame",
+        "Drew Holiday"
+      ],
+      "excerpt": "when you have the gravity of Dame and you have the multiple ball-handlers, it's difficult to guard",
+      "quote": "It just slowed things down. The one thing that we were able to do was to get into the paint. When you have the gravity of Dame and you have the multiple ball-handlers, which we had at the end of the floor, it's difficult to guard. When you get into the paint and we have willing passers to kick and then now all of a sudden the driving lanes open up and we were able to either get to the free-throw line, get to the rim, or find a kick-out and knock some of those down.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 112,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Micah Nori on the Blazers offense: When you have the gravity of Dame and you have the multiple ball handlers at the end of the floor it is difficult to guard.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard",
+          "Drew Holiday"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori explains how the offensive gravity and playmaking of Damian Lillard and Drew Holiday helped the team execute.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "02:06",
+      "summary_phrase": "Micah Nori on maintaining faith in Scoot Henderson",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "we've never lost any faith in Scoot. Every single player is going to have ups and downs",
+      "quote": "Like when I talk with Scoot, and you guys know this, you've been around me a long time, we've never lost any faith in Scoot. Every single player is going to have ups and downs throughout the season and his just happened to be at the start of it. I know he was struggling to make his threes, however, he's taking good ones and we've never told him to stop shooting. And then you see tonight, he goes 5 for 6. You're not going to play consistently really good for 82 games, no one is.",
+      "text_blocks": [],
+      "start_seconds": 126,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Micah Nori on Scoot Henderson: We have never lost any faith in Scoot. Every single player is going to have ups and downs throughout the season and his just happened to be at the start of it.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori reaffirms the coaching staff's continued faith in Scoot Henderson despite his shooting struggles earlier in the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "03:07",
+      "summary_phrase": "Micah Nori on supporting players during injury absences",
+      "names_mentioned": [
+        "Drew Holiday",
+        "Scoot Henderson"
+      ],
+      "excerpt": "we've got a lot of guys out and I think that he was just telling the guys",
+      "quote": "I think that, but also I think that we've got a lot of guys out and I mean like everybody around the league. And I think that he was just telling the guys in there that more so just what we all needed to do to help support the guys that we do have out. And to be able to continue to win basketball games until you get healthy again is a sign and it goes back to your question about Drew and Dame.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori on the Blazers injury situation: To be able to continue to win basketball games until you get healthy again is a sign.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Damian Lillard",
+          "Drew Holiday"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Micah Nori discusses the importance of supporting the roster while dealing with multiple player injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Nori",
+      "timestamp": "04:04",
+      "summary_phrase": "Micah Nori compares Tumani Camara and Jaden McDaniels",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Tumani Camara"
+      ],
+      "excerpt": "Tumani does a phenomenal job of just, no matter what you ask him to do",
+      "quote": "It's funny because I just came from a place in Minnesota where we have Jaden McDaniels and they are both very, very similar. The thing that's great about both of them is that you can put them on anybody one through five. And Tumani does a phenomenal job of just, no matter what you ask him to do, chase, be on the ball, off ball, you see how his body position, he's willing to put his body on the line to take charges, get offensive fouls.",
+      "text_blocks": [],
+      "start_seconds": 244,
+      "end_seconds": 277,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Micah Nori compares Tumani Camara to Jaden McDaniels: They are both very similar. The thing that is great about both of them is that you can put them on anybody one through five.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Toumani Camara",
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "POR",
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Nori compares the defensive versatility of Toumani Camara to his former player Jaden McDaniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Micah Nori",
+      "timestamp": "05:11",
+      "summary_phrase": "Micah Nori on Scoot Henderson's confidence and shot selection",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "I think he took some better ones. He didn't really force anything",
+      "quote": "I think that's the one thing and I think he took some better ones. He didn't really force anything. Maybe he thought maybe he forced one or two and that's being nitpicky if you will, but I thought all of his shots were good. I loved his pace, I loved his energy on the defensive end, I loved his pursuit of the basketball. Again, seven rebounds and he went and got it, went and got some 50-50 balls.",
+      "text_blocks": [],
+      "start_seconds": 311,
+      "end_seconds": 341,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori on Scoot Henderson: I loved his pace, I loved his energy on the defensive end, I loved his pursuit of the basketball. He went and got some 50 50 balls.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori evaluates Scoot Henderson's shot selection and energy level during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Micah Nori",
+      "timestamp": "06:17",
+      "summary_phrase": "Micah Nori on Hansson's role and contribution",
+      "names_mentioned": [
+        "Hansson",
+        "Donovan",
+        "Rob"
+      ],
+      "excerpt": "anytime Hansson plays 12 minutes and he's a minus-two, that's okay",
+      "quote": "I think that he was serviceable for sure, had the two turnovers and anytime Hansson plays 12 minutes and he's a minus-two, that's okay. Because basically what we want to be able to do is be able to sustain where we're at while Donovan is out and especially when Rob is out. So again, we were able to hold water with him on the floor and he was absolutely fine. They weren't picking on him, we were running all of our stuff normally.",
+      "text_blocks": [],
+      "start_seconds": 377,
+      "end_seconds": 409,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Micah Nori on Hansson: He was serviceable for sure. Basically what we want to be able to do is be able to sustain where we are at while Donovan is out.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Hansson",
+          "Donovan Clingan",
+          "Robert Williams III"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Micah Nori assesses Hansson's performance while filling in for injured teammates Donovan Clingan and Robert Williams III.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "IRl-bPYpQzs",
+  "url": "https://www.youtube.com/watch?v=IRl-bPYpQzs",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-20T04:22:34Z",
+  "duration_seconds": 415,
+  "processed_at": "2026-11-20T05:12:43Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

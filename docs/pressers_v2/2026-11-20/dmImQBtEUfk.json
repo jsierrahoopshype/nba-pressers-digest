@@ -1,0 +1,250 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 11.19.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:10",
+      "summary_phrase": "Nate's performance and growth as a player",
+      "names_mentioned": [
+        "Nate"
+      ],
+      "excerpt": "Nate was awesome tonight. He played with a lot of poise, played with a lot of pop.",
+      "quote": "Nate was awesome tonight. He had a rough one last night, but he played with a lot of poise, played with a lot of pop. The rebounding, on-ball defense I thought was pretty solid. Some areas where he is going to continue to get better in, shot with confidence from the three-point line, which he has been doing the last couple of weeks. He was a big impact for us tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 10,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins praised Nate for his poise and impact tonight, noting he played with a lot of pop and shot with confidence from the three-point line.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nate"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the performance and growth of Nate following the team's recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:30",
+      "summary_phrase": "Braden's defensive challenge guarding Damian Lillard",
+      "names_mentioned": [
+        "Braden",
+        "Damian Lillard"
+      ],
+      "excerpt": "Braden just offensive challenges every night, defensive challenges every night. The physicality is going up against Damian Lillard.",
+      "quote": "Braden just offensive challenges every night, defensive challenges every night. The physicality is going up against Damian Lillard, one of the best guards ever. Good moments and struggle moments, so just great learning opportunity for him. He made some big-time plays, especially I think he was part of those groups that went on some runs for us. So great learning opportunity but also a lot of positive from both those guys tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 30,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins on Braden guarding Damian Lillard: It was a great learning opportunity for him to face one of the best guards ever and handle that level of physicality.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Braden",
+          "Damian Lillard"
+        ],
+        "teams": [
+          "MIL",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins evaluates Braden's defensive performance while guarding Damian Lillard.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:58",
+      "summary_phrase": "Caris LeVert's veteran leadership and impact",
+      "names_mentioned": [
+        "Caris LeVert"
+      ],
+      "excerpt": "He has built really good relationships with a lot of our guys, especially our young guys.",
+      "quote": "He has built really good relationships with a lot of our guys, especially our young guys. But his approach every single day, ultimate pro. These last two games are really his real opportunity that he has gotten since the start of the regular season. He stays ready, he attacks our play groups for his ability to impact the team. Whether that is helping other guys stay ready, that may be out of the rotation, or coming back into the rotation, but also waiting for his opportunity.",
+      "verbatim_original_language": "",
+      "start_seconds": 58,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins calls Caris LeVert an ultimate pro for how he has stayed ready and mentored the young guys while waiting for his opportunity in the rotation.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Caris LeVert"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins praises Caris LeVert for his veteran leadership and professional approach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:57",
+      "summary_phrase": "Need for better execution in closing games",
+      "names_mentioned": [],
+      "excerpt": "Better execution. Give the Trail Blazers a lot of credit. They have got some elite defenders.",
+      "quote": "Better execution. Give the Trail Blazers a lot of credit. They have got some elite defenders all up and down that lineup, playing big, playing small. So just our ability to continue to play with pace but get organized. We dialed up what we wanted to do, but we did not really get in attack mode once we got to where we wanted to. So a little bit better execution, a little bit better recognition of the personnel that is out there who we want to attack.",
+      "verbatim_original_language": "",
+      "start_seconds": 117,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says the team needs better execution and recognition of personnel in closing games after struggling to get into attack mode against the Trail Blazers.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins addresses the need for better execution and organization during the closing stages of the game against the Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:11",
+      "summary_phrase": "Development and consistency of young players",
+      "names_mentioned": [],
+      "excerpt": "I have seen a lot of growth. These guys for the most part are putting consistency together.",
+      "quote": "I have seen a lot of growth. These guys for the most part are putting consistency together. I love their mentality, I love their hunger, they are quick learners. They are going to make their mistakes, but they learn from them pretty quickly. There was a couple cases of that tonight, so I give them a lot of credit. They play with confidence too. They are seeing different things, new things every single night, different personnel, different coverages, different levels of physicality, different speed.",
+      "verbatim_original_language": "",
+      "start_seconds": 191,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins is seeing growth and consistency from the young players, noting that they are quick learners who play with confidence despite facing new challenges every night.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins comments on the development and consistency shown by the team's young players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "04:06",
+      "summary_phrase": "Rationale for starting lineup changes",
+      "names_mentioned": [
+        "Miles",
+        "Kuz",
+        "Pete"
+      ],
+      "excerpt": "Miles and Kuz dealing with some things that flagged in the last game.",
+      "quote": "Miles and Kuz dealing with some things that flagged in the last game. Anticipate them just day-to-day, they should be back on Saturday. But Pete has been awesome. All of our guys, all of our two-ways, Pete, Cormac, Cam have been staying ready. Bogie, their opportunities with the herd, so just felt like it was an opportunity second night, late night last night, inject some life into us.",
+      "verbatim_original_language": "",
+      "start_seconds": 246,
+      "end_seconds": 272,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins says Miles and Kuz are day to day with minor issues but expects them back on Saturday.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Miles",
+          "Kuz",
+          "Pete",
+          "Cormac",
+          "Cam",
+          "Bogie"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Taylor Jenkins provides injury updates on Miles and Kuz and explains the decision to adjust the starting lineup.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "05:00",
+      "summary_phrase": "Casper's evolution as a scorer and shooter",
+      "names_mentioned": [
+        "Casper"
+      ],
+      "excerpt": "He is more than just a facilitator and a pass-first point guard.",
+      "quote": "He is still a really good playmaker, his ability to get into the paint, to navigate isos and pick-and-rolls. He has been doing a really good job of that, but then his ability to move off the ball. He moves with purpose, he moves with pace. I think that has aided him in finding rhythm from the three-point line. He is relentless in his offensive rebounding, creating extra life. He is more than just a facilitator and a pass-first point guard. I think he can do both and he is continuing to figure out where he can make that imprint.",
+      "verbatim_original_language": "",
+      "start_seconds": 300,
+      "end_seconds": 338,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says Casper is evolving beyond being a pass first point guard, highlighting his improved off ball movement and relentless offensive rebounding.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Casper"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the evolution of Casper's offensive game, specifically his scoring and shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "dmImQBtEUfk",
+  "url": "https://www.youtube.com/watch?v=dmImQBtEUfk",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-20T04:21:09Z",
+  "duration_seconds": 363,
+  "processed_at": "2026-11-20T05:12:50Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

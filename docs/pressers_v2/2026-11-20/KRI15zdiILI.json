@@ -1,0 +1,176 @@
+{
+  "video_title": "“We Were Swinging For Home Runs, But Couldn't Connect.” | Chris Finch Postgame Sound | 11.19.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:00",
+      "summary_phrase": "Chris Finch on the controversial blown whistle at the end of the game",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "It hit the rim and it went straight down to the floor.",
+      "quote": "It was clearly that it hit the rim. It hit the rim and it went straight down to the floor. I have seen a lot of basketball, and sure somewhere along the way I have seen it. We are continually told that these are the best in the world and you cannot miss that at this time. You just cannot.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 7,
+      "social_post": "Chris Finch on the late game no-call: It was clearly that it hit the rim. We are continually told that these are the best in the world and you cannot miss that at this time. You just cannot.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses a controversial officiating decision regarding a potential rim-hitting violation at the end of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:43",
+      "summary_phrase": "Chris Finch on the need for better offensive execution down the stretch",
+      "names_mentioned": [],
+      "excerpt": "We are trying to hit home runs. We have to go back to moving people along the base path.",
+      "quote": "We are trying to hit home runs. We have to go back to moving people along the base path and letting everybody get involved.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch on the Timberwolves offensive struggles: We were swinging for home runs but could not connect. We have to go back to moving people along the base path and letting everybody get involved.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the need for better offensive execution and ball movement during the final minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:23",
+      "summary_phrase": "Chris Finch on Jaden McDaniels' aggressive return from injury",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "I like when he just goes quick and gets his shoulder down and goes to the rim.",
+      "quote": "I like when he just goes quick and gets his shoulder down and goes to the rim. He played great defense. I thought he had a really good all-around game.",
+      "text_blocks": [],
+      "start_seconds": 83,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Chris Finch liked what he saw from Jaden McDaniels in his return: I like when he just goes quick and gets his shoulder down and goes to the rim. He played great defense.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Chris Finch evaluates Jaden McDaniels' performance and aggressiveness in his return to the lineup following an injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "02:50",
+      "summary_phrase": "Chris Finch on LaMelo Ball's need to prioritize playmaking over scoring",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "He has to get back to playing making a little bit more than trying to score.",
+      "quote": "It starts with LaMelo. He has to get back to playing making a little bit more than trying to score in all those situations. When we have had some of our best closing moments this season, it has been him creating advantage situations and getting to the paint and making the right decision.",
+      "text_blocks": [],
+      "start_seconds": 170,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Chris Finch on LaMelo Ball: He has to get back to playing making a little bit more than trying to score in all those situations. It starts with LaMelo.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the need for LaMelo Ball to focus more on playmaking rather than scoring in late-game situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "03:28",
+      "summary_phrase": "Chris Finch on the frustration of a no-call on a challenge",
+      "names_mentioned": [],
+      "excerpt": "I had to burn a timeout on the challenge, which was also a no-call.",
+      "quote": "I had to burn a timeout on the challenge, which was also a no-call. So much so that they rewarded a flop. I was really trying to save that timeout for whatever might happen in the closing seconds. I regret not being able to get us a better organized at that point in time.",
+      "text_blocks": [],
+      "start_seconds": 208,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Chris Finch on the officiating frustration: I had to burn a timeout on the challenge, which was also a no-call. So much so that they rewarded a flop.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Chris Finch expresses frustration over a failed challenge and the resulting loss of a timeout during the game's final moments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "KRI15zdiILI",
+  "url": "https://www.youtube.com/watch?v=KRI15zdiILI",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-20T04:53:51Z",
+  "duration_seconds": 280,
+  "processed_at": "2026-11-20T05:12:09Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

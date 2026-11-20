@@ -1,0 +1,334 @@
+{
+  "video_title": "Caris LeVert Postgame Media Availability | 11.19.26",
+  "speakers_seen": [
+    "Caris LeVert",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Caris LeVert",
+      "speakers": [
+        "Unidentified reporter",
+        "Caris LeVert"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Caris LeVert on his role as a veteran leader",
+      "names_mentioned": [],
+      "excerpt": "just leaning on my experience, trying to give them little nuggets that I have",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What's been the most important thing for you just from a leadership standpoint when it comes to this team and the youth that you have here?"
+        },
+        {
+          "speaker": "Caris LeVert",
+          "text": "Just leaning on my experience, trying to give them little nuggets that I have that I've learned along the way and just staying ready."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 19,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Caris LeVert says his leadership approach with the young Bucks roster is about leaning on his experience and trying to give them little nuggets he has learned along the way.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Caris LeVert discusses his role as a veteran leader and how he shares his experience with younger teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Caris LeVert",
+      "speakers": [
+        "Unidentified reporter",
+        "Caris LeVert"
+      ],
+      "timestamp": "00:26",
+      "summary_phrase": "Caris LeVert on providing energy from the bench",
+      "names_mentioned": [
+        "Caleb"
+      ],
+      "excerpt": "we were looking for some energy. They had made a run and from the bench you can see",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "So you scrapping for offensive rebounds, you had that nice layup. How did you feel that had an effect on the team in the fourth quarter?"
+        },
+        {
+          "speaker": "Caris LeVert",
+          "text": "We were looking for some energy. They had made a run and from the bench you can see little things that you can inject into the team. I just tried to make little plays out there. Our guys made some shots when I was in there, let the energy explode a little bit. Caleb had a big dunk, so we had some good energy in there for sure."
+        }
+      ],
+      "start_seconds": 26,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Caris LeVert on providing energy from the bench during the fourth quarter run: I just tried to make little plays out there. Our guys made some shots when I was in there, let the energy explode a little bit.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Caleb"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Caris LeVert explains how he tried to bring energy from the bench during the fourth quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Caris LeVert",
+      "speakers": [
+        "Unidentified reporter",
+        "Caris LeVert"
+      ],
+      "timestamp": "01:20",
+      "summary_phrase": "Caris LeVert on mentoring young players",
+      "names_mentioned": [],
+      "excerpt": "it changes game to game, day to day. I think it just depends on who we're playing",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Talking about giving nuggets to the young guys and being a mentor, what is that sort of main message you're giving to those guys?"
+        },
+        {
+          "speaker": "Caris LeVert",
+          "text": "It changes game to game, day to day. I think it just depends on who we're playing, who's in front of us. But I think the main thing is just take it day by day, don't get too high, don't get too low, and just keep getting one percent better every day."
+        }
+      ],
+      "start_seconds": 80,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Caris LeVert on his advice to young teammates: The main thing is just take it day by day, don't get too high, don't get too low, and just keep getting one percent better every day.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Caris LeVert describes his general mentoring philosophy for the younger players on the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Caris LeVert",
+      "speakers": [
+        "Unidentified reporter",
+        "Caris LeVert"
+      ],
+      "timestamp": "01:37",
+      "summary_phrase": "Caris LeVert on Nate's development and confidence",
+      "names_mentioned": [
+        "Nate"
+      ],
+      "excerpt": "I love Nate's approach to the game, you know, he's very even-keeled",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You see Nate with a career high tonight in points. How have you seen him figure things out and how to be effective?"
+        },
+        {
+          "speaker": "Caris LeVert",
+          "text": "I think you just see it with his confidence. I love Nate's approach to the game, you know, he's very even-keeled. He's one of the guys getting in extra work every day, he asks questions as well, so I've been really happy with his development so far."
+        }
+      ],
+      "start_seconds": 97,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Caris LeVert praises Nate for his career high performance and approach: I love Nate's approach to the game, he is very even keeled. He is one of the guys getting in extra work every day.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nate"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Caris LeVert praises the development and confidence of his teammate Nate following a career-high scoring performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Caris LeVert",
+      "speakers": [
+        "Unidentified reporter",
+        "Caris LeVert"
+      ],
+      "timestamp": "01:57",
+      "summary_phrase": "Caris LeVert on closing out NBA games",
+      "names_mentioned": [
+        "Drew",
+        "Dane"
+      ],
+      "excerpt": "to win in this league you need experience, and that's something that our guys are gaining",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "It was a close game until the final three minutes and they pulled away. What do you tell people about what it takes to how to close out an NBA game?"
+        },
+        {
+          "speaker": "Caris LeVert",
+          "text": "They've got two veteran guards, obviously they both played here so you guys know them very well. They both have that killer instinct. Obviously Drew has it on both ends of the floor, he displayed that tonight. Dane hit big shots all night, great to see him back from injury as well. But I think to win in this league you need experience, and that's something that our guys are gaining each and every day."
+        }
+      ],
+      "start_seconds": 117,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Caris LeVert on what it takes to close out games in the NBA: To win in this league you need experience, and that is something that our guys are gaining each and every day.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Drew",
+          "Dane"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Caris LeVert reflects on the importance of experience in closing out games and mentions Dane returning from injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Caris LeVert",
+      "speakers": [
+        "Unidentified reporter",
+        "Caris LeVert"
+      ],
+      "timestamp": "02:27",
+      "summary_phrase": "Caris LeVert on Braden's growth as a rookie",
+      "names_mentioned": [
+        "Braden",
+        "Nate"
+      ],
+      "excerpt": "Braden carries himself like a vet. I think that's something that everybody can see",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Speaking of that Braden also gaining experience, similar to what he asked about Nate, what are you seeing as far as his growth?"
+        },
+        {
+          "speaker": "Caris LeVert",
+          "text": "Braden carries himself like a vet. I think that's something that everybody can see. He's got an extremely bright future, but he's really good right now as well. He's got a lot of confidence, he's growing each and every day. I think those two rookies are amazing right now in their approach, and I think they're only going to get better."
+        }
+      ],
+      "start_seconds": 147,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Caris LeVert on rookie Braden: Braden carries himself like a vet. I think that is something that everybody can see. He has got an extremely bright future, but he is really good right now as well.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Braden",
+          "Nate"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Caris LeVert discusses the growth and professional approach of rookies Braden and Nate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Caris LeVert",
+      "speakers": [
+        "Unidentified speaker",
+        "Caris LeVert"
+      ],
+      "timestamp": "02:51",
+      "summary_phrase": "Caris LeVert on Braden's veteran mentality",
+      "names_mentioned": [],
+      "excerpt": "he doesn't get beside himself from mistakes, he's always looking at the next play mentality",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "We talked about him carrying himself like a vet, what does that look like to you?"
+        },
+        {
+          "speaker": "Caris LeVert",
+          "text": "He doesn't get beside himself from mistakes, he's always looking at the next play mentality. He's not afraid to take big shots, not afraid to guard the best player. I think he's played in a lot of big games, growing up AAU, high school, college, what so not. But I think he's got a really bright future."
+        }
+      ],
+      "start_seconds": 171,
+      "end_seconds": 199,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Caris LeVert on what makes rookie Braden look like a veteran: He does not get beside himself from mistakes, he is always looking at the next play mentality. He is not afraid to take big shots.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Braden"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Caris LeVert elaborates on why he believes Braden carries himself like a veteran player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "FBJnDGbTmkc",
+  "url": "https://www.youtube.com/watch?v=FBJnDGbTmkc",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-20T04:24:04Z",
+  "duration_seconds": 201,
+  "processed_at": "2026-11-20T05:12:36Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}
