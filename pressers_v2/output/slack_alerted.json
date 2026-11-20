@@ -1138,6 +1138,12 @@
    "run_id": "2026-11-13-overnight",
    "slot_date": "2026-11-13"
   },
+  "LWtuDXYvo5s": {
+   "at": "2026-11-20T01:47:09Z",
+   "quote": "the visuals and optics of falls potential injuries whatever you want to call it can be impressionable and that one did not look great there is a lot of webmd and you try to not let your mind run the w",
+   "run_id": "2026-11-20T0146Z-20utc",
+   "slot_date": "2026-11-19"
+  },
   "Lb_sDZzm5Hw": {
    "at": "2026-11-14T15:11:12Z",
    "quote": "obviously bam and giannis kind of had their way with us the rebounding piece hurt us again so until we figure out the rebounding and we did last game against the knicks to have a consistent mindset to",
@@ -2348,6 +2354,12 @@
    "seeded": true,
    "slot_date": "2026-10-29"
   },
+  "lrUQLibIqNg": {
+   "at": "2026-11-20T01:47:09Z",
+   "quote": "for us right now the priority is finding an identity without steph without brandon williams and the other guys it s been a rough trip obviously but we re focused on ourselves but that doesn t keep us ",
+   "run_id": "2026-11-20T0146Z-20utc",
+   "slot_date": "2026-11-19"
+  },
   "lt2F6cR_qag": {
    "at": "2026-11-13T16:32:22Z",
    "quote": "my first year as a rookie was disastrous i was hit from all sides i said this is not for me",
@@ -3086,38 +3098,5 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {
-  "LWtuDXYvo5s": {
-   "channel": "San Antonio Spurs",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-19",
-   "is_one_off": false,
-   "queued_at": "2026-11-20T01:47:09Z",
-   "run_id": "2026-11-20T0146Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-19",
-   "speaker": "Mitch Johnson",
-   "title": "Mitch Johnson on Team Depth and Next Man Up Mentality",
-   "top_quote": "The visuals and optics of falls, potential injuries, whatever you want to call it can be impressionable, and that one did not look great. There is a lot of WebMD and you try to not let your mind run the wrong way and you hope for the best, but you really do not know. It is part of things we cannot control, so just very lucky, fortunate, and mostly just happy for Dylan obviously that there will be some time, but I think like you said, very best case scenario for a lot of the things that what could have been.",
-   "video_id": "LWtuDXYvo5s"
-  },
-  "lrUQLibIqNg": {
-   "channel": "Golden State Warriors",
-   "clip_count": 2,
-   "content_type": "presser",
-   "date": "2026-11-19",
-   "is_one_off": false,
-   "queued_at": "2026-11-20T01:47:09Z",
-   "run_id": "2026-11-20T0146Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-19",
-   "speaker": "Steve Kerr",
-   "title": "Steve Kerr focused on finding Warriors' identity without Steph | NBC Sports Bay Area",
-   "top_quote": "For us right now, the priority is finding an identity without Steph, without Brandon Williams and the other guys. It's been a rough trip obviously, but we're focused on ourselves, but that doesn't keep us from going through the scouting report and matchups and making sure we're ready for Memphis.",
-   "video_id": "lrUQLibIqNg"
-  }
- }
+ "pending": {}
 }
