@@ -1,0 +1,172 @@
+{
+  "video_title": "“There Was A Lack Of Energy To Start The Game.” | Jonathan Kuminga Postgame Sound | 11.19.26",
+  "speakers_seen": [
+    "Jonathan Kuminga"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "01:09",
+      "summary_phrase": "Jonathan Kuminga on the team's lack of energy and focus",
+      "names_mentioned": [],
+      "excerpt": "I didn't know I had five. All of that just bite us at the end of the game.",
+      "quote": "Like I said earlier, just the technicals. We all committed. I looked, I got five. I didn't know I had five. All of that just bite us at the end of the game.",
+      "text_blocks": [],
+      "start_seconds": 69,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga admits the team struggled with technical fouls and focus during their recent loss saying the mistakes just bite us at the end of the game",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga discusses the team's lack of focus and technical fouls during a postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "01:25",
+      "summary_phrase": "Jonathan Kuminga on the team's slow start and energy levels",
+      "names_mentioned": [],
+      "excerpt": "Early in the game we didn't really have that much energy.",
+      "quote": "Early in the game we didn't really have that much energy. I don't know if it was energy or we were just ready to play or I don't know. I think it happens, but it's some stuff that we got to correct. We got to come off the gate just punching, playing, flying around.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga on the slow start against the opposition saying we have to come off the gate just punching playing flying around",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga reflects on the team's slow start and the need for better energy levels at the beginning of games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "03:54",
+      "summary_phrase": "Jonathan Kuminga on Rudy Gobert's defensive impact",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "He won four Defensive Player of the Year. He knows his own strategy.",
+      "quote": "He won four Defensive Player of the Year. He knows his own strategy, then he knows what he needs to do. He won four, it's nothing really I could go out there and teach him about defense as much and just, you know, encouraging him and being a good teammate for him all the time. It's a team commitment. We all want to win as much as we can.",
+      "text_blocks": [],
+      "start_seconds": 234,
+      "end_seconds": 261,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga on playing with Rudy Gobert saying he won four Defensive Player of the Year awards so there is nothing I could go out there and teach him about defense",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jonathan Kuminga comments on Rudy Gobert's defensive expertise and his own role as a supportive teammate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "04:42",
+      "summary_phrase": "Jonathan Kuminga on how Rudy Gobert forces opponents to adjust",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "He's going to make you think twice. It's not going to be that easy.",
+      "quote": "We have a lot of good players. You're going to score here and there, but he's going to make you think twice. It's not going to be that easy. You're going to score second time, you're going to try him, he's going to adjust, and you know, you got to think twice when you're going against Rudy Gobert.",
+      "text_blocks": [],
+      "start_seconds": 282,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga on the defensive impact of Rudy Gobert noting that when you go against him you are going to think twice",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga explains how Rudy Gobert forces opposing players to adjust their offensive approach when attacking the rim.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "05:15",
+      "summary_phrase": "Jonathan Kuminga on his role as a screener",
+      "names_mentioned": [],
+      "excerpt": "The more I do that, the more I get myself involved, I get my teammates involved.",
+      "quote": "I think I did it a lot with the Warriors. I'm good at doing it. Why go away from it when I know how to do it? And I look to score first, often just making plays off of it, as much as I can, because the more I do that, the more I get myself involved, I get my teammates involved.",
+      "text_blocks": [],
+      "start_seconds": 315,
+      "end_seconds": 339,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga discusses his role as a screener saying he is good at doing it and it helps him get himself and his teammates involved",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga discusses his comfort level with his role as a screener, drawing on his experience with the Golden State Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "w-sUmb7Zfrs",
+  "url": "https://www.youtube.com/watch?v=w-sUmb7Zfrs",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-20T05:15:31Z",
+  "duration_seconds": 466,
+  "processed_at": "2026-11-20T06:04:08Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}
