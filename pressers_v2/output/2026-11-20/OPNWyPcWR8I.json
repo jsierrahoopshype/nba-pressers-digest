@@ -1,0 +1,187 @@
+{
+  "video_title": "Joe Mazzulla on what Celtics need to IMPROVE on After 2 Losses | Celtics Practice Interview",
+  "speakers_seen": [
+    "Joe Mazzulla"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:17",
+      "summary_phrase": "Joe Mazzulla identifies rebounding as the Celtics' biggest recent trend",
+      "names_mentioned": [],
+      "excerpt": "I think the biggest trend is our rebounding. In critical moments, we haven't come up with the rebounds.",
+      "quote": "I think the biggest trend is our rebounding. In critical moments, we haven't come up with the rebounds that we needed to. Looking at the Orlando game, the Celtics get two or three of them in the fourth quarter and they make you pay. Again, when you're in a close game, it's not just about the fourth quarter. I think the run and the momentum that we gave Denver was in the second quarter when they got those three or four offensive rebounds and they were able to cut into the lead a little bit.",
+      "verbatim_original_language": "",
+      "start_seconds": 17,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says the Celtics biggest recent trend is rebounding. He points to critical missed rebounds in losses to Orlando and Denver as a major reason for the team losing momentum.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ORL",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses the team's recent struggles with rebounding during a practice interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "01:28",
+      "summary_phrase": "Joe Mazzulla explains the screener's role in creating two-on-one advantages",
+      "names_mentioned": [
+        "Draymond Green"
+      ],
+      "excerpt": "The screener's job is to be able to help create the two-on-one.",
+      "quote": "The screener's job is to be able to help create the two-on-one. There's got to be a good relationship between ball-handler and screener. Obviously, Draymond Green is one of the best screeners of all time, especially versus different coverages. He goes drop, he's going to stick a screen, he's going to switch, he's going to do a great job of hitting under and what not. So, it's the responsibility of the screener to help create the two-on-one based on how the coverage is coming.",
+      "verbatim_original_language": "",
+      "start_seconds": 88,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla calls Draymond Green one of the best screeners of all time noting his ability to adapt to different defensive coverages and create two on one advantages for his team.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Draymond Green"
+        ],
+        "teams": [
+          "BOS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla explains the tactical responsibilities of a screener while citing Draymond Green as an example.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "01:53",
+      "summary_phrase": "Joe Mazzulla on how NBA defensive coverages are constantly changing",
+      "names_mentioned": [
+        "Gordon",
+        "Brown"
+      ],
+      "excerpt": "I'd say the one thing that has changed over the last few years is coverages are changing.",
+      "quote": "I'd say the one thing that has changed over the last few years is coverages are changing every other possession. One possession, it might be they were maintaining off-ball for a little bit, and then in one of the last possessions of the fourth quarter, Gordon and Brown are in it, they switch, we don't slip to the screen and then we get an empty possession because we missed the advantage of slipping on an off-ball read. So, I'd say the harder thing with the screening now is coverages are changing and it's more players reading the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 113,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says the biggest change in the NBA recently is that defensive coverages are changing every other possession forcing players to read the game much more than in the past.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Aaron Gordon",
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "BOS",
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Joe Mazzulla describes the difficulty of reading evolving defensive coverages during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "02:44",
+      "summary_phrase": "Joe Mazzulla on the importance of having multiple two-on-one outlets",
+      "names_mentioned": [],
+      "excerpt": "The key is just having your two-on-one outlets. You have to be able to get out.",
+      "quote": "The key is just having your two-on-one outlets. You have to be able to get out of the screen to create the two-on-one. There's three two-on-ones because now there's two on the ball. So, it's just making the right play on that. We missed a couple of those reads. I think we fell in love with just the seam two-on-one and missed kind of the fill-behind one a couple of times. It's just recognizing the two-on-ones and then making plays out of it.",
+      "verbatim_original_language": "",
+      "start_seconds": 164,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Joe Mazzulla says the Celtics missed opportunities by falling in love with the seam two on one and failing to recognize other outlets during recent games.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Joe Mazzulla discusses the importance of recognizing and executing two-on-one opportunities during offensive plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "05:27",
+      "summary_phrase": "Joe Mazzulla on maintaining consistency with Jayson Tatum's playing time",
+      "names_mentioned": [
+        "Jayson Tatum"
+      ],
+      "excerpt": "Keeping his minutes right around that 36-minute range is something that we want to be able to do.",
+      "quote": "Keeping his minutes right around that 36-minute range is something that we want to be able to do. That gives us the best, as you get into like your playoff minutes later in the season, you get to a point with some things and as you get into a situation where you want to take advantage of playoff-like rotations, we might change a little bit. But just being consistent in keeping him right around that 36-minute range is something that we want to try and do as much as we can.",
+      "verbatim_original_language": "",
+      "start_seconds": 327,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla says the team wants to keep Jayson Tatum around 36 minutes per game for now but notes they may adjust to playoff style rotations as the season progresses.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Joe Mazzulla explains the team's plan to keep Jayson Tatum's playing time consistent at approximately 36 minutes.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "OPNWyPcWR8I",
+  "url": "https://www.youtube.com/watch?v=OPNWyPcWR8I",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-20T19:53:55Z",
+  "duration_seconds": 364,
+  "processed_at": "2026-11-20T21:48:28Z",
+  "run_id": "2026-11-20T2147Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

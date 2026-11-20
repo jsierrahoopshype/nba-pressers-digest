@@ -1,0 +1,148 @@
+{
+  "video_title": "Neemias Queta Explains what he's learned from Draymond Green | Celtics Practice Interview",
+  "speakers_seen": [
+    "Neemias Queta"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Neemias Queta",
+      "timestamp": "01:05",
+      "summary_phrase": "Neemias Queta on studying the Warriors' screen-setting and playmaking",
+      "names_mentioned": [
+        "David Lee",
+        "Draymond Green"
+      ],
+      "excerpt": "one of my favorite teams ever watched was the Warriors in the early days",
+      "quote": "One of my favorite teams ever watched was the Warriors in the early days when they had David Lee, and all those guys setting all those screens for Draymond Green. Those guys would create really good screens for them and they were able to get advantages, two-on-ones, short rolls, and creating downhill opportunities. People forget about that because they shot a lot of threes and made a lot of moves, but that was something that they did a really good job at and I think I learned a lot from that.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Neemias Queta says he learned a lot about setting screens by watching the early Warriors teams. He credits their ability to create advantages and downhill opportunities for his own development as a big man.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green",
+          "David Lee"
+        ],
+        "teams": [
+          "BOS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Neemias Queta discusses what he learned about screen-setting and playmaking by watching the Golden State Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Neemias Queta",
+      "timestamp": "01:53",
+      "summary_phrase": "Neemias Queta on his role as a big man against pressure",
+      "names_mentioned": [
+        "Jason Tatum",
+        "Derrick White",
+        "Payton Pritchard"
+      ],
+      "excerpt": "the more I can help them relieve some of that pressure when it's through screens, that's my job",
+      "quote": "I think it's a connection piece. Whenever they're getting pressure, the majority of the times for us fives, we're not really getting that much pressure in comparison. We can be a pressure release for them. Like I said, those guys get a lot of pressure a lot of the time, they got to bring the ball up the floor, and for me, the more I can help them relieve some of that pressure when it's through screens, whether it's getting the ball and let them create off the ball, that's my job.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Neemias Queta on his role as a Celtics big man. He says his job is to act as a pressure release for the guards by setting screens and allowing them to create off the ball.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Neemias Queta explains his role as a big man in relieving pressure for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Neemias Queta",
+      "timestamp": "03:05",
+      "summary_phrase": "Neemias Queta on how G League experience built his foundation",
+      "names_mentioned": [],
+      "excerpt": "those help me build a foundation to where I'm at right now",
+      "quote": "I think those help me build a foundation to where I'm at right now. Obviously over the years, I've been back and forth between the G League and the NBA, and it was a great experience for me because whether I was in the rotation, whether I was coming off an injury, coming back into the G League and getting consistent rotation minutes where you can develop on different things that you want to be able to showcase on the court, those are meaningful reps that will keep you in rhythm for your opportunity and give you a sense of what you can do.",
+      "text_blocks": [],
+      "start_seconds": 185,
+      "end_seconds": 225,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Neemias Queta reflects on his time in the G League. He says the consistent rotation minutes were meaningful reps that helped him build a foundation and stay in rhythm for his current NBA opportunity.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Neemias Queta reflects on how his G League experience helped him develop and stay in rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Neemias Queta",
+      "timestamp": "05:01",
+      "summary_phrase": "Neemias Queta on areas for improvement including turnovers and rebounding",
+      "names_mentioned": [],
+      "excerpt": "we can be better with the turnovers. A lot of that can be on us, being able to handle the ball",
+      "quote": "I think we can be better at everything on the floor. There's a lot of aspects we can fix and be better at. I think we can be better with the turnovers. A lot of that can be on us, being able to handle the ball, catching, and then just rebounding as well, which is so crucial for us. If we want to be able to get more possessions and create more havoc, we got to be able to do those things at a high level.",
+      "text_blocks": [],
+      "start_seconds": 301,
+      "end_seconds": 334,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Neemias Queta identifies turnovers and rebounding as key areas for the Celtics to improve. He says they need to handle the ball better and rebound at a high level to create more possessions.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Neemias Queta identifies turnovers and rebounding as key areas where the team needs to improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "lo6FHjYU3gg",
+  "url": "https://www.youtube.com/watch?v=lo6FHjYU3gg",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-20T20:08:10Z",
+  "duration_seconds": 409,
+  "processed_at": "2026-11-20T21:48:19Z",
+  "run_id": "2026-11-20T2147Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

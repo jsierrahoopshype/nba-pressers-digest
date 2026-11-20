@@ -1,0 +1,138 @@
+{
+  "video_title": "Payton Pritchard Evaluates his Performance after 15 Games | Celtics Practice Interview",
+  "speakers_seen": [
+    "Payton Pritchard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Payton Pritchard",
+      "timestamp": "00:13",
+      "summary_phrase": "Payton Pritchard on the Celtics' adjustment to defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "I think that's the first time we've seen that this year, so it was a good test",
+      "quote": "I think that's the first time we've seen that this year, so it was a good test for us. Hopefully we learn from it. It's really just your spacing needs to be correct, fill to the right spots, fill behinds, short rolls, all that kind of stuff. And the person that has the ball, so me or whoever else, you're just making the right decisions with it and trying to limit the turnovers and get the ball where it needs to go.",
+      "verbatim_original_language": "",
+      "start_seconds": 13,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Payton Pritchard on the Celtics handling defensive pressure: It was a good test for us. We need to focus on our spacing and making the right decisions to limit turnovers.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Payton Pritchard discusses how the Celtics are adjusting to defensive pressure encountered during recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Payton Pritchard",
+      "timestamp": "01:00",
+      "summary_phrase": "Payton Pritchard on the Celtics' potential despite inconsistent play",
+      "names_mentioned": [],
+      "excerpt": "I think we can be really good. I think the positive signs is that some of us",
+      "quote": "I think we can be really good. I think the positive signs is that some of us haven't played as well and our team maybe we've shown flashes, but we haven't played particularly great in my eyes. And I think that's a good sign because we're 11 and 4 and we haven't even peaked or anything, so then we can still get a lot better. So I look at it as the positive side of that and so just got to keep working and get better.",
+      "verbatim_original_language": "",
+      "start_seconds": 60,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Payton Pritchard believes the Celtics have plenty of room to grow: We are 11 and 4 and we haven't even peaked or anything. We can still get a lot better.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Payton Pritchard shares his perspective on the Celtics' current performance and potential for improvement despite their 11-4 record.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Payton Pritchard",
+      "timestamp": "01:27",
+      "summary_phrase": "Payton Pritchard evaluates his own performance through 15 games",
+      "names_mentioned": [],
+      "excerpt": "I feel like I've been catching a better rhythm lately, but I think there's still a big step",
+      "quote": "Up and down a little bit. I feel like I've been catching a better rhythm lately, but I think there's still a big step there. So keep chipping away at it and hopefully I make another step. So it's getting better though.",
+      "verbatim_original_language": "",
+      "start_seconds": 87,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Payton Pritchard on his own play through 15 games: It has been up and down a little bit. I feel like I have been catching a better rhythm lately, but I think there is still a big step there.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Payton Pritchard evaluates his own individual performance and consistency through the first 15 games of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Payton Pritchard",
+      "timestamp": "01:44",
+      "summary_phrase": "Payton Pritchard on his role as a floor spacer",
+      "names_mentioned": [
+        "Jayson Tatum",
+        "Jaylen Brown"
+      ],
+      "excerpt": "Just got to find the right windows and just be ready to be available to catch",
+      "quote": "Just got to find the right windows and just be ready to be available to catch the ball and make a play after that.",
+      "verbatim_original_language": "",
+      "start_seconds": 104,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 1,
+      "social_post": "Payton Pritchard on his role as a floor spacer: Just got to find the right windows and just be ready to be available to catch the ball and make a play after that.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Payton Pritchard explains his approach to playing as a floor spacer within the Celtics' offensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "G62cQv9WlAE",
+  "url": "https://www.youtube.com/watch?v=G62cQv9WlAE",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-20T19:59:18Z",
+  "duration_seconds": 125,
+  "processed_at": "2026-11-20T21:48:21Z",
+  "run_id": "2026-11-20T2147Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

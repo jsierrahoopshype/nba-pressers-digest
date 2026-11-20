@@ -278,13 +278,6 @@
    "seeded": true,
    "slot_date": "2026-11-09"
   },
-  "3kDMmqDIoLQ": {
-   "at": "2026-11-06T20:26:46Z",
-   "quote": "i think our defensive impact in the second half really got us going starting on ball boston is so good at getting to multiple actions and making you chase we were doing that in the first half and i th",
-   "run_id": "2026-11-06T2025Z-14utc",
-   "seeded": true,
-   "slot_date": "2026-11-06"
-  },
   "3sjlOqJD09Y": {
    "at": "2026-11-16T18:39:18Z",
    "quote": "honestly i m not sure there was a little frustration but coach talked about after the game he wants to be better and we all want to be better we had moments where we all got caught up on the wrong thi",
@@ -3202,5 +3195,102 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {}
+ "pending": {
+  "1tv8gYTC7Uw": {
+   "channel": "Oklahoma City Thunder",
+   "clip_count": 10,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T21:48:41Z",
+   "run_id": "2026-11-20T2147Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Bennett Stirtz",
+   "title": "Shootaround Media Availability with Bennett Stirtz | November 20, 2026 | OKC Thunder",
+   "top_quote": "Transition, collision, collision's rebounding. It's just all the little things that add up. We didn't do that last game, but good thing is we got an opportunity and a long season ahead to do those things.",
+   "video_id": "1tv8gYTC7Uw"
+  },
+  "G62cQv9WlAE": {
+   "channel": "Boston Celtics",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T21:48:41Z",
+   "run_id": "2026-11-20T2147Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Payton Pritchard",
+   "title": "Payton Pritchard Evaluates his Performance after 15 Games | Celtics Practice Interview",
+   "top_quote": "I think that's the first time we've seen that this year, so it was a good test for us. Hopefully we learn from it. It's really just your spacing needs to be correct, fill to the right spots, fill behinds, short rolls, all that kind of stuff. And the person that has the ball, so me or whoever else, you're just making the right decisions with it and trying to limit the turnovers and get the ball where it needs to go.",
+   "video_id": "G62cQv9WlAE"
+  },
+  "OPNWyPcWR8I": {
+   "channel": "Boston Celtics",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T21:48:41Z",
+   "run_id": "2026-11-20T2147Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Joe Mazzulla",
+   "title": "Joe Mazzulla on what Celtics need to IMPROVE on After 2 Losses | Celtics Practice Interview",
+   "top_quote": "I think the biggest trend is our rebounding. In critical moments, we haven't come up with the rebounds that we needed to. Looking at the Orlando game, the Celtics get two or three of them in the fourth quarter and they make you pay. Again, when you're in a close game, it's not just about the fourth quarter. I think the run and the momentum that we gave Denver was in the second quarter when they got those three or four offensive rebounds and they were able to cut into the lead a little bit.",
+   "video_id": "OPNWyPcWR8I"
+  },
+  "lo6FHjYU3gg": {
+   "channel": "Boston Celtics",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T21:48:41Z",
+   "run_id": "2026-11-20T2147Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Neemias Queta",
+   "title": "Neemias Queta Explains what he's learned from Draymond Green | Celtics Practice Interview",
+   "top_quote": "One of my favorite teams ever watched was the Warriors in the early days when they had David Lee, and all those guys setting all those screens for Draymond Green. Those guys would create really good screens for them and they were able to get advantages, two-on-ones, short rolls, and creating downhill opportunities. People forget about that because they shot a lot of threes and made a lot of moves, but that was something that they did a really good job at and I think I learned a lot from that.",
+   "video_id": "lo6FHjYU3gg"
+  },
+  "orpep1VehGE": {
+   "channel": "HoopsHype",
+   "clip_count": 2,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T21:48:41Z",
+   "run_id": "2026-11-20T2147Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Tuomas Iisalo",
+   "title": "Tuomas Iisalo on Taylor Hendricks’ growth in Memphis",
+   "top_quote": "There is obviously Taylor who's stepping up in a major way who came to us from Utah as an unknown. We didn't know what he could do when we had him in some of our first games as a five because we didn't have a lot of big guys. He said I've never been really a screener, I've never done this, but you know what he said about that? He said I feel like this will add a dimension to my game and I'm happy that I just want to play. That attitude has carried him very far.",
+   "video_id": "orpep1VehGE"
+  },
+  "rIP3WEIqeco": {
+   "channel": "HoopsHype",
+   "clip_count": 1,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T21:48:41Z",
+   "run_id": "2026-11-20T2147Z-14utc",
+   "run_slot": "14utc",
+   "single_speaker": false,
+   "slot_date": "2026-11-20",
+   "speaker": "Erik Spoelstra",
+   "title": "Erik Spolestra on Klay Thompson unlocking the Miami Heat offense",
+   "top_quote": "That's obviously when they're there, be more aggressive. That's a big part of what's unlocking our offense, him coming off on some kind of action with Giannis or Bam and we want him to shoot threes. He's literally one of the very, when you say that, that can be his title now, one of the best that's ever done it. You want him leaning into that, our team wants him leaning into that. And I mentioned that before, even when he wasn't making shots early on in the season, which seems like a long time ago, one way or another he's helping your offense. But when he's really being in that movement threat and that ignitable threat that he's done over the course of his career, it has that exponential factor where it's not a 2X or 3X to your offense, it's like a 10X to your offense. So I love the collaborations and the trust.",
+   "video_id": "rIP3WEIqeco"
+  }
+ }
 }

@@ -1,0 +1,336 @@
+{
+  "video_title": "Shootaround Media Availability with Bennett Stirtz | November 20, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Bennett Stirtz",
+    "Nick Gallo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "00:14",
+      "summary_phrase": "Bennett Stirtz on the importance of fundamentals for the Thunder",
+      "names_mentioned": [],
+      "excerpt": "It's just all the little things that add up.",
+      "quote": "Transition, collision, collision's rebounding. It's just all the little things that add up. We didn't do that last game, but good thing is we got an opportunity and a long season ahead to do those things.",
+      "verbatim_original_language": "",
+      "start_seconds": 14,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bennett Stirtz says the Thunder are focused on getting back to the little things like transition and rebounding after their last game.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz discusses the importance of focusing on fundamental basketball plays like rebounding and transition defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "01:08",
+      "summary_phrase": "Bennett Stirtz on learning to play alongside Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "I still have a lot of room for improvement to make the game easier for him.",
+      "quote": "Still learning and we're getting there, getting more comfortable out there. I think I still have a lot of room for improvement to make the game easier for him and other guys who have the ball in their hands a lot. We're getting there, but it's been great being around him.",
+      "verbatim_original_language": "",
+      "start_seconds": 68,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Bennett Stirtz on developing chemistry with Shai Gilgeous-Alexander: I still have a lot of room for improvement to make the game easier for him and other guys who have the ball in their hands a lot.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bennett Stirtz reflects on his ongoing adjustment to playing alongside Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "01:57",
+      "summary_phrase": "Bennett Stirtz on maintaining a ready-to-shoot mindset",
+      "names_mentioned": [],
+      "excerpt": "I can't take any games off with my mindset, like I've always got to be ready.",
+      "quote": "I can't take any games off with my mindset, like I've always got to be ready to shoot when the opportunity comes. When I have an open shot, I've got to let it go. Didn't do that in some games on the road trip, so I just have to be ready every game to do that. When I have the ball in my hands, I've got to be able to make plays too, so I think it just comes with reps.",
+      "verbatim_original_language": "",
+      "start_seconds": 117,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bennett Stirtz says he is working on maintaining a ready to shoot mindset and being more aggressive when he has the ball in his hands.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz explains his mindset regarding staying ready to shoot and making plays when he has the ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "02:26",
+      "summary_phrase": "Bennett Stirtz on adjusting to the NBA schedule",
+      "names_mentioned": [
+        "Josh Giddey"
+      ],
+      "excerpt": "Me and Josh were talking about it, we've already played like over half the games in college.",
+      "quote": "Me and Josh were talking about it, we've already played like over half the games in college we would have already in November. That's crazy to think about, but body feels great. We have some of the best treatment in the world, and my mind feels good too, so ready to get after it.",
+      "verbatim_original_language": "",
+      "start_seconds": 146,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Bennett Stirtz on the NBA schedule: Me and Josh were talking about it, we have already played like over half the games in college we would have already in November. That is crazy to think about.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Josh Giddey"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz discusses adjusting to the physical demands of the NBA schedule compared to college.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "03:17",
+      "summary_phrase": "Bennett Stirtz on the team's approach to NBA Cup games",
+      "names_mentioned": [],
+      "excerpt": "We know we're still not out of it.",
+      "quote": "We honestly haven't even talked about it today, just Cup game, but we know we're still not out of it. Like playing the other two, you know they're a little higher elevated, just stake-wise, and people play a little harder with the money involved and stuff like that. But first home game and we're still not out of it, so we've got to bring it today.",
+      "verbatim_original_language": "",
+      "start_seconds": 197,
+      "end_seconds": 222,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Bennett Stirtz says the Thunder are still focused on the NBA Cup: We know we are still not out of it. People play a little harder with the money involved and stuff like that.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz shares his thoughts on the team's approach to the NBA Cup tournament.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "04:00",
+      "summary_phrase": "Bennett Stirtz on the team's next-man-up mentality",
+      "names_mentioned": [],
+      "excerpt": "Everyone, like we have no excuses out there even though the injury play kind of got us.",
+      "quote": "Everyone, like we have no excuses out there even though the injury play kind of got us. Like there's no excuses out there, no one feels bad for us. We've got to bring it every day, bring it tonight, and I think if we do the little things, like the battles that we talked about in film today, we'll be just fine.",
+      "verbatim_original_language": "",
+      "start_seconds": 240,
+      "end_seconds": 264,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bennett Stirtz on the Thunder dealing with injuries: We have no excuses out there. No one feels bad for us. We have to bring it every day.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Bennett Stirtz emphasizes the team's next-man-up mentality despite dealing with recent injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "04:46",
+      "summary_phrase": "Bennett Stirtz on the challenge of containing Zion Williamson",
+      "names_mentioned": [
+        "Zion Williamson",
+        "Dyson Daniels",
+        "Trey Murphy III"
+      ],
+      "excerpt": "We got to contain Zion, and then they have great shooters outside of him.",
+      "quote": "We got to contain Zion, and then they have great shooters outside of him. You got Fears, you got Pool, you got Trey Murphy. So just a lot of weapons that Zion can kick to, and I think if we build a good shell around him, we'll be good. But there's going to be talented players every game we play, and I think all of us are used to that, but yeah, we got to bring it.",
+      "verbatim_original_language": "",
+      "start_seconds": 286,
+      "end_seconds": 316,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Bennett Stirtz on the plan to stop Zion Williamson: We got to contain Zion, and then they have great shooters outside of him. If we build a good shell around him, we will be good.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson",
+          "Trey Murphy III"
+        ],
+        "teams": [
+          "OKC",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz outlines the defensive strategy required to contain Zion Williamson and the Pelicans' shooters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "05:29",
+      "summary_phrase": "Bennett Stirtz on the importance of simplicity in the game",
+      "names_mentioned": [],
+      "excerpt": "I think if you simple it down to that, I think it makes it a lot easier.",
+      "quote": "I think it is, and I think if you simple it down to that, I think it makes it a lot easier because sometimes teams and us overthink, and you just got to simple it down. I think that makes it a lot easier.",
+      "verbatim_original_language": "",
+      "start_seconds": 329,
+      "end_seconds": 346,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Bennett Stirtz on team philosophy: Sometimes teams and us overthink, and you just got to simple it down. I think that makes it a lot easier.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz explains the importance of keeping the game simple to avoid overthinking on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "06:01",
+      "summary_phrase": "Bennett Stirtz on the impact of having bigs like Isaiah Hartenstein and Chet Holmgren",
+      "names_mentioned": [
+        "Isaiah Hartenstein",
+        "Chet Holmgren"
+      ],
+      "excerpt": "It takes the pressure off you a little bit just knowing they're down there.",
+      "quote": "It takes the pressure off you a little bit just knowing they're down there and they're threats and just like putting yourself in the offensive player's situation. Like if you drive, you got two seven-footers down there, so having that is crucial.",
+      "verbatim_original_language": "",
+      "start_seconds": 361,
+      "end_seconds": 377,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Bennett Stirtz on playing with Chet Holmgren and Isaiah Hartenstein: It takes the pressure off you a little bit just knowing they are down there and they are threats. Having two seven-footers is crucial.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Isaiah Hartenstein",
+          "Chet Holmgren"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bennett Stirtz discusses the defensive impact of having big men like Isaiah Hartenstein and Chet Holmgren on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "06:48",
+      "summary_phrase": "Bennett Stirtz on his shooting efficiency and team chemistry",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "I think it's credit to Shai, AJ, all the guys getting open shots for me.",
+      "quote": "I think it's credit to Shai, AJ, all the guys getting open shots for me because I'm getting wide open threes. So there's that and the confidence I have in my shot helps a lot too, but still a long way to go. I think I need to shoot a lot more just to make the game easier for the other guys so the defense has to react to me. Still have some work to do with that, just get more shots up, but it's somewhat of a good thing that they're going in now.",
+      "verbatim_original_language": "",
+      "start_seconds": 408,
+      "end_seconds": 445,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Bennett Stirtz credits his teammates for his shooting efficiency: I think I need to shoot a lot more just to make the game easier for the other guys so the defense has to react to me.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bennett Stirtz credits his teammates for creating open shooting opportunities and discusses his need to improve his offensive output.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "1tv8gYTC7Uw",
+  "url": "https://www.youtube.com/watch?v=1tv8gYTC7Uw",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-20T18:50:20Z",
+  "duration_seconds": 450,
+  "processed_at": "2026-11-20T21:48:38Z",
+  "run_id": "2026-11-20T2147Z-14utc",
+  "is_one_off": false
+}

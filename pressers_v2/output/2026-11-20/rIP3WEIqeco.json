@@ -1,0 +1,58 @@
+{
+  "video_title": "Erik Spolestra on Klay Thompson unlocking the Miami Heat offense",
+  "speakers_seen": [
+    "Erik Spoelstra"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:00",
+      "summary_phrase": "Erik Spoelstra on how player movement unlocks the Heat offense",
+      "names_mentioned": [
+        "Giannis",
+        "Bam"
+      ],
+      "excerpt": "that's a big part of what's unlocking our offense",
+      "quote": "That's obviously when they're there, be more aggressive. That's a big part of what's unlocking our offense, him coming off on some kind of action with Giannis or Bam and we want him to shoot threes. He's literally one of the very, when you say that, that can be his title now, one of the best that's ever done it. You want him leaning into that, our team wants him leaning into that. And I mentioned that before, even when he wasn't making shots early on in the season, which seems like a long time ago, one way or another he's helping your offense. But when he's really being in that movement threat and that ignitable threat that he's done over the course of his career, it has that exponential factor where it's not a 2X or 3X to your offense, it's like a 10X to your offense. So I love the collaborations and the trust.",
+      "start_seconds": 0,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra says Klay Thompson being a movement threat provides a 10X factor to the Miami Heat offense. He wants Klay leaning into his shooting role because he is one of the best that has ever done it.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Klay Thompson",
+          "Giannis Antetokounmpo",
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Erik Spoelstra discusses how Klay Thompson's movement and shooting threat impact the Miami Heat offense when playing alongside teammates like Bam Adebayo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "rIP3WEIqeco",
+  "url": "https://www.youtube.com/watch?v=rIP3WEIqeco",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-20T20:56:35Z",
+  "duration_seconds": 62,
+  "processed_at": "2026-11-20T21:48:11Z",
+  "run_id": "2026-11-20T2147Z-14utc",
+  "is_one_off": false
+}

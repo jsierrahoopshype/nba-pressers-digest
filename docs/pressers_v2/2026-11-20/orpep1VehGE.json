@@ -1,0 +1,88 @@
+{
+  "video_title": "Tuomas Iisalo on Taylor Hendricks’ growth in Memphis",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:05",
+      "summary_phrase": "Taylor Hendricks' rapid development and increased role for the Grizzlies",
+      "names_mentioned": [
+        "Taylor Hendricks"
+      ],
+      "excerpt": "Taylor who's stepping up in a major way who came to us from Utah as an unknown",
+      "quote": "There is obviously Taylor who's stepping up in a major way who came to us from Utah as an unknown. We didn't know what he could do when we had him in some of our first games as a five because we didn't have a lot of big guys. He said I've never been really a screener, I've never done this, but you know what he said about that? He said I feel like this will add a dimension to my game and I'm happy that I just want to play. That attitude has carried him very far.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Tuomas Iisalo on Taylor Hendricks stepping up for the Grizzlies: He came to us as an unknown and said I feel like being a screener will add a dimension to my game. That attitude has carried him very far.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Taylor Hendricks"
+        ],
+        "teams": [
+          "MEM",
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Tuomas Iisalo discusses Taylor Hendricks' development and his willingness to adapt his role since arriving from Utah.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:41",
+      "summary_phrase": "Taylor Hendricks' transformation and impact on the Grizzlies' performance",
+      "names_mentioned": [
+        "Taylor Hendricks"
+      ],
+      "excerpt": "27 plus 27 in a 20 point game and just looks like a completely transformed player",
+      "quote": "A couple days ago huge plays down the stretch today. We talked about the noise in the plus minus stats, but 27 plus 27 in a 20 point game and just looks like a completely transformed player. So he has a ton of trust in himself, players have a ton of trust in him, and we sure as hell do also.",
+      "text_blocks": [],
+      "start_seconds": 41,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Taylor Hendricks is looking like a completely transformed player for Memphis. Tuomas Iisalo says he has a ton of trust in himself and the team has a ton of trust in him.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Taylor Hendricks"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Coach Tuomas Iisalo praises Taylor Hendricks' recent performance and the trust the team has in his growth.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "orpep1VehGE",
+  "url": "https://www.youtube.com/watch?v=orpep1VehGE",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-20T20:56:23Z",
+  "duration_seconds": 63,
+  "processed_at": "2026-11-20T21:48:12Z",
+  "run_id": "2026-11-20T2147Z-14utc",
+  "is_one_off": false
+}
