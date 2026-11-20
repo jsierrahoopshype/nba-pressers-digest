@@ -3184,5 +3184,54 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {}
+ "pending": {
+  "SN-VgrjL1Hc": {
+   "channel": "Portland Trail Blazers",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T17:54:23Z",
+   "run_id": "2026-11-20-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Jrue Holiday",
+   "title": "Jrue Holiday Postgame Interview | Portland Trail Blazers 124, Milwaukee Bucks 114 | Nov. 19, 2026",
+   "top_quote": "I honestly rely so much on him. What he does for us offensively, just setting the tone, being able to make the game easier for all of us, especially me. I get a lot of open shots just because of his playmaking abilities, getting to the rim, how well he shoots the three. In the first half, I think they started face-guarding him, so to be able to have somebody like that who is that dynamic and great of a shooter, it makes the game a lot easier for me.",
+   "video_id": "SN-VgrjL1Hc"
+  },
+  "gmhjgnELz_w": {
+   "channel": "LA Clippers",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T17:54:23Z",
+   "run_id": "2026-11-20-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-20",
+   "speaker": "Tyronn Lue",
+   "title": "Clippers vs. Spurs | Postgame Interviews",
+   "top_quote": "Turnovers led to easy baskets for them in transition. You turn the ball over 22 times against this team, the way they play, the athletes, the way they push the ball, it makes it tough on you. We knew coming into the game we had to take care of the basketball. I thought we did a good job of guarding the half court, but when they got out in transition and we turned the basketball over, it was hard to keep them under control.",
+   "video_id": "gmhjgnELz_w"
+  },
+  "m09eUqcnRV8": {
+   "channel": "Portland Trail Blazers",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T17:54:23Z",
+   "run_id": "2026-11-20-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Damian Lillard",
+   "title": "Damian Lillard Postgame Interview | Portland Trail Blazers 124, Milwaukee Bucks 114 | Nov. 19, 2026",
+   "top_quote": "Anytime you struggle and you are in a rut like that, as a competitor and as an NBA player you want to feel something good. The fact that a game like tonight, we needed him to play that way to pull this one out. He played real well. He got to see the ball go in, he had the ball in his hands, and he came through in moments that we needed it. So I think it was right on time for him.",
+   "video_id": "m09eUqcnRV8"
+  }
+ }
 }

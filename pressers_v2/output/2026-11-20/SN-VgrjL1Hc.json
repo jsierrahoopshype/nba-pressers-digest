@@ -1,0 +1,122 @@
+{
+  "video_title": "Jrue Holiday Postgame Interview | Portland Trail Blazers 124, Milwaukee Bucks 114 | Nov. 19, 2026",
+  "speakers_seen": [
+    "Jrue Holiday"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jrue Holiday",
+      "timestamp": "00:03",
+      "summary_phrase": "Jrue Holiday on the impact of Damian Lillard's playmaking",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "I rely so much on him. What he does for us offensively, just setting the tone.",
+      "quote": "I honestly rely so much on him. What he does for us offensively, just setting the tone, being able to make the game easier for all of us, especially me. I get a lot of open shots just because of his playmaking abilities, getting to the rim, how well he shoots the three. In the first half, I think they started face-guarding him, so to be able to have somebody like that who is that dynamic and great of a shooter, it makes the game a lot easier for me.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jrue Holiday says Damian Lillard makes the game easier for him. He noted that Lillard's ability to draw attention and shoot the three creates open looks for the rest of the team.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "POR",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jrue Holiday discusses the offensive impact of Damian Lillard during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jrue Holiday",
+      "timestamp": "00:35",
+      "summary_phrase": "Jrue Holiday on Scoot Henderson's recent performance and rebounding",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "We are going to get in the rebound seven to ten rebounds every game now.",
+      "quote": "It was great and you love to see it. It seemed like it came easy, like it came natural, something that he can do all the time, especially the rebounding. We are going to get in the rebound seven to ten rebounds every game now because I feel like after he rebounds and pushes the pace and kind of gets into the open court, that is where he is best.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jrue Holiday is challenging Scoot Henderson to grab 7 to 10 rebounds every game. He believes Henderson is at his best when he rebounds and pushes the pace in the open court.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jrue Holiday praises Scoot Henderson for his rebounding and ability to push the pace in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jrue Holiday",
+      "timestamp": "01:32",
+      "summary_phrase": "Jrue Holiday on managing expectations for Scoot Henderson",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "We need him to be him. We don't need him to think about anything.",
+      "quote": "Control what you can control. We need him to be him. We don't need him to think about anything in terms of making mistakes, getting out there and putting pressure on himself. We need him to guard like he does; he is very strong defensively. We need him to playmake and make other people better on the offensive end, but also look out for his too.",
+      "text_blocks": [],
+      "start_seconds": 92,
+      "end_seconds": 117,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jrue Holiday on Scoot Henderson: We need him to be him. He says the team wants Henderson to focus on his defensive intensity and playmaking without the pressure of worrying about making mistakes.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Jrue Holiday shares his perspective on how Scoot Henderson should approach his game without putting too much pressure on himself.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "SN-VgrjL1Hc",
+  "url": "https://www.youtube.com/watch?v=SN-VgrjL1Hc",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-20T16:57:33Z",
+  "duration_seconds": 126,
+  "processed_at": "2026-11-20T17:54:12Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

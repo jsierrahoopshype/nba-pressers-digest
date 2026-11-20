@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-20
 
+[Podcasts & shows](podcasts-overnight.md)
+
 # Best of the best
 
 **1. Victor Wembanyama — "I have had this blister forever and it is killing me" — Victor Wembanyama on his recurring dunking injury** [00:57](https://www.youtube.com/watch?v=spkkMf2NHz0&t=57s)
@@ -32,7 +34,17 @@ From: [Taylor Jenkins Postgame Press Conference \| 11.19.26](https://www.youtube
 
 <small>[Clip it](presserclips://clip?v=dmImQBtEUfk&t=246&q=6) · [Send to Slack](presserclips://clip?v=dmImQBtEUfk&t=246&q=6&slack=1)</small>
 
-**4. Nate Ament — "Jrue Holiday probably my favorite player in the league now just because of what he did" — Nate Ament on the defensive challenge of guarding Jrue Holiday** [00:35](https://www.youtube.com/watch?v=HWq9Ssv2i0s&t=35s)
+**4. Damian Lillard — "I knew that I would just need to be a little more assertive, a little more aggressive" — Damian Lillard on stepping up as a scorer with teammates sidelined** [01:51](https://www.youtube.com/watch?v=m09eUqcnRV8&t=111s)
+
+Damian Lillard: "I just knew when you are down your next two top scorers, Jabari being out, **Denny** being out, I knew that I would just need to be a little more assertive, a little more aggressive, and have more responsibility in that way, and I did."
+
+[https://www.youtube.com/watch?v=m09eUqcnRV8&t=111s](https://www.youtube.com/watch?v=m09eUqcnRV8&t=111s)
+
+From: [Damian Lillard Postgame Interview \| Portland Trail Blazers 124, Milwaukee Bucks 114 \| Nov. 19, 2026](https://www.youtube.com/watch?v=m09eUqcnRV8) · *Portland Trail Blazers*
+
+<small>[Clip it](presserclips://clip?v=m09eUqcnRV8&t=111&q=3) · [Send to Slack](presserclips://clip?v=m09eUqcnRV8&t=111&q=3&slack=1)</small>
+
+**5. Nate Ament — "Jrue Holiday probably my favorite player in the league now just because of what he did" — Nate Ament on the defensive challenge of guarding Jrue Holiday** [00:35](https://www.youtube.com/watch?v=HWq9Ssv2i0s&t=35s)
 
 Nate Ament: "I think I have grown. Guarding the best players also teaches me a lot about offense, about my offense. Tonight was tough. **Jrue Holiday** probably my favorite player in the league now just because of what he did. That was crazy, but it is good to go against all different type of players across the league."
 
@@ -42,7 +54,7 @@ From: [Nate Ament Postgame Media Availability \| 11.19.26](https://www.youtube.c
 
 <small>[Clip it](presserclips://clip?v=HWq9Ssv2i0s&t=35&q=2) · [Send to Slack](presserclips://clip?v=HWq9Ssv2i0s&t=35&q=2&slack=1)</small>
 
-**5. Caris LeVert — "to win in this league you need experience, and that's something that our guys are gaining" — Caris LeVert on closing out NBA games** [01:57](https://www.youtube.com/watch?v=FBJnDGbTmkc&t=117s)
+**6. Caris LeVert — "to win in this league you need experience, and that's something that our guys are gaining" — Caris LeVert on closing out NBA games** [01:57](https://www.youtube.com/watch?v=FBJnDGbTmkc&t=117s)
 
 **Unidentified reporter:** "It was a close game until the final three minutes and they pulled away. What do you tell people about what it takes to how to close out an NBA game?"
 
@@ -54,7 +66,17 @@ From: [Caris LeVert Postgame Media Availability \| 11.19.26](https://www.youtube
 
 <small>[Clip it](presserclips://clip?v=FBJnDGbTmkc&t=117&q=5) · [Send to Slack](presserclips://clip?v=FBJnDGbTmkc&t=117&q=5&slack=1)</small>
 
-**6. Jaden McDaniels — "just use my length. I know he's a smaller guard, so just trying to give him space" — Jaden McDaniels on his defensive strategy against Jalen Brunson** [01:03](https://www.youtube.com/watch?v=ajO5w-9jlRU&t=63s)
+**7. Jrue Holiday — "I rely so much on him. What he does for us offensively, just setting the tone." — Jrue Holiday on the impact of Damian Lillard's playmaking** [00:03](https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=3s)
+
+Jrue Holiday: "I honestly rely so much on him. What he does for us offensively, just setting the tone, being able to make the game easier for all of us, especially me. I get a lot of open shots just because of his playmaking abilities, getting to the rim, how well he shoots the three. In the first half, I think they started face-guarding him, so to be able to have somebody like that who is that dynamic and great of a shooter, it makes the game a lot easier for me."
+
+[https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=3s](https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=3s)
+
+From: [Jrue Holiday Postgame Interview \| Portland Trail Blazers 124, Milwaukee Bucks 114 \| Nov. 19, 2026](https://www.youtube.com/watch?v=SN-VgrjL1Hc) · *Portland Trail Blazers*
+
+<small>[Clip it](presserclips://clip?v=SN-VgrjL1Hc&t=3&q=1) · [Send to Slack](presserclips://clip?v=SN-VgrjL1Hc&t=3&q=1&slack=1)</small>
+
+**8. Jaden McDaniels — "just use my length. I know he's a smaller guard, so just trying to give him space" — Jaden McDaniels on his defensive strategy against Jalen Brunson** [01:03](https://www.youtube.com/watch?v=ajO5w-9jlRU&t=63s)
 
 Jaden McDaniels: "just use my length. I know he's a smaller guard, so just trying to give him space but then also using my length to disrupt him and then just not fouling. I don't know if I probably had one foul the whole game, but none on him, so just not sending him to the line as well."
 
@@ -64,7 +86,17 @@ From: [“Once We Calmed Down We Started Making Better Plays.” \| Jaden Mcdani
 
 <small>[Clip it](presserclips://clip?v=ajO5w-9jlRU&t=63&q=2) · [Send to Slack](presserclips://clip?v=ajO5w-9jlRU&t=63&q=2&slack=1)</small>
 
-**7. Cedric Coward — "defense was the main thing and rebounding. I think we kept giving them extra possessions" — Cedric Coward on Grizzlies' defensive adjustments and rebounding against Warriors** [00:00](https://www.youtube.com/watch?v=xotTS1p0YIo&t=0s)
+**9. Moussa Diabaté — "the game plan was to get Victor Wembanyama to the outside, so that part of the middle was open" — Moussa Diabaté on the Clippers' defensive strategy against Victor Wembanyama** [04:15](https://www.youtube.com/watch?v=gmhjgnELz_w&t=255s)
+
+Moussa Diabaté: "The game plan was to get **Victor Wembanyama** to the outside, so that part of the middle was open. That was what we were looking for. The opponent also played with a lot of physicality, so that is where I got caught at the end. We are a young team, so we are going to get better from this. I think we have a good season ahead."
+
+[https://www.youtube.com/watch?v=gmhjgnELz_w&t=255s](https://www.youtube.com/watch?v=gmhjgnELz_w&t=255s)
+
+From: [Clippers vs. Spurs \| Postgame Interviews](https://www.youtube.com/watch?v=gmhjgnELz_w) · *LA Clippers*
+
+<small>[Clip it](presserclips://clip?v=gmhjgnELz_w&t=255&q=5) · [Send to Slack](presserclips://clip?v=gmhjgnELz_w&t=255&q=5&slack=1)</small>
+
+**10. Cedric Coward — "defense was the main thing and rebounding. I think we kept giving them extra possessions" — Cedric Coward on Grizzlies' defensive adjustments and rebounding against Warriors** [00:00](https://www.youtube.com/watch?v=xotTS1p0YIo&t=0s)
 
 **Unidentified reporter:** "That a big third quarter allowed you guys to really open this one up. What were the biggest adjustments you made coming out of the half?"
 
@@ -76,7 +108,7 @@ From: [Cedric Coward Walk-Off Interview \| Grizzlies vs. Warriors](https://www.y
 
 <small>[Clip it](presserclips://clip?v=xotTS1p0YIo&t=0&q=1) · [Send to Slack](presserclips://clip?v=xotTS1p0YIo&t=0&q=1&slack=1)</small>
 
-**8. Stephon Castle — "I was getting probably just one dribble too deep into the paint." — Stephon Castle on his offensive adjustments after halftime** [00:48](https://www.youtube.com/watch?v=0VWvumox1Kg&t=48s)
+**11. Stephon Castle — "I was getting probably just one dribble too deep into the paint." — Stephon Castle on his offensive adjustments after halftime** [00:48](https://www.youtube.com/watch?v=0VWvumox1Kg&t=48s)
 
 Stephon Castle: "I don't think it was anything they were doing. For me, I was getting probably just one dribble too deep into the paint, and by the time I tried to make my read, they were already pretty much reacting out. So, being able to make the adjustment at halftime, I think it opened it up for me."
 
@@ -85,16 +117,6 @@ Stephon Castle: "I don't think it was anything they were doing. For me, I was ge
 From: [Stephon Castle on Making Adjustments and Closing Out Game Strong](https://www.youtube.com/watch?v=0VWvumox1Kg) · *San Antonio Spurs*
 
 <small>[Clip it](presserclips://clip?v=0VWvumox1Kg&t=48&q=2) · [Send to Slack](presserclips://clip?v=0VWvumox1Kg&t=48&q=2&slack=1)</small>
-
-**9. Scoot Henderson — "that's why he a champion, man. That's why he is Jrue Holiday" — Scoot Henderson on the impact of Jrue Holiday** [00:55](https://www.youtube.com/watch?v=gPTcWRyaxEs&t=55s)
-
-Scoot Henderson: "That's why he a champion, man. That's why he is **Jrue Holiday**, that's why playing basketball growing up and that ignite I watched his film. Dalla as well as Ja, like we got great guys around me that I'm just trying to watch and observe."
-
-[https://www.youtube.com/watch?v=gPTcWRyaxEs&t=55s](https://www.youtube.com/watch?v=gPTcWRyaxEs&t=55s)
-
-From: [Scoot Henderson Walk off Interview \| Portland Trail Blazers 124, Milwaukee Bucks 114 \| Nov. 19, 2026](https://www.youtube.com/watch?v=gPTcWRyaxEs) · *Portland Trail Blazers*
-
-<small>[Clip it](presserclips://clip?v=gPTcWRyaxEs&t=55&q=3) · [Send to Slack](presserclips://clip?v=gPTcWRyaxEs&t=55&q=3&slack=1)</small>
 
 ---
 
@@ -622,6 +644,38 @@ Chris Finch: "I had to burn a timeout on the challenge, which was also a no-call
 
 ---
 
+## Jrue Holiday Postgame Interview | Portland Trail Blazers 124, Milwaukee Bucks 114 | Nov. 19, 2026 — *Portland Trail Blazers*
+
+Source: [https://www.youtube.com/watch?v=SN-VgrjL1Hc](https://www.youtube.com/watch?v=SN-VgrjL1Hc)
+
+_Speakers identified: Jrue Holiday_
+
+**1. Jrue Holiday — "I rely so much on him. What he does for us offensively, just setting the tone." — Jrue Holiday on the impact of Damian Lillard's playmaking** [00:03](https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=3s)
+
+Jrue Holiday: "I honestly rely so much on him. What he does for us offensively, just setting the tone, being able to make the game easier for all of us, especially me. I get a lot of open shots just because of his playmaking abilities, getting to the rim, how well he shoots the three. In the first half, I think they started face-guarding him, so to be able to have somebody like that who is that dynamic and great of a shooter, it makes the game a lot easier for me."
+
+[https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=3s](https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=3s)
+
+<small>[Clip it](presserclips://clip?v=SN-VgrjL1Hc&t=3&q=1) · [Send to Slack](presserclips://clip?v=SN-VgrjL1Hc&t=3&q=1&slack=1)</small>
+
+**2. Jrue Holiday — "We are going to get in the rebound seven to ten rebounds every game now." — Jrue Holiday on Scoot Henderson's recent performance and rebounding** [00:35](https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=35s)
+
+Jrue Holiday: "It was great and you love to see it. It seemed like it came easy, like it came natural, something that he can do all the time, especially the rebounding. We are going to get in the rebound seven to ten rebounds every game now because I feel like after he rebounds and pushes the pace and kind of gets into the open court, that is where he is best."
+
+[https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=35s](https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=35s)
+
+<small>[Clip it](presserclips://clip?v=SN-VgrjL1Hc&t=35&q=2) · [Send to Slack](presserclips://clip?v=SN-VgrjL1Hc&t=35&q=2&slack=1)</small>
+
+**3. Jrue Holiday — "We need him to be him. We don't need him to think about anything." — Jrue Holiday on managing expectations for Scoot Henderson** [01:32](https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=92s)
+
+Jrue Holiday: "Control what you can control. We need him to be him. We don't need him to think about anything in terms of making mistakes, getting out there and putting pressure on himself. We need him to guard like he does; he is very strong defensively. We need him to playmake and make other people better on the offensive end, but also look out for his too."
+
+[https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=92s](https://www.youtube.com/watch?v=SN-VgrjL1Hc&t=92s)
+
+<small>[Clip it](presserclips://clip?v=SN-VgrjL1Hc&t=92&q=3) · [Send to Slack](presserclips://clip?v=SN-VgrjL1Hc&t=92&q=3&slack=1)</small>
+
+---
+
 ## Savvy cuts to basket keeping Warriors afloat vs. Grizzlies | NBC Sports Bay Area — *Golden State Warriors*
 
 Source: [https://www.youtube.com/watch?v=VPey7oKWnOM](https://www.youtube.com/watch?v=VPey7oKWnOM)
@@ -797,6 +851,102 @@ Scoot Henderson: "That's why he a champion, man. That's why he is **Jrue Holiday
 [https://www.youtube.com/watch?v=gPTcWRyaxEs&t=55s](https://www.youtube.com/watch?v=gPTcWRyaxEs&t=55s)
 
 <small>[Clip it](presserclips://clip?v=gPTcWRyaxEs&t=55&q=3) · [Send to Slack](presserclips://clip?v=gPTcWRyaxEs&t=55&q=3&slack=1)</small>
+
+---
+
+## Clippers vs. Spurs | Postgame Interviews — *LA Clippers*
+
+Source: [https://www.youtube.com/watch?v=gmhjgnELz_w](https://www.youtube.com/watch?v=gmhjgnELz_w)
+
+_Speakers identified: Tyronn Lue, Brandon Boston Jr., Moussa Diabaté_
+
+**1. Tyronn Lue — "you turn the ball over 22 times against this team, the way they play, it makes it tough" — Tyronn Lue on Clippers' turnover issues against the Spurs** [00:06](https://www.youtube.com/watch?v=gmhjgnELz_w&t=6s)
+
+Tyronn Lue: "Turnovers led to easy baskets for them in transition. You turn the ball over 22 times against this team, the way they play, the athletes, the way they push the ball, it makes it tough on you. We knew coming into the game we had to take care of the basketball. I thought we did a good job of guarding the half court, but when they got out in transition and we turned the basketball over, it was hard to keep them under control."
+
+[https://www.youtube.com/watch?v=gmhjgnELz_w&t=6s](https://www.youtube.com/watch?v=gmhjgnELz_w&t=6s)
+
+<small>[Clip it](presserclips://clip?v=gmhjgnELz_w&t=6&q=1) · [Send to Slack](presserclips://clip?v=gmhjgnELz_w&t=6&q=1&slack=1)</small>
+
+**2. Tyronn Lue — "he's the pulse of our team and the heartbeat of our team" — Tyronn Lue on Giannis Antetokounmpo's return from injury** [01:06](https://www.youtube.com/watch?v=gmhjgnELz_w&t=66s)
+
+Tyronn Lue: "Just a little rusty, fumbled a couple balls. When you are out for that long of a period, the speed of the game is different. It was great to have him back. Him getting used to it, getting in better shape, understanding timing and things like that, it is going to take some time for him to get back to himself and we understand that. **Giannis Antetokounmpo** is the pulse of our team and the heartbeat of our team."
+
+[https://www.youtube.com/watch?v=gmhjgnELz_w&t=66s](https://www.youtube.com/watch?v=gmhjgnELz_w&t=66s)
+
+<small>[Clip it](presserclips://clip?v=gmhjgnELz_w&t=66&q=2) · [Send to Slack](presserclips://clip?v=gmhjgnELz_w&t=66&q=2&slack=1)</small>
+
+**3. Tyronn Lue — "the way he moves without the basketball and just his pace and creating action makes us a different team" — Tyronn Lue on the impact of Max Christie in the starting lineup** [02:18](https://www.youtube.com/watch?v=gmhjgnELz_w&t=138s)
+
+Tyronn Lue: "Creating action. I think **Max Christie** in that starting lineup, the way he moves without the basketball and just his pace and creating action, makes us a different team. **Kobe Bryant** didn't do nothing wrong, he's the pulse of our team and the heartbeat of our team. So just looking at some different things, I thought Max was great tonight. We understood the offensive game plan, we did the right thing."
+
+[https://www.youtube.com/watch?v=gmhjgnELz_w&t=138s](https://www.youtube.com/watch?v=gmhjgnELz_w&t=138s)
+
+<small>[Clip it](presserclips://clip?v=gmhjgnELz_w&t=138&q=3) · [Send to Slack](presserclips://clip?v=gmhjgnELz_w&t=138&q=3&slack=1)</small>
+
+**4. Brandon Boston Jr. — "it's my first game back after 260 days and I was just hyped to be back playing" — Brandon Boston Jr. on his return to the court after 260 days** [03:08](https://www.youtube.com/watch?v=gmhjgnELz_w&t=188s)
+
+Brandon Boston Jr.: "It's my first game back after 260 days and I was just hyped to be back playing. It's going to take time to get adjusted back to the game speed, playing with the guys. I haven't played with them in a long time, so I have to learn from every single game, watch the film, and just get better from it."
+
+[https://www.youtube.com/watch?v=gmhjgnELz_w&t=188s](https://www.youtube.com/watch?v=gmhjgnELz_w&t=188s)
+
+<small>[Clip it](presserclips://clip?v=gmhjgnELz_w&t=188&q=4) · [Send to Slack](presserclips://clip?v=gmhjgnELz_w&t=188&q=4&slack=1)</small>
+
+**5. Moussa Diabaté — "the game plan was to get Victor Wembanyama to the outside, so that part of the middle was open" — Moussa Diabaté on the Clippers' defensive strategy against Victor Wembanyama** [04:15](https://www.youtube.com/watch?v=gmhjgnELz_w&t=255s)
+
+Moussa Diabaté: "The game plan was to get **Victor Wembanyama** to the outside, so that part of the middle was open. That was what we were looking for. The opponent also played with a lot of physicality, so that is where I got caught at the end. We are a young team, so we are going to get better from this. I think we have a good season ahead."
+
+[https://www.youtube.com/watch?v=gmhjgnELz_w&t=255s](https://www.youtube.com/watch?v=gmhjgnELz_w&t=255s)
+
+<small>[Clip it](presserclips://clip?v=gmhjgnELz_w&t=255&q=5) · [Send to Slack](presserclips://clip?v=gmhjgnELz_w&t=255&q=5&slack=1)</small>
+
+**6. Moussa Diabaté — "we did exactly what we were supposed to do tonight and we gave ourselves a chance" — Moussa Diabaté on the Clippers' offensive execution and pace** [05:11](https://www.youtube.com/watch?v=gmhjgnELz_w&t=311s)
+
+Moussa Diabaté: "We did exactly what we were supposed to do tonight and we gave ourselves a chance. You know how the Spurs are, they are a championship team, they are a final team for a reason. They got a lead, but we talked about we got to keep playing like this. We got a good start and we finished the first half and we came out with a good second half too. So we got to keep doing this and we are going to get more wins."
+
+[https://www.youtube.com/watch?v=gmhjgnELz_w&t=311s](https://www.youtube.com/watch?v=gmhjgnELz_w&t=311s)
+
+<small>[Clip it](presserclips://clip?v=gmhjgnELz_w&t=311&q=6) · [Send to Slack](presserclips://clip?v=gmhjgnELz_w&t=311&q=6&slack=1)</small>
+
+**7. Moussa Diabaté — "when I'm playing 3-and-D, that's what I'm best at" — Moussa Diabaté on his comfort playing a 3-and-D role** [06:26](https://www.youtube.com/watch?v=gmhjgnELz_w&t=386s)
+
+Moussa Diabaté: "Just trying to play free. I talked to the coaches a little bit. I think that's the one I'm good at. When I'm playing 3-and-D, that's what I'm best at. Playing with these guys, I got to start getting used to it. They know where exactly I want the ball to be. The timing and all that, it's all going to start clicking. It's just an early, early season, but I think we have a good season ahead."
+
+[https://www.youtube.com/watch?v=gmhjgnELz_w&t=386s](https://www.youtube.com/watch?v=gmhjgnELz_w&t=386s)
+
+<small>[Clip it](presserclips://clip?v=gmhjgnELz_w&t=386&q=7) · [Send to Slack](presserclips://clip?v=gmhjgnELz_w&t=386&q=7&slack=1)</small>
+
+---
+
+## Damian Lillard Postgame Interview | Portland Trail Blazers 124, Milwaukee Bucks 114 | Nov. 19, 2026 — *Portland Trail Blazers*
+
+Source: [https://www.youtube.com/watch?v=m09eUqcnRV8](https://www.youtube.com/watch?v=m09eUqcnRV8)
+
+_Speakers identified: Damian Lillard_
+
+**1. Damian Lillard — "Anytime you struggle and you are in a rut like that, as a competitor and as an NBA player" — Damian Lillard on Scoot Henderson's performance during his recent struggles** [00:17](https://www.youtube.com/watch?v=m09eUqcnRV8&t=17s)
+
+Damian Lillard: "Anytime you struggle and you are in a rut like that, as a competitor and as an NBA player you want to feel something good. The fact that a game like tonight, we needed him to play that way to pull this one out. He played real well. He got to see the ball go in, he had the ball in his hands, and he came through in moments that we needed it. So I think it was right on time for him."
+
+[https://www.youtube.com/watch?v=m09eUqcnRV8&t=17s](https://www.youtube.com/watch?v=m09eUqcnRV8&t=17s)
+
+<small>[Clip it](presserclips://clip?v=m09eUqcnRV8&t=17&q=1) · [Send to Slack](presserclips://clip?v=m09eUqcnRV8&t=17&q=1&slack=1)</small>
+
+**2. Damian Lillard — "We have all been adjusting to new things. A lot of us have been doing it longer than him." — Damian Lillard on the team's adjustment to roster changes and injuries** [00:56](https://www.youtube.com/watch?v=m09eUqcnRV8&t=56s)
+
+Damian Lillard: "Fourteen games. First he is coming off the bench, then he is starting. There have been so many changes. We have all been adjusting to new things. He has been adjusting as well. A lot of us have been doing it longer than him, so we have probably been able to figure out things and navigate things differently. But he is a young player still trying to figure that out, and it is not easy. People who do not do what we do do not know that they have not walked in our shoes. It is important to keep your mind in it and just keep fighting that fight, and eventually the tide turns."
+
+[https://www.youtube.com/watch?v=m09eUqcnRV8&t=56s](https://www.youtube.com/watch?v=m09eUqcnRV8&t=56s)
+
+<small>[Clip it](presserclips://clip?v=m09eUqcnRV8&t=56&q=2) · [Send to Slack](presserclips://clip?v=m09eUqcnRV8&t=56&q=2&slack=1)</small>
+
+**3. Damian Lillard — "I knew that I would just need to be a little more assertive, a little more aggressive" — Damian Lillard on stepping up as a scorer with teammates sidelined** [01:51](https://www.youtube.com/watch?v=m09eUqcnRV8&t=111s)
+
+Damian Lillard: "I just knew when you are down your next two top scorers, Jabari being out, **Denny** being out, I knew that I would just need to be a little more assertive, a little more aggressive, and have more responsibility in that way, and I did."
+
+[https://www.youtube.com/watch?v=m09eUqcnRV8&t=111s](https://www.youtube.com/watch?v=m09eUqcnRV8&t=111s)
+
+<small>[Clip it](presserclips://clip?v=m09eUqcnRV8&t=111&q=3) · [Send to Slack](presserclips://clip?v=m09eUqcnRV8&t=111&q=3&slack=1)</small>
 
 ---
 

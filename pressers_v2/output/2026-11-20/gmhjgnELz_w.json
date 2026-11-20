@@ -1,0 +1,245 @@
+{
+  "video_title": "Clippers vs. Spurs | Postgame Interviews",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Brandon Boston Jr.",
+    "Moussa Diabaté"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:06",
+      "summary_phrase": "Tyronn Lue on Clippers' turnover issues against the Spurs",
+      "names_mentioned": [],
+      "excerpt": "you turn the ball over 22 times against this team, the way they play, it makes it tough",
+      "quote": "Turnovers led to easy baskets for them in transition. You turn the ball over 22 times against this team, the way they play, the athletes, the way they push the ball, it makes it tough on you. We knew coming into the game we had to take care of the basketball. I thought we did a good job of guarding the half court, but when they got out in transition and we turned the basketball over, it was hard to keep them under control.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Tyronn Lue says the Clippers turnover issues were the difference against the Spurs tonight. They gave up 22 turnovers and struggled to contain the transition game.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the team's turnover issues during the postgame press conference following the game against the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:06",
+      "summary_phrase": "Tyronn Lue on Giannis Antetokounmpo's return from injury",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "he's the pulse of our team and the heartbeat of our team",
+      "quote": "Just a little rusty, fumbled a couple balls. When you are out for that long of a period, the speed of the game is different. It was great to have him back. Him getting used to it, getting in better shape, understanding timing and things like that, it is going to take some time for him to get back to himself and we understand that. Giannis Antetokounmpo is the pulse of our team and the heartbeat of our team.",
+      "verbatim_original_language": "",
+      "start_seconds": 66,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Tyronn Lue says Giannis Antetokounmpo looked a little rusty in his return but remains the pulse and heartbeat of the team. Lue notes it will take some time for him to get back to himself.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "LAC",
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyronn Lue reacts to Giannis Antetokounmpo returning to the court after an injury absence.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:18",
+      "summary_phrase": "Tyronn Lue on the impact of Max Christie in the starting lineup",
+      "names_mentioned": [
+        "Max Christie",
+        "Kobe Bryant"
+      ],
+      "excerpt": "the way he moves without the basketball and just his pace and creating action makes us a different team",
+      "quote": "Creating action. I think Max Christie in that starting lineup, the way he moves without the basketball and just his pace and creating action, makes us a different team. Kobe Bryant didn't do nothing wrong, he's the pulse of our team and the heartbeat of our team. So just looking at some different things, I thought Max was great tonight. We understood the offensive game plan, we did the right thing.",
+      "verbatim_original_language": "",
+      "start_seconds": 138,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tyronn Lue credits Max Christie for changing the team dynamic in the starting lineup. Lue says his pace and movement without the basketball make the Clippers a different team.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Max Christie"
+        ],
+        "teams": [
+          "LAC",
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue explains the impact of inserting Max Christie into the starting lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brandon Boston Jr.",
+      "timestamp": "03:08",
+      "summary_phrase": "Brandon Boston Jr. on his return to the court after 260 days",
+      "names_mentioned": [],
+      "excerpt": "it's my first game back after 260 days and I was just hyped to be back playing",
+      "quote": "It's my first game back after 260 days and I was just hyped to be back playing. It's going to take time to get adjusted back to the game speed, playing with the guys. I haven't played with them in a long time, so I have to learn from every single game, watch the film, and just get better from it.",
+      "verbatim_original_language": "",
+      "start_seconds": 188,
+      "end_seconds": 211,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Brandon Boston Jr. says he was just hyped to be back on the court after 260 days. He admits it will take time to adjust back to game speed and get comfortable with his teammates again.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Brandon Boston Jr. reflects on his return to game action after being sidelined for 260 days.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Moussa Diabaté",
+      "timestamp": "04:15",
+      "summary_phrase": "Moussa Diabaté on the Clippers' defensive strategy against Victor Wembanyama",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "the game plan was to get Victor Wembanyama to the outside, so that part of the middle was open",
+      "quote": "The game plan was to get Victor Wembanyama to the outside, so that part of the middle was open. That was what we were looking for. The opponent also played with a lot of physicality, so that is where I got caught at the end. We are a young team, so we are going to get better from this. I think we have a good season ahead.",
+      "verbatim_original_language": "その試合のゲームプランは、ビクター・ウェンバンヤマを外に引き出すことだったので、その分中がすごく空いていたので、そこを狙っていったんですけども。相手もフィジカルでしっかりやってきたので、そこで僕らも最後の最後でかさられたかなと思います。チームは若いチームなので、そこから上がっていくと思うので、これからが楽しみだなと思います。",
+      "start_seconds": 255,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Moussa Diabate explains the Clippers defensive strategy against Victor Wembanyama was to force him to the outside. He admits the team got caught by the physicality of the Spurs late in the game.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "LAC",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Moussa Diabaté describes the defensive game plan used by the Clippers to contain Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Moussa Diabaté",
+      "timestamp": "05:11",
+      "summary_phrase": "Moussa Diabaté on the Clippers' offensive execution and pace",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "we did exactly what we were supposed to do tonight and we gave ourselves a chance",
+      "quote": "We did exactly what we were supposed to do tonight and we gave ourselves a chance. You know how the Spurs are, they are a championship team, they are a final team for a reason. They got a lead, but we talked about we got to keep playing like this. We got a good start and we finished the first half and we came out with a good second half too. So we got to keep doing this and we are going to get more wins.",
+      "verbatim_original_language": "",
+      "start_seconds": 311,
+      "end_seconds": 344,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Moussa Diabate says the Clippers executed their game plan well against the Spurs and believes the team is on the right track despite the result.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Moussa Diabaté comments on the team's offensive execution and pace throughout the game against the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Moussa Diabaté",
+      "timestamp": "06:26",
+      "summary_phrase": "Moussa Diabaté on his comfort playing a 3-and-D role",
+      "names_mentioned": [],
+      "excerpt": "when I'm playing 3-and-D, that's what I'm best at",
+      "quote": "Just trying to play free. I talked to the coaches a little bit. I think that's the one I'm good at. When I'm playing 3-and-D, that's what I'm best at. Playing with these guys, I got to start getting used to it. They know where exactly I want the ball to be. The timing and all that, it's all going to start clicking. It's just an early, early season, but I think we have a good season ahead.",
+      "verbatim_original_language": "",
+      "start_seconds": 386,
+      "end_seconds": 416,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Moussa Diabate says he is focusing on playing a 3 and D role for the Clippers. He believes his chemistry and timing with teammates will start clicking as the season progresses.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Moussa Diabaté discusses his comfort level and communication with coaches regarding his role as a 3-and-D player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "gmhjgnELz_w",
+  "url": "https://www.youtube.com/watch?v=gmhjgnELz_w",
+  "channel_team": "LA Clippers",
+  "published": "2026-11-20T17:38:56Z",
+  "duration_seconds": 447,
+  "processed_at": "2026-11-20T17:54:20Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

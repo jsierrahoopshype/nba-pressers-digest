@@ -1,0 +1,123 @@
+{
+  "video_title": "Damian Lillard Postgame Interview | Portland Trail Blazers 124, Milwaukee Bucks 114 | Nov. 19, 2026",
+  "speakers_seen": [
+    "Damian Lillard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:17",
+      "summary_phrase": "Damian Lillard on Scoot Henderson's performance during his recent struggles",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "Anytime you struggle and you are in a rut like that, as a competitor and as an NBA player",
+      "quote": "Anytime you struggle and you are in a rut like that, as a competitor and as an NBA player you want to feel something good. The fact that a game like tonight, we needed him to play that way to pull this one out. He played real well. He got to see the ball go in, he had the ball in his hands, and he came through in moments that we needed it. So I think it was right on time for him.",
+      "verbatim_original_language": "",
+      "start_seconds": 17,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Damian Lillard on Scoot Henderson finding his rhythm tonight: It was right on time for him. We needed him to play that way to pull this one out.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Damian Lillard discusses Scoot Henderson's performance following a period of individual struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:56",
+      "summary_phrase": "Damian Lillard on the team's adjustment to roster changes and injuries",
+      "names_mentioned": [],
+      "excerpt": "We have all been adjusting to new things. A lot of us have been doing it longer than him.",
+      "quote": "Fourteen games. First he is coming off the bench, then he is starting. There have been so many changes. We have all been adjusting to new things. He has been adjusting as well. A lot of us have been doing it longer than him, so we have probably been able to figure out things and navigate things differently. But he is a young player still trying to figure that out, and it is not easy. People who do not do what we do do not know that they have not walked in our shoes. It is important to keep your mind in it and just keep fighting that fight, and eventually the tide turns.",
+      "verbatim_original_language": "",
+      "start_seconds": 56,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Damian Lillard on the challenges of roster turnover for a young player like Scoot Henderson: People who do not do what we do do not know that they have not walked in our shoes.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Damian Lillard reflects on the challenges Scoot Henderson has faced adjusting to frequent lineup and role changes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Damian Lillard",
+      "timestamp": "01:51",
+      "summary_phrase": "Damian Lillard on stepping up as a scorer with teammates sidelined",
+      "names_mentioned": [
+        "Jabari Walker",
+        "Denny"
+      ],
+      "excerpt": "I knew that I would just need to be a little more assertive, a little more aggressive",
+      "quote": "I just knew when you are down your next two top scorers, Jabari being out, Denny being out, I knew that I would just need to be a little more assertive, a little more aggressive, and have more responsibility in that way, and I did.",
+      "verbatim_original_language": "",
+      "start_seconds": 111,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Damian Lillard on his increased scoring load with Jabari and Denny sidelined: I knew that I would just need to be a little more assertive, a little more aggressive, and have more responsibility in that way.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jabari Walker",
+          "Deni Avdija"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Damian Lillard explains his need to be more aggressive offensively due to the absences of teammates Jabari Walker and Deni Avdija.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "m09eUqcnRV8",
+  "url": "https://www.youtube.com/watch?v=m09eUqcnRV8",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-20T17:12:57Z",
+  "duration_seconds": 132,
+  "processed_at": "2026-11-20T17:54:14Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}
