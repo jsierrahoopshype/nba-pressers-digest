@@ -3098,5 +3098,22 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {}
+ "pending": {
+  "VPey7oKWnOM": {
+   "channel": "Golden State Warriors",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T03:29:28Z",
+   "run_id": "2026-11-20-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-20",
+   "speaker": "Bob Fitzgerald",
+   "title": "Savvy cuts to basket keeping Warriors afloat vs. Grizzlies | NBC Sports Bay Area",
+   "top_quote": "The Warriors are doing it without three-point shooting, without perimeter shooting, but it is all rebounding, some defense, and getting to the foul line pretty relentlessly. The Warriors are staying in the game. You want to keep cutting. Warriors are getting them with the cutting. There was a few possessions where the Warriors got a little stagnant here and there. They need to flow into their stuff a little better. Even if you pick three plays, you want to see ball screens, split action, the flex screen cut. Figure it out; if it is blown up, flow into the next thing. Warriors just need to be a little more decisive against this Memphis Grizzlies team.",
+   "video_id": "VPey7oKWnOM"
+  }
+ }
 }

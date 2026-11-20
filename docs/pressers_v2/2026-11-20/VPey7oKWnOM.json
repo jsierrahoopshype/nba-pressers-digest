@@ -1,0 +1,171 @@
+{
+  "video_title": "Savvy cuts to basket keeping Warriors afloat vs. Grizzlies | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Bob Fitzgerald",
+    "Kelenna Azubuike"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bob Fitzgerald",
+      "speakers": [
+        "Bob Fitzgerald",
+        "Kelenna Azubuike"
+      ],
+      "timestamp": "00:11",
+      "summary_phrase": "Warriors staying competitive against Grizzlies despite poor perimeter shooting",
+      "names_mentioned": [
+        "Kelena Azubuike",
+        "Bob Fitzgerald"
+      ],
+      "excerpt": "Warriors are staying in the game. You want to keep cutting. Warriors are getting them with the cutting.",
+      "text_blocks": [
+        {
+          "speaker": "Bob Fitzgerald",
+          "text": "The Warriors are doing it without three-point shooting, without perimeter shooting, but it is all rebounding, some defense, and getting to the foul line pretty relentlessly."
+        },
+        {
+          "speaker": "Kelenna Azubuike",
+          "text": "The Warriors are staying in the game. You want to keep cutting. Warriors are getting them with the cutting. There was a few possessions where the Warriors got a little stagnant here and there. They need to flow into their stuff a little better. Even if you pick three plays, you want to see ball screens, split action, the flex screen cut. Figure it out; if it is blown up, flow into the next thing. Warriors just need to be a little more decisive against this Memphis Grizzlies team."
+        }
+      ],
+      "start_seconds": 11,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Bob Fitzgerald on the Warriors offense against Memphis: The team is staying competitive without perimeter shooting by focusing on rebounding, getting to the foul line, and consistent cutting to the basket.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "GSW",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Bob Fitzgerald analyzes how the Warriors are maintaining competitiveness against the Grizzlies through rebounding and cutting rather than perimeter shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kelenna Azubuike",
+      "timestamp": "00:57",
+      "summary_phrase": "Will Richard's cutting ability helps Warriors offense",
+      "names_mentioned": [
+        "LJ Cryer",
+        "Will Richard"
+      ],
+      "excerpt": "Look at all these eyes on LJ Cryer and Will Richard, one of the best cutters.",
+      "quote": "Cutting off of drives freezes it there. Look at all these eyes on LJ Cryer and Will Richard, one of the best cutters on the team. He is just going to cut straight through there. He sees his opportunity. He just helped the driver out, helped your teammate out. It is well done.",
+      "verbatim_original_language": "",
+      "start_seconds": 57,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kelenna Azubuike highlights Will Richard as one of the best cutters on the Warriors, noting how his movement off the ball creates opportunities and helps teammates when the defense is focused on the driver.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LJ Cryer",
+          "Will Richard"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kelenna Azubuike explains how Will Richard uses his cutting ability to assist his teammates during offensive possessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kelenna Azubuike",
+      "timestamp": "01:15",
+      "summary_phrase": "Jeremy Grant's defensive lapses allow Warriors to cut to basket",
+      "names_mentioned": [
+        "Jeremy Grant"
+      ],
+      "excerpt": "If he is not in between you and the basket, go ahead and cut.",
+      "quote": "You see this weak side defender Jeremy Grant, who is now out of the game. If he is not in between you and the basket, go ahead and cut. He just kind of started walking out towards the three-point line, lost sight of his own man. George Niang can cut.",
+      "verbatim_original_language": "",
+      "start_seconds": 75,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kelenna Azubuike breaks down defensive lapses by Jeremy Grant, noting that losing sight of his man allowed the Warriors to find easy cutting lanes to the basket.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremy Grant",
+          "George Niang"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Kelenna Azubuike highlights a defensive lapse by Jeremy Grant that allowed George Niang to score on a cut.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kelenna Azubuike",
+      "timestamp": "01:32",
+      "summary_phrase": "Cam Spencer's defensive decision-making against Warriors' cuts",
+      "names_mentioned": [
+        "Cam Spencer",
+        "GP2"
+      ],
+      "excerpt": "Cam Spencer is going to be the guy you pick on. He has got to make a decision.",
+      "quote": "Look at where Cam Spencer is. You are going to get a cut in here. Cam Spencer is going to be the guy you pick on. He has got to make a decision. There is a shooter right behind him, but he feels like he has to stop GP2 when he gets out to the three-ball late. So the cutting has really been the Warriors' best offense.",
+      "verbatim_original_language": "",
+      "start_seconds": 92,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kelenna Azubuike explains how the Warriors are exploiting Cam Spencer on defense, forcing him into tough decisions between guarding shooters and stopping drives, which has made cutting the team's best offense.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cam Spencer",
+          "Gary Payton II"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Kelenna Azubuike discusses how Cam Spencer struggles with defensive decision-making when Gary Payton II cuts to the basket.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "default",
+  "format": "ytq-1",
+  "video_id": "VPey7oKWnOM",
+  "url": "https://www.youtube.com/watch?v=VPey7oKWnOM",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-20T02:42:40Z",
+  "duration_seconds": 125,
+  "processed_at": "2026-11-20T03:29:28Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
