@@ -1,0 +1,183 @@
+{
+  "video_title": "I Met My Favorite NBA Player! (Damian Lillard)",
+  "speakers_seen": [
+    "Nate",
+    "Alex",
+    "Jared McCain",
+    "Micah Peavy",
+    "Chet Holmgren",
+    "Matt",
+    "Kenzo",
+    "Alina",
+    "Damian Lillard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nate",
+      "speakers": [
+        "Nate",
+        "Jared McCain"
+      ],
+      "timestamp": "00:55",
+      "summary_phrase": "Jared McCain expresses safety concerns about Nate's driving",
+      "names_mentioned": [
+        "Jared McCain"
+      ],
+      "excerpt": "I don't trust you to be driving. We're Ubering.",
+      "text_blocks": [
+        {
+          "speaker": "Jared McCain",
+          "text": "I don't trust you to be driving. We're Ubering."
+        },
+        {
+          "speaker": "Nate",
+          "text": "You don't want to rock with me? We thought you wanted to be in the ride."
+        },
+        {
+          "speaker": "Jared McCain",
+          "text": "No, we are Ubering."
+        }
+      ],
+      "start_seconds": 55,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 1,
+      "social_score": 3,
+      "social_post": "Jared McCain does not trust Nate behind the wheel. The verdict is in and they are taking an Uber instead.",
+      "team": "Madeitnate"
+    },
+    {
+      "rank": 2,
+      "speaker": "Chet Holmgren",
+      "speakers": [
+        "Chet Holmgren",
+        "Nate"
+      ],
+      "timestamp": "03:15",
+      "summary_phrase": "Chet Holmgren jokes about Nate joining the team plane",
+      "names_mentioned": [],
+      "excerpt": "Stuff your little body in a suitcase and you can go on the team plane.",
+      "text_blocks": [
+        {
+          "speaker": "Chet Holmgren",
+          "text": "Stuff your little body in a suitcase and you can go on the team plane."
+        },
+        {
+          "speaker": "Nate",
+          "text": "What I think you guys should do is just sign me to a 10-day and then I can actually be on a team plane."
+        }
+      ],
+      "start_seconds": 195,
+      "end_seconds": 210,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 6,
+      "social_post": "Chet Holmgren has a simple solution for fans wanting to travel with the team. Just stuff your little body in a suitcase and you can go on the team plane.",
+      "team": "Madeitnate"
+    },
+    {
+      "rank": 3,
+      "speaker": "Nate",
+      "timestamp": "06:06",
+      "summary_phrase": "Nate sets performance goals for his second season",
+      "names_mentioned": [],
+      "excerpt": "This season I'm trying to average at least five and two rebounds.",
+      "quote": "This is season two. Last year this was our rookie year. This season I'm trying to average at least five and two rebounds. Last year we averaged zero, we're trying to average two rebounds.",
+      "verbatim_original_language": "",
+      "start_seconds": 366,
+      "end_seconds": 379,
+      "speaker_confidence": "named",
+      "news_score": 1,
+      "social_score": 2,
+      "social_post": "Nate is setting some ambitious goals for his second season, aiming to average five points and two rebounds.",
+      "team": "Madeitnate"
+    },
+    {
+      "rank": 4,
+      "speaker": "Nate",
+      "timestamp": "06:23",
+      "summary_phrase": "Nate claims to have the number one defense in the league",
+      "names_mentioned": [],
+      "excerpt": "I have the number one defense in the league last year.",
+      "quote": "I have the number one defense in the league last year. Nate's defense is on the uprise.",
+      "verbatim_original_language": "",
+      "start_seconds": 383,
+      "end_seconds": 390,
+      "speaker_confidence": "named",
+      "news_score": 1,
+      "social_score": 2,
+      "social_post": "Nate claims to have the number one defense in the league. He says his defense is on the uprise.",
+      "team": "Madeitnate"
+    },
+    {
+      "rank": 5,
+      "speaker": "Nate",
+      "timestamp": "07:37",
+      "summary_phrase": "Nate reflects on meeting his favorite player Damian Lillard",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "I finally met Damian Lillard, the goat.",
+      "quote": "I finally met Damian Lillard, the goat. You guys are about to see the clip of when I met Dame, but I just want to explain how everything kind of happened. This wasn't planned. A lot of people when I posted this picture, everybody thought that this meet-up was planned.",
+      "verbatim_original_language": "",
+      "start_seconds": 457,
+      "end_seconds": 476,
+      "speaker_confidence": "named",
+      "news_score": 1,
+      "social_score": 3,
+      "social_post": "Nate clears the air on his viral photo with Damian Lillard. It was not planned, it just happened.",
+      "team": "Madeitnate"
+    },
+    {
+      "rank": 6,
+      "speaker": "Nate",
+      "timestamp": "08:00",
+      "summary_phrase": "Nate explains his long-term fandom of Damian Lillard",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "Dame, he's my favorite player since I was like fifth grade.",
+      "quote": "For the people that don't know, Dame, he's my favorite player since I was like fifth grade, something like that. I think I've had this since like freshman year of high school. Going to Portland, I had no idea there was even a chance or had a dot meeting Dame would even be possible.",
+      "verbatim_original_language": "",
+      "start_seconds": 480,
+      "end_seconds": 501,
+      "speaker_confidence": "named",
+      "news_score": 1,
+      "social_score": 3,
+      "social_post": "Nate reflects on meeting his childhood idol Damian Lillard. He has been a fan since the fifth grade.",
+      "team": "Madeitnate"
+    },
+    {
+      "rank": 7,
+      "speaker": "Nate",
+      "timestamp": "09:03",
+      "summary_phrase": "Nate compares the aura of Shai Gilgeous-Alexander and Damian Lillard",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "I'm going to have to give it to Dame.",
+      "quote": "I know a lot of you guys are going to ask this, who has more aura, Shai or Dame? I'm going to have to give it to Dame. Dame, his aura, it was just different.",
+      "verbatim_original_language": "",
+      "start_seconds": 543,
+      "end_seconds": 556,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 5,
+      "social_post": "The debate is settled. Nate says Damian Lillard has more aura than Shai Gilgeous-Alexander. Dame, his aura, it was just different.",
+      "team": "Madeitnate"
+    }
+  ],
+  "content_type": "oneoff",
+  "content_type_source": "yt-quotes one-off",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "8xdR-IIfY8A",
+  "url": "https://www.youtube.com/watch?v=8xdR-IIfY8A",
+  "channel_team": "Madeitnate",
+  "published": "2026-11-18T18:55:41Z",
+  "duration_seconds": 773,
+  "processed_at": "2026-11-20T06:55:23Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": true
+}
