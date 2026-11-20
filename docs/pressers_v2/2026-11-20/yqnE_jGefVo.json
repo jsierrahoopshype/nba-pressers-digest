@@ -1,0 +1,157 @@
+{
+  "video_title": "Jaylen Wells Walk-Off Interview | Grizzlies vs. Warriors",
+  "speakers_seen": [
+    "Rob Fischer",
+    "Jaylen Wells"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaylen Wells",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaylen Wells"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Jaylen Wells on the Grizzlies' second-half turnaround against the Warriors",
+      "names_mentioned": [],
+      "excerpt": "It just wasn't our identity. We just had to get back to what we were doing.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Jaylen, the first half, they started creeping back into the game a little bit before halftime. What changed in that second half? Where were you guys clicking?"
+        },
+        {
+          "speaker": "Jaylen Wells",
+          "text": "I think a lot of it started with rebounding. They were getting a lot of offensive rebounds. It just wasn't our identity. We just had to get back to what we were doing."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaylen Wells says the Grizzlies second half turnaround against the Warriors came down to getting back to their identity on the glass after struggling with offensive rebounds early on.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Jaylen Wells explains to a reporter what adjustments the Grizzlies made to improve their rebounding in the second half against the Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaylen Wells",
+      "timestamp": "00:14",
+      "summary_phrase": "Jaylen Wells on his offensive performance and team unselfishness",
+      "names_mentioned": [],
+      "excerpt": "It shows on any given night there's a player that can break out. We're a very unselfish team.",
+      "quote": "It felt good. I think it shows on any given night there's a player that can break out. We're a very unselfish team and we just want to win.",
+      "verbatim_original_language": "",
+      "start_seconds": 14,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jaylen Wells on the Grizzlies offensive depth: It shows that on any given night there is a player that can break out. We are a very unselfish team and we just want to win.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Jaylen Wells discusses his offensive performance and the unselfish nature of the Grizzlies team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaylen Wells",
+      "timestamp": "00:30",
+      "summary_phrase": "Jaylen Wells on the Grizzlies' emphasis on ball movement",
+      "names_mentioned": [
+        "Tomas"
+      ],
+      "excerpt": "I just think it's the way we play. The way that Tomas and the coaching staff has prepared us.",
+      "quote": "I wouldn't say it's a focus, I just think it's the way we play. The way that Tomas and the coaching staff has prepared us. We know what the defense is going to give us, so he gives us the answers to the test.",
+      "verbatim_original_language": "",
+      "start_seconds": 30,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaylen Wells credits the coaching staff for the Grizzlies ball movement: We know what the defense is going to give us, so he gives us the answers to the test.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jaylen Wells credits the coaching staff for preparing the team to read opposing defenses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaylen Wells",
+      "timestamp": "00:48",
+      "summary_phrase": "Jaylen Wells on Taylor Hendricks' impact and locker room presence",
+      "names_mentioned": [
+        "Taylor Hendricks"
+      ],
+      "excerpt": "He's a guy who works hard, just very positive person, great guy to have in the locker room.",
+      "quote": "It's big. Definitely happy for him. He's a guy who works hard, just very positive person, great guy to have in the locker room. It means a lot for him, I'm sure, and for us as his teammates just to see him grow.",
+      "verbatim_original_language": "",
+      "start_seconds": 48,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jaylen Wells on Taylor Hendricks: He is a guy who works hard, just a very positive person, and a great guy to have in the locker room. It means a lot for us as his teammates just to see him grow.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Taylor Hendricks"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaylen Wells praises Taylor Hendricks for his hard work and positive impact on the team locker room.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: interview",
+  "format": "ytq-1",
+  "video_id": "yqnE_jGefVo",
+  "url": "https://www.youtube.com/watch?v=yqnE_jGefVo",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-20T03:44:35Z",
+  "duration_seconds": 81,
+  "processed_at": "2026-11-20T04:20:34Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}

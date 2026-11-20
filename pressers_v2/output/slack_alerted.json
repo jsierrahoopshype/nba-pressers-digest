@@ -3099,6 +3099,22 @@
   }
  },
  "pending": {
+  "HPcdrexsJzg": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T04:20:46Z",
+   "run_id": "2026-11-20-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Tuomas Iisalo",
+   "title": "Tuomas Iisalo Press Conference | Grizzlies vs. Warriors",
+   "top_quote": "I thought especially the first half I had a very divided opinion about the possessions we had because I thought we played some of the best disruption we have had in a long time. We were getting a lot of deflections, we were executing our pick-and-roll coverage. Guys looked very good, moving very well with their feet. And then there were a couple of things in the first half that we did a poor job of, so there was a huge contrast. We allowed guys to get to their strong hand all the way to the rim, we put them on the free-throw line, and we gave them second-shot opportunities. You can imagine what the outcome is going to be in NBA games if you allow guys right-hand layups, free throws, and then five to ten shots more. Usually the outcome is going to be very bad. So that was the main thing in the first half, and I think our guys did a tremendous job in the second half then doing much better job not fouling, keeping them off their strong hand, and the rebounding stayed as an issue, but we on the other hand were able to force some turnovers and negate that rebounding differential.",
+   "video_id": "HPcdrexsJzg"
+  },
   "VPey7oKWnOM": {
    "channel": "Golden State Warriors",
    "clip_count": 4,
@@ -3114,6 +3130,54 @@
    "title": "Savvy cuts to basket keeping Warriors afloat vs. Grizzlies | NBC Sports Bay Area",
    "top_quote": "The Warriors are doing it without three-point shooting, without perimeter shooting, but it is all rebounding, some defense, and getting to the foul line pretty relentlessly. The Warriors are staying in the game. You want to keep cutting. Warriors are getting them with the cutting. There was a few possessions where the Warriors got a little stagnant here and there. They need to flow into their stuff a little better. Even if you pick three plays, you want to see ball screens, split action, the flex screen cut. Figure it out; if it is blown up, flow into the next thing. Warriors just need to be a little more decisive against this Memphis Grizzlies team.",
    "video_id": "VPey7oKWnOM"
+  },
+  "gPTcWRyaxEs": {
+   "channel": "Portland Trail Blazers",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T04:20:46Z",
+   "run_id": "2026-11-20-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Scoot Henderson",
+   "title": "Scoot Henderson Walk off Interview | Portland Trail Blazers 124, Milwaukee Bucks 114 | Nov. 19, 2026",
+   "top_quote": "I think I was just locking in, playing against ourselves. We trying to just keep our standard and that's playing hard every time we hit the floor. So we can't play down, we can't play up, we can't get too high, we can't get too low. So we just got to remain the Blazers.",
+   "video_id": "gPTcWRyaxEs"
+  },
+  "xotTS1p0YIo": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T04:20:46Z",
+   "run_id": "2026-11-20-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Cedric Coward",
+   "title": "Cedric Coward Walk-Off Interview | Grizzlies vs. Warriors",
+   "top_quote": "That a big third quarter allowed you guys to really open this one up. What were the biggest adjustments you made coming out of the half? Defense was the main thing and rebounding. I think we kept giving them extra possessions. They had like 10 more shots than us at halftime. We were making shots, but we can't rely on our shot making. We got to lock in on the defensive end.",
+   "video_id": "xotTS1p0YIo"
+  },
+  "yqnE_jGefVo": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-20T04:20:46Z",
+   "run_id": "2026-11-20-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Jaylen Wells",
+   "title": "Jaylen Wells Walk-Off Interview | Grizzlies vs. Warriors",
+   "top_quote": "Jaylen, the first half, they started creeping back into the game a little bit before halftime. What changed in that second half? Where were you guys clicking? I think a lot of it started with rebounding. They were getting a lot of offensive rebounds. It just wasn't our identity. We just had to get back to what we were doing.",
+   "video_id": "yqnE_jGefVo"
   }
  }
 }

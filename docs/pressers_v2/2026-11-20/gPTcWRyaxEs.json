@@ -1,0 +1,115 @@
+{
+  "video_title": "Scoot Henderson Walk off Interview | Portland Trail Blazers 124, Milwaukee Bucks 114 | Nov. 19, 2026",
+  "speakers_seen": [
+    "Scoot Henderson",
+    "Unidentified reporter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scoot Henderson",
+      "timestamp": "00:11",
+      "summary_phrase": "Scoot Henderson on maintaining Portland's high standards",
+      "names_mentioned": [],
+      "excerpt": "we trying to just keep our standard and that's playing hard every time we hit the floor",
+      "quote": "I think I was just locking in, playing against ourselves. We trying to just keep our standard and that's playing hard every time we hit the floor. So we can't play down, we can't play up, we can't get too high, we can't get too low. So we just got to remain the Blazers.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Scoot Henderson on the Blazers mindset after the win over Milwaukee: We trying to just keep our standard and that is playing hard every time we hit the floor. We cannot get too high, we cannot get too low.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson discusses the team's mindset and effort following the victory against the Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scoot Henderson",
+      "timestamp": "00:46",
+      "summary_phrase": "Scoot Henderson on team confidence and shooting rhythm",
+      "names_mentioned": [],
+      "excerpt": "I never doubted myself. Continue to have that confidence and my circle, my team, they still had that confidence",
+      "quote": "I never doubted myself. I never doubted myself. Continue to have that confidence and my circle, my team, they still had that confidence to me, so that's a pleasure to have.",
+      "verbatim_original_language": "",
+      "start_seconds": 46,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Scoot Henderson on his shooting rhythm: I never doubted myself. Continue to have that confidence and my circle, my team, they still had that confidence in me, so that is a pleasure to have.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson reflects on maintaining his personal confidence throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scoot Henderson",
+      "timestamp": "00:55",
+      "summary_phrase": "Scoot Henderson on the impact of Jrue Holiday",
+      "names_mentioned": [
+        "Jrue Holiday"
+      ],
+      "excerpt": "that's why he a champion, man. That's why he is Jrue Holiday",
+      "quote": "That's why he a champion, man. That's why he is Jrue Holiday, that's why playing basketball growing up and that ignite I watched his film. Dalla as well as Ja, like we got great guys around me that I'm just trying to watch and observe.",
+      "verbatim_original_language": "",
+      "start_seconds": 55,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Scoot Henderson on learning from Jrue Holiday: That is why he a champion, man. That is why he is Jrue Holiday. I watched his film growing up and we got great guys around me that I am just trying to watch and observe.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jrue Holiday",
+          "Ja Morant"
+        ],
+        "teams": [
+          "POR",
+          "MIL",
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scoot Henderson explains how he learns from veteran players like Jrue Holiday and Ja Morant.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: interview",
+  "format": "ytq-1",
+  "video_id": "gPTcWRyaxEs",
+  "url": "https://www.youtube.com/watch?v=gPTcWRyaxEs",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-20T03:45:21Z",
+  "duration_seconds": 85,
+  "processed_at": "2026-11-20T04:20:33Z",
+  "run_id": "2026-11-20-overnight",
+  "is_one_off": false
+}
