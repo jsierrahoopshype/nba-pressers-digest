@@ -1,0 +1,247 @@
+{
+  "video_title": "Hawks vs. Hornets Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:16",
+      "summary_phrase": "Quin Snyder on how turnovers impact the team's defensive aggression",
+      "names_mentioned": [],
+      "excerpt": "when we turn the ball over, it's hard to find any aggression",
+      "quote": "When we turn the ball over, it's hard to find any aggression because usually it's a number break, three-on-two, two-on-one, whatever it is, and we're taking it out of the net. So I think when we started taking better care of the basketball, and the other thing is defensive rebounding, when you get, you play good defense through a possession and you don't rebound the ball, it can be deflating. I think those two things, if we're taking care of that, we have a chance to run and we have more energy.",
+      "verbatim_original_language": "",
+      "start_seconds": 16,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Quin Snyder says the Hawks struggle to find defensive aggression when they turn the ball over because they are constantly taking the ball out of the net.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Head coach Quin Snyder explains how turnovers and defensive rebounding struggles negatively impact the team's ability to play with aggression.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:07",
+      "summary_phrase": "Quin Snyder on defensive lapses and rotation issues in the first half",
+      "names_mentioned": [],
+      "excerpt": "our rotations were not sharp early, we were just a step behind",
+      "quote": "Our rotations were not sharp early, we were just a step behind. That's really important for us in our pick-and-roll defense as we're trying to keep the ball out of the paint. We're going to find ourselves in those situations. Some of it was closeouts, when we switch pick-and-roll we weren't aggressive enough early, and they shot too just right behind the screen. I just think we weren't as sharp as we needed to be.",
+      "verbatim_original_language": "",
+      "start_seconds": 67,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Quin Snyder admits the Hawks were not sharp early in their pick and roll defense tonight and were a step behind on their rotations.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "CHO"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Quin Snyder discusses defensive lapses and rotation issues during the first half of the game against the Hornets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:54",
+      "summary_phrase": "Quin Snyder on the timely energy and impact of Zubac",
+      "names_mentioned": [
+        "Zubac"
+      ],
+      "excerpt": "he's running without the promise of a reward",
+      "quote": "It's timely as well. There's plays, whether it's a block or, you see him dunk, but what you don't notice all the time is he sprinted to get to that position. Those are the things in my mind that are hard, because he's running without the promise of a reward. Sometimes, delayed gratification is hard. The things that our team needs to do to be good, that's consistent. There's not a payout in the moment. You have to run even when you don't get the ball, you have to get a hit even when you don't get the rebound, you have to space even if you don't get the shot. Those things are important to him, and as a result, he puts himself in position to make those kind of plays.",
+      "verbatim_original_language": "",
+      "start_seconds": 114,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Quin Snyder praises the impact of Zubac, noting that he runs the floor without the promise of a reward. He says delayed gratification is hard but essential for the team.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ivica Zubac"
+        ],
+        "teams": [
+          "ATL",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Quin Snyder praises Ivica Zubac for his consistent effort and willingness to make plays without the ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "03:21",
+      "summary_phrase": "Quin Snyder on RJ's development and understanding of the system",
+      "names_mentioned": [
+        "RJ"
+      ],
+      "excerpt": "he's got a good feel for how we want to play",
+      "quote": "It's great when you have guys in the program. Last year in College Park, this summer, throughout the course of September, he's got a good feel for how we want to play. He played well in Oklahoma City, he didn't make a shot. He can get in the lane, when he gets in there he's capable of finishing and he also has good vision. I think he's worked on that too. Big minutes from him tonight that gave us a lift.",
+      "verbatim_original_language": "",
+      "start_seconds": 201,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Quin Snyder credits RJ for his development and understanding of the system, noting that he provided big minutes and a lift for the team tonight.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "RJ"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder evaluates the development and performance of RJ following his significant minutes in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Quin Snyder",
+      "timestamp": "04:03",
+      "summary_phrase": "Quin Snyder on the team's defensive strategy and ball movement",
+      "names_mentioned": [
+        "Jalen",
+        "Naz",
+        "Charlotte"
+      ],
+      "excerpt": "we have to be shifted to protect the paint",
+      "quote": "We've been able to generate some stuff on occasion in the backcourt and that wasn't as available tonight. There's a fine line. We want to really, we have to be shifted to protect the paint. That said, there's a fine line. If we can start being shifted, we have a chance to drift out and make some of those plays in passing lanes, particularly guys that have length. We've seen Jalen do that recently. If we can anticipate some of those situations, they do a good job of moving the ball. The thing about ball movement, and we feel this too, is the more passes you make, the greater the likelihood that you could turn it over. So that's something for us that's really important, being able to anticipate those situations.",
+      "verbatim_original_language": "",
+      "start_seconds": 243,
+      "end_seconds": 293,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Quin Snyder discusses the fine line between protecting the paint and playing passing lanes, noting that more ball movement also increases the risk of turnovers.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the team's defensive strategy regarding paint protection and passing lanes, highlighting Jalen Johnson's recent contributions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Quin Snyder",
+      "timestamp": "05:30",
+      "summary_phrase": "Quin Snyder on Jalen's perimeter shooting and impact without the ball",
+      "names_mentioned": [
+        "Jalen"
+      ],
+      "excerpt": "the thing that he did tonight where he was really impactful was he played without the ball",
+      "quote": "He knows that we want him to keep shooting. The catch-and-shoots that he hit were just, you know, quick decision. I thought the thing that he did tonight where he was really impactful was he played without the ball. That's important for him and for us, particularly when people are game-planning for him or there's a matchup on the ball. His ability to do both, to get out in transition, to get to the foul line, offensive rebound, all those things add up and I think it calms your nervous system a little bit too. He knows how we feel about him and his shooting the ball is important for us, so it's good to see a couple go in. No question about it, but I don't want to obsess about it either because there's lots of ways he can help us.",
+      "verbatim_original_language": "",
+      "start_seconds": 330,
+      "end_seconds": 385,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Quin Snyder says Jalen Johnson was impactful tonight because he played well without the ball. He wants Jalen to keep shooting but says there are many ways he can help the team.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses Jalen Johnson's perimeter shooting and his overall impact on the game when playing without the ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Quin Snyder",
+      "timestamp": "06:38",
+      "summary_phrase": "Quin Snyder on the team's offensive rebounding success",
+      "names_mentioned": [
+        "Diabate",
+        "RayJ"
+      ],
+      "excerpt": "Diabate was part of it",
+      "quote": "Diabate was part of it. They not only do they have, and he and Calkrunner, two guys that it's very difficult to keep off the glass by yourself, and if you are able to put a second body on, which we didn't do enough, when we did, he may not get it, but then everybody's got to clean it up. The first part of that we need to do better, and then the second part of it, I'd like to get to the second part where he actually doesn't get it. But credit to him as far as how relentless he is on the glass. I thought as the game went on we had some possessions, and those will be guard rebounds. I think RayJ got five of them. He's a small guy on the court, but everybody we got to have everybody in the mix to be effective on the defensive glass.",
+      "verbatim_original_language": "",
+      "start_seconds": 398,
+      "end_seconds": 457,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Quin Snyder says the Hawks need to do a better job of team rebounding to keep opponents off the glass, specifically noting the need for guard rebounds.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Moussa Diabate",
+          "RayJ"
+        ],
+        "teams": [
+          "ATL",
+          "CHO"
+        ],
+        "topics": [],
+        "context": "Quin Snyder addresses the team's struggles with defensive rebounding against Moussa Diabate and highlights RayJ's effort on the glass.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "s19CJPy57_8",
+  "url": "https://www.youtube.com/watch?v=s19CJPy57_8",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-21T03:05:05Z",
+  "duration_seconds": 467,
+  "processed_at": "2026-11-21T03:13:37Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

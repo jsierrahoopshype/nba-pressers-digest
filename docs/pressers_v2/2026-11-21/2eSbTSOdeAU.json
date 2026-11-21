@@ -1,0 +1,138 @@
+{
+  "video_title": "Hornets at Hawks: Coach Charles Lee Postgame Media Availability | 11/20/2026",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:12",
+      "summary_phrase": "Charles Lee on Charlotte's offensive struggles and turnovers against Atlanta",
+      "names_mentioned": [],
+      "excerpt": "17 turnovers tonight, 36 points off of our turnovers and a lot of them seem like they were",
+      "quote": "I thought the break offensively was probably the biggest one. Let's not shy away from it. 17 turnovers tonight, 36 points off of our turnovers and a lot of them seem like they were pick-sixes going the other way. I thought when we played with purpose offensively, we got to our angle spacing. We trusted the seam pass, seam pass kick-outs for easy threes, playing versus closeouts, we were really dangerous. At times, credit Atlanta a little bit, their pressure and physicality took us out of an offensive rhythm.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Charles Lee says the Hornets were hurt by 17 turnovers tonight leading to 36 points for Atlanta. He noted that when they played with purpose and trusted the seam pass they were dangerous but the turnovers put them in a blender.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses the team's offensive struggles and high turnover count in the loss against the Atlanta Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "00:46",
+      "summary_phrase": "Charles Lee praises the resilience of his Charlotte Hornets squad",
+      "names_mentioned": [],
+      "excerpt": "This is a really competitive, really resilient group. To go through all that we went through",
+      "quote": "This is a really competitive, really resilient group. To go through all that we went through on this road trip, there wasn't an excuse made. Every day was how do we get better, how do we find the areas that I think that we can control. The group set at the end of the game, now we just have to do it. We are identifying the things, we are communicating the right things, and now you have to do it for a full game.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Charles Lee praised the resilience of his group after a tough road trip saying there was not an excuse made and the team is focused on how to get better every day.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee comments on the resilience and competitive nature of his team following the conclusion of a road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "01:16",
+      "summary_phrase": "Charles Lee on Moussa Diabate's growth and well-rounded game",
+      "names_mentioned": [
+        "Moussa Diabate"
+      ],
+      "excerpt": "He is now feeling more comfortable with the ball in his hands and kicking out and making decisions",
+      "quote": "For one, in the scene, I think that he is now feeling more comfortable with the ball in his hands and kicking out and making decisions. We have always seen the defensive intensity and intangibles offensively, the offensive rebounding has always been there. I think he is just adding some layers to his game to be a little bit more well-rounded at the three, but it was good to see that he was able to come back out to the court, which is always encouraging.",
+      "text_blocks": [],
+      "start_seconds": 76,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Charles Lee on the growth of Moussa Diabate. He says Diabate is feeling more comfortable with the ball in his hands and is adding layers to his game to be more well rounded.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Moussa Diabate"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee evaluates the recent development and well-rounded performance of Moussa Diabate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "01:53",
+      "summary_phrase": "Charles Lee expresses high confidence in the Hornets' turnaround",
+      "names_mentioned": [],
+      "excerpt": "Extremely high. I trust our process, I trust our players, our staff.",
+      "quote": "Extremely high. I trust our process, I trust our players, our staff. I haven't seen one person hit a panic button or worry about what we are doing. I think we talked a ton about defensively to give up 111 tonight. A couple nights ago, you give up low 114, whatever it was in an overtime game. We are doing the right things defensively, you got to finish possessions, and then offensively we just got to be able to maintain a rhythm with a lot of different lineups, but the turnovers are usually self-inflicted and put us in a blender.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Charles Lee says his confidence in the Hornets turnaround is extremely high. He noted that he has not seen one person hit a panic button and the team continues to trust the process.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee expresses confidence in the team's process and defensive progress despite recent losses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "2eSbTSOdeAU",
+  "url": "https://www.youtube.com/watch?v=2eSbTSOdeAU",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-21T02:51:46Z",
+  "duration_seconds": 158,
+  "processed_at": "2026-11-21T03:13:30Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

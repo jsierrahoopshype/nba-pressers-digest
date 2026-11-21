@@ -1,0 +1,138 @@
+{
+  "video_title": "Hornets at Hawks: Moussa Diabate Postgame Media Availability | 11/20/2026",
+  "speakers_seen": [
+    "Moussa Diabate"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Moussa Diabate",
+      "timestamp": "00:00",
+      "summary_phrase": "Moussa Diabate on Hornets' offensive execution and decision-making",
+      "names_mentioned": [],
+      "excerpt": "they allowed the big to give the ball and kind of make the decision",
+      "quote": "My thing is just really what we planned. I think that they allowed the big to give the ball and kind of make the decision, and from there, I just took the opportunity of it.",
+      "text_blocks": [],
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 13,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Moussa Diabate on the Hornets offensive plan against the Hawks: They allowed the big to give the ball and make the decision, and from there I just took the opportunity of it.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate discusses the Hornets' offensive game plan and his role in making decisions with the ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Moussa Diabate",
+      "timestamp": "00:22",
+      "summary_phrase": "Moussa Diabate on maintaining a relentless approach on the glass",
+      "names_mentioned": [],
+      "excerpt": "really being relentless, just doing the same thing over and over",
+      "quote": "Really, being relentless, just doing the same thing over and over. That's really all I did, just doing the same thing every day.",
+      "text_blocks": [],
+      "verbatim_original_language": "",
+      "start_seconds": 22,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Moussa Diabate on his approach to rebounding: Really being relentless, just doing the same thing over and over. That is really all I did, just doing the same thing every day.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate explains his mindset regarding his consistent effort and approach to rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Moussa Diabate",
+      "timestamp": "00:41",
+      "summary_phrase": "Moussa Diabate on sustaining leads and team consistency",
+      "names_mentioned": [],
+      "excerpt": "trying to figure out how to sustain our lead",
+      "quote": "Trying to figure out how to sustain our lead. I don't think any other team that we played are better than us. I think that we proved that we can make those leads. It's not like we just can't make them, we just got to learn how to sustain it. That's been the main talks for the past three, four games, and now we just got to figure out a way to apply it.",
+      "text_blocks": [],
+      "verbatim_original_language": "",
+      "start_seconds": 41,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Moussa Diabate on the Hornets struggles to hold leads: I do not think any other team that we played are better than us. We proved that we can make those leads, we just got to learn how to sustain it.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate addresses the team's ongoing struggle to maintain leads during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Moussa Diabate",
+      "timestamp": "01:30",
+      "summary_phrase": "Moussa Diabate on attention to detail and winning 50-50 balls",
+      "names_mentioned": [],
+      "excerpt": "win the 50-50 ball, pay attention to details",
+      "quote": "Be able to keep our energy up even when things is not going our way. Just the little things like that, win the 50-50 ball, pay attention to details, everything like that.",
+      "text_blocks": [],
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Moussa Diabate on what the Hornets need to improve: Be able to keep our energy up even when things is not going our way. Just the little things like that, win the 50-50 ball, pay attention to details.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Moussa Diabate emphasizes the importance of maintaining energy and focusing on small details to secure victories.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "fAqftXVLLUw",
+  "url": "https://www.youtube.com/watch?v=fAqftXVLLUw",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-21T03:00:23Z",
+  "duration_seconds": 102,
+  "processed_at": "2026-11-21T03:13:28Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

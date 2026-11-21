@@ -3217,6 +3217,22 @@
   }
  },
  "pending": {
+  "2eSbTSOdeAU": {
+   "channel": "Charlotte Hornets",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-21",
+   "is_one_off": false,
+   "queued_at": "2026-11-21T03:13:37Z",
+   "run_id": "2026-11-21-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-21",
+   "speaker": "Charles Lee",
+   "title": "Hornets at Hawks: Coach Charles Lee Postgame Media Availability | 11/20/2026",
+   "top_quote": "I thought the break offensively was probably the biggest one. Let's not shy away from it. 17 turnovers tonight, 36 points off of our turnovers and a lot of them seem like they were pick-sixes going the other way. I thought when we played with purpose offensively, we got to our angle spacing. We trusted the seam pass, seam pass kick-outs for easy threes, playing versus closeouts, we were really dangerous. At times, credit Atlanta a little bit, their pressure and physicality took us out of an offensive rhythm.",
+   "video_id": "2eSbTSOdeAU"
+  },
   "_ybwjbf47H0": {
    "channel": "Sacramento Kings",
    "clip_count": 6,
@@ -3233,6 +3249,22 @@
    "top_quote": "Pace doesn't necessarily mean pivot, tear. It doesn't mean that as my college coach would say. Pace means how quickly you're moving in the half court. That's a huge one. You have to make sure that you're cutting, you're moving, you're reading. If players are getting above you on splits, you're making quick cuts. That's pace also. So there's the full court pace, but then there's the half court pace, which probably is even more important because when guys are trying to grab hold and control, you got to knock their hands off and run through them.",
    "video_id": "_ybwjbf47H0"
   },
+  "fAqftXVLLUw": {
+   "channel": "Charlotte Hornets",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-21",
+   "is_one_off": false,
+   "queued_at": "2026-11-21T03:13:37Z",
+   "run_id": "2026-11-21-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-21",
+   "speaker": "Moussa Diabate",
+   "title": "Hornets at Hawks: Moussa Diabate Postgame Media Availability | 11/20/2026",
+   "top_quote": "My thing is just really what we planned. I think that they allowed the big to give the ball and kind of make the decision, and from there, I just took the opportunity of it.",
+   "video_id": "fAqftXVLLUw"
+  },
   "mQIJ-_Gjd18": {
    "channel": "Golden State Warriors",
    "clip_count": 4,
@@ -3248,6 +3280,22 @@
    "title": "Is Warriors rookie Yaxel Lendeborg reaching breaking point? | NBC Sports Bay Area",
    "top_quote": "When he was talking after the first game against Luka, he was like, 'I don't respect Luka.' And I'm thinking to myself, man, they just got beat by three. Like, what? He's a fun-loving kid and I love the fact that he's authentic. But this trip was really baffling to me when it came to the rookie. And this is where I know the Warriors are like, man, we know we got to rein this guy in.",
    "video_id": "mQIJ-_Gjd18"
+  },
+  "s19CJPy57_8": {
+   "channel": "Atlanta Hawks",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-21",
+   "is_one_off": false,
+   "queued_at": "2026-11-21T03:13:37Z",
+   "run_id": "2026-11-21-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-21",
+   "speaker": "Quin Snyder",
+   "title": "Hawks vs. Hornets Postgame Press Conference: Head Coach Quin Snyder",
+   "top_quote": "When we turn the ball over, it's hard to find any aggression because usually it's a number break, three-on-two, two-on-one, whatever it is, and we're taking it out of the net. So I think when we started taking better care of the basketball, and the other thing is defensive rebounding, when you get, you play good defense through a possession and you don't rebound the ball, it can be deflating. I think those two things, if we're taking care of that, we have a chance to run and we have more energy.",
+   "video_id": "s19CJPy57_8"
   }
  }
 }
