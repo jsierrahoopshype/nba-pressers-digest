@@ -22,17 +22,7 @@ From: [Cavs vs Pacers \| Donovan Mitchell & Mario Hezonja Post Game \| 11.20.202
 
 <small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=304&q=5) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=304&q=5&slack=1)</small>
 
-**3. Nikola Jokic — "there's beauty in struggling and I love struggling" — Nikola Jokic on embracing the struggle** [20:41](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
-
-Nikola Jokic: "I like to say the struggle is there's beauty in struggling and I love struggling, and that makes you better, makes you think how to how to prepare, what to do something different. It's really nice when you struggle."
-
-[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
-
-From: [Full Denver Nuggets Postgame Media Availability vs. HOU 🎙](https://www.youtube.com/watch?v=UEXCCY-i5HI) · *Denver Nuggets*
-
-<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=7) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=7&slack=1)</small>
-
-**4. Danny Wolf — "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately" — Danny Wolf on his defensive development and physical conditioning** [12:43](https://www.youtube.com/watch?v=jTwBAC2Kk5E&t=763s)
+**3. Danny Wolf — "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately" — Danny Wolf on his defensive development and physical conditioning** [12:43](https://www.youtube.com/watch?v=jTwBAC2Kk5E&t=763s)
 
 Danny Wolf: "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately their coaching staff looked at me and told everyone to go at me. I don't want to use the terms they were using, but I remember it vividly and guys looked at me and saw a big white guy and thought that they were going to go at me and I think I used that as a chip on my shoulder to prove that I can guard and if I'm guarding a one, if I'm guarding a five and obviously a lot of body, a lot of work on my body and credit to the strength staff and just staying on top of that, but again a work in progress and that's something that I kind of want to not just be okay and I want to continue to become a elite defender and continue to get the tools to do so."
 
@@ -40,7 +30,7 @@ Danny Wolf: "I remember my first game in Milwaukee, my first real game playing, 
 
 From: [Jordi Fernández + Danny Wolf Postgame Press Conferences vs. Orlando](https://www.youtube.com/watch?v=jTwBAC2Kk5E) · *Brooklyn Nets*
 
-**5. Dalton Johnson — Yaxel Lendeborg's candid admission of mental struggle** [02:57](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=177s)
+**4. Dalton Johnson — Yaxel Lendeborg's candid admission of mental struggle** [02:57](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=177s)
 
 **Dalton Johnson:** "When he finishes, **Will** looks at him and he's just like, 'Why you got to say it like that?' And they're like really close friends and he's like, 'What did I say like? It's all true, like I am messed up and I am.' And **Will**'s just like, 'You don't, you just don't get it right now.'"
 
@@ -50,7 +40,7 @@ From: [Jordi Fernández + Danny Wolf Postgame Press Conferences vs. Orlando](htt
 
 From: [Is Warriors rookie Yaxel Lendeborg reaching breaking point? \| NBC Sports Bay Area](https://www.youtube.com/watch?v=mQIJ-_Gjd18) · *Golden State Warriors*
 
-**6. Rick Carlisle — Rick Carlisle on T.J. McConnell's hamstring injury** [05:26](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
+**5. Rick Carlisle — Rick Carlisle on T.J. McConnell's hamstring injury** [05:26](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
 
 Rick Carlisle: "He's got a hamstring issue on the other hamstring. We don't know how bad yet. He was not asking out of the game, but he felt it and so **Josh** kind of saw it happen. He said, 'Hey, we got to get T.J. out,' and so we took a foul to get him out. So we'll see, I'm not going to speculate. I haven't talked to him yet, but it's another body blow, so we just got to absorb it and the next man's got to be ready to be up."
 
@@ -60,7 +50,7 @@ From: [Rick Carlisle Postgame Media Availability \| November 20, 2026](https://w
 
 <small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5&slack=1)</small>
 
-**7. Jordan Ott — "That right quad, just a knee to quad on that screen." — Update on player injury following the screen** [01:07](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=67s)
+**6. Jordan Ott — "That right quad, just a knee to quad on that screen." — Update on player injury following the screen** [01:07](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=67s)
 
 Jordan Ott: "That right quad, just a knee to quad on that screen. Obviously didn't come back in, so that will be one of those things where we will see what it looks like tomorrow."
 
@@ -70,7 +60,7 @@ From: [Head Coach Jordan Ott Postgame Media Availability  \| 11-20-26](https://w
 
 <small>[Clip it](presserclips://clip?v=VCyGx4xFfQU&t=67&q=4) · [Send to Slack](presserclips://clip?v=VCyGx4xFfQU&t=67&q=4&slack=1)</small>
 
-**8. Jamahl Mosley — "I still need to discuss that with our medical staff and see where we go from here." — Mosley provides update on player status following minor injury** [02:25](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
+**7. Jamahl Mosley — "I still need to discuss that with our medical staff and see where we go from here." — Mosley provides update on player status following minor injury** [02:25](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
 
 Jamahl Mosley: "I still need to discuss that with our medical staff and see where we go from here."
 
@@ -80,7 +70,7 @@ From: [Jamahl Mosley \| Pelicans vs. Thunder Postgame Interview 11/20/26](https:
 
 <small>[Clip it](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5) · [Send to Slack](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5&slack=1)</small>
 
-**9. James Harden — "The contract extension took a little longer than expected, but I had no other choice but wait." — James Harden on the impact of limited pickup games during contract negotiations** [03:40](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
+**8. James Harden — "The contract extension took a little longer than expected, but I had no other choice but wait." — James Harden on the impact of limited pickup games during contract negotiations** [03:40](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
 
 James Harden: "The contract extension took a little longer than expected, but I had no other choice but to wait. That was a huge part of it, but I'm happy we got it done and then after that I started to ramp up. All in all, the first 15, 17 games we've been in, things haven't been going the best for me personally, but I think it's bigger than me and I think it's about our team and getting guys back healthy is important."
 
@@ -90,7 +80,7 @@ From: [Cavs vs Pacers \| James Harden Media Availability \| 11.20.2026](https://
 
 <small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=220&q=4) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=220&q=4&slack=1)</small>
 
-**10. Mario Hezonja — "The first one was when we were guarding him in Madison Square Garden." — Mario Hezonja on witnessing James Harden's historic performance** [10:06](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s)
+**9. Mario Hezonja — "The first one was when we were guarding him in Madison Square Garden." — Mario Hezonja on witnessing James Harden's historic performance** [10:06](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s)
 
 **Unidentified reporter:** "My second one."
 
@@ -140,7 +130,17 @@ From: [Cavs vs Pacers \| Kenny Atkinson Post Game \| 11.20.2026](https://www.you
 
 <small>[Clip it](presserclips://clip?v=TZ_eWKfKntA&t=6&q=1) · [Send to Slack](presserclips://clip?v=TZ_eWKfKntA&t=6&q=1&slack=1)</small>
 
-**14. Shai Gilgeous-Alexander — "He's a really good basketball player. You don't have the journey he's had unless you know how" — Shai Gilgeous-Alexander on Cason Wallace's development and aggressive play** [00:40](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
+**14. Trae Young — "He's been doing that for years and it's something that a lot of people have seen." — Trae Young on Anthony Davis's performance in his hometown** [04:30](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=270s)
+
+Trae Young: "I mean that's nothing new. He's been doing that for years and it's something that a lot of people have seen from a distance and for us Wizards fans and teammates, we get to see it up close. It's very special and to be a part of it, he makes our lives easier and for me as a point guard trying to get him the ball as much as possible, especially when he has it going like that."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=270s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=270s)
+
+From: [Media Availability: Head Coach Brian Keefe and Trae Young \| 11.20.26](https://www.youtube.com/watch?v=bOwD4jXEoEY) · *Washington Wizards*
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=270&q=9) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=270&q=9&slack=1)</small>
+
+**15. Shai Gilgeous-Alexander — "He's a really good basketball player. You don't have the journey he's had unless you know how" — Shai Gilgeous-Alexander on Cason Wallace's development and aggressive play** [00:40](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
 
 Shai Gilgeous-Alexander: "Cason is a really good basketball player. You don't have the journey he's had unless you know how to play basketball at a high level. Despite the size and the athleticism and the conference and the stage he's on, he's just been able to rise because he knows how to play the game. He knows his strengths and he stays within those. I think more than anything for him it's just a learning curve. He's been on the ball a lot in his career and obviously with myself and **AJ** and the guys of the caliber on this team, he's had to find his spots off the ball. I think that's more so what it is than anything. But he's doing a really good job of just figuring out on the fly and we're a better team on both ends of the floor when he's aggressive offensively."
 
@@ -150,7 +150,7 @@ From: [SGA on Team's Performance Versus Pelicans \| Postgame Media \| November 2
 
 <small>[Clip it](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1) · [Send to Slack](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1&slack=1)</small>
 
-**15. Franz Wagner — "it was very weird seeing him over there" — Franz Wagner on the experience of playing against his brother** [04:03](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
+**16. Franz Wagner — "it was very weird seeing him over there" — Franz Wagner on the experience of playing against his brother** [04:03](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
 
 Franz Wagner: "It was both. It was very weird seeing him over there. Playing five years together, you get super used to that. It kind of set in, kind of realized today that he's on a different team. It was weird but it was also fun. I think he's in a good spot. I think he really likes it here, so happy for him."
 
@@ -160,7 +160,7 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ 
 
 <small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=243&q=6) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=243&q=6&slack=1)</small>
 
-**16. Josh Okogie — "Miles been a dog. He been great ever since we got him." — Josh Okogie on Miles Bridges' impact on the team** [00:40](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s)
+**17. Josh Okogie — "Miles been a dog. He been great ever since we got him." — Josh Okogie on Miles Bridges' impact on the team** [00:40](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s)
 
 **Unidentified reporter:** "Goody, what'd you think of his performance tonight?"
 
@@ -171,6 +171,16 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ 
 From: [Miles Bridges Postgame On-Court Interview after Suns win against Utah Jazz \| 11-20-26](https://www.youtube.com/watch?v=9lzGHyc7ZaA) · *Phoenix Suns*
 
 <small>[Clip it](presserclips://clip?v=9lzGHyc7ZaA&t=40&q=3) · [Send to Slack](presserclips://clip?v=9lzGHyc7ZaA&t=40&q=3&slack=1)</small>
+
+**18. Dyson Daniels — "everyone just stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace." — Dyson Daniels on team adjustments without Trae Young and Dejounte Murray** [00:09](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s)
+
+Dyson Daniels: "Everyone stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace. Everyone is getting touches. We have guys that can play with the ball, guys that can play off the ball, so I think everyone just filled those voids. **Rayjon Tucker** has been really good coming in as well, playing some good minutes for us. **Kobe Bufkin** is coming in as well, playing some really good minutes. Everyone has stepped up, it's been good."
+
+[https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s)
+
+From: [Hawks vs. Hornets Postgame Press Conference: Dyson Daniels](https://www.youtube.com/watch?v=DS4hICFyTQ8) · *Atlanta Hawks*
+
+<small>[Clip it](presserclips://clip?v=DS4hICFyTQ8&t=9&q=1) · [Send to Slack](presserclips://clip?v=DS4hICFyTQ8&t=9&q=1&slack=1)</small>
 
 ---
 
@@ -1202,6 +1212,96 @@ Rick Carlisle: "He's got a hamstring issue on the other hamstring. We don't know
 
 ---
 
+## Media Availability: Head Coach Brian Keefe and Trae Young | 11.20.26 — *Washington Wizards*
+
+Source: [https://www.youtube.com/watch?v=bOwD4jXEoEY](https://www.youtube.com/watch?v=bOwD4jXEoEY)
+
+_Speakers identified: Brian Keefe, Trae Young_
+
+**1. Brian Keefe — "These cup games are important for us. Playing these type of games to grow in these games." — Brian Keefe on the importance of cup games for team development** [00:00](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=0s)
+
+Brian Keefe: "This year was for this. These cup games are important for us. Playing these type of games to grow in these games, to the level of intensity and the adjustments that are needed to sometimes winning games like this, this is a great learning experience for us."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=0s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=0s)
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=0&q=1) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=0&q=1&slack=1)</small>
+
+**2. Brian Keefe — "The biggest difference obviously was what we did in the second half defensively." — Brian Keefe credits defensive adjustments for second-half success** [00:17](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=17s)
+
+Brian Keefe: "The biggest difference obviously was what we did in the second half defensively. They had nine points in the third quarter, I think 34 for the whole half. Our guys really ratcheted it up, focused on the things that we talked about at halftime, and they were able to accomplish that."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=17s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=17s)
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=17&q=2) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=17&q=2&slack=1)</small>
+
+**3. Brian Keefe — "The guys knew that we were up to our standard and they wanted to make a difference." — Brian Keefe on team response to defensive standards** [00:43](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=43s)
+
+Brian Keefe: "The guys knew that we were up to our standard and they wanted to make a difference, and they made a difference pretty quickly. They had four transition points. We won that game 24 to 4. We can get our defense set, we can get back, we should be hard to score on, and I thought our guys made a great mindset shift at the half."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=43s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=43s)
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=43&q=3) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=43&q=3&slack=1)</small>
+
+**4. Brian Keefe — "This is what we're seeing, the evolutionary growth that we already knew that we had." — Brian Keefe praises Trae Young's all-around impact** [01:16](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=76s)
+
+Brian Keefe: "This is what we're seeing, the evolutionary growth that we already knew that we had is this guy's an impact player all over the court. Two ends, guarding their best players, finishing possessions, rebounding, I think he had a couple steals. You saw the assists tonight, his ability to get into the paint and make plays for himself and others, and this is just the start."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=76s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=76s)
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=76&q=4) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=76&q=4&slack=1)</small>
+
+**5. Brian Keefe — "I thought he impacted the game with his defense, specifically in the second half." — Brian Keefe on Trae Young's ability to impact games despite shooting** [01:49](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=109s)
+
+**Unidentified reporter:** "You're going to have nights and that's what we talked about, you can control things. You're not always going to shoot well, but how can you impact the game?"
+
+**Brian Keefe:** "I thought he impacted the game with his defense, specifically in the second half. He got a turnover right away, forced a jump ball. His playmaking, he's going to draw people, he's going to draw crowds, but his overall presence in the court just helps us."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=109s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=109s)
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=109&q=5) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=109&q=5&slack=1)</small>
+
+**6. Brian Keefe — "He's just our anchor on both ends, but he really steadied us when we needed him on offense." — Brian Keefe on Trae Young's role as an offensive anchor** [02:26](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=146s)
+
+Brian Keefe: "He can steady us. We can get him baskets around the rim, but he played with great force tonight. He was finishing things around the paint, he obviously offensive rebounds. He's just our anchor on both ends, but he really steadied us when we needed him on offense."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=146s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=146s)
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=146&q=6) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=146&q=6&slack=1)</small>
+
+**7. Trae Young — "Playing in big state games is important for this team." — Trae Young on the importance of big state games** [03:14](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=194s)
+
+Trae Young: "I mean, I think playing in big state games is important for this team and getting us in playing in those type of games is important for us. So us winning today was important for us and coming into the game, we had the right mindset and I just found a way to get a win."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=194s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=194s)
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=194&q=7) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=194&q=7&slack=1)</small>
+
+**8. Trae Young — "It's very important that he leads his mark. I just wanted to give him as much confidence." — Trae Young on AJ Dybantsa's development and confidence** [04:05](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=245s)
+
+Trae Young: "It's very important that he leads his mark. I mean as a rookie and for me as one of his vets, I just wanted to give him as much confidence and give him as much freedom out there with the ball and just find him in transition and let him bring it up sometimes and play with it. So he's been doing great for us and he's going to continue to get better and put on a show for everybody."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=245s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=245s)
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=245&q=8) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=245&q=8&slack=1)</small>
+
+**9. Trae Young — "He's been doing that for years and it's something that a lot of people have seen." — Trae Young on Anthony Davis's performance in his hometown** [04:30](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=270s)
+
+Trae Young: "I mean that's nothing new. He's been doing that for years and it's something that a lot of people have seen from a distance and for us Wizards fans and teammates, we get to see it up close. It's very special and to be a part of it, he makes our lives easier and for me as a point guard trying to get him the ball as much as possible, especially when he has it going like that."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=270s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=270s)
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=270&q=9) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=270&q=9&slack=1)</small>
+
+**10. Trae Young — "Just not being satisfied with what we've done in these last two games." — Trae Young on building momentum after back-to-back wins** [04:54](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=294s)
+
+Trae Young: "Just not being satisfied with what we've done in these last two games. Obviously, getting two wins is not easy in this league, especially back-to-back, but we have a good enough team to do that and also build off that. For me, that's all that matters is getting these wins and now we get to go back home and we need to do a better job of protecting home court."
+
+[https://www.youtube.com/watch?v=bOwD4jXEoEY&t=294s](https://www.youtube.com/watch?v=bOwD4jXEoEY&t=294s)
+
+<small>[Clip it](presserclips://clip?v=bOwD4jXEoEY&t=294&q=10) · [Send to Slack](presserclips://clip?v=bOwD4jXEoEY&t=294&q=10&slack=1)</small>
+
+---
+
 ## 🏆Lakers vs Kings | Postgame Interviews x Highlights: November 20, 2026 — *Los Angeles Lakers*
 
 Source: [https://www.youtube.com/watch?v=cfFfqOgA6Fo](https://www.youtube.com/watch?v=cfFfqOgA6Fo)
@@ -1351,6 +1451,76 @@ Danny Wolf: "Coach came to me before shootaround today and told me that I was go
 Danny Wolf: "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately their coaching staff looked at me and told everyone to go at me. I don't want to use the terms they were using, but I remember it vividly and guys looked at me and saw a big white guy and thought that they were going to go at me and I think I used that as a chip on my shoulder to prove that I can guard and if I'm guarding a one, if I'm guarding a five and obviously a lot of body, a lot of work on my body and credit to the strength staff and just staying on top of that, but again a work in progress and that's something that I kind of want to not just be okay and I want to continue to become a elite defender and continue to get the tools to do so."
 
 [https://www.youtube.com/watch?v=jTwBAC2Kk5E&t=763s](https://www.youtube.com/watch?v=jTwBAC2Kk5E&t=763s)
+
+---
+
+## Kyle Shanahan outlines game plan vs. Vikings’ aggressive defense | NBC Sports Bay Area — *Sacramento Kings*
+
+Source: [https://www.youtube.com/watch?v=lKjcoermHQA](https://www.youtube.com/watch?v=lKjcoermHQA)
+
+_Speakers identified: Matt Maiocco, Kyle Shanahan_
+
+**1. Kyle Shanahan — "our support staff is unbelievable. From the video guys to the cooks to the equipment managers" — 49ers support staff ensures consistent preparation despite travel** [01:11](https://www.youtube.com/watch?v=lKjcoermHQA&t=71s)
+
+Kyle Shanahan: "It is actually really easy for us. If I said it was for everybody, I would probably offend 80 percent of our building because our support staff is unbelievable. From the video guys to the cooks to the equipment managers to all our rehab people and the guys in charge of all the equipment and everything, I think they have a ton to do. When we land on Sunday night, we go to our meeting rooms, see it all, go to bed, get up in the morning really early and start our Monday, and everything is exactly the same. The fact how we bring our computers, we got all of our cutups, anything that we have in the office, they set up our desks the exact same way. Our offices are set up in San Francisco. It is kind of creepy, but it shows just all the work those guys do, so there is really no difference for us."
+
+[https://www.youtube.com/watch?v=lKjcoermHQA&t=71s](https://www.youtube.com/watch?v=lKjcoermHQA&t=71s)
+
+**2. Kyle Shanahan — "I always start with game film. I just try to soak in the coverages, the fronts" — Shanahan's film study process for identifying defensive threats** [03:24](https://www.youtube.com/watch?v=lKjcoermHQA&t=204s)
+
+Kyle Shanahan: "I always start with game film. I just try to soak in the coverages, the fronts, the flow of the game. You see how they are in and out of personnels. You get an idea just watching about three games, kind of who they are. As you do that, certain players will jump out and stick out. Sometimes if there is not a dynamic difference maker, the guys that do jump out, you are like, 'Man, this guy will wreck the game.' So you start watching everything else, but you keep seeing a guy that you might have to change a game plan for."
+
+[https://www.youtube.com/watch?v=lKjcoermHQA&t=204s](https://www.youtube.com/watch?v=lKjcoermHQA&t=204s)
+
+**3. Kyle Shanahan — "I think it is a full commitment to it. People who dabble in it, it is feast or famine" — Vikings' aggressive blitzing requires full offensive commitment** [04:39](https://www.youtube.com/watch?v=lKjcoermHQA&t=279s)
+
+Kyle Shanahan: "I think it is a full commitment to it. People who dabble in it, which is most people, it is feast or famine. You are going to get one team or the other. That is how it is with them too, but they have been doing it for so long and they know how people are going to attack them. When you run all these blitzes and stuff, there is things that offenses have to do. You start sending these blitzes, you have to keep people into protect or you have to get rid of it because they are unblocked. When you see that down and down out, you know if they keep everyone in a block, you are going to always have enough guys to cover people. If they have to get rid of it and not do that, your guys are ready to attack it."
+
+[https://www.youtube.com/watch?v=lKjcoermHQA&t=279s](https://www.youtube.com/watch?v=lKjcoermHQA&t=279s)
+
+**4. Kyle Shanahan — "it is having those two guys on the same page. They can have all big guys" — Quarterback and center must coordinate protection against complex blitzes** [06:29](https://www.youtube.com/watch?v=lKjcoermHQA&t=389s)
+
+Kyle Shanahan: "It is having those two guys on the same page. They can have all big guys that you cannot block with backs and they might all drop into coverage and they might bring little guys. So you cannot always assign men for men, but you have to have a plan to tie your guys together. And the plan is between the quarterback and the center. We work on those rules and we try to come up with those rules on Monday and Tuesday, and they work on it based off of fronts, based off of where we are pointing and things like that."
+
+[https://www.youtube.com/watch?v=lKjcoermHQA&t=389s](https://www.youtube.com/watch?v=lKjcoermHQA&t=389s)
+
+**5. Kyle Shanahan — "just throw them out there. You get a practice Wednesday, Thursday, Friday. You throw them out there" — Integrating new players like Keelan Cole into the offense** [08:02](https://www.youtube.com/watch?v=lKjcoermHQA&t=482s)
+
+Kyle Shanahan: "Just throw them out there. You get a practice Wednesday, Thursday, Friday. You throw them out there and you see what sticks. You know he is going to be overwhelmed the first day, and you just try to not make any assumptions based off of one day. I try to stay calm. We know the type of player he is. We know he is smart. I have talked to too many people that have. So you know it is a matter of time, but if he is going to mess up and he is going to be overwhelmed on Sunday, you cannot judge him for that, that is on us. Him and **Hank** just worked all week to get it right."
+
+[https://www.youtube.com/watch?v=lKjcoermHQA&t=482s](https://www.youtube.com/watch?v=lKjcoermHQA&t=482s)
+
+**6. Kyle Shanahan — "there is nothing more miserable to run the ball against than when there is six people" — Running against aggressive blitzing defenses is difficult** [10:03](https://www.youtube.com/watch?v=lKjcoermHQA&t=603s)
+
+Kyle Shanahan: "There is nothing more miserable to run the ball against than when there is six people or eight people on the line. Most people in this league put six people on the line, so you have to throw it, so you do not run it. Because it is just hard to run in all those guys. Well, that is what they are doing every play, so each play is equally hard. Now, if you just sit there and pass all the time, you are going to eventually have too many sacks and too many turnovers, where a run play, there is not, it is hard to get through there, but at least it is not going to be a turnover."
+
+[https://www.youtube.com/watch?v=lKjcoermHQA&t=603s](https://www.youtube.com/watch?v=lKjcoermHQA&t=603s)
+
+**7. Kyle Shanahan — "getting pressure on him. Kirk is good at getting rid of the ball and not taking that sack" — Disrupting Kirk Cousins' rhythm requires consistent pressure** [12:46](https://www.youtube.com/watch?v=lKjcoermHQA&t=766s)
+
+Kyle Shanahan: "Getting pressure on him. Kirk is good at getting rid of the ball and not taking that sack, but that also can get him in trouble too. I always challenge the quarterback, don't just sit there and take a sack, get rid of it. But sometimes they take that challenge too seriously and they get rid of it and no one is there, or it is before they are ready, now you throw a pick. So they go hand in hand. I think that is one of the reasons we got the turnovers versus Kirk when we played the Raiders."
+
+[https://www.youtube.com/watch?v=lKjcoermHQA&t=766s](https://www.youtube.com/watch?v=lKjcoermHQA&t=766s)
+
+**8. Kyle Shanahan — "He just needs to keep stacking up some weeks, stacking up practices, and he will be Nick Bosa." — Nick Bosa's recovery process and return to form** [14:10](https://www.youtube.com/watch?v=lKjcoermHQA&t=850s)
+
+**Unidentified reporter:** "Nick is too talented, Nick is too good, Nick works too hard."
+
+**Kyle Shanahan:** "He just needs to keep stacking up some weeks, stacking up practices, and he will be **Nick Bosa**. I know he wants those stats, but you actually still look good on tape. Not the best you have ever looked, but you still look like a really good player. Do you expect to look the best you have ever looked? You haven't played in a year. Your first time practicing was at Australia in over a year. You got one and a half full speed practices in, and then you played like two weeks and then got hurt again, and then you missed five weeks."
+
+[https://www.youtube.com/watch?v=lKjcoermHQA&t=850s](https://www.youtube.com/watch?v=lKjcoermHQA&t=850s)
+
+**9. Kyle Shanahan — "they just got to take the space away. When you go against a good receiver like Justin" — Defensive backs must close space against elite receivers** [15:32](https://www.youtube.com/watch?v=lKjcoermHQA&t=932s)
+
+Kyle Shanahan: "They just got to take the space away. When you go against a good receiver like Justin, I don't care how good you are at covering, if he can get up and do all their freaky things with their freaky movement, very similar to **George Pickens**, good luck defending every angle of the cut. Those guys are too good to separate, and so we got to close that space, get on those guys fast, not giving them as much room."
+
+[https://www.youtube.com/watch?v=lKjcoermHQA&t=932s](https://www.youtube.com/watch?v=lKjcoermHQA&t=932s)
+
+**10. Kyle Shanahan — "players rarely know the whole thing. There is 11 guys out there, there is stuff going on" — Managing player emotions after a win with a poor performance** [17:00](https://www.youtube.com/watch?v=lKjcoermHQA&t=1020s)
+
+Kyle Shanahan: "Players rarely know the whole thing. There is 11 guys out there, there is stuff going on, and they know what they did, they know the score, they know the yards when people are moving the ball. So lots of guys have feelings after games, and statistically when it is like that, you are going to be upset. You are not going to know exactly why, but you are going to be upset. That is not much different than what happened on offense. Statistically when it is like that, you are going to be feeling pretty good because you know what the narrative will be in things like that."
+
+[https://www.youtube.com/watch?v=lKjcoermHQA&t=1020s](https://www.youtube.com/watch?v=lKjcoermHQA&t=1020s)
 
 ---
 

@@ -1,0 +1,352 @@
+{
+  "video_title": "Kyle Shanahan outlines game plan vs. Vikings’ aggressive defense | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Matt Maiocco",
+    "Kyle Shanahan"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kyle Shanahan",
+      "timestamp": "01:11",
+      "summary_phrase": "49ers support staff ensures consistent preparation despite travel",
+      "names_mentioned": [
+        "Troy Calhoun"
+      ],
+      "excerpt": "our support staff is unbelievable. From the video guys to the cooks to the equipment managers",
+      "quote": "It is actually really easy for us. If I said it was for everybody, I would probably offend 80 percent of our building because our support staff is unbelievable. From the video guys to the cooks to the equipment managers to all our rehab people and the guys in charge of all the equipment and everything, I think they have a ton to do. When we land on Sunday night, we go to our meeting rooms, see it all, go to bed, get up in the morning really early and start our Monday, and everything is exactly the same. The fact how we bring our computers, we got all of our cutups, anything that we have in the office, they set up our desks the exact same way. Our offices are set up in San Francisco. It is kind of creepy, but it shows just all the work those guys do, so there is really no difference for us.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Kyle Shanahan credits the 49ers support staff for the seamless transition during road trips saying it is kind of creepy how they set up the desks exactly the same as they are in San Francisco",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SF"
+        ],
+        "topics": [],
+        "context": "Kyle Shanahan explains how the 49ers support staff maintains consistent preparation for the team while traveling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kyle Shanahan",
+      "timestamp": "03:24",
+      "summary_phrase": "Shanahan's film study process for identifying defensive threats",
+      "names_mentioned": [],
+      "excerpt": "I always start with game film. I just try to soak in the coverages, the fronts",
+      "quote": "I always start with game film. I just try to soak in the coverages, the fronts, the flow of the game. You see how they are in and out of personnels. You get an idea just watching about three games, kind of who they are. As you do that, certain players will jump out and stick out. Sometimes if there is not a dynamic difference maker, the guys that do jump out, you are like, 'Man, this guy will wreck the game.' So you start watching everything else, but you keep seeing a guy that you might have to change a game plan for.",
+      "text_blocks": [],
+      "start_seconds": 204,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kyle Shanahan breaks down his film study process noting that he looks for dynamic difference makers who might force him to change a game plan",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SF",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Kyle Shanahan describes his process of studying game film to identify defensive threats and potential game plan adjustments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kyle Shanahan",
+      "timestamp": "04:39",
+      "summary_phrase": "Vikings' aggressive blitzing requires full offensive commitment",
+      "names_mentioned": [
+        "Brian Flores"
+      ],
+      "excerpt": "I think it is a full commitment to it. People who dabble in it, it is feast or famine",
+      "quote": "I think it is a full commitment to it. People who dabble in it, which is most people, it is feast or famine. You are going to get one team or the other. That is how it is with them too, but they have been doing it for so long and they know how people are going to attack them. When you run all these blitzes and stuff, there is things that offenses have to do. You start sending these blitzes, you have to keep people into protect or you have to get rid of it because they are unblocked. When you see that down and down out, you know if they keep everyone in a block, you are going to always have enough guys to cover people. If they have to get rid of it and not do that, your guys are ready to attack it.",
+      "text_blocks": [],
+      "start_seconds": 279,
+      "end_seconds": 336,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kyle Shanahan on facing aggressive blitzing defenses like the Vikings saying it is a full commitment and you have to be ready to protect or get the ball out quickly",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SF",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Kyle Shanahan discusses the offensive commitment required to handle the aggressive blitzing strategy used by the Vikings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kyle Shanahan",
+      "timestamp": "06:29",
+      "summary_phrase": "Quarterback and center must coordinate protection against complex blitzes",
+      "names_mentioned": [
+        "Brock Purdy",
+        "Jake Brendel"
+      ],
+      "excerpt": "it is having those two guys on the same page. They can have all big guys",
+      "quote": "It is having those two guys on the same page. They can have all big guys that you cannot block with backs and they might all drop into coverage and they might bring little guys. So you cannot always assign men for men, but you have to have a plan to tie your guys together. And the plan is between the quarterback and the center. We work on those rules and we try to come up with those rules on Monday and Tuesday, and they work on it based off of fronts, based off of where we are pointing and things like that.",
+      "text_blocks": [],
+      "start_seconds": 389,
+      "end_seconds": 429,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Kyle Shanahan explains that the plan for handling complex blitzes relies on the quarterback and center being on the same page to set the protection rules",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SF"
+        ],
+        "topics": [],
+        "context": "Kyle Shanahan explains the importance of coordination between the quarterback and center to manage pass protection against complex blitzes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kyle Shanahan",
+      "timestamp": "08:02",
+      "summary_phrase": "Integrating new players like Keelan Cole into the offense",
+      "names_mentioned": [
+        "Keelan Cole",
+        "Hank"
+      ],
+      "excerpt": "just throw them out there. You get a practice Wednesday, Thursday, Friday. You throw them out there",
+      "quote": "Just throw them out there. You get a practice Wednesday, Thursday, Friday. You throw them out there and you see what sticks. You know he is going to be overwhelmed the first day, and you just try to not make any assumptions based off of one day. I try to stay calm. We know the type of player he is. We know he is smart. I have talked to too many people that have. So you know it is a matter of time, but if he is going to mess up and he is going to be overwhelmed on Sunday, you cannot judge him for that, that is on us. Him and Hank just worked all week to get it right.",
+      "text_blocks": [],
+      "start_seconds": 482,
+      "end_seconds": 529,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kyle Shanahan on integrating new players like Keelan Cole into the offense saying you just throw them out there and see what sticks",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keelan Cole"
+        ],
+        "teams": [
+          "SF"
+        ],
+        "topics": [],
+        "context": "Kyle Shanahan discusses the process of integrating new player Keelan Cole into the offensive system during practice week.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kyle Shanahan",
+      "timestamp": "10:03",
+      "summary_phrase": "Running against aggressive blitzing defenses is difficult",
+      "names_mentioned": [],
+      "excerpt": "there is nothing more miserable to run the ball against than when there is six people",
+      "quote": "There is nothing more miserable to run the ball against than when there is six people or eight people on the line. Most people in this league put six people on the line, so you have to throw it, so you do not run it. Because it is just hard to run in all those guys. Well, that is what they are doing every play, so each play is equally hard. Now, if you just sit there and pass all the time, you are going to eventually have too many sacks and too many turnovers, where a run play, there is not, it is hard to get through there, but at least it is not going to be a turnover.",
+      "text_blocks": [],
+      "start_seconds": 603,
+      "end_seconds": 649,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kyle Shanahan says there is nothing more miserable to run the ball against than when a defense puts six or eight people on the line of scrimmage",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SF"
+        ],
+        "topics": [],
+        "context": "Kyle Shanahan explains the difficulties of running the ball against defensive fronts that stack the line of scrimmage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kyle Shanahan",
+      "timestamp": "12:46",
+      "summary_phrase": "Disrupting Kirk Cousins' rhythm requires consistent pressure",
+      "names_mentioned": [
+        "Kirk Cousins"
+      ],
+      "excerpt": "getting pressure on him. Kirk is good at getting rid of the ball and not taking that sack",
+      "quote": "Getting pressure on him. Kirk is good at getting rid of the ball and not taking that sack, but that also can get him in trouble too. I always challenge the quarterback, don't just sit there and take a sack, get rid of it. But sometimes they take that challenge too seriously and they get rid of it and no one is there, or it is before they are ready, now you throw a pick. So they go hand in hand. I think that is one of the reasons we got the turnovers versus Kirk when we played the Raiders.",
+      "text_blocks": [],
+      "start_seconds": 766,
+      "end_seconds": 804,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kyle Shanahan on pressuring Kirk Cousins noting that sometimes quarterbacks take the challenge to avoid sacks too seriously and end up throwing interceptions",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kirk Cousins"
+        ],
+        "teams": [
+          "SF",
+          "MIN",
+          "LV"
+        ],
+        "topics": [],
+        "context": "Kyle Shanahan discusses the strategy of applying pressure to force Kirk Cousins into making mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kyle Shanahan",
+      "timestamp": "14:10",
+      "summary_phrase": "Nick Bosa's recovery process and return to form",
+      "names_mentioned": [
+        "Nick Bosa"
+      ],
+      "excerpt": "He just needs to keep stacking up some weeks, stacking up practices, and he will be Nick Bosa.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Nick is too talented, Nick is too good, Nick works too hard."
+        },
+        {
+          "speaker": "Kyle Shanahan",
+          "text": "He just needs to keep stacking up some weeks, stacking up practices, and he will be Nick Bosa. I know he wants those stats, but you actually still look good on tape. Not the best you have ever looked, but you still look like a really good player. Do you expect to look the best you have ever looked? You haven't played in a year. Your first time practicing was at Australia in over a year. You got one and a half full speed practices in, and then you played like two weeks and then got hurt again, and then you missed five weeks."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Kyle Shanahan"
+      ],
+      "reporter_split": true,
+      "start_seconds": 850,
+      "end_seconds": 895,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Kyle Shanahan says Nick Bosa just needs to keep stacking practices to get back to form reminding everyone that Bosa has barely played in a year",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nick Bosa"
+        ],
+        "teams": [
+          "SF"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kyle Shanahan discusses the recovery process and return to form for Nick Bosa after his recent injury struggles.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kyle Shanahan",
+      "timestamp": "15:32",
+      "summary_phrase": "Defensive backs must close space against elite receivers",
+      "names_mentioned": [
+        "Justin Jefferson",
+        "George Pickens"
+      ],
+      "excerpt": "they just got to take the space away. When you go against a good receiver like Justin",
+      "quote": "They just got to take the space away. When you go against a good receiver like Justin, I don't care how good you are at covering, if he can get up and do all their freaky things with their freaky movement, very similar to George Pickens, good luck defending every angle of the cut. Those guys are too good to separate, and so we got to close that space, get on those guys fast, not giving them as much room.",
+      "text_blocks": [],
+      "start_seconds": 932,
+      "end_seconds": 963,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kyle Shanahan on defending elite receivers like Justin Jefferson saying you have to close the space and get on them fast because they are too good to separate",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Justin Jefferson",
+          "George Pickens"
+        ],
+        "teams": [
+          "SF",
+          "MIN",
+          "PIT"
+        ],
+        "topics": [],
+        "context": "Kyle Shanahan explains the need for defensive backs to close space quickly when covering elite receivers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Kyle Shanahan",
+      "timestamp": "17:00",
+      "summary_phrase": "Managing player emotions after a win with a poor performance",
+      "names_mentioned": [],
+      "excerpt": "players rarely know the whole thing. There is 11 guys out there, there is stuff going on",
+      "quote": "Players rarely know the whole thing. There is 11 guys out there, there is stuff going on, and they know what they did, they know the score, they know the yards when people are moving the ball. So lots of guys have feelings after games, and statistically when it is like that, you are going to be upset. You are not going to know exactly why, but you are going to be upset. That is not much different than what happened on offense. Statistically when it is like that, you are going to be feeling pretty good because you know what the narrative will be in things like that.",
+      "text_blocks": [],
+      "start_seconds": 1020,
+      "end_seconds": 1062,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Kyle Shanahan on managing player emotions after wins with poor performances saying players know when they did not play well even if they do not know exactly why",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SF"
+        ],
+        "topics": [],
+        "context": "Kyle Shanahan discusses how players manage their emotions and perceptions following games with mixed statistical results.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "lKjcoermHQA",
+  "url": "https://www.youtube.com/watch?v=lKjcoermHQA",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-21T16:00:39Z",
+  "duration_seconds": 1167,
+  "processed_at": "2026-11-21T16:14:37Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
