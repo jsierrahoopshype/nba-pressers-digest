@@ -1,0 +1,390 @@
+{
+  "video_title": "Cavs vs Pacers | Kenny Atkinson Post Game | 11.20.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:06",
+      "summary_phrase": "Kenny Atkinson on James Harden's historic 50-point performance",
+      "names_mentioned": [
+        "James Harden",
+        "Kobe Bryant"
+      ],
+      "excerpt": "That's why we love the NBA, nights like that are so special.",
+      "quote": "That's why you're in the NBA. All of us, that's why we love the NBA, nights like that are so special. He passes Kobe Bryant for most 50-point games, third all-time most 50-point games. That's pretty special. The crowd was great, the crowd appreciated that performance. It wasn't like we needed that game, it wasn't like we were 10 games above 500 and everything's peachy. It was a clutch performance, something we needed tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 7,
+      "social_post": "Kenny Atkinson on James Harden after his 50 point night: That is why you are in the NBA. He passes Kobe Bryant for third all time in 50 point games. That is pretty special.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses James Harden's 50-point performance and his historical significance in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:53",
+      "summary_phrase": "Kenny Atkinson on James Harden's recent physical conditioning and form",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "He's just getting into form, getting into better shape. Quite honestly, he's working his ass off.",
+      "quote": "He's just getting into form, getting into better shape. Quite honestly, he's working his ass off. He's not going to like that I'm making an excuse, but he could not play this summer. The guy lives playing pickup. Because of the situation, it was what it was. He lives to play, plays all summer, and I think he was behind, quite honestly. So, starting to get his rhythm. I love the blow-bys, that's when you know he's starting to catch it again, getting into better shape.",
+      "verbatim_original_language": "",
+      "start_seconds": 53,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Kenny Atkinson says James Harden is finally getting into shape after a summer where he could not play. He is starting to get his rhythm back and I love the blow bys that is when you know he is starting to catch it again.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Kenny Atkinson explains that James Harden is improving his physical conditioning after being unable to play during the summer.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:48",
+      "summary_phrase": "Kenny Atkinson on improved perimeter defense in the second half",
+      "names_mentioned": [],
+      "excerpt": "Little better contest, I thought. Got to shooters a little better.",
+      "quote": "Little better contest, I thought. Got to shooters a little better. But a big part of it, they were so hot in the first half. But we kept our cool. Thought our contest level was better.",
+      "verbatim_original_language": "",
+      "start_seconds": 108,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson on the second half defensive adjustments: Little better contest. Got to shooters a little better. But a big part of it, they were so hot in the first half. But we kept our cool.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on the team's improved defensive effort in the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:24",
+      "summary_phrase": "Kenny Atkinson on Mario Hezonja's integration and contribution",
+      "names_mentioned": [
+        "Mario Hezonja"
+      ],
+      "excerpt": "He's 70% there in terms of knowing what we're doing, which is normal.",
+      "quote": "He's 70% there in terms of knowing what we're doing, which is normal. Completely normal with the up-and-down minutes, new guy, new role. I get a little nervous sometimes when he doesn't know something that we're doing, but then I'm like, wait a second, this guy is starting to get it all. I felt like in the last week, week and a half, he's starting to turn the corner, understanding what we want, understanding what his role is. It's only going to get better.",
+      "verbatim_original_language": "",
+      "start_seconds": 144,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on Mario Hezonja: He is 70 percent there in terms of knowing what we are doing. I felt like in the last week he is starting to turn the corner, understanding what we want, understanding what his role is.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mario Hezonja"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson discusses Mario Hezonja's progress in learning the team's system and his evolving role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:30",
+      "summary_phrase": "Kenny Atkinson on the value of James Harden's physical presence",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "He's a playoff-made basketball player to me.",
+      "quote": "This is the reason we traded for him. That team gives us trouble with their physicality, their pressure. It doesn't bother him because of his skill level and his strength. He's a playoff-made basketball player to me. Since he joined, I feel so much more comfortable against teams like that that have in the past given us a lot of trouble. We'd be turning it over, their pressures, we can't get it over half court. Poise, calm, strength, skill, again, I think that's why we traded for him.",
+      "verbatim_original_language": "",
+      "start_seconds": 270,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Kenny Atkinson on why the Cavs traded for James Harden: He is a playoff made basketball player to me. Since he joined, I feel so much more comfortable against teams that have in the past given us a lot of trouble.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Kenny Atkinson explains why the team acquired James Harden, highlighting his poise and skill against physical defensive pressure.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "05:16",
+      "summary_phrase": "Kenny Atkinson on James Harden's decision-making and ball security",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "He just controlled the game, had the ball on a string.",
+      "quote": "Especially that team, they're not passive by any means. They've always turned us over, they've always given us trouble. He just controlled the game, had the ball on a string. 40 minutes, that's probably a little, but he was rolling. I think he got a little winded there at the end, but still impressive. I love the play at the end where they double-teamed him. I think he threw a hook pass across the court to P.J. Washington, and P.J. Washington swung it to Don, and Don drove it and got the and-one. I told James, I said that was your best play of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 316,
+      "end_seconds": 357,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Kenny Atkinson on Harden's late game decision making: I told James that was your best play of the game. He controlled the game, had the ball on a string. He just made the right play.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James Harden",
+          "P.J. Washington",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenny Atkinson praises James Harden's decision-making, specifically highlighting a key play involving P.J. Washington and Donovan Mitchell.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "06:34",
+      "summary_phrase": "Kenny Atkinson on Mario Hezonja's minutes and role",
+      "names_mentioned": [
+        "Mario Hezonja"
+      ],
+      "excerpt": "He's starting to knock on the door, saying, 'Coach, I need more.'",
+      "quote": "I have no idea. It could go to 30. Again, I'm still trying to figure out where everybody sits, and he's starting to knock on the door, saying, 'Coach, I need more.' And then we got to recognize that and recognize his play, but definitely feel like there's been a shift. He's starting to really get what we need from him.",
+      "verbatim_original_language": "",
+      "start_seconds": 394,
+      "end_seconds": 417,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson on Mario Hezonja's potential minutes: I have no idea. It could go to 30. He is starting to knock on the door, saying Coach, I need more. We have to recognize that and recognize his play.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mario Hezonja"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson addresses the uncertainty regarding Mario Hezonja's future playing time and his desire for a larger role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "07:18",
+      "summary_phrase": "Kenny Atkinson on James Harden's vintage performance",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "That was vintage. Where really you can't do anything if you're the opposing coach.",
+      "quote": "That was vintage. Where really you can't do anything if you're the opposing coach. There's nothing you can do to get on, especially when he's getting by you like that, when they started taking away his step-back and he, one or two crosses and he's in a lane, then there's there's just no stopping him. I've been in that situation, there's really nothing you can do. So vintage, vintage performance, very reminiscent of his Houston days.",
+      "verbatim_original_language": "",
+      "start_seconds": 438,
+      "end_seconds": 467,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 8,
+      "social_post": "Kenny Atkinson on Harden's performance: That was vintage. When he is getting by you like that, when they started taking away his step back and he is in a lane, there is just no stopping him. Very reminiscent of his Houston days.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson describes James Harden's performance as vintage, comparing it to his time with the Houston Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "08:32",
+      "summary_phrase": "Kenny Atkinson on balancing player trust with offensive flow",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "He is extremely unselfish. I mean, really, really unselfish.",
+      "quote": "I think I say this over and over about James. He is extremely unselfish. I mean, really, really unselfish. He's a guy that, rare do I say, 'Oh man, that's a bad shot.' Donovan, sometimes I'm a little like, 'Bro, like.' James, James, you know, 99% of the time he's going to make the right play. And even tonight, I didn't feel like it was a selfish, you know, I didn't, he still was making the passes, still, you know, even that one he had to drive and he, I think he wrapped it around, was it T.B., I think, he gave it to, or maybe it was J.A., and it got blocked, but like, he wasn't, it wasn't selfish. And that's kind of who he is. So, just let him rock, let him do his thing on a night like tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 512,
+      "end_seconds": 567,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Kenny Atkinson on Harden's unselfishness: He is a guy that, rare do I say, Oh man, that is a bad shot. Donovan, sometimes I am a little like, Bro. James, 99 percent of the time he is going to make the right play.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James Harden",
+          "Donovan Mitchell",
+          "Jarrett Allen"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kenny Atkinson discusses James Harden's unselfish playstyle compared to other players like Donovan Mitchell.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "09:41",
+      "summary_phrase": "Kenny Atkinson on Peyton Watson's performance",
+      "names_mentioned": [
+        "Peyton Watson"
+      ],
+      "excerpt": "I thought he was great tonight. His ability to get those blocks at the rim.",
+      "quote": "I thought he was great tonight. His ability to get those blocks at the rim. You know, using him to handle a little more. He's another one, like I, I want to, you know, get a stretch of games here, real, where we can really use him. I think we can use him better. That's my, that's my feeling. But I, I thought he was really good tonight, but he, he's got, there's more in there, for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 581,
+      "end_seconds": 611,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson on Peyton Watson: I thought he was great tonight. His ability to get those blocks at the rim. I want to get a stretch of games here where we can really use him. I think we can use him better.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson evaluates Peyton Watson's performance and expresses a desire to increase his usage in upcoming games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "10:24",
+      "summary_phrase": "Kenny Atkinson on the legacy of coaching stars",
+      "names_mentioned": [
+        "Stephen Curry",
+        "James Harden"
+      ],
+      "excerpt": "I feel like it's never going to end. Like these guys just keep going.",
+      "quote": "I feel like it's never going to end. Like these guys just keep going. KD, all like, like it's, it's, it's surreal, how they keep going. Like Steph, you know, geez, if he was how he'd be in MVP, you know, probably the MVP of the league. Like, I, I don't, I don't, like the game has changed. These guys, these guys, you know, I don't know, in 10 years you're going to see guys playing to their 50, like it's crazy. I mean, um, I really don't have an answer. Like, you know, just, just, it's, um, it's an honor, that's the best word I can, like an honor to be, like present on a night tonight and see, see these guys have these, these incredible performances.",
+      "verbatim_original_language": "",
+      "start_seconds": 624,
+      "end_seconds": 673,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Kenny Atkinson on the longevity of NBA stars: It is surreal how they keep going. In 10 years you are going to see guys playing to their 50, like it is crazy. It is an honor to be present on a night like tonight.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Durant",
+          "Stephen Curry"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson shares his thoughts on the longevity and continued high-level performance of veteran NBA stars.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "TZ_eWKfKntA",
+  "url": "https://www.youtube.com/watch?v=TZ_eWKfKntA",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-21T03:38:52Z",
+  "duration_seconds": 685,
+  "processed_at": "2026-11-21T04:04:50Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,295 @@
+{
+  "video_title": "Jordi Fernández + Danny Wolf Postgame Press Conferences vs. Orlando",
+  "speakers_seen": [
+    "Jordi Fernández",
+    "Danny Wolf"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordi Fernández",
+      "timestamp": "00:41",
+      "summary_phrase": "Jordi Fernández on the team's defensive struggles and second-chance points",
+      "names_mentioned": [],
+      "excerpt": "allowing 22 points in the fourth and seven of those 22 were second-chance points",
+      "quote": "The problem in the fourth, it's not necessarily like we got a shot to the rim. It was the second-chance points. Obviously, we won that battle 14 to 23, but allowing 22 points in the fourth and seven of those 22 were second-chance points. Right there, those are things that you can clean up and get better.",
+      "text_blocks": [],
+      "start_seconds": 41,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez says the Nets defensive struggles in the fourth quarter against Orlando came down to second-chance points and things that can be cleaned up.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BKN",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Jordi Fernández discusses the team's defensive performance and second-chance points allowed in the fourth quarter against Orlando.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordi Fernández",
+      "timestamp": "01:49",
+      "summary_phrase": "Jordi Fernández on the team's resilience and growth despite the loss",
+      "names_mentioned": [],
+      "excerpt": "the growth that we had today and the minutes that everybody, obviously, but the young guys",
+      "quote": "I think it showed being connected at all times. They made 10 threes, 10 for 13 in the first quarter. Sometimes you don't have to get discouraged by their percentages. Best players in the world, sometimes they make crazy shots. For the rest of the game, they went 9 for 30. We stayed with it, we didn't lose our minds, and we kept playing. I think give our group credit. The growth that we had today and the minutes that everybody, obviously, but the young guys, this competitive brand of basketball is how you develop. Obviously, we're going to get what we all want, that is winning games.",
+      "text_blocks": [],
+      "start_seconds": 109,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez says he was encouraged by the Nets resilience after Orlando shot 10-of-13 from three in the first quarter, noting the team stayed connected and kept playing.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernández reflects on the team's resilience and competitive growth despite the loss to Orlando.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordi Fernández",
+      "timestamp": "03:14",
+      "summary_phrase": "Jordi Fernández explains the decision to remove Yegor from the starting lineup",
+      "names_mentioned": [
+        "Yegor",
+        "Danny Wolf",
+        "Michael"
+      ],
+      "excerpt": "we were struggling with rebounding and with our defense and I felt like Danny was playing well",
+      "quote": "We were struggling with rebounding and with our defense and I felt like Danny was playing well. Also, I wanted to see that group of Michael or that couple of Michael and Yegor play together. I thought that was great minutes right there where they can build chemistry. I think that was good to see and that was my decision.",
+      "text_blocks": [],
+      "start_seconds": 194,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez explains his decision to move Danny Wolf into the starting lineup, citing a need for better rebounding and defense while wanting to build chemistry between Michael and Yegor.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Yegor Demin",
+          "Michael"
+        ],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jordi Fernández explains his decision to change the starting lineup and move Yegor Demin to a different role.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordi Fernández",
+      "timestamp": "04:18",
+      "summary_phrase": "Jordi Fernández praises Danny Wolf's leadership and physical play",
+      "names_mentioned": [
+        "Danny Wolf"
+      ],
+      "excerpt": "the numbers don't matter what matters is your energy and how you talk to your teammates",
+      "quote": "He did a great job. He led the team in assist, six assists to three turnovers. He was aggressive, he was encouraging everybody. His leadership was great. His physicality on defense, nine rebounds, that's a great line. But it doesn't matter the numbers don't matter what matters is your energy and how you talk to your teammates and I thought today was a big step.",
+      "text_blocks": [],
+      "start_seconds": 258,
+      "end_seconds": 283,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez praises Danny Wolf for his leadership and physicality against Orlando, noting that his energy and communication were a big step forward.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Danny Wolf"
+        ],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernández praises Danny Wolf for his leadership, physicality, and overall performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Danny Wolf",
+      "timestamp": "07:20",
+      "summary_phrase": "Danny Wolf on the team's resilience after the Chicago loss",
+      "names_mentioned": [],
+      "excerpt": "I think we responded very well after that Chicago game",
+      "quote": "I think we responded very well after that Chicago game. But I think with how hard guys played, we really wanted that win and we needed that win and a lot of great came from that game and we just got to keep doing what worked and keep playing with that tenacity and that effort, but definitely a tough loss.",
+      "text_blocks": [],
+      "start_seconds": 440,
+      "end_seconds": 463,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Danny Wolf says the Nets responded well after the Chicago loss, playing with more tenacity and effort despite the tough result against Orlando.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BKN",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Danny Wolf discusses the team's effort and response following their previous loss to Chicago.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Danny Wolf",
+      "timestamp": "08:10",
+      "summary_phrase": "Danny Wolf takes responsibility for defensive rebounding lapses in the fourth quarter",
+      "names_mentioned": [],
+      "excerpt": "a lot of their points in the fourth quarter came on offensive rebounds and I'll put my hand up",
+      "quote": "22 points in the fourth quarter, 51 in the second half and a lot of their points in the fourth quarter came on offensive rebounds and I'll put my hand up. I think I could have done a better job and there was a few back-breaking possessions there, but definitely a step in the right direction, but we got to win and we really wanted that win.",
+      "text_blocks": [],
+      "start_seconds": 490,
+      "end_seconds": 516,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Danny Wolf takes accountability for the Nets defensive rebounding lapses in the fourth quarter, calling them back-breaking possessions.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Danny Wolf takes personal responsibility for the defensive rebounding lapses that occurred in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Danny Wolf",
+      "timestamp": "08:43",
+      "summary_phrase": "Danny Wolf on the team's honest post-Chicago meeting",
+      "names_mentioned": [],
+      "excerpt": "it was just flat out embarrassing and everyone knows it, we all knew it",
+      "quote": "After that Chicago game, I think you guys saw it, I think we saw it, I think everyone saw it, it was just flat out embarrassing and everyone knows it, we all knew it and we knew that change was needed and obviously in a conversation like that it's open, it's an honest conversation and everyone speaks up and speaks their voice. There was still a lot of stuff we need to work on, but I think you kind of saw a different team on the defensive end and with how hard we were playing today.",
+      "text_blocks": [],
+      "start_seconds": 523,
+      "end_seconds": 560,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Danny Wolf admits the Nets performance against Chicago was flat out embarrassing and says the team held an honest, open conversation to address the need for change.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BKN",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Danny Wolf describes the honest team meeting held after the embarrassing loss to Chicago.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Danny Wolf",
+      "timestamp": "10:17",
+      "summary_phrase": "Danny Wolf on the impact of his new starting role",
+      "names_mentioned": [],
+      "excerpt": "it speaks to the coach's trust in me and guarding a wide variety of players",
+      "quote": "Coach came to me before shootaround today and told me that I was going to be in the starting lineup and this is a lineup that we did a few games on that road trip and we had some success and it was working and I think kind of with me at a guard, sliding as a two, I think it just kind of gives us a different look and there's a lot more size out there and I think for rebounding purposes, I think again on me late in that second half and the fourth quarter, I could have done a much better job rebounding and I think it gives guys different looks and coach gave me the shot and I'm going to try to do my best with that and I want to sustain that starting role obviously, but again it's up to coach and the coaching staff.",
+      "text_blocks": [],
+      "start_seconds": 617,
+      "end_seconds": 675,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Danny Wolf discusses his new starting role, noting that sliding to the two-guard spot gives the Nets more size and different looks on the floor.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Danny Wolf discusses his reaction to being inserted into the starting lineup by the coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Danny Wolf",
+      "timestamp": "12:43",
+      "summary_phrase": "Danny Wolf on his defensive development and physical conditioning",
+      "names_mentioned": [],
+      "excerpt": "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately",
+      "quote": "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately their coaching staff looked at me and told everyone to go at me. I don't want to use the terms they were using, but I remember it vividly and guys looked at me and saw a big white guy and thought that they were going to go at me and I think I used that as a chip on my shoulder to prove that I can guard and if I'm guarding a one, if I'm guarding a five and obviously a lot of body, a lot of work on my body and credit to the strength staff and just staying on top of that, but again a work in progress and that's something that I kind of want to not just be okay and I want to continue to become a elite defender and continue to get the tools to do so.",
+      "text_blocks": [],
+      "start_seconds": 763,
+      "end_seconds": 815,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 9,
+      "social_post": "Danny Wolf recalls his first game in Milwaukee where opponents targeted him because he was a big white guy, saying he used it as a chip on his shoulder to prove he can guard anyone.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BKN",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Danny Wolf reflects on his defensive development and the motivation he gained from early career experiences against Milwaukee.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "jTwBAC2Kk5E",
+  "url": "https://www.youtube.com/watch?v=jTwBAC2Kk5E",
+  "channel_team": "Brooklyn Nets",
+  "published": "2026-11-21T03:55:58Z",
+  "duration_seconds": 815,
+  "processed_at": "2026-11-21T04:04:51Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

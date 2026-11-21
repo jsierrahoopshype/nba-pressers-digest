@@ -1,0 +1,155 @@
+{
+  "video_title": "Hawks vs. Hornets Postgame Press Conference: Dyson Daniels",
+  "speakers_seen": [
+    "Dyson Daniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dyson Daniels",
+      "timestamp": "00:09",
+      "summary_phrase": "Dyson Daniels on team adjustments without Trae Young and Dejounte Murray",
+      "names_mentioned": [
+        "Trae Young",
+        "Dejounte Murray",
+        "Rayjon Tucker",
+        "Kobe Bufkin"
+      ],
+      "excerpt": "everyone just stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace.",
+      "quote": "Everyone stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace. Everyone is getting touches. We have guys that can play with the ball, guys that can play off the ball, so I think everyone just filled those voids. Rayjon Tucker has been really good coming in as well, playing some good minutes for us. Kobe Bufkin is coming in as well, playing some really good minutes. Everyone has stepped up, it's been good.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Dyson Daniels on the Hawks adjusting without their primary point guards: Everyone stepped up and filled the voids. We are pushing the pace and everyone is getting touches.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rayjon Tucker",
+          "Kobe Bufkin"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dyson Daniels discusses how the team adjusted their play style and rotation in the absence of Trae Young and Dejounte Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dyson Daniels",
+      "timestamp": "01:06",
+      "summary_phrase": "Dyson Daniels on Ivica Zubac's impact and recent scuffle",
+      "names_mentioned": [
+        "Ivica Zubac",
+        "Moussa Diabate"
+      ],
+      "excerpt": "Zubac coming in, not backing down. That's what we like, another big fella getting in the mix.",
+      "quote": "It was good. Zubac coming in, not backing down. That's what we like, another big fella getting in the mix. With Moussa Diabate out, that's usually Moussa doing that sort of thing, so Zubac in there, it was really cool to see. He's just come in, giving us really good minutes, giving us good energy around the floor, and he's making some big shots for us. He's really stepped up since Jock Landale has gone down, which has been good.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Dyson Daniels praises the energy and toughness of Ivica Zubac: It was really cool to see him not backing down. He has been giving us really good minutes and making some big shots.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ivica Zubac",
+          "Moussa Diabate",
+          "Jock Landale"
+        ],
+        "teams": [
+          "ATL",
+          "LAC"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Dyson Daniels praises Ivica Zubac for his energy and performance while noting the impact of Jock Landale's injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dyson Daniels",
+      "timestamp": "01:41",
+      "summary_phrase": "Dyson Daniels on team message during halftime deficit",
+      "names_mentioned": [],
+      "excerpt": "we kind of just took our foot off the gas and gave them too many good looks.",
+      "quote": "Towards the end of the first quarter and the start of the second, we kind of just took our foot off the gas and gave them too many good looks, and we didn't push the pace enough. Going into halftime, we got some momentum, and we knew we just had to stick with it. We played these guys the second game of the season and blew them out, so we knew they were going to come out hungry and ready to put their best foot forward. We just had to weather that storm, and then once we got on top, we were able to turn them over a little bit, get out and run, and get our game going. The second half was a good half for us.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dyson Daniels on the Hawks overcoming a halftime deficit against the Hornets: We knew they were going to come out hungry. We just had to weather that storm and then get out and run.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Dyson Daniels explains how the team overcame a halftime deficit against the Hornets by regaining their defensive intensity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dyson Daniels",
+      "timestamp": "02:31",
+      "summary_phrase": "Dyson Daniels on his role in shifting team momentum",
+      "names_mentioned": [],
+      "excerpt": "I kind of like to sense when the team needs a little lift or a little momentum.",
+      "quote": "I kind of like to sense when the team needs a little lift or a little momentum and try and create a play on the defensive end, whether it be a steal or get a big rebound and get out and push, get someone a good look. I kind of sensed that we were a little down after that first quarter and we needed some energy. Sometimes all it takes is one guy to pick up the team's energy and other guys follow. Being able to try and get the guys going at the start of the second was what I came out with the mindset of.",
+      "text_blocks": [],
+      "start_seconds": 151,
+      "end_seconds": 192,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Dyson Daniels on his role in shifting momentum: I like to sense when the team needs a lift and try to create a play on the defensive end. Sometimes all it takes is one guy to pick up the energy.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Dyson Daniels describes his personal approach to providing an energy boost for his teammates when the team is struggling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "DS4hICFyTQ8",
+  "url": "https://www.youtube.com/watch?v=DS4hICFyTQ8",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-21T03:16:31Z",
+  "duration_seconds": 208,
+  "processed_at": "2026-11-21T04:04:38Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

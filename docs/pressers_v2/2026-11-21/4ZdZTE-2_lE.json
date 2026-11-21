@@ -1,0 +1,290 @@
+{
+  "video_title": "Hawks vs. Hornets Postgame Press Conference: Jalen Johnson",
+  "speakers_seen": [
+    "Jalen Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Johnson",
+      "timestamp": "00:07",
+      "summary_phrase": "Jalen Johnson on defensive intensity and perimeter pressure",
+      "names_mentioned": [
+        "Dyson Daniels",
+        "Kobe Bufkin",
+        "Wiggins"
+      ],
+      "excerpt": "If we continue to up the pressure on the perimeter, I think we obviously got great perimeter defenders",
+      "quote": "I think just continue to up the pressure on the perimeter. If we continue to up the pressure on the perimeter, I think we obviously got great perimeter defenders in Dyson, Kobe, and Wiggins. So, just continue to help them, keep the ball out the paint. I think that will help with that aspect of it. Just continue to do that, continue to up the intensity.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jalen Johnson says the Hawks need to keep up the pressure on the perimeter to keep the ball out of the paint and help their defensive specialists.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dyson Daniels",
+          "Kobe Bufkin",
+          "Aaron Wiggins"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jalen Johnson discusses the team's defensive strategy and the impact of perimeter defenders.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Johnson",
+      "timestamp": "00:45",
+      "summary_phrase": "Jalen Johnson on playing off the ball and trusting the flow",
+      "names_mentioned": [],
+      "excerpt": "I'm just going to continue to trust my work, trust the flow of the game",
+      "quote": "I'm just going to continue to trust my work, trust the flow of the game, understanding when and where to pick my spots. I think it will lead to easy ones for me and help me find a better rhythm.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jalen Johnson on finding his rhythm: I am just going to continue to trust my work and trust the flow of the game.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson explains his approach to finding rhythm and playing within the flow of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Johnson",
+      "timestamp": "01:23",
+      "summary_phrase": "Jalen Johnson on shooting confidence despite early season struggles",
+      "names_mentioned": [],
+      "excerpt": "I'm not worried about a percentage or whatnot, I know my shots are going to fall",
+      "quote": "It happens. Obviously, I haven't shot the ball the way I wanted to, but I put in the work, so I'm not worried about a percentage or whatnot. I know my shots are going to fall. It was good to see a couple go in for sure, but I'm going to keep shooting the shots that I work on and just continue to let them fall.",
+      "text_blocks": [],
+      "start_seconds": 83,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jalen Johnson on his shooting struggles: I have not shot the ball the way I wanted to, but I put in the work, so I am not worried about a percentage. I know my shots are going to fall.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson addresses his recent shooting struggles and his confidence in his work ethic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Johnson",
+      "timestamp": "01:58",
+      "summary_phrase": "Jalen Johnson on defensive impact and transition scoring",
+      "names_mentioned": [],
+      "excerpt": "I was able to get out in transition from them tonight",
+      "quote": "Continue to help those our great defenders, continue to help them as much as I can. A lot of times, falling into being in the right place at the right time, falling into easy ones, and I was able to get out in transition from them tonight. So, continue to do that on that end.",
+      "text_blocks": [],
+      "start_seconds": 118,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jalen Johnson credits his transition scoring to being in the right place at the right time on the defensive end.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson reflects on his defensive positioning and how it leads to transition scoring opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jalen Johnson",
+      "timestamp": "02:30",
+      "summary_phrase": "Jalen Johnson on team identity despite injury challenges",
+      "names_mentioned": [],
+      "excerpt": "I think we've built a good identity on how we wanted to play since beginning of the season",
+      "quote": "I think we've built a good identity on how we wanted to play since beginning of the season. Obviously, having those guys out sucks right now, but we'll eventually get them back. So, I think just continue to stick to who we are, it's going to help us continue to give ourselves a good chance to win these games and continue to play the way we want to play.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 177,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jalen Johnson on the Hawks dealing with injuries: It sucks right now, but we will eventually get those guys back. We just have to stick to who we are.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jalen Johnson discusses maintaining team identity while dealing with current player absences due to injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jalen Johnson",
+      "timestamp": "03:40",
+      "summary_phrase": "Jalen Johnson on scouting and defending Naz Reid",
+      "names_mentioned": [
+        "Naz Reid"
+      ],
+      "excerpt": "He's a good iso player, so trying to deny his touches in that aspect",
+      "quote": "I think we did a good job of just in our walkthrough, just understanding the assignment, understanding what guys' tendencies are, especially with a guy like Naz. He's a good iso player, so trying to deny his touches in that aspect. I was just trying to really hone in on that.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 240,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jalen Johnson on defending Naz Reid: He is a good iso player, so we were just trying to deny his touches.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Naz Reid"
+        ],
+        "teams": [
+          "ATL",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson explains the defensive game plan used to limit Naz Reid's effectiveness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jalen Johnson",
+      "timestamp": "04:10",
+      "summary_phrase": "Jalen Johnson on the team's unselfish offensive philosophy",
+      "names_mentioned": [],
+      "excerpt": "That's what we really pride ourselves on is moving the ball, getting out, just hitting open men",
+      "quote": "I think that's the way we want to play. That's what we really pride ourselves on is moving the ball, getting out, just hitting open men. So, I think those are what those assists contribute to. I think it's just continue to play the right way, play the way we want to play, and we find good success in just moving the ball and hitting the open guys.",
+      "text_blocks": [],
+      "start_seconds": 250,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jalen Johnson says the Hawks are finding success by prioritizing ball movement and hitting the open man.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson describes the team's offensive philosophy centered on ball movement and unselfish play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jalen Johnson",
+      "timestamp": "04:54",
+      "summary_phrase": "Jalen Johnson on maintaining focus during the NBA Cup",
+      "names_mentioned": [],
+      "excerpt": "One game at a time, focus on who's in front of you",
+      "quote": "One game at a time, focus on who's in front of you. Don't look ahead, don't look backwards, but continue to learn from those previous games that you mentioned. We're not going to get too ahead of ourselves and we're not going to overreact or panic to anything. We just got to continue to focus on the task at hand.",
+      "text_blocks": [],
+      "start_seconds": 294,
+      "end_seconds": 317,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jalen Johnson on the team mindset during the NBA Cup: One game at a time. We are not going to get too ahead of ourselves and we are not going to overreact or panic.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson discusses the team's mindset regarding the NBA Cup and maintaining focus.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jalen Johnson",
+      "timestamp": "06:12",
+      "summary_phrase": "Jalen Johnson on the high stakes of the NBA Cup",
+      "names_mentioned": [],
+      "excerpt": "Obviously, we want that money, so it's as simple as that",
+      "quote": "Obviously, we want that money, so it's as simple as that. Obviously, we understand that the stakes are higher considering what's for the reward. So, I think we all are young, we all like an extra prize and money, so I think just upping our intensity, upping our focus.",
+      "text_blocks": [],
+      "start_seconds": 372,
+      "end_seconds": 391,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 9,
+      "social_post": "Jalen Johnson is keeping it real on why the Hawks are locked in for the NBA Cup: Obviously, we want that money. It is as simple as that.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jalen Johnson comments on the increased intensity and motivation surrounding the NBA Cup tournament.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "4ZdZTE-2_lE",
+  "url": "https://www.youtube.com/watch?v=4ZdZTE-2_lE",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-21T03:14:28Z",
+  "duration_seconds": 405,
+  "processed_at": "2026-11-21T04:04:52Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}
