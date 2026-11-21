@@ -50,7 +50,17 @@ From: [Rick Carlisle Postgame Media Availability \| November 20, 2026](https://w
 
 <small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5&slack=1)</small>
 
-**6. Jamahl Mosley — "I still need to discuss that with our medical staff and see where we go from here." — Mosley provides update on player status following minor injury** [02:25](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
+**6. Jordan Ott — "That right quad, just a knee to quad on that screen." — Update on player injury following the screen** [01:07](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=67s)
+
+Jordan Ott: "That right quad, just a knee to quad on that screen. Obviously didn't come back in, so that will be one of those things where we will see what it looks like tomorrow."
+
+[https://www.youtube.com/watch?v=VCyGx4xFfQU&t=67s](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=67s)
+
+From: [Head Coach Jordan Ott Postgame Media Availability  \| 11-20-26](https://www.youtube.com/watch?v=VCyGx4xFfQU) · *Phoenix Suns*
+
+<small>[Clip it](presserclips://clip?v=VCyGx4xFfQU&t=67&q=4) · [Send to Slack](presserclips://clip?v=VCyGx4xFfQU&t=67&q=4&slack=1)</small>
+
+**7. Jamahl Mosley — "I still need to discuss that with our medical staff and see where we go from here." — Mosley provides update on player status following minor injury** [02:25](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
 
 Jamahl Mosley: "I still need to discuss that with our medical staff and see where we go from here."
 
@@ -60,7 +70,7 @@ From: [Jamahl Mosley \| Pelicans vs. Thunder Postgame Interview 11/20/26](https:
 
 <small>[Clip it](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5) · [Send to Slack](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5&slack=1)</small>
 
-**7. James Harden — "The contract extension took a little longer than expected, but I had no other choice but wait." — James Harden on the impact of limited pickup games during contract negotiations** [03:40](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
+**8. James Harden — "The contract extension took a little longer than expected, but I had no other choice but wait." — James Harden on the impact of limited pickup games during contract negotiations** [03:40](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
 
 James Harden: "The contract extension took a little longer than expected, but I had no other choice but to wait. That was a huge part of it, but I'm happy we got it done and then after that I started to ramp up. All in all, the first 15, 17 games we've been in, things haven't been going the best for me personally, but I think it's bigger than me and I think it's about our team and getting guys back healthy is important."
 
@@ -70,7 +80,7 @@ From: [Cavs vs Pacers \| James Harden Media Availability \| 11.20.2026](https://
 
 <small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=220&q=4) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=220&q=4&slack=1)</small>
 
-**8. Mario Hezonja — "The first one was when we were guarding him in Madison Square Garden." — Mario Hezonja on witnessing James Harden's historic performance** [10:06](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s)
+**9. Mario Hezonja — "The first one was when we were guarding him in Madison Square Garden." — Mario Hezonja on witnessing James Harden's historic performance** [10:06](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s)
 
 **Unidentified reporter:** "My second one."
 
@@ -82,7 +92,7 @@ From: [Cavs vs Pacers \| Donovan Mitchell & Mario Hezonja Post Game \| 11.20.202
 
 <small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=606&q=10) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=606&q=10&slack=1)</small>
 
-**9. Bonta Hill — "I don't respect Luka." — Yaxel Lendeborg's frustration after Warriors' loss to Mavericks** [00:00](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=0s)
+**10. Bonta Hill — "I don't respect Luka." — Yaxel Lendeborg's frustration after Warriors' loss to Mavericks** [00:00](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=0s)
 
 Bonta Hill: "When he was talking after the first game against **Luka**, he was like, 'I don't respect **Luka**.' And I'm thinking to myself, man, they just got beat by three. Like, what? He's a fun-loving kid and I love the fact that he's authentic. But this trip was really baffling to me when it came to the rookie. And this is where I know the Warriors are like, man, we know we got to rein this guy in."
 
@@ -90,7 +100,7 @@ Bonta Hill: "When he was talking after the first game against **Luka**, he was l
 
 From: [Is Warriors rookie Yaxel Lendeborg reaching breaking point? \| NBC Sports Bay Area](https://www.youtube.com/watch?v=mQIJ-_Gjd18) · *Golden State Warriors*
 
-**10. Nikola Vucevic — "for me this is a huge adjustment" — Nikola Vucevic on adjusting to his new role** [08:53](https://www.youtube.com/watch?v=z-Su97mVflE&t=533s)
+**11. Nikola Vucevic — "for me this is a huge adjustment" — Nikola Vucevic on adjusting to his new role** [08:53](https://www.youtube.com/watch?v=z-Su97mVflE&t=533s)
 
 Nikola Vucevic: "For me this is a huge adjustment. Just a few months ago I was playing 30 minutes a game, starting, being one of the main options on a team and now coming to a very, very, very different role. So far, haven't really had established role minutes. Kind of trying to figure it all out. So it's hard sometimes to find a rhythm that way and especially for me because I'm kind of a rhythm player. I play off my feel for the game and everything and so it's a big adjustment."
 
@@ -99,16 +109,6 @@ Nikola Vucevic: "For me this is a huge adjustment. Just a few months ago I was p
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ WAGNER, & NIKOLA VUCEVIC](https://www.youtube.com/watch?v=z-Su97mVflE) · *Orlando Magic*
 
 <small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=533&q=10) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=533&q=10&slack=1)</small>
-
-**11. Kenny Atkinson — "That's why we love the NBA, nights like that are so special." — Kenny Atkinson on James Harden's historic 50-point performance** [00:06](https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s)
-
-Kenny Atkinson: "That's why you're in the NBA. All of us, that's why we love the NBA, nights like that are so special. He passes **Kobe Bryant** for most 50-point games, third all-time most 50-point games. That's pretty special. The crowd was great, the crowd appreciated that performance. It wasn't like we needed that game, it wasn't like we were 10 games above 500 and everything's peachy. It was a clutch performance, something we needed tonight."
-
-[https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s](https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s)
-
-From: [Cavs vs Pacers \| Kenny Atkinson Post Game \| 11.20.2026](https://www.youtube.com/watch?v=TZ_eWKfKntA) · *Cleveland Cavaliers*
-
-<small>[Clip it](presserclips://clip?v=TZ_eWKfKntA&t=6&q=1) · [Send to Slack](presserclips://clip?v=TZ_eWKfKntA&t=6&q=1&slack=1)</small>
 
 **12. Shai Gilgeous-Alexander — "He's a really good basketball player. You don't have the journey he's had unless you know how" — Shai Gilgeous-Alexander on Cason Wallace's development and aggressive play** [00:40](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
 
@@ -129,6 +129,68 @@ Franz Wagner: "It was both. It was very weird seeing him over there. Playing fiv
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ WAGNER, & NIKOLA VUCEVIC](https://www.youtube.com/watch?v=z-Su97mVflE) · *Orlando Magic*
 
 <small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=243&q=6) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=243&q=6&slack=1)</small>
+
+**14. Josh Okogie — "Miles been a dog. He been great ever since we got him." — Josh Okogie on Miles Bridges' impact on the team** [00:40](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s)
+
+**Unidentified reporter:** "Goody, what'd you think of his performance tonight?"
+
+**Josh Okogie:** "Miles been a dog. He been great ever since we got him. Love him on and off the court, great dude."
+
+[https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s)
+
+From: [Miles Bridges Postgame On-Court Interview after Suns win against Utah Jazz \| 11-20-26](https://www.youtube.com/watch?v=9lzGHyc7ZaA) · *Phoenix Suns*
+
+<small>[Clip it](presserclips://clip?v=9lzGHyc7ZaA&t=40&q=3) · [Send to Slack](presserclips://clip?v=9lzGHyc7ZaA&t=40&q=3&slack=1)</small>
+
+**15. Dyson Daniels — "everyone just stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace." — Dyson Daniels on team adjustments without Trae Young and Dejounte Murray** [00:09](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s)
+
+Dyson Daniels: "Everyone stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace. Everyone is getting touches. We have guys that can play with the ball, guys that can play off the ball, so I think everyone just filled those voids. **Rayjon Tucker** has been really good coming in as well, playing some good minutes for us. **Kobe Bufkin** is coming in as well, playing some really good minutes. Everyone has stepped up, it's been good."
+
+[https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s)
+
+From: [Hawks vs. Hornets Postgame Press Conference: Dyson Daniels](https://www.youtube.com/watch?v=DS4hICFyTQ8) · *Atlanta Hawks*
+
+<small>[Clip it](presserclips://clip?v=DS4hICFyTQ8&t=9&q=1) · [Send to Slack](presserclips://clip?v=DS4hICFyTQ8&t=9&q=1&slack=1)</small>
+
+---
+
+## Jaxson Hayes talks coming back from injury after game vs. Suns — *Utah Jazz*
+
+Source: [https://www.youtube.com/watch?v=1kkwXZQHg80](https://www.youtube.com/watch?v=1kkwXZQHg80)
+
+_Speakers identified: Jaxson Hayes_
+
+**1. Jaxson Hayes — "I just go to the spots where we're taught to go and the guys just got me the ball." — Jaxson Hayes on his role and aggression after injury return** [00:05](https://www.youtube.com/watch?v=1kkwXZQHg80&t=5s)
+
+Jaxson Hayes: "The guys, I just go to the spots where we're taught to go and the guys just got me the ball. So I'm just appreciative of the guys giving me the ball and just have to stay aggressive on the glass and just keep getting rebounds."
+
+[https://www.youtube.com/watch?v=1kkwXZQHg80&t=5s](https://www.youtube.com/watch?v=1kkwXZQHg80&t=5s)
+
+<small>[Clip it](presserclips://clip?v=1kkwXZQHg80&t=5&q=1) · [Send to Slack](presserclips://clip?v=1kkwXZQHg80&t=5&q=1&slack=1)</small>
+
+**2. Jaxson Hayes — "I just try to box out, box my man out, because normally I'm guarding somebody who's going to get a bunch of O-rebounds." — Jaxson Hayes on his defensive rebounding and boxing out** [00:27](https://www.youtube.com/watch?v=1kkwXZQHg80&t=27s)
+
+Jaxson Hayes: "I just try to box out, box my man out, because normally I'm guarding somebody who's going to get a bunch of O-rebounds a game. So just really trying to box them out and then it just happened to bounce my way tonight."
+
+[https://www.youtube.com/watch?v=1kkwXZQHg80&t=27s](https://www.youtube.com/watch?v=1kkwXZQHg80&t=27s)
+
+<small>[Clip it](presserclips://clip?v=1kkwXZQHg80&t=27&q=2) · [Send to Slack](presserclips://clip?v=1kkwXZQHg80&t=27&q=2&slack=1)</small>
+
+**3. Jaxson Hayes — "Making sure our first three steps back on defense is great." — Jaxson Hayes on improving team transition defense** [00:44](https://www.youtube.com/watch?v=1kkwXZQHg80&t=44s)
+
+Jaxson Hayes: "Making sure our first three steps back on defense is great and then it's just a little bit of the basketball IQ side of things. We just got to figure out where we're going."
+
+[https://www.youtube.com/watch?v=1kkwXZQHg80&t=44s](https://www.youtube.com/watch?v=1kkwXZQHg80&t=44s)
+
+<small>[Clip it](presserclips://clip?v=1kkwXZQHg80&t=44&q=3) · [Send to Slack](presserclips://clip?v=1kkwXZQHg80&t=44&q=3&slack=1)</small>
+
+**4. Jaxson Hayes — "He's initiating the ball, initiating the offense. He's been great to pick and roll." — Jaxson Hayes on D'Angelo Russell's aggressive playmaking** [00:58](https://www.youtube.com/watch?v=1kkwXZQHg80&t=58s)
+
+Jaxson Hayes: "He's initiating the ball, initiating the offense. He's been great to pick and roll. He's been great in the mid-game, he's been great at the rim, you know. I mean, he just stays aggressive and even if it's not falling, I mean, we need him to stay aggressive, you know. We all believe those shots are always going to fall, so as long as they're aggressive, we're good."
+
+[https://www.youtube.com/watch?v=1kkwXZQHg80&t=58s](https://www.youtube.com/watch?v=1kkwXZQHg80&t=58s)
+
+<small>[Clip it](presserclips://clip?v=1kkwXZQHg80&t=58&q=4) · [Send to Slack](presserclips://clip?v=1kkwXZQHg80&t=58&q=4&slack=1)</small>
 
 ---
 
@@ -289,6 +351,50 @@ Will Hardy: "I thought our transition defense and our rebounding is an area that
 [https://www.youtube.com/watch?v=7L-ub8JxPnY&t=108s](https://www.youtube.com/watch?v=7L-ub8JxPnY&t=108s)
 
 <small>[Clip it](presserclips://clip?v=7L-ub8JxPnY&t=108&q=4) · [Send to Slack](presserclips://clip?v=7L-ub8JxPnY&t=108&q=4&slack=1)</small>
+
+---
+
+## Miles Bridges Postgame On-Court Interview after Suns win against Utah Jazz | 11-20-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=9lzGHyc7ZaA](https://www.youtube.com/watch?v=9lzGHyc7ZaA)
+
+_Speakers identified: Miles Bridges, Unidentified speaker, Josh Okogie_
+
+**1. Miles Bridges — "I was nervous on the pass though, but I got it there." — Miles Bridges on his no-look pass to Devin Booker** [00:00](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=0s)
+
+**Unidentified speaker:** "Miles, great work tonight. You had the inbound pass, the no-look pass to **Devin Booker**. Just walk me through how that unfolded."
+
+**Miles Bridges:** "We made eye contact. He seen **Josh Green** was playing him up, so should get an easy layup right there. I was nervous on the pass though, but I got it there."
+
+[https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=0s](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=0s)
+
+<small>[Clip it](presserclips://clip?v=9lzGHyc7ZaA&t=0&q=1) · [Send to Slack](presserclips://clip?v=9lzGHyc7ZaA&t=0&q=1&slack=1)</small>
+
+**2. Miles Bridges — "We play against bigs that are strong every day, so we got to help our bigs out." — Miles Bridges on his rebounding and physicality** [00:20](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=20s)
+
+Miles Bridges: "Just boxing guys out and then going on the offensive end. Just trying to get as much as I can, you know, trying to help out. We play against bigs that are strong every day, so we got to help our bigs out, and that's what we've been doing."
+
+[https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=20s](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=20s)
+
+<small>[Clip it](presserclips://clip?v=9lzGHyc7ZaA&t=20&q=2) · [Send to Slack](presserclips://clip?v=9lzGHyc7ZaA&t=20&q=2&slack=1)</small>
+
+**3. Josh Okogie — "Miles been a dog. He been great ever since we got him." — Josh Okogie on Miles Bridges' impact on the team** [00:40](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s)
+
+**Unidentified reporter:** "Goody, what'd you think of his performance tonight?"
+
+**Josh Okogie:** "Miles been a dog. He been great ever since we got him. Love him on and off the court, great dude."
+
+[https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s)
+
+<small>[Clip it](presserclips://clip?v=9lzGHyc7ZaA&t=40&q=3) · [Send to Slack](presserclips://clip?v=9lzGHyc7ZaA&t=40&q=3&slack=1)</small>
+
+**4. Miles Bridges — "When we play like a defensive team, our offense is going to come." — Miles Bridges on maintaining the Suns' winning momentum** [00:49](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=49s)
+
+Miles Bridges: "Keep the vibes high. Keep the streak going and put defense first. When we play like a defensive team, our offense is going to come, so we just got to keep the vibes high."
+
+[https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=49s](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=49s)
+
+<small>[Clip it](presserclips://clip?v=9lzGHyc7ZaA&t=49&q=4) · [Send to Slack](presserclips://clip?v=9lzGHyc7ZaA&t=49&q=4&slack=1)</small>
 
 ---
 
@@ -788,6 +894,70 @@ Mark Daigneault: "I think some of it to be honest with you is structural when we
 
 ---
 
+## Head Coach Jordan Ott Postgame Media Availability  | 11-20-26 — *Phoenix Suns*
+
+Source: [https://www.youtube.com/watch?v=VCyGx4xFfQU](https://www.youtube.com/watch?v=VCyGx4xFfQU)
+
+_Speakers identified: Jordan Ott_
+
+**1. Jordan Ott — "I thought our defense was high-level all night." — Jordan Ott praises team's high-level defensive performance** [00:11](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=11s)
+
+Jordan Ott: "I thought our defense was high-level all night. They have been playing some really good basketball. They are really tough to cover and the way they can drive the basketball, there was so much shooting around, we had to be great on the basketball. Overall we were there for 48 minutes."
+
+[https://www.youtube.com/watch?v=VCyGx4xFfQU&t=11s](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=11s)
+
+<small>[Clip it](presserclips://clip?v=VCyGx4xFfQU&t=11&q=1) · [Send to Slack](presserclips://clip?v=VCyGx4xFfQU&t=11&q=1&slack=1)</small>
+
+**2. Jordan Ott — "DB on George, Goodie on George, like to slow him down is not an easy task." — Defensive strategy against George and Goodie** [00:28](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=28s)
+
+Jordan Ott: "DB on **George**, **Goodie** on **George**, like to slow him down is not an easy task and I thought overall our defense was high-level."
+
+[https://www.youtube.com/watch?v=VCyGx4xFfQU&t=28s](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=28s)
+
+<small>[Clip it](presserclips://clip?v=VCyGx4xFfQU&t=28&q=2) · [Send to Slack](presserclips://clip?v=VCyGx4xFfQU&t=28&q=2&slack=1)</small>
+
+**3. Jordan Ott — "We ended up making the right plays at the right time." — Execution during the final stretch of the game** [00:40](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=40s)
+
+Jordan Ott: "Down the stretch, we were trying to search for some stuff there. At the end of the day, we ended up making the right plays at the right time. We even had a couple shots to really get it a little earlier, but credit to them. We knew they play for 48, they play hard and we had to answer and keep answering."
+
+[https://www.youtube.com/watch?v=VCyGx4xFfQU&t=40s](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=40s)
+
+<small>[Clip it](presserclips://clip?v=VCyGx4xFfQU&t=40&q=3) · [Send to Slack](presserclips://clip?v=VCyGx4xFfQU&t=40&q=3&slack=1)</small>
+
+**4. Jordan Ott — "That right quad, just a knee to quad on that screen." — Update on player injury following the screen** [01:07](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=67s)
+
+Jordan Ott: "That right quad, just a knee to quad on that screen. Obviously didn't come back in, so that will be one of those things where we will see what it looks like tomorrow."
+
+[https://www.youtube.com/watch?v=VCyGx4xFfQU&t=67s](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=67s)
+
+<small>[Clip it](presserclips://clip?v=VCyGx4xFfQU&t=67&q=4) · [Send to Slack](presserclips://clip?v=VCyGx4xFfQU&t=67&q=4&slack=1)</small>
+
+**5. Jordan Ott — "We know margin of error and we know we lost in the first one." — Team's competitive mindset and handling the margin of error** [01:38](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=98s)
+
+Jordan Ott: "They are out there competing. Those guys were trying to coach themselves and then that last one we were just trying to hold it just to kill it. You go back and forth on those. We know margin of error and we know we lost in the first one, but if we continue to handle our business, we will be right in that thing."
+
+[https://www.youtube.com/watch?v=VCyGx4xFfQU&t=98s](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=98s)
+
+<small>[Clip it](presserclips://clip?v=VCyGx4xFfQU&t=98&q=5) · [Send to Slack](presserclips://clip?v=VCyGx4xFfQU&t=98&q=5&slack=1)</small>
+
+**6. Jordan Ott — "Credit to them, I think Josh Green is really good on the basketball." — Josh Green's performance and handling foul trouble** [02:07](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=127s)
+
+Jordan Ott: "Credit to them, I think **Josh Green** is really good on the basketball. I thought **Book** was able to get free. We knew how much they foul coming in, so on some of those calls where they are 50-50 calls, we were trying to see if there was contact or not. I thought some of them definitely didn't go our way tonight and that changes the picture, but at the end of the day in the fourth quarter, he is going to have the ball and he had to make a shot and he did."
+
+[https://www.youtube.com/watch?v=VCyGx4xFfQU&t=127s](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=127s)
+
+<small>[Clip it](presserclips://clip?v=VCyGx4xFfQU&t=127&q=6) · [Send to Slack](presserclips://clip?v=VCyGx4xFfQU&t=127&q=6&slack=1)</small>
+
+**7. Jordan Ott — "When he is on the glass, that is really hard to keep off." — Impact of rebounding and spacing on team offense** [02:46](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=166s)
+
+Jordan Ott: "It is definitely force. I think just offensively, when he is on the glass, that is really hard to keep off. I thought overall our intent to get extra possessions tonight on that glass was helpful and **Man-Man** can do both. He can impose his will and force on both ends. With them spacing out, that makes it a little bit harder and how they are able to drive it. I thought they were really hurting us in pick-and-roll, so we ended up adjusting a little bit more to just one through five, just switching it out, but I thought his minutes overall were pretty good and we will continue to build with him."
+
+[https://www.youtube.com/watch?v=VCyGx4xFfQU&t=166s](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=166s)
+
+<small>[Clip it](presserclips://clip?v=VCyGx4xFfQU&t=166&q=7) · [Send to Slack](presserclips://clip?v=VCyGx4xFfQU&t=166&q=7&slack=1)</small>
+
+---
+
 ## SGA on Team's Performance Versus Pelicans | Postgame Media | November 20, 2026 — *Oklahoma City Thunder*
 
 Source: [https://www.youtube.com/watch?v=XZo9TXN3Y-k](https://www.youtube.com/watch?v=XZo9TXN3Y-k)
@@ -809,6 +979,38 @@ Shai Gilgeous-Alexander: "He has great spirits about him. A little bit like **Ja
 [https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=110s](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=110s)
 
 <small>[Clip it](presserclips://clip?v=XZo9TXN3Y-k&t=110&q=2) · [Send to Slack](presserclips://clip?v=XZo9TXN3Y-k&t=110&q=2&slack=1)</small>
+
+---
+
+## Doug Christie assesses final plays of Kings’ loss vs. Lakers | NBC Sports California — *Sacramento Kings*
+
+Source: [https://www.youtube.com/watch?v=_OZciKkIgvc](https://www.youtube.com/watch?v=_OZciKkIgvc)
+
+_Speakers identified: Doug Christie_
+
+**1. Doug Christie — "if you miss that one then you go home with a timeout doesn't make a lot of sense" — Doug Christie explains the decision not to call a timeout** [00:09](https://www.youtube.com/watch?v=_OZciKkIgvc&t=9s)
+
+Doug Christie: "It would be great to keep the timeout, but I felt the possession before, it was more imperative to get organized. If you miss that one then you go home with a timeout doesn't make a lot of sense. So, make sure that we were organized. Then we missed and they executed properly, fouled **Kessler**, and won him to go to the line."
+
+[https://www.youtube.com/watch?v=_OZciKkIgvc&t=9s](https://www.youtube.com/watch?v=_OZciKkIgvc&t=9s)
+
+**2. Doug Christie — "he's getting a chance to go heads up against Luka, close game right down to the wire" — Darius Garland's development through high-leverage reps against Luka Doncic** [01:08](https://www.youtube.com/watch?v=_OZciKkIgvc&t=68s)
+
+Doug Christie: "For **Darius** specifically, it feels like these are very valuable reps. He's getting a chance to go heads up against **Luka**, close game right down to the wire. That's going to pay dividends down the road."
+
+[https://www.youtube.com/watch?v=_OZciKkIgvc&t=68s](https://www.youtube.com/watch?v=_OZciKkIgvc&t=68s)
+
+**3. Doug Christie — "he's a star, the kid he can do it on so many different levels" — Praising Darius Garland's competitive spirit and versatile skill set** [01:18](https://www.youtube.com/watch?v=_OZciKkIgvc&t=78s)
+
+Doug Christie: "He's a star. The kid, he can do it on so many different levels. He knocks his free throws down, he can finish with either hand, he can make the passes, shoots the three ball, and nothing really rattles him. He's just one heck of a competitor."
+
+[https://www.youtube.com/watch?v=_OZciKkIgvc&t=78s](https://www.youtube.com/watch?v=_OZciKkIgvc&t=78s)
+
+**4. Doug Christie — "he's been aggressive finding ways to get him to basketball" — Hunter's aggressive play and defensive impact against Luka Doncic** [02:24](https://www.youtube.com/watch?v=_OZciKkIgvc&t=144s)
+
+Doug Christie: "**Hunter** has been playing really well. He's been aggressive finding ways to get him to basketball, make sure that every time that he catches I want him to look to shoot it, win his close outs, get himself to the free throw line if he can. But more than anything, just to be aggressive for us. And then on the other end of the floor, 6-8, long, rangy, does a really good job. I mean, asked a lot of him tonight. He guarded **Luka**, almost played I believe the whole first quarter."
+
+[https://www.youtube.com/watch?v=_OZciKkIgvc&t=144s](https://www.youtube.com/watch?v=_OZciKkIgvc&t=144s)
 
 ---
 

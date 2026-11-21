@@ -1,0 +1,174 @@
+{
+  "video_title": "Miles Bridges Postgame On-Court Interview after Suns win against Utah Jazz | 11-20-26",
+  "speakers_seen": [
+    "Miles Bridges",
+    "Unidentified speaker",
+    "Josh Okogie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Miles Bridges",
+      "speakers": [
+        "Unidentified speaker",
+        "Miles Bridges"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Miles Bridges on his no-look pass to Devin Booker",
+      "names_mentioned": [
+        "Josh Green",
+        "Devin Booker"
+      ],
+      "excerpt": "I was nervous on the pass though, but I got it there.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Miles, great work tonight. You had the inbound pass, the no-look pass to Devin Booker. Just walk me through how that unfolded."
+        },
+        {
+          "speaker": "Miles Bridges",
+          "text": "We made eye contact. He seen Josh Green was playing him up, so should get an easy layup right there. I was nervous on the pass though, but I got it there."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 21,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Miles Bridges on his no-look pass to Devin Booker: We made eye contact. He seen Josh Green was playing him up, so should get an easy layup right there. I was nervous on the pass though, but I got it there.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Booker",
+          "Josh Green"
+        ],
+        "teams": [
+          "PHX",
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Miles Bridges describes his no-look inbound pass to Devin Booker during an on-court postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Miles Bridges",
+      "timestamp": "00:20",
+      "summary_phrase": "Miles Bridges on his rebounding and physicality",
+      "names_mentioned": [],
+      "excerpt": "We play against bigs that are strong every day, so we got to help our bigs out.",
+      "quote": "Just boxing guys out and then going on the offensive end. Just trying to get as much as I can, you know, trying to help out. We play against bigs that are strong every day, so we got to help our bigs out, and that's what we've been doing.",
+      "verbatim_original_language": "",
+      "start_seconds": 20,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Miles Bridges on his rebounding effort: We play against bigs that are strong every day, so we got to help our bigs out, and that is what we have been doing.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges explains his approach to rebounding and helping the team's big men during a postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Josh Okogie",
+      "speakers": [
+        "Unidentified reporter",
+        "Josh Okogie"
+      ],
+      "timestamp": "00:40",
+      "summary_phrase": "Josh Okogie on Miles Bridges' impact on the team",
+      "names_mentioned": [
+        "Miles Bridges"
+      ],
+      "excerpt": "Miles been a dog. He been great ever since we got him.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Goody, what'd you think of his performance tonight?"
+        },
+        {
+          "speaker": "Josh Okogie",
+          "text": "Miles been a dog. He been great ever since we got him. Love him on and off the court, great dude."
+        }
+      ],
+      "start_seconds": 40,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Josh Okogie on Miles Bridges: Miles been a dog. He been great ever since we got him. Love him on and off the court, great dude.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Miles Bridges"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Josh Okogie praises Miles Bridges' performance and character during a postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Miles Bridges",
+      "timestamp": "00:49",
+      "summary_phrase": "Miles Bridges on maintaining the Suns' winning momentum",
+      "names_mentioned": [],
+      "excerpt": "When we play like a defensive team, our offense is going to come.",
+      "quote": "Keep the vibes high. Keep the streak going and put defense first. When we play like a defensive team, our offense is going to come, so we just got to keep the vibes high.",
+      "verbatim_original_language": "",
+      "start_seconds": 49,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Miles Bridges on the Suns winning streak: Keep the vibes high. Keep the streak going and put defense first. When we play like a defensive team, our offense is going to come.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges discusses the importance of maintaining defensive intensity to keep the team's winning streak alive.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "9lzGHyc7ZaA",
+  "url": "https://www.youtube.com/watch?v=9lzGHyc7ZaA",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-21T06:00:12Z",
+  "duration_seconds": 70,
+  "processed_at": "2026-11-21T06:38:58Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

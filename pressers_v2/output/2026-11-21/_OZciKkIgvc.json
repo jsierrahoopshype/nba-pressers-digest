@@ -1,0 +1,160 @@
+{
+  "video_title": "Doug Christie assesses final plays of Kings’ loss vs. Lakers | NBC Sports California",
+  "speakers_seen": [
+    "Doug Christie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Doug Christie",
+      "timestamp": "00:09",
+      "summary_phrase": "Doug Christie explains the decision not to call a timeout",
+      "names_mentioned": [
+        "Kessler"
+      ],
+      "excerpt": "if you miss that one then you go home with a timeout doesn't make a lot of sense",
+      "quote": "It would be great to keep the timeout, but I felt the possession before, it was more imperative to get organized. If you miss that one then you go home with a timeout doesn't make a lot of sense. So, make sure that we were organized. Then we missed and they executed properly, fouled Kessler, and won him to go to the line.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Doug Christie explains the decision not to call a timeout in the final moments of the loss to the Lakers, noting it was more important to ensure the team was organized on the floor.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC",
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Doug Christie explains why he chose not to call a timeout during the final plays of the Kings loss against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Doug Christie",
+      "timestamp": "01:08",
+      "summary_phrase": "Darius Garland's development through high-leverage reps against Luka Doncic",
+      "names_mentioned": [
+        "Darius",
+        "Luka"
+      ],
+      "excerpt": "he's getting a chance to go heads up against Luka, close game right down to the wire",
+      "quote": "For Darius specifically, it feels like these are very valuable reps. He's getting a chance to go heads up against Luka, close game right down to the wire. That's going to pay dividends down the road.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Doug Christie believes these high leverage reps against Luka Doncic are going to pay dividends for Darius Garland down the road.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAC",
+          "CLE",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Doug Christie discusses the value of Darius Garland gaining experience while playing against Luka Doncic in a close game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Doug Christie",
+      "timestamp": "01:18",
+      "summary_phrase": "Praising Darius Garland's competitive spirit and versatile skill set",
+      "names_mentioned": [
+        "Darius"
+      ],
+      "excerpt": "he's a star, the kid he can do it on so many different levels",
+      "quote": "He's a star. The kid, he can do it on so many different levels. He knocks his free throws down, he can finish with either hand, he can make the passes, shoots the three ball, and nothing really rattles him. He's just one heck of a competitor.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Doug Christie calls Darius Garland a star, praising his versatile skill set and noting that nothing really rattles him.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "SAC",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Doug Christie praises the competitive nature and versatile skill set of Darius Garland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Doug Christie",
+      "timestamp": "02:24",
+      "summary_phrase": "Hunter's aggressive play and defensive impact against Luka Doncic",
+      "names_mentioned": [
+        "Hunter",
+        "Luka"
+      ],
+      "excerpt": "he's been aggressive finding ways to get him to basketball",
+      "quote": "Hunter has been playing really well. He's been aggressive finding ways to get him to basketball, make sure that every time that he catches I want him to look to shoot it, win his close outs, get himself to the free throw line if he can. But more than anything, just to be aggressive for us. And then on the other end of the floor, 6-8, long, rangy, does a really good job. I mean, asked a lot of him tonight. He guarded Luka, almost played I believe the whole first quarter.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Doug Christie praises Hunter for his aggressive play and his defensive effort while tasked with guarding Luka Doncic for long stretches.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Hunter",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAC",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Doug Christie evaluates the aggressive offensive performance and defensive effort of Hunter while guarding Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "_OZciKkIgvc",
+  "url": "https://www.youtube.com/watch?v=_OZciKkIgvc",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-21T06:16:00Z",
+  "duration_seconds": 191,
+  "processed_at": "2026-11-21T06:38:58Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

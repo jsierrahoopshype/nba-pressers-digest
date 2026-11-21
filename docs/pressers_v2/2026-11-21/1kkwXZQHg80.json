@@ -1,0 +1,139 @@
+{
+  "video_title": "Jaxson Hayes talks coming back from injury after game vs. Suns",
+  "speakers_seen": [
+    "Jaxson Hayes"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaxson Hayes",
+      "timestamp": "00:05",
+      "summary_phrase": "Jaxson Hayes on his role and aggression after injury return",
+      "names_mentioned": [],
+      "excerpt": "I just go to the spots where we're taught to go and the guys just got me the ball.",
+      "quote": "The guys, I just go to the spots where we're taught to go and the guys just got me the ball. So I'm just appreciative of the guys giving me the ball and just have to stay aggressive on the glass and just keep getting rebounds.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaxson Hayes on his return to the court and focusing on his role: I just go to the spots where we are taught to go and the guys just got me the ball. I just have to stay aggressive on the glass.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Jaxson Hayes discusses his performance and rebounding efforts after returning from injury in a game against the Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaxson Hayes",
+      "timestamp": "00:27",
+      "summary_phrase": "Jaxson Hayes on his defensive rebounding and boxing out",
+      "names_mentioned": [],
+      "excerpt": "I just try to box out, box my man out, because normally I'm guarding somebody who's going to get a bunch of O-rebounds.",
+      "quote": "I just try to box out, box my man out, because normally I'm guarding somebody who's going to get a bunch of O-rebounds a game. So just really trying to box them out and then it just happened to bounce my way tonight.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jaxson Hayes on his rebounding approach: I just try to box out my man because normally I am guarding somebody who is going to get a bunch of offensive rebounds a game. It just happened to bounce my way tonight.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Jaxson Hayes explains his defensive rebounding strategy and boxing out technique during the post-game media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaxson Hayes",
+      "timestamp": "00:44",
+      "summary_phrase": "Jaxson Hayes on improving team transition defense",
+      "names_mentioned": [],
+      "excerpt": "Making sure our first three steps back on defense is great.",
+      "quote": "Making sure our first three steps back on defense is great and then it's just a little bit of the basketball IQ side of things. We just got to figure out where we're going.",
+      "text_blocks": [],
+      "start_seconds": 44,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Jaxson Hayes on the team defensive focus: Making sure our first three steps back on defense is great and then it is just a little bit of the basketball IQ side of things. We just have to figure out where we are going.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Jaxson Hayes identifies areas for improvement in the team's transition defense following their game against the Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaxson Hayes",
+      "timestamp": "00:58",
+      "summary_phrase": "Jaxson Hayes on D'Angelo Russell's aggressive playmaking",
+      "names_mentioned": [
+        "D'Angelo Russell"
+      ],
+      "excerpt": "He's initiating the ball, initiating the offense. He's been great to pick and roll.",
+      "quote": "He's initiating the ball, initiating the offense. He's been great to pick and roll. He's been great in the mid-game, he's been great at the rim, you know. I mean, he just stays aggressive and even if it's not falling, I mean, we need him to stay aggressive, you know. We all believe those shots are always going to fall, so as long as they're aggressive, we're good.",
+      "text_blocks": [],
+      "start_seconds": 58,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jaxson Hayes on D'Angelo Russell: He is initiating the offense and has been great in the pick and roll. We all believe those shots are always going to fall so as long as they are aggressive we are good.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "D'Angelo Russell"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaxson Hayes praises D'Angelo Russell for his aggressive playmaking and offensive contributions during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "1kkwXZQHg80",
+  "url": "https://www.youtube.com/watch?v=1kkwXZQHg80",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-21T05:53:56Z",
+  "duration_seconds": 86,
+  "processed_at": "2026-11-21T06:39:05Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

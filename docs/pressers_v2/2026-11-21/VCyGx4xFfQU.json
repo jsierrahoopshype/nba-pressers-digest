@@ -1,0 +1,238 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability  | 11-20-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:11",
+      "summary_phrase": "Jordan Ott praises team's high-level defensive performance",
+      "names_mentioned": [],
+      "excerpt": "I thought our defense was high-level all night.",
+      "quote": "I thought our defense was high-level all night. They have been playing some really good basketball. They are really tough to cover and the way they can drive the basketball, there was so much shooting around, we had to be great on the basketball. Overall we were there for 48 minutes.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jordan Ott praised the Suns defensive effort tonight saying the team was high level for all 48 minutes against a tough opponent",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the team's defensive performance following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:28",
+      "summary_phrase": "Defensive strategy against George and Goodie",
+      "names_mentioned": [
+        "George",
+        "Goodie"
+      ],
+      "excerpt": "DB on George, Goodie on George, like to slow him down is not an easy task.",
+      "quote": "DB on George, Goodie on George, like to slow him down is not an easy task and I thought overall our defense was high-level.",
+      "text_blocks": [],
+      "start_seconds": 28,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the defensive plan to slow down George and Goodie noting it is not an easy task",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "George"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott explains the defensive strategy used to guard George.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:40",
+      "summary_phrase": "Execution during the final stretch of the game",
+      "names_mentioned": [
+        "Miles"
+      ],
+      "excerpt": "We ended up making the right plays at the right time.",
+      "quote": "Down the stretch, we were trying to search for some stuff there. At the end of the day, we ended up making the right plays at the right time. We even had a couple shots to really get it a little earlier, but credit to them. We knew they play for 48, they play hard and we had to answer and keep answering.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the final stretch of the game saying the team made the right plays at the right time to secure the win",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott reflects on the team's execution during the final minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:07",
+      "summary_phrase": "Update on player injury following the screen",
+      "names_mentioned": [
+        "Ryan"
+      ],
+      "excerpt": "That right quad, just a knee to quad on that screen.",
+      "quote": "That right quad, just a knee to quad on that screen. Obviously didn't come back in, so that will be one of those things where we will see what it looks like tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Jordan Ott provides an update on the player who left the game with a right quad injury saying they will see how it looks tomorrow",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jordan Ott provides an update on a player who suffered a quad injury during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:38",
+      "summary_phrase": "Team's competitive mindset and handling the margin of error",
+      "names_mentioned": [],
+      "excerpt": "We know margin of error and we know we lost in the first one.",
+      "quote": "They are out there competing. Those guys were trying to coach themselves and then that last one we were just trying to hold it just to kill it. You go back and forth on those. We know margin of error and we know we lost in the first one, but if we continue to handle our business, we will be right in that thing.",
+      "text_blocks": [],
+      "start_seconds": 98,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the teams competitive mindset and focus on handling business to stay in the mix",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott comments on the team's competitive mindset and managing the margin of error.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:07",
+      "summary_phrase": "Josh Green's performance and handling foul trouble",
+      "names_mentioned": [
+        "Josh Green",
+        "Book"
+      ],
+      "excerpt": "Credit to them, I think Josh Green is really good on the basketball.",
+      "quote": "Credit to them, I think Josh Green is really good on the basketball. I thought Book was able to get free. We knew how much they foul coming in, so on some of those calls where they are 50-50 calls, we were trying to see if there was contact or not. I thought some of them definitely didn't go our way tonight and that changes the picture, but at the end of the day in the fourth quarter, he is going to have the ball and he had to make a shot and he did.",
+      "text_blocks": [],
+      "start_seconds": 127,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordan Ott on the officiating and Josh Green saying some calls did not go their way but they had to execute in the fourth quarter",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Josh Green",
+          "Book"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses Josh Green's defensive impact and Book's performance in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:46",
+      "summary_phrase": "Impact of rebounding and spacing on team offense",
+      "names_mentioned": [
+        "Man-Man"
+      ],
+      "excerpt": "When he is on the glass, that is really hard to keep off.",
+      "quote": "It is definitely force. I think just offensively, when he is on the glass, that is really hard to keep off. I thought overall our intent to get extra possessions tonight on that glass was helpful and Man-Man can do both. He can impose his will and force on both ends. With them spacing out, that makes it a little bit harder and how they are able to drive it. I thought they were really hurting us in pick-and-roll, so we ended up adjusting a little bit more to just one through five, just switching it out, but I thought his minutes overall were pretty good and we will continue to build with him.",
+      "text_blocks": [],
+      "start_seconds": 166,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the teams rebounding intent and the decision to switch one through five to counter the opponents pick and roll",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Man-Man"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott evaluates the impact of rebounding and defensive adjustments involving Man-Man.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "VCyGx4xFfQU",
+  "url": "https://www.youtube.com/watch?v=VCyGx4xFfQU",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-21T06:27:56Z",
+  "duration_seconds": 200,
+  "processed_at": "2026-11-21T06:39:01Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}
