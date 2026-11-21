@@ -1777,6 +1777,12 @@
    "run_id": "2026-11-14-overnight",
    "slot_date": "2026-11-14"
   },
+  "Yz2yrRGvG2s": {
+   "at": "2026-11-21T01:31:00Z",
+   "quote": "he will be available to play tonight he will be on a minutes restriction but just having him out there is going to be very good for us his ability to stretch the floor space the floor decision making ",
+   "run_id": "2026-11-21T0130Z-20utc",
+   "slot_date": "2026-11-20"
+  },
   "ZVvO2LJjVwo": {
    "at": "2026-11-15T15:42:28Z",
    "quote": "i mean both really we came out just trying to hoist up threes hoping that they would go in they were so so shots some were okay some were weren t we weren t really imposing ourselves offensively and i",
@@ -3210,22 +3216,5 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {
-  "Yz2yrRGvG2s": {
-   "channel": "New Orleans Pelicans",
-   "clip_count": 4,
-   "content_type": "presser",
-   "date": "2026-11-20",
-   "is_one_off": false,
-   "queued_at": "2026-11-21T01:31:00Z",
-   "run_id": "2026-11-21T0130Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-20",
-   "speaker": "Jamahl Mosley",
-   "title": "LIVE: Pelicans vs. Thunder Pregame w/ Jamahl Mosley 11/20/2026",
-   "top_quote": "He will be available to play tonight. He will be on a minutes restriction, but just having him out there is going to be very good for us. His ability to stretch the floor, space the floor, decision making, he creates a problem in the pick and roll where guys have to go over, and respecting what he is able to do with his shooting is also for us.",
-   "video_id": "Yz2yrRGvG2s"
-  }
- }
+ "pending": {}
 }
