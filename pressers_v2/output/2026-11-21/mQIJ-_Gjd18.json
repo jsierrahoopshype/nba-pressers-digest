@@ -1,0 +1,176 @@
+{
+  "video_title": "Is Warriors rookie Yaxel Lendeborg reaching breaking point? | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Bonta Hill",
+    "Monte Poole",
+    "Dalton Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bonta Hill",
+      "speakers": [],
+      "timestamp": "00:00",
+      "summary_phrase": "Yaxel Lendeborg's frustration after Warriors' loss to Mavericks",
+      "names_mentioned": [
+        "Yaxel Lendeborg",
+        "Luka"
+      ],
+      "excerpt": "I don't respect Luka.",
+      "quote": "When he was talking after the first game against Luka, he was like, 'I don't respect Luka.' And I'm thinking to myself, man, they just got beat by three. Like, what? He's a fun-loving kid and I love the fact that he's authentic. But this trip was really baffling to me when it came to the rookie. And this is where I know the Warriors are like, man, we know we got to rein this guy in.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 8,
+      "social_post": "Bonta Hill on Yaxel Lendeborg after the rookie said he does not respect Luka Doncic: The Warriors know they have to rein this guy in.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Yaxel Lendeborg",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "GSW",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Bonta Hill discusses Yaxel Lendeborg's recent comments about Luka Doncic and the team's need to manage the rookie's behavior.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Monte Poole",
+      "speakers": [],
+      "timestamp": "01:07",
+      "summary_phrase": "Monte Poole on Yaxel Lendeborg's need to accept failure",
+      "names_mentioned": [
+        "Yaxel Lendeborg"
+      ],
+      "excerpt": "It's okay to fail, but you have to accept that it's okay to fail.",
+      "quote": "If you take things too hard, you won't survive, you won't reach your potential because you'll consistently be telling yourself what you can and can't do. And if things go wrong, it's okay to fail, but you have to accept that it's okay to fail, rather than, 'I failed.' It's part of the game and he has to understand that, and right now it's pretty obvious he's struggling with that.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Monte Poole on Yaxel Lendeborg: If you take things too hard you will not survive. It is okay to fail but he has to understand that and right now it is pretty obvious he is struggling with that.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Yaxel Lendeborg"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Monte Poole analyzes Yaxel Lendeborg's difficulty in accepting failure during his rookie season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dalton Johnson",
+      "speakers": [],
+      "timestamp": "02:06",
+      "summary_phrase": "Everett Dayton's mentorship of Yaxel Lendeborg during tough stretch",
+      "names_mentioned": [
+        "Everett Dayton",
+        "Yaxel Lendeborg"
+      ],
+      "excerpt": "You have to understand that this is going to be good for you in the long haul.",
+      "quote": "You can hear him saying to long season, long haul, long haul, repeating long haul. And he's like, you have to understand that this is going to be good for you in the long haul. He's trying to almost put in bold words, long haul. You can't have this such a short-term memory.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 126,
+      "end_seconds": 146,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dalton Johnson on the mentorship of Yaxel Lendeborg: He is trying to almost put in bold words long haul. You cannot have this such a short term memory.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Everett Dayton",
+          "Yaxel Lendeborg"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Dalton Johnson describes Everett Dayton mentoring Yaxel Lendeborg on the importance of patience during a long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dalton Johnson",
+      "speakers": [
+        "Dalton Johnson",
+        "Bonta Hill"
+      ],
+      "timestamp": "02:57",
+      "summary_phrase": "Yaxel Lendeborg's candid admission of mental struggle",
+      "names_mentioned": [
+        "Yaxel Lendeborg",
+        "Will"
+      ],
+      "text_blocks": [
+        {
+          "speaker": "Dalton Johnson",
+          "text": "When he finishes, Will looks at him and he's just like, 'Why you got to say it like that?' And they're like really close friends and he's like, 'What did I say like? It's all true, like I am messed up and I am.' And Will's just like, 'You don't, you just don't get it right now.'"
+        },
+        {
+          "speaker": "Bonta Hill",
+          "text": "Yeah, like those are the things where it's like, we love the authenticity, but when it's starting to show mental weakness, that's where you're going, 'Yo, yo, you better be able to bend and not break.'"
+        }
+      ],
+      "start_seconds": 177,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 9,
+      "social_post": "Dalton Johnson shares a candid moment with Yaxel Lendeborg: I am messed up and I am. We love the authenticity but when it starts to show mental weakness you better be able to bend and not break.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Yaxel Lendeborg"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Dalton Johnson recounts a conversation between Yaxel Lendeborg and a teammate regarding the rookie's candid admission of mental struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "default",
+  "format": "ytq-1",
+  "video_id": "mQIJ-_Gjd18",
+  "url": "https://www.youtube.com/watch?v=mQIJ-_Gjd18",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-21T01:54:43Z",
+  "duration_seconds": 206,
+  "processed_at": "2026-11-21T02:22:19Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

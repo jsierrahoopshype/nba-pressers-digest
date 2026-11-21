@@ -1,0 +1,239 @@
+{
+  "video_title": "What Doug Christie wants Kings’ Darius Acuff Jr. to learn Friday | NBC Sports California",
+  "speakers_seen": [
+    "Doug Christie",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Doug Christie",
+      "timestamp": "00:04",
+      "summary_phrase": "Doug Christie on the importance of half-court pace",
+      "names_mentioned": [],
+      "excerpt": "Pace means how quickly you're moving in the half court. That's a huge one.",
+      "quote": "Pace doesn't necessarily mean pivot, tear. It doesn't mean that as my college coach would say. Pace means how quickly you're moving in the half court. That's a huge one. You have to make sure that you're cutting, you're moving, you're reading. If players are getting above you on splits, you're making quick cuts. That's pace also. So there's the full court pace, but then there's the half court pace, which probably is even more important because when guys are trying to grab hold and control, you got to knock their hands off and run through them.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Doug Christie explains that pace is not just about transition speed but how quickly you move in the half court. He emphasizes the importance of cutting and reading the defense to keep the offense flowing.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie explains the importance of half-court pace and movement to an unidentified reporter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "Doug Christie"
+      ],
+      "timestamp": "00:52",
+      "summary_phrase": "The league-wide increase in steals over the last three years",
+      "names_mentioned": [
+        "Matisse Thybulle"
+      ],
+      "excerpt": "The league has gotten a lot more steals over the last three years.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "I watch you play and you got a lot of steals and that was cool to see. The league has gotten a lot more steals over the last three years than most of this 21st century. So I wanted to know from your perspective what you're noticing, what you're seeing, why that might be."
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "Maybe a lot of gambling, but also maybe guys aren't as good as passing. So guys are just shooting the gaps and different things. That one is hard to say. But I also say the skill level of the player today, guys are very skillful. I look at a guy like Matisse and his reading is like a defensive back, like a safety. He is just back there because as you put a player in a position, if you study, which I think there's a lot of film and a lot of guys do, once you come off of an action, it starts to limit your choices. And not everybody can make every pass."
+        }
+      ],
+      "start_seconds": 52,
+      "end_seconds": 117,
+      "speaker_confidence": "inferred",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "A reporter asks about the league wide increase in steals. The discussion touches on how modern film study and defensive positioning are limiting passing lanes for players.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Matisse Thybulle"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "An unidentified speaker asks Doug Christie about the league-wide increase in steals and defensive reading.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Doug Christie",
+      "timestamp": "01:58",
+      "summary_phrase": "How film study limits passing choices for players",
+      "names_mentioned": [],
+      "excerpt": "Once you come off of an action, it starts to limit your choices.",
+      "quote": "If you come off a step up and all of a sudden there's someone in the corner, that's a really hard pass to make. So now I'm gambling that I'm going to cut off a different pass. And I think that guys with their video and their studying are doing a better job.",
+      "text_blocks": [],
+      "start_seconds": 118,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Doug Christie notes that increased film study is making it harder for players to make certain passes. As defenses anticipate actions, they are forcing players into more difficult decisions on the court.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie discusses how film study and defensive positioning limit passing options for offensive players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Doug Christie",
+      "timestamp": "02:50",
+      "summary_phrase": "How Walker Kessler impacts defensive schemes",
+      "names_mentioned": [
+        "Walker Kessler"
+      ],
+      "excerpt": "Now that they've added Walker Kessler, they're more in the drop.",
+      "quote": "The Lakers the last couple years were one of the more frequent teams to switch on defensively. And now that they've added Walker Kessler, they're more in the drop. As a perimeter defender, when I know that there's somebody back there that's in that key and they're protecting the rim, it's like having a big brother. All of a sudden I'm bolstered. I feel super confident.",
+      "text_blocks": [],
+      "start_seconds": 170,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Doug Christie discusses the impact of Walker Kessler on the Lakers defense. He says having a rim protector like Kessler in the drop is like having a big brother that makes perimeter defenders feel super confident.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Walker Kessler"
+        ],
+        "teams": [
+          "SAC",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Doug Christie explains how Walker Kessler changes the defensive scheme of the Lakers from switching to drop coverage.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Doug Christie",
+      "timestamp": "03:52",
+      "summary_phrase": "Defensive strategy for guarding Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "More than anything, it's probably above the break contested three.",
+      "quote": "More than anything, it's probably above the break contested three. But once he gets a rhythm, the way that he calculates the game is just super impressive because if he doesn't hit a shot, then he gets to the free throw line to see it go through. He's looking for a layup, he's reading the defense. So there's a lot of different aspects of it. You just have to try to give him as many looks as you possibly can. For players of that type of level, you can't show them the same thing consistently because he just processes the information at such a high level.",
+      "text_blocks": [],
+      "start_seconds": 232,
+      "end_seconds": 273,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie on guarding Luka Doncic. He says you cannot show him the same look consistently because he processes information at such a high level and will eventually manipulate the defense to his advantage.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAC",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Doug Christie describes the defensive challenges of guarding Luka Doncic due to his high-level processing of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "Doug Christie"
+      ],
+      "timestamp": "04:42",
+      "summary_phrase": "Darius Acuff Jr. learning from matching up against Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic",
+        "Darius Acuff Jr."
+      ],
+      "excerpt": "How good of an opportunity is it for a guy like Darius to kind of watch?",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Seeing Luka this many times in the same division, how good of an opportunity is it for a guy like Darius to kind of watch and kind of learn matching up with guys so often?"
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "Definitely. I think watching how he processes the game is huge for a young player. Darius, last time we played them, we saw tilts, we saw blitzes. They read it. He has seen pretty much every defense for a young player. I haven't seen that as much, but I think that shows what the league thinks of him as a young player. He can really score the basketball and play. So he's now looking at Luka, how does he process that information? How does he go about seeing what the different defenses are and then manipulating them to the benefit of his team?"
+        }
+      ],
+      "start_seconds": 282,
+      "end_seconds": 335,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Doug Christie discusses the value of young players like Darius Acuff Jr. watching Luka Doncic. He highlights how important it is for a young player to learn how to process different defensive looks and manipulate them.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Acuff Jr.",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAC",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Doug Christie discusses the value for Darius Acuff Jr. in learning how to process defensive coverages by watching Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "_ybwjbf47H0",
+  "url": "https://www.youtube.com/watch?v=_ybwjbf47H0",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-21T02:17:08Z",
+  "duration_seconds": 342,
+  "processed_at": "2026-11-21T02:22:21Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

@@ -3216,5 +3216,38 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {}
+ "pending": {
+  "_ybwjbf47H0": {
+   "channel": "Sacramento Kings",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-21",
+   "is_one_off": false,
+   "queued_at": "2026-11-21T02:22:21Z",
+   "run_id": "2026-11-21-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-21",
+   "speaker": "Doug Christie",
+   "title": "What Doug Christie wants Kings’ Darius Acuff Jr. to learn Friday | NBC Sports California",
+   "top_quote": "Pace doesn't necessarily mean pivot, tear. It doesn't mean that as my college coach would say. Pace means how quickly you're moving in the half court. That's a huge one. You have to make sure that you're cutting, you're moving, you're reading. If players are getting above you on splits, you're making quick cuts. That's pace also. So there's the full court pace, but then there's the half court pace, which probably is even more important because when guys are trying to grab hold and control, you got to knock their hands off and run through them.",
+   "video_id": "_ybwjbf47H0"
+  },
+  "mQIJ-_Gjd18": {
+   "channel": "Golden State Warriors",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-21",
+   "is_one_off": false,
+   "queued_at": "2026-11-21T02:22:21Z",
+   "run_id": "2026-11-21-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-21",
+   "speaker": "Bonta Hill",
+   "title": "Is Warriors rookie Yaxel Lendeborg reaching breaking point? | NBC Sports Bay Area",
+   "top_quote": "When he was talking after the first game against Luka, he was like, 'I don't respect Luka.' And I'm thinking to myself, man, they just got beat by three. Like, what? He's a fun-loving kid and I love the fact that he's authentic. But this trip was really baffling to me when it came to the rookie. And this is where I know the Warriors are like, man, we know we got to rein this guy in.",
+   "video_id": "mQIJ-_Gjd18"
+  }
+ }
 }
