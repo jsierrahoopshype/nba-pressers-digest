@@ -1,0 +1,343 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. HOU 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Christian Braun",
+    "Nikola Jokic",
+    "Aaron Gordon"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:00",
+      "summary_phrase": "Coach Adelman on Nuggets' focus on second-chance points",
+      "names_mentioned": [],
+      "excerpt": "if you can give them one shot, you give yourself a chance",
+      "quote": "I even thought the first half they had four offensive rebounds, but I have to watch the tape. I felt like they weren't competitive rebounds, they were just bad bounces. As a team, I thought we competed on that end like we did in the second half of the Boston game, which is such a key against this team because they are already really good. If you give them extra possessions, it's another Kevin Durant shot, or VanVleet. If you can give them one shot, you give yourself a chance. The guys were very competitive tonight.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Adelman on the Nuggets defensive approach against Houston: If you can give them one shot, you give yourself a chance. The guys were very competitive tonight.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "BOS",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the team's focus on limiting second-chance points against Houston.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:00",
+      "summary_phrase": "Coach Adelman on the team's shooting slump and aggression",
+      "names_mentioned": [
+        "Kevin Durant",
+        "VanVleet"
+      ],
+      "excerpt": "the only way to get out of a shooting slump is to shoot",
+      "quote": "The season is so long, but this has been its own story this week from the Phoenix game on. I thought guys were tentative the first night, Wednesday a little bit better, and tonight to your point, I thought they were aggressive. They were looking for their own. The only way to get out of a shooting slump is to shoot. It's not go shoot by yourself or with your PD coach, it's out here competitively. Take it on yourself to do the right things and when you're open, let it go.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Adelman on breaking out of a shooting slump: The only way to get out of a shooting slump is to shoot. It is not go shoot by yourself or with your PD coach, it is out here competitively.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Adelman addresses the team's recent shooting slump and encourages aggressive play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:02",
+      "summary_phrase": "Coach Adelman on Christian Braun's defensive impact",
+      "names_mentioned": [
+        "Christian Braun",
+        "Kevin Durant"
+      ],
+      "excerpt": "he's taking on so many unique matchups",
+      "quote": "He's taking on so many unique matchups. We finally got to the matchup we wanted at the end with Aaron on Kevin Durant, and we can move Christian back to VanVleet. I just didn't want Aaron having to chase Kevin Durant for four quarters. That was the ultimate goal. Much like the other night with Tatum, we kind of rotated as we went. Christian was extremely active in the half, I thought he took Kevin Durant out of a lot of actions. And then at the end of the game, VanVleet was torching us. Christian was amazing in the last four minutes, navigating pick-and-rolls, getting under, and that's just who he is.",
+      "text_blocks": [],
+      "start_seconds": 122,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Adelman explains the defensive strategy against Kevin Durant and Fred VanVleet: I just did not want Aaron having to chase Kevin Durant for four quarters. Christian was amazing in the last four minutes.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun",
+          "Aaron Gordon",
+          "Kevin Durant",
+          "Fred VanVleet",
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "DEN",
+          "BOS",
+          "HOU",
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman explains the defensive strategy and matchups used against Kevin Durant and Fred VanVleet.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Adelman",
+      "timestamp": "05:16",
+      "summary_phrase": "Coach Adelman on Christian Braun's defensive activity",
+      "names_mentioned": [
+        "Christian Braun"
+      ],
+      "excerpt": "it's just good to see a guy that plays that hard see the ball go in too",
+      "quote": "I think the health thing is enormous. His burst is there. The steal at the end of the game, that's an athletic play, not just the denial, but the burst to win the ball. He was missing that last year. It's just good to see a guy that plays that hard see the ball go in too. Guys like that deserve it, karma comes around.",
+      "text_blocks": [],
+      "start_seconds": 316,
+      "end_seconds": 341,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Coach Adelman notes a major difference in Christian Braun this season: The health thing is enormous. His burst is there. The steal at the end of the game, that is an athletic play. He was missing that last year.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Adelman discusses Christian Braun's improved health and athletic performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Christian Braun",
+      "timestamp": "13:12",
+      "summary_phrase": "Christian Braun on the team's offensive flow",
+      "names_mentioned": [],
+      "excerpt": "when our offense clicks, we just got to give both going at the same time",
+      "quote": "I thought early our offense was flowing. We just couldn't get our defense into the game. That's kind of who we are. We're going to get to that more often than not. Our defense has kind of carried us a little bit this year, but when our offense clicks, we just got to give both going at the same time. It was a good offensive game and I think it helps when other guys make shots.",
+      "text_blocks": [],
+      "start_seconds": 792,
+      "end_seconds": 821,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Christian Braun on finding offensive rhythm: Our defense has kind of carried us a little bit this year, but when our offense clicks, we just got to get both going at the same time.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Christian Braun reflects on the team's offensive flow and the need to balance offense and defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Nikola Jokic",
+      "timestamp": "19:51",
+      "summary_phrase": "Nikola Jokic on team passing and shooting",
+      "names_mentioned": [],
+      "excerpt": "we have we pass the ball a lot and when you make shots, you have a lot of assists",
+      "quote": "I think we made the shots when we needed and we made the shots. That's what creates assists and that's how just how we play. I think we have we pass the ball a lot and when you make shots, you have a lot of assists.",
+      "text_blocks": [],
+      "start_seconds": 1191,
+      "end_seconds": 1209,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Nikola Jokic on the Nuggets offensive philosophy: We pass the ball a lot and when you make shots, you have a lot of assists.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic explains how making shots contributes to the team's assist numbers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Nikola Jokic",
+      "timestamp": "20:41",
+      "summary_phrase": "Nikola Jokic on embracing the struggle",
+      "names_mentioned": [],
+      "excerpt": "there's beauty in struggling and I love struggling",
+      "quote": "I like to say the struggle is there's beauty in struggling and I love struggling, and that makes you better, makes you think how to how to prepare, what to do something different. It's really nice when you struggle.",
+      "text_blocks": [],
+      "start_seconds": 1241,
+      "end_seconds": 1256,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 9,
+      "social_post": "Nikola Jokic on the team's recent struggles: I like to say there is beauty in struggling and I love struggling, and that makes you better, makes you think how to prepare, what to do something different.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic shares his perspective on the value of struggling and how it aids preparation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Aaron Gordon",
+      "timestamp": "24:17",
+      "summary_phrase": "Aaron Gordon on the team's defensive focus",
+      "names_mentioned": [],
+      "excerpt": "the team that played best defense was or team that played any defense was going to win",
+      "quote": "People are so skilled in this league and I think that was what it was. It was just a display of incredible skill at the NBA level and no defense at all. So the team that played best defense was or team that played any defense was going to win. That's basically what we were stressing in the huddle, was just picking it up on the defensive end.",
+      "text_blocks": [],
+      "start_seconds": 1457,
+      "end_seconds": 1483,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Aaron Gordon on the defensive intensity against Houston: People are so skilled in this league. The team that played any defense was going to win.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Aaron Gordon emphasizes the importance of defensive effort in a league full of skilled players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Aaron Gordon",
+      "timestamp": "25:05",
+      "summary_phrase": "Aaron Gordon on the team's collective effort",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "this was a huge team win for us",
+      "quote": "This was a huge team win for us. Everybody contributed. Big fella led the charge and guys off the bench came in and gave us huge minutes. Everybody played really well. Jamal comes down and ices the game in the fourth quarter, and true Jamal Murray nature. Very good team win for us.",
+      "text_blocks": [],
+      "start_seconds": 1505,
+      "end_seconds": 1525,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Aaron Gordon praises Jamal Murray after the win: Jamal comes down and ices the game in the fourth quarter, in true Jamal Murray nature.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Aaron Gordon praises the team's collective effort and Jamal Murray's late-game performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Aaron Gordon",
+      "timestamp": "26:02",
+      "summary_phrase": "Aaron Gordon on Christian Braun's defensive skills",
+      "names_mentioned": [
+        "Christian Braun"
+      ],
+      "excerpt": "CB is a hell of a ball player and he's pretty damn complete",
+      "quote": "CB is a hell of a ball player and he's pretty damn complete. And on the defensive end, he's tenacious, smart, and anticipatory. Whoa.",
+      "text_blocks": [],
+      "start_seconds": 1562,
+      "end_seconds": 1571,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Aaron Gordon on Christian Braun: CB is a hell of a ball player and he is pretty damn complete. And on the defensive end, he is tenacious, smart, and anticipatory.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Christian Braun"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Aaron Gordon commends Christian Braun for his defensive tenacity and intelligence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "UEXCCY-i5HI",
+  "url": "https://www.youtube.com/watch?v=UEXCCY-i5HI",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-21T07:56:58Z",
+  "duration_seconds": 1729,
+  "processed_at": "2026-11-21T08:20:59Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

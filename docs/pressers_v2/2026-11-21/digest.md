@@ -22,7 +22,17 @@ From: [Cavs vs Pacers \| Donovan Mitchell & Mario Hezonja Post Game \| 11.20.202
 
 <small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=304&q=5) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=304&q=5&slack=1)</small>
 
-**3. Danny Wolf — "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately" — Danny Wolf on his defensive development and physical conditioning** [12:43](https://www.youtube.com/watch?v=jTwBAC2Kk5E&t=763s)
+**3. Nikola Jokic — "there's beauty in struggling and I love struggling" — Nikola Jokic on embracing the struggle** [20:41](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
+
+Nikola Jokic: "I like to say the struggle is there's beauty in struggling and I love struggling, and that makes you better, makes you think how to how to prepare, what to do something different. It's really nice when you struggle."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
+
+From: [Full Denver Nuggets Postgame Media Availability vs. HOU 🎙](https://www.youtube.com/watch?v=UEXCCY-i5HI) · *Denver Nuggets*
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=7) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=7&slack=1)</small>
+
+**4. Danny Wolf — "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately" — Danny Wolf on his defensive development and physical conditioning** [12:43](https://www.youtube.com/watch?v=jTwBAC2Kk5E&t=763s)
 
 Danny Wolf: "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately their coaching staff looked at me and told everyone to go at me. I don't want to use the terms they were using, but I remember it vividly and guys looked at me and saw a big white guy and thought that they were going to go at me and I think I used that as a chip on my shoulder to prove that I can guard and if I'm guarding a one, if I'm guarding a five and obviously a lot of body, a lot of work on my body and credit to the strength staff and just staying on top of that, but again a work in progress and that's something that I kind of want to not just be okay and I want to continue to become a elite defender and continue to get the tools to do so."
 
@@ -30,7 +40,7 @@ Danny Wolf: "I remember my first game in Milwaukee, my first real game playing, 
 
 From: [Jordi Fernández + Danny Wolf Postgame Press Conferences vs. Orlando](https://www.youtube.com/watch?v=jTwBAC2Kk5E) · *Brooklyn Nets*
 
-**4. Dalton Johnson — Yaxel Lendeborg's candid admission of mental struggle** [02:57](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=177s)
+**5. Dalton Johnson — Yaxel Lendeborg's candid admission of mental struggle** [02:57](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=177s)
 
 **Dalton Johnson:** "When he finishes, **Will** looks at him and he's just like, 'Why you got to say it like that?' And they're like really close friends and he's like, 'What did I say like? It's all true, like I am messed up and I am.' And **Will**'s just like, 'You don't, you just don't get it right now.'"
 
@@ -40,7 +50,7 @@ From: [Jordi Fernández + Danny Wolf Postgame Press Conferences vs. Orlando](htt
 
 From: [Is Warriors rookie Yaxel Lendeborg reaching breaking point? \| NBC Sports Bay Area](https://www.youtube.com/watch?v=mQIJ-_Gjd18) · *Golden State Warriors*
 
-**5. Rick Carlisle — Rick Carlisle on T.J. McConnell's hamstring injury** [05:26](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
+**6. Rick Carlisle — Rick Carlisle on T.J. McConnell's hamstring injury** [05:26](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
 
 Rick Carlisle: "He's got a hamstring issue on the other hamstring. We don't know how bad yet. He was not asking out of the game, but he felt it and so **Josh** kind of saw it happen. He said, 'Hey, we got to get T.J. out,' and so we took a foul to get him out. So we'll see, I'm not going to speculate. I haven't talked to him yet, but it's another body blow, so we just got to absorb it and the next man's got to be ready to be up."
 
@@ -50,7 +60,7 @@ From: [Rick Carlisle Postgame Media Availability \| November 20, 2026](https://w
 
 <small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5&slack=1)</small>
 
-**6. Jordan Ott — "That right quad, just a knee to quad on that screen." — Update on player injury following the screen** [01:07](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=67s)
+**7. Jordan Ott — "That right quad, just a knee to quad on that screen." — Update on player injury following the screen** [01:07](https://www.youtube.com/watch?v=VCyGx4xFfQU&t=67s)
 
 Jordan Ott: "That right quad, just a knee to quad on that screen. Obviously didn't come back in, so that will be one of those things where we will see what it looks like tomorrow."
 
@@ -60,7 +70,7 @@ From: [Head Coach Jordan Ott Postgame Media Availability  \| 11-20-26](https://w
 
 <small>[Clip it](presserclips://clip?v=VCyGx4xFfQU&t=67&q=4) · [Send to Slack](presserclips://clip?v=VCyGx4xFfQU&t=67&q=4&slack=1)</small>
 
-**7. Jamahl Mosley — "I still need to discuss that with our medical staff and see where we go from here." — Mosley provides update on player status following minor injury** [02:25](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
+**8. Jamahl Mosley — "I still need to discuss that with our medical staff and see where we go from here." — Mosley provides update on player status following minor injury** [02:25](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
 
 Jamahl Mosley: "I still need to discuss that with our medical staff and see where we go from here."
 
@@ -70,7 +80,7 @@ From: [Jamahl Mosley \| Pelicans vs. Thunder Postgame Interview 11/20/26](https:
 
 <small>[Clip it](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5) · [Send to Slack](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5&slack=1)</small>
 
-**8. James Harden — "The contract extension took a little longer than expected, but I had no other choice but wait." — James Harden on the impact of limited pickup games during contract negotiations** [03:40](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
+**9. James Harden — "The contract extension took a little longer than expected, but I had no other choice but wait." — James Harden on the impact of limited pickup games during contract negotiations** [03:40](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
 
 James Harden: "The contract extension took a little longer than expected, but I had no other choice but to wait. That was a huge part of it, but I'm happy we got it done and then after that I started to ramp up. All in all, the first 15, 17 games we've been in, things haven't been going the best for me personally, but I think it's bigger than me and I think it's about our team and getting guys back healthy is important."
 
@@ -80,7 +90,7 @@ From: [Cavs vs Pacers \| James Harden Media Availability \| 11.20.2026](https://
 
 <small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=220&q=4) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=220&q=4&slack=1)</small>
 
-**9. Mario Hezonja — "The first one was when we were guarding him in Madison Square Garden." — Mario Hezonja on witnessing James Harden's historic performance** [10:06](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s)
+**10. Mario Hezonja — "The first one was when we were guarding him in Madison Square Garden." — Mario Hezonja on witnessing James Harden's historic performance** [10:06](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s)
 
 **Unidentified reporter:** "My second one."
 
@@ -92,7 +102,7 @@ From: [Cavs vs Pacers \| Donovan Mitchell & Mario Hezonja Post Game \| 11.20.202
 
 <small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=606&q=10) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=606&q=10&slack=1)</small>
 
-**10. Bonta Hill — "I don't respect Luka." — Yaxel Lendeborg's frustration after Warriors' loss to Mavericks** [00:00](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=0s)
+**11. Bonta Hill — "I don't respect Luka." — Yaxel Lendeborg's frustration after Warriors' loss to Mavericks** [00:00](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=0s)
 
 Bonta Hill: "When he was talking after the first game against **Luka**, he was like, 'I don't respect **Luka**.' And I'm thinking to myself, man, they just got beat by three. Like, what? He's a fun-loving kid and I love the fact that he's authentic. But this trip was really baffling to me when it came to the rookie. And this is where I know the Warriors are like, man, we know we got to rein this guy in."
 
@@ -100,7 +110,7 @@ Bonta Hill: "When he was talking after the first game against **Luka**, he was l
 
 From: [Is Warriors rookie Yaxel Lendeborg reaching breaking point? \| NBC Sports Bay Area](https://www.youtube.com/watch?v=mQIJ-_Gjd18) · *Golden State Warriors*
 
-**11. Nikola Vucevic — "for me this is a huge adjustment" — Nikola Vucevic on adjusting to his new role** [08:53](https://www.youtube.com/watch?v=z-Su97mVflE&t=533s)
+**12. Nikola Vucevic — "for me this is a huge adjustment" — Nikola Vucevic on adjusting to his new role** [08:53](https://www.youtube.com/watch?v=z-Su97mVflE&t=533s)
 
 Nikola Vucevic: "For me this is a huge adjustment. Just a few months ago I was playing 30 minutes a game, starting, being one of the main options on a team and now coming to a very, very, very different role. So far, haven't really had established role minutes. Kind of trying to figure it all out. So it's hard sometimes to find a rhythm that way and especially for me because I'm kind of a rhythm player. I play off my feel for the game and everything and so it's a big adjustment."
 
@@ -110,7 +120,17 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ 
 
 <small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=533&q=10) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=533&q=10&slack=1)</small>
 
-**12. Shai Gilgeous-Alexander — "He's a really good basketball player. You don't have the journey he's had unless you know how" — Shai Gilgeous-Alexander on Cason Wallace's development and aggressive play** [00:40](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
+**13. Kenny Atkinson — "That's why we love the NBA, nights like that are so special." — Kenny Atkinson on James Harden's historic 50-point performance** [00:06](https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s)
+
+Kenny Atkinson: "That's why you're in the NBA. All of us, that's why we love the NBA, nights like that are so special. He passes **Kobe Bryant** for most 50-point games, third all-time most 50-point games. That's pretty special. The crowd was great, the crowd appreciated that performance. It wasn't like we needed that game, it wasn't like we were 10 games above 500 and everything's peachy. It was a clutch performance, something we needed tonight."
+
+[https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s](https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s)
+
+From: [Cavs vs Pacers \| Kenny Atkinson Post Game \| 11.20.2026](https://www.youtube.com/watch?v=TZ_eWKfKntA) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=TZ_eWKfKntA&t=6&q=1) · [Send to Slack](presserclips://clip?v=TZ_eWKfKntA&t=6&q=1&slack=1)</small>
+
+**14. Shai Gilgeous-Alexander — "He's a really good basketball player. You don't have the journey he's had unless you know how" — Shai Gilgeous-Alexander on Cason Wallace's development and aggressive play** [00:40](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
 
 Shai Gilgeous-Alexander: "Cason is a really good basketball player. You don't have the journey he's had unless you know how to play basketball at a high level. Despite the size and the athleticism and the conference and the stage he's on, he's just been able to rise because he knows how to play the game. He knows his strengths and he stays within those. I think more than anything for him it's just a learning curve. He's been on the ball a lot in his career and obviously with myself and **AJ** and the guys of the caliber on this team, he's had to find his spots off the ball. I think that's more so what it is than anything. But he's doing a really good job of just figuring out on the fly and we're a better team on both ends of the floor when he's aggressive offensively."
 
@@ -120,7 +140,15 @@ From: [SGA on Team's Performance Versus Pelicans \| Postgame Media \| November 2
 
 <small>[Clip it](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1) · [Send to Slack](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1&slack=1)</small>
 
-**13. Franz Wagner — "it was very weird seeing him over there" — Franz Wagner on the experience of playing against his brother** [04:03](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
+**15. Walker Kessler — "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain" — Walker Kessler on the challenges of playing as a Laker** [11:51](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s)
+
+Walker Kessler: "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain kind of performance. It's not so much making shots, but just playing with effort and energy and I can completely respect that. I think that Lakers fans are the best in the world. Obviously they're some of the most numerous, but yeah, even coming off the bench or coming out of the game last game, hearing the fans, it wasn't deconstructive. It was just like, come on, you got to play harder and they were absolutely right."
+
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s)
+
+From: [🏆Lakers vs Kings \| Postgame Interviews x Highlights: November 20, 2026](https://www.youtube.com/watch?v=cfFfqOgA6Fo) · *Los Angeles Lakers*
+
+**16. Franz Wagner — "it was very weird seeing him over there" — Franz Wagner on the experience of playing against his brother** [04:03](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
 
 Franz Wagner: "It was both. It was very weird seeing him over there. Playing five years together, you get super used to that. It kind of set in, kind of realized today that he's on a different team. It was weird but it was also fun. I think he's in a good spot. I think he really likes it here, so happy for him."
 
@@ -129,28 +157,6 @@ Franz Wagner: "It was both. It was very weird seeing him over there. Playing fiv
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ WAGNER, & NIKOLA VUCEVIC](https://www.youtube.com/watch?v=z-Su97mVflE) · *Orlando Magic*
 
 <small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=243&q=6) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=243&q=6&slack=1)</small>
-
-**14. Josh Okogie — "Miles been a dog. He been great ever since we got him." — Josh Okogie on Miles Bridges' impact on the team** [00:40](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s)
-
-**Unidentified reporter:** "Goody, what'd you think of his performance tonight?"
-
-**Josh Okogie:** "Miles been a dog. He been great ever since we got him. Love him on and off the court, great dude."
-
-[https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s)
-
-From: [Miles Bridges Postgame On-Court Interview after Suns win against Utah Jazz \| 11-20-26](https://www.youtube.com/watch?v=9lzGHyc7ZaA) · *Phoenix Suns*
-
-<small>[Clip it](presserclips://clip?v=9lzGHyc7ZaA&t=40&q=3) · [Send to Slack](presserclips://clip?v=9lzGHyc7ZaA&t=40&q=3&slack=1)</small>
-
-**15. Dyson Daniels — "everyone just stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace." — Dyson Daniels on team adjustments without Trae Young and Dejounte Murray** [00:09](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s)
-
-Dyson Daniels: "Everyone stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace. Everyone is getting touches. We have guys that can play with the ball, guys that can play off the ball, so I think everyone just filled those voids. **Rayjon Tucker** has been really good coming in as well, playing some good minutes for us. **Kobe Bufkin** is coming in as well, playing some really good minutes. Everyone has stepped up, it's been good."
-
-[https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s)
-
-From: [Hawks vs. Hornets Postgame Press Conference: Dyson Daniels](https://www.youtube.com/watch?v=DS4hICFyTQ8) · *Atlanta Hawks*
-
-<small>[Clip it](presserclips://clip?v=DS4hICFyTQ8&t=9&q=1) · [Send to Slack](presserclips://clip?v=DS4hICFyTQ8&t=9&q=1&slack=1)</small>
 
 ---
 
@@ -846,6 +852,94 @@ Kenny Atkinson: "I feel like it's never going to end. Like these guys just keep 
 
 ---
 
+## Full Denver Nuggets Postgame Media Availability vs. HOU 🎙 — *Denver Nuggets*
+
+Source: [https://www.youtube.com/watch?v=UEXCCY-i5HI](https://www.youtube.com/watch?v=UEXCCY-i5HI)
+
+_Speakers identified: Coach Adelman, Christian Braun, Nikola Jokic, Aaron Gordon_
+
+**1. Coach Adelman — "if you can give them one shot, you give yourself a chance" — Coach Adelman on Nuggets' focus on second-chance points** [00:00](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=0s)
+
+Coach Adelman: "I even thought the first half they had four offensive rebounds, but I have to watch the tape. I felt like they weren't competitive rebounds, they were just bad bounces. As a team, I thought we competed on that end like we did in the second half of the Boston game, which is such a key against this team because they are already really good. If you give them extra possessions, it's another Kevin Durant shot, or VanVleet. If you can give them one shot, you give yourself a chance. The guys were very competitive tonight."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=0s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=0s)
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=0&q=1) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=0&q=1&slack=1)</small>
+
+**2. Coach Adelman — "the only way to get out of a shooting slump is to shoot" — Coach Adelman on the team's shooting slump and aggression** [01:00](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=60s)
+
+Coach Adelman: "The season is so long, but this has been its own story this week from the Phoenix game on. I thought guys were tentative the first night, Wednesday a little bit better, and tonight to your point, I thought they were aggressive. They were looking for their own. The only way to get out of a shooting slump is to shoot. It's not go shoot by yourself or with your PD coach, it's out here competitively. Take it on yourself to do the right things and when you're open, let it go."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=60s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=60s)
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=60&q=2) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=60&q=2&slack=1)</small>
+
+**3. Coach Adelman — "he's taking on so many unique matchups" — Coach Adelman on Christian Braun's defensive impact** [02:02](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=122s)
+
+Coach Adelman: "He's taking on so many unique matchups. We finally got to the matchup we wanted at the end with Aaron on **Kevin Durant**, and we can move Christian back to VanVleet. I just didn't want Aaron having to chase **Kevin Durant** for four quarters. That was the ultimate goal. Much like the other night with Tatum, we kind of rotated as we went. Christian was extremely active in the half, I thought he took **Kevin Durant** out of a lot of actions. And then at the end of the game, VanVleet was torching us. Christian was amazing in the last four minutes, navigating pick-and-rolls, getting under, and that's just who he is."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=122s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=122s)
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=122&q=3) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=122&q=3&slack=1)</small>
+
+**4. Coach Adelman — "it's just good to see a guy that plays that hard see the ball go in too" — Coach Adelman on Christian Braun's defensive activity** [05:16](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=316s)
+
+Coach Adelman: "I think the health thing is enormous. His burst is there. The steal at the end of the game, that's an athletic play, not just the denial, but the burst to win the ball. He was missing that last year. It's just good to see a guy that plays that hard see the ball go in too. Guys like that deserve it, karma comes around."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=316s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=316s)
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=316&q=4) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=316&q=4&slack=1)</small>
+
+**5. Christian Braun — "when our offense clicks, we just got to give both going at the same time" — Christian Braun on the team's offensive flow** [13:12](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=792s)
+
+Christian Braun: "I thought early our offense was flowing. We just couldn't get our defense into the game. That's kind of who we are. We're going to get to that more often than not. Our defense has kind of carried us a little bit this year, but when our offense clicks, we just got to give both going at the same time. It was a good offensive game and I think it helps when other guys make shots."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=792s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=792s)
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=792&q=5) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=792&q=5&slack=1)</small>
+
+**6. Nikola Jokic — "we have we pass the ball a lot and when you make shots, you have a lot of assists" — Nikola Jokic on team passing and shooting** [19:51](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1191s)
+
+Nikola Jokic: "I think we made the shots when we needed and we made the shots. That's what creates assists and that's how just how we play. I think we have we pass the ball a lot and when you make shots, you have a lot of assists."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1191s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1191s)
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1191&q=6) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1191&q=6&slack=1)</small>
+
+**7. Nikola Jokic — "there's beauty in struggling and I love struggling" — Nikola Jokic on embracing the struggle** [20:41](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
+
+Nikola Jokic: "I like to say the struggle is there's beauty in struggling and I love struggling, and that makes you better, makes you think how to how to prepare, what to do something different. It's really nice when you struggle."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=7) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=7&slack=1)</small>
+
+**8. Aaron Gordon — "the team that played best defense was or team that played any defense was going to win" — Aaron Gordon on the team's defensive focus** [24:17](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1457s)
+
+Aaron Gordon: "People are so skilled in this league and I think that was what it was. It was just a display of incredible skill at the NBA level and no defense at all. So the team that played best defense was or team that played any defense was going to win. That's basically what we were stressing in the huddle, was just picking it up on the defensive end."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1457s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1457s)
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1457&q=8) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1457&q=8&slack=1)</small>
+
+**9. Aaron Gordon — "this was a huge team win for us" — Aaron Gordon on the team's collective effort** [25:05](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1505s)
+
+Aaron Gordon: "This was a huge team win for us. Everybody contributed. Big fella led the charge and guys off the bench came in and gave us huge minutes. Everybody played really well. Jamal comes down and ices the game in the fourth quarter, and true Jamal Murray nature. Very good team win for us."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1505s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1505s)
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1505&q=9) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1505&q=9&slack=1)</small>
+
+**10. Aaron Gordon — "CB is a hell of a ball player and he's pretty damn complete" — Aaron Gordon on Christian Braun's defensive skills** [26:02](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1562s)
+
+Aaron Gordon: "CB is a hell of a ball player and he's pretty damn complete. And on the defensive end, he's tenacious, smart, and anticipatory. Whoa."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1562s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1562s)
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1562&q=10) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1562&q=10&slack=1)</small>
+
+---
+
 ## Coach Daigneault on Team's Comeback Win | Postgame Media | November 20, 2026 — *Oklahoma City Thunder*
 
 Source: [https://www.youtube.com/watch?v=UfkrXo6CHzc](https://www.youtube.com/watch?v=UfkrXo6CHzc)
@@ -1107,6 +1201,50 @@ Rick Carlisle: "He's got a hamstring issue on the other hamstring. We don't know
 [https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
 
 <small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5&slack=1)</small>
+
+---
+
+## 🏆Lakers vs Kings | Postgame Interviews x Highlights: November 20, 2026 — *Los Angeles Lakers*
+
+Source: [https://www.youtube.com/watch?v=cfFfqOgA6Fo](https://www.youtube.com/watch?v=cfFfqOgA6Fo)
+
+_Speakers identified: JJ Redick, Walker Kessler, Luka Doncic, Quentin Grimes_
+
+**1. JJ Redick — "the number one priority for us was to resign AR and put complimentary players around Luka and AR" — JJ Redick on the priority of building around Luka Doncic and AR** [02:46](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s)
+
+JJ Redick: "When we put this team together, the number one priority for us was to resign **AR** and put complimentary players around Luka and **AR**. We basically have played three quarters of a game in the last seven games. We played three quarters of a game with the two of them both available and we've gone six and one. It is a credit to the group sticking with it. Basketball is a game of mistakes. We played through some mistakes tonight, just like we did the other night against Charlotte."
+
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s)
+
+**2. JJ Redick — "it builds trust with the staff, it builds trust with his teammates, most importantly it builds trust" — JJ Redick on how star performances build team trust** [04:06](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s)
+
+JJ Redick: "It builds trust with the staff, it builds trust with his teammates, most importantly it builds trust with our star players. That is the biggest thing. For him, the reference point thing is a simple thing I always go back to. I played and I was part of six teams in 15 years and anytime you go to a new team, you can have reference points in your career, but you need reference points with that group and with those teammates and those coaches. It gives you not only a sense of confidence, but I really believe it gives you a sense of belonging."
+
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s)
+
+**3. Walker Kessler — "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain" — Walker Kessler on the challenges of playing as a Laker** [11:51](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s)
+
+Walker Kessler: "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain kind of performance. It's not so much making shots, but just playing with effort and energy and I can completely respect that. I think that Lakers fans are the best in the world. Obviously they're some of the most numerous, but yeah, even coming off the bench or coming out of the game last game, hearing the fans, it wasn't deconstructive. It was just like, come on, you got to play harder and they were absolutely right."
+
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s)
+
+**4. Luka Doncic — "we have to work on approaching the game better way" — Luka Doncic on the team's lack of focus and intensity** [18:44](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1124s)
+
+Luka Doncic: "We have to work on approaching the game better way. We got to work on approaching the game better way. We should have got the last win but we didn't but we got two wins so we got to work on approaching the game better way."
+
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1124s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1124s)
+
+**5. Quentin Grimes — "every shot's either been wide open and we're making the right play for each other" — Quentin Grimes on the team's ball movement and shot quality** [20:41](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1241s)
+
+Quentin Grimes: "It's a different win if people aren't making the right reads, but I feel like every shot's either been wide open and we're making the right play for each other. So as long as you keep playing good basketball, Lakers basketball, I feel like those shots will be knocked down when we really need them for sure."
+
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1241s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1241s)
+
+**6. Quentin Grimes — "as a rookie you got to go out there and kind of earn minutes" — Quentin Grimes on Cameron Carr earning his rotation minutes** [22:04](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1324s)
+
+Quentin Grimes: "As a rookie you got to go out there and kind of earn minutes and everybody kind of has to do that at one point sometime in their career and then he got thrown in there. He hit a big three, hit a tough layup and had a couple good closeouts and defense stops. So that's kind of the things that earn trust from a coach and where they throw you out there even more later on in the season for sure."
+
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1324s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1324s)
 
 ---
 

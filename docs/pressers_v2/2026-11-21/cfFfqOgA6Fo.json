@@ -1,0 +1,208 @@
+{
+  "video_title": "🏆Lakers vs Kings | Postgame Interviews x Highlights: November 20, 2026",
+  "speakers_seen": [
+    "JJ Redick",
+    "Walker Kessler",
+    "Luka Doncic",
+    "Quentin Grimes"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "JJ Redick",
+      "timestamp": "02:46",
+      "summary_phrase": "JJ Redick on the priority of building around Luka Doncic and AR",
+      "names_mentioned": [
+        "Luka Doncic",
+        "AR"
+      ],
+      "excerpt": "the number one priority for us was to resign AR and put complimentary players around Luka and AR",
+      "quote": "When we put this team together, the number one priority for us was to resign AR and put complimentary players around Luka and AR. We basically have played three quarters of a game in the last seven games. We played three quarters of a game with the two of them both available and we've gone six and one. It is a credit to the group sticking with it. Basketball is a game of mistakes. We played through some mistakes tonight, just like we did the other night against Charlotte.",
+      "text_blocks": [],
+      "start_seconds": 166,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "JJ Redick says the Lakers priority was to resign AR and build around him and Luka Doncic. He notes the team is 6-1 when both are available to play.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic",
+          "Austin Reaves"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "JJ Redick discusses the team's strategy of prioritizing the re-signing of Austin Reaves and building the roster around him and Luka Doncic.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "JJ Redick",
+      "timestamp": "04:06",
+      "summary_phrase": "JJ Redick on how star performances build team trust",
+      "names_mentioned": [],
+      "excerpt": "it builds trust with the staff, it builds trust with his teammates, most importantly it builds trust",
+      "quote": "It builds trust with the staff, it builds trust with his teammates, most importantly it builds trust with our star players. That is the biggest thing. For him, the reference point thing is a simple thing I always go back to. I played and I was part of six teams in 15 years and anytime you go to a new team, you can have reference points in your career, but you need reference points with that group and with those teammates and those coaches. It gives you not only a sense of confidence, but I really believe it gives you a sense of belonging.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 286,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "JJ Redick on the importance of reference points for new players. He says it gives players not only a sense of confidence but a sense of belonging.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "JJ Redick explains the importance of building trust and shared reference points between players, coaches, and new teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Walker Kessler",
+      "timestamp": "11:51",
+      "summary_phrase": "Walker Kessler on the challenges of playing as a Laker",
+      "names_mentioned": [],
+      "excerpt": "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain",
+      "quote": "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain kind of performance. It's not so much making shots, but just playing with effort and energy and I can completely respect that. I think that Lakers fans are the best in the world. Obviously they're some of the most numerous, but yeah, even coming off the bench or coming out of the game last game, hearing the fans, it wasn't deconstructive. It was just like, come on, you got to play harder and they were absolutely right.",
+      "text_blocks": [],
+      "start_seconds": 711,
+      "end_seconds": 748,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 7,
+      "social_post": "Walker Kessler on Lakers fans telling him to play harder. He says the fans were absolutely right and he respects the expectation of effort and energy.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Walker Kessler reflects on the high expectations of Lakers fans and the importance of playing with consistent effort and energy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Luka Doncic",
+      "timestamp": "18:44",
+      "summary_phrase": "Luka Doncic on the team's lack of focus and intensity",
+      "names_mentioned": [],
+      "excerpt": "we have to work on approaching the game better way",
+      "quote": "We have to work on approaching the game better way. We got to work on approaching the game better way. We should have got the last win but we didn't but we got two wins so we got to work on approaching the game better way.",
+      "text_blocks": [],
+      "start_seconds": 1124,
+      "end_seconds": 1142,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Luka Doncic says the team needs to work on approaching the game the better way after their recent stretch.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Luka Doncic addresses the need for the team to improve their focus and intensity when approaching games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Quentin Grimes",
+      "timestamp": "20:41",
+      "summary_phrase": "Quentin Grimes on the team's ball movement and shot quality",
+      "names_mentioned": [],
+      "excerpt": "every shot's either been wide open and we're making the right play for each other",
+      "quote": "It's a different win if people aren't making the right reads, but I feel like every shot's either been wide open and we're making the right play for each other. So as long as you keep playing good basketball, Lakers basketball, I feel like those shots will be knocked down when we really need them for sure.",
+      "text_blocks": [],
+      "start_seconds": 1241,
+      "end_seconds": 1263,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Quentin Grimes says as long as the team keeps playing Lakers basketball and making the right reads the shots will fall when they really need them.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Quentin Grimes discusses the importance of ball movement and creating high-quality shots within the Lakers' offensive system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Quentin Grimes",
+      "timestamp": "22:04",
+      "summary_phrase": "Quentin Grimes on Cameron Carr earning his rotation minutes",
+      "names_mentioned": [
+        "Cameron Carr"
+      ],
+      "excerpt": "as a rookie you got to go out there and kind of earn minutes",
+      "quote": "As a rookie you got to go out there and kind of earn minutes and everybody kind of has to do that at one point sometime in their career and then he got thrown in there. He hit a big three, hit a tough layup and had a couple good closeouts and defense stops. So that's kind of the things that earn trust from a coach and where they throw you out there even more later on in the season for sure.",
+      "text_blocks": [],
+      "start_seconds": 1324,
+      "end_seconds": 1356,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Quentin Grimes praises rookie Cameron Carr for earning trust with the coaching staff through his defense and timely plays.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cameron Carr"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Quentin Grimes praises rookie Cameron Carr for earning rotation minutes through his performance and defensive effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "cfFfqOgA6Fo",
+  "url": "https://www.youtube.com/watch?v=cfFfqOgA6Fo",
+  "channel_team": "Los Angeles Lakers",
+  "published": "2026-11-21T07:18:18Z",
+  "duration_seconds": 1374,
+  "processed_at": "2026-11-21T08:20:58Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
