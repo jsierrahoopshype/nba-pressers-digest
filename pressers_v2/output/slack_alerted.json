@@ -1962,6 +1962,12 @@
    "run_id": "2026-11-14T2354Z-20utc",
    "slot_date": "2026-11-14"
   },
+  "bOwD4jXEoEY": {
+   "at": "2026-11-21T16:14:45Z",
+   "quote": "this year was for this these cup games are important for us playing these type of games to grow in these games to the level of intensity and the adjustments that are needed to sometimes winning games ",
+   "run_id": "2026-11-21-overnight",
+   "slot_date": "2026-11-21"
+  },
   "bTxDT4GB3eE": {
    "at": "2026-11-08T07:27:57Z",
    "quote": "most frustrating was we just talked about the start they re coming in here on a back to back as well and they go up 11 3 i thought we defended well the end of the first quarter we couldn t buy a bucke",
@@ -2418,6 +2424,12 @@
    "run_id": "2026-11-08-overnight",
    "seeded": true,
    "slot_date": "2026-11-08"
+  },
+  "lKjcoermHQA": {
+   "at": "2026-11-21T16:14:45Z",
+   "quote": "it is actually really easy for us if i said it was for everybody i would probably offend 80 percent of our building because our support staff is unbelievable from the video guys to the cooks to the eq",
+   "run_id": "2026-11-21-overnight",
+   "slot_date": "2026-11-21"
   },
   "lNJBW32daqs": {
    "at": "2026-11-13T16:32:22Z",
@@ -3211,38 +3223,5 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {
-  "bOwD4jXEoEY": {
-   "channel": "Washington Wizards",
-   "clip_count": 10,
-   "content_type": "presser",
-   "date": "2026-11-21",
-   "is_one_off": false,
-   "queued_at": "2026-11-21T16:14:45Z",
-   "run_id": "2026-11-21-overnight",
-   "run_slot": "overnight",
-   "single_speaker": false,
-   "slot_date": "2026-11-21",
-   "speaker": "Brian Keefe",
-   "title": "Media Availability: Head Coach Brian Keefe and Trae Young | 11.20.26",
-   "top_quote": "This year was for this. These cup games are important for us. Playing these type of games to grow in these games, to the level of intensity and the adjustments that are needed to sometimes winning games like this, this is a great learning experience for us.",
-   "video_id": "bOwD4jXEoEY"
-  },
-  "lKjcoermHQA": {
-   "channel": "Sacramento Kings",
-   "clip_count": 10,
-   "content_type": "presser",
-   "date": "2026-11-21",
-   "is_one_off": false,
-   "queued_at": "2026-11-21T16:14:45Z",
-   "run_id": "2026-11-21-overnight",
-   "run_slot": "overnight",
-   "single_speaker": true,
-   "slot_date": "2026-11-21",
-   "speaker": "Kyle Shanahan",
-   "title": "Kyle Shanahan outlines game plan vs. Vikings’ aggressive defense | NBC Sports Bay Area",
-   "top_quote": "It is actually really easy for us. If I said it was for everybody, I would probably offend 80 percent of our building because our support staff is unbelievable. From the video guys to the cooks to the equipment managers to all our rehab people and the guys in charge of all the equipment and everything, I think they have a ton to do. When we land on Sunday night, we go to our meeting rooms, see it all, go to bed, get up in the morning really early and start our Monday, and everything is exactly the same. The fact how we bring our computers, we got all of our cutups, anything that we have in the office, they set up our desks the exact same way. Our offices are set up in San Francisco. It is kind of creepy, but it shows just all the work those guys do, so there is really no difference for us.",
-   "video_id": "lKjcoermHQA"
-  }
- }
+ "pending": {}
 }
