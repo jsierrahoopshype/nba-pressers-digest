@@ -1,0 +1,203 @@
+{
+  "video_title": "Darko Rajakovic | Post Game at Detroit Pistons | November 21, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:41",
+      "summary_phrase": "Scottie Barnes' impressive energy and impact on the floor",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "That's what Scottie does and that's what he is, you know, by his so special",
+      "quote": "That's what Scottie does and that's what he is, you know, by his so special because he plays 37 minutes and he does it on both ends of the floor. And he's just trying to find ways how to win and he was super happy for his teammates to get this win, you know, and especially for for Allen Grace. What a what a state for a rookie to be 20 points and 10 rebounds, four offensive. He did a really good job, three steals as well, so he had a great game today, great performance.",
+      "start_seconds": 41,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Darko Rajakovic praised Scottie Barnes for his massive impact on both ends of the floor, noting he plays 37 minutes and is always trying to find ways to win. He also gave a shoutout to rookie Allen Grace for his 20 point and 10 rebound performance.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes",
+          "Allen Grace"
+        ],
+        "teams": [
+          "TOR",
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darko Rajakovic discusses Scottie Barnes' performance and praises rookie Allen Grace after the game against the Detroit Pistons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:25",
+      "summary_phrase": "Scottie Barnes' development as a playmaker and defender",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "He's been doing great job in college with that",
+      "quote": "Every day, he's been doing great job in college with that. This past year in college, he was leading the the whole college with with deflections and steals and how aggressive he is on on the ball and that's something that he brought over here. So now it's time for him to, through NBA games, to learn what is a foul, what is not a foul, you know, just to be smarter with with all of that.",
+      "start_seconds": 85,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says the next step for his rookie is learning the difference between a foul and a clean play, noting he brought his aggressive defensive style from college and now needs to be smarter with his physicality.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses Scottie Barnes' defensive development and his transition from college to the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:01",
+      "summary_phrase": "Scottie Barnes' advanced statistics on attacking and passing",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "Scotty is 1.30 PPP when he's attacking and driving the ball and finishing",
+      "quote": "Scotty is 1.30 PPP when he's attacking and driving the ball and finishing, and he's 1.42 PPP when he's actually passing the ball to his teammates in transition on 63 possessions this year.",
+      "start_seconds": 121,
+      "end_seconds": 134,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic highlighted Scottie Barnes efficiency, noting he is at 1.30 points per possession when attacking the rim and 1.42 points per possession when passing the ball in transition.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic provides advanced statistical analysis regarding Scottie Barnes' efficiency in transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:24",
+      "summary_phrase": "The team's goal of achieving 30+ assists per game",
+      "names_mentioned": [],
+      "excerpt": "Because 30 plus that's our goal every every game",
+      "quote": "Because 30 plus that's our goal every every game.",
+      "start_seconds": 144,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic confirms the Raptors have a clear offensive identity this season, stating that 30 plus assists is the goal for the team every single game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic mentions the team's offensive goal of recording at least 30 assists per game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:33",
+      "summary_phrase": "Evaluation of the team's intentional half-court offensive execution",
+      "names_mentioned": [],
+      "excerpt": "I thought that we were very intentionally with what we're doing in in a half court",
+      "quote": "I thought that we were very intentionally with what we're doing in in a half court and trying to attack certain match ups in different ways. I think that guys did really good job of of, you know, executing all of that. I I prefer that we had couple more a couple less turnovers overall, but I think that we did outstanding job there of attacking and getting in offense what we wanted to do.",
+      "start_seconds": 153,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic was pleased with the team's intentional half court execution, saying the guys did an outstanding job attacking specific matchups, though he would like to see the team cut down on turnovers.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates the team's execution and turnover management during their half-court offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:04",
+      "summary_phrase": "Scottie Barnes' relentless rebounding ability",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "Because he's he's relentless, you know, he's always looking for the opportunity",
+      "quote": "Because he's he's relentless, you know, he's always looking for the opportunity, his crash numbers are really, really high and he's pretty much going every time after after it.",
+      "start_seconds": 184,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic on Scottie Barnes rebounding: He is relentless. He is always looking for the opportunity and his crash numbers are really high because he is going after the ball every time.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic praises Scottie Barnes for his relentless effort and rebounding ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "AaO4zKWyPuQ",
+  "url": "https://www.youtube.com/watch?v=AaO4zKWyPuQ",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-21T05:17:37Z",
+  "duration_seconds": 238,
+  "processed_at": "2026-11-21T05:47:41Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

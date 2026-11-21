@@ -1,0 +1,477 @@
+{
+  "video_title": "Cavs vs Pacers | Donovan Mitchell & Mario Hezonja Post Game | 11.20.2026",
+  "speakers_seen": [
+    "Donovan Mitchell",
+    "Mario Hezonja"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "00:07",
+      "summary_phrase": "Donovan Mitchell on James Harden's scoring consistency and longevity",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "seeing him be able to score at any level is something that puts it in perspective",
+      "quote": "It's about time. I've seen it against us in the playoffs, in the regular season, and from afar. Seeing him be able to score at any level is something that puts it in perspective what he's done in his career. I'm glad he had a night like this tonight because I felt a lot of people were getting on him a little bit. I think that's one way to answer it. Do we expect it every night? No. But if he does it, great. The biggest thing is to see him in that form, aggressive. You're looking at one of the greatest players of all time, and that's definitely good to see.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Donovan Mitchell on James Harden: You are looking at one of the greatest players of all time. I am glad he had a night like this because I felt a lot of people were getting on him a little bit. I think that is one way to answer it.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell discusses James Harden's scoring consistency and his ability to perform at a high level despite public criticism.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "01:08",
+      "summary_phrase": "Donovan Mitchell on the importance of self-reflection for elite players",
+      "names_mentioned": [],
+      "excerpt": "Sometimes you need to go back and watch your own highlights",
+      "quote": "Sometimes you need to remind yourself. I think I can speak for every hooper, especially when you're at that level, sometimes you need that. Sometimes you need to go back and watch your own highlights. I'm not ashamed to say I've done it. Sometimes you need to just remind yourself, and just because you're in such rare air, doesn't mean you're not human. For him to tell you guys that, I'm glad he said that because that shows the human side that we all see of him.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 8,
+      "social_post": "Donovan Mitchell on the human side of NBA stars: I am not ashamed to say I have watched my own highlights. Sometimes you need to remind yourself. Just because you are in such rare air does not mean you are not human.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell reflects on the importance of self-reflection for elite athletes after James Harden spoke about his own process.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "02:14",
+      "summary_phrase": "Donovan Mitchell on the historic consistency of NBA stars",
+      "names_mentioned": [
+        "James Harden",
+        "Kevin Durant",
+        "Stephen Curry",
+        "Russell Westbrook",
+        "Klay Thompson"
+      ],
+      "excerpt": "When you're this consistent, when KD is that consistent, Bron, Steph, Russ, Klay, there's so many guys",
+      "quote": "To be able to see it up close every day, that was one of my biggest things when he came here. Being able to see a guy that you look at, you see what he's accomplished, you've competed against it, to see there's no mistake, there's no, it's not like he just shows up and does this. The work, you see it after shooter on every day. He's consistent. When you're this consistent, when KD is that consistent, Bron, Steph, Russ, Klay, there's so many guys, consistency that you see, and this is part of that.",
+      "text_blocks": [],
+      "start_seconds": 134,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Donovan Mitchell on the work ethic of superstars: It is not like they just show up and do this. You see the work after shootaround every day. When you are this consistent, it is just part of that.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden",
+          "Kevin Durant",
+          "LeBron James",
+          "Stephen Curry",
+          "Russell Westbrook",
+          "Klay Thompson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell praises the work ethic and consistency of James Harden and other NBA stars he observes daily.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "03:05",
+      "summary_phrase": "Donovan Mitchell on the team's resilience in close games",
+      "names_mentioned": [],
+      "excerpt": "I was very happy that we lose the lead and kept the lead",
+      "quote": "I told guys in the locker room, I was very happy that we lose the lead and kept the lead. That was a lesson in that. It was like, okay, we got a little isolation stagnant, he missed a few, we got back, they scored, and then it was like, all right, we move the ball, boom, got a steal, got into an action, got a swing-swing to the top of the key, got to the free-throw line. We messed up on an inbound, but we ended up getting the stop. There's so many things that his scoring and his leadership brings to us.",
+      "text_blocks": [],
+      "start_seconds": 185,
+      "end_seconds": 225,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Donovan Mitchell on team resilience: I told guys in the locker room I was very happy that we lost the lead and kept the lead. That was a lesson in that. We moved the ball, got a steal, and got into an action.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell explains how the team managed to maintain their lead and execute plays during a close game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "05:04",
+      "summary_phrase": "Donovan Mitchell on the lack of appreciation for greatness",
+      "names_mentioned": [
+        "Russell Westbrook"
+      ],
+      "excerpt": "We won't appreciate greatness. We didn't appreciate Russ in his latter years until now",
+      "quote": "We won't. He won't until it's all over with. It's just, I hate it. It's just, but that's just the world we live in. It's just we won't appreciate greatness. We didn't appreciate Russ in his latter years until now, it's like, oh man, Russ was this and that. We forgot he averaged 28, 15, and 16 for a month. It's one of those things where we live in such a negative space. I hate it. At the end of the day, he doesn't care. It sucks that that's that way, but that's just the world is.",
+      "text_blocks": [],
+      "start_seconds": 304,
+      "end_seconds": 341,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 9,
+      "social_post": "Donovan Mitchell on the lack of appreciation for greatness: We live in such a negative space. I hate it. We did not appreciate Russ in his latter years until now. We won't appreciate greatness until it is all over with.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden",
+          "Russell Westbrook"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell expresses frustration that NBA fans and media often fail to appreciate the greatness of players like James Harden and Russell Westbrook.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "06:03",
+      "summary_phrase": "Donovan Mitchell on James Harden's place in NBA history",
+      "names_mentioned": [
+        "Kobe Bryant",
+        "Wilt Chamberlain",
+        "Michael Jordan",
+        "James Harden"
+      ],
+      "excerpt": "It takes for him to have 51 today for us to be like, whoa",
+      "quote": "It takes for him to have 51 today for us to be like, whoa. Right? It should, like what happened to just appreciating the way it's been? I hate that it takes a monumental performance for us to be like, oh yeah, he's pretty good. Credit to him. He's worked his butt off. I've been around it my whole career, and it's just a level of consistency that we all respect and appreciate in this locker room.",
+      "text_blocks": [],
+      "start_seconds": 363,
+      "end_seconds": 393,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 6,
+      "social_post": "Donovan Mitchell on James Harden: It takes for him to have 51 today for us to be like whoa. It should not take a monumental performance for us to be like oh yeah he is pretty good. Credit to him.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell discusses the tendency for people to only appreciate James Harden's talent after he produces a monumental scoring performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "06:57",
+      "summary_phrase": "Donovan Mitchell on James Harden's work ethic and routine",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "I just show up, I workout, you're not really practicing, you're really just in that mode",
+      "quote": "The one that jumps out to my brain is the months that he had. Not just 50, but the months. I asked him about that a bunch of times, having been a part of that month. I asked, what is your routine? He's like, I just show up, I workout, you're not really practicing, you're really just in that mode and in that rhythm. And even tonight, once he had about 24, 25, I knew it was 40. I didn't know if it was 50, but I knew it was 40 just because when you have a night like that, you have to capture it.",
+      "text_blocks": [],
+      "start_seconds": 417,
+      "end_seconds": 457,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Donovan Mitchell on Harden's rhythm: I asked him about his routine and he said I just show up, I workout, you are not really practicing, you are really just in that mode and in that rhythm.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell recalls asking James Harden about his routine and how he maintains his rhythm during high-scoring stretches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "08:10",
+      "summary_phrase": "Donovan Mitchell on maintaining a winning mindset in close games",
+      "names_mentioned": [],
+      "excerpt": "You're playing 2K, you're just going, even though we were making mistakes, just find a way",
+      "quote": "I was pissed at P-Wat for trying to monkey dunk the ball at the end of the game, but I think the biggest thing is like, I know how they were playing so hard. We all understand what's at stake, and even though they were scoring, it's like, all right, let's score back. It's kind of like you're playing 2K, you're just going, even though we were making mistakes, just find a way to keep going, find a way to keep scoring fast. And that's ultimately why I came back in the game, otherwise I wouldn't have.",
+      "text_blocks": [],
+      "start_seconds": 490,
+      "end_seconds": 527,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Donovan Mitchell on the final minutes: It is kind of like you are playing 2K, you are just going. Even though we were making mistakes, just find a way to keep going, find a way to keep scoring fast.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Peyton Watson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell comments on the team's mindset during a close game and his reaction to a specific play by Peyton Watson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Donovan Mitchell",
+      "timestamp": "09:01",
+      "summary_phrase": "Donovan Mitchell on James Harden's evolution as a player",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "He invented a move, he does it with swagger, he's efficient",
+      "quote": "He invented a move, he does it with swagger, he's efficient. We would be talking him about him way differently if he didn't run into that team four years in a row. That's unfortunate, but it is what it is. But it's just the level of scoring and how he does it, the efficiency, the longevity. It's an efficient 19 points, you know what I mean, on isos. Show up to the park and hoop. That's basketball at its finest.",
+      "text_blocks": [],
+      "start_seconds": 541,
+      "end_seconds": 572,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Donovan Mitchell on James Harden: We would be talking about him way differently if he did not run into that team four years in a row. That is unfortunate, but it is what it is. That is basketball at its finest.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Donovan Mitchell reflects on James Harden's unique offensive skills and how his career legacy is viewed by the public.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Mario Hezonja",
+      "timestamp": "10:06",
+      "summary_phrase": "Mario Hezonja on witnessing James Harden's historic performance",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "The first one was when we were guarding him in Madison Square Garden.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "My second one."
+        },
+        {
+          "speaker": "Mario Hezonja",
+          "text": "The first one was when we were guarding him in Madison Square Garden. Thank you for asking. When he had the 60 triple-double, so now it's on the positive side because we won. Just impressive, you know. I kind of stand up and just observe what is it like. You just kind of get out of yourself and out of your own mindset and out of your own persona just to visualize greatness like this. It was awesome. Also, I'm telling him it's on a creation heritage night, so he doesn't want to hear about it, I don't know."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Mario Hezonja"
+      ],
+      "reporter_split": true,
+      "start_seconds": 606,
+      "end_seconds": 645,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 8,
+      "social_post": "Mario Hezonja on watching Harden: I kind of stand up and just observe what is it like. You just kind of get out of yourself and out of your own mindset and out of your own persona just to visualize greatness like this.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "James Harden"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mario Hezonja describes the experience of watching James Harden's historic performance from the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Mario Hezonja",
+      "timestamp": "11:33",
+      "summary_phrase": "Mario Hezonja on the value of individual talent in the NBA",
+      "names_mentioned": [],
+      "excerpt": "Individual accomplishments in this league, people value that, you know, because it's extremely hard to do",
+      "quote": "This is history, you know. These individual accomplishments in this league, people value that, you know, because it's extremely hard to do. I come from a culture that doesn't look at that and I kind of get mad at that, you know, because hey, you have to cherish individual talent as well because individual talent gets you to the top. I'm so happy to be here to see these things again and see them live. It's like the essence of basketball, you know. At the end of the day, we can speak about so many things and tactic and details and this, you got to get that orange ball and put that in a basket.",
+      "text_blocks": [],
+      "start_seconds": 693,
+      "end_seconds": 737,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Mario Hezonja: At the end of the day, we can speak about so many things and tactic and details, but you got to get that orange ball and put that in a basket.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja discusses the importance of valuing individual talent and accomplishments within the context of NBA history.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Mario Hezonja",
+      "timestamp": "12:29",
+      "summary_phrase": "Mario Hezonja on the organization's effort to integrate new players",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "It's not easy, having a brand new player that just got back after six years",
+      "quote": "Big congratulations and big thank you to my team organization. The whole organization to get this done. It's not easy, having a brand new player that just got back after six years of creation and then to organize something like this is huge. I was also shocked by the number of how many people showed up. I know for sure some of the people couldn't make it, which I'm sad about it, so I want everybody to be together for these type of nights to be here.",
+      "text_blocks": [],
+      "start_seconds": 749,
+      "end_seconds": 782,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Mario Hezonja on his organization: Big congratulations and big thank you to my team organization. It is not easy, having a brand new player that just got back after six years and then to organize something like this is huge.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Mario Hezonja thanks the Cavaliers organization for organizing a special event to celebrate his return to the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Mario Hezonja",
+      "timestamp": "13:30",
+      "summary_phrase": "Mario Hezonja on his commitment to the team and his career",
+      "names_mentioned": [
+        "James Harden"
+      ],
+      "excerpt": "My NBA career is in their hands, so I'm trying to help the best way I can",
+      "quote": "It means a lot if they're happy, if they have somebody that is fighting for them on the court. We are from a very small country, so I'm super proud that I have that much support from a community like this. And then for a contract, thank you, Kobe, thank you to the organization, and thank you to my teammates. They've been the ones that trust me. Thanks, Kenny, and the coaching staff. They've been huge. My NBA career is in their hands, so I'm trying to help the best way I can.",
+      "text_blocks": [],
+      "start_seconds": 810,
+      "end_seconds": 846,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Mario Hezonja: My NBA career is in their hands, so I am trying to help the best way I can. It means a lot if they are happy, if they have somebody that is fighting for them on the court.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Altman",
+          "Kenny Atkinson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "contracts",
+          "coaching decisions"
+        ],
+        "context": "Mario Hezonja expresses gratitude to his organization, teammates, and coaching staff for their support and trust in his career.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "LmSl7bpJPvA",
+  "url": "https://www.youtube.com/watch?v=LmSl7bpJPvA",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-21T05:05:00Z",
+  "duration_seconds": 855,
+  "processed_at": "2026-11-21T05:47:54Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

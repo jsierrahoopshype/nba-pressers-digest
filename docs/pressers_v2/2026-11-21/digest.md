@@ -12,7 +12,17 @@ From: [Hawks vs. Hornets Postgame Press Conference: Jalen Johnson](https://www.y
 
 <small>[Clip it](presserclips://clip?v=4ZdZTE-2_lE&t=372&q=9) · [Send to Slack](presserclips://clip?v=4ZdZTE-2_lE&t=372&q=9&slack=1)</small>
 
-**2. Danny Wolf — "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately" — Danny Wolf on his defensive development and physical conditioning** [12:43](https://www.youtube.com/watch?v=jTwBAC2Kk5E&t=763s)
+**2. Donovan Mitchell — "We won't appreciate greatness. We didn't appreciate Russ in his latter years until now" — Donovan Mitchell on the lack of appreciation for greatness** [05:04](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=304s)
+
+Donovan Mitchell: "We won't. He won't until it's all over with. It's just, I hate it. It's just, but that's just the world we live in. It's just we won't appreciate greatness. We didn't appreciate Russ in his latter years until now, it's like, oh man, Russ was this and that. We forgot he averaged 28, 15, and 16 for a month. It's one of those things where we live in such a negative space. I hate it. At the end of the day, he doesn't care. It sucks that that's that way, but that's just the world is."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=304s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=304s)
+
+From: [Cavs vs Pacers \| Donovan Mitchell & Mario Hezonja Post Game \| 11.20.2026](https://www.youtube.com/watch?v=LmSl7bpJPvA) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=304&q=5) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=304&q=5&slack=1)</small>
+
+**3. Danny Wolf — "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately" — Danny Wolf on his defensive development and physical conditioning** [12:43](https://www.youtube.com/watch?v=jTwBAC2Kk5E&t=763s)
 
 Danny Wolf: "I remember my first game in Milwaukee, my first real game playing, I checked in and immediately their coaching staff looked at me and told everyone to go at me. I don't want to use the terms they were using, but I remember it vividly and guys looked at me and saw a big white guy and thought that they were going to go at me and I think I used that as a chip on my shoulder to prove that I can guard and if I'm guarding a one, if I'm guarding a five and obviously a lot of body, a lot of work on my body and credit to the strength staff and just staying on top of that, but again a work in progress and that's something that I kind of want to not just be okay and I want to continue to become a elite defender and continue to get the tools to do so."
 
@@ -20,7 +30,7 @@ Danny Wolf: "I remember my first game in Milwaukee, my first real game playing, 
 
 From: [Jordi Fernández + Danny Wolf Postgame Press Conferences vs. Orlando](https://www.youtube.com/watch?v=jTwBAC2Kk5E) · *Brooklyn Nets*
 
-**3. Dalton Johnson — Yaxel Lendeborg's candid admission of mental struggle** [02:57](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=177s)
+**4. Dalton Johnson — Yaxel Lendeborg's candid admission of mental struggle** [02:57](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=177s)
 
 **Dalton Johnson:** "When he finishes, **Will** looks at him and he's just like, 'Why you got to say it like that?' And they're like really close friends and he's like, 'What did I say like? It's all true, like I am messed up and I am.' And **Will**'s just like, 'You don't, you just don't get it right now.'"
 
@@ -30,7 +40,7 @@ From: [Jordi Fernández + Danny Wolf Postgame Press Conferences vs. Orlando](htt
 
 From: [Is Warriors rookie Yaxel Lendeborg reaching breaking point? \| NBC Sports Bay Area](https://www.youtube.com/watch?v=mQIJ-_Gjd18) · *Golden State Warriors*
 
-**4. Rick Carlisle — Rick Carlisle on T.J. McConnell's hamstring injury** [05:26](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
+**5. Rick Carlisle — Rick Carlisle on T.J. McConnell's hamstring injury** [05:26](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
 
 Rick Carlisle: "He's got a hamstring issue on the other hamstring. We don't know how bad yet. He was not asking out of the game, but he felt it and so **Josh** kind of saw it happen. He said, 'Hey, we got to get T.J. out,' and so we took a foul to get him out. So we'll see, I'm not going to speculate. I haven't talked to him yet, but it's another body blow, so we just got to absorb it and the next man's got to be ready to be up."
 
@@ -40,7 +50,7 @@ From: [Rick Carlisle Postgame Media Availability \| November 20, 2026](https://w
 
 <small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5&slack=1)</small>
 
-**5. Jamahl Mosley — "I still need to discuss that with our medical staff and see where we go from here." — Mosley provides update on player status following minor injury** [02:25](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
+**6. Jamahl Mosley — "I still need to discuss that with our medical staff and see where we go from here." — Mosley provides update on player status following minor injury** [02:25](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
 
 Jamahl Mosley: "I still need to discuss that with our medical staff and see where we go from here."
 
@@ -50,7 +60,7 @@ From: [Jamahl Mosley \| Pelicans vs. Thunder Postgame Interview 11/20/26](https:
 
 <small>[Clip it](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5) · [Send to Slack](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5&slack=1)</small>
 
-**6. James Harden — "The contract extension took a little longer than expected, but I had no other choice but wait." — James Harden on the impact of limited pickup games during contract negotiations** [03:40](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
+**7. James Harden — "The contract extension took a little longer than expected, but I had no other choice but wait." — James Harden on the impact of limited pickup games during contract negotiations** [03:40](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
 
 James Harden: "The contract extension took a little longer than expected, but I had no other choice but to wait. That was a huge part of it, but I'm happy we got it done and then after that I started to ramp up. All in all, the first 15, 17 games we've been in, things haven't been going the best for me personally, but I think it's bigger than me and I think it's about our team and getting guys back healthy is important."
 
@@ -60,7 +70,19 @@ From: [Cavs vs Pacers \| James Harden Media Availability \| 11.20.2026](https://
 
 <small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=220&q=4) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=220&q=4&slack=1)</small>
 
-**7. Bonta Hill — "I don't respect Luka." — Yaxel Lendeborg's frustration after Warriors' loss to Mavericks** [00:00](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=0s)
+**8. Mario Hezonja — "The first one was when we were guarding him in Madison Square Garden." — Mario Hezonja on witnessing James Harden's historic performance** [10:06](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s)
+
+**Unidentified reporter:** "My second one."
+
+**Mario Hezonja:** "The first one was when we were guarding him in Madison Square Garden. Thank you for asking. When he had the 60 triple-double, so now it's on the positive side because we won. Just impressive, you know. I kind of stand up and just observe what is it like. You just kind of get out of yourself and out of your own mindset and out of your own persona just to visualize greatness like this. It was awesome. Also, I'm telling him it's on a creation heritage night, so he doesn't want to hear about it, I don't know."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s)
+
+From: [Cavs vs Pacers \| Donovan Mitchell & Mario Hezonja Post Game \| 11.20.2026](https://www.youtube.com/watch?v=LmSl7bpJPvA) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=606&q=10) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=606&q=10&slack=1)</small>
+
+**9. Bonta Hill — "I don't respect Luka." — Yaxel Lendeborg's frustration after Warriors' loss to Mavericks** [00:00](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=0s)
 
 Bonta Hill: "When he was talking after the first game against **Luka**, he was like, 'I don't respect **Luka**.' And I'm thinking to myself, man, they just got beat by three. Like, what? He's a fun-loving kid and I love the fact that he's authentic. But this trip was really baffling to me when it came to the rookie. And this is where I know the Warriors are like, man, we know we got to rein this guy in."
 
@@ -68,7 +90,7 @@ Bonta Hill: "When he was talking after the first game against **Luka**, he was l
 
 From: [Is Warriors rookie Yaxel Lendeborg reaching breaking point? \| NBC Sports Bay Area](https://www.youtube.com/watch?v=mQIJ-_Gjd18) · *Golden State Warriors*
 
-**8. Nikola Vucevic — "for me this is a huge adjustment" — Nikola Vucevic on adjusting to his new role** [08:53](https://www.youtube.com/watch?v=z-Su97mVflE&t=533s)
+**10. Nikola Vucevic — "for me this is a huge adjustment" — Nikola Vucevic on adjusting to his new role** [08:53](https://www.youtube.com/watch?v=z-Su97mVflE&t=533s)
 
 Nikola Vucevic: "For me this is a huge adjustment. Just a few months ago I was playing 30 minutes a game, starting, being one of the main options on a team and now coming to a very, very, very different role. So far, haven't really had established role minutes. Kind of trying to figure it all out. So it's hard sometimes to find a rhythm that way and especially for me because I'm kind of a rhythm player. I play off my feel for the game and everything and so it's a big adjustment."
 
@@ -78,7 +100,17 @@ From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ 
 
 <small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=533&q=10) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=533&q=10&slack=1)</small>
 
-**9. Shai Gilgeous-Alexander — "He's a really good basketball player. You don't have the journey he's had unless you know how" — Shai Gilgeous-Alexander on Cason Wallace's development and aggressive play** [00:40](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
+**11. Kenny Atkinson — "That's why we love the NBA, nights like that are so special." — Kenny Atkinson on James Harden's historic 50-point performance** [00:06](https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s)
+
+Kenny Atkinson: "That's why you're in the NBA. All of us, that's why we love the NBA, nights like that are so special. He passes **Kobe Bryant** for most 50-point games, third all-time most 50-point games. That's pretty special. The crowd was great, the crowd appreciated that performance. It wasn't like we needed that game, it wasn't like we were 10 games above 500 and everything's peachy. It was a clutch performance, something we needed tonight."
+
+[https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s](https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s)
+
+From: [Cavs vs Pacers \| Kenny Atkinson Post Game \| 11.20.2026](https://www.youtube.com/watch?v=TZ_eWKfKntA) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=TZ_eWKfKntA&t=6&q=1) · [Send to Slack](presserclips://clip?v=TZ_eWKfKntA&t=6&q=1&slack=1)</small>
+
+**12. Shai Gilgeous-Alexander — "He's a really good basketball player. You don't have the journey he's had unless you know how" — Shai Gilgeous-Alexander on Cason Wallace's development and aggressive play** [00:40](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
 
 Shai Gilgeous-Alexander: "Cason is a really good basketball player. You don't have the journey he's had unless you know how to play basketball at a high level. Despite the size and the athleticism and the conference and the stage he's on, he's just been able to rise because he knows how to play the game. He knows his strengths and he stays within those. I think more than anything for him it's just a learning curve. He's been on the ball a lot in his career and obviously with myself and **AJ** and the guys of the caliber on this team, he's had to find his spots off the ball. I think that's more so what it is than anything. But he's doing a really good job of just figuring out on the fly and we're a better team on both ends of the floor when he's aggressive offensively."
 
@@ -88,7 +120,7 @@ From: [SGA on Team's Performance Versus Pelicans \| Postgame Media \| November 2
 
 <small>[Clip it](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1) · [Send to Slack](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1&slack=1)</small>
 
-**10. Franz Wagner — "it was very weird seeing him over there" — Franz Wagner on the experience of playing against his brother** [04:03](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
+**13. Franz Wagner — "it was very weird seeing him over there" — Franz Wagner on the experience of playing against his brother** [04:03](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
 
 Franz Wagner: "It was both. It was very weird seeing him over there. Playing five years together, you get super used to that. It kind of set in, kind of realized today that he's on a different team. It was weird but it was also fun. I think he's in a good spot. I think he really likes it here, so happy for him."
 
@@ -97,16 +129,6 @@ Franz Wagner: "It was both. It was very weird seeing him over there. Playing fiv
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ WAGNER, & NIKOLA VUCEVIC](https://www.youtube.com/watch?v=z-Su97mVflE) · *Orlando Magic*
 
 <small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=243&q=6) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=243&q=6&slack=1)</small>
-
-**11. Dyson Daniels — "everyone just stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace." — Dyson Daniels on team adjustments without Trae Young and Dejounte Murray** [00:09](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s)
-
-Dyson Daniels: "Everyone stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace. Everyone is getting touches. We have guys that can play with the ball, guys that can play off the ball, so I think everyone just filled those voids. **Rayjon Tucker** has been really good coming in as well, playing some good minutes for us. **Kobe Bufkin** is coming in as well, playing some really good minutes. Everyone has stepped up, it's been good."
-
-[https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s)
-
-From: [Hawks vs. Hornets Postgame Press Conference: Dyson Daniels](https://www.youtube.com/watch?v=DS4hICFyTQ8) · *Atlanta Hawks*
-
-<small>[Clip it](presserclips://clip?v=DS4hICFyTQ8&t=9&q=1) · [Send to Slack](presserclips://clip?v=DS4hICFyTQ8&t=9&q=1&slack=1)</small>
 
 ---
 
@@ -227,6 +249,102 @@ Jalen Johnson: "Obviously, we want that money, so it's as simple as that. Obviou
 [https://www.youtube.com/watch?v=4ZdZTE-2_lE&t=372s](https://www.youtube.com/watch?v=4ZdZTE-2_lE&t=372s)
 
 <small>[Clip it](presserclips://clip?v=4ZdZTE-2_lE&t=372&q=9) · [Send to Slack](presserclips://clip?v=4ZdZTE-2_lE&t=372&q=9&slack=1)</small>
+
+---
+
+## Will Hardy talks Jaxson Hayes, areas of improvement — *Utah Jazz*
+
+Source: [https://www.youtube.com/watch?v=7L-ub8JxPnY](https://www.youtube.com/watch?v=7L-ub8JxPnY)
+
+_Speakers identified: Will Hardy_
+
+**1. Will Hardy — "some nights when the shooting for us is this poor, it's easy to point at that" — Will Hardy on Utah's shooting struggles and physical play** [00:00](https://www.youtube.com/watch?v=7L-ub8JxPnY&t=0s)
+
+Will Hardy: "It's a tough game. Obviously, a night where we couldn't really make a shot from it felt like anywhere. Makes the game hard. I thought first half got a lot of good looks. Thought the second half their physicality bothered us some. There's a lot to clean up, but some nights when the shooting for us is this poor, it's easy to point at that and say, oh, that's why we lost, you know, we missed a bunch of free throws and open threes. You know, our responsibility is to always know the difference between, hey, these parts we can't control, like the guys try to make every shot, there's no reason to sit there and yell, hey, make one, that's not impactful at all. But there are definitely things that are within our control, in particular tonight I thought it was our transition defense and our rebounding."
+
+[https://www.youtube.com/watch?v=7L-ub8JxPnY&t=0s](https://www.youtube.com/watch?v=7L-ub8JxPnY&t=0s)
+
+<small>[Clip it](presserclips://clip?v=7L-ub8JxPnY&t=0&q=1) · [Send to Slack](presserclips://clip?v=7L-ub8JxPnY&t=0&q=1&slack=1)</small>
+
+**2. Will Hardy — "Jax, his energy, rebounding, his threat as a roller, I thought the team did a good job" — Will Hardy praises Jaxson Hayes' recent performance and energy** [01:04](https://www.youtube.com/watch?v=7L-ub8JxPnY&t=64s)
+
+Will Hardy: "Yeah, he's been great. I think Jax, his energy, rebounding, his threat as a roller, I thought the team did a good job finding him in the pocket tonight. Plays around the basket on both sides. I think his lob threat has been big for our offense, and then defensively I think he gives us a good presence."
+
+[https://www.youtube.com/watch?v=7L-ub8JxPnY&t=64s](https://www.youtube.com/watch?v=7L-ub8JxPnY&t=64s)
+
+<small>[Clip it](presserclips://clip?v=7L-ub8JxPnY&t=64&q=2) · [Send to Slack](presserclips://clip?v=7L-ub8JxPnY&t=64&q=2&slack=1)</small>
+
+**3. Will Hardy — "it's everyone's responsibility to continue to try to make quick decisions" — Will Hardy on the importance of quick decision-making** [01:28](https://www.youtube.com/watch?v=7L-ub8JxPnY&t=88s)
+
+Will Hardy: "Yeah, I thought there were plenty of possessions where the ball was sticky. It's everyone's responsibility to continue to try to make quick decisions."
+
+[https://www.youtube.com/watch?v=7L-ub8JxPnY&t=88s](https://www.youtube.com/watch?v=7L-ub8JxPnY&t=88s)
+
+<small>[Clip it](presserclips://clip?v=7L-ub8JxPnY&t=88&q=3) · [Send to Slack](presserclips://clip?v=7L-ub8JxPnY&t=88&q=3&slack=1)</small>
+
+**4. Will Hardy — "I thought our transition defense and our rebounding is an area that we can improve" — Will Hardy identifies transition defense and rebounding as key areas for improvement** [01:48](https://www.youtube.com/watch?v=7L-ub8JxPnY&t=108s)
+
+Will Hardy: "I thought our transition defense and our rebounding is an area that we can improve. I do recognize that transition defense when you miss that many shots, there's a lot more opportunities for it. But I thought blocking out defensively is an area where tonight it got away from us a little bit. Offensively, I think we can continue to make quick decisions, trust the pass, trust the spacing."
+
+[https://www.youtube.com/watch?v=7L-ub8JxPnY&t=108s](https://www.youtube.com/watch?v=7L-ub8JxPnY&t=108s)
+
+<small>[Clip it](presserclips://clip?v=7L-ub8JxPnY&t=108&q=4) · [Send to Slack](presserclips://clip?v=7L-ub8JxPnY&t=108&q=4&slack=1)</small>
+
+---
+
+## Darko Rajakovic | Post Game at Detroit Pistons | November 21, 2026 — *Toronto Raptors*
+
+Source: [https://www.youtube.com/watch?v=AaO4zKWyPuQ](https://www.youtube.com/watch?v=AaO4zKWyPuQ)
+
+_Speakers identified: Darko Rajakovic_
+
+**1. Darko Rajakovic — "That's what Scottie does and that's what he is, you know, by his so special" — Scottie Barnes' impressive energy and impact on the floor** [00:41](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=41s)
+
+Darko Rajakovic: "That's what Scottie does and that's what he is, you know, by his so special because he plays 37 minutes and he does it on both ends of the floor. And he's just trying to find ways how to win and he was super happy for his teammates to get this win, you know, and especially for for Allen Grace. What a what a state for a rookie to be 20 points and 10 rebounds, four offensive. He did a really good job, three steals as well, so he had a great game today, great performance."
+
+[https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=41s](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=41s)
+
+<small>[Clip it](presserclips://clip?v=AaO4zKWyPuQ&t=41&q=1) · [Send to Slack](presserclips://clip?v=AaO4zKWyPuQ&t=41&q=1&slack=1)</small>
+
+**2. Darko Rajakovic — "He's been doing great job in college with that" — Scottie Barnes' development as a playmaker and defender** [01:25](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=85s)
+
+Darko Rajakovic: "Every day, he's been doing great job in college with that. This past year in college, he was leading the the whole college with with deflections and steals and how aggressive he is on on the ball and that's something that he brought over here. So now it's time for him to, through NBA games, to learn what is a foul, what is not a foul, you know, just to be smarter with with all of that."
+
+[https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=85s](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=85s)
+
+<small>[Clip it](presserclips://clip?v=AaO4zKWyPuQ&t=85&q=2) · [Send to Slack](presserclips://clip?v=AaO4zKWyPuQ&t=85&q=2&slack=1)</small>
+
+**3. Darko Rajakovic — "Scotty is 1.30 PPP when he's attacking and driving the ball and finishing" — Scottie Barnes' advanced statistics on attacking and passing** [02:01](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=121s)
+
+Darko Rajakovic: "Scotty is 1.30 PPP when he's attacking and driving the ball and finishing, and he's 1.42 PPP when he's actually passing the ball to his teammates in transition on 63 possessions this year."
+
+[https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=121s](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=121s)
+
+<small>[Clip it](presserclips://clip?v=AaO4zKWyPuQ&t=121&q=3) · [Send to Slack](presserclips://clip?v=AaO4zKWyPuQ&t=121&q=3&slack=1)</small>
+
+**4. Darko Rajakovic — "Because 30 plus that's our goal every every game" — The team's goal of achieving 30+ assists per game** [02:24](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=144s)
+
+Darko Rajakovic: "Because 30 plus that's our goal every every game."
+
+[https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=144s](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=144s)
+
+<small>[Clip it](presserclips://clip?v=AaO4zKWyPuQ&t=144&q=4) · [Send to Slack](presserclips://clip?v=AaO4zKWyPuQ&t=144&q=4&slack=1)</small>
+
+**5. Darko Rajakovic — "I thought that we were very intentionally with what we're doing in in a half court" — Evaluation of the team's intentional half-court offensive execution** [02:33](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=153s)
+
+Darko Rajakovic: "I thought that we were very intentionally with what we're doing in in a half court and trying to attack certain match ups in different ways. I think that guys did really good job of of, you know, executing all of that. I I prefer that we had couple more a couple less turnovers overall, but I think that we did outstanding job there of attacking and getting in offense what we wanted to do."
+
+[https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=153s](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=153s)
+
+<small>[Clip it](presserclips://clip?v=AaO4zKWyPuQ&t=153&q=5) · [Send to Slack](presserclips://clip?v=AaO4zKWyPuQ&t=153&q=5&slack=1)</small>
+
+**6. Darko Rajakovic — "Because he's he's relentless, you know, he's always looking for the opportunity" — Scottie Barnes' relentless rebounding ability** [03:04](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=184s)
+
+Darko Rajakovic: "Because he's he's relentless, you know, he's always looking for the opportunity, his crash numbers are really, really high and he's pretty much going every time after after it."
+
+[https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=184s](https://www.youtube.com/watch?v=AaO4zKWyPuQ&t=184s)
+
+<small>[Clip it](presserclips://clip?v=AaO4zKWyPuQ&t=184&q=6) · [Send to Slack](presserclips://clip?v=AaO4zKWyPuQ&t=184&q=6&slack=1)</small>
 
 ---
 
@@ -409,6 +527,120 @@ Aday Mara: "I know that I can be much better and do inside my role, I can do thi
 [https://www.youtube.com/watch?v=KsVHScfz3wQ&t=196s](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=196s)
 
 <small>[Clip it](presserclips://clip?v=KsVHScfz3wQ&t=196&q=5) · [Send to Slack](presserclips://clip?v=KsVHScfz3wQ&t=196&q=5&slack=1)</small>
+
+---
+
+## Cavs vs Pacers | Donovan Mitchell & Mario Hezonja Post Game | 11.20.2026 — *Cleveland Cavaliers*
+
+Source: [https://www.youtube.com/watch?v=LmSl7bpJPvA](https://www.youtube.com/watch?v=LmSl7bpJPvA)
+
+_Speakers identified: Donovan Mitchell, Mario Hezonja_
+
+**1. Donovan Mitchell — "seeing him be able to score at any level is something that puts it in perspective" — Donovan Mitchell on James Harden's scoring consistency and longevity** [00:07](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=7s)
+
+Donovan Mitchell: "It's about time. I've seen it against us in the playoffs, in the regular season, and from afar. Seeing him be able to score at any level is something that puts it in perspective what he's done in his career. I'm glad he had a night like this tonight because I felt a lot of people were getting on him a little bit. I think that's one way to answer it. Do we expect it every night? No. But if he does it, great. The biggest thing is to see him in that form, aggressive. You're looking at one of the greatest players of all time, and that's definitely good to see."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=7s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=7s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=7&q=1) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=7&q=1&slack=1)</small>
+
+**2. Donovan Mitchell — "Sometimes you need to go back and watch your own highlights" — Donovan Mitchell on the importance of self-reflection for elite players** [01:08](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=68s)
+
+Donovan Mitchell: "Sometimes you need to remind yourself. I think I can speak for every hooper, especially when you're at that level, sometimes you need that. Sometimes you need to go back and watch your own highlights. I'm not ashamed to say I've done it. Sometimes you need to just remind yourself, and just because you're in such rare air, doesn't mean you're not human. For him to tell you guys that, I'm glad he said that because that shows the human side that we all see of him."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=68s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=68s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=68&q=2) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=68&q=2&slack=1)</small>
+
+**3. Donovan Mitchell — "When you're this consistent, when KD is that consistent, Bron, Steph, Russ, Klay, there's so many guys" — Donovan Mitchell on the historic consistency of NBA stars** [02:14](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=134s)
+
+Donovan Mitchell: "To be able to see it up close every day, that was one of my biggest things when he came here. Being able to see a guy that you look at, you see what he's accomplished, you've competed against it, to see there's no mistake, there's no, it's not like he just shows up and does this. The work, you see it after shooter on every day. He's consistent. When you're this consistent, when KD is that consistent, Bron, Steph, Russ, Klay, there's so many guys, consistency that you see, and this is part of that."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=134s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=134s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=134&q=3) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=134&q=3&slack=1)</small>
+
+**4. Donovan Mitchell — "I was very happy that we lose the lead and kept the lead" — Donovan Mitchell on the team's resilience in close games** [03:05](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=185s)
+
+Donovan Mitchell: "I told guys in the locker room, I was very happy that we lose the lead and kept the lead. That was a lesson in that. It was like, okay, we got a little isolation stagnant, he missed a few, we got back, they scored, and then it was like, all right, we move the ball, boom, got a steal, got into an action, got a swing-swing to the top of the key, got to the free-throw line. We messed up on an inbound, but we ended up getting the stop. There's so many things that his scoring and his leadership brings to us."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=185s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=185s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=185&q=4) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=185&q=4&slack=1)</small>
+
+**5. Donovan Mitchell — "We won't appreciate greatness. We didn't appreciate Russ in his latter years until now" — Donovan Mitchell on the lack of appreciation for greatness** [05:04](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=304s)
+
+Donovan Mitchell: "We won't. He won't until it's all over with. It's just, I hate it. It's just, but that's just the world we live in. It's just we won't appreciate greatness. We didn't appreciate Russ in his latter years until now, it's like, oh man, Russ was this and that. We forgot he averaged 28, 15, and 16 for a month. It's one of those things where we live in such a negative space. I hate it. At the end of the day, he doesn't care. It sucks that that's that way, but that's just the world is."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=304s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=304s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=304&q=5) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=304&q=5&slack=1)</small>
+
+**6. Donovan Mitchell — "It takes for him to have 51 today for us to be like, whoa" — Donovan Mitchell on James Harden's place in NBA history** [06:03](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=363s)
+
+Donovan Mitchell: "It takes for him to have 51 today for us to be like, whoa. Right? It should, like what happened to just appreciating the way it's been? I hate that it takes a monumental performance for us to be like, oh yeah, he's pretty good. Credit to him. He's worked his butt off. I've been around it my whole career, and it's just a level of consistency that we all respect and appreciate in this locker room."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=363s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=363s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=363&q=6) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=363&q=6&slack=1)</small>
+
+**7. Donovan Mitchell — "I just show up, I workout, you're not really practicing, you're really just in that mode" — Donovan Mitchell on James Harden's work ethic and routine** [06:57](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=417s)
+
+Donovan Mitchell: "The one that jumps out to my brain is the months that he had. Not just 50, but the months. I asked him about that a bunch of times, having been a part of that month. I asked, what is your routine? He's like, I just show up, I workout, you're not really practicing, you're really just in that mode and in that rhythm. And even tonight, once he had about 24, 25, I knew it was 40. I didn't know if it was 50, but I knew it was 40 just because when you have a night like that, you have to capture it."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=417s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=417s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=417&q=7) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=417&q=7&slack=1)</small>
+
+**8. Donovan Mitchell — "You're playing 2K, you're just going, even though we were making mistakes, just find a way" — Donovan Mitchell on maintaining a winning mindset in close games** [08:10](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=490s)
+
+Donovan Mitchell: "I was pissed at P-Wat for trying to monkey dunk the ball at the end of the game, but I think the biggest thing is like, I know how they were playing so hard. We all understand what's at stake, and even though they were scoring, it's like, all right, let's score back. It's kind of like you're playing 2K, you're just going, even though we were making mistakes, just find a way to keep going, find a way to keep scoring fast. And that's ultimately why I came back in the game, otherwise I wouldn't have."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=490s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=490s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=490&q=8) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=490&q=8&slack=1)</small>
+
+**9. Donovan Mitchell — "He invented a move, he does it with swagger, he's efficient" — Donovan Mitchell on James Harden's evolution as a player** [09:01](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=541s)
+
+Donovan Mitchell: "He invented a move, he does it with swagger, he's efficient. We would be talking him about him way differently if he didn't run into that team four years in a row. That's unfortunate, but it is what it is. But it's just the level of scoring and how he does it, the efficiency, the longevity. It's an efficient 19 points, you know what I mean, on isos. Show up to the park and hoop. That's basketball at its finest."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=541s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=541s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=541&q=9) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=541&q=9&slack=1)</small>
+
+**10. Mario Hezonja — "The first one was when we were guarding him in Madison Square Garden." — Mario Hezonja on witnessing James Harden's historic performance** [10:06](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s)
+
+**Unidentified reporter:** "My second one."
+
+**Mario Hezonja:** "The first one was when we were guarding him in Madison Square Garden. Thank you for asking. When he had the 60 triple-double, so now it's on the positive side because we won. Just impressive, you know. I kind of stand up and just observe what is it like. You just kind of get out of yourself and out of your own mindset and out of your own persona just to visualize greatness like this. It was awesome. Also, I'm telling him it's on a creation heritage night, so he doesn't want to hear about it, I don't know."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=606s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=606&q=10) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=606&q=10&slack=1)</small>
+
+**11. Mario Hezonja — "Individual accomplishments in this league, people value that, you know, because it's extremely hard to do" — Mario Hezonja on the value of individual talent in the NBA** [11:33](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=693s)
+
+Mario Hezonja: "This is history, you know. These individual accomplishments in this league, people value that, you know, because it's extremely hard to do. I come from a culture that doesn't look at that and I kind of get mad at that, you know, because hey, you have to cherish individual talent as well because individual talent gets you to the top. I'm so happy to be here to see these things again and see them live. It's like the essence of basketball, you know. At the end of the day, we can speak about so many things and tactic and details and this, you got to get that orange ball and put that in a basket."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=693s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=693s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=693&q=11) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=693&q=11&slack=1)</small>
+
+**12. Mario Hezonja — "It's not easy, having a brand new player that just got back after six years" — Mario Hezonja on the organization's effort to integrate new players** [12:29](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=749s)
+
+Mario Hezonja: "Big congratulations and big thank you to my team organization. The whole organization to get this done. It's not easy, having a brand new player that just got back after six years of creation and then to organize something like this is huge. I was also shocked by the number of how many people showed up. I know for sure some of the people couldn't make it, which I'm sad about it, so I want everybody to be together for these type of nights to be here."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=749s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=749s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=749&q=12) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=749&q=12&slack=1)</small>
+
+**13. Mario Hezonja — "My NBA career is in their hands, so I'm trying to help the best way I can" — Mario Hezonja on his commitment to the team and his career** [13:30](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=810s)
+
+Mario Hezonja: "It means a lot if they're happy, if they have somebody that is fighting for them on the court. We are from a very small country, so I'm super proud that I have that much support from a community like this. And then for a contract, thank you, Kobe, thank you to the organization, and thank you to my teammates. They've been the ones that trust me. Thanks, Kenny, and the coaching staff. They've been huge. My NBA career is in their hands, so I'm trying to help the best way I can."
+
+[https://www.youtube.com/watch?v=LmSl7bpJPvA&t=810s](https://www.youtube.com/watch?v=LmSl7bpJPvA&t=810s)
+
+<small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=810&q=13) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=810&q=13&slack=1)</small>
 
 ---
 
