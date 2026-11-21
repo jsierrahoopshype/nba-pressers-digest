@@ -4,38 +4,44 @@ Source: [https://www.youtube.com/watch?v=cfFfqOgA6Fo](https://www.youtube.com/wa
 
 _Speakers identified: JJ Redick, Walker Kessler, Luka Doncic, Quentin Grimes_
 
-**1. JJ Redick — "the number one priority for us was to resign AR and put complimentary players around Luka and AR" — JJ Redick on the priority of building around Luka Doncic and AR** [02:46](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s)
+**1. JJ Redick — "the number one priority for us was to re-sign D'Angelo Russell and put complimentary players around Luka Doncic" — JJ Redick on the importance of re-signing D'Angelo Russell** [02:46](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s)
 
-JJ Redick: "When we put this team together, the number one priority for us was to resign **AR** and put complimentary players around Luka and **AR**. We basically have played three quarters of a game in the last seven games. We played three quarters of a game with the two of them both available and we've gone six and one. It is a credit to the group sticking with it. Basketball is a game of mistakes. We played through some mistakes tonight, just like we did the other night against Charlotte."
+JJ Redick: "When we put this team together, the number one priority for us was to re-sign **D'Angelo Russell** and put complimentary players around **Luka Doncic**. We basically have played three quarters of a game in the last seven games with the two of them both available and we've gone six and one. It's a credit to the group sticking with it. Basketball is a game of mistakes. We played through some mistakes tonight just like we did the other night against Charlotte."
 
 [https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s)
 
-**2. JJ Redick — "it builds trust with the staff, it builds trust with his teammates, most importantly it builds trust" — JJ Redick on how star performances build team trust** [04:06](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s)
+**2. JJ Redick — "It builds trust with the staff, it builds trust with his teammates, most importantly it builds trust" — JJ Redick on how Luka Doncic's performance builds team trust** [04:06](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s)
 
-JJ Redick: "It builds trust with the staff, it builds trust with his teammates, most importantly it builds trust with our star players. That is the biggest thing. For him, the reference point thing is a simple thing I always go back to. I played and I was part of six teams in 15 years and anytime you go to a new team, you can have reference points in your career, but you need reference points with that group and with those teammates and those coaches. It gives you not only a sense of confidence, but I really believe it gives you a sense of belonging."
+JJ Redick: "It builds trust with the staff, it builds trust with his teammates, most importantly it builds trust with our star players. That's the biggest thing. For him, the reference point thing is a simple thing I always go back to. I played and was part of six teams in 15 years and anytime you go to a new team, you can have reference points in your career, but you need reference points with that group and with those teammates and those coaches, and it gives you not only a sense of confidence, but I really believe it gives you like a sense of belonging."
 
 [https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s)
 
-**3. Walker Kessler — "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain" — Walker Kessler on the challenges of playing as a Laker** [11:51](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s)
+**3. JJ Redick — "when you're not playing well, it feels like your good game is so far away" — JJ Redick on using a Rory McIlroy quote to motivate players** [07:18](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=438s)
 
-Walker Kessler: "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain kind of performance. It's not so much making shots, but just playing with effort and energy and I can completely respect that. I think that Lakers fans are the best in the world. Obviously they're some of the most numerous, but yeah, even coming off the bench or coming out of the game last game, hearing the fans, it wasn't deconstructive. It was just like, come on, you got to play harder and they were absolutely right."
+JJ Redick: "I actually used the **Rory McIlroy** quote before the game with those guys. The Rory quote is basically, when you're not playing well, it feels like your good game is so far away and then once you start playing well, you realize it was never that far away to begin with. I love that quote."
 
-[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s)
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=438s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=438s)
 
-**4. Luka Doncic — "we have to work on approaching the game better way" — Luka Doncic on the team's lack of focus and intensity** [18:44](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1124s)
+**4. Walker Kessler — "it's not so much making shots, but just playing with effort and energy" — Walker Kessler on the Lakers fans' expectations and team effort** [12:33](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=753s)
 
-Luka Doncic: "We have to work on approaching the game better way. We got to work on approaching the game better way. We should have got the last win but we didn't but we got two wins so we got to work on approaching the game better way."
+Walker Kessler: "I understand that the LA fans expect a certain kind of performance and I think it's not so much making shots, but just playing with effort and energy and I can completely respect that. I think that Lakers fans are the best in the world. Obviously, they're some of the most numerous, but yeah, even coming off the bench or coming out of the game last game, hearing the fans, it wasn't deconstructive. It was just like, come on, you got to play harder and they were absolutely right."
 
-[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1124s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1124s)
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=753s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=753s)
 
-**5. Quentin Grimes — "every shot's either been wide open and we're making the right play for each other" — Quentin Grimes on the team's ball movement and shot quality** [20:41](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1241s)
+**5. Luka Doncic — "it's just next man up mentality. I think some players play more minutes with AR out" — Luka Doncic on the team's next-man-up mentality** [19:25](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1165s)
 
-Quentin Grimes: "It's a different win if people aren't making the right reads, but I feel like every shot's either been wide open and we're making the right play for each other. So as long as you keep playing good basketball, Lakers basketball, I feel like those shots will be knocked down when we really need them for sure."
+Luka Doncic: "It's just next man up mentality. I think some players play more minutes with AR out, so everybody's prepared, is ready and everybody showed that they can play in this team."
 
-[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1241s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1241s)
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1165s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1165s)
 
-**6. Quentin Grimes — "as a rookie you got to go out there and kind of earn minutes" — Quentin Grimes on Cameron Carr earning his rotation minutes** [22:04](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1324s)
+**6. Quentin Grimes — "we're extremely deep as a team. I feel like we're either if Luka is out or AR is out" — Quentin Grimes on the team's depth and collective effort** [20:27](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1227s)
 
-Quentin Grimes: "As a rookie you got to go out there and kind of earn minutes and everybody kind of has to do that at one point sometime in their career and then he got thrown in there. He hit a big three, hit a tough layup and had a couple good closeouts and defense stops. So that's kind of the things that earn trust from a coach and where they throw you out there even more later on in the season for sure."
+Quentin Grimes: "We're extremely deep as a team. I feel like we're either if Luka is out or AR is out people know what we're going to do collectively as a team, do it by committee and I feel every game where one of them has been out everybody has stepped up and just contributed in either offensive ways or defensive ways as well."
 
-[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1324s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1324s)
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1227s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1227s)
+
+**7. Quentin Grimes — "he's a one of one player for a reason. They're going to blitz him" — Quentin Grimes on Luka Doncic's ability to make the right read** [22:35](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1355s)
+
+Quentin Grimes: "He's a one of one player for a reason. They're going to blitz him, they're going to try to triple team him when they might affect they affect like they're going to blitz him and stuff like that and he's still probably always going to make the right read nine times out of ten. So we just got to be able to give him outlets, find an open window for him so he can either make a play for himself or he will always make a play for us for sure."
+
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1355s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1355s)

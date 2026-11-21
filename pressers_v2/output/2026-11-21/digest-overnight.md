@@ -102,6 +102,16 @@ From: [Cavs vs Pacers \| Donovan Mitchell & Mario Hezonja Post Game \| 11.20.202
 
 <small>[Clip it](presserclips://clip?v=LmSl7bpJPvA&t=606&q=10) · [Send to Slack](presserclips://clip?v=LmSl7bpJPvA&t=606&q=10&slack=1)</small>
 
+**10. Nikola Jokic — "there's beauty in struggling and I love struggling" — Nikola Jokic on the value of struggling and growth** [20:41](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
+
+Nikola Jokic: "I like to say the struggle is there's beauty in struggling and I love struggling and that makes you better, makes you think how to how to prepare, what to do something different. It's really nice when you struggle."
+
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
+
+From: [Full Denver Nuggets Postgame Media Availability vs. HOU 🎙](https://www.youtube.com/watch?v=UEXCCY-i5HI) · *Denver Nuggets*
+
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=6) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=6&slack=1)</small>
+
 **11. Bonta Hill — "I don't respect Luka." — Yaxel Lendeborg's frustration after Warriors' loss to Mavericks** [00:00](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=0s)
 
 Bonta Hill: "When he was talking after the first game against **Luka**, he was like, 'I don't respect **Luka**.' And I'm thinking to myself, man, they just got beat by three. Like, what? He's a fun-loving kid and I love the fact that he's authentic. But this trip was really baffling to me when it came to the rookie. And this is where I know the Warriors are like, man, we know we got to rein this guy in."
@@ -140,15 +150,7 @@ From: [SGA on Team's Performance Versus Pelicans \| Postgame Media \| November 2
 
 <small>[Clip it](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1) · [Send to Slack](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1&slack=1)</small>
 
-**15. Walker Kessler — "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain" — Walker Kessler on the challenges of playing as a Laker** [11:51](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s)
-
-Walker Kessler: "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain kind of performance. It's not so much making shots, but just playing with effort and energy and I can completely respect that. I think that Lakers fans are the best in the world. Obviously they're some of the most numerous, but yeah, even coming off the bench or coming out of the game last game, hearing the fans, it wasn't deconstructive. It was just like, come on, you got to play harder and they were absolutely right."
-
-[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s)
-
-From: [🏆Lakers vs Kings \| Postgame Interviews x Highlights: November 20, 2026](https://www.youtube.com/watch?v=cfFfqOgA6Fo) · *Los Angeles Lakers*
-
-**16. Franz Wagner — "it was very weird seeing him over there" — Franz Wagner on the experience of playing against his brother** [04:03](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
+**15. Franz Wagner — "it was very weird seeing him over there" — Franz Wagner on the experience of playing against his brother** [04:03](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
 
 Franz Wagner: "It was both. It was very weird seeing him over there. Playing five years together, you get super used to that. It kind of set in, kind of realized today that he's on a different team. It was weird but it was also fun. I think he's in a good spot. I think he really likes it here, so happy for him."
 
@@ -157,6 +159,18 @@ Franz Wagner: "It was both. It was very weird seeing him over there. Playing fiv
 From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ WAGNER, & NIKOLA VUCEVIC](https://www.youtube.com/watch?v=z-Su97mVflE) · *Orlando Magic*
 
 <small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=243&q=6) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=243&q=6&slack=1)</small>
+
+**16. Josh Okogie — "Miles been a dog. He been great ever since we got him." — Josh Okogie on Miles Bridges' impact on the team** [00:40](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s)
+
+**Unidentified reporter:** "Goody, what'd you think of his performance tonight?"
+
+**Josh Okogie:** "Miles been a dog. He been great ever since we got him. Love him on and off the court, great dude."
+
+[https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s](https://www.youtube.com/watch?v=9lzGHyc7ZaA&t=40s)
+
+From: [Miles Bridges Postgame On-Court Interview after Suns win against Utah Jazz \| 11-20-26](https://www.youtube.com/watch?v=9lzGHyc7ZaA) · *Phoenix Suns*
+
+<small>[Clip it](presserclips://clip?v=9lzGHyc7ZaA&t=40&q=3) · [Send to Slack](presserclips://clip?v=9lzGHyc7ZaA&t=40&q=3&slack=1)</small>
 
 ---
 
@@ -858,85 +872,69 @@ Source: [https://www.youtube.com/watch?v=UEXCCY-i5HI](https://www.youtube.com/wa
 
 _Speakers identified: Coach Adelman, Christian Braun, Nikola Jokic, Aaron Gordon_
 
-**1. Coach Adelman — "if you can give them one shot, you give yourself a chance" — Coach Adelman on Nuggets' focus on second-chance points** [00:00](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=0s)
+**1. Coach Adelman — "if you can give them one shot, you give yourself a chance" — Coach Adelman on team's competitive rebounding and second-chance points** [00:00](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=0s)
 
-Coach Adelman: "I even thought the first half they had four offensive rebounds, but I have to watch the tape. I felt like they weren't competitive rebounds, they were just bad bounces. As a team, I thought we competed on that end like we did in the second half of the Boston game, which is such a key against this team because they are already really good. If you give them extra possessions, it's another Kevin Durant shot, or VanVleet. If you can give them one shot, you give yourself a chance. The guys were very competitive tonight."
+Coach Adelman: "The first half they had four offensive rebounds, but I feel like they weren't competitive rebounds, they were just bad bounces. As a team, I thought we competed on that end, like we did in the second half of the Boston game, which is such a key against this team because they are already really good. If you give them extra possessions, it's another **Kevin Durant** shot, or **Fred VanVleet**. If you can give them one shot, you give yourself a chance. The guys were very competitive tonight."
 
 [https://www.youtube.com/watch?v=UEXCCY-i5HI&t=0s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=0s)
 
 <small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=0&q=1) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=0&q=1&slack=1)</small>
 
-**2. Coach Adelman — "the only way to get out of a shooting slump is to shoot" — Coach Adelman on the team's shooting slump and aggression** [01:00](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=60s)
+**2. Coach Adelman — "the only way to get out of a shooting slump is to shoot" — Coach Adelman on team's aggressive play and shooting slump** [01:06](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=66s)
 
-Coach Adelman: "The season is so long, but this has been its own story this week from the Phoenix game on. I thought guys were tentative the first night, Wednesday a little bit better, and tonight to your point, I thought they were aggressive. They were looking for their own. The only way to get out of a shooting slump is to shoot. It's not go shoot by yourself or with your PD coach, it's out here competitively. Take it on yourself to do the right things and when you're open, let it go."
+Coach Adelman: "The only way to get out of a shooting slump is to shoot. It sounds stupid and simplistic, but it's not go shoot by yourself or with your PD coach, it's out here competitively. Take it on yourself to do the right things and when you're open, let it go. It was cool to see **Christian Braun** make a couple, and **Christian Braun** was three out of five. The really cool thing about those guys is all three guys attacked to play for other people. When you get that out of your two, one, and three, that's 16 assists from those guys. That's a great number, we haven't had that as of late."
 
-[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=60s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=60s)
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=66s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=66s)
 
-<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=60&q=2) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=60&q=2&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=66&q=2) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=66&q=2&slack=1)</small>
 
-**3. Coach Adelman — "he's taking on so many unique matchups" — Coach Adelman on Christian Braun's defensive impact** [02:02](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=122s)
+**3. Coach Adelman — "he's taking on so many unique matchups" — Coach Adelman on Christian Braun's defensive versatility** [02:06](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=126s)
 
-Coach Adelman: "He's taking on so many unique matchups. We finally got to the matchup we wanted at the end with Aaron on **Kevin Durant**, and we can move Christian back to VanVleet. I just didn't want Aaron having to chase **Kevin Durant** for four quarters. That was the ultimate goal. Much like the other night with Tatum, we kind of rotated as we went. Christian was extremely active in the half, I thought he took **Kevin Durant** out of a lot of actions. And then at the end of the game, VanVleet was torching us. Christian was amazing in the last four minutes, navigating pick-and-rolls, getting under, and that's just who he is."
+Coach Adelman: "He's taking on so many unique matchups, and we finally got to the matchup we wanted at the end with Aaron on **Kevin Durant**, and we could move **Christian Braun** back to Fred VanVleet. I just didn't want Aaron having to chase **Kevin Durant** for four quarters. That was the ultimate goal, much like the other night with Jayson Tatum, we kind of rotated as we went. **Christian Braun** was extremely active in the half, I thought he took **Kevin Durant** out of a lot of actions, and then the end of the game, Fred VanVleet was torching us, and **Christian Braun** was amazing in the last four minutes, navigating pick-and-rolls, getting under, and that's just rolling on this team."
 
-[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=122s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=122s)
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=126s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=126s)
 
-<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=122&q=3) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=122&q=3&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=126&q=3) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=126&q=3&slack=1)</small>
 
-**4. Coach Adelman — "it's just good to see a guy that plays that hard see the ball go in too" — Coach Adelman on Christian Braun's defensive activity** [05:16](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=316s)
+**4. Coach Adelman — "he does it in a very responsible way" — Coach Adelman on Christian Braun's responsible defensive gambling** [05:25](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=325s)
 
-Coach Adelman: "I think the health thing is enormous. His burst is there. The steal at the end of the game, that's an athletic play, not just the denial, but the burst to win the ball. He was missing that last year. It's just good to see a guy that plays that hard see the ball go in too. Guys like that deserve it, karma comes around."
+Coach Adelman: "Gambling is a different word. I think he does it in a very responsible way. I think he's attacking the ball when people spin, which I think is a right play in the NBA when guys ISO and over-dribble. I think tonight too, he's gotten into the passing lanes in a correct way. He's not just diving out there getting back-cut. There's different ways to do that. People have been around the NBA, some guys will lead the league in steals, it doesn't mean they're a good defender. Guys will gamble and put their team at risk a lot, but that's not what he's doing. He's staying within the system."
 
-[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=316s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=316s)
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=325s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=325s)
 
-<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=316&q=4) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=316&q=4&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=325&q=4) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=325&q=4&slack=1)</small>
 
-**5. Christian Braun — "when our offense clicks, we just got to give both going at the same time" — Christian Braun on the team's offensive flow** [13:12](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=792s)
+**5. Nikola Jokic — "we have we pass the ball a lot and when you make shots you have a lot of assists" — Nikola Jokic on team's ball movement and efficient shooting** [19:51](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1191s)
 
-Christian Braun: "I thought early our offense was flowing. We just couldn't get our defense into the game. That's kind of who we are. We're going to get to that more often than not. Our defense has kind of carried us a little bit this year, but when our offense clicks, we just got to give both going at the same time. It was a good offensive game and I think it helps when other guys make shots."
-
-[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=792s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=792s)
-
-<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=792&q=5) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=792&q=5&slack=1)</small>
-
-**6. Nikola Jokic — "we have we pass the ball a lot and when you make shots, you have a lot of assists" — Nikola Jokic on team passing and shooting** [19:51](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1191s)
-
-Nikola Jokic: "I think we made the shots when we needed and we made the shots. That's what creates assists and that's how just how we play. I think we have we pass the ball a lot and when you make shots, you have a lot of assists."
+Nikola Jokic: "I think we made the shots when we needed and that's what creates assists and that's how just how we play. I think we have we pass the ball a lot and when you make shots you have a lot of assists."
 
 [https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1191s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1191s)
 
-<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1191&q=6) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1191&q=6&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1191&q=5) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1191&q=5&slack=1)</small>
 
-**7. Nikola Jokic — "there's beauty in struggling and I love struggling" — Nikola Jokic on embracing the struggle** [20:41](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
+**6. Nikola Jokic — "there's beauty in struggling and I love struggling" — Nikola Jokic on the value of struggling and growth** [20:41](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
 
-Nikola Jokic: "I like to say the struggle is there's beauty in struggling and I love struggling, and that makes you better, makes you think how to how to prepare, what to do something different. It's really nice when you struggle."
+Nikola Jokic: "I like to say the struggle is there's beauty in struggling and I love struggling and that makes you better, makes you think how to how to prepare, what to do something different. It's really nice when you struggle."
 
 [https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1241s)
 
-<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=7) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=7&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=6) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1241&q=6&slack=1)</small>
 
-**8. Aaron Gordon — "the team that played best defense was or team that played any defense was going to win" — Aaron Gordon on the team's defensive focus** [24:17](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1457s)
+**7. Aaron Gordon — "we started mixing up matchups and upped our level of urgency" — Aaron Gordon on team's defensive focus and urgency** [24:35](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1475s)
 
-Aaron Gordon: "People are so skilled in this league and I think that was what it was. It was just a display of incredible skill at the NBA level and no defense at all. So the team that played best defense was or team that played any defense was going to win. That's basically what we were stressing in the huddle, was just picking it up on the defensive end."
+Aaron Gordon: "We scrambled a little bit more. We started mixing up matchups and upped our level of urgency and we were a little bit more desperate."
 
-[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1457s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1457s)
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1475s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1475s)
 
-<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1457&q=8) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1457&q=8&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1475&q=7) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1475&q=7&slack=1)</small>
 
-**9. Aaron Gordon — "this was a huge team win for us" — Aaron Gordon on the team's collective effort** [25:05](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1505s)
+**8. Aaron Gordon — "Christian Braun is a hell of a ball player and he's pretty damn complete" — Aaron Gordon on Christian Braun's defensive impact** [25:59](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1559s)
 
-Aaron Gordon: "This was a huge team win for us. Everybody contributed. Big fella led the charge and guys off the bench came in and gave us huge minutes. Everybody played really well. Jamal comes down and ices the game in the fourth quarter, and true Jamal Murray nature. Very good team win for us."
+Aaron Gordon: "**Christian Braun** is a hell of a ball player and he's pretty damn complete and on the defensive end, he's tenacious, smart, and anticipatory."
 
-[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1505s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1505s)
+[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1559s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1559s)
 
-<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1505&q=9) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1505&q=9&slack=1)</small>
-
-**10. Aaron Gordon — "CB is a hell of a ball player and he's pretty damn complete" — Aaron Gordon on Christian Braun's defensive skills** [26:02](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1562s)
-
-Aaron Gordon: "CB is a hell of a ball player and he's pretty damn complete. And on the defensive end, he's tenacious, smart, and anticipatory. Whoa."
-
-[https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1562s](https://www.youtube.com/watch?v=UEXCCY-i5HI&t=1562s)
-
-<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1562&q=10) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1562&q=10&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=UEXCCY-i5HI&t=1559&q=8) · [Send to Slack](presserclips://clip?v=UEXCCY-i5HI&t=1559&q=8&slack=1)</small>
 
 ---
 
@@ -1210,41 +1208,47 @@ Source: [https://www.youtube.com/watch?v=cfFfqOgA6Fo](https://www.youtube.com/wa
 
 _Speakers identified: JJ Redick, Walker Kessler, Luka Doncic, Quentin Grimes_
 
-**1. JJ Redick — "the number one priority for us was to resign AR and put complimentary players around Luka and AR" — JJ Redick on the priority of building around Luka Doncic and AR** [02:46](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s)
+**1. JJ Redick — "the number one priority for us was to re-sign D'Angelo Russell and put complimentary players around Luka Doncic" — JJ Redick on the importance of re-signing D'Angelo Russell** [02:46](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s)
 
-JJ Redick: "When we put this team together, the number one priority for us was to resign **AR** and put complimentary players around Luka and **AR**. We basically have played three quarters of a game in the last seven games. We played three quarters of a game with the two of them both available and we've gone six and one. It is a credit to the group sticking with it. Basketball is a game of mistakes. We played through some mistakes tonight, just like we did the other night against Charlotte."
+JJ Redick: "When we put this team together, the number one priority for us was to re-sign **D'Angelo Russell** and put complimentary players around **Luka Doncic**. We basically have played three quarters of a game in the last seven games with the two of them both available and we've gone six and one. It's a credit to the group sticking with it. Basketball is a game of mistakes. We played through some mistakes tonight just like we did the other night against Charlotte."
 
 [https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=166s)
 
-**2. JJ Redick — "it builds trust with the staff, it builds trust with his teammates, most importantly it builds trust" — JJ Redick on how star performances build team trust** [04:06](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s)
+**2. JJ Redick — "It builds trust with the staff, it builds trust with his teammates, most importantly it builds trust" — JJ Redick on how Luka Doncic's performance builds team trust** [04:06](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s)
 
-JJ Redick: "It builds trust with the staff, it builds trust with his teammates, most importantly it builds trust with our star players. That is the biggest thing. For him, the reference point thing is a simple thing I always go back to. I played and I was part of six teams in 15 years and anytime you go to a new team, you can have reference points in your career, but you need reference points with that group and with those teammates and those coaches. It gives you not only a sense of confidence, but I really believe it gives you a sense of belonging."
+JJ Redick: "It builds trust with the staff, it builds trust with his teammates, most importantly it builds trust with our star players. That's the biggest thing. For him, the reference point thing is a simple thing I always go back to. I played and was part of six teams in 15 years and anytime you go to a new team, you can have reference points in your career, but you need reference points with that group and with those teammates and those coaches, and it gives you not only a sense of confidence, but I really believe it gives you like a sense of belonging."
 
 [https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=246s)
 
-**3. Walker Kessler — "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain" — Walker Kessler on the challenges of playing as a Laker** [11:51](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s)
+**3. JJ Redick — "when you're not playing well, it feels like your good game is so far away" — JJ Redick on using a Rory McIlroy quote to motivate players** [07:18](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=438s)
 
-Walker Kessler: "I don't know if it's the outside pressure, but I understand that the LA fans expect a certain kind of performance. It's not so much making shots, but just playing with effort and energy and I can completely respect that. I think that Lakers fans are the best in the world. Obviously they're some of the most numerous, but yeah, even coming off the bench or coming out of the game last game, hearing the fans, it wasn't deconstructive. It was just like, come on, you got to play harder and they were absolutely right."
+JJ Redick: "I actually used the **Rory McIlroy** quote before the game with those guys. The Rory quote is basically, when you're not playing well, it feels like your good game is so far away and then once you start playing well, you realize it was never that far away to begin with. I love that quote."
 
-[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=711s)
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=438s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=438s)
 
-**4. Luka Doncic — "we have to work on approaching the game better way" — Luka Doncic on the team's lack of focus and intensity** [18:44](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1124s)
+**4. Walker Kessler — "it's not so much making shots, but just playing with effort and energy" — Walker Kessler on the Lakers fans' expectations and team effort** [12:33](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=753s)
 
-Luka Doncic: "We have to work on approaching the game better way. We got to work on approaching the game better way. We should have got the last win but we didn't but we got two wins so we got to work on approaching the game better way."
+Walker Kessler: "I understand that the LA fans expect a certain kind of performance and I think it's not so much making shots, but just playing with effort and energy and I can completely respect that. I think that Lakers fans are the best in the world. Obviously, they're some of the most numerous, but yeah, even coming off the bench or coming out of the game last game, hearing the fans, it wasn't deconstructive. It was just like, come on, you got to play harder and they were absolutely right."
 
-[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1124s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1124s)
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=753s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=753s)
 
-**5. Quentin Grimes — "every shot's either been wide open and we're making the right play for each other" — Quentin Grimes on the team's ball movement and shot quality** [20:41](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1241s)
+**5. Luka Doncic — "it's just next man up mentality. I think some players play more minutes with AR out" — Luka Doncic on the team's next-man-up mentality** [19:25](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1165s)
 
-Quentin Grimes: "It's a different win if people aren't making the right reads, but I feel like every shot's either been wide open and we're making the right play for each other. So as long as you keep playing good basketball, Lakers basketball, I feel like those shots will be knocked down when we really need them for sure."
+Luka Doncic: "It's just next man up mentality. I think some players play more minutes with AR out, so everybody's prepared, is ready and everybody showed that they can play in this team."
 
-[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1241s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1241s)
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1165s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1165s)
 
-**6. Quentin Grimes — "as a rookie you got to go out there and kind of earn minutes" — Quentin Grimes on Cameron Carr earning his rotation minutes** [22:04](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1324s)
+**6. Quentin Grimes — "we're extremely deep as a team. I feel like we're either if Luka is out or AR is out" — Quentin Grimes on the team's depth and collective effort** [20:27](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1227s)
 
-Quentin Grimes: "As a rookie you got to go out there and kind of earn minutes and everybody kind of has to do that at one point sometime in their career and then he got thrown in there. He hit a big three, hit a tough layup and had a couple good closeouts and defense stops. So that's kind of the things that earn trust from a coach and where they throw you out there even more later on in the season for sure."
+Quentin Grimes: "We're extremely deep as a team. I feel like we're either if Luka is out or AR is out people know what we're going to do collectively as a team, do it by committee and I feel every game where one of them has been out everybody has stepped up and just contributed in either offensive ways or defensive ways as well."
 
-[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1324s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1324s)
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1227s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1227s)
+
+**7. Quentin Grimes — "he's a one of one player for a reason. They're going to blitz him" — Quentin Grimes on Luka Doncic's ability to make the right read** [22:35](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1355s)
+
+Quentin Grimes: "He's a one of one player for a reason. They're going to blitz him, they're going to try to triple team him when they might affect they affect like they're going to blitz him and stuff like that and he's still probably always going to make the right read nine times out of ten. So we just got to be able to give him outlets, find an open window for him so he can either make a play for himself or he will always make a play for us for sure."
+
+[https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1355s](https://www.youtube.com/watch?v=cfFfqOgA6Fo&t=1355s)
 
 ---
 
