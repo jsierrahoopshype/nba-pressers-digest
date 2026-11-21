@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-21
 
+[Podcasts & shows](podcasts.md)
+
 # Best of the best
 
 **1. Jalen Johnson — "Obviously, we want that money, so it's as simple as that" — Jalen Johnson on the high stakes of the NBA Cup** [06:12](https://www.youtube.com/watch?v=4ZdZTE-2_lE&t=372s)
@@ -1555,6 +1557,22 @@ Dalton Johnson: "You can hear him saying to long season, long haul, long haul, r
 **Bonta Hill:** "Yeah, like those are the things where it's like, we love the authenticity, but when it's starting to show mental weakness, that's where you're going, 'Yo, yo, you better be able to bend and not break.'"
 
 [https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=177s](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=177s)
+
+---
+
+## LIVE: Pelicans vs. Thunder Postgame Interviews 11/20/2026 — *New Orleans Pelicans*
+
+Source: [https://www.youtube.com/watch?v=nM8DdLHKyIo](https://www.youtube.com/watch?v=nM8DdLHKyIo)
+
+_Speakers identified: Jamahl Mosley_
+
+**3. Jamahl Mosley — "Give credit to Shai. He was unbelievable down the stretch, did our best to get out." — Jamahl Mosley on Shai Gilgeous-Alexander's performance down the stretch** [18:50](https://www.youtube.com/watch?v=nM8DdLHKyIo&t=1130s)
+
+Jamahl Mosley: "Give credit to Shai. He was unbelievable down the stretch, did our best to get out of his hands at times, but then they had other guys step up and step in and make big-time shots for them."
+
+[https://www.youtube.com/watch?v=nM8DdLHKyIo&t=1130s](https://www.youtube.com/watch?v=nM8DdLHKyIo&t=1130s)
+
+<small>[Clip it](presserclips://clip?v=nM8DdLHKyIo&t=1130&q=3) · [Send to Slack](presserclips://clip?v=nM8DdLHKyIo&t=1130&q=3&slack=1)</small>
 
 ---
 

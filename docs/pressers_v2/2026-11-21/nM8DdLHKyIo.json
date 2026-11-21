@@ -1,0 +1,198 @@
+{
+  "video_title": "LIVE: Pelicans vs. Thunder Postgame Interviews 11/20/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "17:53",
+      "summary_phrase": "Jamahl Mosley on the team's resilience after falling behind early",
+      "names_mentioned": [],
+      "excerpt": "I love our fight. You know, they go up 11-0 to start, we don't rattle.",
+      "quote": "I love our fight. You know, they go up 11-0 to start, we don't rattle. We come back, make a great run for ourselves and then keep our foot on the gas from there. That fourth quarter when they went on the run, that was the start of it. A couple empty possessions offensively, but also a few offensive rebounds that led to kick-out threes. They did a great job on the glass giving themselves extra possessions down there in the fourth quarter.",
+      "text_blocks": [],
+      "start_seconds": 1073,
+      "end_seconds": 1105,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley praised his team for not rattling after an 11-0 deficit to start the game, noting that they kept their foot on the gas despite some struggles on the glass in the fourth quarter.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the team's resilience and recovery after an early deficit against the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oOB1cuPdCjI",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "18:22",
+      "summary_phrase": "Jamahl Mosley on the importance of winning the possession game",
+      "names_mentioned": [],
+      "excerpt": "They got a shot majority of the times down, and again, they did a great job.",
+      "quote": "They got a shot majority of the times down, and again, we they did a great job to give them credit coming down, getting some switching going. They throw the ball in the middle, they sprayed out, forced us to play a little bit of one-on-one. But again, what got us the lead was us being able to share it, move it, trust it. Whether you're open, let it fly. And then but we got to make sure we sit down and get stops.",
+      "text_blocks": [],
+      "start_seconds": 1102,
+      "end_seconds": 1134,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the key to building their lead was the ability to share and move the ball, emphasizing that players need to trust the pass and let it fly when open.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the importance of ball movement and defensive stops during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oOB1cuPdCjI",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "18:50",
+      "summary_phrase": "Jamahl Mosley on Shai Gilgeous-Alexander's performance down the stretch",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "Give credit to Shai. He was unbelievable down the stretch, did our best to get out.",
+      "quote": "Give credit to Shai. He was unbelievable down the stretch, did our best to get out of his hands at times, but then they had other guys step up and step in and make big-time shots for them.",
+      "text_blocks": [],
+      "start_seconds": 1130,
+      "end_seconds": 1145,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley gave credit to Shai Gilgeous-Alexander for an unbelievable performance down the stretch, noting that even when they tried to get the ball out of his hands, other players stepped up to make big shots.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises the late-game performance of Shai Gilgeous-Alexander following the Pelicans' loss to the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "19:03",
+      "summary_phrase": "Jamahl Mosley on the team's defensive adjustments against Zion Williamson",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "They started to shrink the floor a lot more, sat guys in the paint.",
+      "quote": "We ran a couple plays to get Zion in the middle of the floor to get downhill was great. Then we put him on the side of the floor, they started to shrink the floor a lot more, sat guys in the paint, so he wasn't allowed to get downhill as much. Again, that's when we just have to keep flowing, get him on the move a little bit more so then they can't load up as much.",
+      "text_blocks": [],
+      "start_seconds": 1143,
+      "end_seconds": 1173,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley explained the tactical adjustments against Zion Williamson, noting that when the floor was shrunk, they had to keep the ball moving to prevent the defense from loading up on him.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley discusses the tactical adjustments made to help Zion Williamson get downhill against the Thunder's defense.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oOB1cuPdCjI",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "19:44",
+      "summary_phrase": "Jamahl Mosley on Zion Williamson's impact and defensive versatility",
+      "names_mentioned": [
+        "Zion Williamson",
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "He stretches the floor out so well, was willing to take on defensive matchups.",
+      "quote": "He stretches the floor out so well, was willing to take on defensive matchups. When Herb's checked out of the game, he was able to step in and guard Shai for a little bit. I think those are the key things for us for him that he provides. His ability to again, space the floor, but also defensive matchups being able to take on those challenges because of his length, because of his size.",
+      "text_blocks": [],
+      "start_seconds": 1184,
+      "end_seconds": 1212,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley highlighted Zion Williamson's defensive versatility, specifically praising his willingness to take on tough assignments like guarding Shai Gilgeous-Alexander when needed.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson",
+          "Herb Jones",
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley highlights Zion Williamson's defensive versatility and his ability to guard Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oOB1cuPdCjI",
+        "rank": 4
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "nM8DdLHKyIo",
+  "url": "https://www.youtube.com/watch?v=nM8DdLHKyIo",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-21T18:01:03Z",
+  "duration_seconds": 1276,
+  "processed_at": "2026-11-21T20:31:09Z",
+  "run_id": "2026-11-21T2030Z-14utc",
+  "is_one_off": false
+}
