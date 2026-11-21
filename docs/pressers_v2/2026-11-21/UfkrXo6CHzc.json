@@ -1,0 +1,187 @@
+{
+  "video_title": "Coach Daigneault on Team's Comeback Win | Postgame Media | November 20, 2026",
+  "speakers_seen": [
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:20",
+      "summary_phrase": "K. Rich's impact on the game's tone and intensity",
+      "names_mentioned": [
+        "K. Rich"
+      ],
+      "excerpt": "K. Rich changed the tone of the game in the third when he went in the game.",
+      "quote": "In the game specifically, I thought K. Rich changed the tone of the game in the third when he went in the game. It was a muddy game, the game felt like it was getting away from us, and he went in there with an edge and a fight that became contagious. That group was able to cut into the lead by the end of the third quarter and then the group to start the fourth did a nice job. He was in there too, so I thought he was a huge catalyst in the game tonight, and we needed that at a time that we needed it.",
+      "text_blocks": [],
+      "start_seconds": 20,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mark Daigneault credited K. Rich for changing the tone of tonight's game, saying his energy was a huge catalyst when the team was struggling to keep pace in the third quarter.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kenrich Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Mark Daigneault discusses Kenrich Williams' impact on the team's intensity during their comeback win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "timestamp": "01:15",
+      "summary_phrase": "Shai Gilgeous-Alexander's leadership and accountability",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "one of the beautiful things about him as a guy of his status is his willingness",
+      "quote": "One of the beautiful things about him as a guy of his status is his willingness to take responsibility and accountability for his performance and the way the team performs. He is always in character on that. He is never going to point a finger at anybody but himself, and he always steps up and performs when we need him. It is great leadership, and it is a testament to the way that he approaches it. He really takes ownership of his game and the team.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Mark Daigneault on Shai Gilgeous-Alexander's leadership: He is never going to point a finger at anybody but himself. It is a testament to the way he approaches the game and the ownership he takes.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mark Daigneault praises Shai Gilgeous-Alexander for his leadership and accountability following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "timestamp": "02:03",
+      "summary_phrase": "The undervalued intelligence and competitiveness of Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "the thing that can be a little invisible is number one his intelligence",
+      "quote": "He is big, he is jolly, he rim protects, and he is skilled, and I think that is the thing that people see. I think the thing that can be a little invisible is number one his intelligence. He really has a great sense for the game, even on the other end of the floor. And number two, he is a big-time competitor, and I think sometimes the personality, which is very friendly and kind, can be misinterpreted, but that guy competes. He cares about the team and he cares about winning, and I thought that was on display tonight.",
+      "text_blocks": [],
+      "start_seconds": 123,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Mark Daigneault says Shai Gilgeous-Alexander's friendly personality can be misinterpreted, but he is a big-time competitor who cares about winning above all else.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mark Daigneault highlights the intelligence and competitive nature of Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mark Daigneault",
+      "timestamp": "03:56",
+      "summary_phrase": "Benny Sturtz's adjustment to his new role",
+      "names_mentioned": [
+        "Benny Sturtz"
+      ],
+      "excerpt": "he is here for a reason and obviously a lot is changing for him",
+      "quote": "Respectfully, he has had too much self-awareness. He is coming in and really tried to blend and has had great respect for the team and is trying to fit in. He is here for a reason, and obviously a lot is changing for him. He is a rookie in the NBA, it is a huge step for him from just for every rookie. His role is much different than it was in college and his role is much different than it was in training camp because of the circumstances changing. He has got a lot coming at him, but I thought he had an aggression tonight offensively that we need out of him.",
+      "text_blocks": [],
+      "start_seconds": 236,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mark Daigneault wants more aggression from rookie Benny Sturtz, noting that while he has shown great self-awareness in his new role, the team needs him to be more assertive offensively.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Benny Sturtz"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mark Daigneault discusses rookie Benny Sturtz adjusting to his new role and expectations within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mark Daigneault",
+      "timestamp": "08:14",
+      "summary_phrase": "The structural trade-offs of playing a double-big lineup",
+      "names_mentioned": [],
+      "excerpt": "the double-big lineup is something that has been pretty good for us",
+      "quote": "I think some of it to be honest with you is structural when we have two centers on the court together. But I would encourage it, we are not trying to give up a great shot on any possession, whether it is a layup or a free throw or a three or a clean two for a good pull-up jump shooter. But there are trade-offs, and the double-big lineup is something that has been pretty good for us. We have rebounded well, we have not fouled, we have taken away the rim almost entirely, and we have put a lot of pressure on the other team to make jump shots.",
+      "text_blocks": [],
+      "start_seconds": 494,
+      "end_seconds": 536,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mark Daigneault explains the trade-offs of the double-big lineup, noting that while it creates structural challenges, it has been effective at taking away the rim and forcing opponents into jump shots.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mark Daigneault explains the tactical trade-offs and benefits of utilizing a double-big lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "UfkrXo6CHzc",
+  "url": "https://www.youtube.com/watch?v=UfkrXo6CHzc",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-21T04:49:54Z",
+  "duration_seconds": 566,
+  "processed_at": "2026-11-21T04:56:04Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

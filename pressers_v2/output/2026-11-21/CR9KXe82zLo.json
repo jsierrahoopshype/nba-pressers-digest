@@ -1,0 +1,256 @@
+{
+  "video_title": "Cavs vs Pacers | James Harden Media Availability | 11.20.2026",
+  "speakers_seen": [
+    "James Harden"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "James Harden",
+      "timestamp": "00:16",
+      "summary_phrase": "James Harden on the elite company of Michael Jordan and Kobe Bryant",
+      "names_mentioned": [
+        "Kobe Bryant",
+        "Michael Jordan"
+      ],
+      "excerpt": "That's just an elite. When you talk about basketball, they were the best to ever do it.",
+      "quote": "That's just an elite. When you talk about basketball, especially like at shooting guard position, they were the best to ever do it. So, to be in that conversation is very humbling, and it's definitely special.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "James Harden on being mentioned alongside Michael Jordan and Kobe Bryant: To be in that conversation is very humbling and it is definitely special.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Michael Jordan",
+          "Kobe Bryant"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "James Harden discusses being mentioned in the same conversation as legendary shooting guards Michael Jordan and Kobe Bryant.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "James Harden",
+      "timestamp": "01:15",
+      "summary_phrase": "James Harden on his work ethic and ability to perform",
+      "names_mentioned": [],
+      "excerpt": "I work hard every day. The work is inevitable. You put the work in and results will.",
+      "quote": "I work hard every day. The work is inevitable. You put the work in and results will eventually come to light. I was here this morning working on my game and things turned. My role isn't to go out there and score 50 points tonight, we have somebody on this team who is elite at scoring the basketball. So I got to pick and choose when I'm aggressive and tonight it was my night.",
+      "text_blocks": [],
+      "start_seconds": 75,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "James Harden on his role this season: My role is not to go out there and score 50 points tonight. We have somebody on this team who is elite at scoring the basketball so I have to pick and choose when I am aggressive.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "James Harden explains his approach to his role and his work ethic during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "James Harden",
+      "timestamp": "02:18",
+      "summary_phrase": "James Harden on his evolution and remaining impactful in his 18th season",
+      "names_mentioned": [],
+      "excerpt": "I'm in my 18th year learning how to still be impactful. It's easy when you're young.",
+      "quote": "I'm in my 18th year learning how to still be impactful. It's easy when you're young, 23, 24, you're running around, you jump high and can move fast and get back. Now it's like, okay, you're not as fast, can you still get by people or how can you get by somebody? That's the evolution of James Harden and figuring that out. If I can master that and get to a really good spacing at that point, I'm still going to be elite.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "James Harden on his evolution in year 18: You are not as fast, so can you still get by people? That is the evolution of James Harden and figuring that out. If I can master that, I am still going to be elite.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "James Harden reflects on how his game has evolved to remain impactful during his 18th NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "James Harden",
+      "timestamp": "03:40",
+      "summary_phrase": "James Harden on the impact of limited pickup games during contract negotiations",
+      "names_mentioned": [],
+      "excerpt": "The contract extension took a little longer than expected, but I had no other choice but wait.",
+      "quote": "The contract extension took a little longer than expected, but I had no other choice but to wait. That was a huge part of it, but I'm happy we got it done and then after that I started to ramp up. All in all, the first 15, 17 games we've been in, things haven't been going the best for me personally, but I think it's bigger than me and I think it's about our team and getting guys back healthy is important.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 4,
+      "social_post": "James Harden admits his contract extension took longer than expected and impacted his early season ramp up: I had no other choice but to wait. Things have not been going the best for me personally.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "contracts",
+          "injuries"
+        ],
+        "context": "James Harden discusses the impact of his contract extension negotiations and the importance of team health.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "James Harden",
+      "timestamp": "04:38",
+      "summary_phrase": "James Harden on team chemistry and the joy of playing together",
+      "names_mentioned": [],
+      "excerpt": "I think that's the joy that we have to bring for each other on a night-to-night basis.",
+      "quote": "I think that's the joy that we have to bring for each other on a night-to-night basis. Even when things aren't going well, the excitement that we have for each other is contagious and really good things happen for each other as we dish that off.",
+      "text_blocks": [],
+      "start_seconds": 278,
+      "end_seconds": 296,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "James Harden on team chemistry: The excitement that we have for each other is contagious and really good things happen for each other as we dish that off.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "James Harden talks about the importance of maintaining team chemistry and excitement for one another.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "James Harden",
+      "timestamp": "05:16",
+      "summary_phrase": "James Harden on his changing role and usage rate",
+      "names_mentioned": [],
+      "excerpt": "It's a different role for me. My usage rate isn't extremely high every game.",
+      "quote": "It's a different role for me. My usage rate isn't extremely high every game. We have somebody for that. So mine is kind of scoring when I need to but then distributing the ball, a little bit of everything. All right, cool, my number is called and you need to go out there and put the shots up. So I knew I could do it, but it's just when you don't do something consistently, you just don't know if you've got it.",
+      "text_blocks": [],
+      "start_seconds": 316,
+      "end_seconds": 348,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "James Harden on his adjusted role: My usage rate is not extremely high every game. We have somebody for that. When you do not do something consistently, you just do not know if you have got it.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "James Harden describes his adjusted role and lower usage rate compared to previous stages of his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "James Harden",
+      "timestamp": "06:03",
+      "summary_phrase": "James Harden on the importance of flow in the offense",
+      "names_mentioned": [],
+      "excerpt": "Trying to do it in the flow of offense was something that I was trying to get.",
+      "quote": "Trying to do it in the flow of offense was something that I was trying to get to. I don't want to, there were times where I was a little thirsty and I don't like it, but turning the basketball over was one. I think all in all, the flow of the game was something that it's very important that I was trying to get to. Just trying to make sure everybody is involved because once I'm going and then everybody else is going and everybody else is available, the game is over with.",
+      "text_blocks": [],
+      "start_seconds": 363,
+      "end_seconds": 399,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "James Harden on finding rhythm: There were times where I was a little thirsty and I do not like it. The flow of the game is very important. Once I am going and everybody else is going, the game is over with.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "James Harden explains his focus on playing within the flow of the offense to keep teammates involved.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "James Harden",
+      "timestamp": "07:46",
+      "summary_phrase": "James Harden on the competitive stakes of the NBA Cup",
+      "names_mentioned": [],
+      "excerpt": "This is some money on the line, so for the guys, for everybody, I think once an opportunity.",
+      "quote": "This is some money on the line, so for the guys, for everybody, I think once an opportunity to compete for the money. Tonight was a challenge for us and we have one more, but just giving ourselves a chance to make it is very, very important. Obviously we want to win the game, that's the most important thing, but then you get rewarded for that as well. So that's in the back of our minds too, so it's an opportunity for a double whammy.",
+      "text_blocks": [],
+      "start_seconds": 466,
+      "end_seconds": 499,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "James Harden on the NBA Cup: There is some money on the line. Once an opportunity to compete for the money is there, it is a double whammy.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "James Harden discusses the competitive motivation provided by the NBA Cup tournament.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "CR9KXe82zLo",
+  "url": "https://www.youtube.com/watch?v=CR9KXe82zLo",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-21T04:46:12Z",
+  "duration_seconds": 510,
+  "processed_at": "2026-11-21T04:56:15Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

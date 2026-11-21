@@ -1,0 +1,100 @@
+{
+  "video_title": "De’Andre Hunter’s big first half gives Kings lead vs. Lakers | NBC Sports California",
+  "speakers_seen": [
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified speaker",
+        "Unidentified speaker"
+      ],
+      "timestamp": "00:24",
+      "summary_phrase": "De'Andre Hunter's defensive performance against Luka Doncic",
+      "names_mentioned": [
+        "De'Andre Hunter",
+        "Luka Doncic"
+      ],
+      "excerpt": "He really did an excellent job on the defensive side of the ball.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "De'Andre Hunter had his best first half of the season."
+        },
+        {
+          "speaker": "Unidentified speaker",
+          "text": "He really did an excellent job on the defensive side of the ball. Just wanted to highlight some of his plays against Luka Doncic. Doing a great job moving his feet, staying in front, leading with that chest, pulling those hands back to make sure that he is not sending Luka to that free throw line."
+        }
+      ],
+      "start_seconds": 24,
+      "end_seconds": 49,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "DeAndre Hunter is having his best first half of the season. He has been doing an excellent job defensively against Luka Doncic by moving his feet and staying in front without sending him to the free throw line.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "De'Andre Hunter",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "An unidentified speaker analyzes De'Andre Hunter's defensive performance against Luka Doncic during the first half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Unidentified speaker",
+      "timestamp": "00:40",
+      "summary_phrase": "De'Andre Hunter's offensive aggression and scoring impact",
+      "names_mentioned": [
+        "De'Andre Hunter"
+      ],
+      "excerpt": "He has been in an attack mode on the offensive side of the ball.",
+      "quote": "He has been in an attack mode on the offensive side of the ball. 13 points, one of four Kings starters in double-digit scoring in the first half of that game. He has been doing it from downtown, getting into the paint, taking the contact, finishing through it. He really was spectacular on both sides of the ball in that first half.",
+      "start_seconds": 40,
+      "end_seconds": 64,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "DeAndre Hunter has been in attack mode on the offensive side of the ball. With 13 points in the first half, he has been hitting from downtown and finishing through contact to help the Kings.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "De'Andre Hunter"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "An unidentified speaker discusses De'Andre Hunter's offensive contributions and scoring performance during the first half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "CvANJk6cupo",
+  "url": "https://www.youtube.com/watch?v=CvANJk6cupo",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-21T04:38:11Z",
+  "duration_seconds": 76,
+  "processed_at": "2026-11-21T04:56:08Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

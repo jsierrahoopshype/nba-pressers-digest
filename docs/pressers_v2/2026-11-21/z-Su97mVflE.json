@@ -1,0 +1,372 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS | COACH SWEENEY,  FRANZ WAGNER, & NIKOLA VUCEVIC",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Franz Wagner",
+    "Nikola Vucevic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:05",
+      "summary_phrase": "Franz Wagner's development and clutch performance against the Nets",
+      "names_mentioned": [
+        "Franz"
+      ],
+      "excerpt": "spectacular shot making from a big time player",
+      "quote": "Spectacular shot making from a big time player. Franz has been off to a great start. He's picked it up as the years gone along. He was phenomenal tonight on both ends, all areas, and down the stretch to get the ball, go to his right hand, have that little bump to create the space to get himself a great look, did an excellent job. We need every basket that he had and none more than that.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Sweeney on Franz Wagner after the win over the Nets: Spectacular shot making from a big time player. He was phenomenal tonight on both ends and down the stretch to get the ball and create space.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Franz Wagner"
+        ],
+        "teams": [
+          "ORL",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney praises Franz Wagner for his performance and game-winning shot against the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:39",
+      "summary_phrase": "Orlando Magic's growth in clutch game situations",
+      "names_mentioned": [
+        "Buck"
+      ],
+      "excerpt": "this is our tenth game in like a clutch game situation",
+      "quote": "This is our tenth game in like a clutch game situation. I think we've been coaching and teaching and addressing and the players have done a really good job of trying to voice what they think and what we need to do down the stretch. Tonight was a good example of us not playing our best but when we needed it most, tightening up. I thought the coaches did an excellent job. There were a couple times where I was ready to lose my poise and guys like Buck did a great job of maintaining steadiness.",
+      "verbatim_original_language": "",
+      "start_seconds": 39,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Sweeney on the Magic closing out tight games: Tonight was a good example of us not playing our best but when we needed it most, tightening up.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Sweeney discusses the team's ability to execute in clutch situations during recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:20",
+      "summary_phrase": "Wendell Carter Jr.'s energy and rebounding impact",
+      "names_mentioned": [
+        "Wendell"
+      ],
+      "excerpt": "Wendell did a great job throughout the course of the game and especially in that second half",
+      "quote": "Wendell did a great job throughout the course of the game and especially in that second half. He really picked up his energy and was able to sustain it all the way down to the end. In the fourth quarter, he needed a quick sub just to catch his breath and once he was ready to go, got him back in and he did a great job closing the show on both ends for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 80,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney praises Wendell Carter Jr for his energy and rebounding effort in the second half against Brooklyn.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Wendell Carter Jr."
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney comments on the energy and effort provided by Wendell Carter Jr. during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:42",
+      "summary_phrase": "Nikola Vucevic's contribution and impact on team rebounding",
+      "names_mentioned": [
+        "Vucevic",
+        "Wendell"
+      ],
+      "excerpt": "he and Wendell being out there together really helped us kind of clean up the boards",
+      "quote": "The 15 points are big. He's done a great job of being ready to play. He came in in the first half early in that first quarter and was ready to go right off the bat. He gave us a boost. We were struggling to rebound the ball there early and so he and Wendell being out there together really helped us kind of clean up the boards for a little bit there.",
+      "verbatim_original_language": "",
+      "start_seconds": 102,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Sweeney on the impact of Nikola Vucevic and Wendell Carter Jr playing together: We were struggling to rebound the ball early and they really helped us clean up the boards.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Vucevic",
+          "Wendell Carter Jr."
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney highlights the rebounding impact of Nikola Vucevic and Wendell Carter Jr. playing together.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Franz Wagner",
+      "timestamp": "02:56",
+      "summary_phrase": "Franz Wagner on his game-winning shot against the Nets",
+      "names_mentioned": [
+        "Randall",
+        "Dez"
+      ],
+      "excerpt": "I saw Randall kind of creeping up from I think maybe Dez",
+      "quote": "I mean obviously I think eight seconds or something like that left. The play was for me to go right. I saw Randall kind of creeping up from I think maybe Dez, but I felt like I wasn't sure if I was going to get the pass off. So I mean not the best look, but we'll take it.",
+      "verbatim_original_language": "",
+      "start_seconds": 176,
+      "end_seconds": 199,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Franz Wagner on his game winning shot against the Nets: The play was for me to go right. I saw Randall creeping up. Not the best look, but we will take it.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Franz Wagner describes the final play of the game that resulted in his game-winning shot against the Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Franz Wagner",
+      "timestamp": "04:03",
+      "summary_phrase": "Franz Wagner on the experience of playing against his brother",
+      "names_mentioned": [],
+      "excerpt": "it was very weird seeing him over there",
+      "quote": "It was both. It was very weird seeing him over there. Playing five years together, you get super used to that. It kind of set in, kind of realized today that he's on a different team. It was weird but it was also fun. I think he's in a good spot. I think he really likes it here, so happy for him.",
+      "verbatim_original_language": "",
+      "start_seconds": 243,
+      "end_seconds": 267,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 7,
+      "social_post": "Franz Wagner on playing against his brother: It was very weird seeing him over there. Playing five years together, you get super used to that. It was weird but it was also fun.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Moritz Wagner"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Franz Wagner reflects on the experience of playing against his brother Moritz Wagner.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Franz Wagner",
+      "timestamp": "05:38",
+      "summary_phrase": "Franz Wagner on the support from family and friends in Berlin",
+      "names_mentioned": [],
+      "excerpt": "wir hatten Familie hier, viele Freunde aus Berlin",
+      "quote": "Wir hatten Familie hier, viele Freunde aus Berlin, viele Freunde aus Amerika auch. Und ja, haben nicht nur wir uns, glaube ich, gesirkelt auf dem Kalender, auch unsere Familie und Freunde. Und ja, war schon besonders. Wie gesagt, wir haben uns sehr daran gewöhnt, zusammenzuspielen und ich glaube unser Umfeld auch. Und ja, war sehr sehr komisch, müssen wir uns erstmal dran gewöhnen.",
+      "verbatim_original_language": "Wir hatten Familie hier, viele Freunde aus Berlin, viele Freunde aus Amerika auch. Und ja, haben nicht nur wir uns, glaube ich, gesirkelt auf dem Kalender, auch unsere Familie und Freunde. Und ja, war schon besonders. Wie gesagt, wir haben uns sehr daran gewöhnt, zusammenzuspielen und ich glaube unser Umfeld auch. Und ja, war sehr sehr komisch, müssen wir uns erstmal dran gewöhnen.",
+      "start_seconds": 338,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Franz Wagner reflects on the special atmosphere of having family and friends from Berlin in attendance for the game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Franz Wagner speaks in German about the presence of family and friends at the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Nikola Vucevic",
+      "timestamp": "07:14",
+      "summary_phrase": "Nikola Vucevic on the team's defensive effort and rebounding",
+      "names_mentioned": [
+        "Wendell",
+        "AB",
+        "Franz"
+      ],
+      "excerpt": "one thing we did a really good job of was crashing offensively",
+      "quote": "I thought we were poised towards the end. One thing we did a really good job of was crashing offensively. It gave us a lot of second chance opportunities. Wendell had that big one where he laid the ball in, that was a huge play for us. AB got a couple. So yeah, I think that was good for us on some of the misses we were able to get the ball back and get better looks. And then I thought defensively we did a good job not fouling as much and playing smart defensively and did a good job on the glass on that end.",
+      "verbatim_original_language": "",
+      "start_seconds": 434,
+      "end_seconds": 475,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nikola Vucevic on the Magic's late game execution: One thing we did a really good job of was crashing offensively. It gave us a lot of second chance opportunities.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Wendell Carter Jr."
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Nikola Vucevic analyzes the team's defensive performance and offensive rebounding success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Nikola Vucevic",
+      "timestamp": "08:00",
+      "summary_phrase": "Nikola Vucevic on Franz Wagner's leadership and recent performance",
+      "names_mentioned": [
+        "Franz",
+        "Paolo"
+      ],
+      "excerpt": "he's also taking a big step with his leadership, talking, keeping guys poised",
+      "quote": "He's been great all around. Obviously he's scoring, he's passing, he's rebounding. He's also taking a big step with his leadership, talking, keeping guys poised and everything. It's been great to see how he's been playing last couple weeks especially since Paolo went out. He's really been leading this team in a great positive way and with his numbers and the way he plays and the way he approaches the game as well, and we all follow him.",
+      "verbatim_original_language": "",
+      "start_seconds": 480,
+      "end_seconds": 510,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Nikola Vucevic on Franz Wagner stepping up: He is also taking a big step with his leadership, talking, keeping guys poised. It has been great to see how he has been playing since Paolo went out.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Franz Wagner",
+          "Paolo Banchero"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nikola Vucevic praises Franz Wagner's leadership and performance since Paolo Banchero's injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Nikola Vucevic",
+      "timestamp": "08:53",
+      "summary_phrase": "Nikola Vucevic on adjusting to his new role",
+      "names_mentioned": [],
+      "excerpt": "for me this is a huge adjustment",
+      "quote": "For me this is a huge adjustment. Just a few months ago I was playing 30 minutes a game, starting, being one of the main options on a team and now coming to a very, very, very different role. So far, haven't really had established role minutes. Kind of trying to figure it all out. So it's hard sometimes to find a rhythm that way and especially for me because I'm kind of a rhythm player. I play off my feel for the game and everything and so it's a big adjustment.",
+      "verbatim_original_language": "",
+      "start_seconds": 533,
+      "end_seconds": 568,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 6,
+      "social_post": "Nikola Vucevic on his current role with the Magic: For me this is a huge adjustment. Just a few months ago I was starting and being one of the main options, and now coming to a very different role. It is hard to find a rhythm.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Nikola Vucevic discusses the difficulty of adjusting to his current role and finding rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Nikola Vucevic",
+      "timestamp": "11:38",
+      "summary_phrase": "Nikola Vucevic on the Magic's win over Barcelona",
+      "names_mentioned": [],
+      "excerpt": "velika pobjeda u gostima protiv Barcelone",
+      "quote": "Nisam gledao, tad sam odmarao i poslije se spremao za utakmicu. Samo sam pratio rezultat na telefonu i velika pobjeda u gostima protiv Barcelone u produžetku. Stvarno velika pobjeda poslije teškog poraza u Milanu, su stvarno odgovorili na dobar način. Tako da drago mi je, pratio sam, pratim stalno. Kad stignem da gledam naravno i gledam, a danas nisam stigao. Ali mi je drago su dobili, stvarno velika pobjeda u gostima ovih teško protiv Barcelone, tako da bitna bitna pobjeda.",
+      "verbatim_original_language": "Nisam gledao, tad sam odmarao i poslije se spremao za utakmicu. Samo sam pratio rezultat na telefonu i velika pobjeda u gostima protiv Barcelone u produžetku. Stvarno velika pobjeda poslije teškog poraza u Milanu, su stvarno odgovorili na dobar način. Tako da drago mi je, pratio sam, pratim stalno. Kad stignem da gledam naravno i gledam, a danas nisam stigao. Ali mi je drago su dobili, stvarno velika pobjeda u gostima ovih teško protiv Barcelone, tako da bitna bitna pobjeda.",
+      "start_seconds": 698,
+      "end_seconds": 729,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Nikola Vucevic discusses following the Barcelona game result and praises the team for a big road win.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Nikola Vucevic comments in Serbian on a recent basketball game result involving Barcelona.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "z-Su97mVflE",
+  "url": "https://www.youtube.com/watch?v=z-Su97mVflE",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-21T04:30:16Z",
+  "duration_seconds": 803,
+  "processed_at": "2026-11-21T04:56:29Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

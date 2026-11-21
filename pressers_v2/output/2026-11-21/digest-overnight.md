@@ -30,7 +30,37 @@ From: [Jordi Fernández + Danny Wolf Postgame Press Conferences vs. Orlando](htt
 
 From: [Is Warriors rookie Yaxel Lendeborg reaching breaking point? \| NBC Sports Bay Area](https://www.youtube.com/watch?v=mQIJ-_Gjd18) · *Golden State Warriors*
 
-**4. Bonta Hill — "I don't respect Luka." — Yaxel Lendeborg's frustration after Warriors' loss to Mavericks** [00:00](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=0s)
+**4. Rick Carlisle — Rick Carlisle on T.J. McConnell's hamstring injury** [05:26](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
+
+Rick Carlisle: "He's got a hamstring issue on the other hamstring. We don't know how bad yet. He was not asking out of the game, but he felt it and so **Josh** kind of saw it happen. He said, 'Hey, we got to get T.J. out,' and so we took a foul to get him out. So we'll see, I'm not going to speculate. I haven't talked to him yet, but it's another body blow, so we just got to absorb it and the next man's got to be ready to be up."
+
+[https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
+
+From: [Rick Carlisle Postgame Media Availability \| November 20, 2026](https://www.youtube.com/watch?v=b4-Gw9YC0pc) · *Indiana Pacers*
+
+<small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5&slack=1)</small>
+
+**5. Jamahl Mosley — "I still need to discuss that with our medical staff and see where we go from here." — Mosley provides update on player status following minor injury** [02:25](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
+
+Jamahl Mosley: "I still need to discuss that with our medical staff and see where we go from here."
+
+[https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
+
+From: [Jamahl Mosley \| Pelicans vs. Thunder Postgame Interview 11/20/26](https://www.youtube.com/watch?v=oOB1cuPdCjI) · *New Orleans Pelicans*
+
+<small>[Clip it](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5) · [Send to Slack](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5&slack=1)</small>
+
+**6. James Harden — "The contract extension took a little longer than expected, but I had no other choice but wait." — James Harden on the impact of limited pickup games during contract negotiations** [03:40](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
+
+James Harden: "The contract extension took a little longer than expected, but I had no other choice but to wait. That was a huge part of it, but I'm happy we got it done and then after that I started to ramp up. All in all, the first 15, 17 games we've been in, things haven't been going the best for me personally, but I think it's bigger than me and I think it's about our team and getting guys back healthy is important."
+
+[https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
+
+From: [Cavs vs Pacers \| James Harden Media Availability \| 11.20.2026](https://www.youtube.com/watch?v=CR9KXe82zLo) · *Cleveland Cavaliers*
+
+<small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=220&q=4) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=220&q=4&slack=1)</small>
+
+**7. Bonta Hill — "I don't respect Luka." — Yaxel Lendeborg's frustration after Warriors' loss to Mavericks** [00:00](https://www.youtube.com/watch?v=mQIJ-_Gjd18&t=0s)
 
 Bonta Hill: "When he was talking after the first game against **Luka**, he was like, 'I don't respect **Luka**.' And I'm thinking to myself, man, they just got beat by three. Like, what? He's a fun-loving kid and I love the fact that he's authentic. But this trip was really baffling to me when it came to the rookie. And this is where I know the Warriors are like, man, we know we got to rein this guy in."
 
@@ -38,17 +68,37 @@ Bonta Hill: "When he was talking after the first game against **Luka**, he was l
 
 From: [Is Warriors rookie Yaxel Lendeborg reaching breaking point? \| NBC Sports Bay Area](https://www.youtube.com/watch?v=mQIJ-_Gjd18) · *Golden State Warriors*
 
-**5. Kenny Atkinson — "That's why we love the NBA, nights like that are so special." — Kenny Atkinson on James Harden's historic 50-point performance** [00:06](https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s)
+**8. Nikola Vucevic — "for me this is a huge adjustment" — Nikola Vucevic on adjusting to his new role** [08:53](https://www.youtube.com/watch?v=z-Su97mVflE&t=533s)
 
-Kenny Atkinson: "That's why you're in the NBA. All of us, that's why we love the NBA, nights like that are so special. He passes **Kobe Bryant** for most 50-point games, third all-time most 50-point games. That's pretty special. The crowd was great, the crowd appreciated that performance. It wasn't like we needed that game, it wasn't like we were 10 games above 500 and everything's peachy. It was a clutch performance, something we needed tonight."
+Nikola Vucevic: "For me this is a huge adjustment. Just a few months ago I was playing 30 minutes a game, starting, being one of the main options on a team and now coming to a very, very, very different role. So far, haven't really had established role minutes. Kind of trying to figure it all out. So it's hard sometimes to find a rhythm that way and especially for me because I'm kind of a rhythm player. I play off my feel for the game and everything and so it's a big adjustment."
 
-[https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s](https://www.youtube.com/watch?v=TZ_eWKfKntA&t=6s)
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=533s](https://www.youtube.com/watch?v=z-Su97mVflE&t=533s)
 
-From: [Cavs vs Pacers \| Kenny Atkinson Post Game \| 11.20.2026](https://www.youtube.com/watch?v=TZ_eWKfKntA) · *Cleveland Cavaliers*
+From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ WAGNER, & NIKOLA VUCEVIC](https://www.youtube.com/watch?v=z-Su97mVflE) · *Orlando Magic*
 
-<small>[Clip it](presserclips://clip?v=TZ_eWKfKntA&t=6&q=1) · [Send to Slack](presserclips://clip?v=TZ_eWKfKntA&t=6&q=1&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=533&q=10) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=533&q=10&slack=1)</small>
 
-**6. Dyson Daniels — "everyone just stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace." — Dyson Daniels on team adjustments without Trae Young and Dejounte Murray** [00:09](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s)
+**9. Shai Gilgeous-Alexander — "He's a really good basketball player. You don't have the journey he's had unless you know how" — Shai Gilgeous-Alexander on Cason Wallace's development and aggressive play** [00:40](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
+
+Shai Gilgeous-Alexander: "Cason is a really good basketball player. You don't have the journey he's had unless you know how to play basketball at a high level. Despite the size and the athleticism and the conference and the stage he's on, he's just been able to rise because he knows how to play the game. He knows his strengths and he stays within those. I think more than anything for him it's just a learning curve. He's been on the ball a lot in his career and obviously with myself and **AJ** and the guys of the caliber on this team, he's had to find his spots off the ball. I think that's more so what it is than anything. But he's doing a really good job of just figuring out on the fly and we're a better team on both ends of the floor when he's aggressive offensively."
+
+[https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
+
+From: [SGA on Team's Performance Versus Pelicans \| Postgame Media \| November 20, 2026](https://www.youtube.com/watch?v=XZo9TXN3Y-k) · *Oklahoma City Thunder*
+
+<small>[Clip it](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1) · [Send to Slack](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1&slack=1)</small>
+
+**10. Franz Wagner — "it was very weird seeing him over there" — Franz Wagner on the experience of playing against his brother** [04:03](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
+
+Franz Wagner: "It was both. It was very weird seeing him over there. Playing five years together, you get super used to that. It kind of set in, kind of realized today that he's on a different team. It was weird but it was also fun. I think he's in a good spot. I think he really likes it here, so happy for him."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=243s](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
+
+From: [POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS \| COACH SWEENEY,  FRANZ WAGNER, & NIKOLA VUCEVIC](https://www.youtube.com/watch?v=z-Su97mVflE) · *Orlando Magic*
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=243&q=6) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=243&q=6&slack=1)</small>
+
+**11. Dyson Daniels — "everyone just stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace." — Dyson Daniels on team adjustments without Trae Young and Dejounte Murray** [00:09](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=9s)
 
 Dyson Daniels: "Everyone stepped up. Obviously we don't have a true point guard out there, but we're just pushing the pace. Everyone is getting touches. We have guys that can play with the ball, guys that can play off the ball, so I think everyone just filled those voids. **Rayjon Tucker** has been really good coming in as well, playing some good minutes for us. **Kobe Bufkin** is coming in as well, playing some really good minutes. Everyone has stepped up, it's been good."
 
@@ -180,6 +230,100 @@ Jalen Johnson: "Obviously, we want that money, so it's as simple as that. Obviou
 
 ---
 
+## Cavs vs Pacers | James Harden Media Availability | 11.20.2026 — *Cleveland Cavaliers*
+
+Source: [https://www.youtube.com/watch?v=CR9KXe82zLo](https://www.youtube.com/watch?v=CR9KXe82zLo)
+
+_Speakers identified: James Harden_
+
+**1. James Harden — "That's just an elite. When you talk about basketball, they were the best to ever do it." — James Harden on the elite company of Michael Jordan and Kobe Bryant** [00:16](https://www.youtube.com/watch?v=CR9KXe82zLo&t=16s)
+
+James Harden: "That's just an elite. When you talk about basketball, especially like at shooting guard position, they were the best to ever do it. So, to be in that conversation is very humbling, and it's definitely special."
+
+[https://www.youtube.com/watch?v=CR9KXe82zLo&t=16s](https://www.youtube.com/watch?v=CR9KXe82zLo&t=16s)
+
+<small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=16&q=1) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=16&q=1&slack=1)</small>
+
+**2. James Harden — "I work hard every day. The work is inevitable. You put the work in and results will." — James Harden on his work ethic and ability to perform** [01:15](https://www.youtube.com/watch?v=CR9KXe82zLo&t=75s)
+
+James Harden: "I work hard every day. The work is inevitable. You put the work in and results will eventually come to light. I was here this morning working on my game and things turned. My role isn't to go out there and score 50 points tonight, we have somebody on this team who is elite at scoring the basketball. So I got to pick and choose when I'm aggressive and tonight it was my night."
+
+[https://www.youtube.com/watch?v=CR9KXe82zLo&t=75s](https://www.youtube.com/watch?v=CR9KXe82zLo&t=75s)
+
+<small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=75&q=2) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=75&q=2&slack=1)</small>
+
+**3. James Harden — "I'm in my 18th year learning how to still be impactful. It's easy when you're young." — James Harden on his evolution and remaining impactful in his 18th season** [02:18](https://www.youtube.com/watch?v=CR9KXe82zLo&t=138s)
+
+James Harden: "I'm in my 18th year learning how to still be impactful. It's easy when you're young, 23, 24, you're running around, you jump high and can move fast and get back. Now it's like, okay, you're not as fast, can you still get by people or how can you get by somebody? That's the evolution of James Harden and figuring that out. If I can master that and get to a really good spacing at that point, I'm still going to be elite."
+
+[https://www.youtube.com/watch?v=CR9KXe82zLo&t=138s](https://www.youtube.com/watch?v=CR9KXe82zLo&t=138s)
+
+<small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=138&q=3) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=138&q=3&slack=1)</small>
+
+**4. James Harden — "The contract extension took a little longer than expected, but I had no other choice but wait." — James Harden on the impact of limited pickup games during contract negotiations** [03:40](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
+
+James Harden: "The contract extension took a little longer than expected, but I had no other choice but to wait. That was a huge part of it, but I'm happy we got it done and then after that I started to ramp up. All in all, the first 15, 17 games we've been in, things haven't been going the best for me personally, but I think it's bigger than me and I think it's about our team and getting guys back healthy is important."
+
+[https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s](https://www.youtube.com/watch?v=CR9KXe82zLo&t=220s)
+
+<small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=220&q=4) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=220&q=4&slack=1)</small>
+
+**5. James Harden — "I think that's the joy that we have to bring for each other on a night-to-night basis." — James Harden on team chemistry and the joy of playing together** [04:38](https://www.youtube.com/watch?v=CR9KXe82zLo&t=278s)
+
+James Harden: "I think that's the joy that we have to bring for each other on a night-to-night basis. Even when things aren't going well, the excitement that we have for each other is contagious and really good things happen for each other as we dish that off."
+
+[https://www.youtube.com/watch?v=CR9KXe82zLo&t=278s](https://www.youtube.com/watch?v=CR9KXe82zLo&t=278s)
+
+<small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=278&q=5) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=278&q=5&slack=1)</small>
+
+**6. James Harden — "It's a different role for me. My usage rate isn't extremely high every game." — James Harden on his changing role and usage rate** [05:16](https://www.youtube.com/watch?v=CR9KXe82zLo&t=316s)
+
+James Harden: "It's a different role for me. My usage rate isn't extremely high every game. We have somebody for that. So mine is kind of scoring when I need to but then distributing the ball, a little bit of everything. All right, cool, my number is called and you need to go out there and put the shots up. So I knew I could do it, but it's just when you don't do something consistently, you just don't know if you've got it."
+
+[https://www.youtube.com/watch?v=CR9KXe82zLo&t=316s](https://www.youtube.com/watch?v=CR9KXe82zLo&t=316s)
+
+<small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=316&q=6) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=316&q=6&slack=1)</small>
+
+**7. James Harden — "Trying to do it in the flow of offense was something that I was trying to get." — James Harden on the importance of flow in the offense** [06:03](https://www.youtube.com/watch?v=CR9KXe82zLo&t=363s)
+
+James Harden: "Trying to do it in the flow of offense was something that I was trying to get to. I don't want to, there were times where I was a little thirsty and I don't like it, but turning the basketball over was one. I think all in all, the flow of the game was something that it's very important that I was trying to get to. Just trying to make sure everybody is involved because once I'm going and then everybody else is going and everybody else is available, the game is over with."
+
+[https://www.youtube.com/watch?v=CR9KXe82zLo&t=363s](https://www.youtube.com/watch?v=CR9KXe82zLo&t=363s)
+
+<small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=363&q=7) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=363&q=7&slack=1)</small>
+
+**8. James Harden — "This is some money on the line, so for the guys, for everybody, I think once an opportunity." — James Harden on the competitive stakes of the NBA Cup** [07:46](https://www.youtube.com/watch?v=CR9KXe82zLo&t=466s)
+
+James Harden: "This is some money on the line, so for the guys, for everybody, I think once an opportunity to compete for the money. Tonight was a challenge for us and we have one more, but just giving ourselves a chance to make it is very, very important. Obviously we want to win the game, that's the most important thing, but then you get rewarded for that as well. So that's in the back of our minds too, so it's an opportunity for a double whammy."
+
+[https://www.youtube.com/watch?v=CR9KXe82zLo&t=466s](https://www.youtube.com/watch?v=CR9KXe82zLo&t=466s)
+
+<small>[Clip it](presserclips://clip?v=CR9KXe82zLo&t=466&q=8) · [Send to Slack](presserclips://clip?v=CR9KXe82zLo&t=466&q=8&slack=1)</small>
+
+---
+
+## De’Andre Hunter’s big first half gives Kings lead vs. Lakers | NBC Sports California — *Sacramento Kings*
+
+Source: [https://www.youtube.com/watch?v=CvANJk6cupo](https://www.youtube.com/watch?v=CvANJk6cupo)
+
+_Speakers identified: Unidentified speaker_
+
+**1. Unidentified speaker — "He really did an excellent job on the defensive side of the ball." — De'Andre Hunter's defensive performance against Luka Doncic** [00:24](https://www.youtube.com/watch?v=CvANJk6cupo&t=24s)
+
+**Unidentified speaker:** "**De'Andre Hunter** had his best first half of the season."
+
+**Unidentified speaker:** "He really did an excellent job on the defensive side of the ball. Just wanted to highlight some of his plays against **Luka Doncic**. Doing a great job moving his feet, staying in front, leading with that chest, pulling those hands back to make sure that he is not sending Luka to that free throw line."
+
+[https://www.youtube.com/watch?v=CvANJk6cupo&t=24s](https://www.youtube.com/watch?v=CvANJk6cupo&t=24s)
+
+**2. Unidentified speaker — "He has been in an attack mode on the offensive side of the ball." — De'Andre Hunter's offensive aggression and scoring impact** [00:40](https://www.youtube.com/watch?v=CvANJk6cupo&t=40s)
+
+Unidentified speaker: "He has been in an attack mode on the offensive side of the ball. 13 points, one of four Kings starters in double-digit scoring in the first half of that game. He has been doing it from downtown, getting into the paint, taking the contact, finishing through it. He really was spectacular on both sides of the ball in that first half."
+
+[https://www.youtube.com/watch?v=CvANJk6cupo&t=40s](https://www.youtube.com/watch?v=CvANJk6cupo&t=40s)
+
+---
+
 ## Hawks vs. Hornets Postgame Press Conference: Dyson Daniels — *Atlanta Hawks*
 
 Source: [https://www.youtube.com/watch?v=DS4hICFyTQ8](https://www.youtube.com/watch?v=DS4hICFyTQ8)
@@ -217,6 +361,54 @@ Dyson Daniels: "I kind of like to sense when the team needs a little lift or a l
 [https://www.youtube.com/watch?v=DS4hICFyTQ8&t=151s](https://www.youtube.com/watch?v=DS4hICFyTQ8&t=151s)
 
 <small>[Clip it](presserclips://clip?v=DS4hICFyTQ8&t=151&q=4) · [Send to Slack](presserclips://clip?v=DS4hICFyTQ8&t=151&q=4&slack=1)</small>
+
+---
+
+## Aday Mara After A Big Night | Postgame Media | November 20, 2026 — *Oklahoma City Thunder*
+
+Source: [https://www.youtube.com/watch?v=KsVHScfz3wQ](https://www.youtube.com/watch?v=KsVHScfz3wQ)
+
+_Speakers identified: Aday Mara_
+
+**1. Aday Mara — "I think that's a good thing that we have as a team that we can change things" — Aday Mara on OKC's defensive adjustments in the second half** [00:11](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=11s)
+
+Aday Mara: "I think we were ready for it after the first half. I think they got too many easy baskets in the paint and we just changed it. I think that's a good thing that we have as a team that we can change things while we're playing. So I think we just did a better job in the second half."
+
+[https://www.youtube.com/watch?v=KsVHScfz3wQ&t=11s](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=11s)
+
+<small>[Clip it](presserclips://clip?v=KsVHScfz3wQ&t=11&q=1) · [Send to Slack](presserclips://clip?v=KsVHScfz3wQ&t=11&q=1&slack=1)</small>
+
+**2. Aday Mara — "our philosophy as a team, Mark's philosophy, to get the best shot" — Aday Mara on OKC's offensive philosophy and shot selection** [00:56](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=56s)
+
+Aday Mara: "I think it's our philosophy as a team, Mark's philosophy, to get the best shot. We were talking about getting more easy threes maybe. Sometimes we're just trying to get to the paint every time and when we had a good shot, so just trying to find the best shot every time and trying to do easy stuff on the court. That's going to make everything easier too."
+
+[https://www.youtube.com/watch?v=KsVHScfz3wQ&t=56s](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=56s)
+
+<small>[Clip it](presserclips://clip?v=KsVHScfz3wQ&t=56&q=2) · [Send to Slack](presserclips://clip?v=KsVHScfz3wQ&t=56&q=2&slack=1)</small>
+
+**3. Aday Mara — "I told him to stay... my idea was to pass it to him and him seal his player" — Aday Mara explains the jump ball play with Kenrich Williams** [01:29](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=89s)
+
+Aday Mara: "I told him to stay. He was behind me and my idea was to pass it to him and him seal his player and just let it in. And then he told me like, 'I'm going to get it and then just go to the room and I'm going to throw it to you.' So when I went to the room, he passed it to me, I dunk it and I turned and he was like celebrating and looking at me. So yeah, he told me, he told me."
+
+[https://www.youtube.com/watch?v=KsVHScfz3wQ&t=89s](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=89s)
+
+<small>[Clip it](presserclips://clip?v=KsVHScfz3wQ&t=89&q=3) · [Send to Slack](presserclips://clip?v=KsVHScfz3wQ&t=89&q=3&slack=1)</small>
+
+**4. Aday Mara — "I love to play here at home. I think the people gives a lot of energy" — Aday Mara on his comfort level and home court energy** [02:09](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=129s)
+
+Aday Mara: "I'm pretty comfortable. Also, I love to play here at home. I think the people gives a lot of energy when we play, so it's much easier to get in the game. So I'm just trying to play every day as tough as I can. Sometimes I know I've been taking, for example, my rebounding very seriously the last couple of games and I think it's been working."
+
+[https://www.youtube.com/watch?v=KsVHScfz3wQ&t=129s](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=129s)
+
+<small>[Clip it](presserclips://clip?v=KsVHScfz3wQ&t=129&q=4) · [Send to Slack](presserclips://clip?v=KsVHScfz3wQ&t=129&q=4&slack=1)</small>
+
+**5. Aday Mara — "I know I can be much better and do inside my role, I can do things much better" — Aday Mara on his personal development and team role** [03:16](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=196s)
+
+Aday Mara: "I know that I can be much better and do inside my role, I can do things much better. But right now I'm just focused on trying to help the team as the same thing I said in preseason, try to help the team as much as I can inside my role. But I know I can get much better and this is just the beginning. But yeah, I'm excited for what is coming."
+
+[https://www.youtube.com/watch?v=KsVHScfz3wQ&t=196s](https://www.youtube.com/watch?v=KsVHScfz3wQ&t=196s)
+
+<small>[Clip it](presserclips://clip?v=KsVHScfz3wQ&t=196&q=5) · [Send to Slack](presserclips://clip?v=KsVHScfz3wQ&t=196&q=5&slack=1)</small>
 
 ---
 
@@ -316,6 +508,78 @@ Kenny Atkinson: "I feel like it's never going to end. Like these guys just keep 
 
 ---
 
+## Coach Daigneault on Team's Comeback Win | Postgame Media | November 20, 2026 — *Oklahoma City Thunder*
+
+Source: [https://www.youtube.com/watch?v=UfkrXo6CHzc](https://www.youtube.com/watch?v=UfkrXo6CHzc)
+
+_Speakers identified: Mark Daigneault_
+
+**1. Mark Daigneault — "K. Rich changed the tone of the game in the third when he went in the game." — K. Rich's impact on the game's tone and intensity** [00:20](https://www.youtube.com/watch?v=UfkrXo6CHzc&t=20s)
+
+Mark Daigneault: "In the game specifically, I thought **K. Rich** changed the tone of the game in the third when he went in the game. It was a muddy game, the game felt like it was getting away from us, and he went in there with an edge and a fight that became contagious. That group was able to cut into the lead by the end of the third quarter and then the group to start the fourth did a nice job. He was in there too, so I thought he was a huge catalyst in the game tonight, and we needed that at a time that we needed it."
+
+[https://www.youtube.com/watch?v=UfkrXo6CHzc&t=20s](https://www.youtube.com/watch?v=UfkrXo6CHzc&t=20s)
+
+<small>[Clip it](presserclips://clip?v=UfkrXo6CHzc&t=20&q=1) · [Send to Slack](presserclips://clip?v=UfkrXo6CHzc&t=20&q=1&slack=1)</small>
+
+**2. Mark Daigneault — "one of the beautiful things about him as a guy of his status is his willingness" — Shai Gilgeous-Alexander's leadership and accountability** [01:15](https://www.youtube.com/watch?v=UfkrXo6CHzc&t=75s)
+
+Mark Daigneault: "One of the beautiful things about him as a guy of his status is his willingness to take responsibility and accountability for his performance and the way the team performs. He is always in character on that. He is never going to point a finger at anybody but himself, and he always steps up and performs when we need him. It is great leadership, and it is a testament to the way that he approaches it. He really takes ownership of his game and the team."
+
+[https://www.youtube.com/watch?v=UfkrXo6CHzc&t=75s](https://www.youtube.com/watch?v=UfkrXo6CHzc&t=75s)
+
+<small>[Clip it](presserclips://clip?v=UfkrXo6CHzc&t=75&q=2) · [Send to Slack](presserclips://clip?v=UfkrXo6CHzc&t=75&q=2&slack=1)</small>
+
+**3. Mark Daigneault — "the thing that can be a little invisible is number one his intelligence" — The undervalued intelligence and competitiveness of Shai Gilgeous-Alexander** [02:03](https://www.youtube.com/watch?v=UfkrXo6CHzc&t=123s)
+
+Mark Daigneault: "He is big, he is jolly, he rim protects, and he is skilled, and I think that is the thing that people see. I think the thing that can be a little invisible is number one his intelligence. He really has a great sense for the game, even on the other end of the floor. And number two, he is a big-time competitor, and I think sometimes the personality, which is very friendly and kind, can be misinterpreted, but that guy competes. He cares about the team and he cares about winning, and I thought that was on display tonight."
+
+[https://www.youtube.com/watch?v=UfkrXo6CHzc&t=123s](https://www.youtube.com/watch?v=UfkrXo6CHzc&t=123s)
+
+<small>[Clip it](presserclips://clip?v=UfkrXo6CHzc&t=123&q=3) · [Send to Slack](presserclips://clip?v=UfkrXo6CHzc&t=123&q=3&slack=1)</small>
+
+**4. Mark Daigneault — "he is here for a reason and obviously a lot is changing for him" — Benny Sturtz's adjustment to his new role** [03:56](https://www.youtube.com/watch?v=UfkrXo6CHzc&t=236s)
+
+Mark Daigneault: "Respectfully, he has had too much self-awareness. He is coming in and really tried to blend and has had great respect for the team and is trying to fit in. He is here for a reason, and obviously a lot is changing for him. He is a rookie in the NBA, it is a huge step for him from just for every rookie. His role is much different than it was in college and his role is much different than it was in training camp because of the circumstances changing. He has got a lot coming at him, but I thought he had an aggression tonight offensively that we need out of him."
+
+[https://www.youtube.com/watch?v=UfkrXo6CHzc&t=236s](https://www.youtube.com/watch?v=UfkrXo6CHzc&t=236s)
+
+<small>[Clip it](presserclips://clip?v=UfkrXo6CHzc&t=236&q=4) · [Send to Slack](presserclips://clip?v=UfkrXo6CHzc&t=236&q=4&slack=1)</small>
+
+**5. Mark Daigneault — "the double-big lineup is something that has been pretty good for us" — The structural trade-offs of playing a double-big lineup** [08:14](https://www.youtube.com/watch?v=UfkrXo6CHzc&t=494s)
+
+Mark Daigneault: "I think some of it to be honest with you is structural when we have two centers on the court together. But I would encourage it, we are not trying to give up a great shot on any possession, whether it is a layup or a free throw or a three or a clean two for a good pull-up jump shooter. But there are trade-offs, and the double-big lineup is something that has been pretty good for us. We have rebounded well, we have not fouled, we have taken away the rim almost entirely, and we have put a lot of pressure on the other team to make jump shots."
+
+[https://www.youtube.com/watch?v=UfkrXo6CHzc&t=494s](https://www.youtube.com/watch?v=UfkrXo6CHzc&t=494s)
+
+<small>[Clip it](presserclips://clip?v=UfkrXo6CHzc&t=494&q=5) · [Send to Slack](presserclips://clip?v=UfkrXo6CHzc&t=494&q=5&slack=1)</small>
+
+---
+
+## SGA on Team's Performance Versus Pelicans | Postgame Media | November 20, 2026 — *Oklahoma City Thunder*
+
+Source: [https://www.youtube.com/watch?v=XZo9TXN3Y-k](https://www.youtube.com/watch?v=XZo9TXN3Y-k)
+
+_Speakers identified: Shai Gilgeous-Alexander_
+
+**1. Shai Gilgeous-Alexander — "He's a really good basketball player. You don't have the journey he's had unless you know how" — Shai Gilgeous-Alexander on Cason Wallace's development and aggressive play** [00:40](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
+
+Shai Gilgeous-Alexander: "Cason is a really good basketball player. You don't have the journey he's had unless you know how to play basketball at a high level. Despite the size and the athleticism and the conference and the stage he's on, he's just been able to rise because he knows how to play the game. He knows his strengths and he stays within those. I think more than anything for him it's just a learning curve. He's been on the ball a lot in his career and obviously with myself and **AJ** and the guys of the caliber on this team, he's had to find his spots off the ball. I think that's more so what it is than anything. But he's doing a really good job of just figuring out on the fly and we're a better team on both ends of the floor when he's aggressive offensively."
+
+[https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=40s)
+
+<small>[Clip it](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1) · [Send to Slack](presserclips://clip?v=XZo9TXN3Y-k&t=40&q=1&slack=1)</small>
+
+**2. Shai Gilgeous-Alexander — "He has great spirits about him. No matter what, he's smiling, he's fun to be around" — Shai Gilgeous-Alexander on Cason Wallace's personality and competitive spirit** [01:50](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=110s)
+
+Shai Gilgeous-Alexander: "He has great spirits about him. A little bit like **Jared**, but **Jared**'s a little over the top. **Jared** is in your face with it, but Cason has great spirits. No matter what, he's smiling, he's fun to be around, he's really funny. And then he just goes out there and competes. No matter who it is, he's huge out there on the floor and he's still figuring it out. I'm excited to see what his career is going to become. He has all the potential in the world."
+
+[https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=110s](https://www.youtube.com/watch?v=XZo9TXN3Y-k&t=110s)
+
+<small>[Clip it](presserclips://clip?v=XZo9TXN3Y-k&t=110&q=2) · [Send to Slack](presserclips://clip?v=XZo9TXN3Y-k&t=110&q=2&slack=1)</small>
+
+---
+
 ## What Doug Christie wants Kings’ Darius Acuff Jr. to learn Friday | NBC Sports California — *Sacramento Kings*
 
 Source: [https://www.youtube.com/watch?v=_ybwjbf47H0](https://www.youtube.com/watch?v=_ybwjbf47H0)
@@ -361,6 +625,54 @@ Doug Christie: "More than anything, it's probably above the break contested thre
 **Doug Christie:** "Definitely. I think watching how he processes the game is huge for a young player. Darius, last time we played them, we saw tilts, we saw blitzes. They read it. He has seen pretty much every defense for a young player. I haven't seen that as much, but I think that shows what the league thinks of him as a young player. He can really score the basketball and play. So he's now looking at Luka, how does he process that information? How does he go about seeing what the different defenses are and then manipulating them to the benefit of his team?"
 
 [https://www.youtube.com/watch?v=_ybwjbf47H0&t=282s](https://www.youtube.com/watch?v=_ybwjbf47H0&t=282s)
+
+---
+
+## Rick Carlisle Postgame Media Availability | November 20, 2026 — *Indiana Pacers*
+
+Source: [https://www.youtube.com/watch?v=b4-Gw9YC0pc](https://www.youtube.com/watch?v=b4-Gw9YC0pc)
+
+_Speakers identified: Rick Carlisle_
+
+**1. Rick Carlisle — "we did quite a few good things and then let go of the rope in the third quarter." — Rick Carlisle on the Pacers' third-quarter collapse** [00:00](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=0s)
+
+Rick Carlisle: "We did quite a few good things and then let go of the rope in the third quarter. That can't happen, simple as that. We let go of it for probably four or five or six minutes in the first half after building a lead. There's going to be ebbs and flows in games, but it's a consistency thing and we have to be better."
+
+[https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=0s](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=0s)
+
+<small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=0&q=1) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=0&q=1&slack=1)</small>
+
+**2. Rick Carlisle — "they've got two great players that put you in a lot of binds." — Rick Carlisle on the defensive challenges posed by James Harden and Donovan Mitchell** [00:56](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=56s)
+
+Rick Carlisle: "They've got two great players that put you in a lot of binds. They got a lot of shooting around those guys and they were hitting shots. **James Harden** obviously had a phenomenal game with 51 or whatever he ended up with, and **Donovan Mitchell** causes problems too. For a great portion of the first half, we did a very solid job on Mitchell and Harden on certain occasions, but he was having one of those nights and we didn't do well enough on him, simple as that."
+
+[https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=56s](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=56s)
+
+<small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=56&q=2) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=56&q=2&slack=1)</small>
+
+**3. Rick Carlisle — "he was having one of his best games." — Rick Carlisle on the defensive impact of Kelly Olynyk** [01:58](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=118s)
+
+Rick Carlisle: "He was having one of his best games. Defensively he was solid, offensively he was creating problems for the opponent. That is probably something that I'll look at on the film and say this is where some of the big problems in the third quarter began."
+
+[https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=118s](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=118s)
+
+<small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=118&q=3) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=118&q=3&slack=1)</small>
+
+**4. Rick Carlisle — "what our fans want to see is us playing like that group in the last eight minutes played." — Rick Carlisle on the team's need for consistent effort** [03:11](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=191s)
+
+Rick Carlisle: "Nobody wants to hear excuses about anything. What our fans want to see is us playing like that group in the last eight minutes played. Just balls out and hard as possible, flying around, making the other team uncomfortable and with a consistent spirit. That's the goal for 48 minutes. That's what we've been about when we've been good."
+
+[https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=191s](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=191s)
+
+<small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=191&q=4) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=191&q=4&slack=1)</small>
+
+**5. Rick Carlisle — Rick Carlisle on T.J. McConnell's hamstring injury** [05:26](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
+
+Rick Carlisle: "He's got a hamstring issue on the other hamstring. We don't know how bad yet. He was not asking out of the game, but he felt it and so **Josh** kind of saw it happen. He said, 'Hey, we got to get T.J. out,' and so we took a foul to get him out. So we'll see, I'm not going to speculate. I haven't talked to him yet, but it's another body blow, so we just got to absorb it and the next man's got to be ready to be up."
+
+[https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s](https://www.youtube.com/watch?v=b4-Gw9YC0pc&t=326s)
+
+<small>[Clip it](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5) · [Send to Slack](presserclips://clip?v=b4-Gw9YC0pc&t=326&q=5&slack=1)</small>
 
 ---
 
@@ -500,6 +812,54 @@ Dalton Johnson: "You can hear him saying to long season, long haul, long haul, r
 
 ---
 
+## Jamahl Mosley | Pelicans vs. Thunder Postgame Interview 11/20/26 — *New Orleans Pelicans*
+
+Source: [https://www.youtube.com/watch?v=oOB1cuPdCjI](https://www.youtube.com/watch?v=oOB1cuPdCjI)
+
+_Speakers identified: Jamahl Mosley_
+
+**1. Jamahl Mosley — "I love our fight. I would say they go up 11-0 to start, we don't rattle." — Jamahl Mosley praises his team's resilience and fighting spirit** [00:12](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=12s)
+
+Jamahl Mosley: "I love our fight. I would say they go up 11-0 to start, we don't rattle, come back, make a great run for ourselves and then keep our foot on the gas from there. That fourth quarter when they went on the run, that was the start of it. A couple empty possessions offensively, but also a few offensive rebounds that led to kick-out threes. They did a great job on the glass giving themselves extra possessions down there in the fourth quarter."
+
+[https://www.youtube.com/watch?v=oOB1cuPdCjI&t=12s](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=12s)
+
+<small>[Clip it](presserclips://clip?v=oOB1cuPdCjI&t=12&q=1) · [Send to Slack](presserclips://clip?v=oOB1cuPdCjI&t=12&q=1&slack=1)</small>
+
+**2. Jamahl Mosley — "That's not a way to do it. That was it. They got a shot majority of the times." — Mosley addresses the team's turnover issues in the fourth quarter** [00:40](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=40s)
+
+Jamahl Mosley: "That's not a way to do it. That was it. They got a shot majority of the times down, and again, they did a great job to give them credit coming down getting some switching going. They throw the ball in the middle, they sprayed out, forced us to play a little bit of one-on-one. What got us the lead was us being able to share it, move it, trust it, whether you're open let it fly. But we got to make sure we sit down and get stops."
+
+[https://www.youtube.com/watch?v=oOB1cuPdCjI&t=40s](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=40s)
+
+<small>[Clip it](presserclips://clip?v=oOB1cuPdCjI&t=40&q=2) · [Send to Slack](presserclips://clip?v=oOB1cuPdCjI&t=40&q=2&slack=1)</small>
+
+**3. Jamahl Mosley — "We ran a couple plays to get him in the middle of the floor to get downhill." — Mosley explains the tactical adjustments made to defend Z** [01:19](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=79s)
+
+Jamahl Mosley: "We ran a couple plays to get him in the middle of the floor to get downhill was great, then we put him on the side of the floor. They started to shrink the floor a lot more, sat guys in the paint, so he wasn't allowed to get downhill as much. Again, that's when we just have to keep flowing, get him on the move a little bit more so then they can't load up as much."
+
+[https://www.youtube.com/watch?v=oOB1cuPdCjI&t=79s](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=79s)
+
+<small>[Clip it](presserclips://clip?v=oOB1cuPdCjI&t=79&q=3) · [Send to Slack](presserclips://clip?v=oOB1cuPdCjI&t=79&q=3&slack=1)</small>
+
+**4. Jamahl Mosley — "He stretches the floor out so well, was willing to take on defensive match ups." — Mosley evaluates the impact of Shay's return to the lineup** [01:56](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=116s)
+
+Jamahl Mosley: "He stretches the floor out so well, was willing to take on defensive match ups. When **Herb** checked out of the game, he was able to step in and guard **Shay** for a little bit. I think those are the key things for us for him that he provides, his ability to again space the floor, but also defensive match ups being able to take on those challenges because of his length, because of his size."
+
+[https://www.youtube.com/watch?v=oOB1cuPdCjI&t=116s](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=116s)
+
+<small>[Clip it](presserclips://clip?v=oOB1cuPdCjI&t=116&q=4) · [Send to Slack](presserclips://clip?v=oOB1cuPdCjI&t=116&q=4&slack=1)</small>
+
+**5. Jamahl Mosley — "I still need to discuss that with our medical staff and see where we go from here." — Mosley provides update on player status following minor injury** [02:25](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
+
+Jamahl Mosley: "I still need to discuss that with our medical staff and see where we go from here."
+
+[https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s](https://www.youtube.com/watch?v=oOB1cuPdCjI&t=145s)
+
+<small>[Clip it](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5) · [Send to Slack](presserclips://clip?v=oOB1cuPdCjI&t=145&q=5&slack=1)</small>
+
+---
+
 ## Hawks vs. Hornets Postgame Press Conference: Head Coach Quin Snyder — *Atlanta Hawks*
 
 Source: [https://www.youtube.com/watch?v=s19CJPy57_8](https://www.youtube.com/watch?v=s19CJPy57_8)
@@ -561,3 +921,99 @@ Quin Snyder: "**Diabate** was part of it. They not only do they have, and he and
 [https://www.youtube.com/watch?v=s19CJPy57_8&t=398s](https://www.youtube.com/watch?v=s19CJPy57_8&t=398s)
 
 <small>[Clip it](presserclips://clip?v=s19CJPy57_8&t=398&q=7) · [Send to Slack](presserclips://clip?v=s19CJPy57_8&t=398&q=7&slack=1)</small>
+
+---
+
+## POSTGAME SOUND: ORLANDO MAGIC VS. BROOKLYN NETS | COACH SWEENEY,  FRANZ WAGNER, & NIKOLA VUCEVIC — *Orlando Magic*
+
+Source: [https://www.youtube.com/watch?v=z-Su97mVflE](https://www.youtube.com/watch?v=z-Su97mVflE)
+
+_Speakers identified: Coach Sweeney, Franz Wagner, Nikola Vucevic_
+
+**1. Coach Sweeney — "spectacular shot making from a big time player" — Franz Wagner's development and clutch performance against the Nets** [00:05](https://www.youtube.com/watch?v=z-Su97mVflE&t=5s)
+
+Coach Sweeney: "Spectacular shot making from a big time player. **Franz** has been off to a great start. He's picked it up as the years gone along. He was phenomenal tonight on both ends, all areas, and down the stretch to get the ball, go to his right hand, have that little bump to create the space to get himself a great look, did an excellent job. We need every basket that he had and none more than that."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=5s](https://www.youtube.com/watch?v=z-Su97mVflE&t=5s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=5&q=1) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=5&q=1&slack=1)</small>
+
+**2. Coach Sweeney — "this is our tenth game in like a clutch game situation" — Orlando Magic's growth in clutch game situations** [00:39](https://www.youtube.com/watch?v=z-Su97mVflE&t=39s)
+
+Coach Sweeney: "This is our tenth game in like a clutch game situation. I think we've been coaching and teaching and addressing and the players have done a really good job of trying to voice what they think and what we need to do down the stretch. Tonight was a good example of us not playing our best but when we needed it most, tightening up. I thought the coaches did an excellent job. There were a couple times where I was ready to lose my poise and guys like **Buck** did a great job of maintaining steadiness."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=39s](https://www.youtube.com/watch?v=z-Su97mVflE&t=39s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=39&q=2) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=39&q=2&slack=1)</small>
+
+**3. Coach Sweeney — "Wendell did a great job throughout the course of the game and especially in that second half" — Wendell Carter Jr.'s energy and rebounding impact** [01:20](https://www.youtube.com/watch?v=z-Su97mVflE&t=80s)
+
+Coach Sweeney: "**Wendell** did a great job throughout the course of the game and especially in that second half. He really picked up his energy and was able to sustain it all the way down to the end. In the fourth quarter, he needed a quick sub just to catch his breath and once he was ready to go, got him back in and he did a great job closing the show on both ends for us."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=80s](https://www.youtube.com/watch?v=z-Su97mVflE&t=80s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=80&q=3) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=80&q=3&slack=1)</small>
+
+**4. Coach Sweeney — "he and Wendell being out there together really helped us kind of clean up the boards" — Nikola Vucevic's contribution and impact on team rebounding** [01:42](https://www.youtube.com/watch?v=z-Su97mVflE&t=102s)
+
+Coach Sweeney: "The 15 points are big. He's done a great job of being ready to play. He came in in the first half early in that first quarter and was ready to go right off the bat. He gave us a boost. We were struggling to rebound the ball there early and so he and **Wendell** being out there together really helped us kind of clean up the boards for a little bit there."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=102s](https://www.youtube.com/watch?v=z-Su97mVflE&t=102s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=102&q=4) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=102&q=4&slack=1)</small>
+
+**5. Franz Wagner — "I saw Randall kind of creeping up from I think maybe Dez" — Franz Wagner on his game-winning shot against the Nets** [02:56](https://www.youtube.com/watch?v=z-Su97mVflE&t=176s)
+
+Franz Wagner: "I mean obviously I think eight seconds or something like that left. The play was for me to go right. I saw **Randall** kind of creeping up from I think maybe **Dez**, but I felt like I wasn't sure if I was going to get the pass off. So I mean not the best look, but we'll take it."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=176s](https://www.youtube.com/watch?v=z-Su97mVflE&t=176s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=176&q=5) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=176&q=5&slack=1)</small>
+
+**6. Franz Wagner — "it was very weird seeing him over there" — Franz Wagner on the experience of playing against his brother** [04:03](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
+
+Franz Wagner: "It was both. It was very weird seeing him over there. Playing five years together, you get super used to that. It kind of set in, kind of realized today that he's on a different team. It was weird but it was also fun. I think he's in a good spot. I think he really likes it here, so happy for him."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=243s](https://www.youtube.com/watch?v=z-Su97mVflE&t=243s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=243&q=6) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=243&q=6&slack=1)</small>
+
+**7. Franz Wagner — "wir hatten Familie hier, viele Freunde aus Berlin" — Franz Wagner on the support from family and friends in Berlin** [05:38](https://www.youtube.com/watch?v=z-Su97mVflE&t=338s)
+
+Franz Wagner: "Wir hatten Familie hier, viele Freunde aus Berlin, viele Freunde aus Amerika auch. Und ja, haben nicht nur wir uns, glaube ich, gesirkelt auf dem Kalender, auch unsere Familie und Freunde. Und ja, war schon besonders. Wie gesagt, wir haben uns sehr daran gewöhnt, zusammenzuspielen und ich glaube unser Umfeld auch. Und ja, war sehr sehr komisch, müssen wir uns erstmal dran gewöhnen."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=338s](https://www.youtube.com/watch?v=z-Su97mVflE&t=338s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=338&q=7) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=338&q=7&slack=1)</small>
+
+**8. Nikola Vucevic — "one thing we did a really good job of was crashing offensively" — Nikola Vucevic on the team's defensive effort and rebounding** [07:14](https://www.youtube.com/watch?v=z-Su97mVflE&t=434s)
+
+Nikola Vucevic: "I thought we were poised towards the end. One thing we did a really good job of was crashing offensively. It gave us a lot of second chance opportunities. **Wendell** had that big one where he laid the ball in, that was a huge play for us. **AB** got a couple. So yeah, I think that was good for us on some of the misses we were able to get the ball back and get better looks. And then I thought defensively we did a good job not fouling as much and playing smart defensively and did a good job on the glass on that end."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=434s](https://www.youtube.com/watch?v=z-Su97mVflE&t=434s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=434&q=8) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=434&q=8&slack=1)</small>
+
+**9. Nikola Vucevic — "he's also taking a big step with his leadership, talking, keeping guys poised" — Nikola Vucevic on Franz Wagner's leadership and recent performance** [08:00](https://www.youtube.com/watch?v=z-Su97mVflE&t=480s)
+
+Nikola Vucevic: "He's been great all around. Obviously he's scoring, he's passing, he's rebounding. He's also taking a big step with his leadership, talking, keeping guys poised and everything. It's been great to see how he's been playing last couple weeks especially since **Paolo** went out. He's really been leading this team in a great positive way and with his numbers and the way he plays and the way he approaches the game as well, and we all follow him."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=480s](https://www.youtube.com/watch?v=z-Su97mVflE&t=480s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=480&q=9) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=480&q=9&slack=1)</small>
+
+**10. Nikola Vucevic — "for me this is a huge adjustment" — Nikola Vucevic on adjusting to his new role** [08:53](https://www.youtube.com/watch?v=z-Su97mVflE&t=533s)
+
+Nikola Vucevic: "For me this is a huge adjustment. Just a few months ago I was playing 30 minutes a game, starting, being one of the main options on a team and now coming to a very, very, very different role. So far, haven't really had established role minutes. Kind of trying to figure it all out. So it's hard sometimes to find a rhythm that way and especially for me because I'm kind of a rhythm player. I play off my feel for the game and everything and so it's a big adjustment."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=533s](https://www.youtube.com/watch?v=z-Su97mVflE&t=533s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=533&q=10) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=533&q=10&slack=1)</small>
+
+**11. Nikola Vucevic — "velika pobjeda u gostima protiv Barcelone" — Nikola Vucevic on the Magic's win over Barcelona** [11:38](https://www.youtube.com/watch?v=z-Su97mVflE&t=698s)
+
+Nikola Vucevic: "Nisam gledao, tad sam odmarao i poslije se spremao za utakmicu. Samo sam pratio rezultat na telefonu i velika pobjeda u gostima protiv Barcelone u produžetku. Stvarno velika pobjeda poslije teškog poraza u Milanu, su stvarno odgovorili na dobar način. Tako da drago mi je, pratio sam, pratim stalno. Kad stignem da gledam naravno i gledam, a danas nisam stigao. Ali mi je drago su dobili, stvarno velika pobjeda u gostima ovih teško protiv Barcelone, tako da bitna bitna pobjeda."
+
+[https://www.youtube.com/watch?v=z-Su97mVflE&t=698s](https://www.youtube.com/watch?v=z-Su97mVflE&t=698s)
+
+<small>[Clip it](presserclips://clip?v=z-Su97mVflE&t=698&q=11) · [Send to Slack](presserclips://clip?v=z-Su97mVflE&t=698&q=11&slack=1)</small>

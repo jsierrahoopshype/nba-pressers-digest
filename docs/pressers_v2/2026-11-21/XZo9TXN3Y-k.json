@@ -1,0 +1,93 @@
+{
+  "video_title": "SGA on Team's Performance Versus Pelicans | Postgame Media | November 20, 2026",
+  "speakers_seen": [
+    "Shai Gilgeous-Alexander"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "00:40",
+      "summary_phrase": "Shai Gilgeous-Alexander on Cason Wallace's development and aggressive play",
+      "names_mentioned": [
+        "Cason Wallace",
+        "Shai Gilgeous-Alexander",
+        "AJ"
+      ],
+      "excerpt": "He's a really good basketball player. You don't have the journey he's had unless you know how",
+      "quote": "Cason is a really good basketball player. You don't have the journey he's had unless you know how to play basketball at a high level. Despite the size and the athleticism and the conference and the stage he's on, he's just been able to rise because he knows how to play the game. He knows his strengths and he stays within those. I think more than anything for him it's just a learning curve. He's been on the ball a lot in his career and obviously with myself and AJ and the guys of the caliber on this team, he's had to find his spots off the ball. I think that's more so what it is than anything. But he's doing a really good job of just figuring out on the fly and we're a better team on both ends of the floor when he's aggressive offensively.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Shai Gilgeous-Alexander says Cason Wallace is adjusting well to playing off the ball. He notes that the Thunder are a better team on both ends of the floor when Wallace is aggressive offensively.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cason Wallace"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander discusses Cason Wallace's development and his adjustment to playing off the ball with the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "01:50",
+      "summary_phrase": "Shai Gilgeous-Alexander on Cason Wallace's personality and competitive spirit",
+      "names_mentioned": [
+        "Cason Wallace",
+        "Jared"
+      ],
+      "excerpt": "He has great spirits about him. No matter what, he's smiling, he's fun to be around",
+      "quote": "He has great spirits about him. A little bit like Jared, but Jared's a little over the top. Jared is in your face with it, but Cason has great spirits. No matter what, he's smiling, he's fun to be around, he's really funny. And then he just goes out there and competes. No matter who it is, he's huge out there on the floor and he's still figuring it out. I'm excited to see what his career is going to become. He has all the potential in the world.",
+      "text_blocks": [],
+      "start_seconds": 110,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Shai Gilgeous-Alexander compares Cason Wallace to Jared McCain, saying Wallace has great spirits and is really funny. He adds that Wallace has all the potential in the world.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cason Wallace",
+          "Jared McCain"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander comments on Cason Wallace's personality and competitive nature while comparing him to Jared McCain.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "XZo9TXN3Y-k",
+  "url": "https://www.youtube.com/watch?v=XZo9TXN3Y-k",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-21T04:47:50Z",
+  "duration_seconds": 181,
+  "processed_at": "2026-11-21T04:55:56Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

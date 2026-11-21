@@ -1,0 +1,179 @@
+{
+  "video_title": "Rick Carlisle Postgame Media Availability | November 20, 2026",
+  "speakers_seen": [
+    "Rick Carlisle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:00",
+      "summary_phrase": "Rick Carlisle on the Pacers' third-quarter collapse",
+      "names_mentioned": [],
+      "excerpt": "we did quite a few good things and then let go of the rope in the third quarter.",
+      "quote": "We did quite a few good things and then let go of the rope in the third quarter. That can't happen, simple as that. We let go of it for probably four or five or six minutes in the first half after building a lead. There's going to be ebbs and flows in games, but it's a consistency thing and we have to be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the Pacers third quarter collapse: We did quite a few good things and then let go of the rope in the third quarter. That cannot happen, simple as that.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the team's performance and their third-quarter collapse during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:56",
+      "summary_phrase": "Rick Carlisle on the defensive challenges posed by James Harden and Donovan Mitchell",
+      "names_mentioned": [
+        "James Harden",
+        "Donovan Mitchell"
+      ],
+      "excerpt": "they've got two great players that put you in a lot of binds.",
+      "quote": "They've got two great players that put you in a lot of binds. They got a lot of shooting around those guys and they were hitting shots. James Harden obviously had a phenomenal game with 51 or whatever he ended up with, and Donovan Mitchell causes problems too. For a great portion of the first half, we did a very solid job on Mitchell and Harden on certain occasions, but he was having one of those nights and we didn't do well enough on him, simple as that.",
+      "verbatim_original_language": "",
+      "start_seconds": 56,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Rick Carlisle on defending James Harden after his 51 point performance: He was having one of those nights and we did not do well enough on him, simple as that.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "James Harden",
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "IND",
+          "LAC",
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle analyzes the defensive challenges posed by James Harden and Donovan Mitchell during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:58",
+      "summary_phrase": "Rick Carlisle on the defensive impact of Kelly Olynyk",
+      "names_mentioned": [
+        "Kelly Olynyk"
+      ],
+      "excerpt": "he was having one of his best games.",
+      "quote": "He was having one of his best games. Defensively he was solid, offensively he was creating problems for the opponent. That is probably something that I'll look at on the film and say this is where some of the big problems in the third quarter began.",
+      "verbatim_original_language": "",
+      "start_seconds": 118,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rick Carlisle says he will review film to see if Kelly Olynyk was a factor in the third quarter defensive struggles.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kelly Olynyk"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle evaluates the performance of Kelly Olynyk and his impact on the game's outcome.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "03:11",
+      "summary_phrase": "Rick Carlisle on the team's need for consistent effort",
+      "names_mentioned": [],
+      "excerpt": "what our fans want to see is us playing like that group in the last eight minutes played.",
+      "quote": "Nobody wants to hear excuses about anything. What our fans want to see is us playing like that group in the last eight minutes played. Just balls out and hard as possible, flying around, making the other team uncomfortable and with a consistent spirit. That's the goal for 48 minutes. That's what we've been about when we've been good.",
+      "verbatim_original_language": "",
+      "start_seconds": 191,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the Pacers effort: Nobody wants to hear excuses. What our fans want to see is us playing like that group in the last eight minutes played. Just balls out and hard as possible.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle emphasizes the need for consistent effort and spirit from his team for the full 48 minutes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Rick Carlisle",
+      "timestamp": "05:26",
+      "summary_phrase": "Rick Carlisle on T.J. McConnell's hamstring injury",
+      "names_mentioned": [
+        "T.J. McConnell",
+        "Josh"
+      ],
+      "quote": "He's got a hamstring issue on the other hamstring. We don't know how bad yet. He was not asking out of the game, but he felt it and so Josh kind of saw it happen. He said, 'Hey, we got to get T.J. out,' and so we took a foul to get him out. So we'll see, I'm not going to speculate. I haven't talked to him yet, but it's another body blow, so we just got to absorb it and the next man's got to be ready to be up.",
+      "verbatim_original_language": "",
+      "start_seconds": 326,
+      "end_seconds": 361,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Rick Carlisle confirms TJ McConnell is dealing with a hamstring issue. He says it is another body blow for the team and they will have to see how bad it is.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "T.J. McConnell"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Rick Carlisle provides an update on T.J. McConnell after he left the game due to a hamstring injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "b4-Gw9YC0pc",
+  "url": "https://www.youtube.com/watch?v=b4-Gw9YC0pc",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-21T04:16:40Z",
+  "duration_seconds": 459,
+  "processed_at": "2026-11-21T04:56:22Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,180 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs. Thunder Postgame Interview 11/20/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:12",
+      "summary_phrase": "Jamahl Mosley praises his team's resilience and fighting spirit",
+      "names_mentioned": [],
+      "excerpt": "I love our fight. I would say they go up 11-0 to start, we don't rattle.",
+      "quote": "I love our fight. I would say they go up 11-0 to start, we don't rattle, come back, make a great run for ourselves and then keep our foot on the gas from there. That fourth quarter when they went on the run, that was the start of it. A couple empty possessions offensively, but also a few offensive rebounds that led to kick-out threes. They did a great job on the glass giving themselves extra possessions down there in the fourth quarter.",
+      "verbatim_original_language": "",
+      "start_seconds": 12,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the Pelicans comeback win against the Thunder: I love our fight. We did not rattle after the 11-0 start and kept our foot on the gas.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's resilience and performance during the game against the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:40",
+      "summary_phrase": "Mosley addresses the team's turnover issues in the fourth quarter",
+      "names_mentioned": [],
+      "excerpt": "That's not a way to do it. That was it. They got a shot majority of the times.",
+      "quote": "That's not a way to do it. That was it. They got a shot majority of the times down, and again, they did a great job to give them credit coming down getting some switching going. They throw the ball in the middle, they sprayed out, forced us to play a little bit of one-on-one. What got us the lead was us being able to share it, move it, trust it, whether you're open let it fly. But we got to make sure we sit down and get stops.",
+      "verbatim_original_language": "",
+      "start_seconds": 40,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the fourth quarter struggles: What got us the lead was us being able to share it, move it, trust it. We have to make sure we sit down and get stops.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley analyzes the team's fourth-quarter struggles and turnover issues against the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:19",
+      "summary_phrase": "Mosley explains the tactical adjustments made to defend Z",
+      "names_mentioned": [
+        "Z"
+      ],
+      "excerpt": "We ran a couple plays to get him in the middle of the floor to get downhill.",
+      "quote": "We ran a couple plays to get him in the middle of the floor to get downhill was great, then we put him on the side of the floor. They started to shrink the floor a lot more, sat guys in the paint, so he wasn't allowed to get downhill as much. Again, that's when we just have to keep flowing, get him on the move a little bit more so then they can't load up as much.",
+      "verbatim_original_language": "",
+      "start_seconds": 79,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the tactical adjustments to defend Z: They started to shrink the floor a lot more and sat guys in the paint so he was not allowed to get downhill as much.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley explains the tactical adjustments made to help Zion Williamson navigate the opponent's defensive pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:56",
+      "summary_phrase": "Mosley evaluates the impact of Shay's return to the lineup",
+      "names_mentioned": [
+        "Shay",
+        "Herb"
+      ],
+      "excerpt": "He stretches the floor out so well, was willing to take on defensive match ups.",
+      "quote": "He stretches the floor out so well, was willing to take on defensive match ups. When Herb checked out of the game, he was able to step in and guard Shay for a little bit. I think those are the key things for us for him that he provides, his ability to again space the floor, but also defensive match ups being able to take on those challenges because of his length, because of his size.",
+      "verbatim_original_language": "",
+      "start_seconds": 116,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on the impact of Shay returning to the lineup: He stretches the floor out so well and is willing to take on defensive matchups. His length and size are key for us.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander",
+          "Herb Jones"
+        ],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley evaluates the defensive impact and floor spacing provided by a player returning to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:25",
+      "summary_phrase": "Mosley provides update on player status following minor injury",
+      "names_mentioned": [],
+      "excerpt": "I still need to discuss that with our medical staff and see where we go from here.",
+      "quote": "I still need to discuss that with our medical staff and see where we go from here.",
+      "verbatim_original_language": "",
+      "start_seconds": 145,
+      "end_seconds": 152,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley provides a brief update on a player injury status: I still need to discuss that with our medical staff and see where we go from here.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jamahl Mosley states he needs to consult with the medical staff regarding a player's injury status.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "oOB1cuPdCjI",
+  "url": "https://www.youtube.com/watch?v=oOB1cuPdCjI",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-21T04:13:14Z",
+  "duration_seconds": 158,
+  "processed_at": "2026-11-21T04:56:25Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}

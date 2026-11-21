@@ -1,0 +1,169 @@
+{
+  "video_title": "Aday Mara After A Big Night | Postgame Media | November 20, 2026",
+  "speakers_seen": [
+    "Aday Mara"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Aday Mara",
+      "timestamp": "00:11",
+      "summary_phrase": "Aday Mara on OKC's defensive adjustments in the second half",
+      "names_mentioned": [],
+      "excerpt": "I think that's a good thing that we have as a team that we can change things",
+      "quote": "I think we were ready for it after the first half. I think they got too many easy baskets in the paint and we just changed it. I think that's a good thing that we have as a team that we can change things while we're playing. So I think we just did a better job in the second half.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Aday Mara says the Thunder defensive turnaround in the second half came down to the team ability to adjust on the fly after giving up too many easy baskets in the paint.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Aday Mara discusses how the Oklahoma City Thunder adjusted their defensive strategy during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Aday Mara",
+      "timestamp": "00:56",
+      "summary_phrase": "Aday Mara on OKC's offensive philosophy and shot selection",
+      "names_mentioned": [],
+      "excerpt": "our philosophy as a team, Mark's philosophy, to get the best shot",
+      "quote": "I think it's our philosophy as a team, Mark's philosophy, to get the best shot. We were talking about getting more easy threes maybe. Sometimes we're just trying to get to the paint every time and when we had a good shot, so just trying to find the best shot every time and trying to do easy stuff on the court. That's going to make everything easier too.",
+      "text_blocks": [],
+      "start_seconds": 56,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Aday Mara on the Thunder offensive philosophy under Mark Daigneault: We are trying to find the best shot every time and just trying to do easy stuff on the court to make everything easier.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mark Daigneault"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Aday Mara explains the team offensive philosophy regarding shot selection as implemented by head coach Mark Daigneault.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Aday Mara",
+      "timestamp": "01:29",
+      "summary_phrase": "Aday Mara explains the jump ball play with Kenrich Williams",
+      "names_mentioned": [
+        "Kenrich Williams"
+      ],
+      "excerpt": "I told him to stay... my idea was to pass it to him and him seal his player",
+      "quote": "I told him to stay. He was behind me and my idea was to pass it to him and him seal his player and just let it in. And then he told me like, 'I'm going to get it and then just go to the room and I'm going to throw it to you.' So when I went to the room, he passed it to me, I dunk it and I turned and he was like celebrating and looking at me. So yeah, he told me, he told me.",
+      "text_blocks": [],
+      "start_seconds": 89,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "Aday Mara breaks down his jump ball play with Kenrich Williams: He told me I am going to get it and then just go to the room and I am going to throw it to you. It worked perfectly.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kenrich Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Aday Mara describes a specific play sequence involving a jump ball and a successful pass to teammate Kenrich Williams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Aday Mara",
+      "timestamp": "02:09",
+      "summary_phrase": "Aday Mara on his comfort level and home court energy",
+      "names_mentioned": [],
+      "excerpt": "I love to play here at home. I think the people gives a lot of energy",
+      "quote": "I'm pretty comfortable. Also, I love to play here at home. I think the people gives a lot of energy when we play, so it's much easier to get in the game. So I'm just trying to play every day as tough as I can. Sometimes I know I've been taking, for example, my rebounding very seriously the last couple of games and I think it's been working.",
+      "text_blocks": [],
+      "start_seconds": 129,
+      "end_seconds": 155,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Aday Mara says he has been taking his rebounding very seriously over the last couple of games and feels the extra focus is paying off.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Aday Mara reflects on his comfort level playing at home and his recent focus on improving his rebounding performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Aday Mara",
+      "timestamp": "03:16",
+      "summary_phrase": "Aday Mara on his personal development and team role",
+      "names_mentioned": [],
+      "excerpt": "I know I can be much better and do inside my role, I can do things much better",
+      "quote": "I know that I can be much better and do inside my role, I can do things much better. But right now I'm just focused on trying to help the team as the same thing I said in preseason, try to help the team as much as I can inside my role. But I know I can get much better and this is just the beginning. But yeah, I'm excited for what is coming.",
+      "text_blocks": [],
+      "start_seconds": 196,
+      "end_seconds": 224,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Aday Mara on his development: I know that I can be much better and do things much better within my role. This is just the beginning.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Aday Mara discusses his personal development and his commitment to contributing within his defined role for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "KsVHScfz3wQ",
+  "url": "https://www.youtube.com/watch?v=KsVHScfz3wQ",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-21T04:49:24Z",
+  "duration_seconds": 238,
+  "processed_at": "2026-11-21T04:56:00Z",
+  "run_id": "2026-11-21-overnight",
+  "is_one_off": false
+}
