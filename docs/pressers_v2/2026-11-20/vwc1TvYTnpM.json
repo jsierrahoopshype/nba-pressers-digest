@@ -1,0 +1,117 @@
+{
+  "video_title": "Walker Kessler Describes Playing With Luka Doncic",
+  "speakers_seen": [
+    "Flea",
+    "Walker Kessler",
+    "Tommy Alter",
+    "Cam Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Walker Kessler",
+      "speakers": [
+        "Walker Kessler",
+        "Tommy Alter"
+      ],
+      "timestamp": "02:30",
+      "summary_phrase": "Walker Kessler on the viral play against Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic",
+        "Kyrie Irving"
+      ],
+      "excerpt": "he gets a steal and throws the ball behind his head to Kyrie",
+      "text_blocks": [
+        {
+          "speaker": "Tommy Alter",
+          "text": "When did you realize this with Luka?"
+        },
+        {
+          "speaker": "Walker Kessler",
+          "text": "When we played Dallas, there is a viral clip when I was on Utah. This is when Luka was still in Dallas, he was not in LA. He gets a steal and throws the ball behind his head to Kyrie, and Kyrie grabs the ball. I go to contest the ball and he throws a lob. That whole game, the way he talked and the swagger and confidence he had, it is just different."
+        }
+      ],
+      "start_seconds": 150,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Walker Kessler recalls playing against Luka Doncic and Kyrie Irving, noting that the way Luka carries himself on the court is just different. The swagger and confidence he has is on another level.",
+      "team": "The Old Man and The Three"
+    },
+    {
+      "rank": 2,
+      "speaker": "Walker Kessler",
+      "speakers": [
+        "Walker Kessler",
+        "Tommy Alter"
+      ],
+      "timestamp": "03:29",
+      "summary_phrase": "Advising opposing fan bases to leave Luka Doncic alone",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "for 100 percent, because it just gets him fired up",
+      "text_blocks": [
+        {
+          "speaker": "Tommy Alter",
+          "text": "Do you think he is one of those people, there are certain players who, if you are advising an opposing fan base, to just leave him alone?"
+        },
+        {
+          "speaker": "Walker Kessler",
+          "text": "For 100 percent, because it just gets him fired up."
+        }
+      ],
+      "start_seconds": 209,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 8,
+      "social_post": "Walker Kessler has some simple advice for opposing fan bases when it comes to Luka Doncic: just leave him alone. Trying to get under his skin only gets him fired up.",
+      "team": "The Old Man and The Three"
+    },
+    {
+      "rank": 3,
+      "speaker": "Walker Kessler",
+      "speakers": [
+        "Walker Kessler",
+        "Tommy Alter"
+      ],
+      "timestamp": "09:31",
+      "summary_phrase": "Walker Kessler on why players avoid the skyhook",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "it seems like nobody wants to try the skyhook",
+      "text_blocks": [
+        {
+          "speaker": "Tommy Alter",
+          "text": "Can you answer me a question? This is actually a great question. The guy scores more points than anyone in NBA history until LeBron comes along, right? And no one tries the skyhook."
+        },
+        {
+          "speaker": "Walker Kessler",
+          "text": "People got baby hooks, they got small, but it seems like nobody wants to try the skyhook. You might be 35 a game with the skyhook. If I could make it at a percentage that was good enough, yeah, but if I go out there and shoot three of those and I hit just backboard, people are going to look at me like I am crazy. You speak about fearlessness, I do not have enough fearlessness to shoot a skyhook three times."
+        }
+      ],
+      "start_seconds": 571,
+      "end_seconds": 615,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Why has the skyhook disappeared from the modern NBA? Walker Kessler admits he does not have the fearlessness to try it in a game, fearing he would just hit the backboard and look crazy.",
+      "team": "The Old Man and The Three"
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "yt-quotes rotation",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "vwc1TvYTnpM",
+  "url": "https://www.youtube.com/watch?v=vwc1TvYTnpM",
+  "channel_team": "The Old Man and The Three",
+  "published": "2026-11-21T00:30:02Z",
+  "duration_seconds": 725,
+  "processed_at": "2026-11-21T01:30:35Z",
+  "run_id": "2026-11-21T0130Z-20utc",
+  "is_one_off": false
+}

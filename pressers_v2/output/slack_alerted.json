@@ -1144,13 +1144,6 @@
    "run_id": "2026-11-16T2322Z-14utc",
    "slot_date": "2026-11-16"
   },
-  "LLAasKO3VtA": {
-   "at": "2026-11-07T00:06:59Z",
-   "quote": "so with trey available tonight how do you plan once again to manage your starting lineup i ll let you know right before the game gets going",
-   "run_id": "2026-11-07T0006Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-06"
-  },
   "LMzLcuRzvUQ": {
    "at": "2026-11-09T22:40:01Z",
    "quote": "staying out west that boy luka by the way luka s number one hater is a guy over here named ray this motherfucker hates luka so bad and he s always arguing bullshit talking points in the chat and i jus",
@@ -1731,13 +1724,6 @@
    "run_id": "2026-11-10T2047Z-14utc",
    "seeded": true,
    "slot_date": "2026-11-10"
-  },
-  "Xgr2uxqu_R0": {
-   "at": "2026-11-07T00:06:55Z",
-   "quote": "it actually happened the doctor figured it out during surgery initially supposed to remove a bone out of my heel and then they found that while they were doing the surgery they suspected something els",
-   "run_id": "2026-11-07T0006Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-06"
   },
   "XyDFB6rkCKA": {
    "at": "2026-11-12T04:28:25Z",
@@ -2520,13 +2506,6 @@
    "run_id": "2026-11-17-overnight",
    "slot_date": "2026-11-17"
   },
-  "nGL9QJFNd2c": {
-   "at": "2026-11-07T00:07:05Z",
-   "quote": "i think it s huge even being from the us i didn t get the chance to see nba players as a kid for these kids to be able to see us play in front of them and come to their home country it s awesome",
-   "run_id": "2026-11-07T0006Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-06"
-  },
   "nHH2zQONk9Y": {
    "at": "2026-11-14T00:53:50Z",
    "quote": "we don t want to be in that same position we want to stack up some wins here but it also gives us good perspective all of us that have been in the league for long we understand how extremely long this",
@@ -3231,5 +3210,22 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {}
+ "pending": {
+  "Yz2yrRGvG2s": {
+   "channel": "New Orleans Pelicans",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-20",
+   "is_one_off": false,
+   "queued_at": "2026-11-21T01:31:00Z",
+   "run_id": "2026-11-21T0130Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-20",
+   "speaker": "Jamahl Mosley",
+   "title": "LIVE: Pelicans vs. Thunder Pregame w/ Jamahl Mosley 11/20/2026",
+   "top_quote": "He will be available to play tonight. He will be on a minutes restriction, but just having him out there is going to be very good for us. His ability to stretch the floor, space the floor, decision making, he creates a problem in the pick and roll where guys have to go over, and respecting what he is able to do with his shooting is also for us.",
+   "video_id": "Yz2yrRGvG2s"
+  }
+ }
 }

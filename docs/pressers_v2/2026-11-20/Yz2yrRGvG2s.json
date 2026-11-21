@@ -1,0 +1,156 @@
+{
+  "video_title": "LIVE: Pelicans vs. Thunder Pregame w/ Jamahl Mosley 11/20/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:23",
+      "summary_phrase": "Zion Williamson's availability and impact on the Pelicans' floor spacing",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "His ability to stretch the floor, space the floor, decision making, he creates a problem in the pick and roll",
+      "quote": "He will be available to play tonight. He will be on a minutes restriction, but just having him out there is going to be very good for us. His ability to stretch the floor, space the floor, decision making, he creates a problem in the pick and roll where guys have to go over, and respecting what he is able to do with his shooting is also for us.",
+      "text_blocks": [],
+      "start_seconds": 263,
+      "end_seconds": 290,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley confirms Zion Williamson is available to play tonight against the Thunder. He will be on a minutes restriction but Mosley says having him out there creates a problem in the pick and roll.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jamahl Mosley announces that Zion Williamson will play against the Thunder while on a minutes restriction.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:00",
+      "summary_phrase": "Defensive strategy for guarding Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "It's a full team commitment to guard him. MVP candidate and winner for many reasons.",
+      "quote": "It's a full team commitment to guard him. MVP candidate and winner for many reasons. I think his ability to make others around him better, his mentality going in each game of where he finds his spots, picks and chooses his spots to score, but also just to manipulate the defense. We have got to do a great job of mixing the defenses up, do it without fouling, try to keep him off that free throw line and just mix it up as much as possible.",
+      "text_blocks": [],
+      "start_seconds": 300,
+      "end_seconds": 333,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the defensive plan for Shai Gilgeous-Alexander: It is a full team commitment. We have to mix the defenses up and do it without fouling to keep him off the free throw line.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the defensive game plan for containing Shai Gilgeous-Alexander ahead of the matchup against the Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:42",
+      "summary_phrase": "Pelicans' transition offense and perimeter shooting against Thunder's length",
+      "names_mentioned": [
+        "Luguentz Dort",
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "They've got great length, Luguentz Dort is doing a heck of a job at the rim blocking shots.",
+      "quote": "We have got to be smart about how we do it. They have got great length, Luguentz Dort is doing a heck of a job at the rim blocking shots, protecting the paint. He and Isaiah Hartenstein are doing an unbelievable job protecting the paint. So we have got to do it early, we have got to get out in transition, allow our stops to get out and run and get us some easy baskets. And then we can't force it. So when we get down there and there is a crowd, we have got to continue to work on spraying it out to the perimeter and guys have got to be ready to knock shots down.",
+      "text_blocks": [],
+      "start_seconds": 342,
+      "end_seconds": 387,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the Pelicans must focus on transition offense and perimeter shooting to combat the length of Luguentz Dort and Isaiah Hartenstein in the paint tonight.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luguentz Dort",
+          "Isaiah Hartenstein"
+        ],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the need for transition offense and perimeter shooting to counter the rim protection of Luguentz Dort and Isaiah Hartenstein.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "06:14",
+      "summary_phrase": "Importance of team rebounding against Thunder's size",
+      "names_mentioned": [
+        "Jeremiah Robinson-Earl"
+      ],
+      "excerpt": "It's not just on the bigs to always come up with all the rebounds.",
+      "quote": "It's not just on the bigs to always come up with all the rebounds. We have got to challenge our guards to get in there and get in the fight. The game that Jeremiah Robinson-Earl had his triple-double, he got his nose dirty, got his hands in the fight, and that's where we are going to continue to ask our guards to do is that you have got to help those bigs out as they are down there wrestling with their bigs.",
+      "text_blocks": [],
+      "start_seconds": 374,
+      "end_seconds": 406,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley is challenging his guards to help out on the glass tonight. He says it is not just on the bigs to come up with rebounds and they need to get in the fight against the Thunder size.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Robinson-Earl"
+        ],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley emphasizes the importance of team rebounding and references Jeremiah Robinson-Earl as an example of a player who contributes to the effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "Yz2yrRGvG2s",
+  "url": "https://www.youtube.com/watch?v=Yz2yrRGvG2s",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-20T23:35:50Z",
+  "duration_seconds": 460,
+  "processed_at": "2026-11-21T01:30:58Z",
+  "run_id": "2026-11-21T0130Z-20utc",
+  "is_one_off": false
+}
