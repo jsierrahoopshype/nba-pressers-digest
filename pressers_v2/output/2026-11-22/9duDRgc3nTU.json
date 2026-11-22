@@ -1,0 +1,398 @@
+{
+  "video_title": "“Once We Made Adjustments The Game Became Easy.” | Chris Finch Postgame Sound | 11.21.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:11",
+      "summary_phrase": "Chris Finch on Timberwolves' second quarter defensive adjustments",
+      "names_mentioned": [],
+      "excerpt": "Once we got our bigs up and we were able to choose better routes and just keep pursuing.",
+      "quote": "We got our bigs up in pick and roll. They were a little too far down the floor. It was hard to get back in front. Also, both those guards, they play pretty crafty and a lot of herky-jerkiness and you got to settle into a rhythm of guarding them. Once we got our bigs up and we were able to choose better routes and just keep pursuing and realize what they were trying to do to us, we really locked in and settled into how we should guard them.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Chris Finch on the Timberwolves defensive turnaround tonight: Once we got our bigs up in the pick and roll and were able to choose better routes and just keep pursuing, we really locked in and settled into how we should guard them.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Chris Finch explains the defensive adjustments made to the pick and roll coverage during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "01:02",
+      "summary_phrase": "Chris Finch on team turnovers and offensive execution",
+      "names_mentioned": [],
+      "excerpt": "If it wasn't for the turnovers, I thought we would score well all night long.",
+      "quote": "The only thing that hurt us offensively tonight was turnovers. Even we scored six of our first eight shots went in and everything else was a turnover. If it wasn't for the turnovers, I thought we would score well all night long. Some of the turnovers were just silly, like dribbling around and losing the ball. We got to clean that up.",
+      "verbatim_original_language": "",
+      "start_seconds": 62,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Chris Finch says the Timberwolves offense was hampered by silly turnovers tonight: If it was not for the turnovers, I thought we would score well all night long. We got to clean that up.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the team's offensive performance and the impact of turnovers after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "02:06",
+      "summary_phrase": "Chris Finch on Anthony Edwards needing to take more shots",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "He's got to get more shots. Sometimes we can direct the ball to him.",
+      "quote": "He's doing a good job of that. We made it a point the other day after the Knicks game, he's got to get more shots. Sometimes we can direct the ball to him, but the ball's got to find him. We got to get the ball out of the point of attack quicker and better and move it along. That way it'll find everybody.",
+      "verbatim_original_language": "",
+      "start_seconds": 126,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Chris Finch on Anthony Edwards: We made it a point the other day after the Knicks game, he has to get more shots. Sometimes we can direct the ball to him, but the ball has to find him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Chris Finch addresses the team's strategy regarding Anthony Edwards' shot volume following a previous game against the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "02:30",
+      "summary_phrase": "Chris Finch on pick-and-roll chemistry with LaMelo Ball",
+      "names_mentioned": [
+        "LaMelo Ball",
+        "Jonathan"
+      ],
+      "excerpt": "Both he and Jonathan in that action has been good.",
+      "quote": "Both he and Jonathan in that action has been good and they're learning now to make the better reads and better decisions.",
+      "verbatim_original_language": "",
+      "start_seconds": 150,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Chris Finch on the pick and roll chemistry between LaMelo Ball and Jonathan Kuminga: Both he and Jonathan in that action has been good and they are learning now to make the better reads and better decisions.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Chris Finch comments on the pick-and-roll chemistry and decision-making between LaMelo Ball and Jonathan Kuminga.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "03:06",
+      "summary_phrase": "Chris Finch on improving transition offense from defensive stops",
+      "names_mentioned": [],
+      "excerpt": "There's a lot to be had there, I think.",
+      "quote": "There's a lot to be had there, I think. Turnovers have been high in the last run of games throughout this home stand in transition. Finishing has been so-so. I think there's meat on the bone for sure in transition.",
+      "verbatim_original_language": "",
+      "start_seconds": 186,
+      "end_seconds": 201,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch sees room for improvement in the Timberwolves transition game: Turnovers have been high in the last run of games throughout this home stand in transition. Finishing has been so-so. There is meat on the bone for sure.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch evaluates the team's transition offense and areas for improvement during the current home stand.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Finch",
+      "timestamp": "03:44",
+      "summary_phrase": "Chris Finch on LaMelo Ball's shot selection and decision-making",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "I thought that LaMelo in particular did a good job of not chasing shots tonight.",
+      "quote": "I thought that LaMelo in particular did a good job of not chasing shots tonight. We need him to be aggressive. We're not trying to take the ball out of his hands or anything like that. He missed the first couple threes and then he had a wide-open three, kind of turned it down for the little runner, saw the ball go in and I thought he did a really good job throughout the game and running the offense too.",
+      "verbatim_original_language": "",
+      "start_seconds": 224,
+      "end_seconds": 255,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch on LaMelo Ball: I thought that LaMelo in particular did a good job of not chasing shots tonight. We need him to be aggressive. We are not trying to take the ball out of his hands or anything like that.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch praises LaMelo Ball for his shot selection and offensive decision-making during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Chris Finch",
+      "timestamp": "04:12",
+      "summary_phrase": "Chris Finch on LaMelo Ball's defensive growth",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "It might be some of the reasons that his shots not there at the moment.",
+      "quote": "It's been great. It might be some of the reasons that his shots not there at the moment because he's putting a ton of energy into his defense. He's timely steals, big plays, physicality, size, smart, and he's now really settling into game plan execution with the things that we do. I've been over the moon.",
+      "verbatim_original_language": "",
+      "start_seconds": 252,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Chris Finch on LaMelo Ball's defensive growth: It has been great. It might be some of the reasons that his shot is not there at the moment because he is putting a ton of energy into his defense. I have been over the moon.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses LaMelo Ball's defensive growth and the impact it has on his overall game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Chris Finch",
+      "timestamp": "04:36",
+      "summary_phrase": "Chris Finch on key defensive improvements in the second half",
+      "names_mentioned": [
+        "Jaden",
+        "JK"
+      ],
+      "excerpt": "We stopped leaving our feet. I thought we left our feet a lot.",
+      "quote": "We had better defenders on their guys, the size to keep pursuing with Jaden and JK. We stopped leaving our feet. I thought we left our feet a lot. End of shot clock defense let us down. I thought we played great defense for a number of stretches and we fouled a couple times at the end. We left our feet a couple times at the end. We didn't contest hard enough at the end and once we finished out the possession we really made a miss.",
+      "verbatim_original_language": "",
+      "start_seconds": 276,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch on defensive adjustments: We had better defenders on their guys, the size to keep pursuing with Jaden and JK. We stopped leaving our feet. I thought we left our feet a lot.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Chris Finch breaks down the defensive improvements made by the team in the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Chris Finch",
+      "timestamp": "05:17",
+      "summary_phrase": "Chris Finch on Jaden McDaniels' consistency as a player",
+      "names_mentioned": [
+        "Jaden"
+      ],
+      "excerpt": "He's a consistent person every day. He's the same guy every day.",
+      "quote": "He's a consistent person every day. He's the same guy every day. He has the same routine every day. He has the same like just completely you can almost set your watch by everything he does. If you're a consistent person, you have a chance to be a consistent player and he knows who he is as a player and he plays to that.",
+      "verbatim_original_language": "",
+      "start_seconds": 317,
+      "end_seconds": 342,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Chris Finch on Jaden McDaniels: He is a consistent person every day. He is the same guy every day. If you are a consistent person, you have a chance to be a consistent player and he knows who he is as a player.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch highlights the consistency of Jaden McDaniels' daily routine and professional approach.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Chris Finch",
+      "timestamp": "06:07",
+      "summary_phrase": "Chris Finch on Jaden McDaniels avoiding ticky-tack fouls",
+      "names_mentioned": [
+        "Jaden"
+      ],
+      "excerpt": "He's playing with his hands out better.",
+      "quote": "He's playing with his hands out better. A lot of the fouls that he gets called are often times when he just has his hand in and the guy hooks him and baits him into that. I think he's done a better job of avoiding those fouls for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 367,
+      "end_seconds": 386,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch on Jaden McDaniels avoiding fouls: He is playing with his hands out better. A lot of the fouls that he gets called are often times when he just has his hand in and the guy hooks him and baits him into that.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses Jaden McDaniels' improvement in avoiding unnecessary fouls while defending.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Chris Finch",
+      "timestamp": "06:24",
+      "summary_phrase": "Chris Finch on JK's development as an attacker",
+      "names_mentioned": [
+        "JK"
+      ],
+      "excerpt": "The whole key for his game is quick decisions.",
+      "quote": "The whole key for his game is quick decisions, whether it's going off the dribble, just letting it fly, moving it to the next guy. Whatever he does, when he makes quick decisions, his offense really comes alive and that includes going downhill and I think there's opportunities for him to keep doing that.",
+      "verbatim_original_language": "",
+      "start_seconds": 384,
+      "end_seconds": 405,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Chris Finch on Jonathan Kuminga: The whole key for his game is quick decisions, whether it is going off the dribble, just letting it fly, moving it to the next guy. When he makes quick decisions, his offense really comes alive.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the importance of quick decision-making for Jonathan Kuminga's offensive development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Chris Finch",
+      "timestamp": "07:05",
+      "summary_phrase": "Chris Finch on JK's recent performance and growth",
+      "names_mentioned": [
+        "JK"
+      ],
+      "excerpt": "He's obviously stayed confident in his shot.",
+      "quote": "He's obviously stayed confident in his shot. He's made timely buckets, he's got out in transition. He's doing all the things that we've asked him to do, getting his points in a variety of ways and those are the things that he's got to continue to do. We're still learning him sometimes how to direct the ball to him, like what actions are best for him and so we're still learning that and it's exciting to think that that could be another growth opportunity for our offense.",
+      "verbatim_original_language": "",
+      "start_seconds": 425,
+      "end_seconds": 458,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch on Jonathan Kuminga: We are still learning him sometimes how to direct the ball to him, like what actions are best for him and so we are still learning that and it is exciting to think that could be another growth opportunity.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch reflects on Jonathan Kuminga's recent performance and the team's ongoing efforts to integrate him into the offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "9duDRgc3nTU",
+  "url": "https://www.youtube.com/watch?v=9duDRgc3nTU",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-22T04:44:51Z",
+  "duration_seconds": 467,
+  "processed_at": "2026-11-22T05:28:15Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

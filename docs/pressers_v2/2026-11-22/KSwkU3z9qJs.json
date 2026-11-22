@@ -1,0 +1,305 @@
+{
+  "video_title": "“We're Finding More Trust Within The Group.” | Chris Finch Postgame Sound | 11.21.26",
+  "speakers_seen": [
+    "Ayo Dosunmu",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:01",
+      "summary_phrase": "Ayo Dosunmu on the Timberwolves' defensive adjustments against high-scoring teams",
+      "names_mentioned": [
+        "Ayo Dosunmu",
+        "Taysom"
+      ],
+      "excerpt": "Once we're able to adapt and settle into the game, we're able to make them take tough shots.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Ayo, how did you guys find a defensive rhythm into that second quarter and turn the game in your favor?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "We knew that they were a very good offensive team. I believe they're the number one offense in the league, so we knew that it was going to be a challenge. Sometimes, playing teams like that where you have a bunch of different avenues of scores, it becomes a little bit challenging because you necessarily don't know where the primary scoring is coming from. Taysom was that guy, but him being out for six games and them not losing on the road, that's definitely a challenge for us. Once we're able to adapt and settle into the game, we're able to make them take tough shots and we're able to capitalize off of it."
+        }
+      ],
+      "start_seconds": 1,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the challenge of defending the league's top offense: We knew it was going to be a challenge. Once we were able to adapt and settle into the game, we were able to make them take tough shots.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains the challenge of defending the league's top-ranked offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "01:41",
+      "summary_phrase": "Ayo Dosunmu on improving lob connections with Rudy Gobert",
+      "names_mentioned": [
+        "Rudy",
+        "Yohan"
+      ],
+      "excerpt": "We have to continue to just do a better job of getting down there and trusting the lob.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "It seems like one of the vulnerable areas offensively that you guys are having struggle with is connecting with the bigs underneath the basket on drop-offs and stuff. Do you feel like that is moving in the right direction?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "I think we have to continue to just do a better job of getting down there and trusting the lob. I think something we've been watching a lot of film on it, so it's definitely coming together. I think we definitely will have some more improvement by next time we talk. Getting in the paint, having them collapse in and then trusting throwing a lob, or sometimes not the lob, maybe the wrapping around pass. We definitely have to trust Rudy more, trust Yohan more. They're freak athletes, especially Yohan, and I think that's the next step for us offensively."
+        }
+      ],
+      "start_seconds": 101,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Ayo Dosunmu says the team needs to do a better job of trusting their bigs in the paint: We definitely have to trust Rudy more, trust Yohan more. They are freak athletes and I think that is the next step for us offensively.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert",
+          "Yohan Traore"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu discusses the need to improve offensive chemistry and lob connections with teammates Rudy Gobert and Yohan Traore.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "03:12",
+      "summary_phrase": "Ayo Dosunmu on playing alongside LaMelo Ball and Lonzo Ball",
+      "names_mentioned": [
+        "LaMelo",
+        "Lonzo"
+      ],
+      "excerpt": "It's really a dream for anybody to play with someone with his passing ability.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "When you're playing next to LaMelo as opposed to coming off the bench, how does that need change?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "I play with a lot of different guys throughout my career, so the one thing I try to take pride in as a player is being able to adapt. I pretty much can play with any kind of player. LaMelo, he's a great passer. He's actually one of my favorite players to play with. He's a great passer, he pushes the pace, he throws the ball on time, on target, and he's 6-7. So, that's really a dream for anybody to play with someone with his passing ability. I play with his brother Lonzo, so they play very similar. I would say Lonzo probably passes a little bit more, but they play very similar in terms of getting the ball out and throwing great passes."
+        }
+      ],
+      "start_seconds": 192,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Ayo Dosunmu on playing with LaMelo Ball: He is actually one of my favorite players to play with. He is a great passer, he pushes the pace, he throws the ball on time, on target, and he is 6-7. That is a dream for anybody.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball",
+          "Lonzo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA",
+          "CHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu compares the playing styles and passing abilities of LaMelo Ball and Lonzo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "05:23",
+      "summary_phrase": "Ayo Dosunmu on Jaden McDaniels' consistency and work ethic",
+      "names_mentioned": [
+        "Jaden",
+        "JK"
+      ],
+      "excerpt": "What stands out to me the most about Jaden is his durability and his ability to be consistent.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What stands out to you about the way that Jaden kind of goes about his business?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "What stands out to me the most about Jaden is his durability and his ability to be consistent. I think that's very hard, and I think that's something that anytime you see someone who's very consistent, that is something that you definitely want to take pride in and admire. He comes in, he gets his work in, he gets his shots in, and a lot of the shots that he makes in the game, I'm watching them firsthand getting in and doing his PD times, doing his workout times. When you love the game and you really appreciate the game, you really appreciate your peers and the way that they approach the game."
+        }
+      ],
+      "start_seconds": 323,
+      "end_seconds": 373,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ayo Dosunmu on Jaden McDaniels: What stands out to me the most about Jaden is his durability and his ability to be consistent. When you love the game and you really appreciate the game, you really appreciate your peers.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu praises Jaden McDaniels for his consistent work ethic and durability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "06:46",
+      "summary_phrase": "Ayo Dosunmu on the team's collective defensive mindset",
+      "names_mentioned": [
+        "Jaden",
+        "JK",
+        "Rudy",
+        "Yohan"
+      ],
+      "excerpt": "We all are motivated to each other, and no one wants to be that guy who gets scored on.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What is it about this group of guys that makes that hard part of the game so fun to do together?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "You get a stop and you see how it changes the game and how it impacts the game positively for the guys and what it brings. And then you want to keep getting that feeling, so you just want to keep getting stops. We all are motivated to each other, and no one wants to be that guy who gets scored on. When you see Jaden in the stands getting a stop, when you see JK in the stands getting a stop, when I'm in the stands getting a stop, we all are motivating each other. No one wants to be that guy who gets scored on, so I think when you put all that together, that's what makes it fun."
+        }
+      ],
+      "start_seconds": 406,
+      "end_seconds": 461,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ayo Dosunmu on the team's defensive mindset: No one wants to be that guy who gets scored on, so I think when you put all that together, that is what makes it fun.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu describes the collective defensive motivation shared among his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "08:23",
+      "summary_phrase": "Ayo Dosunmu on the Timberwolves' defensive ranking",
+      "names_mentioned": [
+        "Rudy",
+        "Yohan"
+      ],
+      "excerpt": "I think we have a lot of variety of guys who can not only be the point of attack defender.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Do you feel like you guys are the best defense in the NBA?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Selfishly, I would definitely say yes. I think we have a lot of variety of guys who can not only be the point of attack defender, and we got Rudy Gobert back there, we got Yohan coming off the bench blocking shots for sure. I definitely think so, and I think that we only going in the right direction. We definitely have room for improvement, and we will continue to improve, so that's the great thing about it. But definitely, I think we're in a great spot right now."
+        }
+      ],
+      "start_seconds": 503,
+      "end_seconds": 542,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Are the Timberwolves the best defense in the NBA? Ayo Dosunmu says: Selfishly, I would definitely say yes. We have a lot of variety of guys who can defend and we have Rudy Gobert back there.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert",
+          "Yohan Traore"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu expresses his belief that the Timberwolves currently possess the best defense in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "KSwkU3z9qJs",
+  "url": "https://www.youtube.com/watch?v=KSwkU3z9qJs",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-22T05:14:19Z",
+  "duration_seconds": 565,
+  "processed_at": "2026-11-22T05:27:53Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

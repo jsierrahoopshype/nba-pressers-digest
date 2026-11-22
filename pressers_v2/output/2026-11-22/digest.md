@@ -10,7 +10,71 @@ Joe Mazzulla: "I can't, I'm not a doctor."
 
 From: [Joe Mazzulla: “I’m Not a Doctor” When Asked About Derrick White’s Shoulder Injury \| Celtics Pregame](https://www.youtube.com/watch?v=F8jvlwIG5Is) · *Boston Celtics*
 
-**2. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
+**2. Mitch Johnson — "he's feeling better than he did the night of the Detroit game and the day after" — Mitch Johnson on Dylan's recovery and return timeline** [06:02](https://www.youtube.com/watch?v=S1H3zPZ0F2I&t=362s)
+
+Mitch Johnson: "He's feeling better than he did the night of the Detroit game and the day after for sure. It's very, very, very best-case scenario. We are very fortunate in terms of just the way it looked. I really didn't like how it looked, I didn't feel good about it and it was 24 hours where you were just kind of crossing your fingers and hoping for the best, and it was the best. So I think we're just going to have to see what it looks like, but it's positive."
+
+[https://www.youtube.com/watch?v=S1H3zPZ0F2I&t=362s](https://www.youtube.com/watch?v=S1H3zPZ0F2I&t=362s)
+
+From: [YouTube title: Mitch Johnson on the Importance of Giving Back and Serving the Community](https://www.youtube.com/watch?v=S1H3zPZ0F2I) · *San Antonio Spurs*
+
+<small>[Clip it](presserclips://clip?v=S1H3zPZ0F2I&t=362&q=4) · [Send to Slack](presserclips://clip?v=S1H3zPZ0F2I&t=362&q=4&slack=1)</small>
+
+**3. Victor Wembanyama — "There's so many steps between playing as a rookie or mini, but 50 points." — Victor Wembanyama on the difficulty of visualizing his own progression** [07:35](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=455s)
+
+Victor Wembanyama: "There's so many steps between playing as a rookie or mini, but 50 points. There's so many steps between the two that it's hard to visualize that, even if we can imagine it obviously. But what would shock the young Victor is the 29 shots, for example, because in growing up, I almost all the time was the youngest, the rookie, the over-classed, so 29 shots was not imaginable."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=455s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=455s)
+
+From: [Victor Wembanyama on His IMPRESSIVE Double-Double Night](https://www.youtube.com/watch?v=pVg6PjIE_BI) · *San Antonio Spurs*
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=455&q=8) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=455&q=8&slack=1)</small>
+
+**4. Keldon Johnson — "When Vic is rolling like that, what is that like for you guys around him?" — Keldon Johnson on Victor Wembanyama's impressive 50-point performance** [00:15](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=15s)
+
+**Unidentified reporter:** "Vic had 50 tonight, that was impressive, 20 for 29. That's crazy."
+
+**Keldon Johnson:** "When Vic is rolling like that, what is that like for you guys around him? Get him the ball, especially in the spots I feel like. When he has it going like that and we're moving the ball, I feel like we have so many dynamic players, it's hard to guard that. Like you said, he had it rolling and the main thing was, if he's open or he's getting to his spots, make sure you get it to him. That's just an emphasis for everybody. Whoever has it going, we try to give them the ball. Vic had it going tonight and we just try to give him the ball in his spots and let him work and let him be Vic, be special, be great, and that's what he showed tonight."
+
+[https://www.youtube.com/watch?v=92lwK1p9Ekw&t=15s](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=15s)
+
+From: [Keldon Johnson on Wemby's 50 Points Against the New Orleans Pelicans](https://www.youtube.com/watch?v=92lwK1p9Ekw) · *San Antonio Spurs*
+
+<small>[Clip it](presserclips://clip?v=92lwK1p9Ekw&t=15&q=1) · [Send to Slack](presserclips://clip?v=92lwK1p9Ekw&t=15&q=1&slack=1)</small>
+
+**5. Ayo Dosunmu — "I think we have a lot of variety of guys who can not only be the point of attack defender." — Ayo Dosunmu on the Timberwolves' defensive ranking** [08:23](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=503s)
+
+**Unidentified reporter:** "Do you feel like you guys are the best defense in the NBA?"
+
+**Ayo Dosunmu:** "Selfishly, I would definitely say yes. I think we have a lot of variety of guys who can not only be the point of attack defender, and we got **Rudy** Gobert back there, we got **Yohan** coming off the bench blocking shots for sure. I definitely think so, and I think that we only going in the right direction. We definitely have room for improvement, and we will continue to improve, so that's the great thing about it. But definitely, I think we're in a great spot right now."
+
+[https://www.youtube.com/watch?v=KSwkU3z9qJs&t=503s](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=503s)
+
+From: [“We're Finding More Trust Within The Group.” \| Chris Finch Postgame Sound \| 11.21.26](https://www.youtube.com/watch?v=KSwkU3z9qJs) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=KSwkU3z9qJs&t=503&q=6) · [Send to Slack](presserclips://clip?v=KSwkU3z9qJs&t=503&q=6&slack=1)</small>
+
+**6. Jaden McDaniels — "if you don't play defense here you ain't going to play" — Jaden McDaniels on Minnesota's defensive culture** [01:07](https://www.youtube.com/watch?v=ssUB726CNvg&t=67s)
+
+Jaden McDaniels: "If you don't play defense here you ain't going to play, so it is simple for real."
+
+[https://www.youtube.com/watch?v=ssUB726CNvg&t=67s](https://www.youtube.com/watch?v=ssUB726CNvg&t=67s)
+
+From: [“We Pride Ourselves On Defense.” \| Jaden McDaniels Postgame Sound \| 11.21.26](https://www.youtube.com/watch?v=ssUB726CNvg) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=67&q=3) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=67&q=3&slack=1)</small>
+
+**7. LaMelo Ball — "We be harping on him to shoot more, get out of his body a little more and do some more." — LaMelo Ball on Jaden McDaniels' consistency and offensive potential** [01:16](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s)
+
+LaMelo Ball: "For sure, he always just makes the right play. We be harping on him to shoot more, get out of his body a little more and do some more. I mean he already does so much just with the defense and this and that, but like I said, 6'10 can do everything, you kind of want him in the actions and having the ball."
+
+[https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s)
+
+From: [“Tonight I Let The Game Come To Me.” \| LaMelo Ball Postgame Sound \| 11.21.26](https://www.youtube.com/watch?v=GGZwIDzQ6ec) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3) · [Send to Slack](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3&slack=1)</small>
+
+**8. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
 
 **Unidentified reporter:** "This is the number one defense in the league that you guys are a part of. Rudy's a big focal point down low, Melo's been great at the point of attack. How much pride do you take in your role on that end of the court?"
 
@@ -22,19 +86,7 @@ From: [Jonathan Kuminga Postgame Interview With Sean Dorcellus \| 11.21.26](http
 
 <small>[Clip it](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2) · [Send to Slack](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2&slack=1)</small>
 
-**3. Jaden McDaniels — "defensively just being physical, picking up full court, disrupting them. I mean, he a good player" — Jaden McDaniels on guarding Ty Jerome and maintaining defensive intensity** [00:17](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s)
-
-**Unidentified speaker:** "This morning when I asked you just about the mentality of playing both ends of the floor and not showing the tiredness, you said, 'It's something that I just have to fight through.' You guarded one of their better offensive players in **Ty Jerome**, especially with the way he's been shooting as of late. What was the mentality? How were you able to get it done on both ends of the floor tonight?"
-
-**Jaden McDaniels:** "Defensively just being physical, picking up full court, disrupting them. I mean, he a good player and then offensively just staying confident when I get the ball and just staying in attack mode."
-
-[https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s)
-
-From: [Jaden McDaniels Postgame Interview After Win Against Memphis Grizzlies \| 11.21.26](https://www.youtube.com/watch?v=YtctqZ2gX9M) · *Minnesota Timberwolves*
-
-<small>[Clip it](presserclips://clip?v=YtctqZ2gX9M&t=17&q=2) · [Send to Slack](presserclips://clip?v=YtctqZ2gX9M&t=17&q=2&slack=1)</small>
-
-**4. Alan Horton — "How much did that put pressure on you guys defensively to be so on point here tonight?" — Ayo Dosunmu on the challenge of defending a balanced Grizzlies team** [00:45](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s)
+**9. Alan Horton — "How much did that put pressure on you guys defensively to be so on point here tonight?" — Ayo Dosunmu on the challenge of defending a balanced Grizzlies team** [00:45](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s)
 
 **Alan Horton:** "They're a really good team. I don't think fans know some of the names that are putting up these big numbers, but how much did that put pressure on you guys defensively to be so on point here tonight?"
 
@@ -77,6 +129,176 @@ Micah Nori: "I don't know if, I mean, for some of these guys, I think it's maybe
 [https://www.youtube.com/watch?v=6Q6pbv0daLs&t=132s](https://www.youtube.com/watch?v=6Q6pbv0daLs&t=132s)
 
 <small>[Clip it](presserclips://clip?v=6Q6pbv0daLs&t=132&q=3) · [Send to Slack](presserclips://clip?v=6Q6pbv0daLs&t=132&q=3&slack=1)</small>
+
+---
+
+## Keldon Johnson on Wemby's 50 Points Against the New Orleans Pelicans — *San Antonio Spurs*
+
+Source: [https://www.youtube.com/watch?v=92lwK1p9Ekw](https://www.youtube.com/watch?v=92lwK1p9Ekw)
+
+_Speakers identified: Keldon Johnson_
+
+**1. Keldon Johnson — "When Vic is rolling like that, what is that like for you guys around him?" — Keldon Johnson on Victor Wembanyama's impressive 50-point performance** [00:15](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=15s)
+
+**Unidentified reporter:** "Vic had 50 tonight, that was impressive, 20 for 29. That's crazy."
+
+**Keldon Johnson:** "When Vic is rolling like that, what is that like for you guys around him? Get him the ball, especially in the spots I feel like. When he has it going like that and we're moving the ball, I feel like we have so many dynamic players, it's hard to guard that. Like you said, he had it rolling and the main thing was, if he's open or he's getting to his spots, make sure you get it to him. That's just an emphasis for everybody. Whoever has it going, we try to give them the ball. Vic had it going tonight and we just try to give him the ball in his spots and let him work and let him be Vic, be special, be great, and that's what he showed tonight."
+
+[https://www.youtube.com/watch?v=92lwK1p9Ekw&t=15s](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=15s)
+
+<small>[Clip it](presserclips://clip?v=92lwK1p9Ekw&t=15&q=1) · [Send to Slack](presserclips://clip?v=92lwK1p9Ekw&t=15&q=1&slack=1)</small>
+
+**2. Keldon Johnson — "For me, it's just making the right plays, playing basketball the right way, playing for my teammates." — Keldon Johnson on Victor Wembanyama's confidence and scoring consistency** [01:17](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=77s)
+
+Keldon Johnson: "For me, it's just making the right plays, playing basketball the right way, playing for my teammates. If I play the right way, I'm sure the scoring will come. Just continue to make the right decisions and continue to try to make my teammates better and put us in the best situation to win. The scoring has come with that the last four or five games, so just keep it going, keep it rolling, keep playing the right way, and keep building on good habits."
+
+[https://www.youtube.com/watch?v=92lwK1p9Ekw&t=77s](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=77s)
+
+<small>[Clip it](presserclips://clip?v=92lwK1p9Ekw&t=77&q=2) · [Send to Slack](presserclips://clip?v=92lwK1p9Ekw&t=77&q=2&slack=1)</small>
+
+**3. Keldon Johnson — "Having my teammates back, being there, that was all." — Keldon Johnson on his role in supporting teammates during games** [02:08](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=128s)
+
+Keldon Johnson: "Having my teammates back, being there, that was all. It was nothing less, nothing more, just being there for my teammate. Obviously, I'm just doing what I'm supposed to do and be there for my teammate, have my brothers back."
+
+[https://www.youtube.com/watch?v=92lwK1p9Ekw&t=128s](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=128s)
+
+<small>[Clip it](presserclips://clip?v=92lwK1p9Ekw&t=128&q=3) · [Send to Slack](presserclips://clip?v=92lwK1p9Ekw&t=128&q=3&slack=1)</small>
+
+**4. Keldon Johnson — "We don't look at it as he's going for 30, he's going for 50. We're playing to win." — Keldon Johnson on the team's collective focus on winning games** [02:55](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=175s)
+
+Keldon Johnson: "We don't look at it as he's going for 30, he's going for 50. We're playing to win. Ultimately, when somebody has it going like that, you want to give them the ball, so that gives us the best chance to be successful. He's our guy, so we just continue to give him the ball and that put us in the best situation tonight to be successful, which was getting him the ball in his spots and letting him work because he was making shots."
+
+[https://www.youtube.com/watch?v=92lwK1p9Ekw&t=175s](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=175s)
+
+<small>[Clip it](presserclips://clip?v=92lwK1p9Ekw&t=175&q=4) · [Send to Slack](presserclips://clip?v=92lwK1p9Ekw&t=175&q=4&slack=1)</small>
+
+**5. Keldon Johnson — "He deserves it. Vic works extremely hard and to see him come out there and he got 50." — Keldon Johnson on Victor Wembanyama's work ethic and performance** [03:40](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=220s)
+
+Keldon Johnson: "He deserves it. Vic works extremely hard and to see him come out there and he had a chance to get 50 and he got 50. I feel like he did it in an impressive, an aggressive way, an efficient way, and I feel like he showed how special he was tonight for sure."
+
+[https://www.youtube.com/watch?v=92lwK1p9Ekw&t=220s](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=220s)
+
+<small>[Clip it](presserclips://clip?v=92lwK1p9Ekw&t=220&q=5) · [Send to Slack](presserclips://clip?v=92lwK1p9Ekw&t=220&q=5&slack=1)</small>
+
+**6. Keldon Johnson — "We know what we're building towards and each and every game we just focus on that game." — Keldon Johnson on the team's chemistry during a busy schedule** [04:24](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=264s)
+
+Keldon Johnson: "We know what we're building towards and each and every game we just focus on that game. We don't look forward or we don't look back, we just stay present in the moment. Fortunately, we love being around each other. This is our family, this is my brothers, we spend every day together. We get to go and be on the road and we're going to be on the road for Thanksgiving, but I feel like we're going to enjoy it. We enjoy each other's presence, we enjoy being around each other, and I feel like that's what makes it so fun."
+
+[https://www.youtube.com/watch?v=92lwK1p9Ekw&t=264s](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=264s)
+
+<small>[Clip it](presserclips://clip?v=92lwK1p9Ekw&t=264&q=6) · [Send to Slack](presserclips://clip?v=92lwK1p9Ekw&t=264&q=6&slack=1)</small>
+
+**7. Keldon Johnson — "It's about executing and still upholding those good habits even when you're not necessarily playing." — Keldon Johnson on maintaining good habits during large leads** [06:08](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=368s)
+
+Keldon Johnson: "When you get leads, I think you continue to work on the habits so that because at some point, when you're up in a game and you have a sizable lead, it's not about finishing out the game, it's about executing and still upholding those good habits even when you're not necessarily playing in a tight game where that intensity isn't there. You still have to have those habits and still make sure you execute because that's how you obtain those habits and you don't want to slack off and end up biting you in the butt in the long run."
+
+[https://www.youtube.com/watch?v=92lwK1p9Ekw&t=368s](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=368s)
+
+<small>[Clip it](presserclips://clip?v=92lwK1p9Ekw&t=368&q=7) · [Send to Slack](presserclips://clip?v=92lwK1p9Ekw&t=368&q=7&slack=1)</small>
+
+---
+
+## “Once We Made Adjustments The Game Became Easy.” | Chris Finch Postgame Sound | 11.21.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=9duDRgc3nTU](https://www.youtube.com/watch?v=9duDRgc3nTU)
+
+_Speakers identified: Chris Finch_
+
+**1. Chris Finch — "Once we got our bigs up and we were able to choose better routes and just keep pursuing." — Chris Finch on Timberwolves' second quarter defensive adjustments** [00:11](https://www.youtube.com/watch?v=9duDRgc3nTU&t=11s)
+
+Chris Finch: "We got our bigs up in pick and roll. They were a little too far down the floor. It was hard to get back in front. Also, both those guards, they play pretty crafty and a lot of herky-jerkiness and you got to settle into a rhythm of guarding them. Once we got our bigs up and we were able to choose better routes and just keep pursuing and realize what they were trying to do to us, we really locked in and settled into how we should guard them."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=11s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=11s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=11&q=1) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=11&q=1&slack=1)</small>
+
+**2. Chris Finch — "If it wasn't for the turnovers, I thought we would score well all night long." — Chris Finch on team turnovers and offensive execution** [01:02](https://www.youtube.com/watch?v=9duDRgc3nTU&t=62s)
+
+Chris Finch: "The only thing that hurt us offensively tonight was turnovers. Even we scored six of our first eight shots went in and everything else was a turnover. If it wasn't for the turnovers, I thought we would score well all night long. Some of the turnovers were just silly, like dribbling around and losing the ball. We got to clean that up."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=62s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=62s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=62&q=2) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=62&q=2&slack=1)</small>
+
+**3. Chris Finch — "He's got to get more shots. Sometimes we can direct the ball to him." — Chris Finch on Anthony Edwards needing to take more shots** [02:06](https://www.youtube.com/watch?v=9duDRgc3nTU&t=126s)
+
+Chris Finch: "He's doing a good job of that. We made it a point the other day after the Knicks game, he's got to get more shots. Sometimes we can direct the ball to him, but the ball's got to find him. We got to get the ball out of the point of attack quicker and better and move it along. That way it'll find everybody."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=126s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=126s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=126&q=3) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=126&q=3&slack=1)</small>
+
+**4. Chris Finch — "Both he and Jonathan in that action has been good." — Chris Finch on pick-and-roll chemistry with LaMelo Ball** [02:30](https://www.youtube.com/watch?v=9duDRgc3nTU&t=150s)
+
+Chris Finch: "Both he and **Jonathan** in that action has been good and they're learning now to make the better reads and better decisions."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=150s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=150s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=150&q=4) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=150&q=4&slack=1)</small>
+
+**5. Chris Finch — "There's a lot to be had there, I think." — Chris Finch on improving transition offense from defensive stops** [03:06](https://www.youtube.com/watch?v=9duDRgc3nTU&t=186s)
+
+Chris Finch: "There's a lot to be had there, I think. Turnovers have been high in the last run of games throughout this home stand in transition. Finishing has been so-so. I think there's meat on the bone for sure in transition."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=186s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=186s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=186&q=5) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=186&q=5&slack=1)</small>
+
+**6. Chris Finch — "I thought that LaMelo in particular did a good job of not chasing shots tonight." — Chris Finch on LaMelo Ball's shot selection and decision-making** [03:44](https://www.youtube.com/watch?v=9duDRgc3nTU&t=224s)
+
+Chris Finch: "I thought that LaMelo in particular did a good job of not chasing shots tonight. We need him to be aggressive. We're not trying to take the ball out of his hands or anything like that. He missed the first couple threes and then he had a wide-open three, kind of turned it down for the little runner, saw the ball go in and I thought he did a really good job throughout the game and running the offense too."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=224s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=224s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=224&q=6) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=224&q=6&slack=1)</small>
+
+**7. Chris Finch — "It might be some of the reasons that his shots not there at the moment." — Chris Finch on LaMelo Ball's defensive growth** [04:12](https://www.youtube.com/watch?v=9duDRgc3nTU&t=252s)
+
+Chris Finch: "It's been great. It might be some of the reasons that his shots not there at the moment because he's putting a ton of energy into his defense. He's timely steals, big plays, physicality, size, smart, and he's now really settling into game plan execution with the things that we do. I've been over the moon."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=252s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=252s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=252&q=7) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=252&q=7&slack=1)</small>
+
+**8. Chris Finch — "We stopped leaving our feet. I thought we left our feet a lot." — Chris Finch on key defensive improvements in the second half** [04:36](https://www.youtube.com/watch?v=9duDRgc3nTU&t=276s)
+
+Chris Finch: "We had better defenders on their guys, the size to keep pursuing with **Jaden** and **JK**. We stopped leaving our feet. I thought we left our feet a lot. End of shot clock defense let us down. I thought we played great defense for a number of stretches and we fouled a couple times at the end. We left our feet a couple times at the end. We didn't contest hard enough at the end and once we finished out the possession we really made a miss."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=276s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=276s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=276&q=8) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=276&q=8&slack=1)</small>
+
+**9. Chris Finch — "He's a consistent person every day. He's the same guy every day." — Chris Finch on Jaden McDaniels' consistency as a player** [05:17](https://www.youtube.com/watch?v=9duDRgc3nTU&t=317s)
+
+Chris Finch: "He's a consistent person every day. He's the same guy every day. He has the same routine every day. He has the same like just completely you can almost set your watch by everything he does. If you're a consistent person, you have a chance to be a consistent player and he knows who he is as a player and he plays to that."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=317s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=317s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=317&q=9) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=317&q=9&slack=1)</small>
+
+**10. Chris Finch — "He's playing with his hands out better." — Chris Finch on Jaden McDaniels avoiding ticky-tack fouls** [06:07](https://www.youtube.com/watch?v=9duDRgc3nTU&t=367s)
+
+Chris Finch: "He's playing with his hands out better. A lot of the fouls that he gets called are often times when he just has his hand in and the guy hooks him and baits him into that. I think he's done a better job of avoiding those fouls for sure."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=367s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=367s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=367&q=10) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=367&q=10&slack=1)</small>
+
+**11. Chris Finch — "The whole key for his game is quick decisions." — Chris Finch on JK's development as an attacker** [06:24](https://www.youtube.com/watch?v=9duDRgc3nTU&t=384s)
+
+Chris Finch: "The whole key for his game is quick decisions, whether it's going off the dribble, just letting it fly, moving it to the next guy. Whatever he does, when he makes quick decisions, his offense really comes alive and that includes going downhill and I think there's opportunities for him to keep doing that."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=384s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=384s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=384&q=11) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=384&q=11&slack=1)</small>
+
+**12. Chris Finch — "He's obviously stayed confident in his shot." — Chris Finch on JK's recent performance and growth** [07:05](https://www.youtube.com/watch?v=9duDRgc3nTU&t=425s)
+
+Chris Finch: "He's obviously stayed confident in his shot. He's made timely buckets, he's got out in transition. He's doing all the things that we've asked him to do, getting his points in a variety of ways and those are the things that he's got to continue to do. We're still learning him sometimes how to direct the ball to him, like what actions are best for him and so we're still learning that and it's exciting to think that that could be another growth opportunity for our offense."
+
+[https://www.youtube.com/watch?v=9duDRgc3nTU&t=425s](https://www.youtube.com/watch?v=9duDRgc3nTU&t=425s)
+
+<small>[Clip it](presserclips://clip?v=9duDRgc3nTU&t=425&q=12) · [Send to Slack](presserclips://clip?v=9duDRgc3nTU&t=425&q=12&slack=1)</small>
 
 ---
 
@@ -130,6 +352,122 @@ Joe Mazzulla: "We just need everybody to come in with the professionalism, the p
 
 ---
 
+## “Tonight I Let The Game Come To Me.” | LaMelo Ball Postgame Sound | 11.21.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=GGZwIDzQ6ec](https://www.youtube.com/watch?v=GGZwIDzQ6ec)
+
+_Speakers identified: LaMelo Ball_
+
+**1. LaMelo Ball — "With them the pick and roll is real good, especially Jaden and Jalen, it's just easy to find them." — LaMelo Ball on building chemistry with Jaden McDaniels and Jalen Williams** [00:26](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=26s)
+
+LaMelo Ball: "With them the pick and roll is real good, especially Jaden and Jalen, it's just easy to find them. I mean they roll, real dynamic, can make a play, so it's always love."
+
+[https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=26s](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=26s)
+
+<small>[Clip it](presserclips://clip?v=GGZwIDzQ6ec&t=26&q=1) · [Send to Slack](presserclips://clip?v=GGZwIDzQ6ec&t=26&q=1&slack=1)</small>
+
+**2. LaMelo Ball — "I think there is a lot of improvement we can still do, just simple things for real." — LaMelo Ball on the team's potential to improve in transition** [00:48](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=48s)
+
+LaMelo Ball: "I think there is a lot of improvement we can still do, just simple things for real. I think there is a lot of improvement we can still do."
+
+[https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=48s](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=48s)
+
+<small>[Clip it](presserclips://clip?v=GGZwIDzQ6ec&t=48&q=2) · [Send to Slack](presserclips://clip?v=GGZwIDzQ6ec&t=48&q=2&slack=1)</small>
+
+**3. LaMelo Ball — "We be harping on him to shoot more, get out of his body a little more and do some more." — LaMelo Ball on Jaden McDaniels' consistency and offensive potential** [01:16](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s)
+
+LaMelo Ball: "For sure, he always just makes the right play. We be harping on him to shoot more, get out of his body a little more and do some more. I mean he already does so much just with the defense and this and that, but like I said, 6'10 can do everything, you kind of want him in the actions and having the ball."
+
+[https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s)
+
+<small>[Clip it](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3) · [Send to Slack](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3&slack=1)</small>
+
+**4. LaMelo Ball — "Getting back into the flow for real, just letting the game come to me." — LaMelo Ball on his evolving decision-making and flow in the offense** [01:58](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=118s)
+
+LaMelo Ball: "Getting back into the flow for real, just letting the game come to me. Previous to the other games I was trying to shoot, trying to get a rhythm, but today I just let it see what it was. As long as we win though, that's the main thing."
+
+[https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=118s](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=118s)
+
+<small>[Clip it](presserclips://clip?v=GGZwIDzQ6ec&t=118&q=4) · [Send to Slack](presserclips://clip?v=GGZwIDzQ6ec&t=118&q=4&slack=1)</small>
+
+**5. LaMelo Ball — "Rudy is amazing, just great at talking, always trying to help a teammate or just help another." — LaMelo Ball on the leadership and impact of Rudy Gobert** [03:10](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=190s)
+
+LaMelo Ball: "Rudy is amazing, just great at talking, always trying to help a teammate or just help another, so I just love being out there with him."
+
+[https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=190s](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=190s)
+
+<small>[Clip it](presserclips://clip?v=GGZwIDzQ6ec&t=190&q=5) · [Send to Slack](presserclips://clip?v=GGZwIDzQ6ec&t=190&q=5&slack=1)</small>
+
+---
+
+## “We're Finding More Trust Within The Group.” | Chris Finch Postgame Sound | 11.21.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=KSwkU3z9qJs](https://www.youtube.com/watch?v=KSwkU3z9qJs)
+
+_Speakers identified: Ayo Dosunmu, Unidentified speaker_
+
+**1. Ayo Dosunmu — "Once we're able to adapt and settle into the game, we're able to make them take tough shots." — Ayo Dosunmu on the Timberwolves' defensive adjustments against high-scoring teams** [00:01](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=1s)
+
+**Unidentified reporter:** "Ayo, how did you guys find a defensive rhythm into that second quarter and turn the game in your favor?"
+
+**Ayo Dosunmu:** "We knew that they were a very good offensive team. I believe they're the number one offense in the league, so we knew that it was going to be a challenge. Sometimes, playing teams like that where you have a bunch of different avenues of scores, it becomes a little bit challenging because you necessarily don't know where the primary scoring is coming from. **Taysom** was that guy, but him being out for six games and them not losing on the road, that's definitely a challenge for us. Once we're able to adapt and settle into the game, we're able to make them take tough shots and we're able to capitalize off of it."
+
+[https://www.youtube.com/watch?v=KSwkU3z9qJs&t=1s](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=1s)
+
+<small>[Clip it](presserclips://clip?v=KSwkU3z9qJs&t=1&q=1) · [Send to Slack](presserclips://clip?v=KSwkU3z9qJs&t=1&q=1&slack=1)</small>
+
+**2. Ayo Dosunmu — "We have to continue to just do a better job of getting down there and trusting the lob." — Ayo Dosunmu on improving lob connections with Rudy Gobert** [01:41](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=101s)
+
+**Unidentified reporter:** "It seems like one of the vulnerable areas offensively that you guys are having struggle with is connecting with the bigs underneath the basket on drop-offs and stuff. Do you feel like that is moving in the right direction?"
+
+**Ayo Dosunmu:** "I think we have to continue to just do a better job of getting down there and trusting the lob. I think something we've been watching a lot of film on it, so it's definitely coming together. I think we definitely will have some more improvement by next time we talk. Getting in the paint, having them collapse in and then trusting throwing a lob, or sometimes not the lob, maybe the wrapping around pass. We definitely have to trust **Rudy** more, trust **Yohan** more. They're freak athletes, especially **Yohan**, and I think that's the next step for us offensively."
+
+[https://www.youtube.com/watch?v=KSwkU3z9qJs&t=101s](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=101s)
+
+<small>[Clip it](presserclips://clip?v=KSwkU3z9qJs&t=101&q=2) · [Send to Slack](presserclips://clip?v=KSwkU3z9qJs&t=101&q=2&slack=1)</small>
+
+**3. Ayo Dosunmu — "It's really a dream for anybody to play with someone with his passing ability." — Ayo Dosunmu on playing alongside LaMelo Ball and Lonzo Ball** [03:12](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=192s)
+
+**Unidentified reporter:** "When you're playing next to **LaMelo** as opposed to coming off the bench, how does that need change?"
+
+**Ayo Dosunmu:** "I play with a lot of different guys throughout my career, so the one thing I try to take pride in as a player is being able to adapt. I pretty much can play with any kind of player. **LaMelo**, he's a great passer. He's actually one of my favorite players to play with. He's a great passer, he pushes the pace, he throws the ball on time, on target, and he's 6-7. So, that's really a dream for anybody to play with someone with his passing ability. I play with his brother **Lonzo**, so they play very similar. I would say **Lonzo** probably passes a little bit more, but they play very similar in terms of getting the ball out and throwing great passes."
+
+[https://www.youtube.com/watch?v=KSwkU3z9qJs&t=192s](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=192s)
+
+<small>[Clip it](presserclips://clip?v=KSwkU3z9qJs&t=192&q=3) · [Send to Slack](presserclips://clip?v=KSwkU3z9qJs&t=192&q=3&slack=1)</small>
+
+**4. Ayo Dosunmu — "What stands out to me the most about Jaden is his durability and his ability to be consistent." — Ayo Dosunmu on Jaden McDaniels' consistency and work ethic** [05:23](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=323s)
+
+**Unidentified reporter:** "What stands out to you about the way that **Jaden** kind of goes about his business?"
+
+**Ayo Dosunmu:** "What stands out to me the most about **Jaden** is his durability and his ability to be consistent. I think that's very hard, and I think that's something that anytime you see someone who's very consistent, that is something that you definitely want to take pride in and admire. He comes in, he gets his work in, he gets his shots in, and a lot of the shots that he makes in the game, I'm watching them firsthand getting in and doing his PD times, doing his workout times. When you love the game and you really appreciate the game, you really appreciate your peers and the way that they approach the game."
+
+[https://www.youtube.com/watch?v=KSwkU3z9qJs&t=323s](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=323s)
+
+<small>[Clip it](presserclips://clip?v=KSwkU3z9qJs&t=323&q=4) · [Send to Slack](presserclips://clip?v=KSwkU3z9qJs&t=323&q=4&slack=1)</small>
+
+**5. Ayo Dosunmu — "We all are motivated to each other, and no one wants to be that guy who gets scored on." — Ayo Dosunmu on the team's collective defensive mindset** [06:46](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=406s)
+
+**Unidentified reporter:** "What is it about this group of guys that makes that hard part of the game so fun to do together?"
+
+**Ayo Dosunmu:** "You get a stop and you see how it changes the game and how it impacts the game positively for the guys and what it brings. And then you want to keep getting that feeling, so you just want to keep getting stops. We all are motivated to each other, and no one wants to be that guy who gets scored on. When you see **Jaden** in the stands getting a stop, when you see **JK** in the stands getting a stop, when I'm in the stands getting a stop, we all are motivating each other. No one wants to be that guy who gets scored on, so I think when you put all that together, that's what makes it fun."
+
+[https://www.youtube.com/watch?v=KSwkU3z9qJs&t=406s](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=406s)
+
+<small>[Clip it](presserclips://clip?v=KSwkU3z9qJs&t=406&q=5) · [Send to Slack](presserclips://clip?v=KSwkU3z9qJs&t=406&q=5&slack=1)</small>
+
+**6. Ayo Dosunmu — "I think we have a lot of variety of guys who can not only be the point of attack defender." — Ayo Dosunmu on the Timberwolves' defensive ranking** [08:23](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=503s)
+
+**Unidentified reporter:** "Do you feel like you guys are the best defense in the NBA?"
+
+**Ayo Dosunmu:** "Selfishly, I would definitely say yes. I think we have a lot of variety of guys who can not only be the point of attack defender, and we got **Rudy** Gobert back there, we got **Yohan** coming off the bench blocking shots for sure. I definitely think so, and I think that we only going in the right direction. We definitely have room for improvement, and we will continue to improve, so that's the great thing about it. But definitely, I think we're in a great spot right now."
+
+[https://www.youtube.com/watch?v=KSwkU3z9qJs&t=503s](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=503s)
+
+<small>[Clip it](presserclips://clip?v=KSwkU3z9qJs&t=503&q=6) · [Send to Slack](presserclips://clip?v=KSwkU3z9qJs&t=503&q=6&slack=1)</small>
+
+---
+
 ## YouTube title: Mitch Johnson on the Importance of Giving Back and Serving the Community — *San Antonio Spurs*
 
 Source: [https://www.youtube.com/watch?v=S1H3zPZ0F2I](https://www.youtube.com/watch?v=S1H3zPZ0F2I)
@@ -167,6 +505,62 @@ Mitch Johnson: "He's feeling better than he did the night of the Detroit game an
 [https://www.youtube.com/watch?v=S1H3zPZ0F2I&t=362s](https://www.youtube.com/watch?v=S1H3zPZ0F2I&t=362s)
 
 <small>[Clip it](presserclips://clip?v=S1H3zPZ0F2I&t=362&q=4) · [Send to Slack](presserclips://clip?v=S1H3zPZ0F2I&t=362&q=4&slack=1)</small>
+
+---
+
+## Mitch Johnson on Spurs DOMINANT Performance Against the New Orleans Pelicans — *San Antonio Spurs*
+
+Source: [https://www.youtube.com/watch?v=XF36cbL9nZU](https://www.youtube.com/watch?v=XF36cbL9nZU)
+
+_Speakers identified: Mitch Johnson_
+
+**1. Mitch Johnson — "I thought he started the game off aggressive and I thought he was trying to play with a lot of force" — Victor Wembanyama's aggressive offensive start against the Pelicans** [00:04](https://www.youtube.com/watch?v=XF36cbL9nZU&t=4s)
+
+Mitch Johnson: "I thought he started the game off aggressive and I thought he was trying to play with a lot of force offensively specifically just in terms of taking up real estate, trying to get to the rim. It's cliché, and then it's, 'Why doesn't he do it every game?' But it's so interesting when people play like that, especially with his talent, and then it helps your rhythm with your shots and everything else. But I thought he did a really good job of playing with force."
+
+[https://www.youtube.com/watch?v=XF36cbL9nZU&t=4s](https://www.youtube.com/watch?v=XF36cbL9nZU&t=4s)
+
+<small>[Clip it](presserclips://clip?v=XF36cbL9nZU&t=4&q=1) · [Send to Slack](presserclips://clip?v=XF36cbL9nZU&t=4&q=1&slack=1)</small>
+
+**2. Mitch Johnson — "I thought our quality of passing has been better though. And so, that's maybe a frustration" — Improving team passing quality and reducing turnovers** [00:39](https://www.youtube.com/watch?v=XF36cbL9nZU&t=39s)
+
+Mitch Johnson: "Where I thought we got away from it a little bit, the turnovers, the last couple games have been creeping up a little too much. I thought our quality of passing has been better though. And so, that's maybe a frustration that a coach has to just take a step back and understand that there's going to be a little bit of a growth there. But 30 assists were good. I thought there were a few shots tonight that I felt like the shots had a really good chance of going in, and that was because of the pass previous to the shot attempt, and I think that's a really good feeling for a team."
+
+[https://www.youtube.com/watch?v=XF36cbL9nZU&t=39s](https://www.youtube.com/watch?v=XF36cbL9nZU&t=39s)
+
+<small>[Clip it](presserclips://clip?v=XF36cbL9nZU&t=39&q=2) · [Send to Slack](presserclips://clip?v=XF36cbL9nZU&t=39&q=2&slack=1)</small>
+
+**3. Mitch Johnson — "It's amazing in the sport when you play like that how much the ball finds you back." — The importance of team chemistry and ball movement** [01:40](https://www.youtube.com/watch?v=XF36cbL9nZU&t=100s)
+
+Mitch Johnson: "There was a play in the first quarter, maybe it was the second quarter early on, but Victor gets the rebound and he had it rolling, so I understand, but Keldon was in front of him and he didn't make a kick ahead, and that's just an absolute for us. And Keldon was open and we had the numbers, I believe it was a four-on-two, maybe even a four-on-one. And he shot a three, and I get it, he was rolling, but Keldon has to have the ball in that moment. And he had the ball in the second half or second quarter, he had the ball, kicked it ahead to Devin, Devin kicked it ahead to Keldon, and we got a shot at the rim. That stuff's contagious, that stuff, it's amazing in the sport when you play like that how much the ball finds you back. I thought Victor was the benefit of that, I thought Steph Castle was the benefit of that, I thought **Carter** was the benefit of that."
+
+[https://www.youtube.com/watch?v=XF36cbL9nZU&t=100s](https://www.youtube.com/watch?v=XF36cbL9nZU&t=100s)
+
+<small>[Clip it](presserclips://clip?v=XF36cbL9nZU&t=100&q=3) · [Send to Slack](presserclips://clip?v=XF36cbL9nZU&t=100&q=3&slack=1)</small>
+
+**4. Mitch Johnson — "I thought he did a great job just running the show." — Stephon Castle's impact as a playmaker** [02:52](https://www.youtube.com/watch?v=XF36cbL9nZU&t=172s)
+
+Mitch Johnson: "I thought he did a great job just running the show. Victor had it going, I thought he made a very conscious effort to get him the ball in a variety of ways. He did a good job of kicking the ball ahead early. I thought we got **Julian** and **Devin** really good shots too. I'll take those 16 shot attempts every single day of the week and bet they'll make more than five moving forward more nights than not. And he looked like he tweaked his foot or ankle, I mean he's fine, but so I think he did a good job of just doing what we needed and putting his energy in the right stuff."
+
+[https://www.youtube.com/watch?v=XF36cbL9nZU&t=172s](https://www.youtube.com/watch?v=XF36cbL9nZU&t=172s)
+
+<small>[Clip it](presserclips://clip?v=XF36cbL9nZU&t=172&q=4) · [Send to Slack](presserclips://clip?v=XF36cbL9nZU&t=172&q=4&slack=1)</small>
+
+**5. Mitch Johnson — "The worst minutes of the non-Victor minutes has nothing to do with Luke in my opinion." — Defensive transition and shot selection issues** [03:39](https://www.youtube.com/watch?v=XF36cbL9nZU&t=219s)
+
+Mitch Johnson: "I thought we had some moments where we did a really good job defensively in terms of shrinking the floor and showing crowds and gang rebounding. And I think, you know, the one area that group has to understand is to play complementary basketball on the offensive end to help the defense. That group, probably the worst minutes of the non-Victor minutes has nothing to do with **Luke** in my opinion. It's when we take quick shots and then we get where we're in transition defense a lot and we're on our heels. It's a little bit of a general statement, but I think if we could shore that up, I think that would help our offense and our defense more than anything else in those stretches."
+
+[https://www.youtube.com/watch?v=XF36cbL9nZU&t=219s](https://www.youtube.com/watch?v=XF36cbL9nZU&t=219s)
+
+<small>[Clip it](presserclips://clip?v=XF36cbL9nZU&t=219&q=5) · [Send to Slack](presserclips://clip?v=XF36cbL9nZU&t=219&q=5&slack=1)</small>
+
+**6. Mitch Johnson — "I was just hoping he got to 50 when he did. That would have been hard to take him out" — Decision to pull Victor Wembanyama after reaching 50 points** [04:24](https://www.youtube.com/watch?v=XF36cbL9nZU&t=264s)
+
+Mitch Johnson: "I was just hoping he got to 50 when he did. That would have been hard to take him out that close to 50."
+
+[https://www.youtube.com/watch?v=XF36cbL9nZU&t=264s](https://www.youtube.com/watch?v=XF36cbL9nZU&t=264s)
+
+<small>[Clip it](presserclips://clip?v=XF36cbL9nZU&t=264&q=6) · [Send to Slack](presserclips://clip?v=XF36cbL9nZU&t=264&q=6&slack=1)</small>
 
 ---
 
@@ -405,6 +799,174 @@ _Speakers identified: Ayo Dosunmu, Alan Horton_
 [https://www.youtube.com/watch?v=ntxnsp0oUsA&t=100s](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=100s)
 
 <small>[Clip it](presserclips://clip?v=ntxnsp0oUsA&t=100&q=5) · [Send to Slack](presserclips://clip?v=ntxnsp0oUsA&t=100&q=5&slack=1)</small>
+
+---
+
+## Victor Wembanyama on His IMPRESSIVE Double-Double Night — *San Antonio Spurs*
+
+Source: [https://www.youtube.com/watch?v=pVg6PjIE_BI](https://www.youtube.com/watch?v=pVg6PjIE_BI)
+
+_Speakers identified: Victor Wembanyama_
+
+**1. Victor Wembanyama — "The challenge is to keep doing the right thing over and over again." — Victor Wembanyama on the challenge of maintaining consistency throughout the season** [00:17](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=17s)
+
+Victor Wembanyama: "The challenge is to keep doing the right thing over and over again. It is a challenge in this sort of game. It is even more a challenge in a game where you don't have it going. Keep shooting, keep doing the right thing, keep trusting the process. It is always the ultimate challenge for us, especially over such a long season."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=17s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=17s)
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=17&q=1) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=17&q=1&slack=1)</small>
+
+**2. Victor Wembanyama — "They've done a great job, and they're going to keep doing it until it keeps working." — Victor Wembanyama on his teammates' ability to find him on the court** [00:52](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=52s)
+
+Victor Wembanyama: "They've done a great job, and they're going to keep doing it until it keeps working."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=52s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=52s)
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=52&q=2) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=52&q=2&slack=1)</small>
+
+**3. Victor Wembanyama — "I don't think LeBron, Shaq, Jokic, Doncic, I don't think they think about that." — Victor Wembanyama on not focusing on individual statistical milestones** [01:15](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=75s)
+
+Victor Wembanyama: "I don't think LeBron, Shaq, Jokic, Doncic, I don't think they think about that, and I have them as examples, so I'm trying not to think about it either."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=75s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=75s)
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=75&q=3) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=75&q=3&slack=1)</small>
+
+**4. Victor Wembanyama — "I just want to keep stacking them up. I don't plan on doing those." — Victor Wembanyama on his approach to stacking historical performances** [02:52](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=172s)
+
+Victor Wembanyama: "I just want to keep stacking them up. I don't plan on doing those. They just come when we play the right way as a team. So I just want to stack them up, hopefully there's many more coming."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=172s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=172s)
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=172&q=4) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=172&q=4&slack=1)</small>
+
+**5. Victor Wembanyama — "I don't count a stat line as original or unique if you have to include made threes." — Victor Wembanyama on why he doesn't count made three-pointers as unique stats** [03:24](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=204s)
+
+Victor Wembanyama: "There's been so many crazy stat lines in the NBA history that these feel like they're hard to come by. But I'm not going to lie, I don't count the ones with made threes. Made threes is really a stat. It is, but I don't count a stat line as original or unique if you have to include made threes in there."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=204s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=204s)
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=204&q=5) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=204&q=5&slack=1)</small>
+
+**6. Victor Wembanyama — "I hope that Stephen will end up with one of the best records in NBA history." — Victor Wembanyama on the impact of Stephen Curry on the team** [04:16](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=256s)
+
+Victor Wembanyama: "It has been reflected ever since he's been on this team. I hope that Stephen will end up with one of the best records in NBA history in terms of wins and losses. He's been impacting the game in a meaningful way, and he's impacted winning ever since he's been here with us, so it's always a pleasure to share the court with him."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=256s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=256s)
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=256&q=6) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=256&q=6&slack=1)</small>
+
+**7. Victor Wembanyama — "For me what it means is creating the culture as a team." — Victor Wembanyama defines his principles of ethical basketball** [06:07](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=367s)
+
+Victor Wembanyama: "For me what it means is creating the culture as a team, taking the right shots, beating teams by having everybody that's on the floor as a threat for the opponents at all times."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=367s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=367s)
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=367&q=7) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=367&q=7&slack=1)</small>
+
+**8. Victor Wembanyama — "There's so many steps between playing as a rookie or mini, but 50 points." — Victor Wembanyama on the difficulty of visualizing his own progression** [07:35](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=455s)
+
+Victor Wembanyama: "There's so many steps between playing as a rookie or mini, but 50 points. There's so many steps between the two that it's hard to visualize that, even if we can imagine it obviously. But what would shock the young Victor is the 29 shots, for example, because in growing up, I almost all the time was the youngest, the rookie, the over-classed, so 29 shots was not imaginable."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=455s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=455s)
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=455&q=8) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=455&q=8&slack=1)</small>
+
+**9. Victor Wembanyama — "It was one of the difficulties also for me in arriving here, is to be able to." — Victor Wembanyama on the challenge of taking more shots per game** [08:10](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=490s)
+
+Victor Wembanyama: "It was one of the difficulties also for me in arriving here, is to be able to take more than 20 shots per match, in having more than 20 shots of quality. It's not at all something in, it's not, it's not at all a style of game in which I grew up, but it's a style of game that I had to learn."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=490s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=490s)
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=490&q=9) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=490&q=9&slack=1)</small>
+
+**10. Victor Wembanyama — "Something that is not necessarily evident to see is that there is an enormous amount of adaptation." — Victor Wembanyama on the tactical adjustments made at halftime** [09:15](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=555s)
+
+Victor Wembanyama: "Something that is not necessarily evident to see is that there is an enormous amount of adaptation that is done at halftime, on the two sides. And the things that were available at halftime, they are no longer at the third quarter. That is really something that is flagrant when we are on the ground."
+
+[https://www.youtube.com/watch?v=pVg6PjIE_BI&t=555s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=555s)
+
+<small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=555&q=10) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=555&q=10&slack=1)</small>
+
+---
+
+## “We Pride Ourselves On Defense.” | Jaden McDaniels Postgame Sound | 11.21.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=ssUB726CNvg](https://www.youtube.com/watch?v=ssUB726CNvg)
+
+_Speakers identified: Jaden McDaniels_
+
+**1. Jaden McDaniels — "the effort and energy he gives is way better than the LaMelo we used to play against" — Jaden McDaniels on LaMelo Ball's defensive effort and intensity** [00:05](https://www.youtube.com/watch?v=ssUB726CNvg&t=5s)
+
+Jaden McDaniels: "He is doing a good job. He is pressuring people, running people off the spot. I think the effort and energy he gives is way better than the LaMelo we used to play against. He actually played defense, he is taking pride in his effort and stuff. I think I just said it for real."
+
+[https://www.youtube.com/watch?v=ssUB726CNvg&t=5s](https://www.youtube.com/watch?v=ssUB726CNvg&t=5s)
+
+<small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=5&q=1) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=5&q=1&slack=1)</small>
+
+**2. Jaden McDaniels — "he really didn't have to play defense, but here he has to" — Jaden McDaniels on LaMelo Ball's defensive evolution** [00:35](https://www.youtube.com/watch?v=ssUB726CNvg&t=35s)
+
+Jaden McDaniels: "I think LaMelo really didn't have to play defense, but here he has to. If you don't, people are just going to put you in the action. I feel like when they do put him in the action, he holds his own. He fights, it is not an easy bucket every time someone is guarding someone, so it is just good to see that he has the effort on defense."
+
+[https://www.youtube.com/watch?v=ssUB726CNvg&t=35s](https://www.youtube.com/watch?v=ssUB726CNvg&t=35s)
+
+<small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=35&q=2) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=35&q=2&slack=1)</small>
+
+**3. Jaden McDaniels — "if you don't play defense here you ain't going to play" — Jaden McDaniels on Minnesota's defensive culture** [01:07](https://www.youtube.com/watch?v=ssUB726CNvg&t=67s)
+
+Jaden McDaniels: "If you don't play defense here you ain't going to play, so it is simple for real."
+
+[https://www.youtube.com/watch?v=ssUB726CNvg&t=67s](https://www.youtube.com/watch?v=ssUB726CNvg&t=67s)
+
+<small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=67&q=3) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=67&q=3&slack=1)</small>
+
+**4. Jaden McDaniels — "we work on it in practice and even in the summer we would be hooping" — Jaden McDaniels on chemistry with LaMelo Ball in pick-and-roll** [01:17](https://www.youtube.com/watch?v=ssUB726CNvg&t=77s)
+
+Jaden McDaniels: "It is good, it has been working for us. We work on it in practice and even in the summer we would be hooping, be on the same team, so we got a good chemistry going."
+
+[https://www.youtube.com/watch?v=ssUB726CNvg&t=77s](https://www.youtube.com/watch?v=ssUB726CNvg&t=77s)
+
+<small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=77&q=4) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=77&q=4&slack=1)</small>
+
+**5. Jaden McDaniels — "I do the same things every day, I don't really go off track" — Jaden McDaniels on his personal discipline and routine** [01:47](https://www.youtube.com/watch?v=ssUB726CNvg&t=107s)
+
+Jaden McDaniels: "I do the same things every day, I don't really go off track. I wake up, go to the gym, workout, might come back at night, chill at the crib. I am disciplined for sure."
+
+[https://www.youtube.com/watch?v=ssUB726CNvg&t=107s](https://www.youtube.com/watch?v=ssUB726CNvg&t=107s)
+
+<small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=107&q=5) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=107&q=5&slack=1)</small>
+
+**6. Jaden McDaniels — "the work ethic I feel like has jumped way more" — Jaden McDaniels on his growth in work ethic** [02:11](https://www.youtube.com/watch?v=ssUB726CNvg&t=131s)
+
+Jaden McDaniels: "I have always been like that, but the work ethic I feel like has jumped way more. Learning the league and how things work and how much work you need to put in and what days you need to take off and take care of your body. It is seven years, it has worked up, getting better each year."
+
+[https://www.youtube.com/watch?v=ssUB726CNvg&t=131s](https://www.youtube.com/watch?v=ssUB726CNvg&t=131s)
+
+<small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=131&q=6) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=131&q=6&slack=1)</small>
+
+**7. Jaden McDaniels — "staying aggressive when I am in the action and then if it is not able to score" — Jaden McDaniels on balancing aggression and team play** [03:08](https://www.youtube.com/watch?v=ssUB726CNvg&t=188s)
+
+Jaden McDaniels: "Staying aggressive when I am in the action and then if it is not able to score, just knowing where my outlets are and then trusting my teammates with the ball that they are going to make the right play and then eventually I will get the ball back. So just staying confident, staying aggressive and I know I am going to make the right play."
+
+[https://www.youtube.com/watch?v=ssUB726CNvg&t=188s](https://www.youtube.com/watch?v=ssUB726CNvg&t=188s)
+
+<small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=188&q=7) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=188&q=7&slack=1)</small>
+
+**8. Jaden McDaniels — "I always be saying I didn't know he could play defense like this before he came" — Jaden McDaniels on defensive chemistry with Jaden McDaniels** [03:42](https://www.youtube.com/watch?v=ssUB726CNvg&t=222s)
+
+Jaden McDaniels: "Usually I am guarding one of the best players, but if we get mismatch in transition, I am not really worried if I see Jaden pick him up. I always be saying I didn't know he could play defense like this before he came, so it is just another weapon we got."
+
+[https://www.youtube.com/watch?v=ssUB726CNvg&t=222s](https://www.youtube.com/watch?v=ssUB726CNvg&t=222s)
+
+<small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=222&q=8) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=222&q=8&slack=1)</small>
+
+**9. Jaden McDaniels — "every time we play versus each other we have been playing against each other since high school" — Jaden McDaniels on playing against Isaiah Stewart** [04:04](https://www.youtube.com/watch?v=ssUB726CNvg&t=244s)
+
+Jaden McDaniels: "Every time we play versus each other we have been playing against each other since high school. We just love to compete against each other and he blocked me, I dunked on him last year, so we are even I guess."
+
+[https://www.youtube.com/watch?v=ssUB726CNvg&t=244s](https://www.youtube.com/watch?v=ssUB726CNvg&t=244s)
+
+<small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=244&q=9) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=244&q=9&slack=1)</small>
 
 ---
 

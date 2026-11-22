@@ -1,0 +1,231 @@
+{
+  "video_title": "Mitch Johnson on Spurs DOMINANT Performance Against the New Orleans Pelicans",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:04",
+      "summary_phrase": "Victor Wembanyama's aggressive offensive start against the Pelicans",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "I thought he started the game off aggressive and I thought he was trying to play with a lot of force",
+      "quote": "I thought he started the game off aggressive and I thought he was trying to play with a lot of force offensively specifically just in terms of taking up real estate, trying to get to the rim. It's cliché, and then it's, 'Why doesn't he do it every game?' But it's so interesting when people play like that, especially with his talent, and then it helps your rhythm with your shots and everything else. But I thought he did a really good job of playing with force.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Mitch Johnson on Victor Wembanyama's aggressive start against the Pelicans: I thought he started the game off aggressive and I thought he was trying to play with a lot of force offensively specifically just in terms of taking up real estate",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses Victor Wembanyama's aggressive offensive performance against the New Orleans Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:39",
+      "summary_phrase": "Improving team passing quality and reducing turnovers",
+      "names_mentioned": [],
+      "excerpt": "I thought our quality of passing has been better though. And so, that's maybe a frustration",
+      "quote": "Where I thought we got away from it a little bit, the turnovers, the last couple games have been creeping up a little too much. I thought our quality of passing has been better though. And so, that's maybe a frustration that a coach has to just take a step back and understand that there's going to be a little bit of a growth there. But 30 assists were good. I thought there were a few shots tonight that I felt like the shots had a really good chance of going in, and that was because of the pass previous to the shot attempt, and I think that's a really good feeling for a team.",
+      "text_blocks": [],
+      "start_seconds": 39,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson says the Spurs need to clean up their turnovers: The turnovers the last couple games have been creeping up a little too much. I thought our quality of passing has been better though",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson reflects on the team's recent turnover issues and the quality of passing during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:40",
+      "summary_phrase": "The importance of team chemistry and ball movement",
+      "names_mentioned": [
+        "Victor Wembanyama",
+        "Keldon Johnson",
+        "Devin Vassell",
+        "Carter"
+      ],
+      "excerpt": "It's amazing in the sport when you play like that how much the ball finds you back.",
+      "quote": "There was a play in the first quarter, maybe it was the second quarter early on, but Victor gets the rebound and he had it rolling, so I understand, but Keldon was in front of him and he didn't make a kick ahead, and that's just an absolute for us. And Keldon was open and we had the numbers, I believe it was a four-on-two, maybe even a four-on-one. And he shot a three, and I get it, he was rolling, but Keldon has to have the ball in that moment. And he had the ball in the second half or second quarter, he had the ball, kicked it ahead to Devin, Devin kicked it ahead to Keldon, and we got a shot at the rim. That stuff's contagious, that stuff, it's amazing in the sport when you play like that how much the ball finds you back. I thought Victor was the benefit of that, I thought Steph Castle was the benefit of that, I thought Carter was the benefit of that.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Mitch Johnson on team chemistry: There was a play where Victor had it rolling and shot a three but Keldon was open. That stuff is contagious. It is amazing in the sport when you play like that how much the ball finds you back",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama",
+          "Keldon Johnson",
+          "Devin Vassell",
+          "Stephon Castle",
+          "Carter"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mitch Johnson emphasizes the importance of team chemistry and ball movement by highlighting specific plays involving multiple players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "02:52",
+      "summary_phrase": "Stephon Castle's impact as a playmaker",
+      "names_mentioned": [
+        "Stephon Castle",
+        "Victor Wembanyama",
+        "Dylan Harper",
+        "Julian",
+        "Devin"
+      ],
+      "excerpt": "I thought he did a great job just running the show.",
+      "quote": "I thought he did a great job just running the show. Victor had it going, I thought he made a very conscious effort to get him the ball in a variety of ways. He did a good job of kicking the ball ahead early. I thought we got Julian and Devin really good shots too. I'll take those 16 shot attempts every single day of the week and bet they'll make more than five moving forward more nights than not. And he looked like he tweaked his foot or ankle, I mean he's fine, but so I think he did a good job of just doing what we needed and putting his energy in the right stuff.",
+      "text_blocks": [],
+      "start_seconds": 172,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mitch Johnson praises Stephon Castle for his playmaking: I thought he did a great job just running the show. Victor had it going and I thought he made a very conscious effort to get him the ball in a variety of ways",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephon Castle",
+          "Victor Wembanyama",
+          "Julian Champagnie",
+          "Devin Vassell"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Mitch Johnson evaluates Stephon Castle's playmaking performance and mentions he appeared to tweak his foot or ankle during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mitch Johnson",
+      "timestamp": "03:39",
+      "summary_phrase": "Defensive transition and shot selection issues",
+      "names_mentioned": [
+        "Luke"
+      ],
+      "excerpt": "The worst minutes of the non-Victor minutes has nothing to do with Luke in my opinion.",
+      "quote": "I thought we had some moments where we did a really good job defensively in terms of shrinking the floor and showing crowds and gang rebounding. And I think, you know, the one area that group has to understand is to play complementary basketball on the offensive end to help the defense. That group, probably the worst minutes of the non-Victor minutes has nothing to do with Luke in my opinion. It's when we take quick shots and then we get where we're in transition defense a lot and we're on our heels. It's a little bit of a general statement, but I think if we could shore that up, I think that would help our offense and our defense more than anything else in those stretches.",
+      "text_blocks": [],
+      "start_seconds": 219,
+      "end_seconds": 268,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson on Spurs transition defense: The worst minutes of the non Victor minutes is when we take quick shots and then we get where we are in transition defense a lot and we are on our heels",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama",
+          "Luke"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson explains how poor offensive shot selection negatively impacts the team's defensive transition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mitch Johnson",
+      "timestamp": "04:24",
+      "summary_phrase": "Decision to pull Victor Wembanyama after reaching 50 points",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "I was just hoping he got to 50 when he did. That would have been hard to take him out",
+      "quote": "I was just hoping he got to 50 when he did. That would have been hard to take him out that close to 50.",
+      "text_blocks": [],
+      "start_seconds": 264,
+      "end_seconds": 273,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 7,
+      "social_post": "Mitch Johnson on pulling Victor Wembanyama after his 50 point game: I was just hoping he got to 50 when he did. That would have been hard to take him out that close to 50",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mitch Johnson comments on his decision to keep Victor Wembanyama in the game until he reached 50 points.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "XF36cbL9nZU",
+  "url": "https://www.youtube.com/watch?v=XF36cbL9nZU",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-22T04:41:11Z",
+  "duration_seconds": 290,
+  "processed_at": "2026-11-22T05:28:06Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,323 @@
+{
+  "video_title": "Victor Wembanyama on His IMPRESSIVE Double-Double Night",
+  "speakers_seen": [
+    "Victor Wembanyama"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "00:17",
+      "summary_phrase": "Victor Wembanyama on the challenge of maintaining consistency throughout the season",
+      "names_mentioned": [],
+      "excerpt": "The challenge is to keep doing the right thing over and over again.",
+      "quote": "The challenge is to keep doing the right thing over and over again. It is a challenge in this sort of game. It is even more a challenge in a game where you don't have it going. Keep shooting, keep doing the right thing, keep trusting the process. It is always the ultimate challenge for us, especially over such a long season.",
+      "verbatim_original_language": "",
+      "start_seconds": 17,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Victor Wembanyama on the grind of a long NBA season: The challenge is to keep doing the right thing over and over again even in games where you do not have it going",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama discusses the challenge of maintaining consistency throughout the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "00:52",
+      "summary_phrase": "Victor Wembanyama on his teammates' ability to find him on the court",
+      "names_mentioned": [],
+      "excerpt": "They've done a great job, and they're going to keep doing it until it keeps working.",
+      "quote": "They've done a great job, and they're going to keep doing it until it keeps working.",
+      "verbatim_original_language": "",
+      "start_seconds": 52,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Victor Wembanyama on his teammates finding him on the floor: They have done a great job and they are going to keep doing it until it keeps working",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Victor Wembanyama comments on his teammates' ability to find him on the court during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "01:15",
+      "summary_phrase": "Victor Wembanyama on not focusing on individual statistical milestones",
+      "names_mentioned": [
+        "LeBron James",
+        "Shaquille O'Neal",
+        "Nikola Jokic",
+        "Luka Doncic"
+      ],
+      "excerpt": "I don't think LeBron, Shaq, Jokic, Doncic, I don't think they think about that.",
+      "quote": "I don't think LeBron, Shaq, Jokic, Doncic, I don't think they think about that, and I have them as examples, so I'm trying not to think about it either.",
+      "verbatim_original_language": "",
+      "start_seconds": 75,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Victor Wembanyama says he looks to legends like LeBron Shaq Jokic and Doncic as examples and tries not to focus on individual statistical milestones",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James",
+          "Shaquille O'Neal",
+          "Nikola Jokic",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAS",
+          "LAL",
+          "DEN",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama explains that he does not focus on individual statistical milestones, citing other stars as examples.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "02:52",
+      "summary_phrase": "Victor Wembanyama on his approach to stacking historical performances",
+      "names_mentioned": [],
+      "excerpt": "I just want to keep stacking them up. I don't plan on doing those.",
+      "quote": "I just want to keep stacking them up. I don't plan on doing those. They just come when we play the right way as a team. So I just want to stack them up, hopefully there's many more coming.",
+      "verbatim_original_language": "",
+      "start_seconds": 172,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Victor Wembanyama on his historical stat lines: I do not plan on doing those. They just come when we play the right way as a team",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama discusses his approach to achieving historical performances as a byproduct of team success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "03:24",
+      "summary_phrase": "Victor Wembanyama on why he doesn't count made three-pointers as unique stats",
+      "names_mentioned": [],
+      "excerpt": "I don't count a stat line as original or unique if you have to include made threes.",
+      "quote": "There's been so many crazy stat lines in the NBA history that these feel like they're hard to come by. But I'm not going to lie, I don't count the ones with made threes. Made threes is really a stat. It is, but I don't count a stat line as original or unique if you have to include made threes in there.",
+      "verbatim_original_language": "",
+      "start_seconds": 204,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Victor Wembanyama has a specific standard for his stat lines: I do not count a stat line as original or unique if you have to include made threes in there",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama explains why he does not consider made three-pointers when evaluating the uniqueness of a stat line.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "04:16",
+      "summary_phrase": "Victor Wembanyama on the impact of Stephen Curry on the team",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "I hope that Stephen will end up with one of the best records in NBA history.",
+      "quote": "It has been reflected ever since he's been on this team. I hope that Stephen will end up with one of the best records in NBA history in terms of wins and losses. He's been impacting the game in a meaningful way, and he's impacted winning ever since he's been here with us, so it's always a pleasure to share the court with him.",
+      "verbatim_original_language": "",
+      "start_seconds": 256,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Victor Wembanyama on sharing the court with Stephen Curry: He has been impacting the game in a meaningful way and he has impacted winning ever since he has been here with us",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "SAS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama praises the impact Stephen Curry has had on winning since joining the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "06:07",
+      "summary_phrase": "Victor Wembanyama defines his principles of ethical basketball",
+      "names_mentioned": [],
+      "excerpt": "For me what it means is creating the culture as a team.",
+      "quote": "For me what it means is creating the culture as a team, taking the right shots, beating teams by having everybody that's on the floor as a threat for the opponents at all times.",
+      "verbatim_original_language": "",
+      "start_seconds": 367,
+      "end_seconds": 380,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Victor Wembanyama on his basketball philosophy: For me what it means is creating the culture as a team taking the right shots and having everybody on the floor be a threat",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama defines his principles for creating a successful team culture on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "07:35",
+      "summary_phrase": "Victor Wembanyama on the difficulty of visualizing his own progression",
+      "names_mentioned": [],
+      "excerpt": "There's so many steps between playing as a rookie or mini, but 50 points.",
+      "quote": "There's so many steps between playing as a rookie or mini, but 50 points. There's so many steps between the two that it's hard to visualize that, even if we can imagine it obviously. But what would shock the young Victor is the 29 shots, for example, because in growing up, I almost all the time was the youngest, the rookie, the over-classed, so 29 shots was not imaginable.",
+      "verbatim_original_language": "Je pense qu'il y a tellement d'étapes entre jouer en Benjamin ou Minime, mettre 50 points. Il y a tellement d'étapes entre les deux que c'est dur de se visualiser ça, même si on peut se l'imaginer évidemment. Mais ce qui me choque, ce qui choquerait le plus le jeune Victor, c'est les 29 tirs par exemple. Parce qu'en grandissant, j'ai quasi tout le temps été le plus jeune, le rookie, le surclassé, donc 29 tirs c'était pas imaginable.",
+      "start_seconds": 455,
+      "end_seconds": 482,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 8,
+      "social_post": "Victor Wembanyama reflects on his growth: What would shock the young Victor is the 29 shots because in growing up I was almost always the youngest or the rookie so 29 shots was not imaginable",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama reflects on his progression as a player and the evolution of his shot volume.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "08:10",
+      "summary_phrase": "Victor Wembanyama on the challenge of taking more shots per game",
+      "names_mentioned": [],
+      "excerpt": "It was one of the difficulties also for me in arriving here, is to be able to.",
+      "quote": "It was one of the difficulties also for me in arriving here, is to be able to take more than 20 shots per match, in having more than 20 shots of quality. It's not at all something in, it's not, it's not at all a style of game in which I grew up, but it's a style of game that I had to learn.",
+      "verbatim_original_language": "Et voilà, c'est la progression normale et c'était une des difficultés aussi pour moi en arrivant ici, c'est de pouvoir prendre plus de 20 tirs par match, en ayant plus de 20 tirs de qualité. C'est pas du tout quelque chose dans, c'est pas, c'est pas du tout un style de jeu dans lequel j'ai grandi, mais c'est un style de jeu que j'ai dû apprendre.",
+      "start_seconds": 490,
+      "end_seconds": 515,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Victor Wembanyama on adjusting to his role: It was one of the difficulties in arriving here to be able to take more than 20 shots per match. It is not a style of game in which I grew up but it is a style I had to learn",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama discusses the difficulty of adjusting to a high-volume shooting role in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "09:15",
+      "summary_phrase": "Victor Wembanyama on the tactical adjustments made at halftime",
+      "names_mentioned": [],
+      "excerpt": "Something that is not necessarily evident to see is that there is an enormous amount of adaptation.",
+      "quote": "Something that is not necessarily evident to see is that there is an enormous amount of adaptation that is done at halftime, on the two sides. And the things that were available at halftime, they are no longer at the third quarter. That is really something that is flagrant when we are on the ground.",
+      "verbatim_original_language": "Quelque chose qui est pas forcément évident à voir c'est que il y a énormément d'adaptation qui se font à la mi-temps, des deux côtés. Et les choses qui étaient disponibles à la première mi-temps, elles le sont plus au troisième quart-temps. Ça c'est vraiment quelque chose qui est flagrant quand on est sur le terrain.",
+      "start_seconds": 555,
+      "end_seconds": 576,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Victor Wembanyama on in game adjustments: There is an enormous amount of adaptation that is done at halftime on both sides. Things that were available at halftime are no longer there in the third quarter",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Victor Wembanyama explains the tactical adjustments that occur between teams during halftime.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "pVg6PjIE_BI",
+  "url": "https://www.youtube.com/watch?v=pVg6PjIE_BI",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-22T04:48:08Z",
+  "duration_seconds": 592,
+  "processed_at": "2026-11-22T05:28:09Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,181 @@
+{
+  "video_title": "“Tonight I Let The Game Come To Me.” | LaMelo Ball Postgame Sound | 11.21.26",
+  "speakers_seen": [
+    "LaMelo Ball"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:26",
+      "summary_phrase": "LaMelo Ball on building chemistry with Jaden McDaniels and Jalen Williams",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Jalen Williams"
+      ],
+      "excerpt": "With them the pick and roll is real good, especially Jaden and Jalen, it's just easy to find them.",
+      "quote": "With them the pick and roll is real good, especially Jaden and Jalen, it's just easy to find them. I mean they roll, real dynamic, can make a play, so it's always love.",
+      "text_blocks": [],
+      "start_seconds": 26,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "LaMelo Ball on his chemistry with Jaden McDaniels and Jalen Williams in the pick and roll: It is just easy to find them. They roll, real dynamic, can make a play, so it is always love.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels",
+          "Jalen Williams"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball discusses his pick and roll chemistry with teammates Jaden McDaniels and Jalen Williams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "LaMelo Ball",
+      "timestamp": "00:48",
+      "summary_phrase": "LaMelo Ball on the team's potential to improve in transition",
+      "names_mentioned": [],
+      "excerpt": "I think there is a lot of improvement we can still do, just simple things for real.",
+      "quote": "I think there is a lot of improvement we can still do, just simple things for real. I think there is a lot of improvement we can still do.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "LaMelo Ball says the Timberwolves still have a lot of room for improvement in transition: I think there is a lot of improvement we can still do, just simple things for real.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball reflects on the areas where the team needs to improve their transition play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:16",
+      "summary_phrase": "LaMelo Ball on Jaden McDaniels' consistency and offensive potential",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "We be harping on him to shoot more, get out of his body a little more and do some more.",
+      "quote": "For sure, he always just makes the right play. We be harping on him to shoot more, get out of his body a little more and do some more. I mean he already does so much just with the defense and this and that, but like I said, 6'10 can do everything, you kind of want him in the actions and having the ball.",
+      "text_blocks": [],
+      "start_seconds": 76,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "LaMelo Ball says the team is pushing Jaden McDaniels to be more aggressive offensively: We be harping on him to shoot more, get out of his body a little more and do some more. He is 6 foot 10 and can do everything.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball discusses Jaden McDaniels' offensive role and encourages him to be more aggressive.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "LaMelo Ball",
+      "timestamp": "01:58",
+      "summary_phrase": "LaMelo Ball on his evolving decision-making and flow in the offense",
+      "names_mentioned": [],
+      "excerpt": "Getting back into the flow for real, just letting the game come to me.",
+      "quote": "Getting back into the flow for real, just letting the game come to me. Previous to the other games I was trying to shoot, trying to get a rhythm, but today I just let it see what it was. As long as we win though, that's the main thing.",
+      "text_blocks": [],
+      "start_seconds": 118,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on his approach tonight: Getting back into the flow for real, just letting the game come to me. Previous to the other games I was trying to shoot, trying to get a rhythm, but today I just let it see what it was.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "LaMelo Ball explains his change in approach to the game and his decision-making process.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "LaMelo Ball",
+      "timestamp": "03:10",
+      "summary_phrase": "LaMelo Ball on the leadership and impact of Rudy Gobert",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "Rudy is amazing, just great at talking, always trying to help a teammate or just help another.",
+      "quote": "Rudy is amazing, just great at talking, always trying to help a teammate or just help another, so I just love being out there with him.",
+      "text_blocks": [],
+      "start_seconds": 190,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "LaMelo Ball on playing with Rudy Gobert: Rudy is amazing, just great at talking, always trying to help a teammate or just help another, so I just love being out there with him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "LaMelo Ball praises Rudy Gobert for his leadership and communication on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "GGZwIDzQ6ec",
+  "url": "https://www.youtube.com/watch?v=GGZwIDzQ6ec",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-22T05:08:49Z",
+  "duration_seconds": 215,
+  "processed_at": "2026-11-22T05:27:48Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

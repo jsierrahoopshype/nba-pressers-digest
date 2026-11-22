@@ -1,0 +1,254 @@
+{
+  "video_title": "Keldon Johnson on Wemby's 50 Points Against the New Orleans Pelicans",
+  "speakers_seen": [
+    "Keldon Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Keldon Johnson",
+      "timestamp": "00:15",
+      "summary_phrase": "Keldon Johnson on Victor Wembanyama's impressive 50-point performance",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "When Vic is rolling like that, what is that like for you guys around him?",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Vic had 50 tonight, that was impressive, 20 for 29. That's crazy."
+        },
+        {
+          "speaker": "Keldon Johnson",
+          "text": "When Vic is rolling like that, what is that like for you guys around him? Get him the ball, especially in the spots I feel like. When he has it going like that and we're moving the ball, I feel like we have so many dynamic players, it's hard to guard that. Like you said, he had it rolling and the main thing was, if he's open or he's getting to his spots, make sure you get it to him. That's just an emphasis for everybody. Whoever has it going, we try to give them the ball. Vic had it going tonight and we just try to give him the ball in his spots and let him work and let him be Vic, be special, be great, and that's what he showed tonight."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Keldon Johnson"
+      ],
+      "reporter_split": true,
+      "start_seconds": 15,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Keldon Johnson on Victor Wembanyama dropping 50 points against the Pelicans: When Vic has it going like that and we are moving the ball, it is hard to guard that. The main thing is to get him the ball in his spots and let him be special.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS",
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Keldon Johnson discusses his teammate Victor Wembanyama's 50-point performance against the New Orleans Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Keldon Johnson",
+      "timestamp": "01:17",
+      "summary_phrase": "Keldon Johnson on Victor Wembanyama's confidence and scoring consistency",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "For me, it's just making the right plays, playing basketball the right way, playing for my teammates.",
+      "quote": "For me, it's just making the right plays, playing basketball the right way, playing for my teammates. If I play the right way, I'm sure the scoring will come. Just continue to make the right decisions and continue to try to make my teammates better and put us in the best situation to win. The scoring has come with that the last four or five games, so just keep it going, keep it rolling, keep playing the right way, and keep building on good habits.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Keldon Johnson on his recent scoring stretch: For me it is just making the right plays and playing basketball the right way. If I play the right way, I am sure the scoring will come.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Keldon Johnson explains his approach to playing the right way and focusing on team success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Keldon Johnson",
+      "timestamp": "02:08",
+      "summary_phrase": "Keldon Johnson on his role in supporting teammates during games",
+      "names_mentioned": [],
+      "excerpt": "Having my teammates back, being there, that was all.",
+      "quote": "Having my teammates back, being there, that was all. It was nothing less, nothing more, just being there for my teammate. Obviously, I'm just doing what I'm supposed to do and be there for my teammate, have my brothers back.",
+      "text_blocks": [],
+      "start_seconds": 128,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Keldon Johnson on supporting his teammates: Having my teammates back, being there, that was all. I am just doing what I am supposed to do and be there for my teammate, have my brothers back.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Keldon Johnson reflects on the importance of supporting his teammates during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Keldon Johnson",
+      "timestamp": "02:55",
+      "summary_phrase": "Keldon Johnson on the team's collective focus on winning games",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "We don't look at it as he's going for 30, he's going for 50. We're playing to win.",
+      "quote": "We don't look at it as he's going for 30, he's going for 50. We're playing to win. Ultimately, when somebody has it going like that, you want to give them the ball, so that gives us the best chance to be successful. He's our guy, so we just continue to give him the ball and that put us in the best situation tonight to be successful, which was getting him the ball in his spots and letting him work because he was making shots.",
+      "text_blocks": [],
+      "start_seconds": 175,
+      "end_seconds": 208,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Keldon Johnson says the Spurs are not focused on individual stats like 50 point games: We are playing to win. Ultimately, when somebody has it going like that, you want to give them the ball, so that gives us the best chance to be successful.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Keldon Johnson describes the team's strategy of feeding the hot hand to secure a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Keldon Johnson",
+      "timestamp": "03:40",
+      "summary_phrase": "Keldon Johnson on Victor Wembanyama's work ethic and performance",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "He deserves it. Vic works extremely hard and to see him come out there and he got 50.",
+      "quote": "He deserves it. Vic works extremely hard and to see him come out there and he had a chance to get 50 and he got 50. I feel like he did it in an impressive, an aggressive way, an efficient way, and I feel like he showed how special he was tonight for sure.",
+      "text_blocks": [],
+      "start_seconds": 220,
+      "end_seconds": 241,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Keldon Johnson on Wembanyama: He deserves it. Vic works extremely hard and he did it in an impressive, aggressive, and efficient way. He showed how special he was tonight.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Keldon Johnson praises Victor Wembanyama's work ethic following his 50-point game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Keldon Johnson",
+      "timestamp": "04:24",
+      "summary_phrase": "Keldon Johnson on the team's chemistry during a busy schedule",
+      "names_mentioned": [],
+      "excerpt": "We know what we're building towards and each and every game we just focus on that game.",
+      "quote": "We know what we're building towards and each and every game we just focus on that game. We don't look forward or we don't look back, we just stay present in the moment. Fortunately, we love being around each other. This is our family, this is my brothers, we spend every day together. We get to go and be on the road and we're going to be on the road for Thanksgiving, but I feel like we're going to enjoy it. We enjoy each other's presence, we enjoy being around each other, and I feel like that's what makes it so fun.",
+      "text_blocks": [],
+      "start_seconds": 264,
+      "end_seconds": 303,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Keldon Johnson on the Spurs team chemistry: We love being around each other. This is our family, this is my brothers, we spend every day together. We enjoy each other's presence and that is what makes it so fun.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Keldon Johnson talks about the team's chemistry and staying present during a busy road schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Keldon Johnson",
+      "timestamp": "06:08",
+      "summary_phrase": "Keldon Johnson on maintaining good habits during large leads",
+      "names_mentioned": [],
+      "excerpt": "It's about executing and still upholding those good habits even when you're not necessarily playing.",
+      "quote": "When you get leads, I think you continue to work on the habits so that because at some point, when you're up in a game and you have a sizable lead, it's not about finishing out the game, it's about executing and still upholding those good habits even when you're not necessarily playing in a tight game where that intensity isn't there. You still have to have those habits and still make sure you execute because that's how you obtain those habits and you don't want to slack off and end up biting you in the butt in the long run.",
+      "text_blocks": [],
+      "start_seconds": 368,
+      "end_seconds": 407,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Keldon Johnson on maintaining focus with a big lead: It is not about finishing out the game, it is about executing and still upholding those good habits. You do not want to slack off and end up biting you in the butt in the long run.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Keldon Johnson discusses the importance of maintaining good habits even when the team has a large lead.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "92lwK1p9Ekw",
+  "url": "https://www.youtube.com/watch?v=92lwK1p9Ekw",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-22T04:36:32Z",
+  "duration_seconds": 423,
+  "processed_at": "2026-11-22T05:28:23Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

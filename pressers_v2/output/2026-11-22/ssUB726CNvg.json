@@ -1,0 +1,295 @@
+{
+  "video_title": "“We Pride Ourselves On Defense.” | Jaden McDaniels Postgame Sound | 11.21.26",
+  "speakers_seen": [
+    "Jaden McDaniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:05",
+      "summary_phrase": "Jaden McDaniels on LaMelo Ball's defensive effort and intensity",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "the effort and energy he gives is way better than the LaMelo we used to play against",
+      "quote": "He is doing a good job. He is pressuring people, running people off the spot. I think the effort and energy he gives is way better than the LaMelo we used to play against. He actually played defense, he is taking pride in his effort and stuff. I think I just said it for real.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Jaden McDaniels says LaMelo Ball has evolved defensively: He is pressuring people and taking pride in his effort. It is way better than the LaMelo we used to play against.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses the defensive intensity and effort shown by LaMelo Ball during their recent matchup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:35",
+      "summary_phrase": "Jaden McDaniels on LaMelo Ball's defensive evolution",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "he really didn't have to play defense, but here he has to",
+      "quote": "I think LaMelo really didn't have to play defense, but here he has to. If you don't, people are just going to put you in the action. I feel like when they do put him in the action, he holds his own. He fights, it is not an easy bucket every time someone is guarding someone, so it is just good to see that he has the effort on defense.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jaden McDaniels on LaMelo Ball's defensive growth: He really did not have to play defense before, but here he has to. If you do not, people are just going to put you in the action.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains how LaMelo Ball has improved his defensive accountability and ability to hold his own in defensive actions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "01:07",
+      "summary_phrase": "Jaden McDaniels on Minnesota's defensive culture",
+      "names_mentioned": [],
+      "excerpt": "if you don't play defense here you ain't going to play",
+      "quote": "If you don't play defense here you ain't going to play, so it is simple for real.",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Jaden McDaniels on the Timberwolves defensive identity: If you do not play defense here you are not going to play, so it is simple for real.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels describes the defensive expectations and accountability required to earn playing time for the Minnesota Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "01:17",
+      "summary_phrase": "Jaden McDaniels on chemistry with LaMelo Ball in pick-and-roll",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "we work on it in practice and even in the summer we would be hooping",
+      "quote": "It is good, it has been working for us. We work on it in practice and even in the summer we would be hooping, be on the same team, so we got a good chemistry going.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on his chemistry with LaMelo Ball: We work on it in practice and even in the summer we would be hooping, be on the same team, so we got a good chemistry going.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses the chemistry he has built with LaMelo Ball through practice and summer workouts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "01:47",
+      "summary_phrase": "Jaden McDaniels on his personal discipline and routine",
+      "names_mentioned": [],
+      "excerpt": "I do the same things every day, I don't really go off track",
+      "quote": "I do the same things every day, I don't really go off track. I wake up, go to the gym, workout, might come back at night, chill at the crib. I am disciplined for sure.",
+      "text_blocks": [],
+      "start_seconds": 107,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Jaden McDaniels on his daily routine: I do the same things every day, I do not really go off track. I wake up, go to the gym, workout, might come back at night, chill at the crib. I am disciplined for sure.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels describes his daily routine and personal discipline as a professional athlete.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "02:11",
+      "summary_phrase": "Jaden McDaniels on his growth in work ethic",
+      "names_mentioned": [],
+      "excerpt": "the work ethic I feel like has jumped way more",
+      "quote": "I have always been like that, but the work ethic I feel like has jumped way more. Learning the league and how things work and how much work you need to put in and what days you need to take off and take care of your body. It is seven years, it has worked up, getting better each year.",
+      "text_blocks": [],
+      "start_seconds": 131,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on his work ethic: Learning the league and how things work and how much work you need to put in and what days you need to take off and take care of your body. It is seven years, it has worked up, getting better each year.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels reflects on his growth in work ethic and understanding of how to take care of his body over his seven-year career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "03:08",
+      "summary_phrase": "Jaden McDaniels on balancing aggression and team play",
+      "names_mentioned": [],
+      "excerpt": "staying aggressive when I am in the action and then if it is not able to score",
+      "quote": "Staying aggressive when I am in the action and then if it is not able to score, just knowing where my outlets are and then trusting my teammates with the ball that they are going to make the right play and then eventually I will get the ball back. So just staying confident, staying aggressive and I know I am going to make the right play.",
+      "text_blocks": [],
+      "start_seconds": 188,
+      "end_seconds": 213,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on his offensive approach: Staying aggressive when I am in the action and then if it is not able to score, just knowing where my outlets are and then trusting my teammates with the ball.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains his mindset regarding balancing personal aggression with trusting his teammates during offensive possessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "03:42",
+      "summary_phrase": "Jaden McDaniels on defensive chemistry with Jaden McDaniels",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "I always be saying I didn't know he could play defense like this before he came",
+      "quote": "Usually I am guarding one of the best players, but if we get mismatch in transition, I am not really worried if I see Jaden pick him up. I always be saying I didn't know he could play defense like this before he came, so it is just another weapon we got.",
+      "text_blocks": [],
+      "start_seconds": 222,
+      "end_seconds": 242,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jaden McDaniels on the team's defensive versatility: I always be saying I did not know he could play defense like this before he came, so it is just another weapon we got.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses his confidence in his teammates' defensive abilities during transition mismatches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "04:04",
+      "summary_phrase": "Jaden McDaniels on playing against Isaiah Stewart",
+      "names_mentioned": [
+        "Isaiah Stewart"
+      ],
+      "excerpt": "every time we play versus each other we have been playing against each other since high school",
+      "quote": "Every time we play versus each other we have been playing against each other since high school. We just love to compete against each other and he blocked me, I dunked on him last year, so we are even I guess.",
+      "text_blocks": [],
+      "start_seconds": 244,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "Jaden McDaniels on his history with Isaiah Stewart: We have been playing against each other since high school. We just love to compete against each other and he blocked me, I dunked on him last year, so we are even I guess.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Isaiah Stewart"
+        ],
+        "teams": [
+          "MIN",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels reflects on his long-standing competitive history with Isaiah Stewart dating back to high school.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ssUB726CNvg",
+  "url": "https://www.youtube.com/watch?v=ssUB726CNvg",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-22T05:04:13Z",
+  "duration_seconds": 272,
+  "processed_at": "2026-11-22T05:27:53Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}
