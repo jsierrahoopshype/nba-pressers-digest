@@ -1,0 +1,345 @@
+{
+  "video_title": "Clippers vs. Mavericks | Postgame Interviews",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Terance Mann"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:05",
+      "summary_phrase": "Tyronn Lue on the Clippers' late-game turnover struggles",
+      "names_mentioned": [],
+      "excerpt": "when you come down the stretch you got to be able to execute at least take care of the basketball",
+      "quote": "Turnover, turnover, turnover, turnover. You right there in the game, you play well on the road, and it goes from a three-point game, or really a five-point game, with 4:14 we got the ball, to a 14-point game in a minute. We got to learn. We keep talking about the turnovers, but we didn't have a great offensive night tonight, but when you come down the stretch you got to be able to execute at least take care of the basketball, and we weren't able to do that tonight.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on the Clippers late game struggles: We keep talking about the turnovers but we did not have a great offensive night and when you come down the stretch you have to be able to execute and take care of the basketball.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the team's late-game turnover struggles following the loss to the Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:37",
+      "summary_phrase": "Tyronn Lue on Kawhi Leonard's impact upon returning to the lineup",
+      "names_mentioned": [
+        "Kawhi Leonard"
+      ],
+      "excerpt": "the energy he brought, I thought was huge for us",
+      "quote": "I think Kawhi, when he came back in the third quarter, came in early, got a few steals, made a few plays, got us back in the game. I think we actually came back and took the lead for a second. And so, the energy he brought, I thought was huge for us.",
+      "text_blocks": [],
+      "start_seconds": 37,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tyronn Lue says the energy Kawhi Leonard brought upon his return to the lineup was huge for the Clippers.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue comments on the energy Kawhi Leonard brought to the game after returning to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:54",
+      "summary_phrase": "Tyronn Lue expects Brandon Boston Jr. to help limit turnovers",
+      "names_mentioned": [
+        "Brandon Boston Jr."
+      ],
+      "excerpt": "he's a guy who can see over the defense, he can make plays for teammates",
+      "quote": "He definitely will. I think he's a guy who can see over the defense, he can make plays for teammates. He's not a big turnover guy. He can see what's developing before it develops, and hopefully he can come back and give us that offensive punch and take some of the pressure off other guys.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue expects Brandon Boston Jr to help limit turnovers because he is a guy who can see over the defense and make plays for teammates.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Boston Jr."
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue explains why he believes Brandon Boston Jr. can help the team reduce turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:56",
+      "summary_phrase": "Tyronn Lue on the defensive impact of Ivica Zubac",
+      "names_mentioned": [
+        "Ivica Zubac"
+      ],
+      "excerpt": "his ability to block shots, switch a little bit, he can do a lot of things",
+      "quote": "His energy, his ability to block shots, switch a little bit, he can do a lot of things and just to see him on the court is good. Happy for him, all the work he put in to get to this point, and he's only going to get better as time goes along. It's going to take him three or four weeks to kind of get back to being himself.",
+      "text_blocks": [],
+      "start_seconds": 116,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on Ivica Zubac returning to the court: It is going to take him three or four weeks to kind of get back to being himself.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ivica Zubac"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyronn Lue discusses the defensive impact of Ivica Zubac and his recovery process after returning to the court.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:25",
+      "summary_phrase": "Tyronn Lue attributes late-game collapse to offensive execution and turnovers",
+      "names_mentioned": [],
+      "excerpt": "you can't make up for turnovers, it's too hard",
+      "quote": "It's the offense. You can't get stops if you turn the ball over. If you go back and watch it, a three-point game, and dunk, dunk, dunk, layup, three. You can't make up for turnovers, it's too hard. Teams are too fast, they play too fast, and when you turn the basketball over, you put yourself at a huge deficit.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Tyronn Lue on the late game collapse: You cannot get stops if you turn the ball over. You cannot make up for turnovers it is too hard.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue elaborates on how the team's offensive execution and turnovers led to their late-game collapse.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Terance Mann",
+      "timestamp": "03:30",
+      "summary_phrase": "Terance Mann on the team's late-game turnover issues",
+      "names_mentioned": [],
+      "excerpt": "we got back in the game with some clean turnovers, getting out in transition, getting some open threes",
+      "quote": "We got back in the game with some clean turnovers, getting out in transition, getting some open threes. In the last three minutes, I think we just folded. Three turnovers in a row, four turnovers in a row. That was a ball game after that.",
+      "text_blocks": [],
+      "start_seconds": 210,
+      "end_seconds": 227,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Terance Mann on the Clippers late game collapse: In the last three minutes I think we just folded. Three turnovers in a row four turnovers in a row. That was a ball game after that.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Terance Mann reflects on the team's turnover issues during the final minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Terance Mann",
+      "timestamp": "03:59",
+      "summary_phrase": "Terance Mann on maintaining intensity and reducing turnovers",
+      "names_mentioned": [],
+      "excerpt": "take care of the ball, we got to get shots on board",
+      "quote": "Both the same intensity, the same confidence. Take care of the ball, we got to get shots on board. Just keep playing as a team, try to go out there, compete at a high level, get defensive stops, and just run in transition. I think that's our best ability is getting out and running in transition, so I think that's what we got to do more.",
+      "text_blocks": [],
+      "start_seconds": 239,
+      "end_seconds": 264,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Terance Mann says the Clippers need to focus on taking care of the ball and getting out in transition to compete at a high level.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Terance Mann discusses the need for the team to maintain intensity and focus on transition play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Terance Mann",
+      "timestamp": "04:22",
+      "summary_phrase": "Terance Mann on the return of Ivica Zubac",
+      "names_mentioned": [
+        "Ivica Zubac"
+      ],
+      "excerpt": "just the space the floor, another score out there, and he might make it easier for others",
+      "quote": "Just the space the floor, another score out there, and he might make it easier for others as well. So, I think the whole group is pretty excited to have all that.",
+      "text_blocks": [],
+      "start_seconds": 262,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Terance Mann on having Ivica Zubac back: It spaces the floor and he might make it easier for others as well. The whole group is pretty excited to have all that.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ivica Zubac"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Terance Mann shares his thoughts on the impact of Ivica Zubac returning to the lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Terance Mann",
+      "timestamp": "04:42",
+      "summary_phrase": "Terance Mann on the defensive effort against Luka Doncic and Kyrie Irving",
+      "names_mentioned": [
+        "Luka Doncic",
+        "Kyrie Irving"
+      ],
+      "excerpt": "Just get out their head, just to make some other people just make a play.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Team defense was pretty good tonight. We were trying to make a lot of contested twos. Who was firing in a lot on their isos?"
+        },
+        {
+          "speaker": "Terance Mann",
+          "text": "Just get out their head, just to make some other people just make a play. Team defense was pretty good tonight, this defensive loss for sure."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Terance Mann"
+      ],
+      "reporter_split": true,
+      "start_seconds": 282,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Terance Mann on the defensive effort against Luka Doncic and Kyrie Irving: Team defense was pretty good tonight. We were trying to make a lot of contested twos.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic",
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "LAC",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Terance Mann evaluates the team's defensive performance against Luka Doncic and Kyrie Irving.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Terance Mann",
+      "timestamp": "05:10",
+      "summary_phrase": "Terance Mann on the team's need to compete at a high level",
+      "names_mentioned": [
+        "Ivica Zubac"
+      ],
+      "excerpt": "just to compete at a high level, that's all that we can really ask for",
+      "quote": "Just to compete at a high level, that's all that we can really ask for. We haven't seen a full squad together, we haven't practiced anything, so I really can't tell you the honest truth about what we're going to look like or anything like that. But playing against Ivica Zubac, just having the scoring ability, playing iso ball, we can create some double teams just to shift the defense a little bit. We get the ball moving, another ball handler on the court, another shot creator, another playmaker. And even Ivica Zubac is on his second game back, so he's just getting his feet wet really. We're trying to get this win right, trying to get back into the basketball game shape, so we're super excited to have both of those guys back.",
+      "text_blocks": [],
+      "start_seconds": 310,
+      "end_seconds": 362,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Terance Mann on the Clippers current state: We have not seen a full squad together we have not practiced anything so I really cannot tell you the honest truth about what we are going to look like.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ivica Zubac"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Terance Mann discusses the team's need to compete and integrate returning players like Ivica Zubac.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "_tzHjLrhPnk",
+  "url": "https://www.youtube.com/watch?v=_tzHjLrhPnk",
+  "channel_team": "LA Clippers",
+  "published": "2026-11-22T06:30:12Z",
+  "duration_seconds": 376,
+  "processed_at": "2026-11-22T07:11:26Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

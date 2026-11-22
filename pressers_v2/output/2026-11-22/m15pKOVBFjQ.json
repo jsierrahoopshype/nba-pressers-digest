@@ -1,0 +1,239 @@
+{
+  "video_title": "Mike Conley on big game against Kings | Celtics Postgame Interview",
+  "speakers_seen": [
+    "Mike Conley",
+    "Unidentified reporter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mike Conley",
+      "timestamp": "00:00",
+      "summary_phrase": "Mike Conley on team depth and readiness for rotation minutes",
+      "names_mentioned": [
+        "Joe Mazzulla"
+      ],
+      "excerpt": "one thing Joe expects of everybody who's not playing just to be ready to play",
+      "quote": "Honestly, just credit the team here. All the guys, we have a good group that gets in and we work every day. One thing Joe expects of everybody who's not playing just to be ready to play five to 20 minutes, so I'm just staying in shape and being ready to go.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mike Conley on the team mindset regarding rotation minutes: Joe expects everybody who is not playing to just be ready to play five to 20 minutes, so I am just staying in shape and being ready to go.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Mike Conley discusses the team's depth and the expectation from the coaching staff for players to be ready for rotation minutes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mike Conley",
+      "timestamp": "00:53",
+      "summary_phrase": "Mike Conley on offensive pace and off-ball movement",
+      "names_mentioned": [],
+      "excerpt": "our pace can be a little bit better. I think we were doing a lot more off-ball",
+      "quote": "I think there's a couple things. Our pace can be a little bit better. I think we were doing a lot more off-ball, getting guys mismatches in different situations, getting to the rim, getting layups. But there's nights when we don't make shots, and we've had plenty of those, but we're still able to win games because of our defense, defensive rebounding, doing things that allow us to get extra possessions.",
+      "text_blocks": [],
+      "start_seconds": 53,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mike Conley says the team is winning games despite shooting struggles because of defense and rebounding: There are nights when we do not make shots, but we are still able to win games because of our defense and defensive rebounding.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Mike Conley explains how the team maintains success through defense and rebounding even when they are not shooting the ball well.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mike Conley",
+      "timestamp": "01:34",
+      "summary_phrase": "Mike Conley on team energy and contributions from bench players",
+      "names_mentioned": [
+        "Luka Doncic",
+        "Baylor",
+        "PG",
+        "Devin Booker"
+      ],
+      "excerpt": "I told the group going out there that we got to change the game",
+      "quote": "I told the group going out there that we got to change the game. We just got to change the energy of it. And all the guys out there, Luka, to Baylor, whoever was in the game, I thought Devin, getting called upon there, I know he probably wasn't expecting that, but he came in and gave us great minutes. Just everybody coming in and just giving energy and trying to just flip the way the game was going a little bit, and I thought we did that.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Mike Conley praises the bench energy during the game: I told the group going out there that we got to change the game. We just got to change the energy of it.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka",
+          "Baylor",
+          "Devin"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mike Conley praises his teammates for providing energy and contributing quality minutes off the bench during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mike Conley",
+      "timestamp": "02:10",
+      "summary_phrase": "Mike Conley on his role as a veteran mentor",
+      "names_mentioned": [],
+      "excerpt": "it's fun for me to be the mentor, it's fun for me to be the teammate",
+      "quote": "Honestly, it's fun for me to be the mentor, it's fun for me to be the teammate, but I say all the time, I'm the biggest competitor there is. I wouldn't be here till year 20 if I wasn't, and I'm not going to go out there and look crazy. I'm going to go out there and be prepared and ready to go. I know I'm still capable of doing a lot, and I just got to be prepared for whatever my role is on this team any given night.",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 165,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Mike Conley on his role as a veteran: It is fun for me to be the mentor, but I am the biggest competitor there is. I would not be here till year 20 if I was not, and I am not going to go out there and look crazy.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Mike Conley reflects on his role as a veteran mentor and his continued competitive drive in his twentieth season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mike Conley",
+      "timestamp": "02:35",
+      "summary_phrase": "Mike Conley on the future of teammate DeMar DeRozan",
+      "names_mentioned": [
+        "DeMar DeRozan"
+      ],
+      "excerpt": "he's got a bright future. Very aggressive, can score at all three levels",
+      "quote": "Man, he's got a bright future. Very aggressive, can score at all three levels. Not afraid of the moment, obviously. He made some big plays down the stretch and allowed the team to kind of keep the edge a little bit. So, bright future for sure.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Mike Conley on DeMar DeRozan: He has a bright future. Very aggressive, can score at all three levels. Not afraid of the moment, obviously.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "DeMar DeRozan"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Mike Conley discusses the performance and potential of his teammate DeMar DeRozan following his play down the stretch.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mike Conley",
+      "timestamp": "02:52",
+      "summary_phrase": "Mike Conley on responding to team winning and losing streaks",
+      "names_mentioned": [],
+      "excerpt": "there's going to be 10-game winning streaks, there's going to be three-game losing streaks",
+      "quote": "Honestly, it's how we're going to respond. In training camp, we knew we were going to go into the season and there's going to be 10-game winning streaks, there's going to be three-game losing streaks, there's going to be these ebb and flows, and how we respond and how we handle each one of those is going to be important. We're in that moment now, so it's about going to the next one.",
+      "text_blocks": [],
+      "start_seconds": 172,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mike Conley on managing the ups and downs of an NBA season: There are going to be 10 game winning streaks, there are going to be three game losing streaks, and how we respond and how we handle each one of those is going to be important.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Mike Conley talks about the importance of how the team responds to the natural ups and downs of an NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Mike Conley",
+      "timestamp": "03:26",
+      "summary_phrase": "Mike Conley on regenerating offensive rhythm",
+      "names_mentioned": [],
+      "excerpt": "it's all about the way we move the ball, pace and getting downhill",
+      "quote": "Honestly, I think it's all about the way we move the ball, pace and getting downhill. If we're going to settle for shots, when they're wide open, obviously we're going to make them, but the more we're putting energy into the ball, getting downhill, being aggressive, I think it forces us into more of an engaged offensive mentality. And this team has plenty of guys that can do it, we just got to lean on that.",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mike Conley on the offensive identity: The more we are putting energy into the ball, getting downhill, being aggressive, I think it forces us into more of an engaged offensive mentality.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Mike Conley explains the offensive adjustments needed to maintain an engaged mentality and better ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "m15pKOVBFjQ",
+  "url": "https://www.youtube.com/watch?v=m15pKOVBFjQ",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-22T06:36:50Z",
+  "duration_seconds": 235,
+  "processed_at": "2026-11-22T07:11:21Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

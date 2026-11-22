@@ -30,7 +30,15 @@ From: [Victor Wembanyama on His IMPRESSIVE Double-Double Night](https://www.yout
 
 <small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=455&q=8) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=455&q=8&slack=1)</small>
 
-**4. Keldon Johnson — "When Vic is rolling like that, what is that like for you guys around him?" — Keldon Johnson on Victor Wembanyama's impressive 50-point performance** [00:15](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=15s)
+**4. Mike Conley — "he's got a bright future. Very aggressive, can score at all three levels" — Mike Conley on the future of teammate DeMar DeRozan** [02:35](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=155s)
+
+Mike Conley: "Man, he's got a bright future. Very aggressive, can score at all three levels. Not afraid of the moment, obviously. He made some big plays down the stretch and allowed the team to kind of keep the edge a little bit. So, bright future for sure."
+
+[https://www.youtube.com/watch?v=m15pKOVBFjQ&t=155s](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=155s)
+
+From: [Mike Conley on big game against Kings \| Celtics Postgame Interview](https://www.youtube.com/watch?v=m15pKOVBFjQ) · *Boston Celtics*
+
+**5. Keldon Johnson — "When Vic is rolling like that, what is that like for you guys around him?" — Keldon Johnson on Victor Wembanyama's impressive 50-point performance** [00:15](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=15s)
 
 **Unidentified reporter:** "Vic had 50 tonight, that was impressive, 20 for 29. That's crazy."
 
@@ -42,7 +50,7 @@ From: [Keldon Johnson on Wemby's 50 Points Against the New Orleans Pelicans](htt
 
 <small>[Clip it](presserclips://clip?v=92lwK1p9Ekw&t=15&q=1) · [Send to Slack](presserclips://clip?v=92lwK1p9Ekw&t=15&q=1&slack=1)</small>
 
-**5. Ayo Dosunmu — "I think we have a lot of variety of guys who can not only be the point of attack defender." — Ayo Dosunmu on the Timberwolves' defensive ranking** [08:23](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=503s)
+**6. Ayo Dosunmu — "I think we have a lot of variety of guys who can not only be the point of attack defender." — Ayo Dosunmu on the Timberwolves' defensive ranking** [08:23](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=503s)
 
 **Unidentified reporter:** "Do you feel like you guys are the best defense in the NBA?"
 
@@ -54,7 +62,7 @@ From: [“We're Finding More Trust Within The Group.” \| Chris Finch Postgame 
 
 <small>[Clip it](presserclips://clip?v=KSwkU3z9qJs&t=503&q=6) · [Send to Slack](presserclips://clip?v=KSwkU3z9qJs&t=503&q=6&slack=1)</small>
 
-**6. Jaden McDaniels — "if you don't play defense here you ain't going to play" — Jaden McDaniels on Minnesota's defensive culture** [01:07](https://www.youtube.com/watch?v=ssUB726CNvg&t=67s)
+**7. Jaden McDaniels — "if you don't play defense here you ain't going to play" — Jaden McDaniels on Minnesota's defensive culture** [01:07](https://www.youtube.com/watch?v=ssUB726CNvg&t=67s)
 
 Jaden McDaniels: "If you don't play defense here you ain't going to play, so it is simple for real."
 
@@ -64,7 +72,7 @@ From: [“We Pride Ourselves On Defense.” \| Jaden McDaniels Postgame Sound \|
 
 <small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=67&q=3) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=67&q=3&slack=1)</small>
 
-**7. Deni Avdija — "He is a mentor for me as a human being more than a player" — Deni Avdija on his relationship with his father as a mentor** [04:09](https://www.youtube.com/watch?v=6isLbnpi-8k&t=249s)
+**8. Deni Avdija — "He is a mentor for me as a human being more than a player" — Deni Avdija on his relationship with his father as a mentor** [04:09](https://www.youtube.com/watch?v=6isLbnpi-8k&t=249s)
 
 Deni Avdija: "He calls me. We know a lot of times we don't talk about the game in terms of what I need to do or stuff. At this point, he is just being my dad and we have funny sometimes conversations and how things could have gone differently. But you know, he is a mentor for me as a human being more than a player, so he raised me to be a great athlete and a great competitor, and that is the biggest blessing."
 
@@ -74,7 +82,7 @@ From: [Deni Avdija Postgame Interview \| Portland Trail Blazers 96, New York Kni
 
 <small>[Clip it](presserclips://clip?v=6isLbnpi-8k&t=249&q=4) · [Send to Slack](presserclips://clip?v=6isLbnpi-8k&t=249&q=4&slack=1)</small>
 
-**8. LaMelo Ball — "We be harping on him to shoot more, get out of his body a little more and do some more." — LaMelo Ball on Jaden McDaniels' consistency and offensive potential** [01:16](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s)
+**9. LaMelo Ball — "We be harping on him to shoot more, get out of his body a little more and do some more." — LaMelo Ball on Jaden McDaniels' consistency and offensive potential** [01:16](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s)
 
 LaMelo Ball: "For sure, he always just makes the right play. We be harping on him to shoot more, get out of his body a little more and do some more. I mean he already does so much just with the defense and this and that, but like I said, 6'10 can do everything, you kind of want him in the actions and having the ball."
 
@@ -84,7 +92,7 @@ From: [“Tonight I Let The Game Come To Me.” \| LaMelo Ball Postgame Sound \|
 
 <small>[Clip it](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3) · [Send to Slack](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3&slack=1)</small>
 
-**9. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
+**10. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
 
 **Unidentified reporter:** "This is the number one defense in the league that you guys are a part of. Rudy's a big focal point down low, Melo's been great at the point of attack. How much pride do you take in your role on that end of the court?"
 
@@ -96,7 +104,7 @@ From: [Jonathan Kuminga Postgame Interview With Sean Dorcellus \| 11.21.26](http
 
 <small>[Clip it](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2) · [Send to Slack](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2&slack=1)</small>
 
-**10. Jalen Brunson — "when you're continuously working on your game every single day and things may not be falling in your favor" — Jalen Brunson on Mikal Bridges' recent performance and work ethic** [02:57](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s)
+**11. Jalen Brunson — "when you're continuously working on your game every single day and things may not be falling in your favor" — Jalen Brunson on Mikal Bridges' recent performance and work ethic** [02:57](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s)
 
 Jalen Brunson: "That's just who he is. I've said this before, but when you're continuously working on your game every single day and things may not be falling in your favor, but you keep doing the right thing every single day, you keep chipping away, eventually things are going to turn for you. Over the past week or two, things have been turning for him and now he's on a roll."
 
@@ -106,7 +114,7 @@ From: [Mikal Bridges, Jalen Brunson, Landry Shamet Postgame Media \| November 21
 
 <small>[Clip it](presserclips://clip?v=jIFdoG-IgSo&t=177&q=4) · [Send to Slack](presserclips://clip?v=jIFdoG-IgSo&t=177&q=4&slack=1)</small>
 
-**11. Damian Lillard — "I had a full season to focus on my diet and specific ways of training" — Damian Lillard on his weight loss and physical conditioning** [04:13](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s)
+**12. Damian Lillard — "I had a full season to focus on my diet and specific ways of training" — Damian Lillard on his weight loss and physical conditioning** [04:13](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s)
 
 Damian Lillard: "I had a full season to focus on my diet and specific ways of training, coming back off a major injury and being at a later stage of my career. I think it is important to just be light on your joints and tendons and not have as much stress on your body as far as your weight. I think that is part of just being able to remain at a high level playing the game. You can't be heavy. It is easier as you get older to come back heavier and heavier, and I had a year to address that and make sure that I came back feeling good and moving well."
 
@@ -115,6 +123,26 @@ Damian Lillard: "I had a full season to focus on my diet and specific ways of tr
 From: [Damian Lillard Postgame Interview \| Portland Trail Blazers 96, New York Knicks 97 \| Nov. 21, 2026](https://www.youtube.com/watch?v=qWsZ6k_RCSs) · *Portland Trail Blazers*
 
 <small>[Clip it](presserclips://clip?v=qWsZ6k_RCSs&t=253&q=5) · [Send to Slack](presserclips://clip?v=qWsZ6k_RCSs&t=253&q=5&slack=1)</small>
+
+**13. Terance Mann — "we got back in the game with some clean turnovers, getting out in transition, getting some open threes" — Terance Mann on the team's late-game turnover issues** [03:30](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s)
+
+Terance Mann: "We got back in the game with some clean turnovers, getting out in transition, getting some open threes. In the last three minutes, I think we just folded. Three turnovers in a row, four turnovers in a row. That was a ball game after that."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s)
+
+From: [Clippers vs. Mavericks \| Postgame Interviews](https://www.youtube.com/watch?v=_tzHjLrhPnk) · *LA Clippers*
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=210&q=6) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=210&q=6&slack=1)</small>
+
+**14. Mikal Bridges — "trying to get Jalen open and create space and how Josh threw it kind of indicated" — Mikal Bridges on the final play designed for Jalen Brunson** [00:08](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=8s)
+
+Mikal Bridges: "Trying to get Jalen open and create space and how Josh threw it kind of indicated that I was going to be open, so just going to make a play."
+
+[https://www.youtube.com/watch?v=jIFdoG-IgSo&t=8s](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=8s)
+
+From: [Mikal Bridges, Jalen Brunson, Landry Shamet Postgame Media \| November 21, 2026](https://www.youtube.com/watch?v=jIFdoG-IgSo) · *New York Knicks*
+
+<small>[Clip it](presserclips://clip?v=jIFdoG-IgSo&t=8&q=1) · [Send to Slack](presserclips://clip?v=jIFdoG-IgSo&t=8&q=1&slack=1)</small>
 
 ---
 
@@ -668,6 +696,96 @@ _Speakers identified: Unidentified speaker, Jaden McDaniels_
 
 ---
 
+## Clippers vs. Mavericks | Postgame Interviews — *LA Clippers*
+
+Source: [https://www.youtube.com/watch?v=_tzHjLrhPnk](https://www.youtube.com/watch?v=_tzHjLrhPnk)
+
+_Speakers identified: Tyronn Lue, Terance Mann_
+
+**1. Tyronn Lue — "when you come down the stretch you got to be able to execute at least take care of the basketball" — Tyronn Lue on the Clippers' late-game turnover struggles** [00:05](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=5s)
+
+Tyronn Lue: "Turnover, turnover, turnover, turnover. You right there in the game, you play well on the road, and it goes from a three-point game, or really a five-point game, with 4:14 we got the ball, to a 14-point game in a minute. We got to learn. We keep talking about the turnovers, but we didn't have a great offensive night tonight, but when you come down the stretch you got to be able to execute at least take care of the basketball, and we weren't able to do that tonight."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=5s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=5s)
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=5&q=1) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=5&q=1&slack=1)</small>
+
+**2. Tyronn Lue — "the energy he brought, I thought was huge for us" — Tyronn Lue on Kawhi Leonard's impact upon returning to the lineup** [00:37](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=37s)
+
+Tyronn Lue: "I think Kawhi, when he came back in the third quarter, came in early, got a few steals, made a few plays, got us back in the game. I think we actually came back and took the lead for a second. And so, the energy he brought, I thought was huge for us."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=37s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=37s)
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=37&q=2) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=37&q=2&slack=1)</small>
+
+**3. Tyronn Lue — "he's a guy who can see over the defense, he can make plays for teammates" — Tyronn Lue expects Brandon Boston Jr. to help limit turnovers** [00:54](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=54s)
+
+Tyronn Lue: "He definitely will. I think he's a guy who can see over the defense, he can make plays for teammates. He's not a big turnover guy. He can see what's developing before it develops, and hopefully he can come back and give us that offensive punch and take some of the pressure off other guys."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=54s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=54s)
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=54&q=3) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=54&q=3&slack=1)</small>
+
+**4. Tyronn Lue — "his ability to block shots, switch a little bit, he can do a lot of things" — Tyronn Lue on the defensive impact of Ivica Zubac** [01:56](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=116s)
+
+Tyronn Lue: "His energy, his ability to block shots, switch a little bit, he can do a lot of things and just to see him on the court is good. Happy for him, all the work he put in to get to this point, and he's only going to get better as time goes along. It's going to take him three or four weeks to kind of get back to being himself."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=116s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=116s)
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=116&q=4) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=116&q=4&slack=1)</small>
+
+**5. Tyronn Lue — "you can't make up for turnovers, it's too hard" — Tyronn Lue attributes late-game collapse to offensive execution and turnovers** [02:25](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=145s)
+
+Tyronn Lue: "It's the offense. You can't get stops if you turn the ball over. If you go back and watch it, a three-point game, and dunk, dunk, dunk, layup, three. You can't make up for turnovers, it's too hard. Teams are too fast, they play too fast, and when you turn the basketball over, you put yourself at a huge deficit."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=145s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=145s)
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=145&q=5) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=145&q=5&slack=1)</small>
+
+**6. Terance Mann — "we got back in the game with some clean turnovers, getting out in transition, getting some open threes" — Terance Mann on the team's late-game turnover issues** [03:30](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s)
+
+Terance Mann: "We got back in the game with some clean turnovers, getting out in transition, getting some open threes. In the last three minutes, I think we just folded. Three turnovers in a row, four turnovers in a row. That was a ball game after that."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s)
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=210&q=6) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=210&q=6&slack=1)</small>
+
+**7. Terance Mann — "take care of the ball, we got to get shots on board" — Terance Mann on maintaining intensity and reducing turnovers** [03:59](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=239s)
+
+Terance Mann: "Both the same intensity, the same confidence. Take care of the ball, we got to get shots on board. Just keep playing as a team, try to go out there, compete at a high level, get defensive stops, and just run in transition. I think that's our best ability is getting out and running in transition, so I think that's what we got to do more."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=239s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=239s)
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=239&q=7) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=239&q=7&slack=1)</small>
+
+**8. Terance Mann — "just the space the floor, another score out there, and he might make it easier for others" — Terance Mann on the return of Ivica Zubac** [04:22](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=262s)
+
+Terance Mann: "Just the space the floor, another score out there, and he might make it easier for others as well. So, I think the whole group is pretty excited to have all that."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=262s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=262s)
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=262&q=8) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=262&q=8&slack=1)</small>
+
+**9. Terance Mann — "Just get out their head, just to make some other people just make a play." — Terance Mann on the defensive effort against Luka Doncic and Kyrie Irving** [04:42](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=282s)
+
+**Unidentified reporter:** "Team defense was pretty good tonight. We were trying to make a lot of contested twos. Who was firing in a lot on their isos?"
+
+**Terance Mann:** "Just get out their head, just to make some other people just make a play. Team defense was pretty good tonight, this defensive loss for sure."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=282s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=282s)
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=282&q=9) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=282&q=9&slack=1)</small>
+
+**10. Terance Mann — "just to compete at a high level, that's all that we can really ask for" — Terance Mann on the team's need to compete at a high level** [05:10](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=310s)
+
+Terance Mann: "Just to compete at a high level, that's all that we can really ask for. We haven't seen a full squad together, we haven't practiced anything, so I really can't tell you the honest truth about what we're going to look like or anything like that. But playing against **Ivica Zubac**, just having the scoring ability, playing iso ball, we can create some double teams just to shift the defense a little bit. We get the ball moving, another ball handler on the court, another shot creator, another playmaker. And even **Ivica Zubac** is on his second game back, so he's just getting his feet wet really. We're trying to get this win right, trying to get back into the basketball game shape, so we're super excited to have both of those guys back."
+
+[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=310s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=310s)
+
+<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=310&q=10) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=310&q=10&slack=1)</small>
+
+---
+
 ## Jonathan Kuminga Postgame Interview With Sean Dorcellus | 11.21.26 — *Minnesota Timberwolves*
 
 Source: [https://www.youtube.com/watch?v=eSVIGkgdYlI](https://www.youtube.com/watch?v=eSVIGkgdYlI)
@@ -815,6 +933,56 @@ Jamahl Mosley: "Give him credit, 50 and 19. It's hard to guard, different match-
 [https://www.youtube.com/watch?v=kmpblu0rb-U&t=395s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=395s)
 
 <small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=395&q=2) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=395&q=2&slack=1)</small>
+
+---
+
+## Mike Conley on big game against Kings | Celtics Postgame Interview — *Boston Celtics*
+
+Source: [https://www.youtube.com/watch?v=m15pKOVBFjQ](https://www.youtube.com/watch?v=m15pKOVBFjQ)
+
+_Speakers identified: Mike Conley, Unidentified reporter_
+
+**1. Mike Conley — "one thing Joe expects of everybody who's not playing just to be ready to play" — Mike Conley on team depth and readiness for rotation minutes** [00:00](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=0s)
+
+Mike Conley: "Honestly, just credit the team here. All the guys, we have a good group that gets in and we work every day. One thing Joe expects of everybody who's not playing just to be ready to play five to 20 minutes, so I'm just staying in shape and being ready to go."
+
+[https://www.youtube.com/watch?v=m15pKOVBFjQ&t=0s](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=0s)
+
+**2. Mike Conley — "our pace can be a little bit better. I think we were doing a lot more off-ball" — Mike Conley on offensive pace and off-ball movement** [00:53](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=53s)
+
+Mike Conley: "I think there's a couple things. Our pace can be a little bit better. I think we were doing a lot more off-ball, getting guys mismatches in different situations, getting to the rim, getting layups. But there's nights when we don't make shots, and we've had plenty of those, but we're still able to win games because of our defense, defensive rebounding, doing things that allow us to get extra possessions."
+
+[https://www.youtube.com/watch?v=m15pKOVBFjQ&t=53s](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=53s)
+
+**3. Mike Conley — "I told the group going out there that we got to change the game" — Mike Conley on team energy and contributions from bench players** [01:34](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=94s)
+
+Mike Conley: "I told the group going out there that we got to change the game. We just got to change the energy of it. And all the guys out there, Luka, to **Baylor**, whoever was in the game, I thought Devin, getting called upon there, I know he probably wasn't expecting that, but he came in and gave us great minutes. Just everybody coming in and just giving energy and trying to just flip the way the game was going a little bit, and I thought we did that."
+
+[https://www.youtube.com/watch?v=m15pKOVBFjQ&t=94s](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=94s)
+
+**4. Mike Conley — "it's fun for me to be the mentor, it's fun for me to be the teammate" — Mike Conley on his role as a veteran mentor** [02:10](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=130s)
+
+Mike Conley: "Honestly, it's fun for me to be the mentor, it's fun for me to be the teammate, but I say all the time, I'm the biggest competitor there is. I wouldn't be here till year 20 if I wasn't, and I'm not going to go out there and look crazy. I'm going to go out there and be prepared and ready to go. I know I'm still capable of doing a lot, and I just got to be prepared for whatever my role is on this team any given night."
+
+[https://www.youtube.com/watch?v=m15pKOVBFjQ&t=130s](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=130s)
+
+**5. Mike Conley — "he's got a bright future. Very aggressive, can score at all three levels" — Mike Conley on the future of teammate DeMar DeRozan** [02:35](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=155s)
+
+Mike Conley: "Man, he's got a bright future. Very aggressive, can score at all three levels. Not afraid of the moment, obviously. He made some big plays down the stretch and allowed the team to kind of keep the edge a little bit. So, bright future for sure."
+
+[https://www.youtube.com/watch?v=m15pKOVBFjQ&t=155s](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=155s)
+
+**6. Mike Conley — "there's going to be 10-game winning streaks, there's going to be three-game losing streaks" — Mike Conley on responding to team winning and losing streaks** [02:52](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=172s)
+
+Mike Conley: "Honestly, it's how we're going to respond. In training camp, we knew we were going to go into the season and there's going to be 10-game winning streaks, there's going to be three-game losing streaks, there's going to be these ebb and flows, and how we respond and how we handle each one of those is going to be important. We're in that moment now, so it's about going to the next one."
+
+[https://www.youtube.com/watch?v=m15pKOVBFjQ&t=172s](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=172s)
+
+**7. Mike Conley — "it's all about the way we move the ball, pace and getting downhill" — Mike Conley on regenerating offensive rhythm** [03:26](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=206s)
+
+Mike Conley: "Honestly, I think it's all about the way we move the ball, pace and getting downhill. If we're going to settle for shots, when they're wide open, obviously we're going to make them, but the more we're putting energy into the ball, getting downhill, being aggressive, I think it forces us into more of an engaged offensive mentality. And this team has plenty of guys that can do it, we just got to lean on that."
+
+[https://www.youtube.com/watch?v=m15pKOVBFjQ&t=206s](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=206s)
 
 ---
 
@@ -1161,3 +1329,41 @@ Tuomas Iisalo: "I think Ty did a good job stringing the defenders out laterally 
 [https://www.youtube.com/watch?v=vG6T4BsYgz8&t=129s](https://www.youtube.com/watch?v=vG6T4BsYgz8&t=129s)
 
 <small>[Clip it](presserclips://clip?v=vG6T4BsYgz8&t=129&q=3) · [Send to Slack](presserclips://clip?v=vG6T4BsYgz8&t=129&q=3&slack=1)</small>
+
+---
+
+## Joe Mazzulla: "We played well enough to win the game." | Celtic vs Kings Postgame — *Boston Celtics*
+
+Source: [https://www.youtube.com/watch?v=wjz_Zah44fY](https://www.youtube.com/watch?v=wjz_Zah44fY)
+
+_Speakers identified: Joe Mazzulla_
+
+**1. Joe Mazzulla — "I thought we played a process of the game, we played well and lost." — Joe Mazzulla on the Celtics' process despite the loss** [00:00](https://www.youtube.com/watch?v=wjz_Zah44fY&t=0s)
+
+Joe Mazzulla: "I think we played well enough to win the game. They just made more shots than we did and made a couple more plays down the stretch. I thought we played a process of the game, we played well and lost. That's what you take from it and you move on to tomorrow."
+
+[https://www.youtube.com/watch?v=wjz_Zah44fY&t=0s](https://www.youtube.com/watch?v=wjz_Zah44fY&t=0s)
+
+**2. Joe Mazzulla — "He had a possession before he had gotten to his spot and got a shot off." — Joe Mazzulla explains the final possession for Jayson Tatum** [00:43](https://www.youtube.com/watch?v=wjz_Zah44fY&t=43s)
+
+Joe Mazzulla: "He had a possession before he had gotten to his spot and got a shot off. So we were just trying to replicate that exact same situation so where he could get into space and you know he's one of the best at creating separation. So I don't think anything went wrong per se, he just didn't get the same separation that he got on the play before."
+
+[https://www.youtube.com/watch?v=wjz_Zah44fY&t=43s](https://www.youtube.com/watch?v=wjz_Zah44fY&t=43s)
+
+**3. Joe Mazzulla — "He's a guy that can bring energy and make some plays for us." — Joe Mazzulla on Wendell Carter Jr.'s impact off the bench** [01:00](https://www.youtube.com/watch?v=wjz_Zah44fY&t=60s)
+
+Joe Mazzulla: "He got in, got an offensive rebound, got two defensive rebounds. Again, just utilizing our depth. I think we're down three guys, looking to play as many guys as we can, and he's a guy that can bring energy and make some plays for us. So I thought it was a questionable goal tend, it was close, we thought about getting that, but you know he had a couple offensive and defensive rebounds."
+
+[https://www.youtube.com/watch?v=wjz_Zah44fY&t=60s](https://www.youtube.com/watch?v=wjz_Zah44fY&t=60s)
+
+**4. Joe Mazzulla — "Our defense stuck with it. I thought our defense played well." — Joe Mazzulla defends the team's defensive performance** [01:37](https://www.youtube.com/watch?v=wjz_Zah44fY&t=97s)
+
+Joe Mazzulla: "Our defense stuck with it. I thought our defense played well. You just can't shoot 30% and expect to stay in the game. But I thought our defense held strong, I thought we played through it. We just couldn't make one."
+
+[https://www.youtube.com/watch?v=wjz_Zah44fY&t=97s](https://www.youtube.com/watch?v=wjz_Zah44fY&t=97s)
+
+**5. Joe Mazzulla — "He made the two and it matters, gave us a one-point lead." — Joe Mazzulla on Neemias Queta's free throws** [02:38](https://www.youtube.com/watch?v=wjz_Zah44fY&t=158s)
+
+Joe Mazzulla: "He made the two and it matters, gave us a one-point lead, and one rebound away from winning the game, and they made more than two more plays than we did."
+
+[https://www.youtube.com/watch?v=wjz_Zah44fY&t=158s](https://www.youtube.com/watch?v=wjz_Zah44fY&t=158s)

@@ -1,0 +1,178 @@
+{
+  "video_title": "Joe Mazzulla: \"We played well enough to win the game.\" | Celtic vs Kings Postgame",
+  "speakers_seen": [
+    "Joe Mazzulla"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:00",
+      "summary_phrase": "Joe Mazzulla on the Celtics' process despite the loss",
+      "names_mentioned": [],
+      "excerpt": "I thought we played a process of the game, we played well and lost.",
+      "quote": "I think we played well enough to win the game. They just made more shots than we did and made a couple more plays down the stretch. I thought we played a process of the game, we played well and lost. That's what you take from it and you move on to tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla on the Celtics loss to the Kings: We played well enough to win the game. They just made more shots than we did and made a couple more plays down the stretch.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses the team performance following a loss to the Sacramento Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:43",
+      "summary_phrase": "Joe Mazzulla explains the final possession for Jayson Tatum",
+      "names_mentioned": [
+        "Jayson Tatum"
+      ],
+      "excerpt": "He had a possession before he had gotten to his spot and got a shot off.",
+      "quote": "He had a possession before he had gotten to his spot and got a shot off. So we were just trying to replicate that exact same situation so where he could get into space and you know he's one of the best at creating separation. So I don't think anything went wrong per se, he just didn't get the same separation that he got on the play before.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla on the final possession for Jayson Tatum: I do not think anything went wrong per se, he just did not get the same separation that he got on the play before.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Joe Mazzulla explains the reasoning behind the final play call for Jayson Tatum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "01:00",
+      "summary_phrase": "Joe Mazzulla on Wendell Carter Jr.'s impact off the bench",
+      "names_mentioned": [
+        "Wendell Carter Jr."
+      ],
+      "excerpt": "He's a guy that can bring energy and make some plays for us.",
+      "quote": "He got in, got an offensive rebound, got two defensive rebounds. Again, just utilizing our depth. I think we're down three guys, looking to play as many guys as we can, and he's a guy that can bring energy and make some plays for us. So I thought it was a questionable goal tend, it was close, we thought about getting that, but you know he had a couple offensive and defensive rebounds.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla on utilizing depth while down three players: He is a guy that can bring energy and make some plays for us.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Wendell Carter Jr."
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla evaluates the performance of Wendell Carter Jr. off the bench during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "01:37",
+      "summary_phrase": "Joe Mazzulla defends the team's defensive performance",
+      "names_mentioned": [],
+      "excerpt": "Our defense stuck with it. I thought our defense played well.",
+      "quote": "Our defense stuck with it. I thought our defense played well. You just can't shoot 30% and expect to stay in the game. But I thought our defense held strong, I thought we played through it. We just couldn't make one.",
+      "text_blocks": [],
+      "start_seconds": 97,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla on the team shooting performance: Our defense held strong. I thought we played through it. We just could not make one.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla reflects on the team defensive effort despite the low shooting percentage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "02:38",
+      "summary_phrase": "Joe Mazzulla on Neemias Queta's free throws",
+      "names_mentioned": [
+        "Neemias Queta"
+      ],
+      "excerpt": "He made the two and it matters, gave us a one-point lead.",
+      "quote": "He made the two and it matters, gave us a one-point lead, and one rebound away from winning the game, and they made more than two more plays than we did.",
+      "text_blocks": [],
+      "start_seconds": 158,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla on Neemias Queta: He made the two and it matters, gave us a one point lead, and one rebound away from winning the game.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Neemias Queta"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla comments on the free throws made by Neemias Queta late in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "wjz_Zah44fY",
+  "url": "https://www.youtube.com/watch?v=wjz_Zah44fY",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-22T06:25:43Z",
+  "duration_seconds": 186,
+  "processed_at": "2026-11-22T07:11:18Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
