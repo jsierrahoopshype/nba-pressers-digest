@@ -1,0 +1,305 @@
+{
+  "video_title": "Doug Christie credits Kings’ ‘discipline’ despite Lakers loss | NBC Sports California",
+  "speakers_seen": [
+    "Doug Christie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Doug Christie",
+      "timestamp": "00:15",
+      "summary_phrase": "Doug Christie on the Kings' consistency and discipline",
+      "names_mentioned": [],
+      "excerpt": "the words I used for them was consistency and discipline. Those are the things that will get us",
+      "quote": "The words I used for them was consistency and discipline. Those are the things that will get us through to the other side of the ledger. And I thought that last night, that was about as consistent and disciplined as we have been. There are some stretches and there will be during the game, but as close to 48 minutes, I thought the aggressiveness, the physicality from the jump was there, and then the attention to detail on the defensive end, especially game plan discipline was spot on.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Doug Christie says the Kings are focusing on consistency and discipline to get through their current stretch of games",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC",
+          "LAL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Assistant coach Doug Christie discusses the team's performance and discipline following a game against the Lakers and ahead of a matchup with the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Doug Christie",
+      "timestamp": "01:09",
+      "summary_phrase": "Doug Christie on taking each game as it comes",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "we take each game as it is. We need to win period.",
+      "quote": "I don't think we look at it that way. We take each game as it is. We need to win period. Last night was last night, but we don't take the ebbs and flows and the highs and lows. You never get too high and never get too low because you have to come out the next night against a really good Boston team that systematically plays a certain way. So your attention to detail even needs to be at a higher level. The greatness obviously of Luka is one thing and game plan discipline to that, guys were on point and really locked into what we were doing. Now we have to do the same thing tonight.",
+      "text_blocks": [],
+      "start_seconds": 69,
+      "end_seconds": 114,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Doug Christie on the Kings approach to the schedule: We do not get too high and we do not get too low because you have to come out the next night against a really good team",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAC",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Doug Christie explains the team's approach to individual games and the defensive focus required to face Luka Doncic and the Boston Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Doug Christie",
+      "timestamp": "01:51",
+      "summary_phrase": "Doug Christie on Keon Ellis's physicality and defensive impact",
+      "names_mentioned": [
+        "Keon Ellis",
+        "Luka Doncic"
+      ],
+      "excerpt": "Last night was as good as I've seen Keon in a minute. His physicality and aggressiveness",
+      "quote": "Last night was as good as I've seen Keon in a minute. His physicality and aggressiveness I thought really set the tone defensively. I thought his activity was good. The last play, the steal against Luka, just the handiness, he looked light, he was moving good. And that's a credit to him. He's worked and worked and just needs to play basketball. And unfortunately, trying to do that during the season is different than you working your way through it at certain points in the summertime and training camp and all those things. But last night was definitely a step in the right direction.",
+      "text_blocks": [],
+      "start_seconds": 111,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Doug Christie praises Keon Ellis for his defensive impact against Luka Doncic saying it was as good as he has seen him play in a minute",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keon Ellis",
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Doug Christie praises Keon Ellis for his defensive intensity and performance against Luka Doncic in the previous game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Doug Christie",
+      "timestamp": "02:43",
+      "summary_phrase": "Doug Christie on Domantas Sabonis and De'Aaron Fox's chemistry",
+      "names_mentioned": [
+        "Domantas Sabonis",
+        "De'Aaron Fox",
+        "Dylan Windler"
+      ],
+      "excerpt": "he's finding ways with both Domantas and Dylan. Meaning that Dylan is going to run up",
+      "quote": "As we go through it, trying to make sure that the second unit has Domantas out there as well because he can be a secondary ball-handler in that unit. But particularly with De'Aaron, I think that he's finding ways with both Domantas and Dylan. Meaning that Dylan is going to run up, create space, you're going to get open when he sets that screen. Domantas is setting the screen, he can also play in the pockets. You can play the get game with him and throw it to him, and then you can back door, come off of him for a handoff. So those are things that as he continues to go through and try to problem solve, he has to do.",
+      "text_blocks": [],
+      "start_seconds": 163,
+      "end_seconds": 210,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie discusses the chemistry between DeAaron Fox and Domantas Sabonis and how they are working to problem solve on the floor",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Domantas Sabonis",
+          "De'Aaron Fox",
+          "Dylan Windler"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates",
+          "coaching decisions"
+        ],
+        "context": "Doug Christie discusses the offensive chemistry and playmaking roles of De'Aaron Fox, Domantas Sabonis, and Dylan Windler within the team's rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Doug Christie",
+      "timestamp": "03:42",
+      "summary_phrase": "Doug Christie on Domantas Sabonis's aggressive playmaking",
+      "names_mentioned": [
+        "Domantas Sabonis"
+      ],
+      "excerpt": "he can be a conduit and connector in a lot of different ways",
+      "quote": "I think part of it is game plan wise, playing through him helps him obviously because he can be a conduit and connector in a lot of different ways. And when they're pressuring De'Aaron and have the ability to play through him as a secondary ball-handler is huge because most centers aren't going to be able to get up and pressure him. From time to time you'll face that, but his ability to DHO, his ability to pass back door passes is huge. And it's something that we need and as he continues to gain his rhythm, look good though, look real good.",
+      "text_blocks": [],
+      "start_seconds": 222,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie on playing through Domantas Sabonis as a secondary ball handler: It is huge because most centers are not going to be able to get up and pressure him",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Domantas Sabonis",
+          "De'Aaron Fox"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Doug Christie explains the tactical value of utilizing Domantas Sabonis as a secondary ball-handler to alleviate pressure on De'Aaron Fox.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Doug Christie",
+      "timestamp": "04:54",
+      "summary_phrase": "Doug Christie on De'Andre Hunter's defensive evolution",
+      "names_mentioned": [
+        "De'Andre Hunter",
+        "Luka Doncic",
+        "Keon Ellis"
+      ],
+      "excerpt": "his aggressiveness on the offensive end, and I don't just mean shooting, I mean like catching the ball",
+      "quote": "His aggressiveness on the offensive end, and I don't just mean shooting, I mean like catching the ball, winning his close out, trying to create contact. If he gets to the free throw line, obviously fantastic. And then no hesitation on the jump shot. Like he has confidence in it, he's letting it go. When it comes to the defensive end, he, Keon, Precious, Lyles, Emmanuel, all these switchable guys and their willingness to communicate and be physical, and especially with him, De'Andre and Keon are huge because they're like size, they communicate well. Both of them at some point in the game are going to be on the best player on the opposition. So yeah, he's really been good and so glad to have him.",
+      "text_blocks": [],
+      "start_seconds": 294,
+      "end_seconds": 342,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie highlights the defensive versatility of the Kings roster noting that guys like Keon Ellis and DeAndre Hunter are key to their switchable scheme",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "De'Andre Hunter",
+          "Keon Ellis",
+          "Precious Achiuwa",
+          "Trey Lyles",
+          "Emmanuel"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Doug Christie highlights the defensive versatility and communication of several players, specifically noting De'Andre Hunter and Keon Ellis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Doug Christie",
+      "timestamp": "06:29",
+      "summary_phrase": "Doug Christie on the importance of second unit production",
+      "names_mentioned": [
+        "Domantas Sabonis"
+      ],
+      "excerpt": "he has the ability to have the basketball, but still create for others",
+      "quote": "That's why it's just trying to pair Domantas up at the start of the second quarter, and it can mess with rotations and different things. But I think it's really important because he has the ability to have the basketball, but still create for others. And that's when I use the word connector, that's what that's what he is. I'm hoping that that can continue to evolve because it's important that we get production off the bench for sure. And stylistically, finding a style, more aggressive, trapping, blacking, blitzing pick and rolls to create their own identity that there's also a script for them.",
+      "text_blocks": [],
+      "start_seconds": 389,
+      "end_seconds": 429,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Doug Christie explains the importance of staggering Domantas Sabonis with the second unit to provide a connector for the bench offense",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Domantas Sabonis"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Doug Christie discusses the strategy of adjusting rotations to include Domantas Sabonis with the second unit to improve bench production.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Doug Christie",
+      "timestamp": "07:49",
+      "summary_phrase": "Doug Christie on Keon Ellis's health and shooting confidence",
+      "names_mentioned": [
+        "Keon Ellis"
+      ],
+      "excerpt": "he's not hesitating, he's shooting the basketball. Now we begin to look at",
+      "quote": "First of all, it would be just getting him healthy. So now that he's healthy, now that he begins to play and he had the four point play the other night, he's not hesitating, he's shooting the basketball. Now we begin to look at, I mean even when I watch him sometimes on film, I could see just as somebody who had foot problems and ankle, the way you land says a lot. It's not about the takeoff, it's about the landing. And if you're favoring, that's telling you something. So all of that little stuff can throw off a person's shot. And for him, that's it's not an excuse, but it's a reality.",
+      "text_blocks": [],
+      "start_seconds": 469,
+      "end_seconds": 513,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie notes that Keon Ellis is finally healthy and no longer favoring his ankles which has helped his shooting confidence",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keon Ellis"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Doug Christie explains how Keon Ellis's previous foot and ankle issues affected his shooting mechanics and confidence.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "fS5D4CYmOok",
+  "url": "https://www.youtube.com/watch?v=fS5D4CYmOok",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-22T02:16:36Z",
+  "duration_seconds": 558,
+  "processed_at": "2026-11-22T02:53:52Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
