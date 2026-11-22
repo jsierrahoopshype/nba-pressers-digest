@@ -1,0 +1,152 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Joel Embiid | 11.21.26",
+  "speakers_seen": [
+    "Joel Embiid"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joel Embiid",
+      "timestamp": "00:00",
+      "summary_phrase": "Joel Embiid on the 76ers' need for better defensive execution",
+      "names_mentioned": [
+        "Tyler"
+      ],
+      "excerpt": "we just got to tighten up defensively",
+      "quote": "The team came in and played pretty well. Tyler was fantastic tonight. I think it is more on us. We just got to tighten up defensively, so I think it was more on us.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 13,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joel Embiid says the Sixers need to tighten up defensively after tonight. He believes the loss was more on their own execution than anything else.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid discusses the team's defensive performance following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joel Embiid",
+      "timestamp": "00:55",
+      "summary_phrase": "Joel Embiid on his increased focus on rebounding",
+      "names_mentioned": [
+        "Nick"
+      ],
+      "excerpt": "I've been more focused on boxing out my man and letting everybody else get it",
+      "quote": "The last few games, I think I've been more focused on boxing out my man and letting everybody else get it. After the last game, I just wanted to rebound the ball too. Some nights, I just decide that I'm going to face guard my man and make sure I take him out of those rebounding positions so my teammates can get it.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joel Embiid explains his rebounding approach. Sometimes he decides to face guard his man to take them out of the play so his teammates can grab the board.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Joel Embiid explains his recent tactical approach to rebounding during postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joel Embiid",
+      "timestamp": "01:45",
+      "summary_phrase": "Joel Embiid on Guerschon Yabusele's versatile debut performance",
+      "names_mentioned": [
+        "Guerschon Yabusele"
+      ],
+      "excerpt": "extremely versatile. Obviously we missed him. You can see by him being on the court",
+      "quote": "Guerschon Yabusele was great, obviously extremely versatile. Obviously we missed him. You can see by him being on the court, playing both position four and five, what he can do, the switchability on defense. I thought it was fantastic for his first game, especially because he hasn't gotten a lot of time on the court. I'm excited to have him keep getting better every single game.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joel Embiid was impressed by Guerschon Yabusele in his debut. Embiid praised his switchability on defense and his ability to play both the four and five positions.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Guerschon Yabusele"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joel Embiid evaluates the performance of his teammate Guerschon Yabusele after his debut.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joel Embiid",
+      "timestamp": "02:25",
+      "summary_phrase": "Joel Embiid on building chemistry with Anthony Simons",
+      "names_mentioned": [
+        "Anthony Simons",
+        "JJ",
+        "Tyrese",
+        "Seth"
+      ],
+      "excerpt": "I think you build the trust, and I think he's figuring out that if he passes me the ball",
+      "quote": "Anthony Simons can shoot the ball. I think great shooters, obviously JJ from the beginning, we kind of had that relationship. With Tyrese, from the beginning, we kind of figured out with Anthony's taking a little bit longer, but I think we're here. I think you build the trust, and I think he's figuring out that if he passes me the ball and if he puts himself in the right position, I'm going to get him open and he's going to shoot the ball. Every time he comes off, I want him to shoot the ball.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Joel Embiid on building chemistry with Anthony Simons. Embiid says he is working to build trust and tells Simons that every time he comes off a screen he wants him to shoot the ball.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Simons"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joel Embiid discusses the process of building on-court chemistry with teammate Anthony Simons.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "N2qLu04u7sI",
+  "url": "https://www.youtube.com/watch?v=N2qLu04u7sI",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-22T15:56:04Z",
+  "duration_seconds": 241,
+  "processed_at": "2026-11-22T16:22:09Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

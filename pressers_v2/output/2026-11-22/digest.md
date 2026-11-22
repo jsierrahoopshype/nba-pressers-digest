@@ -108,7 +108,27 @@ From: [“Tonight I Let The Game Come To Me.” \| LaMelo Ball Postgame Sound \|
 
 <small>[Clip it](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3) · [Send to Slack](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3&slack=1)</small>
 
-**12. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
+**12. Joel Embiid — "extremely versatile. Obviously we missed him. You can see by him being on the court" — Joel Embiid on Guerschon Yabusele's versatile debut performance** [01:45](https://www.youtube.com/watch?v=N2qLu04u7sI&t=105s)
+
+Joel Embiid: "**Guerschon Yabusele** was great, obviously extremely versatile. Obviously we missed him. You can see by him being on the court, playing both position four and five, what he can do, the switchability on defense. I thought it was fantastic for his first game, especially because he hasn't gotten a lot of time on the court. I'm excited to have him keep getting better every single game."
+
+[https://www.youtube.com/watch?v=N2qLu04u7sI&t=105s](https://www.youtube.com/watch?v=N2qLu04u7sI&t=105s)
+
+From: [Philadelphia 76ers Postgame Media Availability 🎙️ \| Joel Embiid \| 11.21.26](https://www.youtube.com/watch?v=N2qLu04u7sI) · *Philadelphia 76ers*
+
+<small>[Clip it](presserclips://clip?v=N2qLu04u7sI&t=105&q=3) · [Send to Slack](presserclips://clip?v=N2qLu04u7sI&t=105&q=3&slack=1)</small>
+
+**13. Tyrese Maxey — "Our biggest thing right now, we got to play a 48-minute game." — Tyrese Maxey on the team's need to play 48-minute games** [02:30](https://www.youtube.com/watch?v=cAb94mJhRw8&t=150s)
+
+Tyrese Maxey: "Our biggest thing right now, we got to play a 48-minute game. We're playing like 40-minute games or 24-minute games, 30-minute games. We're going to have to put together a 48-minute game. I think we did it a couple times maybe early, maybe New York here. They came back, but we still sustained a 48-minute game, so we got to keep doing that."
+
+[https://www.youtube.com/watch?v=cAb94mJhRw8&t=150s](https://www.youtube.com/watch?v=cAb94mJhRw8&t=150s)
+
+From: [Philadelphia 76ers Postgame Media Availability 🎙️ \| Tyrese Maxey \| 11.21.26](https://www.youtube.com/watch?v=cAb94mJhRw8) · *Philadelphia 76ers*
+
+<small>[Clip it](presserclips://clip?v=cAb94mJhRw8&t=150&q=3) · [Send to Slack](presserclips://clip?v=cAb94mJhRw8&t=150&q=3&slack=1)</small>
+
+**14. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
 
 **Unidentified reporter:** "This is the number one defense in the league that you guys are a part of. Rudy's a big focal point down low, Melo's been great at the point of attack. How much pride do you take in your role on that end of the court?"
 
@@ -120,7 +140,7 @@ From: [Jonathan Kuminga Postgame Interview With Sean Dorcellus \| 11.21.26](http
 
 <small>[Clip it](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2) · [Send to Slack](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2&slack=1)</small>
 
-**13. Jalen Brunson — "when you're continuously working on your game every single day and things may not be falling in your favor" — Jalen Brunson on Mikal Bridges' recent performance and work ethic** [02:57](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s)
+**15. Jalen Brunson — "when you're continuously working on your game every single day and things may not be falling in your favor" — Jalen Brunson on Mikal Bridges' recent performance and work ethic** [02:57](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s)
 
 Jalen Brunson: "That's just who he is. I've said this before, but when you're continuously working on your game every single day and things may not be falling in your favor, but you keep doing the right thing every single day, you keep chipping away, eventually things are going to turn for you. Over the past week or two, things have been turning for him and now he's on a roll."
 
@@ -130,7 +150,7 @@ From: [Mikal Bridges, Jalen Brunson, Landry Shamet Postgame Media \| November 21
 
 <small>[Clip it](presserclips://clip?v=jIFdoG-IgSo&t=177&q=4) · [Send to Slack](presserclips://clip?v=jIFdoG-IgSo&t=177&q=4&slack=1)</small>
 
-**14. Damian Lillard — "I had a full season to focus on my diet and specific ways of training" — Damian Lillard on his weight loss and physical conditioning** [04:13](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s)
+**16. Damian Lillard — "I had a full season to focus on my diet and specific ways of training" — Damian Lillard on his weight loss and physical conditioning** [04:13](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s)
 
 Damian Lillard: "I had a full season to focus on my diet and specific ways of training, coming back off a major injury and being at a later stage of my career. I think it is important to just be light on your joints and tendons and not have as much stress on your body as far as your weight. I think that is part of just being able to remain at a high level playing the game. You can't be heavy. It is easier as you get older to come back heavier and heavier, and I had a year to address that and make sure that I came back feeling good and moving well."
 
@@ -140,7 +160,7 @@ From: [Damian Lillard Postgame Interview \| Portland Trail Blazers 96, New York 
 
 <small>[Clip it](presserclips://clip?v=qWsZ6k_RCSs&t=253&q=5) · [Send to Slack](presserclips://clip?v=qWsZ6k_RCSs&t=253&q=5&slack=1)</small>
 
-**15. Domantas Sabonis — "I am proud of him. He has had a rough couple months to start the season." — Domantas Sabonis on Keegan Murray's recent performance** [05:14](https://www.youtube.com/watch?v=7ISI7k31kuE&t=314s)
+**17. Domantas Sabonis — "I am proud of him. He has had a rough couple months to start the season." — Domantas Sabonis on Keegan Murray's recent performance** [05:14](https://www.youtube.com/watch?v=7ISI7k31kuE&t=314s)
 
 Domantas Sabonis: "I am proud of him. He has had a rough couple months to start the season with all these little injuries and things happening, and he has just stuck to it, professional, working hard, and we all know what Keegan can do, so I am just excited to see him playing the way he knows how to play."
 
@@ -148,15 +168,69 @@ Domantas Sabonis: "I am proud of him. He has had a rough couple months to start 
 
 From: [Doug Christie, Kings celebrate first home win of NBA season \| NBC Sports California](https://www.youtube.com/watch?v=7ISI7k31kuE) · *Sacramento Kings*
 
-**16. Terance Mann — "we got back in the game with some clean turnovers, getting out in transition, getting some open threes" — Terance Mann on the team's late-game turnover issues** [03:30](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s)
+---
 
-Terance Mann: "We got back in the game with some clean turnovers, getting out in transition, getting some open threes. In the last three minutes, I think we just folded. Three turnovers in a row, four turnovers in a row. That was a ball game after that."
+## Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.21.26 — *Philadelphia 76ers*
 
-[https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s)
+Source: [https://www.youtube.com/watch?v=2NM6XMC1aWo](https://www.youtube.com/watch?v=2NM6XMC1aWo)
 
-From: [Clippers vs. Mavericks \| Postgame Interviews](https://www.youtube.com/watch?v=_tzHjLrhPnk) · *LA Clippers*
+_Speakers identified: Coach Nurse_
 
-<small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=210&q=6) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=210&q=6&slack=1)</small>
+**1. Coach Nurse — "He looks like he's got his rhythm and confidence back on the offensive end." — Joel Embiid's increased assertiveness and offensive rhythm** [00:08](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=8s)
+
+Coach Nurse: "Joel is obviously much more involved and playing more assertively. I like the number of in the paint at the rim, those kind of attempts that he's taken. I think that's always a good sign. He looks like he's got his rhythm and confidence back on the offensive end. I'm also happy with the rebounds, his defensive rebounding is great."
+
+[https://www.youtube.com/watch?v=2NM6XMC1aWo&t=8s](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=8s)
+
+<small>[Clip it](presserclips://clip?v=2NM6XMC1aWo&t=8&q=1) · [Send to Slack](presserclips://clip?v=2NM6XMC1aWo&t=8&q=1&slack=1)</small>
+
+**2. Coach Nurse — "I try not to complain too much about any win in this league." — Coach Nurse on the team's need to finish games better** [01:05](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=65s)
+
+Coach Nurse: "I try not to complain too much about any win in this league. The message I gave is we got to finish a little better. Building a couple double-digit leads and giving them back a couple times, those are always things that can go either way. We should not let ourselves be in position to have it go either way."
+
+[https://www.youtube.com/watch?v=2NM6XMC1aWo&t=65s](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=65s)
+
+<small>[Clip it](presserclips://clip?v=2NM6XMC1aWo&t=65&q=2) · [Send to Slack](presserclips://clip?v=2NM6XMC1aWo&t=65&q=2&slack=1)</small>
+
+**3. Coach Nurse — "I think we had a nice night off the bench." — Bench performance and the impact of Anthony's shooting** [02:19](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=139s)
+
+Coach Nurse: "I think we had a nice night off the bench. There are some good numbers there point-wise for a number of guys. I looked down and I think we were three for 17 or 18 at one time, and I was thinking I need **Anthony** to get in here and do his thing to get the scoreboard moving from the three-point line. It was just one of those nights we couldn't get one to go, and then we ended up at least making nine of them. That punch and the shooting is very much needed."
+
+[https://www.youtube.com/watch?v=2NM6XMC1aWo&t=139s](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=139s)
+
+<small>[Clip it](presserclips://clip?v=2NM6XMC1aWo&t=139&q=3) · [Send to Slack](presserclips://clip?v=2NM6XMC1aWo&t=139&q=3&slack=1)</small>
+
+**4. Coach Nurse — "I think Barlow was excellent for the first time playing in a long time." — Barlow's active debut and role as a cutter** [03:19](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=199s)
+
+Coach Nurse: "I think **Barlow** was excellent for the first time playing in a long time. He was active and did all the things that he does. I think he's going to be a recipient of some of the cutting and stuff from passes from **LeBron** and **Joe**. That's a need, I think, that we got a good finishing cutter who can finish. That was just the way the subbing rolled out with the four-five, and that's what we talked about doing yesterday when we looked at him being available."
+
+[https://www.youtube.com/watch?v=2NM6XMC1aWo&t=199s](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=199s)
+
+<small>[Clip it](presserclips://clip?v=2NM6XMC1aWo&t=199&q=4) · [Send to Slack](presserclips://clip?v=2NM6XMC1aWo&t=199&q=4&slack=1)</small>
+
+**5. Coach Nurse — "They got size to see over the top of everything and they can pass." — Improving passing chemistry between Joel Embiid and LeBron James** [04:07](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=247s)
+
+Coach Nurse: "They got size to see over the top of everything and they can pass. We've done some work on some of the cutting and setting up and relieving some pressure. We keep adding things to the half-court sets as well that give us a chance to get behind the defense. Sometimes when we run some of that stuff to get behind the defense, it pulls the defense in and then it goes out. It looks like it's action going at the rim and all of a sudden somebody's shooting a wide-open three. It's probably just us getting to feel for each other a little bit."
+
+[https://www.youtube.com/watch?v=2NM6XMC1aWo&t=247s](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=247s)
+
+<small>[Clip it](presserclips://clip?v=2NM6XMC1aWo&t=247&q=5) · [Send to Slack](presserclips://clip?v=2NM6XMC1aWo&t=247&q=5&slack=1)</small>
+
+**6. Coach Nurse — "The pace and the three-point shot and the offensive rebounding now enables games to flip momentum." — Handling momentum shifts in the modern NBA** [05:27](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=327s)
+
+Coach Nurse: "The pace and the three-point shot and the offensive rebounding now enables games to flip momentum several times in one game. I think that's becoming fairly normal. I'm not happy about the way that ended tonight, but I do think you have to handle it because it's reality of today's NBA. You got to keep executing and grinding and working through the full 48."
+
+[https://www.youtube.com/watch?v=2NM6XMC1aWo&t=327s](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=327s)
+
+<small>[Clip it](presserclips://clip?v=2NM6XMC1aWo&t=327&q=6) · [Send to Slack](presserclips://clip?v=2NM6XMC1aWo&t=327&q=6&slack=1)</small>
+
+**7. Coach Nurse — "We continue to add things to the half-court offense and also to the late-game package." — Adding new elements to the half-court offense** [06:56](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=416s)
+
+Coach Nurse: "We continue to add things to the half-court offense and also to the late-game package. That's something we added a few games ago. Especially if we're in the bonus, we got some big bodies that can cut down the lane and feel for timing. It was working, just go to it. Keep going to it."
+
+[https://www.youtube.com/watch?v=2NM6XMC1aWo&t=416s](https://www.youtube.com/watch?v=2NM6XMC1aWo&t=416s)
+
+<small>[Clip it](presserclips://clip?v=2NM6XMC1aWo&t=416&q=7) · [Send to Slack](presserclips://clip?v=2NM6XMC1aWo&t=416&q=7&slack=1)</small>
 
 ---
 
@@ -684,6 +758,46 @@ _Speakers identified: Unidentified speaker, Doug Christie_
 
 ---
 
+## Philadelphia 76ers Postgame Media Availability 🎙️ | Joel Embiid | 11.21.26 — *Philadelphia 76ers*
+
+Source: [https://www.youtube.com/watch?v=N2qLu04u7sI](https://www.youtube.com/watch?v=N2qLu04u7sI)
+
+_Speakers identified: Joel Embiid_
+
+**1. Joel Embiid — "we just got to tighten up defensively" — Joel Embiid on the 76ers' need for better defensive execution** [00:00](https://www.youtube.com/watch?v=N2qLu04u7sI&t=0s)
+
+Joel Embiid: "The team came in and played pretty well. **Tyler** was fantastic tonight. I think it is more on us. We just got to tighten up defensively, so I think it was more on us."
+
+[https://www.youtube.com/watch?v=N2qLu04u7sI&t=0s](https://www.youtube.com/watch?v=N2qLu04u7sI&t=0s)
+
+<small>[Clip it](presserclips://clip?v=N2qLu04u7sI&t=0&q=1) · [Send to Slack](presserclips://clip?v=N2qLu04u7sI&t=0&q=1&slack=1)</small>
+
+**2. Joel Embiid — "I've been more focused on boxing out my man and letting everybody else get it" — Joel Embiid on his increased focus on rebounding** [00:55](https://www.youtube.com/watch?v=N2qLu04u7sI&t=55s)
+
+Joel Embiid: "The last few games, I think I've been more focused on boxing out my man and letting everybody else get it. After the last game, I just wanted to rebound the ball too. Some nights, I just decide that I'm going to face guard my man and make sure I take him out of those rebounding positions so my teammates can get it."
+
+[https://www.youtube.com/watch?v=N2qLu04u7sI&t=55s](https://www.youtube.com/watch?v=N2qLu04u7sI&t=55s)
+
+<small>[Clip it](presserclips://clip?v=N2qLu04u7sI&t=55&q=2) · [Send to Slack](presserclips://clip?v=N2qLu04u7sI&t=55&q=2&slack=1)</small>
+
+**3. Joel Embiid — "extremely versatile. Obviously we missed him. You can see by him being on the court" — Joel Embiid on Guerschon Yabusele's versatile debut performance** [01:45](https://www.youtube.com/watch?v=N2qLu04u7sI&t=105s)
+
+Joel Embiid: "**Guerschon Yabusele** was great, obviously extremely versatile. Obviously we missed him. You can see by him being on the court, playing both position four and five, what he can do, the switchability on defense. I thought it was fantastic for his first game, especially because he hasn't gotten a lot of time on the court. I'm excited to have him keep getting better every single game."
+
+[https://www.youtube.com/watch?v=N2qLu04u7sI&t=105s](https://www.youtube.com/watch?v=N2qLu04u7sI&t=105s)
+
+<small>[Clip it](presserclips://clip?v=N2qLu04u7sI&t=105&q=3) · [Send to Slack](presserclips://clip?v=N2qLu04u7sI&t=105&q=3&slack=1)</small>
+
+**4. Joel Embiid — "I think you build the trust, and I think he's figuring out that if he passes me the ball" — Joel Embiid on building chemistry with Anthony Simons** [02:25](https://www.youtube.com/watch?v=N2qLu04u7sI&t=145s)
+
+Joel Embiid: "**Anthony Simons** can shoot the ball. I think great shooters, obviously **JJ** from the beginning, we kind of had that relationship. With **Tyrese**, from the beginning, we kind of figured out with Anthony's taking a little bit longer, but I think we're here. I think you build the trust, and I think he's figuring out that if he passes me the ball and if he puts himself in the right position, I'm going to get him open and he's going to shoot the ball. Every time he comes off, I want him to shoot the ball."
+
+[https://www.youtube.com/watch?v=N2qLu04u7sI&t=145s](https://www.youtube.com/watch?v=N2qLu04u7sI&t=145s)
+
+<small>[Clip it](presserclips://clip?v=N2qLu04u7sI&t=145&q=4) · [Send to Slack](presserclips://clip?v=N2qLu04u7sI&t=145&q=4&slack=1)</small>
+
+---
+
 ## Keegan Murray hopes Kings’ first home win brings momentum | NBC Sports California — *Sacramento Kings*
 
 Source: [https://www.youtube.com/watch?v=Qx55k11Y-e4](https://www.youtube.com/watch?v=Qx55k11Y-e4)
@@ -963,6 +1077,62 @@ Precious Achiuwa: "It's a long season. Seven years for me, I've seen a lot. Some
 Precious Achiuwa: "Amazing. For us, it's been rough, like you said. But just getting one today, we had a close game yesterday, we've had a couple games where we felt like we've been in the games. We've probably only had one game, maybe two games where we were not in the game, but we've had a bunch of them where we've been in the game and we felt like the game could have swung out either way if we just kept playing and just kept trusting what we could do. It was amazing to get this one today, and for the fans, for the city, the fans that come out every game, show their love, show their support, so it was great just to do this for them as well as it is for us."
 
 [https://www.youtube.com/watch?v=aDcz5RotoyE&t=133s](https://www.youtube.com/watch?v=aDcz5RotoyE&t=133s)
+
+---
+
+## Philadelphia 76ers Postgame Media Availability 🎙️ | Tyrese Maxey | 11.21.26 — *Philadelphia 76ers*
+
+Source: [https://www.youtube.com/watch?v=cAb94mJhRw8](https://www.youtube.com/watch?v=cAb94mJhRw8)
+
+_Speakers identified: Tyrese Maxey_
+
+**1. Tyrese Maxey — "It's extremely difficult to win this league and don't take it for granted." — Tyrese Maxey on the team's resilience in close games** [00:33](https://www.youtube.com/watch?v=cAb94mJhRw8&t=33s)
+
+Tyrese Maxey: "They've been in a lot of games like this, honestly. They just kept fighting, they kept making shots. Sometimes it's like that, man. It's the NBA. You're going to get every team's best shot. It's extremely difficult to win this league and don't take it for granted. Of course we don't want to win that way, but we're going to take the win."
+
+[https://www.youtube.com/watch?v=cAb94mJhRw8&t=33s](https://www.youtube.com/watch?v=cAb94mJhRw8&t=33s)
+
+<small>[Clip it](presserclips://clip?v=cAb94mJhRw8&t=33&q=1) · [Send to Slack](presserclips://clip?v=cAb94mJhRw8&t=33&q=1&slack=1)</small>
+
+**2. Tyrese Maxey — "Always be ready for the ball. Just be ready for the ball and keep cutting." — Tyrese Maxey on playing with LeBron James** [01:18](https://www.youtube.com/watch?v=cAb94mJhRw8&t=78s)
+
+Tyrese Maxey: "I think the biggest thing is always be ready for the ball. Just be ready for the ball and keep cutting, keep finding open windows because he's a willing passer and he does a good job at that."
+
+[https://www.youtube.com/watch?v=cAb94mJhRw8&t=78s](https://www.youtube.com/watch?v=cAb94mJhRw8&t=78s)
+
+<small>[Clip it](presserclips://clip?v=cAb94mJhRw8&t=78&q=2) · [Send to Slack](presserclips://clip?v=cAb94mJhRw8&t=78&q=2&slack=1)</small>
+
+**3. Tyrese Maxey — "Our biggest thing right now, we got to play a 48-minute game." — Tyrese Maxey on the team's need to play 48-minute games** [02:30](https://www.youtube.com/watch?v=cAb94mJhRw8&t=150s)
+
+Tyrese Maxey: "Our biggest thing right now, we got to play a 48-minute game. We're playing like 40-minute games or 24-minute games, 30-minute games. We're going to have to put together a 48-minute game. I think we did it a couple times maybe early, maybe New York here. They came back, but we still sustained a 48-minute game, so we got to keep doing that."
+
+[https://www.youtube.com/watch?v=cAb94mJhRw8&t=150s](https://www.youtube.com/watch?v=cAb94mJhRw8&t=150s)
+
+<small>[Clip it](presserclips://clip?v=cAb94mJhRw8&t=150&q=3) · [Send to Slack](presserclips://clip?v=cAb94mJhRw8&t=150&q=3&slack=1)</small>
+
+**4. Tyrese Maxey — "At the end of the day, the only thing that matters is winning." — Tyrese Maxey on the importance of winning regardless of circumstances** [03:16](https://www.youtube.com/watch?v=cAb94mJhRw8&t=196s)
+
+Tyrese Maxey: "At the end of the day, the only thing that matters is winning. Just like we talked about in Orlando, we had a lot of guys out, a lot of bodies out. Whoever goes out there and plays, we got to win the game, and that's what we've been doing."
+
+[https://www.youtube.com/watch?v=cAb94mJhRw8&t=196s](https://www.youtube.com/watch?v=cAb94mJhRw8&t=196s)
+
+<small>[Clip it](presserclips://clip?v=cAb94mJhRw8&t=196&q=4) · [Send to Slack](presserclips://clip?v=cAb94mJhRw8&t=196&q=4&slack=1)</small>
+
+**5. Tyrese Maxey — "You can't stop everything and I think that's the best thing possible that we can have." — Tyrese Maxey on team depth and offensive options** [03:47](https://www.youtube.com/watch?v=cAb94mJhRw8&t=227s)
+
+Tyrese Maxey: "It's kudos to our coach staff, kudos to the players on the court recognizing it and then just kudos to the talent that we have. It's just a play like plays that we've been running is difficult. A lot of options to those plays and you can't stop everything and I think that's the best thing possible that we can have with a lot of the different options that we have, different personnel that we have and shooters in the corner, drivers, Joe like it's really good for us."
+
+[https://www.youtube.com/watch?v=cAb94mJhRw8&t=227s](https://www.youtube.com/watch?v=cAb94mJhRw8&t=227s)
+
+<small>[Clip it](presserclips://clip?v=cAb94mJhRw8&t=227&q=5) · [Send to Slack](presserclips://clip?v=cAb94mJhRw8&t=227&q=5&slack=1)</small>
+
+**6. Tyrese Maxey — "He knows that he calls a lot of the attention." — Tyrese Maxey on Joel Embiid's evolution as a passer** [04:21](https://www.youtube.com/watch?v=cAb94mJhRw8&t=261s)
+
+Tyrese Maxey: "He's done a good job with just making plays. He knows that he calls a lot of the attention. We're trying to cut in space and do different things off of him to where that he can make those plays and make the game easier for us."
+
+[https://www.youtube.com/watch?v=cAb94mJhRw8&t=261s](https://www.youtube.com/watch?v=cAb94mJhRw8&t=261s)
+
+<small>[Clip it](presserclips://clip?v=cAb94mJhRw8&t=261&q=6) · [Send to Slack](presserclips://clip?v=cAb94mJhRw8&t=261&q=6&slack=1)</small>
 
 ---
 

@@ -436,13 +436,6 @@
    "run_id": "2026-11-21-overnight",
    "slot_date": "2026-11-21"
   },
-  "7PAii_VzQec": {
-   "at": "2026-11-08T15:20:15Z",
-   "quote": "i thought those last couple were in we wanted him to close it we wanted him to close it those last couple looked like they were dead on so yeah but this is a defensive night hard to heart even his def",
-   "run_id": "2026-11-08-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-08"
-  },
   "7XNXIfdNSqA": {
    "at": "2026-11-19T18:24:05Z",
    "quote": "i think it s great every player that we have is shaped by their college whether it s their teammates the environment their coaches they are who they are because of those people same for me so it s a g",
@@ -558,13 +551,6 @@
    "quote": "before lamelo got to be the all star this is back when he was early 20s and raymond brothers was representing him and ever since i call him gg convinced lamelo to get rid of raymond it ain t been the ",
    "run_id": "2026-11-15-overnight",
    "slot_date": "2026-11-15"
-  },
-  "A-hTZAnBVrk": {
-   "at": "2026-11-08T15:20:11Z",
-   "quote": "obviously when they got out to that early lead in the beginning we knew we needed to up our sense of urgency and we did it when it mattered most and that was the fourth quarter",
-   "run_id": "2026-11-08-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-08"
   },
   "AAMkFsfZWFM": {
    "at": "2026-11-10T17:07:53Z",
@@ -2616,13 +2602,6 @@
    "run_id": "2026-11-17-overnight",
    "slot_date": "2026-11-17"
   },
-  "nkcouRENq9c": {
-   "at": "2026-11-08T15:20:15Z",
-   "quote": "it felt great it felt really good we lost last year and i only got to play the one game so i m glad we got the dub",
-   "run_id": "2026-11-08-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-08"
-  },
   "nkg52cGUhgg": {
    "at": "2026-11-09T23:28:34Z",
    "quote": "i think we just share the ball we all played pretty freely movement wise we try to keep the ball moving try to put pressure on the defense the best we can drive kicks defensively trying to create havo",
@@ -3318,5 +3297,129 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {}
+ "pending": {
+  "2NM6XMC1aWo": {
+   "channel": "Philadelphia 76ers",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-22",
+   "is_one_off": false,
+   "queued_at": "2026-11-22T16:22:29Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-22",
+   "speaker": "Coach Nurse",
+   "title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.21.26",
+   "top_quote": "Joel is obviously much more involved and playing more assertively. I like the number of in the paint at the rim, those kind of attempts that he's taken. I think that's always a good sign. He looks like he's got his rhythm and confidence back on the offensive end. I'm also happy with the rebounds, his defensive rebounding is great.",
+   "video_id": "2NM6XMC1aWo"
+  },
+  "7ygowaMFeOE": {
+   "channel": "361Sport",
+   "clip_count": 4,
+   "content_type": "oneoff",
+   "date": "2026-11-21",
+   "is_one_off": true,
+   "queued_at": "2026-11-22T16:22:29Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-22",
+   "speaker": "Nikola Jokić",
+   "title": "Workouts. Family. Horses. And the drive to keep winning.",
+   "top_quote": "I think there is no player like him in NBA, you cannot find another person like him.",
+   "video_id": "7ygowaMFeOE"
+  },
+  "K7GOn2hOSSI": {
+   "channel": "NBA En Español",
+   "clip_count": 20,
+   "content_type": "oneoff",
+   "date": "2026-11-20",
+   "is_one_off": true,
+   "queued_at": "2026-11-22T16:22:29Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-22",
+   "speaker": "Facundo Campazzo",
+   "title": "🇦🇷 La mentalidad de Facundo Campazzo para competir contra los mejores | E5 T1 Voces NBA",
+   "top_quote": "At the beginning of my career, I related my game to causing chaos, running, and revolutionizing the game. But now, in the last few years, I think it also relates to managing the game's tempo, being calmer in the moments that you have to be calm. I think that speaks a little to the maturity and the experience that I have been acquiring in the last few years.",
+   "video_id": "K7GOn2hOSSI"
+  },
+  "LUu32g761ME": {
+   "channel": "The AM Hoops Show",
+   "clip_count": 8,
+   "content_type": "oneoff",
+   "date": "2026-11-21",
+   "is_one_off": true,
+   "queued_at": "2026-11-22T16:22:29Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-22",
+   "speaker": "Dwight Howard",
+   "title": "Dwight Howard on Rejecting Steph, Kobe Feud & More | AM Hoops Show #005",
+   "top_quote": "Are you officially retired? I am officially retired.",
+   "video_id": "LUu32g761ME"
+  },
+  "N2qLu04u7sI": {
+   "channel": "Philadelphia 76ers",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-22",
+   "is_one_off": false,
+   "queued_at": "2026-11-22T16:22:29Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-22",
+   "speaker": "Joel Embiid",
+   "title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Joel Embiid | 11.21.26",
+   "top_quote": "The team came in and played pretty well. Tyler was fantastic tonight. I think it is more on us. We just got to tighten up defensively, so I think it was more on us.",
+   "video_id": "N2qLu04u7sI"
+  },
+  "bbk3Au3cFms": {
+   "channel": "Chet Holmgren",
+   "clip_count": 6,
+   "content_type": "oneoff",
+   "date": "2026-11-21",
+   "is_one_off": true,
+   "queued_at": "2026-11-22T16:22:29Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-22",
+   "speaker": "Chet Holmgren",
+   "title": "Look What We're Bringing To OKC! Chet Holmgren",
+   "top_quote": "So this is the kitchen stuff, bathroom's here, and then this is the back, intimate lounge area. There will be accessible from this hidden bar back here, so there will be an opening into that room too. So it's like you can walk up to here. Is this just for the servers? It will mostly be for cocktail servers, but it's open so you can actually see.",
+   "video_id": "bbk3Au3cFms"
+  },
+  "cAb94mJhRw8": {
+   "channel": "Philadelphia 76ers",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-22",
+   "is_one_off": false,
+   "queued_at": "2026-11-22T16:22:29Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-22",
+   "speaker": "Tyrese Maxey",
+   "title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Tyrese Maxey | 11.21.26",
+   "top_quote": "They've been in a lot of games like this, honestly. They just kept fighting, they kept making shots. Sometimes it's like that, man. It's the NBA. You're going to get every team's best shot. It's extremely difficult to win this league and don't take it for granted. Of course we don't want to win that way, but we're going to take the win.",
+   "video_id": "cAb94mJhRw8"
+  },
+  "ugaOuDBHfPo": {
+   "channel": "GQ JAPAN",
+   "clip_count": 4,
+   "content_type": "oneoff",
+   "date": "2026-11-20",
+   "is_one_off": true,
+   "queued_at": "2026-11-22T16:22:29Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-22",
+   "speaker": "Stephon Castle",
+   "title": "NBAスパーズのディラン・ハーパー＆ステフォン・キャッスルがお互いに関するクイズに挑戦 | GQ JAPAN",
+   "top_quote": "I think Dylan takes a lot from my game. What? Stephon.",
+   "video_id": "ugaOuDBHfPo"
+  }
+ }
 }

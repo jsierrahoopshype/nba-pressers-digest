@@ -1,0 +1,247 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.21.26",
+  "speakers_seen": [
+    "Coach Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Nurse",
+      "timestamp": "00:08",
+      "summary_phrase": "Joel Embiid's increased assertiveness and offensive rhythm",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "He looks like he's got his rhythm and confidence back on the offensive end.",
+      "quote": "Joel is obviously much more involved and playing more assertively. I like the number of in the paint at the rim, those kind of attempts that he's taken. I think that's always a good sign. He looks like he's got his rhythm and confidence back on the offensive end. I'm also happy with the rebounds, his defensive rebounding is great.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Coach Nurse says Joel Embiid looks like he has his rhythm and confidence back on the offensive end and is pleased with his increased assertiveness in the paint",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse discusses Joel Embiid's offensive performance and rebounding during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Nurse",
+      "timestamp": "01:05",
+      "summary_phrase": "Coach Nurse on the team's need to finish games better",
+      "names_mentioned": [],
+      "excerpt": "I try not to complain too much about any win in this league.",
+      "quote": "I try not to complain too much about any win in this league. The message I gave is we got to finish a little better. Building a couple double-digit leads and giving them back a couple times, those are always things that can go either way. We should not let ourselves be in position to have it go either way.",
+      "verbatim_original_language": "",
+      "start_seconds": 65,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Coach Nurse on the Sixers needing to close out games better after letting double digit leads slip away: We should not let ourselves be in position to have it go either way",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse addresses the team's inability to maintain double-digit leads during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Nurse",
+      "timestamp": "02:19",
+      "summary_phrase": "Bench performance and the impact of Anthony's shooting",
+      "names_mentioned": [
+        "Anthony"
+      ],
+      "excerpt": "I think we had a nice night off the bench.",
+      "quote": "I think we had a nice night off the bench. There are some good numbers there point-wise for a number of guys. I looked down and I think we were three for 17 or 18 at one time, and I was thinking I need Anthony to get in here and do his thing to get the scoreboard moving from the three-point line. It was just one of those nights we couldn't get one to go, and then we ended up at least making nine of them. That punch and the shooting is very much needed.",
+      "verbatim_original_language": "",
+      "start_seconds": 139,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Nurse on the bench production: I was thinking I need Anthony to get in here and do his thing to get the scoreboard moving from the three point line",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Nick Nurse comments on the bench performance and the importance of Anthony's three-point shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Nurse",
+      "timestamp": "03:19",
+      "summary_phrase": "Barlow's active debut and role as a cutter",
+      "names_mentioned": [
+        "Barlow",
+        "LeBron",
+        "Joe"
+      ],
+      "excerpt": "I think Barlow was excellent for the first time playing in a long time.",
+      "quote": "I think Barlow was excellent for the first time playing in a long time. He was active and did all the things that he does. I think he's going to be a recipient of some of the cutting and stuff from passes from LeBron and Joe. That's a need, I think, that we got a good finishing cutter who can finish. That was just the way the subbing rolled out with the four-five, and that's what we talked about doing yesterday when we looked at him being available.",
+      "verbatim_original_language": "",
+      "start_seconds": 199,
+      "end_seconds": 233,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Nurse praises Barlow after his debut: I think he is going to be a recipient of some of the cutting and stuff from passes from LeBron and Joe",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Barlow",
+          "LeBron James",
+          "Joe"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Nick Nurse evaluates Barlow's debut and his role as a cutter alongside teammates LeBron James and Joe.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Nurse",
+      "timestamp": "04:07",
+      "summary_phrase": "Improving passing chemistry between Joel Embiid and LeBron James",
+      "names_mentioned": [
+        "Joel Embiid",
+        "LeBron"
+      ],
+      "excerpt": "They got size to see over the top of everything and they can pass.",
+      "quote": "They got size to see over the top of everything and they can pass. We've done some work on some of the cutting and setting up and relieving some pressure. We keep adding things to the half-court sets as well that give us a chance to get behind the defense. Sometimes when we run some of that stuff to get behind the defense, it pulls the defense in and then it goes out. It looks like it's action going at the rim and all of a sudden somebody's shooting a wide-open three. It's probably just us getting to feel for each other a little bit.",
+      "verbatim_original_language": "",
+      "start_seconds": 247,
+      "end_seconds": 287,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Nurse on the developing chemistry between Joel Embiid and LeBron James: It is probably just us getting to feel for each other a little bit",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid",
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Nick Nurse discusses the developing passing chemistry between Joel Embiid and LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Coach Nurse",
+      "timestamp": "05:27",
+      "summary_phrase": "Handling momentum shifts in the modern NBA",
+      "names_mentioned": [],
+      "excerpt": "The pace and the three-point shot and the offensive rebounding now enables games to flip momentum.",
+      "quote": "The pace and the three-point shot and the offensive rebounding now enables games to flip momentum several times in one game. I think that's becoming fairly normal. I'm not happy about the way that ended tonight, but I do think you have to handle it because it's reality of today's NBA. You got to keep executing and grinding and working through the full 48.",
+      "verbatim_original_language": "",
+      "start_seconds": 327,
+      "end_seconds": 352,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Nurse on momentum shifts in the modern NBA: The pace and the three point shot and the offensive rebounding now enables games to flip momentum several times in one game",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Coach Nick Nurse reflects on how modern NBA trends like pace and three-point shooting impact momentum swings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Coach Nurse",
+      "timestamp": "06:56",
+      "summary_phrase": "Adding new elements to the half-court offense",
+      "names_mentioned": [],
+      "excerpt": "We continue to add things to the half-court offense and also to the late-game package.",
+      "quote": "We continue to add things to the half-court offense and also to the late-game package. That's something we added a few games ago. Especially if we're in the bonus, we got some big bodies that can cut down the lane and feel for timing. It was working, just go to it. Keep going to it.",
+      "verbatim_original_language": "",
+      "start_seconds": 416,
+      "end_seconds": 437,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Nurse says the team is continuing to add elements to their half court offense and late game package to utilize their big bodies",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Nick Nurse explains the team's ongoing efforts to integrate new elements into their half-court and late-game offensive packages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "2NM6XMC1aWo",
+  "url": "https://www.youtube.com/watch?v=2NM6XMC1aWo",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-22T16:03:48Z",
+  "duration_seconds": 453,
+  "processed_at": "2026-11-22T16:22:15Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

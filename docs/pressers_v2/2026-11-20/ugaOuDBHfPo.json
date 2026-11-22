@@ -1,0 +1,138 @@
+{
+  "video_title": "NBAスパーズのディラン・ハーパー＆ステフォン・キャッスルがお互いに関するクイズに挑戦 | GQ JAPAN",
+  "speakers_seen": [
+    "Stephon Castle",
+    "Dylan Harper"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Stephon Castle",
+      "speakers": [
+        "Stephon Castle",
+        "Dylan Harper"
+      ],
+      "timestamp": "01:04",
+      "summary_phrase": "Stephon Castle on Dylan Harper's influence on his basketball game",
+      "names_mentioned": [
+        "Dylan Harper",
+        "Stephon Castle"
+      ],
+      "excerpt": "I think Dylan takes a lot from my game",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Stephon Castle",
+          "text": "I think Dylan takes a lot from my game."
+        },
+        {
+          "speaker": "Dylan Harper",
+          "text": "What?"
+        },
+        {
+          "speaker": "Stephon Castle",
+          "text": "Stephon."
+        }
+      ],
+      "start_seconds": 64,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Stephon Castle jokes that Dylan Harper takes a lot of his game from him during their GQ interview.",
+      "team": "GQ JAPAN"
+    },
+    {
+      "rank": 2,
+      "speaker": "Dylan Harper",
+      "speakers": [
+        "Dylan Harper",
+        "Stephon Castle"
+      ],
+      "timestamp": "01:30",
+      "summary_phrase": "Dylan Harper explains his past fandom for the Indiana Pacers",
+      "names_mentioned": [
+        "Paul George"
+      ],
+      "excerpt": "I was a Pacers fan because of Paul George.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Dylan Harper",
+          "text": "I was a Pacers fan because of Paul George."
+        },
+        {
+          "speaker": "Stephon Castle",
+          "text": "You are serious right now?"
+        },
+        {
+          "speaker": "Dylan Harper",
+          "text": "I literally remember a little version of you with a Knicks jersey on."
+        },
+        {
+          "speaker": "Stephon Castle",
+          "text": "No, you remember a little version of me with a Jeremy Lin shirt on."
+        }
+      ],
+      "start_seconds": 90,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Dylan Harper and Stephon Castle debate their childhood NBA fandoms, with Harper claiming he was a Paul George fan during his Pacers days.",
+      "team": "GQ JAPAN"
+    },
+    {
+      "rank": 3,
+      "speaker": "Stephon Castle",
+      "timestamp": "09:30",
+      "summary_phrase": "Stephon Castle on his Rookie of the Year highlight dunk",
+      "names_mentioned": [
+        "Isaiah Hartenstein"
+      ],
+      "excerpt": "We dunked on Isaiah Hartenstein.",
+      "quote": "We dunked on Isaiah Hartenstein.",
+      "verbatim_original_language": "ハーデンシュタインの上からダンクを決めたの",
+      "start_seconds": 570,
+      "end_seconds": 575,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Stephon Castle reflects on his highlight dunk over Isaiah Hartenstein.",
+      "team": "GQ JAPAN"
+    },
+    {
+      "rank": 4,
+      "speaker": "Stephon Castle",
+      "timestamp": "10:14",
+      "summary_phrase": "Stephon Castle on Dylan Harper's competitiveness in video games",
+      "names_mentioned": [
+        "Dylan Harper"
+      ],
+      "excerpt": "He's competitive in every game.",
+      "quote": "He's competitive in every game. So he'll be like, let's play this new game, right? Like we played WWE. He'd be like, I don't know how to play, I don't know none of the buttons, nothing. We go in the game, he knows every move, he knows what button to click at the right time, he knows everything.",
+      "verbatim_original_language": "彼は競技的で、どのゲームでもそう。新しいゲームをする時もね。WWEをした時、彼は操作を全く知らないと言ったのに、いざ始めてみたら操作は完璧だったよ",
+      "start_seconds": 614,
+      "end_seconds": 636,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "Stephon Castle calls out Dylan Harper for being a secret pro at video games despite claiming he does not know how to play.",
+      "team": "GQ JAPAN"
+    }
+  ],
+  "content_type": "oneoff",
+  "content_type_source": "yt-quotes one-off",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "ugaOuDBHfPo",
+  "url": "https://www.youtube.com/watch?v=ugaOuDBHfPo",
+  "channel_team": "GQ JAPAN",
+  "published": "2026-11-20T11:00:05Z",
+  "duration_seconds": 797,
+  "processed_at": "2026-11-22T16:21:58Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": true
+}

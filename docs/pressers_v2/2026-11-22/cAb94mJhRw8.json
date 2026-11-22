@@ -1,0 +1,202 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Tyrese Maxey | 11.21.26",
+  "speakers_seen": [
+    "Tyrese Maxey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "00:33",
+      "summary_phrase": "Tyrese Maxey on the team's resilience in close games",
+      "names_mentioned": [],
+      "excerpt": "It's extremely difficult to win this league and don't take it for granted.",
+      "quote": "They've been in a lot of games like this, honestly. They just kept fighting, they kept making shots. Sometimes it's like that, man. It's the NBA. You're going to get every team's best shot. It's extremely difficult to win this league and don't take it for granted. Of course we don't want to win that way, but we're going to take the win.",
+      "text_blocks": [],
+      "start_seconds": 33,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyrese Maxey on the difficulty of winning in the NBA: It is extremely difficult to win this league and do not take it for granted.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey discusses the team's ability to secure a win despite a challenging game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "01:18",
+      "summary_phrase": "Tyrese Maxey on playing with LeBron James",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "Always be ready for the ball. Just be ready for the ball and keep cutting.",
+      "quote": "I think the biggest thing is always be ready for the ball. Just be ready for the ball and keep cutting, keep finding open windows because he's a willing passer and he does a good job at that.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Tyrese Maxey on playing with LeBron James: The biggest thing is always be ready for the ball and keep cutting because he is a willing passer.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "PHI",
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Maxey explains the mindset required when playing alongside LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "02:30",
+      "summary_phrase": "Tyrese Maxey on the team's need to play 48-minute games",
+      "names_mentioned": [],
+      "excerpt": "Our biggest thing right now, we got to play a 48-minute game.",
+      "quote": "Our biggest thing right now, we got to play a 48-minute game. We're playing like 40-minute games or 24-minute games, 30-minute games. We're going to have to put together a 48-minute game. I think we did it a couple times maybe early, maybe New York here. They came back, but we still sustained a 48-minute game, so we got to keep doing that.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Tyrese Maxey says the Sixers need to stop playing 24 or 30 minute games and finally put together a full 48 minute performance.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey emphasizes the need for the team to maintain consistent effort for the full 48 minutes of a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "03:16",
+      "summary_phrase": "Tyrese Maxey on the importance of winning regardless of circumstances",
+      "names_mentioned": [],
+      "excerpt": "At the end of the day, the only thing that matters is winning.",
+      "quote": "At the end of the day, the only thing that matters is winning. Just like we talked about in Orlando, we had a lot of guys out, a lot of bodies out. Whoever goes out there and plays, we got to win the game, and that's what we've been doing.",
+      "text_blocks": [],
+      "start_seconds": 196,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyrese Maxey on the team mindset: At the end of the day the only thing that matters is winning.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey reflects on the team's focus on winning regardless of which players are available to play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "03:47",
+      "summary_phrase": "Tyrese Maxey on team depth and offensive options",
+      "names_mentioned": [],
+      "excerpt": "You can't stop everything and I think that's the best thing possible that we can have.",
+      "quote": "It's kudos to our coach staff, kudos to the players on the court recognizing it and then just kudos to the talent that we have. It's just a play like plays that we've been running is difficult. A lot of options to those plays and you can't stop everything and I think that's the best thing possible that we can have with a lot of the different options that we have, different personnel that we have and shooters in the corner, drivers, Joe like it's really good for us.",
+      "text_blocks": [],
+      "start_seconds": 227,
+      "end_seconds": 261,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyrese Maxey credits the coaching staff and team depth for the offensive success: You cannot stop everything with the different options that we have.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey credits the coaching staff and the team's offensive versatility for their success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyrese Maxey",
+      "timestamp": "04:21",
+      "summary_phrase": "Tyrese Maxey on Joel Embiid's evolution as a passer",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "He knows that he calls a lot of the attention.",
+      "quote": "He's done a good job with just making plays. He knows that he calls a lot of the attention. We're trying to cut in space and do different things off of him to where that he can make those plays and make the game easier for us.",
+      "text_blocks": [],
+      "start_seconds": 261,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tyrese Maxey on Joel Embiid: He knows he draws a lot of attention and he is doing a good job making plays to make the game easier for us.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Tyrese Maxey discusses how Joel Embiid is creating opportunities for teammates by drawing defensive attention.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "cAb94mJhRw8",
+  "url": "https://www.youtube.com/watch?v=cAb94mJhRw8",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-22T16:00:20Z",
+  "duration_seconds": 276,
+  "processed_at": "2026-11-22T16:22:12Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}
