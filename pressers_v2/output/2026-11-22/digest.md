@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-22
 
+[Podcasts & shows](podcasts.md)
+
 # Best of the best
 
 **1. Zach LaVine — "Plus-minus in basketball is the biggest odds stat I have seen." — Zach LaVine on the nature of plus-minus in basketball** [08:17](https://www.youtube.com/watch?v=7ISI7k31kuE&t=497s)

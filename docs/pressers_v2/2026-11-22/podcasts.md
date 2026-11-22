@@ -1,0 +1,335 @@
+# NBA Podcasts & Shows — 2026-11-22
+
+[Press conferences](digest.md)
+
+# Best of the best
+
+**1. Tony Allen — "You average eight points for your career, man. Stop this 'I would have done this' stuff, man." — Tony Allen recalls his frustration with Lionel Hollins' coaching style** [00:35](https://www.youtube.com/watch?v=-HL-htdtB9E&t=35s)
+
+**Tony Allen:** "I did not like **Lionel Hollins** because he used to do this stuff that would bug me so much. We used to be in film and he would be like, 'You know what I would have done? In this case, I would have done...' and I am like, 'Come on, man.' You average eight points for your career, man. Stop this 'I would have done this' stuff, man. You could not do nothing I could do on this court."
+
+**Lionel Hollins:** "I almost fought his old ass one time."
+
+[https://www.youtube.com/watch?v=-HL-htdtB9E&t=35s](https://www.youtube.com/watch?v=-HL-htdtB9E&t=35s)
+
+From: [Lionel Hollins on Deron Williams saying he wanted to FIGHT him and their "BEEF"  👀](https://www.youtube.com/watch?v=-HL-htdtB9E) · *Out The Mud*
+
+<small>[Clip it](presserclips://clip?v=-HL-htdtB9E&t=35&q=1) · [Send to Slack](presserclips://clip?v=-HL-htdtB9E&t=35&q=1&slack=1)</small>
+
+**2. Draymond Green — "Perk just went on a tangent like a hate on Draymond train. I thought it was absolutely beautiful." — Draymond Green responds to Kendrick Perkins' criticism** [03:12](https://www.youtube.com/watch?v=XSKxKJlixs0&t=192s)
+
+Draymond Green: "I spoke about road tripping, **Ali Clifton**, RJ, **Richard Jefferson**, one of my vets, **Shannon Sharpe**, Shannon, and Big Perk. And on road tripping, Perk just went on a tangent like a hate on Draymond train. I thought it was absolutely beautiful. It was great. And Perk said, you can't get 10 points. You can't go out in today's game and go get 10 when **Kevin Garnett** went out in the season, it was time for Perk to step up. Big Perk talking in third person. Time for Perk to step up. I was getting you double digits. And man, when I saw this, I couldn't help but laugh. So, I don't want to make this is not a let me put my career up to Perk's career because that's like bullying and that's no fun for no one. Like no one wants to see like the big bad bully like bully someone. So, I'm not going to be like, Perk, my career and at this point in 25, I ain't doing all that because that's kind of distasteful. But I did find it funny."
+
+[https://www.youtube.com/watch?v=XSKxKJlixs0&t=192s](https://www.youtube.com/watch?v=XSKxKJlixs0&t=192s)
+
+From: [Draymond Green Fires Back at Kendrick Perkins & Reacts to Giannis vs. Bucks, Warriors Slump](https://www.youtube.com/watch?v=XSKxKJlixs0) · *The Draymond Green Show*
+
+<small>[Clip it](presserclips://clip?v=XSKxKJlixs0&t=192&q=3) · [Send to Slack](presserclips://clip?v=XSKxKJlixs0&t=192&q=3&slack=1)</small>
+
+**3. Lionel Hollins — "When Zach was mad at me when I took him out of the game, because Zach wanted to play 48." — Lionel Hollins on Zach Randolph's desire to play 48 minutes** [05:09](https://www.youtube.com/watch?v=-HL-htdtB9E&t=309s)
+
+Lionel Hollins: "When Zach was mad at me when I took him out of the game, because Zach wanted to play 48. I don't care if we were up 30, he wanted to play all 48. I was like to myself, I'm like, 'Dang, Zach, this dude didn't play in the week and now he going to get a chance to play 30 seconds and you mad?' He wanted all the burns. He wanted all the minutes. But Zach would come out of the game and the ball boy would run up and give him a towel. Zach would wrap his face and throw it right at my feet and go on to the bench."
+
+[https://www.youtube.com/watch?v=-HL-htdtB9E&t=309s](https://www.youtube.com/watch?v=-HL-htdtB9E&t=309s)
+
+From: [Lionel Hollins on Deron Williams saying he wanted to FIGHT him and their "BEEF"  👀](https://www.youtube.com/watch?v=-HL-htdtB9E) · *Out The Mud*
+
+<small>[Clip it](presserclips://clip?v=-HL-htdtB9E&t=309&q=5) · [Send to Slack](presserclips://clip?v=-HL-htdtB9E&t=309&q=5&slack=1)</small>
+
+---
+
+## Lionel Hollins on Deron Williams saying he wanted to FIGHT him and their "BEEF"  👀 — *Out The Mud*
+
+Source: [https://www.youtube.com/watch?v=-HL-htdtB9E](https://www.youtube.com/watch?v=-HL-htdtB9E)
+
+_Speakers identified: Tony Allen, Lionel Hollins, Zach Randolph_
+
+**1. Tony Allen — "You average eight points for your career, man. Stop this 'I would have done this' stuff, man." — Tony Allen recalls his frustration with Lionel Hollins' coaching style** [00:35](https://www.youtube.com/watch?v=-HL-htdtB9E&t=35s)
+
+**Tony Allen:** "I did not like **Lionel Hollins** because he used to do this stuff that would bug me so much. We used to be in film and he would be like, 'You know what I would have done? In this case, I would have done...' and I am like, 'Come on, man.' You average eight points for your career, man. Stop this 'I would have done this' stuff, man. You could not do nothing I could do on this court."
+
+**Lionel Hollins:** "I almost fought his old ass one time."
+
+[https://www.youtube.com/watch?v=-HL-htdtB9E&t=35s](https://www.youtube.com/watch?v=-HL-htdtB9E&t=35s)
+
+<small>[Clip it](presserclips://clip?v=-HL-htdtB9E&t=35&q=1) · [Send to Slack](presserclips://clip?v=-HL-htdtB9E&t=35&q=1&slack=1)</small>
+
+**2. Lionel Hollins — "Whatever he said about me didn't matter, because I feel this way: whatever people's opinions are of me, ain't none of my business." — Lionel Hollins addresses his coaching philosophy and player opinions** [01:15](https://www.youtube.com/watch?v=-HL-htdtB9E&t=75s)
+
+Lionel Hollins: "Whatever he said about me didn't matter, because I feel this way: whatever people's opinions are of me, ain't none of my business. That's his business. That's how he felt, that's his business. I was just messing with you guys because everybody sent the tape. Everybody said, 'Oh, your boys didn't even defend you. Your boys didn't even defend you.' I said, 'Hey, I don't know why.' I said they should have, but you know, I'm not mad at them because they did."
+
+[https://www.youtube.com/watch?v=-HL-htdtB9E&t=75s](https://www.youtube.com/watch?v=-HL-htdtB9E&t=75s)
+
+<small>[Clip it](presserclips://clip?v=-HL-htdtB9E&t=75&q=2) · [Send to Slack](presserclips://clip?v=-HL-htdtB9E&t=75&q=2&slack=1)</small>
+
+**3. Zach Randolph — "I really appreciate him coaching me like that, but for you, while we right here, everybody can't take that though, coach." — Zach Randolph discusses his relationship with coach Lionel Hollins** [01:55](https://www.youtube.com/watch?v=-HL-htdtB9E&t=115s)
+
+Zach Randolph: "His take on you wasn't my take. I really couldn't, I didn't have no rebuttal for it. I didn't have no, you know, try to struggle with it. I'm like, my time with him is my time with him. I don't, I love my time with him. I really appreciate him coaching me like that, but for you, while we right here, everybody can't take that though, coach. You know what I'm saying? Some of, everybody ain't cut from that. You remind me of my granddaddy, even to the day. When I hear him on the phone, listen to you, I'm picking up that game. But when you're upset, I know where you're coming from. I got to get straightened. I got to get straightened."
+
+[https://www.youtube.com/watch?v=-HL-htdtB9E&t=115s](https://www.youtube.com/watch?v=-HL-htdtB9E&t=115s)
+
+<small>[Clip it](presserclips://clip?v=-HL-htdtB9E&t=115&q=3) · [Send to Slack](presserclips://clip?v=-HL-htdtB9E&t=115&q=3&slack=1)</small>
+
+**4. Lionel Hollins — "How many times all-defense? Six times all-defense. You know, he six times all-defense." — Lionel Hollins explains his defensive coaching expectations for Tony Allen** [03:14](https://www.youtube.com/watch?v=-HL-htdtB9E&t=194s)
+
+Lionel Hollins: "How many times all-defense? Six times all-defense. You know, he six times all-defense. We're in the game, right? And Tony runs away. He anticipates something happening on the other side. He leaves his man and run over there to do, fakes a pass, throws it over to Tony's man and he shoots. Tony comes to the bench at the time of, 'Man, this is some BS. I help y'all, I do this, and y'all can't help me.' I said, 'Tony, how the hell can anybody help you when they don't know where you are?'"
+
+[https://www.youtube.com/watch?v=-HL-htdtB9E&t=194s](https://www.youtube.com/watch?v=-HL-htdtB9E&t=194s)
+
+<small>[Clip it](presserclips://clip?v=-HL-htdtB9E&t=194&q=4) · [Send to Slack](presserclips://clip?v=-HL-htdtB9E&t=194&q=4&slack=1)</small>
+
+**5. Lionel Hollins — "When Zach was mad at me when I took him out of the game, because Zach wanted to play 48." — Lionel Hollins on Zach Randolph's desire to play 48 minutes** [05:09](https://www.youtube.com/watch?v=-HL-htdtB9E&t=309s)
+
+Lionel Hollins: "When Zach was mad at me when I took him out of the game, because Zach wanted to play 48. I don't care if we were up 30, he wanted to play all 48. I was like to myself, I'm like, 'Dang, Zach, this dude didn't play in the week and now he going to get a chance to play 30 seconds and you mad?' He wanted all the burns. He wanted all the minutes. But Zach would come out of the game and the ball boy would run up and give him a towel. Zach would wrap his face and throw it right at my feet and go on to the bench."
+
+[https://www.youtube.com/watch?v=-HL-htdtB9E&t=309s](https://www.youtube.com/watch?v=-HL-htdtB9E&t=309s)
+
+<small>[Clip it](presserclips://clip?v=-HL-htdtB9E&t=309&q=5) · [Send to Slack](presserclips://clip?v=-HL-htdtB9E&t=309&q=5&slack=1)</small>
+
+---
+
+## Walker Kessler Is as Important as Luka Dončić to the Lakers | Chris Mannix & Evan Turner — *Sports Illustrated*
+
+Source: [https://www.youtube.com/watch?v=5m8u6Q5jl-o](https://www.youtube.com/watch?v=5m8u6Q5jl-o)
+
+_Speakers identified: Chris Mannix, Evan Turner_
+
+**1. Evan Turner — "To be compared to San Antonio, you have to be literally elite, or you're going to have" — Evan Turner on the Lakers' reliance on Luka Dončić** [00:49](https://www.youtube.com/watch?v=5m8u6Q5jl-o&t=49s)
+
+**Chris Mannix:** "Do you look at them as a top-tier contender, up there with San Antonio and maybe Houston in the Western Conference, or are you seeing some things that might make you want to bump them down a notch?"
+
+**Evan Turner:** "For one, to be compared to San Antonio, you have to be literally elite, or you're going to have that one X-factor that can send you over the top, which they do with **Luka Dončić**. It comes down to, can he do it? Is his availability going to be there when it comes down to May? I think one thing I've noticed about that team, it's been fun, but I think the same thing that makes you laugh, makes you cry. Sometimes they have home run moments. You have the **Quentin Grimes** that will drop 47 points to beat a struggling Charlotte Hornets team. You'll have the superstar **Luka Dončić** averaging the best stat lines in 50-something years. You'll have **Austin Reaves** when he comes back being healthy, but I think sometimes when it comes down to it, it's like, you have to stop relying on the special stuff and you have to rely on what your identity is going to be."
+
+[https://www.youtube.com/watch?v=5m8u6Q5jl-o&t=49s](https://www.youtube.com/watch?v=5m8u6Q5jl-o&t=49s)
+
+<small>[Clip it](presserclips://clip?v=5m8u6Q5jl-o&t=49&q=1) · [Send to Slack](presserclips://clip?v=5m8u6Q5jl-o&t=49&q=1&slack=1)</small>
+
+**2. Chris Mannix — "If he goes out, he's just as irreplaceable to me as Luka Dončić." — Chris Mannix on Walker Kessler's defensive importance to the Lakers** [03:27](https://www.youtube.com/watch?v=5m8u6Q5jl-o&t=207s)
+
+Chris Mannix: "Where I get concerned though is what I see the lapses I sometimes see on the defensive end. They are a very opportunistic defense. They are among the top five teams in steals, blocks, and I think number one in steals. They play the passing games extremely well. But defensive rating, they're in the bottom third of the NBA. They turn the ball over a lot, bottom 10 in the league in turnovers, and the bench doesn't produce all that much. Now some of that of course is **Austin Reaves** when he comes back, it will bump some production down to that bench. But they've got some warning signs there. **Walker Kessler** has been pretty healthy for most of the season, but he's been injured in the past, most recently most of last season. And if he goes out, he's just as irreplaceable to me as **Luka Dončić**. That sounds blasphemous, but who do they have that can step into that **Walker Kessler** role and give them rebounding, shot-blocking, clean up things on the defensive end?"
+
+[https://www.youtube.com/watch?v=5m8u6Q5jl-o&t=207s](https://www.youtube.com/watch?v=5m8u6Q5jl-o&t=207s)
+
+<small>[Clip it](presserclips://clip?v=5m8u6Q5jl-o&t=207&q=2) · [Send to Slack](presserclips://clip?v=5m8u6Q5jl-o&t=207&q=2&slack=1)</small>
+
+**3. Chris Mannix — "You got him to be a defensive anchor to clean up a lot of the mistakes" — Chris Mannix on the Lakers' need for Walker Kessler's defensive presence** [10:32](https://www.youtube.com/watch?v=5m8u6Q5jl-o&t=632s)
+
+Chris Mannix: "He's going to get **Victor Wembanyama** a couple of times. He's going to get **Alperen Şengün** a couple of times. He's going to get **Nikola Jokić** a couple of times. He's going to get **Rudy Gobert** a couple of times. This is why they got him, not to beat up on the Sacramento Kings or to play against the Jazz or to fight off the Clippers. You got him to be a defensive anchor to clean up a lot of the mistakes that your guards make, but also to match up with these high-level centers. And there are some high-level centers coming down the pipe over the next month of the Lakers. That's what's going to be key for **Walker Kessler**."
+
+[https://www.youtube.com/watch?v=5m8u6Q5jl-o&t=632s](https://www.youtube.com/watch?v=5m8u6Q5jl-o&t=632s)
+
+<small>[Clip it](presserclips://clip?v=5m8u6Q5jl-o&t=632&q=3) · [Send to Slack](presserclips://clip?v=5m8u6Q5jl-o&t=632&q=3&slack=1)</small>
+
+---
+
+## Boogie, Lou & Chandler Debate if Nuggets & Jokic’s Window is CLOSED??? — *Run It Back*
+
+Source: [https://www.youtube.com/watch?v=KI3idH0WeYE](https://www.youtube.com/watch?v=KI3idH0WeYE)
+
+_Speakers identified: Chandler Parsons, DeMarcus Cousins, Michelle Beadle, Lou Williams_
+
+**1. Chandler Parsons — "When you have two guys like that that have that much chemistry, they're always going to have an opportunity to compete." — Chandler Parsons and DeMarcus Cousins on the Nuggets' championship potential** [00:41](https://www.youtube.com/watch?v=KI3idH0WeYE&t=41s)
+
+**Chandler Parsons:** "When you start talking about top five players, you have to. They have **Jokic**, they have **Murray**. I saw an interesting stat last night that they have a thousand assists to each other. That is a dynamic one-two punch. When you have two guys like that that have that much chemistry, and have won a championship together, and played x amount of years together, they're always going to have an opportunity to compete. I like what **Christian Braun** is bringing to the table. I like **DeMar DeRozan** being another guy that you can rely on to finish plays in the fourth quarter with **Aaron Gordon**. I think they have a great group of veteran guys that know what it looks like to win, know what it takes to win, and I think they'll give a lot of teams some headaches if they can keep it together."
+
+**DeMarcus Cousins:** "I agree, and they have **Jokic**. We know how good he is, and we know this team has that consistency. They have the foundation, they've been together for a long time. So the slow start was a little interesting, and it made some people think their window is closing. I don't really look at them like that. I think they're going to be one of those teams that's going to be the six seed, the third seed, and the third seed is going to be like, damn, we got Denver first round. It's going to be nothing easy. You're going to have to deal with **Jokic** and **Murray** and the way they're playing. We know how elite it can be."
+
+[https://www.youtube.com/watch?v=KI3idH0WeYE&t=41s](https://www.youtube.com/watch?v=KI3idH0WeYE&t=41s)
+
+<small>[Clip it](presserclips://clip?v=KI3idH0WeYE&t=41&q=1) · [Send to Slack](presserclips://clip?v=KI3idH0WeYE&t=41&q=1&slack=1)</small>
+
+**2. DeMarcus Cousins — "I do think the championship window is closed." — DeMarcus Cousins believes the Nuggets' championship window is closed** [02:28](https://www.youtube.com/watch?v=KI3idH0WeYE&t=148s)
+
+DeMarcus Cousins: "I think they're still a good team, I think they're still a dangerous team, but I do think the championship window is closed. They don't quite have the shooting that we're accustomed to seeing from this group. The team defense isn't quite up to par with what we're accustomed to seeing. Still a dangerous team, still a good team, obviously a threat every night with a player like **Jokic**. He's going to do what he does, but I believe the championship window is closed."
+
+[https://www.youtube.com/watch?v=KI3idH0WeYE&t=148s](https://www.youtube.com/watch?v=KI3idH0WeYE&t=148s)
+
+<small>[Clip it](presserclips://clip?v=KI3idH0WeYE&t=148&q=2) · [Send to Slack](presserclips://clip?v=KI3idH0WeYE&t=148&q=2&slack=1)</small>
+
+**3. Chandler Parsons — "I don't think Denver has done a great job of surrounding him with the talent necessary." — Chandler Parsons and DeMarcus Cousins on the Nuggets' roster construction** [03:00](https://www.youtube.com/watch?v=KI3idH0WeYE&t=180s)
+
+**Chandler Parsons:** "More so based on how good the other teams are, or a little bit of both? I think they're one of those teams that you just look at at the end of the season and they're right there, and they're going to be a tough out come playoff time if they're healthy."
+
+**DeMarcus Cousins:** "A little bit of both. I don't think Denver has done a great job of surrounding him with the talent necessary. And like I said, since they let **Mike Malone** go, it's kind of been a slow downhill fall for them. And then like you said, with the rest of the West, everybody is getting better. I think it's a combination of both, and like I said, I don't think Denver has done a great job of surrounding him with the talent necessary."
+
+[https://www.youtube.com/watch?v=KI3idH0WeYE&t=180s](https://www.youtube.com/watch?v=KI3idH0WeYE&t=180s)
+
+<small>[Clip it](presserclips://clip?v=KI3idH0WeYE&t=180&q=3) · [Send to Slack](presserclips://clip?v=KI3idH0WeYE&t=180&q=3&slack=1)</small>
+
+**4. Michelle Beadle — "They've lost nine of their last ten. LaMelo Ball's only played in a single game this year." — Michelle Beadle discusses the Charlotte Hornets' struggles** [03:38](https://www.youtube.com/watch?v=KI3idH0WeYE&t=218s)
+
+Michelle Beadle: "Real quick on the Hornets, just because we can, and they're four and ten. We don't talk about them much and I don't know that we will, but their loss to the Lakers just got them at four and ten. They've lost nine of their last ten. **LaMelo Ball**'s only played in a single game this year. And you know it's crazy because they were such a sort of fun watch, feel good, like oh look at this scrappy team they're putting together out there, Chandler. And now it's you got to regret trading LaMelo, but did you have to?"
+
+[https://www.youtube.com/watch?v=KI3idH0WeYE&t=218s](https://www.youtube.com/watch?v=KI3idH0WeYE&t=218s)
+
+<small>[Clip it](presserclips://clip?v=KI3idH0WeYE&t=218&q=4) · [Send to Slack](presserclips://clip?v=KI3idH0WeYE&t=218&q=4&slack=1)</small>
+
+**5. Chandler Parsons — "His production there and the excitement and what he did for that team is undeniable." — Chandler Parsons on LaMelo Ball's impact in Charlotte** [04:08](https://www.youtube.com/watch?v=KI3idH0WeYE&t=248s)
+
+Chandler Parsons: "Love him or hate him, I think his production there and the excitement and what he did for that team is undeniable. He's so talented. He made life easier for **Brandon Miller**, who is seeing right now it might not be as easy. Obviously they're going to be a better team with LaMelo, who had an unbelievable year. I love the addition of **Naz Reid**. **Kobe Bufkin** is also their starting point guard who is more of a score-first guy, so they don't really have that true set-up point guard. But yeah, it's a little bit of a slow start, but I think they're just realizing life after **LaMelo Ball** isn't as easy or sweet as you thought it would be."
+
+[https://www.youtube.com/watch?v=KI3idH0WeYE&t=248s](https://www.youtube.com/watch?v=KI3idH0WeYE&t=248s)
+
+<small>[Clip it](presserclips://clip?v=KI3idH0WeYE&t=248&q=5) · [Send to Slack](presserclips://clip?v=KI3idH0WeYE&t=248&q=5&slack=1)</small>
+
+**6. DeMarcus Cousins — "Another bad organization that mishandled the talent and misunderstood the talent." — DeMarcus Cousins criticizes the Hornets' front office** [05:05](https://www.youtube.com/watch?v=KI3idH0WeYE&t=305s)
+
+DeMarcus Cousins: "Another bad organization that mishandled the talent and misunderstood the talent."
+
+[https://www.youtube.com/watch?v=KI3idH0WeYE&t=305s](https://www.youtube.com/watch?v=KI3idH0WeYE&t=305s)
+
+<small>[Clip it](presserclips://clip?v=KI3idH0WeYE&t=305&q=6) · [Send to Slack](presserclips://clip?v=KI3idH0WeYE&t=305&q=6&slack=1)</small>
+
+**7. Chandler Parsons — Chandler Parsons, DeMarcus Cousins, and Lou Williams on the Hornets' minute restriction** [05:15](https://www.youtube.com/watch?v=KI3idH0WeYE&t=315s)
+
+**Chandler Parsons:** "Also that Lakers game was crazy. They're on a minute restriction, like 32 minutes, and with one minute left they literally took them out and threw in the bench. Plus I say when you pull your starters out in an overtime game, I ain't got much to say."
+
+**Lou Williams:** "A minute restriction for what?"
+
+**Chandler Parsons:** "They just took their starters out with one minute left and put guys that hadn't even played in the game. It's the Charlotte standard."
+
+**Michelle Beadle:** "But why the minute? What's the minute restriction for?"
+
+**Chandler Parsons:** "Also you think that one minute is going to matter? You have a chance to win a basketball game and they basically just threw it away."
+
+**Lou Williams:** "So why wouldn't you put your best players in?"
+
+**DeMarcus Cousins:** "Because they don't want to win the basketball game, y'all. Well, game of the season. 12th game of the season, we're rolling out a minute restriction on a 22-year-old kid? Like come on, bro. He benched **Naz Reid** in the first quarter because of the Charlotte standard."
+
+[https://www.youtube.com/watch?v=KI3idH0WeYE&t=315s](https://www.youtube.com/watch?v=KI3idH0WeYE&t=315s)
+
+<small>[Clip it](presserclips://clip?v=KI3idH0WeYE&t=315&q=7) · [Send to Slack](presserclips://clip?v=KI3idH0WeYE&t=315&q=7&slack=1)</small>
+
+---
+
+## Draymond Green Fires Back at Kendrick Perkins & Reacts to Giannis vs. Bucks, Warriors Slump — *The Draymond Green Show*
+
+Source: [https://www.youtube.com/watch?v=XSKxKJlixs0](https://www.youtube.com/watch?v=XSKxKJlixs0)
+
+_Speakers identified: Draymond Green_
+
+**1. Draymond Green — "The last four losses were blowouts, arguably one of the worst stretches of basketball I've ever played." — Draymond Green reflects on the Warriors' recent road trip struggles** [00:30](https://www.youtube.com/watch?v=XSKxKJlixs0&t=30s)
+
+Draymond Green: "The last four losses were blowouts, arguably one of the worst stretches of basketball I've ever played in my career. It reminds me of 2020, which is shitty in the sense of how good things were going. Obviously, when Steph goes out, everything changes and everything is a lot tougher. In the midst of that stretch of road games, we're talking Houston, San Antonio, a Dallas team who's improved with Kyrie back and **Cooper Flagg** has gotten so much better. New Orleans, which is a game we could have won, yet they punished us. And then Memphis on the second night of a back-to-back. I haven't played in a back-to-back yet this year. Tough road trip. Like I said, Steph being out obviously affects everything, but our effort wasn't great and that's disappointing. Our defense wasn't great and that's disappointing. There's a lot of things that we can control that we could be better at that we didn't control, and that's disappointing and that's on me."
+
+[https://www.youtube.com/watch?v=XSKxKJlixs0&t=30s](https://www.youtube.com/watch?v=XSKxKJlixs0&t=30s)
+
+<small>[Clip it](presserclips://clip?v=XSKxKJlixs0&t=30&q=1) · [Send to Slack](presserclips://clip?v=XSKxKJlixs0&t=30&q=1&slack=1)</small>
+
+**2. Draymond Green — "An incredible display of toughness and want it. You're talking a young fella in his second year." — Draymond Green praises Brandin Podziemski's toughness and impact** [01:53](https://www.youtube.com/watch?v=XSKxKJlixs0&t=113s)
+
+Draymond Green: "**Will Richardson** has been playing incredible, really good. He's playing with a torn UCL in his left thumb. You see him every now and then, favoring it a bit, and I know how that feels when you have those hand injuries and they just keep getting hit. But man, just an incredible display of toughness and want it. You're talking a young fella in his second year and he just wanted it. Like, it's my non-shooting hand, if I can play, I'm going to play, and he's gutting through it. He's been really good for us, and this is something that he's going to have to deal with all year. You gain a lot of respect in the locker room when you do stuff like that, and you gain respect around the league when you do stuff like that. He's been playing really good basketball, and his minutes are starting to tick up, defending really well, knocking down shots, offensive rebound, and just a burst of energy."
+
+[https://www.youtube.com/watch?v=XSKxKJlixs0&t=113s](https://www.youtube.com/watch?v=XSKxKJlixs0&t=113s)
+
+<small>[Clip it](presserclips://clip?v=XSKxKJlixs0&t=113&q=2) · [Send to Slack](presserclips://clip?v=XSKxKJlixs0&t=113&q=2&slack=1)</small>
+
+**3. Draymond Green — "Perk just went on a tangent like a hate on Draymond train. I thought it was absolutely beautiful." — Draymond Green responds to Kendrick Perkins' criticism** [03:12](https://www.youtube.com/watch?v=XSKxKJlixs0&t=192s)
+
+Draymond Green: "I spoke about road tripping, **Ali Clifton**, RJ, **Richard Jefferson**, one of my vets, **Shannon Sharpe**, Shannon, and Big Perk. And on road tripping, Perk just went on a tangent like a hate on Draymond train. I thought it was absolutely beautiful. It was great. And Perk said, you can't get 10 points. You can't go out in today's game and go get 10 when **Kevin Garnett** went out in the season, it was time for Perk to step up. Big Perk talking in third person. Time for Perk to step up. I was getting you double digits. And man, when I saw this, I couldn't help but laugh. So, I don't want to make this is not a let me put my career up to Perk's career because that's like bullying and that's no fun for no one. Like no one wants to see like the big bad bully like bully someone. So, I'm not going to be like, Perk, my career and at this point in 25, I ain't doing all that because that's kind of distasteful. But I did find it funny."
+
+[https://www.youtube.com/watch?v=XSKxKJlixs0&t=192s](https://www.youtube.com/watch?v=XSKxKJlixs0&t=192s)
+
+<small>[Clip it](presserclips://clip?v=XSKxKJlixs0&t=192&q=3) · [Send to Slack](presserclips://clip?v=XSKxKJlixs0&t=192&q=3&slack=1)</small>
+
+**4. Draymond Green — "I got nothing but love for LeBron James because he's a good dude. And I also got nothing but love for Ty Lue." — Draymond Green expresses respect for LeBron James and Ty Lue** [07:22](https://www.youtube.com/watch?v=XSKxKJlixs0&t=442s)
+
+Draymond Green: "Y'all say what y'all want about me, but I got nothing but love for **LeBron James** because he's a good dude. And I also got nothing but love for **Ty Lue** because **Ty Lue** is a good dude. And when you realize they did things like put Perk on the team for one game so he could like sit on the bench in playoffs and like be the muscle, be like the muscle on the bench, because I'll be honest with y'all, on the bench of good teams, you can't just run over to their bench and say what you want. That's a that's an important thing on good teams, and so they put Big Perk on the bench to like be the muscle. But the problem with Big Perk on the bench being the muscle is like, Big Perk was dressed like a coach. He in a sport coat with like this skinny tie, you know what I'm saying? But he the muscle on the bench, you know, executive security."
+
+[https://www.youtube.com/watch?v=XSKxKJlixs0&t=442s](https://www.youtube.com/watch?v=XSKxKJlixs0&t=442s)
+
+<small>[Clip it](presserclips://clip?v=XSKxKJlixs0&t=442&q=4) · [Send to Slack](presserclips://clip?v=XSKxKJlixs0&t=442&q=4&slack=1)</small>
+
+**5. Draymond Green — "Giannis left the court without shaking hands of anyone on the Bucks. I thought that was interesting." — Draymond Green reacts to Giannis Antetokounmpo not shaking hands with Bucks teammates** [15:08](https://www.youtube.com/watch?v=XSKxKJlixs0&t=908s)
+
+Draymond Green: "Giannis and **Tyler Herro** played both played their old teams for the first time. Giannis left the court without shaking hands of anyone on the Bucks. I thought that was interesting. And then **Bam Adebayo** was asked after the game if he talked to **Tyler Herro** postgame. No, I didn't get to talk to him. Some of that you see how he felt. I'm on to the next thing. I feel like I got great karma. Man, it is not cool over there. A little surprised that Giannis ain't shake the hands of any of his teammates. That was interesting to me because I think, you know, those are guys that you've been going to war with, and even if you don't like something with the organization, something that could have happened, you went to war with those guys. And Giannis being one of those guys who like he brings his teammates to Greece, you know, he he you know, he he is a leader, you know what I'm saying?"
+
+[https://www.youtube.com/watch?v=XSKxKJlixs0&t=908s](https://www.youtube.com/watch?v=XSKxKJlixs0&t=908s)
+
+<small>[Clip it](presserclips://clip?v=XSKxKJlixs0&t=908&q=5) · [Send to Slack](presserclips://clip?v=XSKxKJlixs0&t=908&q=5&slack=1)</small>
+
+**6. Draymond Green — "One thing you got to know about Dallas is like, if there's a game that matter, he is that good." — Draymond Green praises Damian Lillard's performance against the Bucks** [17:23](https://www.youtube.com/watch?v=XSKxKJlixs0&t=1043s)
+
+Draymond Green: "Speaking of returns involving the Milwaukee Bucks, again, Dame Dollar returned to Milwaukee for the first time since being waved and he had 33, six boards, five threes made. One thing you got to know about Dallas is like, if there's a game that matter, he is that good. Like he ain't going to go in there and be like, yo, he had a rough night on 14 points his first night back. Like Dallas a different. I don't think people really understand and realize how good he is at basketball. So, he he wanted like, there's just certain guys in this league that like, when things happen, when things matter, they're going to perform at the level because they're just that good. You know what I'm saying? Like Dallas is one of those, and by the way, that's not a bunch of guys. Like that's that that ain't a bunch of guys at all. Dallas one of those dudes like, like something matters, something happened, I'm going to do this. Like, and he going to do it."
+
+[https://www.youtube.com/watch?v=XSKxKJlixs0&t=1043s](https://www.youtube.com/watch?v=XSKxKJlixs0&t=1043s)
+
+<small>[Clip it](presserclips://clip?v=XSKxKJlixs0&t=1043&q=6) · [Send to Slack](presserclips://clip?v=XSKxKJlixs0&t=1043&q=6&slack=1)</small>
+
+**7. Draymond Green — "Don't forget Ja. Ja is playing was playing really well and that team was playing really well." — Draymond Green discusses the Blazers as a dark horse in the West** [18:41](https://www.youtube.com/watch?v=XSKxKJlixs0&t=1121s)
+
+Draymond Green: "Are the Blazers being overlooked in the West with the tandem of Dame and Denny? And the reality is, don't forget Ja. Ja is playing was playing really well and that team was playing really well before Ja got hurt. You know, they're still playing good basketball, they've lost some games, but Ja, I imagine will be back in some time in the next week or two. And and like I said, Ja is playing they were playing really, really well with Ja. You know, so not only the tandem of of Dame and Ja and Dame and Denny, but add Ja to that as well, the trio. You know, and and you know, when when you have a dangerous backcourt, you know what I'm saying, a dangerous backcourt that can win you games, you know, and you you like I said, you can add Denny Denny to that trio, you know, you going to always have a chance."
+
+[https://www.youtube.com/watch?v=XSKxKJlixs0&t=1121s](https://www.youtube.com/watch?v=XSKxKJlixs0&t=1121s)
+
+<small>[Clip it](presserclips://clip?v=XSKxKJlixs0&t=1121&q=7) · [Send to Slack](presserclips://clip?v=XSKxKJlixs0&t=1121&q=7&slack=1)</small>
+
+**8. Draymond Green — "A lot was made of Hornets coach Charles Lee benching Brandon Miller and Kobe White for the entire overtime." — Draymond Green critiques Hornets coach Charles Lee's rotation decisions** [20:23](https://www.youtube.com/watch?v=XSKxKJlixs0&t=1223s)
+
+Draymond Green: "A lot was made of Hornets coach **Charles Lee** benching **Brandon Miller** and **Kobe White** for the entire overtime period versus the Lakers in a game that they were ahead pretty much the entire game, and they end up going into overtime and losing 118 to 114. And in that overtime period, like I said, those two guys did not play. His explanation was, yeah, they've been coming back from injury, we've been trying to build them up, Lee said via the Hornets. At the end of the game, as we're trying to be mindful of where they are and just coming back from their respective injuries, yes. And I would say, you know, a couple weeks ago, coach Kerr brought Steph and I off the bench after a minute and a half, two minutes in an overtime game, and it worked for us. Our guys got us a four-point lead and we came in and we closed the game out."
+
+[https://www.youtube.com/watch?v=XSKxKJlixs0&t=1223s](https://www.youtube.com/watch?v=XSKxKJlixs0&t=1223s)
+
+<small>[Clip it](presserclips://clip?v=XSKxKJlixs0&t=1223&q=8) · [Send to Slack](presserclips://clip?v=XSKxKJlixs0&t=1223&q=8&slack=1)</small>
+
+---
+
+## Frustrated With His Cavs Role, Shump Was Told to Watch Kevin Love — *Road Trippin*
+
+Source: [https://www.youtube.com/watch?v=z0r8vt6AYMk](https://www.youtube.com/watch?v=z0r8vt6AYMk)
+
+_Speakers identified: Allie Clifton, Richard Jefferson, Channing Frye, Kendrick Perkins_
+
+**1. Channing Frye — "If it wasn't for Kevin Love, if it wasn't for Richard Jefferson, if it wasn't for Channing Frye" — Channing Frye on Kevin Love's sacrifice and role in Cleveland** [00:20](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=20s)
+
+**Channing Frye:** "I feel like a lot of times during that season, if it wasn't for him, if it wasn't for **Richard Jefferson**, if it wasn't for **Channing Frye** saying, 'Shump, you think you're frustrated? Look at **Kevin Love**.' He was the best power forward in the league. He like, 'Yeah, that's a walking 30-20.' This is outlet passes. That's what winning looked like."
+
+**Richard Jefferson:** "He was the best power forward in the league."
+
+[https://www.youtube.com/watch?v=z0r8vt6AYMk&t=20s](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=20s)
+
+<small>[Clip it](presserclips://clip?v=z0r8vt6AYMk&t=20&q=1) · [Send to Slack](presserclips://clip?v=z0r8vt6AYMk&t=20&q=1&slack=1)</small>
+
+**2. Richard Jefferson — "I wanted to do whatever it took to be a part of the group." — Richard Jefferson on his veteran role and sacrifice in Cleveland** [01:05](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=65s)
+
+Richard Jefferson: "**James Jones** was big in keeping us there, but I was at year 15, so the sacrifice for me was different. I wanted to do whatever it took to be a part of the group. My 'I want to see what I can go prove' days were long behind me. I knew what my role was, so it was also part of my job as a person that wanted to win was to help convince people of their roles."
+
+[https://www.youtube.com/watch?v=z0r8vt6AYMk&t=65s](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=65s)
+
+<small>[Clip it](presserclips://clip?v=z0r8vt6AYMk&t=65&q=2) · [Send to Slack](presserclips://clip?v=z0r8vt6AYMk&t=65&q=2&slack=1)</small>
+
+**3. Channing Frye — "Accept that role and that place for winning." — Channing Frye on accepting a role for team success** [02:21](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=141s)
+
+Channing Frye: "When I got to Phoenix, **Grant Hill** was like, 'Listen, people are going to talk shit about you. But we're going to win.' He goes, 'Channing, Steve is a two-time MVP. **Amar'e Stoudemire** is like a four-time All-Star. You see **Jason Richardson**, he's like a two or three-time All-Star. You standing right here and doing your job and being available to shoot and working on that creates opportunities for everyone else to play four-on-four basketball.' So when I got to Cleveland, I was like, 'Shump, we know you're great. I respect the shit out of Shump. Shump is very talented. But Shump compared to talent compared to Kevin, Kyrie, Swish, and Bron, you got to simplify your game so that your consistency we can rely on.' And that was my attitude towards it. It's like, dude, look what Kevin is doing. We had arguments, is Kevin the best power forward versus Tim Duncan? Those are real arguments. And now Kevin is doing Channing Frye things to win. So brother, we all got to eat less, but we're all going to eat at the buffet at the end of it."
+
+[https://www.youtube.com/watch?v=z0r8vt6AYMk&t=141s](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=141s)
+
+<small>[Clip it](presserclips://clip?v=z0r8vt6AYMk&t=141&q=3) · [Send to Slack](presserclips://clip?v=z0r8vt6AYMk&t=141&q=3&slack=1)</small>
+
+**4. Kendrick Perkins — "LeBron wrapped his arm around him and all of a sudden LeBron taught Swish another level of professionalism." — LeBron James helped J.R. Smith reach a new level of professionalism** [04:30](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=270s)
+
+Kendrick Perkins: "The trade that happened to get **Shump** and **Swish** wasn't for **Swish**. **Shump** was just injured and then all of a sudden **Swish** stepped into a role because he was almost a throw-in into that trade and got an opportunity and then he capitalized because he started to make shots and then LeBron wrapped his arm around him and all of a sudden LeBron taught **Swish** another level of professionalism. So **Shump** had to come in to a point of almost proving himself."
+
+[https://www.youtube.com/watch?v=z0r8vt6AYMk&t=270s](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=270s)
+
+<small>[Clip it](presserclips://clip?v=z0r8vt6AYMk&t=270&q=4) · [Send to Slack](presserclips://clip?v=z0r8vt6AYMk&t=270&q=4&slack=1)</small>
+
+**5. Kendrick Perkins — "Kevin Garnett set the tone from the jump, the first day of training camp in Rome." — Kevin Garnett set the tone for the 2008 Celtics championship** [04:30](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=270s)
+
+Kendrick Perkins: "Outside of having the talent, the two most important things to winning the championship, being on a team to win the championship, is number one, it's health and number two is sacrificing. If you're not going to sacrifice, you're not going to win. I went to the NBA Finals five times, I won once. And the one time that I won is because everybody lost themselves in the team. **Kevin Garnett** set the tone from the jump, the first day of training camp in Rome. He came in and he said, '**Doc**, before you get started, we're going to run this offense through **Paul** and **Ray**.' The world knew that **Kevin Garnett** was the best player on our team. No, we're going to run this offense. If you need me, I'm here, I'm going to focus defensively. That set the tone early."
+
+[https://www.youtube.com/watch?v=z0r8vt6AYMk&t=270s](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=270s)
+
+<small>[Clip it](presserclips://clip?v=z0r8vt6AYMk&t=270&q=5) · [Send to Slack](presserclips://clip?v=z0r8vt6AYMk&t=270&q=5&slack=1)</small>
+
+**6. Kendrick Perkins — "It's one thing to talk about it and have the talent, but the hardest thing is to sacrifice." — The difficulty of sacrificing individual goals for team championship success** [04:30](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=270s)
+
+Kendrick Perkins: "For a young guy like **Shump** that was like in his prime, coming off of ACL injury, has started off with the Knicks extremely well, was, you know, shit was looking promising, yeah you want to win a championship, but you want to get to a bag, you want to make a couple of All-Star games, you want to see where your talent actually is going to take you. So it's a real moment to highlight and show the world and show these teams out here that are actually trying to win right now this season, that it's one thing to talk about it and have the talent, but the hardest thing in the world is to sacrifice. You have to do an outstanding job of policing and keeping yourself accountable and making sure you sacrifice."
+
+[https://www.youtube.com/watch?v=z0r8vt6AYMk&t=270s](https://www.youtube.com/watch?v=z0r8vt6AYMk&t=270s)
+
+<small>[Clip it](presserclips://clip?v=z0r8vt6AYMk&t=270&q=6) · [Send to Slack](presserclips://clip?v=z0r8vt6AYMk&t=270&q=6&slack=1)</small>
+
+---
+
+<a href="https://www.youtube.com/feed/subscriptions" target="_blank" rel="noopener">CHECK OTHER YOUTUBE PODCASTS HERE</a>
