@@ -3238,5 +3238,22 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {}
+ "pending": {
+  "S1H3zPZ0F2I": {
+   "channel": "San Antonio Spurs",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-22",
+   "is_one_off": false,
+   "queued_at": "2026-11-22T01:11:23Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-22",
+   "speaker": "Mitch Johnson",
+   "title": "YouTube title: Mitch Johnson on the Importance of Giving Back and Serving the Community",
+   "top_quote": "We have to because it's difficult at times to sometimes have continuity game to game when it's such a different game in terms of what teams are trying to take away or how they guard you. And that can be matchups, that can be schemes, that can be coverages. So something that happened in the last game may not show itself tonight, whether it helped us or hurt us, and that may just be personnel-driven or how they play.",
+   "video_id": "S1H3zPZ0F2I"
+  }
+ }
 }
