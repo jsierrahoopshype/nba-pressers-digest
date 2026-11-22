@@ -1,0 +1,112 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Portland Trail Blazers 96, New York Knicks 97 | Nov. 21, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:08",
+      "summary_phrase": "Micah Nori on Portland's defensive execution and self-inflicted errors",
+      "names_mentioned": [],
+      "excerpt": "we haven't had self-inflicted wounds, if you will, or mistakes",
+      "quote": "We guarded and we didn't have the mental lapses that we've had in the first half. The one thing that we've done a very good job of, especially at the defensive end, is we haven't had self-inflicted wounds, if you will, or mistakes. We had a couple even in the first part of the game that allowed them to see the ball go in, and that led to a 40-point first quarter and a 66-point first half. So the message at halftime was, we don't know if our game plan works because we haven't executed it. And that's the first time that's been the case this year.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Micah Nori says the Blazers struggled to execute their game plan early against the Knicks, noting that the team has been plagued by self-inflicted wounds and defensive lapses that led to a massive first-half deficit.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses the team's defensive execution and halftime adjustments following the first half performance against the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "00:53",
+      "summary_phrase": "Micah Nori on the team's slow starts and energy levels",
+      "names_mentioned": [],
+      "excerpt": "we've spent a lot of energy the last three games where we just put ourselves in a hole",
+      "quote": "We've spent a lot of energy the last three games, the last Minnesota one, the game in Milwaukee, and tonight, where we just put ourselves in a hole and come out kind of flat. It's difficult, especially when you're talking about the world champions. You're down 17 before you blink an eye and then you're down 66 to 43 at the end of the first half. We talked about it at halftime, making them have to take the first timeout, trying to cut this thing in half, and we were able to do that.",
+      "verbatim_original_language": "",
+      "start_seconds": 53,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Micah Nori addresses the Blazers slow starts, noting the team has repeatedly put themselves in a hole early in games. Nori says the focus at halftime was on forcing the opponent to take the first timeout and clawing back into the game.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MIN",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Micah Nori reflects on the team's recent slow starts and energy levels after trailing early against the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "02:12",
+      "summary_phrase": "Micah Nori on early game turnovers and defensive lapses",
+      "names_mentioned": [],
+      "excerpt": "this is literally the first time that we've come out the gate and had several blown coverages",
+      "quote": "I don't know if, I mean, for some of these guys, I think it's maybe their first time in New York. I don't know because I haven't seen it. This is literally the first time that we've come out the gate and had several blown coverages, if that makes sense. I just don't know if that's where just the concentration is where those mishaps happen. We talked about taking away the three-ball. We know when KAT doesn't play, that their three-ball percentage goes up. We also know the offensive rebounding goes up with Drummond on the floor. We talked about making them shoot tough twos, and then they had 27 threes in the first half and only 20 twos, if you will.",
+      "verbatim_original_language": "",
+      "start_seconds": 132,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Micah Nori on the defensive struggles against New York: We talked about taking away the three-ball and making them shoot tough twos, but they ended up taking 27 threes in the first half alone.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Karl-Anthony Towns",
+          "Andre Drummond"
+        ],
+        "teams": [
+          "POR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Micah Nori analyzes the team's defensive failures regarding three-point coverage and rebounding against the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "6Q6pbv0daLs",
+  "url": "https://www.youtube.com/watch?v=6Q6pbv0daLs",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-22T03:23:02Z",
+  "duration_seconds": 193,
+  "processed_at": "2026-11-22T03:45:12Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

@@ -3239,6 +3239,22 @@
   }
  },
  "pending": {
+  "6Q6pbv0daLs": {
+   "channel": "Portland Trail Blazers",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-22",
+   "is_one_off": false,
+   "queued_at": "2026-11-22T03:45:20Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-22",
+   "speaker": "Micah Nori",
+   "title": "Micah Nori Postgame Interview | Portland Trail Blazers 96, New York Knicks 97 | Nov. 21, 2026",
+   "top_quote": "We guarded and we didn't have the mental lapses that we've had in the first half. The one thing that we've done a very good job of, especially at the defensive end, is we haven't had self-inflicted wounds, if you will, or mistakes. We had a couple even in the first part of the game that allowed them to see the ball go in, and that led to a 40-point first quarter and a 66-point first half. So the message at halftime was, we don't know if our game plan works because we haven't executed it. And that's the first time that's been the case this year.",
+   "video_id": "6Q6pbv0daLs"
+  },
   "F8jvlwIG5Is": {
    "channel": "Boston Celtics",
    "clip_count": 7,
@@ -3271,6 +3287,22 @@
    "top_quote": "We have to because it's difficult at times to sometimes have continuity game to game when it's such a different game in terms of what teams are trying to take away or how they guard you. And that can be matchups, that can be schemes, that can be coverages. So something that happened in the last game may not show itself tonight, whether it helped us or hurt us, and that may just be personnel-driven or how they play.",
    "video_id": "S1H3zPZ0F2I"
   },
+  "YtctqZ2gX9M": {
+   "channel": "Minnesota Timberwolves",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-22",
+   "is_one_off": false,
+   "queued_at": "2026-11-22T03:45:20Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-22",
+   "speaker": "Jaden McDaniels",
+   "title": "Jaden McDaniels Postgame Interview After Win Against Memphis Grizzlies | 11.21.26",
+   "top_quote": "Jaden, it's a season high for you. You made a concerted effort not just to settle for the outside shot, to really get downhill. What were you able to do to get your way into their defense? Just staying aggressive whenever I get the ball, punching gaps and then just trusting my game, trusting my work.",
+   "video_id": "YtctqZ2gX9M"
+  },
   "fS5D4CYmOok": {
    "channel": "Sacramento Kings",
    "clip_count": 8,
@@ -3286,6 +3318,38 @@
    "title": "Doug Christie credits Kings’ ‘discipline’ despite Lakers loss | NBC Sports California",
    "top_quote": "The words I used for them was consistency and discipline. Those are the things that will get us through to the other side of the ledger. And I thought that last night, that was about as consistent and disciplined as we have been. There are some stretches and there will be during the game, but as close to 48 minutes, I thought the aggressiveness, the physicality from the jump was there, and then the attention to detail on the defensive end, especially game plan discipline was spot on.",
    "video_id": "fS5D4CYmOok"
+  },
+  "ntxnsp0oUsA": {
+   "channel": "Minnesota Timberwolves",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-22",
+   "is_one_off": false,
+   "queued_at": "2026-11-22T03:45:20Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-22",
+   "speaker": "Alan Horton",
+   "title": "Ayo Dosunmu Postgame Interview With Alan Horton | 11.21.26",
+   "top_quote": "Ayo, congratulations. How did it feel to get back to winning ways after the Knicks loss the other night? It felt good. It was an important win. We just wanted to play hard, get the win, and that's what we did.",
+   "video_id": "ntxnsp0oUsA"
+  },
+  "vG6T4BsYgz8": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-22",
+   "is_one_off": false,
+   "queued_at": "2026-11-22T03:45:20Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-22",
+   "speaker": "Tuomas Iisalo",
+   "title": "Tuomas Iisalo Press Conference | Grizzlies vs. Timberwolves",
+   "top_quote": "I thought we had two good quarters and then two very bad quarters from our offensive standpoint and a lot of that was triggered by our defense. I thought our activity level when the game started was good. We were able to generate a lot of transition shots. Our conversion percentage wasn't great in the first and second quarters on those. Overall, they post these issues for most of the teams in the league. They do a really good job of guarding on ball and then they have two excellent rim protectors. One, probably the best rim protector of the 21st century and then a young apprentice there, and they do a good job with that.",
+   "video_id": "vG6T4BsYgz8"
   }
  }
 }

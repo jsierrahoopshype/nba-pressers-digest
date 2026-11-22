@@ -1,0 +1,150 @@
+{
+  "video_title": "Jaden McDaniels Postgame Interview After Win Against Memphis Grizzlies | 11.21.26",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Jaden McDaniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaden McDaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Jaden McDaniels on his aggressive offensive approach against Memphis",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "just staying aggressive whenever I get the ball, punching gaps and then just trusting my game",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Jaden, it's a season high for you. You made a concerted effort not just to settle for the outside shot, to really get downhill. What were you able to do to get your way into their defense?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "Just staying aggressive whenever I get the ball, punching gaps and then just trusting my game, trusting my work."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on his season high performance against Memphis: Staying aggressive whenever I get the ball, punching gaps and then just trusting my game, trusting my work.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains his offensive approach and decision to drive to the basket during the postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaden McDaniels",
+      "speakers": [
+        "Unidentified speaker",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "00:17",
+      "summary_phrase": "Jaden McDaniels on guarding Ty Jerome and maintaining defensive intensity",
+      "names_mentioned": [
+        "Ty Jerome"
+      ],
+      "excerpt": "defensively just being physical, picking up full court, disrupting them. I mean, he a good player",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "This morning when I asked you just about the mentality of playing both ends of the floor and not showing the tiredness, you said, 'It's something that I just have to fight through.' You guarded one of their better offensive players in Ty Jerome, especially with the way he's been shooting as of late. What was the mentality? How were you able to get it done on both ends of the floor tonight?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "Defensively just being physical, picking up full court, disrupting them. I mean, he a good player and then offensively just staying confident when I get the ball and just staying in attack mode."
+        }
+      ],
+      "start_seconds": 17,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jaden McDaniels on his defensive assignment against Ty Jerome: Defensively just being physical, picking up full court, disrupting them.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ty Jerome"
+        ],
+        "teams": [
+          "MIN",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses his defensive strategy against Ty Jerome and maintaining his offensive intensity throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaden McDaniels",
+      "speakers": [
+        "Unidentified speaker",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "00:46",
+      "summary_phrase": "Jaden McDaniels on the Timberwolves' second-quarter defensive turnaround",
+      "names_mentioned": [],
+      "excerpt": "it started with defense. We were getting stops, making the miss and just getting out in transition",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "The team's mentality to make that fight in the second quarter to get the lead at halftime was what?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "It started with defense. We were getting stops, making the miss and just getting out in transition, getting easy buckets and that's what flipped the game for us."
+        }
+      ],
+      "start_seconds": 46,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on the Timberwolves second quarter turnaround: It started with defense. We were getting stops, making the miss and just getting out in transition, getting easy buckets and that is what flipped the game for us.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels describes the Timberwolves defensive effort in the second quarter that allowed the team to take the lead.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "YtctqZ2gX9M",
+  "url": "https://www.youtube.com/watch?v=YtctqZ2gX9M",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-22T03:20:28Z",
+  "duration_seconds": 62,
+  "processed_at": "2026-11-22T03:45:20Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

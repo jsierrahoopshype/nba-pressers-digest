@@ -1,0 +1,229 @@
+{
+  "video_title": "Ayo Dosunmu Postgame Interview With Alan Horton | 11.21.26",
+  "speakers_seen": [
+    "Ayo Dosunmu",
+    "Alan Horton"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Alan Horton",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:09",
+      "summary_phrase": "Ayo Dosunmu on the Timberwolves' win after the Knicks loss",
+      "names_mentioned": [
+        "Ayo Dosunmu"
+      ],
+      "excerpt": "How did it feel to get back to winning ways after the Knicks loss the other night?",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Ayo, congratulations. How did it feel to get back to winning ways after the Knicks loss the other night?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "It felt good. It was an important win. We just wanted to play hard, get the win, and that's what we did."
+        }
+      ],
+      "start_seconds": 9,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the Timberwolves bouncing back after the Knicks loss: It felt good. It was an important win. We just wanted to play hard, get the win, and that is what we did.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu reacts to the Timberwolves' win following a previous loss to the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Alan Horton",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:24",
+      "summary_phrase": "Ayo Dosunmu on defensive adjustments against the Grizzlies",
+      "names_mentioned": [],
+      "excerpt": "What was the key? What turned things around?",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "I was giving fans the stats here. You guys, they scored 34 points in the first quarter. You guys held them to 28 total in the second and third quarters. What was the key? What turned things around?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Just playing hard, limiting them to one shot, not trying to let them be in a rhythm. When we did that, we were able to get some stops and get out in transition."
+        }
+      ],
+      "start_seconds": 24,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the defensive turnaround against the Grizzlies: Just playing hard, limiting them to one shot, not trying to let them be in a rhythm. When we did that, we were able to get some stops and get out in transition.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains the defensive adjustments made to limit the Grizzlies after a high-scoring first quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Alan Horton",
+      "speakers": [
+        "Alan Horton",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:45",
+      "summary_phrase": "Ayo Dosunmu on the challenge of defending a balanced Grizzlies team",
+      "names_mentioned": [],
+      "excerpt": "How much did that put pressure on you guys defensively to be so on point here tonight?",
+      "text_blocks": [
+        {
+          "speaker": "Alan Horton",
+          "text": "They're a really good team. I don't think fans know some of the names that are putting up these big numbers, but how much did that put pressure on you guys defensively to be so on point here tonight?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "In the NBA, it's not all about names. Sometimes they're a good ball club, very well-coached ball club. Those are the most dangerous teams when you necessarily don't know where the majority of the points are coming from. They have a variety of players that are able to contribute, and sometimes that makes it challenging. So yeah, they're a good team."
+        }
+      ],
+      "start_seconds": 45,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Ayo Dosunmu on the challenge of facing a balanced Grizzlies team: In the NBA, it is not all about names. Sometimes they are a good ball club, very well-coached ball club. Those are the most dangerous teams.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses the defensive challenge of playing against a balanced and well-coached Grizzlies roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Alan Horton",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "01:19",
+      "summary_phrase": "Ayo Dosunmu on his interior scoring performance",
+      "names_mentioned": [
+        "Ayo Dosunmu"
+      ],
+      "excerpt": "It wasn't going outside the arc but boy inside the arc you had it going.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Ayo, 19 points for you tonight. It wasn't going outside the arc but boy inside the arc you had it going. What was the key inside?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "I just wanted to finish around the rim. That's what I work on. You know you can't always make all of your shots on the perimeter, so it was very encouraging to make some shots around the rim, and hopefully next game I can put it all together."
+        }
+      ],
+      "start_seconds": 79,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on his 19-point night: I just wanted to finish around the rim. That is what I work on. You know you cannot always make all of your shots on the perimeter, so it was very encouraging to make some shots around the rim.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu reflects on his performance scoring inside the arc during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Alan Horton",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "01:40",
+      "summary_phrase": "Ayo Dosunmu on the Timberwolves' offensive ball movement",
+      "names_mentioned": [],
+      "excerpt": "Do you feel like the offense kind of got on track a little bit here tonight?",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Do you feel like the offense kind of got on track a little bit here tonight? Maybe this is something you can build off of?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Definitely. I think we were able to get the ball moving side to side. Everyone's contributing, and we were able to generate some great shots. I think that was very important for us. So we got to keep going. You know, we watch some film, we know where we can get better at, and we showcased it tonight."
+        }
+      ],
+      "start_seconds": 100,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the Timberwolves offense: I think we were able to get the ball moving side to side. Everyone is contributing, and we were able to generate some great shots. I think that was very important for us.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu evaluates the team's offensive ball movement and shot generation during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ntxnsp0oUsA",
+  "url": "https://www.youtube.com/watch?v=ntxnsp0oUsA",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-22T03:26:17Z",
+  "duration_seconds": 142,
+  "processed_at": "2026-11-22T03:45:12Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

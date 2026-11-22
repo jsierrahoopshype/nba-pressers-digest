@@ -10,23 +10,61 @@ Joe Mazzulla: "I can't, I'm not a doctor."
 
 From: [Joe Mazzulla: “I’m Not a Doctor” When Asked About Derrick White’s Shoulder Injury \| Celtics Pregame](https://www.youtube.com/watch?v=F8jvlwIG5Is) · *Boston Celtics*
 
-**2. Mitch Johnson — "he's feeling better than he did the night of the Detroit game and the day after" — Mitch Johnson on Dylan's recovery and return timeline** [06:02](https://www.youtube.com/watch?v=S1H3zPZ0F2I&t=362s)
+**2. Jaden McDaniels — "defensively just being physical, picking up full court, disrupting them. I mean, he a good player" — Jaden McDaniels on guarding Ty Jerome and maintaining defensive intensity** [00:17](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s)
 
-Mitch Johnson: "He's feeling better than he did the night of the Detroit game and the day after for sure. It's very, very, very best-case scenario. We are very fortunate in terms of just the way it looked. I really didn't like how it looked, I didn't feel good about it and it was 24 hours where you were just kind of crossing your fingers and hoping for the best, and it was the best. So I think we're just going to have to see what it looks like, but it's positive."
+**Unidentified speaker:** "This morning when I asked you just about the mentality of playing both ends of the floor and not showing the tiredness, you said, 'It's something that I just have to fight through.' You guarded one of their better offensive players in **Ty Jerome**, especially with the way he's been shooting as of late. What was the mentality? How were you able to get it done on both ends of the floor tonight?"
 
-[https://www.youtube.com/watch?v=S1H3zPZ0F2I&t=362s](https://www.youtube.com/watch?v=S1H3zPZ0F2I&t=362s)
+**Jaden McDaniels:** "Defensively just being physical, picking up full court, disrupting them. I mean, he a good player and then offensively just staying confident when I get the ball and just staying in attack mode."
 
-From: [YouTube title: Mitch Johnson on the Importance of Giving Back and Serving the Community](https://www.youtube.com/watch?v=S1H3zPZ0F2I) · *San Antonio Spurs*
+[https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s)
 
-<small>[Clip it](presserclips://clip?v=S1H3zPZ0F2I&t=362&q=4) · [Send to Slack](presserclips://clip?v=S1H3zPZ0F2I&t=362&q=4&slack=1)</small>
+From: [Jaden McDaniels Postgame Interview After Win Against Memphis Grizzlies \| 11.21.26](https://www.youtube.com/watch?v=YtctqZ2gX9M) · *Minnesota Timberwolves*
 
-**3. Doug Christie — "Last night was as good as I've seen Keon in a minute. His physicality and aggressiveness" — Doug Christie on Keon Ellis's physicality and defensive impact** [01:51](https://www.youtube.com/watch?v=fS5D4CYmOok&t=111s)
+<small>[Clip it](presserclips://clip?v=YtctqZ2gX9M&t=17&q=2) · [Send to Slack](presserclips://clip?v=YtctqZ2gX9M&t=17&q=2&slack=1)</small>
 
-Doug Christie: "Last night was as good as I've seen Keon in a minute. His physicality and aggressiveness I thought really set the tone defensively. I thought his activity was good. The last play, the steal against Luka, just the handiness, he looked light, he was moving good. And that's a credit to him. He's worked and worked and just needs to play basketball. And unfortunately, trying to do that during the season is different than you working your way through it at certain points in the summertime and training camp and all those things. But last night was definitely a step in the right direction."
+**3. Alan Horton — "How much did that put pressure on you guys defensively to be so on point here tonight?" — Ayo Dosunmu on the challenge of defending a balanced Grizzlies team** [00:45](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s)
 
-[https://www.youtube.com/watch?v=fS5D4CYmOok&t=111s](https://www.youtube.com/watch?v=fS5D4CYmOok&t=111s)
+**Alan Horton:** "They're a really good team. I don't think fans know some of the names that are putting up these big numbers, but how much did that put pressure on you guys defensively to be so on point here tonight?"
 
-From: [Doug Christie credits Kings’ ‘discipline’ despite Lakers loss \| NBC Sports California](https://www.youtube.com/watch?v=fS5D4CYmOok) · *Sacramento Kings*
+**Ayo Dosunmu:** "In the NBA, it's not all about names. Sometimes they're a good ball club, very well-coached ball club. Those are the most dangerous teams when you necessarily don't know where the majority of the points are coming from. They have a variety of players that are able to contribute, and sometimes that makes it challenging. So yeah, they're a good team."
+
+[https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s)
+
+From: [Ayo Dosunmu Postgame Interview With Alan Horton \| 11.21.26](https://www.youtube.com/watch?v=ntxnsp0oUsA) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=ntxnsp0oUsA&t=45&q=3) · [Send to Slack](presserclips://clip?v=ntxnsp0oUsA&t=45&q=3&slack=1)</small>
+
+---
+
+## Micah Nori Postgame Interview | Portland Trail Blazers 96, New York Knicks 97 | Nov. 21, 2026 — *Portland Trail Blazers*
+
+Source: [https://www.youtube.com/watch?v=6Q6pbv0daLs](https://www.youtube.com/watch?v=6Q6pbv0daLs)
+
+_Speakers identified: Micah Nori_
+
+**1. Micah Nori — "we haven't had self-inflicted wounds, if you will, or mistakes" — Micah Nori on Portland's defensive execution and self-inflicted errors** [00:08](https://www.youtube.com/watch?v=6Q6pbv0daLs&t=8s)
+
+Micah Nori: "We guarded and we didn't have the mental lapses that we've had in the first half. The one thing that we've done a very good job of, especially at the defensive end, is we haven't had self-inflicted wounds, if you will, or mistakes. We had a couple even in the first part of the game that allowed them to see the ball go in, and that led to a 40-point first quarter and a 66-point first half. So the message at halftime was, we don't know if our game plan works because we haven't executed it. And that's the first time that's been the case this year."
+
+[https://www.youtube.com/watch?v=6Q6pbv0daLs&t=8s](https://www.youtube.com/watch?v=6Q6pbv0daLs&t=8s)
+
+<small>[Clip it](presserclips://clip?v=6Q6pbv0daLs&t=8&q=1) · [Send to Slack](presserclips://clip?v=6Q6pbv0daLs&t=8&q=1&slack=1)</small>
+
+**2. Micah Nori — "we've spent a lot of energy the last three games where we just put ourselves in a hole" — Micah Nori on the team's slow starts and energy levels** [00:53](https://www.youtube.com/watch?v=6Q6pbv0daLs&t=53s)
+
+Micah Nori: "We've spent a lot of energy the last three games, the last Minnesota one, the game in Milwaukee, and tonight, where we just put ourselves in a hole and come out kind of flat. It's difficult, especially when you're talking about the world champions. You're down 17 before you blink an eye and then you're down 66 to 43 at the end of the first half. We talked about it at halftime, making them have to take the first timeout, trying to cut this thing in half, and we were able to do that."
+
+[https://www.youtube.com/watch?v=6Q6pbv0daLs&t=53s](https://www.youtube.com/watch?v=6Q6pbv0daLs&t=53s)
+
+<small>[Clip it](presserclips://clip?v=6Q6pbv0daLs&t=53&q=2) · [Send to Slack](presserclips://clip?v=6Q6pbv0daLs&t=53&q=2&slack=1)</small>
+
+**3. Micah Nori — "this is literally the first time that we've come out the gate and had several blown coverages" — Micah Nori on early game turnovers and defensive lapses** [02:12](https://www.youtube.com/watch?v=6Q6pbv0daLs&t=132s)
+
+Micah Nori: "I don't know if, I mean, for some of these guys, I think it's maybe their first time in New York. I don't know because I haven't seen it. This is literally the first time that we've come out the gate and had several blown coverages, if that makes sense. I just don't know if that's where just the concentration is where those mishaps happen. We talked about taking away the three-ball. We know when KAT doesn't play, that their three-ball percentage goes up. We also know the offensive rebounding goes up with Drummond on the floor. We talked about making them shoot tough twos, and then they had 27 threes in the first half and only 20 twos, if you will."
+
+[https://www.youtube.com/watch?v=6Q6pbv0daLs&t=132s](https://www.youtube.com/watch?v=6Q6pbv0daLs&t=132s)
+
+<small>[Clip it](presserclips://clip?v=6Q6pbv0daLs&t=132&q=3) · [Send to Slack](presserclips://clip?v=6Q6pbv0daLs&t=132&q=3&slack=1)</small>
 
 ---
 
@@ -120,6 +158,44 @@ Mitch Johnson: "He's feeling better than he did the night of the Detroit game an
 
 ---
 
+## Jaden McDaniels Postgame Interview After Win Against Memphis Grizzlies | 11.21.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=YtctqZ2gX9M](https://www.youtube.com/watch?v=YtctqZ2gX9M)
+
+_Speakers identified: Unidentified speaker, Jaden McDaniels_
+
+**1. Jaden McDaniels — "just staying aggressive whenever I get the ball, punching gaps and then just trusting my game" — Jaden McDaniels on his aggressive offensive approach against Memphis** [00:00](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=0s)
+
+**Unidentified reporter:** "Jaden, it's a season high for you. You made a concerted effort not just to settle for the outside shot, to really get downhill. What were you able to do to get your way into their defense?"
+
+**Jaden McDaniels:** "Just staying aggressive whenever I get the ball, punching gaps and then just trusting my game, trusting my work."
+
+[https://www.youtube.com/watch?v=YtctqZ2gX9M&t=0s](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=0s)
+
+<small>[Clip it](presserclips://clip?v=YtctqZ2gX9M&t=0&q=1) · [Send to Slack](presserclips://clip?v=YtctqZ2gX9M&t=0&q=1&slack=1)</small>
+
+**2. Jaden McDaniels — "defensively just being physical, picking up full court, disrupting them. I mean, he a good player" — Jaden McDaniels on guarding Ty Jerome and maintaining defensive intensity** [00:17](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s)
+
+**Unidentified speaker:** "This morning when I asked you just about the mentality of playing both ends of the floor and not showing the tiredness, you said, 'It's something that I just have to fight through.' You guarded one of their better offensive players in **Ty Jerome**, especially with the way he's been shooting as of late. What was the mentality? How were you able to get it done on both ends of the floor tonight?"
+
+**Jaden McDaniels:** "Defensively just being physical, picking up full court, disrupting them. I mean, he a good player and then offensively just staying confident when I get the ball and just staying in attack mode."
+
+[https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s)
+
+<small>[Clip it](presserclips://clip?v=YtctqZ2gX9M&t=17&q=2) · [Send to Slack](presserclips://clip?v=YtctqZ2gX9M&t=17&q=2&slack=1)</small>
+
+**3. Jaden McDaniels — "it started with defense. We were getting stops, making the miss and just getting out in transition" — Jaden McDaniels on the Timberwolves' second-quarter defensive turnaround** [00:46](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=46s)
+
+**Unidentified speaker:** "The team's mentality to make that fight in the second quarter to get the lead at halftime was what?"
+
+**Jaden McDaniels:** "It started with defense. We were getting stops, making the miss and just getting out in transition, getting easy buckets and that's what flipped the game for us."
+
+[https://www.youtube.com/watch?v=YtctqZ2gX9M&t=46s](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=46s)
+
+<small>[Clip it](presserclips://clip?v=YtctqZ2gX9M&t=46&q=3) · [Send to Slack](presserclips://clip?v=YtctqZ2gX9M&t=46&q=3&slack=1)</small>
+
+---
+
 ## Doug Christie credits Kings’ ‘discipline’ despite Lakers loss | NBC Sports California — *Sacramento Kings*
 
 Source: [https://www.youtube.com/watch?v=fS5D4CYmOok](https://www.youtube.com/watch?v=fS5D4CYmOok)
@@ -173,3 +249,93 @@ Doug Christie: "That's why it's just trying to pair Domantas up at the start of 
 Doug Christie: "First of all, it would be just getting him healthy. So now that he's healthy, now that he begins to play and he had the four point play the other night, he's not hesitating, he's shooting the basketball. Now we begin to look at, I mean even when I watch him sometimes on film, I could see just as somebody who had foot problems and ankle, the way you land says a lot. It's not about the takeoff, it's about the landing. And if you're favoring, that's telling you something. So all of that little stuff can throw off a person's shot. And for him, that's it's not an excuse, but it's a reality."
 
 [https://www.youtube.com/watch?v=fS5D4CYmOok&t=469s](https://www.youtube.com/watch?v=fS5D4CYmOok&t=469s)
+
+---
+
+## Ayo Dosunmu Postgame Interview With Alan Horton | 11.21.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=ntxnsp0oUsA](https://www.youtube.com/watch?v=ntxnsp0oUsA)
+
+_Speakers identified: Ayo Dosunmu, Alan Horton_
+
+**1. Alan Horton — "How did it feel to get back to winning ways after the Knicks loss the other night?" — Ayo Dosunmu on the Timberwolves' win after the Knicks loss** [00:09](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=9s)
+
+**Unidentified reporter:** "Ayo, congratulations. How did it feel to get back to winning ways after the Knicks loss the other night?"
+
+**Ayo Dosunmu:** "It felt good. It was an important win. We just wanted to play hard, get the win, and that's what we did."
+
+[https://www.youtube.com/watch?v=ntxnsp0oUsA&t=9s](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=9s)
+
+<small>[Clip it](presserclips://clip?v=ntxnsp0oUsA&t=9&q=1) · [Send to Slack](presserclips://clip?v=ntxnsp0oUsA&t=9&q=1&slack=1)</small>
+
+**2. Alan Horton — "What was the key? What turned things around?" — Ayo Dosunmu on defensive adjustments against the Grizzlies** [00:24](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=24s)
+
+**Unidentified reporter:** "I was giving fans the stats here. You guys, they scored 34 points in the first quarter. You guys held them to 28 total in the second and third quarters. What was the key? What turned things around?"
+
+**Ayo Dosunmu:** "Just playing hard, limiting them to one shot, not trying to let them be in a rhythm. When we did that, we were able to get some stops and get out in transition."
+
+[https://www.youtube.com/watch?v=ntxnsp0oUsA&t=24s](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=24s)
+
+<small>[Clip it](presserclips://clip?v=ntxnsp0oUsA&t=24&q=2) · [Send to Slack](presserclips://clip?v=ntxnsp0oUsA&t=24&q=2&slack=1)</small>
+
+**3. Alan Horton — "How much did that put pressure on you guys defensively to be so on point here tonight?" — Ayo Dosunmu on the challenge of defending a balanced Grizzlies team** [00:45](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s)
+
+**Alan Horton:** "They're a really good team. I don't think fans know some of the names that are putting up these big numbers, but how much did that put pressure on you guys defensively to be so on point here tonight?"
+
+**Ayo Dosunmu:** "In the NBA, it's not all about names. Sometimes they're a good ball club, very well-coached ball club. Those are the most dangerous teams when you necessarily don't know where the majority of the points are coming from. They have a variety of players that are able to contribute, and sometimes that makes it challenging. So yeah, they're a good team."
+
+[https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s)
+
+<small>[Clip it](presserclips://clip?v=ntxnsp0oUsA&t=45&q=3) · [Send to Slack](presserclips://clip?v=ntxnsp0oUsA&t=45&q=3&slack=1)</small>
+
+**4. Alan Horton — "It wasn't going outside the arc but boy inside the arc you had it going." — Ayo Dosunmu on his interior scoring performance** [01:19](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=79s)
+
+**Unidentified reporter:** "Ayo, 19 points for you tonight. It wasn't going outside the arc but boy inside the arc you had it going. What was the key inside?"
+
+**Ayo Dosunmu:** "I just wanted to finish around the rim. That's what I work on. You know you can't always make all of your shots on the perimeter, so it was very encouraging to make some shots around the rim, and hopefully next game I can put it all together."
+
+[https://www.youtube.com/watch?v=ntxnsp0oUsA&t=79s](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=79s)
+
+<small>[Clip it](presserclips://clip?v=ntxnsp0oUsA&t=79&q=4) · [Send to Slack](presserclips://clip?v=ntxnsp0oUsA&t=79&q=4&slack=1)</small>
+
+**5. Alan Horton — "Do you feel like the offense kind of got on track a little bit here tonight?" — Ayo Dosunmu on the Timberwolves' offensive ball movement** [01:40](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=100s)
+
+**Unidentified reporter:** "Do you feel like the offense kind of got on track a little bit here tonight? Maybe this is something you can build off of?"
+
+**Ayo Dosunmu:** "Definitely. I think we were able to get the ball moving side to side. Everyone's contributing, and we were able to generate some great shots. I think that was very important for us. So we got to keep going. You know, we watch some film, we know where we can get better at, and we showcased it tonight."
+
+[https://www.youtube.com/watch?v=ntxnsp0oUsA&t=100s](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=100s)
+
+<small>[Clip it](presserclips://clip?v=ntxnsp0oUsA&t=100&q=5) · [Send to Slack](presserclips://clip?v=ntxnsp0oUsA&t=100&q=5&slack=1)</small>
+
+---
+
+## Tuomas Iisalo Press Conference | Grizzlies vs. Timberwolves — *Memphis Grizzlies*
+
+Source: [https://www.youtube.com/watch?v=vG6T4BsYgz8](https://www.youtube.com/watch?v=vG6T4BsYgz8)
+
+_Speakers identified: Tuomas Iisalo_
+
+**1. Tuomas Iisalo — "I thought we had two good quarters and then two very bad quarters from our offensive standpoint." — Tuomas Iisalo on team's inconsistent offensive performance against Minnesota** [00:16](https://www.youtube.com/watch?v=vG6T4BsYgz8&t=16s)
+
+Tuomas Iisalo: "I thought we had two good quarters and then two very bad quarters from our offensive standpoint and a lot of that was triggered by our defense. I thought our activity level when the game started was good. We were able to generate a lot of transition shots. Our conversion percentage wasn't great in the first and second quarters on those. Overall, they post these issues for most of the teams in the league. They do a really good job of guarding on ball and then they have two excellent rim protectors. One, probably the best rim protector of the 21st century and then a young apprentice there, and they do a good job with that."
+
+[https://www.youtube.com/watch?v=vG6T4BsYgz8&t=16s](https://www.youtube.com/watch?v=vG6T4BsYgz8&t=16s)
+
+<small>[Clip it](presserclips://clip?v=vG6T4BsYgz8&t=16&q=1) · [Send to Slack](presserclips://clip?v=vG6T4BsYgz8&t=16&q=1&slack=1)</small>
+
+**2. Tuomas Iisalo — "Today we felt like this gave us the best chance for the win." — Tuomas Iisalo explains the decision to start May-Shack** [01:18](https://www.youtube.com/watch?v=vG6T4BsYgz8&t=78s)
+
+Tuomas Iisalo: "It always depends on who we have available and today we felt like this gave us the best chance for the win. I thought we started very well and he matched up, they are a tough team to match up against with the four dynamic players and Gobert there. So I thought that actually worked out very well for us. I think Shack played 22 minutes, minus two. I can't put too much stock into those plus-minus numbers, but he had good possessions against the ball and that triggered our transition game, a lot of that in the first quarter."
+
+[https://www.youtube.com/watch?v=vG6T4BsYgz8&t=78s](https://www.youtube.com/watch?v=vG6T4BsYgz8&t=78s)
+
+<small>[Clip it](presserclips://clip?v=vG6T4BsYgz8&t=78&q=2) · [Send to Slack](presserclips://clip?v=vG6T4BsYgz8&t=78&q=2&slack=1)</small>
+
+**3. Tuomas Iisalo — "I think Ty did a good job stringing the defenders out laterally in that." — Tuomas Iisalo on Tyrese's return and offensive integration** [02:09](https://www.youtube.com/watch?v=vG6T4BsYgz8&t=129s)
+
+Tuomas Iisalo: "I think Ty did a good job stringing the defenders out laterally in that and **Zack** did a good job getting behind the defense and that's where he's at his most effective. Overall, I think it's very important for us to play against teams of this caliber. Obviously, they have for a reason number one defensive rating in the league and that I always think about as painful as it is during the games, if we're not creating, whether it's that duo or someone else, once you watch the video, it's very revealing what are the next things to work on and that's what we're about, about the improvement game to game and from week to week and month to month."
+
+[https://www.youtube.com/watch?v=vG6T4BsYgz8&t=129s](https://www.youtube.com/watch?v=vG6T4BsYgz8&t=129s)
+
+<small>[Clip it](presserclips://clip?v=vG6T4BsYgz8&t=129&q=3) · [Send to Slack](presserclips://clip?v=vG6T4BsYgz8&t=129&q=3&slack=1)</small>

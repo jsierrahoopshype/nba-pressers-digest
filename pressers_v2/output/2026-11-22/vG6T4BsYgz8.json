@@ -1,0 +1,124 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Timberwolves",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:16",
+      "summary_phrase": "Tuomas Iisalo on team's inconsistent offensive performance against Minnesota",
+      "names_mentioned": [],
+      "excerpt": "I thought we had two good quarters and then two very bad quarters from our offensive standpoint.",
+      "quote": "I thought we had two good quarters and then two very bad quarters from our offensive standpoint and a lot of that was triggered by our defense. I thought our activity level when the game started was good. We were able to generate a lot of transition shots. Our conversion percentage wasn't great in the first and second quarters on those. Overall, they post these issues for most of the teams in the league. They do a really good job of guarding on ball and then they have two excellent rim protectors. One, probably the best rim protector of the 21st century and then a young apprentice there, and they do a good job with that.",
+      "text_blocks": [],
+      "start_seconds": 16,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo on the Timberwolves defense: They have one of the best rim protectors of the 21st century and a young apprentice. He noted that the Grizzlies struggled with offensive consistency against Minnesota tonight.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MEM",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the defensive challenges posed by the Minnesota Timberwolves and their rim protectors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:18",
+      "summary_phrase": "Tuomas Iisalo explains the decision to start May-Shack",
+      "names_mentioned": [
+        "May-Shack"
+      ],
+      "excerpt": "Today we felt like this gave us the best chance for the win.",
+      "quote": "It always depends on who we have available and today we felt like this gave us the best chance for the win. I thought we started very well and he matched up, they are a tough team to match up against with the four dynamic players and Gobert there. So I thought that actually worked out very well for us. I think Shack played 22 minutes, minus two. I can't put too much stock into those plus-minus numbers, but he had good possessions against the ball and that triggered our transition game, a lot of that in the first quarter.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo explains the decision to start May Shack against the Timberwolves: We felt like this gave us the best chance for the win and he had good possessions against the ball that triggered our transition game.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "May-Shack",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MEM",
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo explains the reasoning behind starting May-Shack against the Minnesota Timberwolves.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:09",
+      "summary_phrase": "Tuomas Iisalo on Tyrese's return and offensive integration",
+      "names_mentioned": [
+        "Tyrese",
+        "Edi",
+        "Zack"
+      ],
+      "excerpt": "I think Ty did a good job stringing the defenders out laterally in that.",
+      "quote": "I think Ty did a good job stringing the defenders out laterally in that and Zack did a good job getting behind the defense and that's where he's at his most effective. Overall, I think it's very important for us to play against teams of this caliber. Obviously, they have for a reason number one defensive rating in the league and that I always think about as painful as it is during the games, if we're not creating, whether it's that duo or someone else, once you watch the video, it's very revealing what are the next things to work on and that's what we're about, about the improvement game to game and from week to week and month to month.",
+      "text_blocks": [],
+      "start_seconds": 129,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo on facing the top ranked Timberwolves defense: It is very important for us to play against teams of this caliber. As painful as it is during the games, it is very revealing what are the next things to work on.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese",
+          "Zack"
+        ],
+        "teams": [
+          "MEM",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo evaluates the offensive performance and integration of Tyrese and Zack against the Minnesota defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "vG6T4BsYgz8",
+  "url": "https://www.youtube.com/watch?v=vG6T4BsYgz8",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-22T03:33:19Z",
+  "duration_seconds": 194,
+  "processed_at": "2026-11-22T03:45:14Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}
