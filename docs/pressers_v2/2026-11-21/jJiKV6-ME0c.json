@@ -1,0 +1,176 @@
+{
+  "video_title": "Which players made Kings rookie Darius Acuff Jr. starstruck | NBC Sports California",
+  "speakers_seen": [
+    "Morgan Ragan",
+    "Darius Acuff Jr.",
+    "Deuce Mason"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darius Acuff Jr.",
+      "speakers": [
+        "Morgan Ragan",
+        "Darius Acuff Jr.",
+        "Deuce Mason"
+      ],
+      "timestamp": "00:04",
+      "summary_phrase": "Darius Acuff Jr. on facing Giannis Antetokounmpo, Luka Doncic, and Damian Lillard",
+      "names_mentioned": [
+        "Giannis Antetokounmpo",
+        "Luka Doncic",
+        "Damian Lillard"
+      ],
+      "excerpt": "I understand how he was. He is strong. He is strong. But Giannis for sure, Luka, Luka be doing some stuff that's different.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Morgan Ragan",
+          "text": "Has anyone just blown you away in person, like sharing the floor with them and being like, oh god, this is actually different than what I actually have viewed on film?"
+        },
+        {
+          "speaker": "Darius Acuff Jr.",
+          "text": "Giannis Antetokounmpo. I understand how he was. He is strong. He is strong. But Giannis for sure, Luka, Luka be doing some stuff that's different. Especially this season right now. But if you ask me after the season, I give you more. So yeah, but definitely them two so far. And then, of course, Damian Lillard."
+        },
+        {
+          "speaker": "Deuce Mason",
+          "text": "Yeah. Shot making for sure. His shot making is I mean, it's insane."
+        }
+      ],
+      "start_seconds": 4,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Kings rookie Darius Acuff Jr. says Giannis Antetokounmpo and Luka Doncic have been the toughest players to face so far. He also called Damian Lillard's shot making insane after sharing the floor with him.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo",
+          "Luka Doncic",
+          "Damian Lillard"
+        ],
+        "teams": [
+          "SAC",
+          "MIL",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Darius Acuff Jr. is asked by reporters which NBA players have impressed him the most after sharing the floor with them.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darius Acuff Jr.",
+      "speakers": [
+        "Deuce Mason",
+        "Darius Acuff Jr."
+      ],
+      "timestamp": "00:57",
+      "summary_phrase": "Darius Acuff Jr. on his defensive matchup against Damian Lillard",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "I almost got it with Damian Lillard last night. If he would have hit probably like two more threes on me, he probably would have had it.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Deuce Mason",
+          "text": "It was I almost got it with Damian Lillard last night. If he would have hit probably like two more threes on me, he probably would have had it. But he I think he hit two on me and then I fouled him on two, so it was it didn't look as crazy. But when he hit them two step backs, it was starting to look a little crazy."
+        },
+        {
+          "speaker": "Darius Acuff Jr.",
+          "text": "So if he would have hit like two more, that probably would have been it."
+        }
+      ],
+      "start_seconds": 57,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Darius Acuff Jr. admits he was almost in trouble against Damian Lillard last night. He says when Lillard hit those step backs it was starting to look a little crazy.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "SAC",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Darius Acuff Jr. discusses his experience defending Damian Lillard during their recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darius Acuff Jr.",
+      "speakers": [
+        "Deuce Mason",
+        "Darius Acuff Jr."
+      ],
+      "timestamp": "01:28",
+      "summary_phrase": "Darius Acuff Jr. on learning from Damian Lillard's game",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "He is one of the guys that I watch because I see a lot of similarities in our game, especially as far as scoring as point guards.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Deuce Mason",
+          "text": "When you hear someone like Damian Lillard talk about you like that, the last time he was in town, I have to imagine you grew up watching him. What is going through your mind when one of the legends of the game is kind of giving you some love for how you go about your business?"
+        },
+        {
+          "speaker": "Darius Acuff Jr.",
+          "text": "It is great because that is one of the guys and I am pretty sure he has seen it on social media of how much I talk about him. He is one of the guys that I watch because I see a lot of similarities in our game, especially as far as scoring as point guards and how much gravity we create. So it is definitely great. We seen it last night how great of a player he still is and you know, I am still learning. I am still watching those guys no matter what."
+        }
+      ],
+      "start_seconds": 88,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Darius Acuff Jr. says he models his game after Damian Lillard. The Kings rookie says he sees a lot of similarities in their scoring and the gravity they create as point guards.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "SAC",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Darius Acuff Jr. reacts to receiving praise from Damian Lillard and explains how he models his game after him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "jJiKV6-ME0c",
+  "url": "https://www.youtube.com/watch?v=jJiKV6-ME0c",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-21T20:39:58Z",
+  "duration_seconds": 143,
+  "processed_at": "2026-11-22T00:20:11Z",
+  "run_id": "2026-11-22T0019Z-20utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

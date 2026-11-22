@@ -1,0 +1,176 @@
+{
+  "video_title": "Tyler Herro Postgame Media Availability | 11.21.26",
+  "speakers_seen": [
+    "Tyler Herro"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:05",
+      "summary_phrase": "Tyler Herro on his first career 50-point game",
+      "names_mentioned": [],
+      "excerpt": "Obviously it felt good to get back on track for myself.",
+      "quote": "Obviously it felt good to get back on track for myself. I wish it could have come with a win, but it was a tough, hard-fought game for us on both sides of the ball. They went on a run, we continued to fight. I felt like both units contributed. My teammates found me and we were able to keep the game close and put it in our hands to try to win at the end. We just have to continue to keep fighting.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 5,
+      "social_post": "Tyler Herro on his first career 50 point game: It felt good to get back on track for myself. I wish it could have come with a win, but it was a tough hard fought game for us on both sides of the ball.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro discusses his 50-point performance following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:43",
+      "summary_phrase": "Tyler Herro on Joel Embiid's late-game out-of-bounds play",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "He did step out of bounds, but for the ref it is a tough play.",
+      "quote": "Joel Embiid did step out of bounds, but for the ref it is a tough play because the ball was being taken out on the other side of the court. For him to see that, you have to have a ref on that baseline. It was a tough call, a tough play to see as a ref, so I get that one.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Tyler Herro on the controversial late game no call: Joel Embiid did step out of bounds but it is a tough play for the ref. For him to see that you have to have a ref on that baseline. I get that one.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "MIL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Tyler Herro reacts to a controversial late-game out-of-bounds call involving Joel Embiid.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyler Herro",
+      "timestamp": "01:34",
+      "summary_phrase": "Tyler Herro on the team's offensive flow and playmaking",
+      "names_mentioned": [],
+      "excerpt": "The more I have the ball in my hands the more I am going to continue to make the right play.",
+      "quote": "I had the ball in my hands a little bit more than I have had in the last couple of weeks. The more I have the ball in my hands the more I am going to continue to make the right play. That is what it is all about. Coach has been stressing that for the last month, just continue to make the right play. Points will come, guys will get their shots. You just have to continue to play the right way.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyler Herro on his increased playmaking role: The more I have the ball in my hands the more I am going to continue to make the right play. That is what it is all about.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyler Herro explains his increased ball-handling duties and the coaching staff's emphasis on making the right play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyler Herro",
+      "timestamp": "02:15",
+      "summary_phrase": "Tyler Herro on the team's resilience during a losing streak",
+      "names_mentioned": [],
+      "excerpt": "It is obviously tough to be on a losing streak like this, but the vibes in the locker room, we don't have losers in here.",
+      "quote": "It is obviously tough to be on a losing streak like this, but the vibes in the locker room, we don't have losers in here. Guys are continuing to show up every day with the right mindset, the right attitude, and we are putting ourselves in position to win these games. We are not getting blown out, we are not going out there and not giving effort, not showing what we are capable of. At the beginning we said this was going to be a process. We have a lot of young guys, guys who are stepping into roles they haven't been in before, so it is going to be a process. We have to continue to keep fighting.",
+      "text_blocks": [],
+      "start_seconds": 135,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tyler Herro on the team losing streak: It is obviously tough to be on a losing streak like this but the vibes in the locker room, we do not have losers in here. Guys are continuing to show up every day with the right mindset.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro addresses the team's mindset and resilience during their current losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyler Herro",
+      "timestamp": "03:42",
+      "summary_phrase": "Tyler Herro on the growth of teammate Tyrese Maxey",
+      "names_mentioned": [
+        "Tyrese Maxey"
+      ],
+      "excerpt": "He is obviously a great young player, he is going to be one of the best guards in this league.",
+      "quote": "He is obviously a great young player, he is going to be one of the best guards in this league at some point in his career. He is a hard worker. Like I said, we are rookies, it is up and down. He is continuing to just continue to grow. For him, he just has to continue to show up, keep being aggressive no matter what role he is in. It shows his mental fortitude as well, being a starter for X amount of games and then coach tells him he is coming off the bench and he still comes out and he is able to put up numbers, be aggressive and impact the game in a winning way. The sky is the limit for him, he just has to continue to keep working.",
+      "text_blocks": [],
+      "start_seconds": 222,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Tyler Herro on Tyrese Maxey: He is going to be one of the best guards in this league at some point in his career. It shows his mental fortitude being a starter and then coming off the bench and still being able to impact the game.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyrese Maxey"
+        ],
+        "teams": [
+          "MIL",
+          "PHI"
+        ],
+        "topics": [
+          "teammates",
+          "coaching decisions"
+        ],
+        "context": "Tyler Herro praises Tyrese Maxey for his growth and his ability to contribute effectively after moving to a bench role.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "jdxIMl9WD6A",
+  "url": "https://www.youtube.com/watch?v=jdxIMl9WD6A",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-21T21:51:04Z",
+  "duration_seconds": 344,
+  "processed_at": "2026-11-22T00:20:00Z",
+  "run_id": "2026-11-22T0019Z-20utc",
+  "is_one_off": false
+}

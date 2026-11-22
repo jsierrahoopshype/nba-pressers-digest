@@ -1,0 +1,160 @@
+{
+  "video_title": "Brayden Burries Postgame Media Availability | 11.21.26",
+  "speakers_seen": [
+    "Brayden Burries"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brayden Burries",
+      "timestamp": "00:26",
+      "summary_phrase": "Brayden Burries on the team's energy and his bench role",
+      "names_mentioned": [],
+      "excerpt": "My mindset was just be ready for your opportunity and then come in, bring a lot of energy.",
+      "quote": "They got off to a great start, you know, that a lot of energy. We did a good job. And then also just my mindset was just be ready for your opportunity and then come in, bring a lot of energy, you know, have that spark off the bench, you know, and that's what I was trying to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 26,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brayden Burries on his role off the bench for the Bucks: My mindset was just be ready for your opportunity and then come in, bring a lot of energy, you know, have that spark off the bench.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries discusses his mindset and energy coming off the bench during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brayden Burries",
+      "timestamp": "01:06",
+      "summary_phrase": "Brayden Burries on late-game execution and spacing the floor",
+      "names_mentioned": [
+        "Tyler",
+        "AJ"
+      ],
+      "excerpt": "My mindset was just trying to get downhill and then when they collapsed, just spray out threes.",
+      "quote": "Towards the end of the game, Tyler obviously had it going. AJ had it going. I had it going, getting downhill. So my mindset was just trying to get downhill and then when they collapsed, just spray out threes and then also just continue to, you know, hit Tyler on the threes, especially in transition. They would lose their man and then they'd be so worried about stopping the paint, just throw it out and they were hitting it. So, yeah, just chemistry. We're getting better.",
+      "verbatim_original_language": "",
+      "start_seconds": 66,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brayden Burries on the Bucks late game chemistry: When they collapsed, just spray out threes and then also just continue to hit Tyler on the threes, especially in transition. They would lose their man and then they would be so worried.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyler Smith",
+          "AJ Johnson"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brayden Burries explains the team's offensive execution and floor spacing involving teammates Tyler Smith and AJ Johnson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brayden Burries",
+      "timestamp": "01:41",
+      "summary_phrase": "Brayden Burries on the final play and the missed call",
+      "names_mentioned": [
+        "Joel"
+      ],
+      "excerpt": "It just so happened that we didn't get it off in time, but it was a phenomenal play.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "It was a good play. It was a great play."
+        },
+        {
+          "speaker": "Brayden Burries",
+          "text": "It just so happened that we didn't get it off in time, but it was a phenomenal play. And then, were you able to see where Joel was on that inbound? No, I didn't see him, but I've seen the video. He was out of bounds, but you know, they're humans, they miss calls. It just so happened to be a crucial call, but it's okay."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Brayden Burries"
+      ],
+      "reporter_split": true,
+      "start_seconds": 101,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 8,
+      "social_post": "Brayden Burries on the missed out of bounds call at the end of the game: I have seen the video. He was out of bounds, but you know, they are humans, they miss calls. It just so happened to be a crucial call, but it is okay.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries reacts to a missed officiating call involving Joel Embiid on the final play of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brayden Burries",
+      "timestamp": "02:18",
+      "summary_phrase": "Brayden Burries on his recent career-high performance",
+      "names_mentioned": [],
+      "excerpt": "I say just going out there, playing free and living with the results.",
+      "quote": "I say just going out there, playing free and living with the results. That's my mindset right now. Just how can I continue to do what I'm best at, which is offensively just hitting open shots, creating for others, creating for myself, and then defensively just impacting, you know, off the ball, on the ball and rebounding. Being a great teammate. That's what I've just been focused on and just live with the results. So, I'm trying to get better though every day, every game.",
+      "verbatim_original_language": "",
+      "start_seconds": 138,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brayden Burries on his recent career high performance: I say just going out there, playing free and living with the results. That is my mindset right now.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries reflects on his current mindset and his approach to improving his overall performance on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "-m024_PBBLY",
+  "url": "https://www.youtube.com/watch?v=-m024_PBBLY",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-21T21:30:11Z",
+  "duration_seconds": 193,
+  "processed_at": "2026-11-22T00:19:59Z",
+  "run_id": "2026-11-22T0019Z-20utc",
+  "is_one_off": false
+}

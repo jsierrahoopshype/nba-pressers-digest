@@ -1,0 +1,125 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 11.21.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:35",
+      "summary_phrase": "Taylor Jenkins on team growth and Tyler's career-high performance",
+      "names_mentioned": [
+        "Tyler",
+        "Braden",
+        "Miles"
+      ],
+      "excerpt": "Tyler was phenomenal tonight, career high, Braden career high, but they made impacts in other ways.",
+      "quote": "Great start by our group. They had to go to zone which threw us off. We found some rhythm there at the end of the third. A lot of our guys played for 48 minutes, came up a little bit short, but one of our best games in a while. A lot of growth opportunities. Obviously, Tyler was phenomenal tonight, career high, Braden career high, but they made impacts in other ways, just decision making, playing with force. Miles, despite not having a scoring night, I thought he did a heck of a job defensively for us. There was a lot of contributions up and down the lineup and obviously we went with the guys that were playing well, they put us in a position to win. It was a tough, hard game, wish we could have come out with the win, but overall, just tremendous growth the last couple of games in my opinion.",
+      "text_blocks": [],
+      "start_seconds": 35,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says the team showed tremendous growth tonight despite the loss. He praised Tyler and Braden for their career high performances and noted that the team is finding a better rhythm.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyler",
+          "Braden",
+          "Miles"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's performance and individual player contributions following a close loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:18",
+      "summary_phrase": "Taylor Jenkins on Tyler's poise and decision-making during 50-point game",
+      "names_mentioned": [
+        "Tyler"
+      ],
+      "excerpt": "He was being selective with his shots even though he scored 50, but his teammates did a great job.",
+      "quote": "He played just poised. He took what the defense gave him. He was being selective with his shots even though he scored 50, but his teammates did a great job getting him the ball. He was moving well without the ball. We started playing with a little bit more pace, I think that freed him up a little bit more. We dialed up some execution throughout the game, especially in the fourth quarter, which allowed him to have some big-time buckets. He just took where the space was and had great finishes, great shots. He was competing on defense, was getting offensive rebounds. Overall, this was just a great game by him. I just thought he played with great poise and confidence tonight.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins on the 50 point performance from Tyler tonight: He played with great poise and confidence. He was being selective with his shots and competing on both ends of the floor.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyler"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins reflects on Tyler's 50-point performance and his decision-making throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:10",
+      "summary_phrase": "Taylor Jenkins on chemistry between Tyler and Braden",
+      "names_mentioned": [
+        "Tyler",
+        "Braden"
+      ],
+      "excerpt": "They are finding great synergy, finding great energy. It is great the reps that they have gotten.",
+      "quote": "Those guys have been talking. They are doing a great job. In the middle of the game, you see how they are coming off of actions and they are talking to each other, 'I got you, I am here.' How they are talking in dead-ball situations. I think those guys just are finding great synergy, finding great energy. It is great the reps that they have gotten, whether Braden was starting or coming off the bench. Obviously, Braden had a heck of a night tonight, but they did it unselfishly. They found the moments to both be aggressive and they were both in each other's ear even in the middle of the play, which I think really allowed them to find the playmaking opportunities throughout the game.",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins says Tyler and Braden are developing great synergy on the court. He highlighted how they are constantly communicating with each other during plays and dead ball situations.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyler",
+          "Braden"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins comments on the developing chemistry and communication between Tyler and Braden on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "Y5ut4PRfHx8",
+  "url": "https://www.youtube.com/watch?v=Y5ut4PRfHx8",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-21T21:29:51Z",
+  "duration_seconds": 170,
+  "processed_at": "2026-11-22T00:20:08Z",
+  "run_id": "2026-11-22T0019Z-20utc",
+  "is_one_off": false
+}

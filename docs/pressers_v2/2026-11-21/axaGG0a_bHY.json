@@ -1,0 +1,121 @@
+{
+  "video_title": "Jaime Jaquez Jr. Postgame Media Availability | 11.21.26",
+  "speakers_seen": [
+    "Jaime Jaquez Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "00:09",
+      "summary_phrase": "Jaime Jaquez Jr. discusses the controversial out-of-bounds call",
+      "names_mentioned": [
+        "Joel Embiid",
+        "Tyler Herro"
+      ],
+      "excerpt": "I don't think there was any refs on that side, which is weird.",
+      "quote": "I was on the other side. I forgot who I was guarding, but it looked like Tyler Herro thought, or it seemed like he stepped out of bounds. I didn't even see what happened, but obviously I believe him, so I think he kind of slowed down because he thought they were going to call it. But I don't think there was any refs on that side, which is weird. I don't know where they were supposed to be, but I think that was an important view for them to take a look at.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jaime Jaquez Jr. on the controversial out of bounds call involving Tyler Herro: I did not even see what happened but I believe him. I think he slowed down because he thought they were going to call it.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "MIL",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. discusses a controversial out-of-bounds call involving Tyler Herro during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "01:07",
+      "summary_phrase": "Jaime Jaquez Jr. on the team's improved chemistry and cohesion",
+      "names_mentioned": [
+        "Tyler Herro",
+        "Brandon Boston Jr."
+      ],
+      "excerpt": "We feel like we're close and I think tonight was more evidence of how close we are.",
+      "quote": "We feel like we're close and I think tonight was more evidence of how close we are. We're a second closer than we were maybe last week or two weeks ago. It's great, but at the end of the day we still want to get wins and this was encouraging, at the same time almost deflating at the same time. But I think we're going to take this as a positive and keep moving forward and get ready for Monday.",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaime Jaquez Jr. on the team chemistry after the loss: We feel like we are close and tonight was more evidence of how close we are. It is great but at the end of the day we still want to get wins.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jaime Jaquez Jr. reflects on the team's growing chemistry despite the recent loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaime Jaquez Jr.",
+      "timestamp": "02:04",
+      "summary_phrase": "Jaime Jaquez Jr. praises Tyler Herro's organic 50-point performance",
+      "names_mentioned": [
+        "Tyler Herro"
+      ],
+      "excerpt": "He wasn't out there trying to hunt too much. He was just getting it within the flow.",
+      "quote": "He got it in a very within the offense. He wasn't out there trying to hunt too much. He was just getting it within the flow and the ball finds energy and he had the energy tonight and got it going. He was a great recipient, also just getting downhill in transition and making the right plays. He played an outstanding game today.",
+      "text_blocks": [],
+      "start_seconds": 124,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Jaime Jaquez Jr. on Tyler Herro's 50 point game: He was not out there trying to hunt too much. He was just getting it within the flow and the ball finds energy and he had the energy tonight and got it going.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "MIL",
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaime Jaquez Jr. praises Tyler Herro for his performance and his ability to play within the team's offensive flow.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "axaGG0a_bHY",
+  "url": "https://www.youtube.com/watch?v=axaGG0a_bHY",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-21T21:30:00Z",
+  "duration_seconds": 169,
+  "processed_at": "2026-11-22T00:20:07Z",
+  "run_id": "2026-11-22T0019Z-20utc",
+  "is_one_off": false
+}
