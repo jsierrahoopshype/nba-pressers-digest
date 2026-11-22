@@ -1,0 +1,114 @@
+{
+  "video_title": "Keegan Murray hopes Kings’ first home win brings momentum | NBC Sports California",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Keegan Murray"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Keegan Murray",
+      "speakers": [],
+      "timestamp": "00:15",
+      "summary_phrase": "Keegan Murray on the Kings securing their first home win",
+      "names_mentioned": [],
+      "excerpt": "it was one of those games where it was grimy, no team hit 100 points",
+      "quote": "We have been playing good basketball the last couple of games, and it was just a matter of finishing the game for us. Tonight, it was one of those games where it was grimy, no team hit 100 points, and we were able to finish it out finally.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Keegan Murray says the Kings are finally finding their rhythm after a grimy win at home. He notes it was just a matter of finishing the game for them.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Keegan Murray discusses the Kings securing their first home win of the season after a low-scoring game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Keegan Murray",
+      "speakers": [],
+      "timestamp": "00:44",
+      "summary_phrase": "Keegan Murray on his recovery and finding his rhythm",
+      "names_mentioned": [],
+      "excerpt": "I have been battling injuries all year and this is I finally been able to put together",
+      "quote": "I have been battling injuries all year and this is I finally been able to put together a couple of games. It is just a matter of time. I have not played much five-on-five this last year, so the more games I get under my belt, the better I will be, and I feel good right now.",
+      "verbatim_original_language": "",
+      "start_seconds": 44,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Keegan Murray opens up about his health struggles this season. He says he has been battling injuries all year and is finally starting to feel good as he gets more games under his belt.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Keegan Murray explains his recent recovery from injuries and his process of finding his rhythm on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Keegan Murray",
+      "speakers": [],
+      "timestamp": "01:10",
+      "summary_phrase": "Keegan Murray on maintaining momentum against the Spurs",
+      "names_mentioned": [],
+      "excerpt": "you never know in this league when you win one game you can win a couple more",
+      "quote": "We played San Antonio three times this year. I feel like we are at a good spot defensively. Obviously, they are a really good team, and for us, we just got to try and keep the momentum going. You never know in this league when you win one game you can win a couple more, so we are going to be ready for Monday.",
+      "verbatim_original_language": "",
+      "start_seconds": 70,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Keegan Murray says the Kings are in a good spot defensively as they prepare for another matchup against the Spurs. He is looking to keep the momentum going on Monday.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Keegan Murray looks ahead to the upcoming game against the San Antonio Spurs and the importance of maintaining momentum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "Qx55k11Y-e4",
+  "url": "https://www.youtube.com/watch?v=Qx55k11Y-e4",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-22T07:40:19Z",
+  "duration_seconds": 96,
+  "processed_at": "2026-11-22T08:02:40Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

@@ -1,0 +1,339 @@
+{
+  "video_title": "Doug Christie credits Keegan Murray’s hustle for Kings’ win | NBC Sports California",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Doug Christie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Doug Christie",
+      "speakers": [
+        "Unidentified speaker",
+        "Doug Christie"
+      ],
+      "timestamp": "00:04",
+      "summary_phrase": "Doug Christie on Keegan Murray's impact and resilience",
+      "names_mentioned": [
+        "Keegan Murray",
+        "Zach",
+        "Domantas Sabonis"
+      ],
+      "excerpt": "I looked at him and I was like, you need one? And he was like, no.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Hey Doug. Obviously I asked you about Keegan's shooting earlier tonight before the game. Obviously to see him have that moment there with that basket, being so impactful at the end of the game, Zach and Domantas are talking about some of his defensive stops as well, the rebounds. Could you just speak about maybe how cool that was to see him have that game after what he's been dealing with the last couple years, injuries and everything?"
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "Yeah, absolutely, incredible. There was a moment maybe five minutes in and I looked at him and I was like, you need one? And he was like, no, and it was a no like, I'm going to push through. So, I'm so excited and proud of and for him. Major. Those are the ways that you break through and he just kept fighting and he plays both ends of the court. So, it can be difficult sometimes because you can get tired, legs can get tired, but incredible putback. Crashing was one of our emphasis tonight and for him to go get that putback was huge."
+        }
+      ],
+      "start_seconds": 4,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Doug Christie on Keegan Murray fighting through injuries and fatigue to deliver a clutch performance for the Kings: He told me he did not need a break, he was going to push through. That is how you break through.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keegan Murray"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Kings coach Doug Christie discusses Keegan Murray's resilience and performance following his recent injury struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Doug Christie",
+      "speakers": [
+        "Unidentified speaker",
+        "Doug Christie"
+      ],
+      "timestamp": "01:17",
+      "summary_phrase": "Keegan Murray's team-first mentality and commitment to winning",
+      "names_mentioned": [
+        "Keegan Murray",
+        "De'Aaron Fox"
+      ],
+      "excerpt": "He's a winner and he wants to win. He's a team player.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "With Keegan, there was a point last year where De'Aaron said this is Keegan's team after they signed the contract. Obviously Keegan's not super outspoken, keeps to himself, but how do you think he's dealt with the expectations that have risen given the contract and the injury stuff that he's had to deal with that's maybe prevented him from playing like he would want to?"
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "I don't think Keegan necessarily worries about the contract part of it. I think he's a winner and he wants to win. He's a team player. It doesn't matter for him who gets the accolades and all those things, he's all about winning. So, put me on the best player coach, I'll shoot, I'll run the floor, I'll offensive rebound, I'll take a charge, I'll get the stop. And it's a pleasure to watch him do his business and to see him go through all the things that he's gone through and to come out on the other side of that with some success is a shining moment for him and for us."
+        }
+      ],
+      "start_seconds": 77,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Doug Christie praises Keegan Murray for his team first mentality: He is a winner and he wants to win. It does not matter for him who gets the accolades and all those things, he is all about winning.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keegan Murray",
+          "De'Aaron Fox"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "contracts",
+          "teammates"
+        ],
+        "context": "Doug Christie explains how Keegan Murray handles external expectations and his team-first mentality.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Doug Christie",
+      "speakers": [
+        "Unidentified speaker",
+        "Doug Christie"
+      ],
+      "timestamp": "02:33",
+      "summary_phrase": "Keegan Murray's defensive impact despite plus-minus stats",
+      "names_mentioned": [
+        "Keegan Murray",
+        "Paul George",
+        "Pritchard",
+        "Conley",
+        "Keldon Johnson"
+      ],
+      "excerpt": "He's guarding everybody. And that just, first of all, to have somebody that does that, as a coach, just makes you smile.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Doug, more on Keegan. He was the only starter that was minus in the plus-minus category, but talk to me about how impactful his minus-15 was."
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "Well, sometimes the numbers don't really tell you what it is, right? Because the only one that really matters is the last one. So you put all that away. But I think more than anything, he was in at that time where we lost a little bit of it. So I think that that is what kind of you see here. But the rest of the time, whether it was Paul George, whether it was Pritchard, whether it was Conley, whether it was Keldon Johnson, whoever, I mean, he's guarding everybody. And that just, first of all, to have somebody that does that, as a coach, just makes you smile because you know that he's going to work his butt off and be protected, be responsible out there."
+        }
+      ],
+      "start_seconds": 153,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Doug Christie defends Keegan Murray despite a minus 15 plus minus rating: Sometimes the numbers do not really tell you what it is. He is guarding everybody, and as a coach, it just makes you smile.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keegan Murray"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Doug Christie defends Keegan Murray's defensive impact despite a negative plus-minus rating in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Doug Christie",
+      "speakers": [
+        "Unidentified reporter",
+        "Doug Christie"
+      ],
+      "timestamp": "03:42",
+      "summary_phrase": "Kings' growth and consistency in recent games",
+      "names_mentioned": [],
+      "excerpt": "I thought these last two games were the absolute pinnacle so far of them putting together a consistency.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Doug, after the 0-9 start at home, just how much did you need this to have your message kind of resonate with these players and sort of the payoff for this game?"
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "It's not really about me. I'm more about them and I just want to see them be successful. I see the work that they put in. I watch the studying, we do the film, we do the micro-drills, we bump in practice, we go through the ups and downs. We lose and then get on the plane together and then figure out a way to communicate to them in a way that brings tries to bring out the best in them every time. And to their credit, I thought these last two games were the absolute pinnacle so far of them putting together a consistency in a 48-minute window."
+        }
+      ],
+      "start_seconds": 222,
+      "end_seconds": 276,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie on the Kings finding consistency after a tough home start: I thought these last two games were the absolute pinnacle so far of them putting together a consistency in a 48 minute window.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie reflects on the team's growth and consistency following a difficult start to the home schedule.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Doug Christie",
+      "speakers": [
+        "Unidentified reporter",
+        "Doug Christie"
+      ],
+      "timestamp": "04:56",
+      "summary_phrase": "Darius Garland's development in crunch-time situations",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "It's huge. He's seeing different defenses, he understands the intensity when the screen comes.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How useful are those crunch-time reps for Darius with the ball in his hands?"
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "Oh boy. It's huge. I think like last night, there was a chance to call a timeout there and use my last one, but I just want to make sure like as he and I go through this, there's a trust of what's going on, what to call, what you want, what's working, what's not working. And in those moments we have to continue to build that. But for him, this is just it's huge because he's seeing different defenses, he understands the intensity when the screen comes, whether it's a screen, whether it's a ghost screen, a slip screen, you got to step on the gas."
+        }
+      ],
+      "start_seconds": 296,
+      "end_seconds": 343,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Doug Christie on trusting Darius Garland during crunch time: There was a chance to call a timeout, but I just want to make sure there is a trust of what is going on, what to call, what is working, and what is not working.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "SAC",
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Doug Christie discusses the importance of crunch-time repetitions for player development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Doug Christie",
+      "speakers": [
+        "Unidentified speaker",
+        "Doug Christie"
+      ],
+      "timestamp": "06:04",
+      "summary_phrase": "Kings' bench contribution and team-wide energy",
+      "names_mentioned": [],
+      "excerpt": "It's a team win. It's a team game.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Starters got off to a slow start tonight, but then they have that huge third quarter, four of them play the entire time and then still play a large chunk of the fourth quarter. What'd you see as the difference in the second half and what's it like to be able to rely on those guys so much?"
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "It's a team win. It's a team game. It's a back-to-back. It's our first back-to-back. Some teams have had three or four back-to-backs already, but this is the first time that we're experiencing as this group, even some of the veterans. And I just, the energy wasn't didn't meet their energy right away. It's part of the game. And I thought the guys came in off the bench, they met the energy, brought it back. The second half, we had the conversation at halftime is like, this is what it's about. There's an opportunity out there, let's rise to the occasion."
+        }
+      ],
+      "start_seconds": 364,
+      "end_seconds": 425,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Doug Christie on the Kings overcoming a slow start against a tough opponent: The energy did not meet their energy right away. It is part of the game. The guys came in off the bench, they met the energy, and brought it back.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie explains how the bench unit helped the team overcome a slow start from the starters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Doug Christie",
+      "speakers": [
+        "Unidentified speaker",
+        "Doug Christie"
+      ],
+      "timestamp": "06:58",
+      "summary_phrase": "Key factors in the Kings' recent victory",
+      "names_mentioned": [],
+      "excerpt": "One of them is the crashing, the offensive rebounds, that was huge. And then we got to the free throw line.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "We had plenty of time to dissect the negatives of what lost games, but when you look at the stat sheet tonight, what is something that stands out to you that you say this is why we won?"
+        },
+        {
+          "speaker": "Doug Christie",
+          "text": "One of them is the crashing, the offensive rebounds, that was huge. And then we got to the free throw line. Two two areas that are big. Getting to the free throw line allows you to set your defense, especially against a team like that that executes. I believe they hold the ball in the half court for the longest time of any team in the NBA because they execute at a really high level and they continue to get to next actions and just they're waiting for you to make a mistake. So, to set our defense with going to the line 32 times was huge."
+        }
+      ],
+      "start_seconds": 418,
+      "end_seconds": 474,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Doug Christie identifies the keys to the Kings win: Crashing the offensive boards and getting to the free throw line were huge. Getting to the line 32 times allowed us to set our defense.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie identifies offensive rebounding and free throw attempts as the key factors in the team's victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "M5iLMjxLfkI",
+  "url": "https://www.youtube.com/watch?v=M5iLMjxLfkI",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-22T07:45:56Z",
+  "duration_seconds": 522,
+  "processed_at": "2026-11-22T08:02:40Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

@@ -1,0 +1,137 @@
+{
+  "video_title": "Precious Achiuwa sees Kings’ path forward as brighter after win | NBC Sports California",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Precious Achiuwa"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Precious Achiuwa",
+      "timestamp": "00:07",
+      "summary_phrase": "Precious Achiuwa on the team's defensive strategy against Boston",
+      "names_mentioned": [],
+      "excerpt": "making them take tough shots, tough contested shots",
+      "quote": "Just following the game plan, just making them take tough shots, tough contested shots. We know the type of team that they are, the type of shots that they're looking for. And to the best of our ability, just try to make those shots tough and put them in positions that they're not comfortable. And like you said, I heard you guys, you guys are a little bit, they missed a couple shots, but that's that's making miss league. So just playing defense and playing the right way, sharing the ball, I think that put us in a good position today.",
+      "verbatim_original_language": "",
+      "start_seconds": 7,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Precious Achiuwa on the defensive effort against Boston: We just focused on making them take tough contested shots and putting them in positions they are not comfortable in.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Precious Achiuwa discusses the defensive strategy used to limit the Boston Celtics during a post-game interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Precious Achiuwa",
+      "timestamp": "00:50",
+      "summary_phrase": "Precious Achiuwa on the team's focus during the third quarter",
+      "names_mentioned": [],
+      "excerpt": "when you have a problem, the most important thing is just start figuring ways to solve that problem",
+      "quote": "When you have a problem, the most important thing is just start figuring ways to solve that problem. We're obviously aware of our third quarter lapses. So at halftime, we talked about it, like, hey, we want to go out there, it was a close competitive game, we want to go out there, start the third quarter strong, and just try to build a lead. And that's what we were able to do. They came out, they punched, we punched back, and we just kept fighting.",
+      "verbatim_original_language": "",
+      "start_seconds": 50,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Precious Achiuwa says the team specifically addressed their third quarter lapses at halftime: They came out and punched and we punched back.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Precious Achiuwa explains how the team addressed their recurring third-quarter struggles during halftime.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Precious Achiuwa",
+      "timestamp": "01:28",
+      "summary_phrase": "Precious Achiuwa on maintaining perspective during a long season",
+      "names_mentioned": [],
+      "excerpt": "the most important thing is you get one, you find another one, then you build momentum",
+      "quote": "It's a long season. Seven years for me, I've seen a lot. Sometimes you start off a season really well, sometimes I've been a part of a team that we didn't really start the season off really well. The most important thing is you get one, you find another one, then you build momentum from there. You build on the things that you did well, and kind of try to continue to work on the things that you didn't do so great. I thought today we played really well, we played great defense, shared the ball as a team, and we just that's some of the things that we could build on and continue to rack up some of these wins as we continue to play.",
+      "verbatim_original_language": "",
+      "start_seconds": 88,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Seven years into his career Precious Achiuwa is staying level headed about the long season: The most important thing is you get one you find another one then you build momentum from there.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Precious Achiuwa reflects on the importance of building momentum throughout the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Precious Achiuwa",
+      "timestamp": "02:13",
+      "summary_phrase": "Precious Achiuwa on the team's feeling after the first home win",
+      "names_mentioned": [],
+      "excerpt": "it was amazing to get this one today",
+      "quote": "Amazing. For us, it's been rough, like you said. But just getting one today, we had a close game yesterday, we've had a couple games where we felt like we've been in the games. We've probably only had one game, maybe two games where we were not in the game, but we've had a bunch of them where we've been in the game and we felt like the game could have swung out either way if we just kept playing and just kept trusting what we could do. It was amazing to get this one today, and for the fans, for the city, the fans that come out every game, show their love, show their support, so it was great just to do this for them as well as it is for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 133,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Precious Achiuwa on finally securing a home win: It has been rough but it was amazing to get this one today for the fans and for the city.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Precious Achiuwa shares his reaction to securing the team's first home win of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "aDcz5RotoyE",
+  "url": "https://www.youtube.com/watch?v=aDcz5RotoyE",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-22T07:41:24Z",
+  "duration_seconds": 194,
+  "processed_at": "2026-11-22T08:02:32Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

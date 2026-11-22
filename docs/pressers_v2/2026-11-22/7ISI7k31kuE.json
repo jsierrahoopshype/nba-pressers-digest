@@ -1,0 +1,454 @@
+{
+  "video_title": "Doug Christie, Kings celebrate first home win of NBA season | NBC Sports California",
+  "speakers_seen": [
+    "Keegan Murray",
+    "Precious Achiuwa",
+    "Domantas Sabonis",
+    "Zach LaVine",
+    "Doug Christie"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Keegan Murray",
+      "timestamp": "00:15",
+      "summary_phrase": "Keegan Murray on the Kings' first home win of the season",
+      "names_mentioned": [],
+      "excerpt": "I feel like tonight was one of those games where it was grimy. No team hit 100 points.",
+      "quote": "We have been playing good basketball the last couple games, and it was just a matter of finishing the game for us. I feel like tonight was one of those games where it was grimy. No team hit 100 points and we were able to finish it out finally.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Keegan Murray says the Kings win over the team was a grimy one. It was just a matter of finishing the game for us.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Keegan Murray reflects on the team securing their first home win of the season.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "Qx55k11Y-e4",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Keegan Murray",
+      "timestamp": "00:44",
+      "summary_phrase": "Keegan Murray on battling injuries and finding his rhythm",
+      "names_mentioned": [],
+      "excerpt": "I have been battling injuries all year and I have finally been able to put together a couple games.",
+      "quote": "I have been battling injuries all year and I have finally been able to put together a couple games. It is just a matter of time. I have not played much five-on-five this last year, so the more games I get under my belt, the better I will be and I feel good right now.",
+      "verbatim_original_language": "",
+      "start_seconds": 44,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Keegan Murray says he has been battling injuries all year but feels good now. The more games I get under my belt the better I will be.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Keegan Murray discusses his recovery from injuries and his return to playing rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "Qx55k11Y-e4",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Precious Achiuwa",
+      "timestamp": "01:42",
+      "summary_phrase": "Precious Achiuwa on the team's defensive focus and execution",
+      "names_mentioned": [],
+      "excerpt": "Just following the game plan, making them take tough shots, tough contested shots.",
+      "quote": "Just following the game plan, making them take tough shots, tough contested shots. We want to be the type of team that they are, the type of shots that they are looking for, and to the best of our ability, just try to make those shots tougher and put them in positions that they are not comfortable in.",
+      "verbatim_original_language": "",
+      "start_seconds": 102,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Precious Achiuwa on the defensive game plan. We want to make those shots tougher and put them in positions that they are not comfortable in.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Precious Achiuwa explains the team's defensive strategy during the game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "aDcz5RotoyE",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Precious Achiuwa",
+      "timestamp": "03:03",
+      "summary_phrase": "Precious Achiuwa on maintaining perspective during a long NBA season",
+      "names_mentioned": [],
+      "excerpt": "It is a long season. Sometimes you start off a season really well, sometimes you're a part of a team.",
+      "quote": "It is a long season. Sometimes you start off a season really well, sometimes you're a part of a team that we didn't really start the season off really well. The most important thing is you get one, you find another one, then you build momentum from there. You build in the things that you did well and continue to work on the things that you didn't do so great.",
+      "verbatim_original_language": "",
+      "start_seconds": 183,
+      "end_seconds": 210,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Precious Achiuwa on the long season. The most important thing is you get one, you find another one, then you build momentum from there.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Precious Achiuwa discusses the importance of building momentum throughout the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "aDcz5RotoyE",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Domantas Sabonis",
+      "timestamp": "04:51",
+      "summary_phrase": "Domantas Sabonis on the team's first home win",
+      "names_mentioned": [],
+      "excerpt": "It feels amazing, especially here at home, you know, the fans deserve it.",
+      "quote": "It feels amazing, especially here at home, you know, the fans deserve it. Everyone heard how loud it was, all the kids were smiling, everyone was having a good time, so that means a lot to us.",
+      "verbatim_original_language": "",
+      "start_seconds": 291,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Domantas Sabonis on the first home win. It feels amazing, especially here at home, you know, the fans deserve it.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Domantas Sabonis shares his feelings on the team winning their first home game for the fans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Domantas Sabonis",
+      "timestamp": "05:14",
+      "summary_phrase": "Domantas Sabonis on Keegan Murray's recent performance",
+      "names_mentioned": [
+        "Keegan Murray"
+      ],
+      "excerpt": "I am proud of him. He has had a rough couple months to start the season.",
+      "quote": "I am proud of him. He has had a rough couple months to start the season with all these little injuries and things happening, and he has just stuck to it, professional, working hard, and we all know what Keegan can do, so I am just excited to see him playing the way he knows how to play.",
+      "verbatim_original_language": "",
+      "start_seconds": 314,
+      "end_seconds": 336,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Domantas Sabonis on Keegan Murray. I am proud of him. He has had a rough couple months to start the season with all these little injuries and things happening.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Keegan Murray"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Domantas Sabonis praises Keegan Murray for his resilience while dealing with injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Zach LaVine",
+      "timestamp": "07:32",
+      "summary_phrase": "Zach LaVine on finally closing out a game",
+      "names_mentioned": [],
+      "excerpt": "It feels good to finally finish one on the right side of the score column.",
+      "quote": "It feels good to finally finish one on the right side of the score column. We played a lot of games, we played a lot of games tough, but it feels good to finally finish one on the right side of the score column.",
+      "verbatim_original_language": "",
+      "start_seconds": 452,
+      "end_seconds": 469,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Zach LaVine on the win. It feels good to finally finish one on the right side of the score column.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Zach LaVine comments on the satisfaction of finally winning a close game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Zach LaVine",
+      "timestamp": "07:49",
+      "summary_phrase": "Zach LaVine on Keegan Murray's clutch performance",
+      "names_mentioned": [
+        "Keegan Murray",
+        "DA"
+      ],
+      "excerpt": "Keegan made so many winning plays tonight. DA's shot was huge too.",
+      "quote": "Keegan made so many winning plays tonight. And we went to the bench and I was like, 'Bro, we got to crash regardless, make or miss, we got to crash.' And he did that. I almost came up and gave him a hug because that was the biggest play of the game. And obviously DA's shot was huge too, but we got a lot of defensive stops.",
+      "verbatim_original_language": "",
+      "start_seconds": 469,
+      "end_seconds": 495,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Zach LaVine on Keegan Murray's hustle. I almost came up and gave him a hug because that was the biggest play of the game.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Keegan Murray"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zach LaVine highlights Keegan Murray's clutch plays during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Zach LaVine",
+      "timestamp": "08:17",
+      "summary_phrase": "Zach LaVine on the nature of plus-minus in basketball",
+      "names_mentioned": [
+        "Keegan Murray"
+      ],
+      "excerpt": "Plus-minus in basketball is the biggest odds stat I have seen.",
+      "quote": "Plus-minus in basketball is the biggest odds stat I have seen. There is a lot of players that play on good teams, they don't have good plus-minuses regardless of how they play. Keegan had a hell of a game. He could have been minus-100 and he still made some of the biggest plays to win us the game, so plus-minuses are for people that really don't play basketball.",
+      "verbatim_original_language": "",
+      "start_seconds": 497,
+      "end_seconds": 523,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 9,
+      "social_post": "Zach LaVine is not a fan of plus-minus stats. Plus-minuses are for people that really don't play basketball.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Keegan Murray"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Zach LaVine discusses why he believes plus-minus statistics are not an accurate reflection of player impact.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Zach LaVine",
+      "timestamp": "09:51",
+      "summary_phrase": "Zach LaVine on DeAndre Hunter's consistency",
+      "names_mentioned": [
+        "DeAndre Hunter"
+      ],
+      "excerpt": "I played against DeAndre in the East a lot of my career. That is the guy that I know.",
+      "quote": "I played against DeAndre in the East a lot of my career. That is the guy that I know. I don't think he is leveling up, I just think he is being himself. I think he is finally comfortable, I think he is in a rhythm, and he is getting the opportunity now. Early in the year it was tough, different roles, different identities. Opportunity and confidence is the biggest thing in the NBA, and a guy like him with his resume, you know what he will do when he gets his minutes and his shots.",
+      "verbatim_original_language": "",
+      "start_seconds": 591,
+      "end_seconds": 628,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Zach LaVine on DeAndre Hunter. I don't think he is leveling up, I just think he is being himself. Opportunity and confidence is the biggest thing in the NBA.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "DeAndre Hunter"
+        ],
+        "teams": [
+          "SAC",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Zach LaVine discusses DeAndre Hunter's consistency and current role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Doug Christie",
+      "timestamp": "13:04",
+      "summary_phrase": "Doug Christie on Keegan Murray's resilience",
+      "names_mentioned": [
+        "Keegan Murray"
+      ],
+      "excerpt": "I looked at him and I was like, 'You need one?' And he was like, 'No.'",
+      "quote": "There was a moment maybe five minutes in, and I looked at him and I was like, 'You need one?' And he was like, 'No.' And it was a no like, 'I am going to push through.' So I am so excited and proud of and for him. Those are the ways that you break through, and he just kept fighting and he plays both ends of the court.",
+      "verbatim_original_language": "",
+      "start_seconds": 784,
+      "end_seconds": 811,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Doug Christie on Keegan Murray's toughness. I looked at him and was like, You need one? And he was like, No. He just kept fighting.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keegan Murray"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie praises Keegan Murray for his toughness and willingness to play through fatigue.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "M5iLMjxLfkI",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Doug Christie",
+      "timestamp": "14:18",
+      "summary_phrase": "Doug Christie on Keegan Murray's mindset as a team player",
+      "names_mentioned": [
+        "Keegan Murray"
+      ],
+      "excerpt": "He's a winner and he wants to win. He's a team player.",
+      "quote": "He is a winner and he wants to win. He is a team player. It doesn't matter for him who gets the accolades and all those things, he is all about winning. So, put me on the best player, coach, I will shoot, I will run the floor, I will offensive rebound, I will take a charge, I will get the stop.",
+      "verbatim_original_language": "",
+      "start_seconds": 858,
+      "end_seconds": 882,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Doug Christie on Keegan Murray. He is a winner and he wants to win. It doesn't matter for him who gets the accolades and all those things.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keegan Murray"
+        ],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Doug Christie describes Keegan Murray's mindset as a team-first player.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "M5iLMjxLfkI",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Doug Christie",
+      "timestamp": "16:32",
+      "summary_phrase": "Doug Christie on his relationship with his players",
+      "names_mentioned": [],
+      "excerpt": "It is not really about me, I am more about them, and I just want to see them be successful.",
+      "quote": "It is not really about me, I am more about them, and I just want to see them be successful. I see the work that they put in, I watch the studying, we do the film, we do the micro-drills, we bump in practice, we go through the ups and downs, we lose and then get on the plane together, and then figure out a way to communicate to them in a way that tries to bring out the best in them every time.",
+      "verbatim_original_language": "",
+      "start_seconds": 992,
+      "end_seconds": 1024,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Doug Christie on his coaching philosophy. It is not really about me, I am more about them, and I just want to see them be successful.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Doug Christie discusses his coaching philosophy and his relationship with his players.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "M5iLMjxLfkI",
+        "rank": 4
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "7ISI7k31kuE",
+  "url": "https://www.youtube.com/watch?v=7ISI7k31kuE",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-22T07:50:51Z",
+  "duration_seconds": 1280,
+  "processed_at": "2026-11-22T08:02:45Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

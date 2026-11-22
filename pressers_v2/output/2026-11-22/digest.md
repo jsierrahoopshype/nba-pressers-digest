@@ -2,7 +2,15 @@
 
 # Best of the best
 
-**1. Joe Mazzulla — "I can't, I'm not a doctor." — Joe Mazzulla declines to comment on Derrick White's injury status** [00:36](https://www.youtube.com/watch?v=F8jvlwIG5Is&t=36s)
+**1. Zach LaVine — "Plus-minus in basketball is the biggest odds stat I have seen." — Zach LaVine on the nature of plus-minus in basketball** [08:17](https://www.youtube.com/watch?v=7ISI7k31kuE&t=497s)
+
+Zach LaVine: "Plus-minus in basketball is the biggest odds stat I have seen. There is a lot of players that play on good teams, they don't have good plus-minuses regardless of how they play. Keegan had a hell of a game. He could have been minus-100 and he still made some of the biggest plays to win us the game, so plus-minuses are for people that really don't play basketball."
+
+[https://www.youtube.com/watch?v=7ISI7k31kuE&t=497s](https://www.youtube.com/watch?v=7ISI7k31kuE&t=497s)
+
+From: [Doug Christie, Kings celebrate first home win of NBA season \| NBC Sports California](https://www.youtube.com/watch?v=7ISI7k31kuE) · *Sacramento Kings*
+
+**2. Joe Mazzulla — "I can't, I'm not a doctor." — Joe Mazzulla declines to comment on Derrick White's injury status** [00:36](https://www.youtube.com/watch?v=F8jvlwIG5Is&t=36s)
 
 Joe Mazzulla: "I can't, I'm not a doctor."
 
@@ -10,7 +18,7 @@ Joe Mazzulla: "I can't, I'm not a doctor."
 
 From: [Joe Mazzulla: “I’m Not a Doctor” When Asked About Derrick White’s Shoulder Injury \| Celtics Pregame](https://www.youtube.com/watch?v=F8jvlwIG5Is) · *Boston Celtics*
 
-**2. Mitch Johnson — "he's feeling better than he did the night of the Detroit game and the day after" — Mitch Johnson on Dylan's recovery and return timeline** [06:02](https://www.youtube.com/watch?v=S1H3zPZ0F2I&t=362s)
+**3. Mitch Johnson — "he's feeling better than he did the night of the Detroit game and the day after" — Mitch Johnson on Dylan's recovery and return timeline** [06:02](https://www.youtube.com/watch?v=S1H3zPZ0F2I&t=362s)
 
 Mitch Johnson: "He's feeling better than he did the night of the Detroit game and the day after for sure. It's very, very, very best-case scenario. We are very fortunate in terms of just the way it looked. I really didn't like how it looked, I didn't feel good about it and it was 24 hours where you were just kind of crossing your fingers and hoping for the best, and it was the best. So I think we're just going to have to see what it looks like, but it's positive."
 
@@ -20,7 +28,7 @@ From: [YouTube title: Mitch Johnson on the Importance of Giving Back and Serving
 
 <small>[Clip it](presserclips://clip?v=S1H3zPZ0F2I&t=362&q=4) · [Send to Slack](presserclips://clip?v=S1H3zPZ0F2I&t=362&q=4&slack=1)</small>
 
-**3. Victor Wembanyama — "There's so many steps between playing as a rookie or mini, but 50 points." — Victor Wembanyama on the difficulty of visualizing his own progression** [07:35](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=455s)
+**4. Victor Wembanyama — "There's so many steps between playing as a rookie or mini, but 50 points." — Victor Wembanyama on the difficulty of visualizing his own progression** [07:35](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=455s)
 
 Victor Wembanyama: "There's so many steps between playing as a rookie or mini, but 50 points. There's so many steps between the two that it's hard to visualize that, even if we can imagine it obviously. But what would shock the young Victor is the 29 shots, for example, because in growing up, I almost all the time was the youngest, the rookie, the over-classed, so 29 shots was not imaginable."
 
@@ -30,7 +38,7 @@ From: [Victor Wembanyama on His IMPRESSIVE Double-Double Night](https://www.yout
 
 <small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=455&q=8) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=455&q=8&slack=1)</small>
 
-**4. Mike Conley — "he's got a bright future. Very aggressive, can score at all three levels" — Mike Conley on the future of teammate DeMar DeRozan** [02:35](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=155s)
+**5. Mike Conley — "he's got a bright future. Very aggressive, can score at all three levels" — Mike Conley on the future of teammate DeMar DeRozan** [02:35](https://www.youtube.com/watch?v=m15pKOVBFjQ&t=155s)
 
 Mike Conley: "Man, he's got a bright future. Very aggressive, can score at all three levels. Not afraid of the moment, obviously. He made some big plays down the stretch and allowed the team to kind of keep the edge a little bit. So, bright future for sure."
 
@@ -38,7 +46,7 @@ Mike Conley: "Man, he's got a bright future. Very aggressive, can score at all t
 
 From: [Mike Conley on big game against Kings \| Celtics Postgame Interview](https://www.youtube.com/watch?v=m15pKOVBFjQ) · *Boston Celtics*
 
-**5. Keldon Johnson — "When Vic is rolling like that, what is that like for you guys around him?" — Keldon Johnson on Victor Wembanyama's impressive 50-point performance** [00:15](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=15s)
+**6. Keldon Johnson — "When Vic is rolling like that, what is that like for you guys around him?" — Keldon Johnson on Victor Wembanyama's impressive 50-point performance** [00:15](https://www.youtube.com/watch?v=92lwK1p9Ekw&t=15s)
 
 **Unidentified reporter:** "Vic had 50 tonight, that was impressive, 20 for 29. That's crazy."
 
@@ -50,7 +58,7 @@ From: [Keldon Johnson on Wemby's 50 Points Against the New Orleans Pelicans](htt
 
 <small>[Clip it](presserclips://clip?v=92lwK1p9Ekw&t=15&q=1) · [Send to Slack](presserclips://clip?v=92lwK1p9Ekw&t=15&q=1&slack=1)</small>
 
-**6. Ayo Dosunmu — "I think we have a lot of variety of guys who can not only be the point of attack defender." — Ayo Dosunmu on the Timberwolves' defensive ranking** [08:23](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=503s)
+**7. Ayo Dosunmu — "I think we have a lot of variety of guys who can not only be the point of attack defender." — Ayo Dosunmu on the Timberwolves' defensive ranking** [08:23](https://www.youtube.com/watch?v=KSwkU3z9qJs&t=503s)
 
 **Unidentified reporter:** "Do you feel like you guys are the best defense in the NBA?"
 
@@ -62,7 +70,15 @@ From: [“We're Finding More Trust Within The Group.” \| Chris Finch Postgame 
 
 <small>[Clip it](presserclips://clip?v=KSwkU3z9qJs&t=503&q=6) · [Send to Slack](presserclips://clip?v=KSwkU3z9qJs&t=503&q=6&slack=1)</small>
 
-**7. Jaden McDaniels — "if you don't play defense here you ain't going to play" — Jaden McDaniels on Minnesota's defensive culture** [01:07](https://www.youtube.com/watch?v=ssUB726CNvg&t=67s)
+**8. Keegan Murray — "I have been battling injuries all year and this is I finally been able to put together" — Keegan Murray on his recovery and finding his rhythm** [00:44](https://www.youtube.com/watch?v=Qx55k11Y-e4&t=44s)
+
+Keegan Murray: "I have been battling injuries all year and this is I finally been able to put together a couple of games. It is just a matter of time. I have not played much five-on-five this last year, so the more games I get under my belt, the better I will be, and I feel good right now."
+
+[https://www.youtube.com/watch?v=Qx55k11Y-e4&t=44s](https://www.youtube.com/watch?v=Qx55k11Y-e4&t=44s)
+
+From: [Keegan Murray hopes Kings’ first home win brings momentum \| NBC Sports California](https://www.youtube.com/watch?v=Qx55k11Y-e4) · *Sacramento Kings*
+
+**9. Jaden McDaniels — "if you don't play defense here you ain't going to play" — Jaden McDaniels on Minnesota's defensive culture** [01:07](https://www.youtube.com/watch?v=ssUB726CNvg&t=67s)
 
 Jaden McDaniels: "If you don't play defense here you ain't going to play, so it is simple for real."
 
@@ -72,7 +88,7 @@ From: [“We Pride Ourselves On Defense.” \| Jaden McDaniels Postgame Sound \|
 
 <small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=67&q=3) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=67&q=3&slack=1)</small>
 
-**8. Deni Avdija — "He is a mentor for me as a human being more than a player" — Deni Avdija on his relationship with his father as a mentor** [04:09](https://www.youtube.com/watch?v=6isLbnpi-8k&t=249s)
+**10. Deni Avdija — "He is a mentor for me as a human being more than a player" — Deni Avdija on his relationship with his father as a mentor** [04:09](https://www.youtube.com/watch?v=6isLbnpi-8k&t=249s)
 
 Deni Avdija: "He calls me. We know a lot of times we don't talk about the game in terms of what I need to do or stuff. At this point, he is just being my dad and we have funny sometimes conversations and how things could have gone differently. But you know, he is a mentor for me as a human being more than a player, so he raised me to be a great athlete and a great competitor, and that is the biggest blessing."
 
@@ -82,7 +98,7 @@ From: [Deni Avdija Postgame Interview \| Portland Trail Blazers 96, New York Kni
 
 <small>[Clip it](presserclips://clip?v=6isLbnpi-8k&t=249&q=4) · [Send to Slack](presserclips://clip?v=6isLbnpi-8k&t=249&q=4&slack=1)</small>
 
-**9. LaMelo Ball — "We be harping on him to shoot more, get out of his body a little more and do some more." — LaMelo Ball on Jaden McDaniels' consistency and offensive potential** [01:16](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s)
+**11. LaMelo Ball — "We be harping on him to shoot more, get out of his body a little more and do some more." — LaMelo Ball on Jaden McDaniels' consistency and offensive potential** [01:16](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s)
 
 LaMelo Ball: "For sure, he always just makes the right play. We be harping on him to shoot more, get out of his body a little more and do some more. I mean he already does so much just with the defense and this and that, but like I said, 6'10 can do everything, you kind of want him in the actions and having the ball."
 
@@ -92,7 +108,7 @@ From: [“Tonight I Let The Game Come To Me.” \| LaMelo Ball Postgame Sound \|
 
 <small>[Clip it](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3) · [Send to Slack](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3&slack=1)</small>
 
-**10. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
+**12. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
 
 **Unidentified reporter:** "This is the number one defense in the league that you guys are a part of. Rudy's a big focal point down low, Melo's been great at the point of attack. How much pride do you take in your role on that end of the court?"
 
@@ -104,7 +120,7 @@ From: [Jonathan Kuminga Postgame Interview With Sean Dorcellus \| 11.21.26](http
 
 <small>[Clip it](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2) · [Send to Slack](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2&slack=1)</small>
 
-**11. Jalen Brunson — "when you're continuously working on your game every single day and things may not be falling in your favor" — Jalen Brunson on Mikal Bridges' recent performance and work ethic** [02:57](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s)
+**13. Jalen Brunson — "when you're continuously working on your game every single day and things may not be falling in your favor" — Jalen Brunson on Mikal Bridges' recent performance and work ethic** [02:57](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s)
 
 Jalen Brunson: "That's just who he is. I've said this before, but when you're continuously working on your game every single day and things may not be falling in your favor, but you keep doing the right thing every single day, you keep chipping away, eventually things are going to turn for you. Over the past week or two, things have been turning for him and now he's on a roll."
 
@@ -114,7 +130,7 @@ From: [Mikal Bridges, Jalen Brunson, Landry Shamet Postgame Media \| November 21
 
 <small>[Clip it](presserclips://clip?v=jIFdoG-IgSo&t=177&q=4) · [Send to Slack](presserclips://clip?v=jIFdoG-IgSo&t=177&q=4&slack=1)</small>
 
-**12. Damian Lillard — "I had a full season to focus on my diet and specific ways of training" — Damian Lillard on his weight loss and physical conditioning** [04:13](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s)
+**14. Damian Lillard — "I had a full season to focus on my diet and specific ways of training" — Damian Lillard on his weight loss and physical conditioning** [04:13](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s)
 
 Damian Lillard: "I had a full season to focus on my diet and specific ways of training, coming back off a major injury and being at a later stage of my career. I think it is important to just be light on your joints and tendons and not have as much stress on your body as far as your weight. I think that is part of just being able to remain at a high level playing the game. You can't be heavy. It is easier as you get older to come back heavier and heavier, and I had a year to address that and make sure that I came back feeling good and moving well."
 
@@ -124,7 +140,15 @@ From: [Damian Lillard Postgame Interview \| Portland Trail Blazers 96, New York 
 
 <small>[Clip it](presserclips://clip?v=qWsZ6k_RCSs&t=253&q=5) · [Send to Slack](presserclips://clip?v=qWsZ6k_RCSs&t=253&q=5&slack=1)</small>
 
-**13. Terance Mann — "we got back in the game with some clean turnovers, getting out in transition, getting some open threes" — Terance Mann on the team's late-game turnover issues** [03:30](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s)
+**15. Domantas Sabonis — "I am proud of him. He has had a rough couple months to start the season." — Domantas Sabonis on Keegan Murray's recent performance** [05:14](https://www.youtube.com/watch?v=7ISI7k31kuE&t=314s)
+
+Domantas Sabonis: "I am proud of him. He has had a rough couple months to start the season with all these little injuries and things happening, and he has just stuck to it, professional, working hard, and we all know what Keegan can do, so I am just excited to see him playing the way he knows how to play."
+
+[https://www.youtube.com/watch?v=7ISI7k31kuE&t=314s](https://www.youtube.com/watch?v=7ISI7k31kuE&t=314s)
+
+From: [Doug Christie, Kings celebrate first home win of NBA season \| NBC Sports California](https://www.youtube.com/watch?v=7ISI7k31kuE) · *Sacramento Kings*
+
+**16. Terance Mann — "we got back in the game with some clean turnovers, getting out in transition, getting some open threes" — Terance Mann on the team's late-game turnover issues** [03:30](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=210s)
 
 Terance Mann: "We got back in the game with some clean turnovers, getting out in transition, getting some open threes. In the last three minutes, I think we just folded. Three turnovers in a row, four turnovers in a row. That was a ball game after that."
 
@@ -133,16 +157,6 @@ Terance Mann: "We got back in the game with some clean turnovers, getting out in
 From: [Clippers vs. Mavericks \| Postgame Interviews](https://www.youtube.com/watch?v=_tzHjLrhPnk) · *LA Clippers*
 
 <small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=210&q=6) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=210&q=6&slack=1)</small>
-
-**14. Mikal Bridges — "trying to get Jalen open and create space and how Josh threw it kind of indicated" — Mikal Bridges on the final play designed for Jalen Brunson** [00:08](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=8s)
-
-Mikal Bridges: "Trying to get Jalen open and create space and how Josh threw it kind of indicated that I was going to be open, so just going to make a play."
-
-[https://www.youtube.com/watch?v=jIFdoG-IgSo&t=8s](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=8s)
-
-From: [Mikal Bridges, Jalen Brunson, Landry Shamet Postgame Media \| November 21, 2026](https://www.youtube.com/watch?v=jIFdoG-IgSo) · *New York Knicks*
-
-<small>[Clip it](presserclips://clip?v=jIFdoG-IgSo&t=8&q=1) · [Send to Slack](presserclips://clip?v=jIFdoG-IgSo&t=8&q=1&slack=1)</small>
 
 ---
 
@@ -223,6 +237,50 @@ Deni Avdija: "Defensively, we played one position at a time. We shot good shots 
 [https://www.youtube.com/watch?v=6isLbnpi-8k&t=297s](https://www.youtube.com/watch?v=6isLbnpi-8k&t=297s)
 
 <small>[Clip it](presserclips://clip?v=6isLbnpi-8k&t=297&q=5) · [Send to Slack](presserclips://clip?v=6isLbnpi-8k&t=297&q=5&slack=1)</small>
+
+---
+
+## Doug Christie, Kings celebrate first home win of NBA season | NBC Sports California — *Sacramento Kings*
+
+Source: [https://www.youtube.com/watch?v=7ISI7k31kuE](https://www.youtube.com/watch?v=7ISI7k31kuE)
+
+_Speakers identified: Keegan Murray, Precious Achiuwa, Domantas Sabonis, Zach LaVine, Doug Christie_
+
+**5. Domantas Sabonis — "It feels amazing, especially here at home, you know, the fans deserve it." — Domantas Sabonis on the team's first home win** [04:51](https://www.youtube.com/watch?v=7ISI7k31kuE&t=291s)
+
+Domantas Sabonis: "It feels amazing, especially here at home, you know, the fans deserve it. Everyone heard how loud it was, all the kids were smiling, everyone was having a good time, so that means a lot to us."
+
+[https://www.youtube.com/watch?v=7ISI7k31kuE&t=291s](https://www.youtube.com/watch?v=7ISI7k31kuE&t=291s)
+
+**6. Domantas Sabonis — "I am proud of him. He has had a rough couple months to start the season." — Domantas Sabonis on Keegan Murray's recent performance** [05:14](https://www.youtube.com/watch?v=7ISI7k31kuE&t=314s)
+
+Domantas Sabonis: "I am proud of him. He has had a rough couple months to start the season with all these little injuries and things happening, and he has just stuck to it, professional, working hard, and we all know what Keegan can do, so I am just excited to see him playing the way he knows how to play."
+
+[https://www.youtube.com/watch?v=7ISI7k31kuE&t=314s](https://www.youtube.com/watch?v=7ISI7k31kuE&t=314s)
+
+**7. Zach LaVine — "It feels good to finally finish one on the right side of the score column." — Zach LaVine on finally closing out a game** [07:32](https://www.youtube.com/watch?v=7ISI7k31kuE&t=452s)
+
+Zach LaVine: "It feels good to finally finish one on the right side of the score column. We played a lot of games, we played a lot of games tough, but it feels good to finally finish one on the right side of the score column."
+
+[https://www.youtube.com/watch?v=7ISI7k31kuE&t=452s](https://www.youtube.com/watch?v=7ISI7k31kuE&t=452s)
+
+**8. Zach LaVine — "Keegan made so many winning plays tonight. DA's shot was huge too." — Zach LaVine on Keegan Murray's clutch performance** [07:49](https://www.youtube.com/watch?v=7ISI7k31kuE&t=469s)
+
+Zach LaVine: "Keegan made so many winning plays tonight. And we went to the bench and I was like, 'Bro, we got to crash regardless, make or miss, we got to crash.' And he did that. I almost came up and gave him a hug because that was the biggest play of the game. And obviously **DA**'s shot was huge too, but we got a lot of defensive stops."
+
+[https://www.youtube.com/watch?v=7ISI7k31kuE&t=469s](https://www.youtube.com/watch?v=7ISI7k31kuE&t=469s)
+
+**9. Zach LaVine — "Plus-minus in basketball is the biggest odds stat I have seen." — Zach LaVine on the nature of plus-minus in basketball** [08:17](https://www.youtube.com/watch?v=7ISI7k31kuE&t=497s)
+
+Zach LaVine: "Plus-minus in basketball is the biggest odds stat I have seen. There is a lot of players that play on good teams, they don't have good plus-minuses regardless of how they play. Keegan had a hell of a game. He could have been minus-100 and he still made some of the biggest plays to win us the game, so plus-minuses are for people that really don't play basketball."
+
+[https://www.youtube.com/watch?v=7ISI7k31kuE&t=497s](https://www.youtube.com/watch?v=7ISI7k31kuE&t=497s)
+
+**10. Zach LaVine — "I played against DeAndre in the East a lot of my career. That is the guy that I know." — Zach LaVine on DeAndre Hunter's consistency** [09:51](https://www.youtube.com/watch?v=7ISI7k31kuE&t=591s)
+
+Zach LaVine: "I played against DeAndre in the East a lot of my career. That is the guy that I know. I don't think he is leveling up, I just think he is being himself. I think he is finally comfortable, I think he is in a rhythm, and he is getting the opportunity now. Early in the year it was tough, different roles, different identities. Opportunity and confidence is the biggest thing in the NBA, and a guy like him with his resume, you know what he will do when he gets his minutes and his shots."
+
+[https://www.youtube.com/watch?v=7ISI7k31kuE&t=591s](https://www.youtube.com/watch?v=7ISI7k31kuE&t=591s)
 
 ---
 
@@ -562,6 +620,96 @@ _Speakers identified: Ayo Dosunmu, Unidentified speaker_
 
 ---
 
+## Doug Christie credits Keegan Murray’s hustle for Kings’ win | NBC Sports California — *Sacramento Kings*
+
+Source: [https://www.youtube.com/watch?v=M5iLMjxLfkI](https://www.youtube.com/watch?v=M5iLMjxLfkI)
+
+_Speakers identified: Unidentified speaker, Doug Christie_
+
+**1. Doug Christie — "I looked at him and I was like, you need one? And he was like, no." — Doug Christie on Keegan Murray's impact and resilience** [00:04](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=4s)
+
+**Unidentified speaker:** "Hey Doug. Obviously I asked you about Keegan's shooting earlier tonight before the game. Obviously to see him have that moment there with that basket, being so impactful at the end of the game, **Zach** and Domantas are talking about some of his defensive stops as well, the rebounds. Could you just speak about maybe how cool that was to see him have that game after what he's been dealing with the last couple years, injuries and everything?"
+
+**Doug Christie:** "Yeah, absolutely, incredible. There was a moment maybe five minutes in and I looked at him and I was like, you need one? And he was like, no, and it was a no like, I'm going to push through. So, I'm so excited and proud of and for him. Major. Those are the ways that you break through and he just kept fighting and he plays both ends of the court. So, it can be difficult sometimes because you can get tired, legs can get tired, but incredible putback. Crashing was one of our emphasis tonight and for him to go get that putback was huge."
+
+[https://www.youtube.com/watch?v=M5iLMjxLfkI&t=4s](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=4s)
+
+**2. Doug Christie — "He's a winner and he wants to win. He's a team player." — Keegan Murray's team-first mentality and commitment to winning** [01:17](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=77s)
+
+**Unidentified speaker:** "With Keegan, there was a point last year where De'Aaron said this is Keegan's team after they signed the contract. Obviously Keegan's not super outspoken, keeps to himself, but how do you think he's dealt with the expectations that have risen given the contract and the injury stuff that he's had to deal with that's maybe prevented him from playing like he would want to?"
+
+**Doug Christie:** "I don't think Keegan necessarily worries about the contract part of it. I think he's a winner and he wants to win. He's a team player. It doesn't matter for him who gets the accolades and all those things, he's all about winning. So, put me on the best player coach, I'll shoot, I'll run the floor, I'll offensive rebound, I'll take a charge, I'll get the stop. And it's a pleasure to watch him do his business and to see him go through all the things that he's gone through and to come out on the other side of that with some success is a shining moment for him and for us."
+
+[https://www.youtube.com/watch?v=M5iLMjxLfkI&t=77s](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=77s)
+
+**3. Doug Christie — "He's guarding everybody. And that just, first of all, to have somebody that does that, as a coach, just makes you smile." — Keegan Murray's defensive impact despite plus-minus stats** [02:33](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=153s)
+
+**Unidentified speaker:** "Doug, more on Keegan. He was the only starter that was minus in the plus-minus category, but talk to me about how impactful his minus-15 was."
+
+**Doug Christie:** "Well, sometimes the numbers don't really tell you what it is, right? Because the only one that really matters is the last one. So you put all that away. But I think more than anything, he was in at that time where we lost a little bit of it. So I think that that is what kind of you see here. But the rest of the time, whether it was **Paul George**, whether it was **Pritchard**, whether it was **Conley**, whether it was **Keldon Johnson**, whoever, I mean, he's guarding everybody. And that just, first of all, to have somebody that does that, as a coach, just makes you smile because you know that he's going to work his butt off and be protected, be responsible out there."
+
+[https://www.youtube.com/watch?v=M5iLMjxLfkI&t=153s](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=153s)
+
+**4. Doug Christie — "I thought these last two games were the absolute pinnacle so far of them putting together a consistency." — Kings' growth and consistency in recent games** [03:42](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=222s)
+
+**Unidentified reporter:** "Doug, after the 0-9 start at home, just how much did you need this to have your message kind of resonate with these players and sort of the payoff for this game?"
+
+**Doug Christie:** "It's not really about me. I'm more about them and I just want to see them be successful. I see the work that they put in. I watch the studying, we do the film, we do the micro-drills, we bump in practice, we go through the ups and downs. We lose and then get on the plane together and then figure out a way to communicate to them in a way that brings tries to bring out the best in them every time. And to their credit, I thought these last two games were the absolute pinnacle so far of them putting together a consistency in a 48-minute window."
+
+[https://www.youtube.com/watch?v=M5iLMjxLfkI&t=222s](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=222s)
+
+**5. Doug Christie — "It's huge. He's seeing different defenses, he understands the intensity when the screen comes." — Darius Garland's development in crunch-time situations** [04:56](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=296s)
+
+**Unidentified reporter:** "How useful are those crunch-time reps for Darius with the ball in his hands?"
+
+**Doug Christie:** "Oh boy. It's huge. I think like last night, there was a chance to call a timeout there and use my last one, but I just want to make sure like as he and I go through this, there's a trust of what's going on, what to call, what you want, what's working, what's not working. And in those moments we have to continue to build that. But for him, this is just it's huge because he's seeing different defenses, he understands the intensity when the screen comes, whether it's a screen, whether it's a ghost screen, a slip screen, you got to step on the gas."
+
+[https://www.youtube.com/watch?v=M5iLMjxLfkI&t=296s](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=296s)
+
+**6. Doug Christie — "It's a team win. It's a team game." — Kings' bench contribution and team-wide energy** [06:04](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=364s)
+
+**Unidentified speaker:** "Starters got off to a slow start tonight, but then they have that huge third quarter, four of them play the entire time and then still play a large chunk of the fourth quarter. What'd you see as the difference in the second half and what's it like to be able to rely on those guys so much?"
+
+**Doug Christie:** "It's a team win. It's a team game. It's a back-to-back. It's our first back-to-back. Some teams have had three or four back-to-backs already, but this is the first time that we're experiencing as this group, even some of the veterans. And I just, the energy wasn't didn't meet their energy right away. It's part of the game. And I thought the guys came in off the bench, they met the energy, brought it back. The second half, we had the conversation at halftime is like, this is what it's about. There's an opportunity out there, let's rise to the occasion."
+
+[https://www.youtube.com/watch?v=M5iLMjxLfkI&t=364s](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=364s)
+
+**7. Doug Christie — "One of them is the crashing, the offensive rebounds, that was huge. And then we got to the free throw line." — Key factors in the Kings' recent victory** [06:58](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=418s)
+
+**Unidentified speaker:** "We had plenty of time to dissect the negatives of what lost games, but when you look at the stat sheet tonight, what is something that stands out to you that you say this is why we won?"
+
+**Doug Christie:** "One of them is the crashing, the offensive rebounds, that was huge. And then we got to the free throw line. Two two areas that are big. Getting to the free throw line allows you to set your defense, especially against a team like that that executes. I believe they hold the ball in the half court for the longest time of any team in the NBA because they execute at a really high level and they continue to get to next actions and just they're waiting for you to make a mistake. So, to set our defense with going to the line 32 times was huge."
+
+[https://www.youtube.com/watch?v=M5iLMjxLfkI&t=418s](https://www.youtube.com/watch?v=M5iLMjxLfkI&t=418s)
+
+---
+
+## Keegan Murray hopes Kings’ first home win brings momentum | NBC Sports California — *Sacramento Kings*
+
+Source: [https://www.youtube.com/watch?v=Qx55k11Y-e4](https://www.youtube.com/watch?v=Qx55k11Y-e4)
+
+_Speakers identified: Unidentified speaker, Keegan Murray_
+
+**1. Keegan Murray — "it was one of those games where it was grimy, no team hit 100 points" — Keegan Murray on the Kings securing their first home win** [00:15](https://www.youtube.com/watch?v=Qx55k11Y-e4&t=15s)
+
+Keegan Murray: "We have been playing good basketball the last couple of games, and it was just a matter of finishing the game for us. Tonight, it was one of those games where it was grimy, no team hit 100 points, and we were able to finish it out finally."
+
+[https://www.youtube.com/watch?v=Qx55k11Y-e4&t=15s](https://www.youtube.com/watch?v=Qx55k11Y-e4&t=15s)
+
+**2. Keegan Murray — "I have been battling injuries all year and this is I finally been able to put together" — Keegan Murray on his recovery and finding his rhythm** [00:44](https://www.youtube.com/watch?v=Qx55k11Y-e4&t=44s)
+
+Keegan Murray: "I have been battling injuries all year and this is I finally been able to put together a couple of games. It is just a matter of time. I have not played much five-on-five this last year, so the more games I get under my belt, the better I will be, and I feel good right now."
+
+[https://www.youtube.com/watch?v=Qx55k11Y-e4&t=44s](https://www.youtube.com/watch?v=Qx55k11Y-e4&t=44s)
+
+**3. Keegan Murray — "you never know in this league when you win one game you can win a couple more" — Keegan Murray on maintaining momentum against the Spurs** [01:10](https://www.youtube.com/watch?v=Qx55k11Y-e4&t=70s)
+
+Keegan Murray: "We played San Antonio three times this year. I feel like we are at a good spot defensively. Obviously, they are a really good team, and for us, we just got to try and keep the momentum going. You never know in this league when you win one game you can win a couple more, so we are going to be ready for Monday."
+
+[https://www.youtube.com/watch?v=Qx55k11Y-e4&t=70s](https://www.youtube.com/watch?v=Qx55k11Y-e4&t=70s)
+
+---
+
 ## YouTube title: Mitch Johnson on the Importance of Giving Back and Serving the Community — *San Antonio Spurs*
 
 Source: [https://www.youtube.com/watch?v=S1H3zPZ0F2I](https://www.youtube.com/watch?v=S1H3zPZ0F2I)
@@ -783,6 +931,38 @@ Terance Mann: "Just to compete at a high level, that's all that we can really as
 [https://www.youtube.com/watch?v=_tzHjLrhPnk&t=310s](https://www.youtube.com/watch?v=_tzHjLrhPnk&t=310s)
 
 <small>[Clip it](presserclips://clip?v=_tzHjLrhPnk&t=310&q=10) · [Send to Slack](presserclips://clip?v=_tzHjLrhPnk&t=310&q=10&slack=1)</small>
+
+---
+
+## Precious Achiuwa sees Kings’ path forward as brighter after win | NBC Sports California — *Sacramento Kings*
+
+Source: [https://www.youtube.com/watch?v=aDcz5RotoyE](https://www.youtube.com/watch?v=aDcz5RotoyE)
+
+_Speakers identified: Unidentified speaker, Precious Achiuwa_
+
+**1. Precious Achiuwa — "making them take tough shots, tough contested shots" — Precious Achiuwa on the team's defensive strategy against Boston** [00:07](https://www.youtube.com/watch?v=aDcz5RotoyE&t=7s)
+
+Precious Achiuwa: "Just following the game plan, just making them take tough shots, tough contested shots. We know the type of team that they are, the type of shots that they're looking for. And to the best of our ability, just try to make those shots tough and put them in positions that they're not comfortable. And like you said, I heard you guys, you guys are a little bit, they missed a couple shots, but that's that's making miss league. So just playing defense and playing the right way, sharing the ball, I think that put us in a good position today."
+
+[https://www.youtube.com/watch?v=aDcz5RotoyE&t=7s](https://www.youtube.com/watch?v=aDcz5RotoyE&t=7s)
+
+**2. Precious Achiuwa — "when you have a problem, the most important thing is just start figuring ways to solve that problem" — Precious Achiuwa on the team's focus during the third quarter** [00:50](https://www.youtube.com/watch?v=aDcz5RotoyE&t=50s)
+
+Precious Achiuwa: "When you have a problem, the most important thing is just start figuring ways to solve that problem. We're obviously aware of our third quarter lapses. So at halftime, we talked about it, like, hey, we want to go out there, it was a close competitive game, we want to go out there, start the third quarter strong, and just try to build a lead. And that's what we were able to do. They came out, they punched, we punched back, and we just kept fighting."
+
+[https://www.youtube.com/watch?v=aDcz5RotoyE&t=50s](https://www.youtube.com/watch?v=aDcz5RotoyE&t=50s)
+
+**3. Precious Achiuwa — "the most important thing is you get one, you find another one, then you build momentum" — Precious Achiuwa on maintaining perspective during a long season** [01:28](https://www.youtube.com/watch?v=aDcz5RotoyE&t=88s)
+
+Precious Achiuwa: "It's a long season. Seven years for me, I've seen a lot. Sometimes you start off a season really well, sometimes I've been a part of a team that we didn't really start the season off really well. The most important thing is you get one, you find another one, then you build momentum from there. You build on the things that you did well, and kind of try to continue to work on the things that you didn't do so great. I thought today we played really well, we played great defense, shared the ball as a team, and we just that's some of the things that we could build on and continue to rack up some of these wins as we continue to play."
+
+[https://www.youtube.com/watch?v=aDcz5RotoyE&t=88s](https://www.youtube.com/watch?v=aDcz5RotoyE&t=88s)
+
+**4. Precious Achiuwa — "it was amazing to get this one today" — Precious Achiuwa on the team's feeling after the first home win** [02:13](https://www.youtube.com/watch?v=aDcz5RotoyE&t=133s)
+
+Precious Achiuwa: "Amazing. For us, it's been rough, like you said. But just getting one today, we had a close game yesterday, we've had a couple games where we felt like we've been in the games. We've probably only had one game, maybe two games where we were not in the game, but we've had a bunch of them where we've been in the game and we felt like the game could have swung out either way if we just kept playing and just kept trusting what we could do. It was amazing to get this one today, and for the fans, for the city, the fans that come out every game, show their love, show their support, so it was great just to do this for them as well as it is for us."
+
+[https://www.youtube.com/watch?v=aDcz5RotoyE&t=133s](https://www.youtube.com/watch?v=aDcz5RotoyE&t=133s)
 
 ---
 
