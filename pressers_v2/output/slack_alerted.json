@@ -63,6 +63,12 @@
    "run_id": "2026-11-18-overnight",
    "slot_date": "2026-11-18"
   },
+  "-m024_PBBLY": {
+   "at": "2026-11-22T00:20:14Z",
+   "quote": "they got off to a great start you know that a lot of energy we did a good job and then also just my mindset was just be ready for your opportunity and then come in bring a lot of energy you know have ",
+   "run_id": "2026-11-22T0019Z-20utc",
+   "slot_date": "2026-11-21"
+  },
   "078dZbBBU9s": {
    "at": "2026-11-18T18:12:26Z",
    "quote": "it was a miscommunication i think it s just come down to just listen to your teammates whatever the call is do the call just miscommunication and then i can t help the foul i mean i can but just close",
@@ -1723,6 +1729,12 @@
    "seeded": true,
    "slot_date": "2026-11-12"
   },
+  "Y5ut4PRfHx8": {
+   "at": "2026-11-22T00:20:14Z",
+   "quote": "great start by our group they had to go to zone which threw us off we found some rhythm there at the end of the third a lot of our guys played for 48 minutes came up a little bit short but one of our ",
+   "run_id": "2026-11-22T0019Z-20utc",
+   "slot_date": "2026-11-21"
+  },
   "YAiA1VnZL7o": {
    "at": "2026-11-20T09:28:49Z",
    "quote": "when i got traded from phoenix to new jersey to the nets everybody was i think shocked i was shocked but i was excited because i had the opportunity to go east when you talk about basketball a lot of ",
@@ -1908,6 +1920,12 @@
    "quote": "it s been a huge emphasis coach spo he preaches about every single day and during the game he s always reminding us about taking away those air space threes and getting teams off the line just so that",
    "run_id": "2026-11-17-overnight",
    "slot_date": "2026-11-17"
+  },
+  "axaGG0a_bHY": {
+   "at": "2026-11-22T00:20:14Z",
+   "quote": "i was on the other side i forgot who i was guarding but it looked like tyler herro thought or it seemed like he stepped out of bounds i didn t even see what happened but obviously i believe him so i t",
+   "run_id": "2026-11-22T0019Z-20utc",
+   "slot_date": "2026-11-21"
   },
   "ayD_Q-G3iio": {
    "at": "2026-11-14T15:11:12Z",
@@ -2316,6 +2334,12 @@
    "run_id": "2026-11-19-overnight",
    "slot_date": "2026-11-19"
   },
+  "jJiKV6-ME0c": {
+   "at": "2026-11-22T00:20:14Z",
+   "quote": "has anyone just blown you away in person like sharing the floor with them and being like oh god this is actually different than what i actually have viewed on film giannis antetokounmpo i understand h",
+   "run_id": "2026-11-22T0019Z-20utc",
+   "slot_date": "2026-11-21"
+  },
   "jS8zLxBdzBM": {
    "at": "2026-11-11T21:23:31Z",
    "quote": "jayson tatum to me is a better basketball player in totality i am a huge fan of jaylen brown yes this is no shot at jaylen brown he had a bad game yesterday but at the end of the day the boston celtic",
@@ -2335,6 +2359,12 @@
    "run_id": "2026-11-08T1849Z-14utc",
    "seeded": true,
    "slot_date": "2026-11-08"
+  },
+  "jdxIMl9WD6A": {
+   "at": "2026-11-22T00:20:14Z",
+   "quote": "obviously it felt good to get back on track for myself i wish it could have come with a win but it was a tough hard fought game for us on both sides of the ball they went on a run we continued to figh",
+   "run_id": "2026-11-22T0019Z-20utc",
+   "slot_date": "2026-11-21"
   },
   "jgLPOI4PtjQ": {
    "at": "2026-11-18T18:12:26Z",
@@ -2913,6 +2943,12 @@
    "run_id": "2026-11-16-overnight",
    "slot_date": "2026-11-16"
   },
+  "uRF6mBTNrdI": {
+   "at": "2026-11-22T00:20:14Z",
+   "quote": "we watched the moment from the four minute mark of the third quarter into the fourth quarter where things started to just change possessions the defense a couple breakdowns here some good quality thin",
+   "run_id": "2026-11-22T0019Z-20utc",
+   "slot_date": "2026-11-21"
+  },
   "uUV1pJhUtfw": {
    "at": "2026-11-09T22:40:26Z",
    "quote": "this has short and long term ramifications for the denver nuggets when you watch jokic do you see a diminished player do you think that we may have seen the end of the best years of nikola jokic who i",
@@ -3202,102 +3238,5 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {
-  "-m024_PBBLY": {
-   "channel": "Milwaukee Bucks",
-   "clip_count": 4,
-   "content_type": "presser",
-   "date": "2026-11-21",
-   "is_one_off": false,
-   "queued_at": "2026-11-22T00:20:14Z",
-   "run_id": "2026-11-22T0019Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-21",
-   "speaker": "Brayden Burries",
-   "title": "Brayden Burries Postgame Media Availability | 11.21.26",
-   "top_quote": "They got off to a great start, you know, that a lot of energy. We did a good job. And then also just my mindset was just be ready for your opportunity and then come in, bring a lot of energy, you know, have that spark off the bench, you know, and that's what I was trying to do.",
-   "video_id": "-m024_PBBLY"
-  },
-  "Y5ut4PRfHx8": {
-   "channel": "Milwaukee Bucks",
-   "clip_count": 3,
-   "content_type": "presser",
-   "date": "2026-11-21",
-   "is_one_off": false,
-   "queued_at": "2026-11-22T00:20:14Z",
-   "run_id": "2026-11-22T0019Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-21",
-   "speaker": "Taylor Jenkins",
-   "title": "Taylor Jenkins Postgame Press Conference | 11.21.26",
-   "top_quote": "Great start by our group. They had to go to zone which threw us off. We found some rhythm there at the end of the third. A lot of our guys played for 48 minutes, came up a little bit short, but one of our best games in a while. A lot of growth opportunities. Obviously, Tyler was phenomenal tonight, career high, Braden career high, but they made impacts in other ways, just decision making, playing with force. Miles, despite not having a scoring night, I thought he did a heck of a job defensively for us. There was a lot of contributions up and down the lineup and obviously we went with the guys that were playing well, they put us in a position to win. It was a tough, hard game, wish we could have come out with the win, but overall, just tremendous growth the last couple of games in my opinion.",
-   "video_id": "Y5ut4PRfHx8"
-  },
-  "axaGG0a_bHY": {
-   "channel": "Milwaukee Bucks",
-   "clip_count": 3,
-   "content_type": "presser",
-   "date": "2026-11-21",
-   "is_one_off": false,
-   "queued_at": "2026-11-22T00:20:14Z",
-   "run_id": "2026-11-22T0019Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-21",
-   "speaker": "Jaime Jaquez Jr.",
-   "title": "Jaime Jaquez Jr. Postgame Media Availability | 11.21.26",
-   "top_quote": "I was on the other side. I forgot who I was guarding, but it looked like Tyler Herro thought, or it seemed like he stepped out of bounds. I didn't even see what happened, but obviously I believe him, so I think he kind of slowed down because he thought they were going to call it. But I don't think there was any refs on that side, which is weird. I don't know where they were supposed to be, but I think that was an important view for them to take a look at.",
-   "video_id": "axaGG0a_bHY"
-  },
-  "jJiKV6-ME0c": {
-   "channel": "Sacramento Kings",
-   "clip_count": 3,
-   "content_type": "presser",
-   "date": "2026-11-21",
-   "is_one_off": false,
-   "queued_at": "2026-11-22T00:20:14Z",
-   "run_id": "2026-11-22T0019Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-21",
-   "speaker": "Darius Acuff Jr.",
-   "title": "Which players made Kings rookie Darius Acuff Jr. starstruck | NBC Sports California",
-   "top_quote": "Has anyone just blown you away in person, like sharing the floor with them and being like, oh god, this is actually different than what I actually have viewed on film? Giannis Antetokounmpo. I understand how he was. He is strong. He is strong. But Giannis for sure, Luka, Luka be doing some stuff that's different. Especially this season right now. But if you ask me after the season, I give you more. So yeah, but definitely them two so far. And then, of course, Damian Lillard. Yeah. Shot making for sure. His shot making is I mean, it's insane.",
-   "video_id": "jJiKV6-ME0c"
-  },
-  "jdxIMl9WD6A": {
-   "channel": "Milwaukee Bucks",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-21",
-   "is_one_off": false,
-   "queued_at": "2026-11-22T00:20:14Z",
-   "run_id": "2026-11-22T0019Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-21",
-   "speaker": "Tyler Herro",
-   "title": "Tyler Herro Postgame Media Availability | 11.21.26",
-   "top_quote": "Obviously it felt good to get back on track for myself. I wish it could have come with a win, but it was a tough, hard-fought game for us on both sides of the ball. They went on a run, we continued to fight. I felt like both units contributed. My teammates found me and we were able to keep the game close and put it in our hands to try to win at the end. We just have to continue to keep fighting.",
-   "video_id": "jdxIMl9WD6A"
-  },
-  "uRF6mBTNrdI": {
-   "channel": "New Orleans Pelicans",
-   "clip_count": 4,
-   "content_type": "presser",
-   "date": "2026-11-21",
-   "is_one_off": false,
-   "queued_at": "2026-11-22T00:20:14Z",
-   "run_id": "2026-11-22T0019Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-21",
-   "speaker": "Jamahl Mosley",
-   "title": "LIVE: Pelicans vs. Spurs Pregame w/ Jamahl Mosley 11/21/2026",
-   "top_quote": "We watched the moment from the four-minute mark of the third quarter into the fourth quarter where things started to just change. Possessions, the defense, a couple breakdowns here, some good quality things that we did, but also the small parts of the game that you can't take for granted. We talk about the value of possessions, the intentionality in everything that we do coming down the stretch, the things that got us to lead, being able to sustain it. Hopefully those lessons were taken from what we watched on film and the dialogue that we had was good.",
-   "video_id": "uRF6mBTNrdI"
-  }
- }
+ "pending": {}
 }
