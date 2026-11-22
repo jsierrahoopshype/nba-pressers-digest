@@ -1,0 +1,253 @@
+{
+  "video_title": "Joe Mazzulla: “I’m Not a Doctor” When Asked About Derrick White’s Shoulder Injury | Celtics Pregame",
+  "speakers_seen": [
+    "Joe Mazzulla"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:21",
+      "summary_phrase": "Joe Mazzulla on the value of managing a shorthanded roster",
+      "names_mentioned": [],
+      "excerpt": "games like this I enjoy because it validates the locker room and the roster",
+      "quote": "Games like this I enjoy because it validates the locker room and the roster and guys work hard. They put themselves in position to impact the winning and that's what we expect tonight.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says he enjoys games where the roster is shorthanded because it validates the hard work of the guys in the locker room",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses his appreciation for the effort and preparation of his roster during a shorthanded period.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:36",
+      "summary_phrase": "Joe Mazzulla declines to comment on Derrick White's injury status",
+      "names_mentioned": [
+        "Derrick White"
+      ],
+      "excerpt": "I can't, I'm not a doctor.",
+      "quote": "I can't, I'm not a doctor.",
+      "text_blocks": [],
+      "start_seconds": 36,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 8,
+      "social_post": "When asked about the status of Derrick White's shoulder injury, Joe Mazzulla kept it brief: I am not a doctor",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Derrick White"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Joe Mazzulla responds to a question regarding the status of Derrick White's shoulder injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:59",
+      "summary_phrase": "Joe Mazzulla on Neemias Queta's growth and basketball IQ",
+      "names_mentioned": [
+        "Neemias Queta"
+      ],
+      "excerpt": "he has the ability to just understand the situations that he's in and make the right play",
+      "quote": "One, he's a very smart player, so he has the ability to just understand the situations that he's in and make the right play. Two, I think as guys have been with us for multiple years now, you continue to earn that ownership and earn the opportunity to trust your instincts a lot more and steer away from game plan per se. Just whatever you see out there, you execute. So, just really trust his basketball IQ on both ends of the floor, trust his preparation, have an understanding of each possessions and look to make the right play on both ends.",
+      "text_blocks": [],
+      "start_seconds": 59,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla on Neemias Queta: He is a very smart player who has earned the opportunity to trust his instincts and steer away from the game plan",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Neemias Queta"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joe Mazzulla praises Neemias Queta for his basketball IQ and growth within the team system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "02:17",
+      "summary_phrase": "Joe Mazzulla on Devin Carter's development and role",
+      "names_mentioned": [
+        "Devin Carter"
+      ],
+      "excerpt": "he came in with the right attitude and had an understanding of the role that he wanted to play",
+      "quote": "It's unfortunate a little bit. He obviously got sick there for a little while and missed an amount of time and then he was getting back in shape. But I thought in the beginning, he came in with the right attitude and had an understanding of the role that he wanted to play as just a playmaker on and off the ball and somebody that can impact the game defensively. I thought the Cleveland game in the preseason, he showed a really good example of that. I thought the fourth quarter the other night that he played, he was really working towards just that defensive playmaking and the ball handler.",
+      "text_blocks": [],
+      "start_seconds": 137,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla discusses Devin Carter's development, noting that despite missing time due to illness, he has shown a strong understanding of his role as a playmaker",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Carter"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla evaluates the development and recent performance of rookie Devin Carter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "03:24",
+      "summary_phrase": "Joe Mazzulla on coaching expectations for rookie point guards",
+      "names_mentioned": [],
+      "excerpt": "it was more about just, hey, here's what we're looking for as far as defense",
+      "quote": "It was more about just, hey, here's what we're looking for as far as defense. Looking for this, if you're on the ball, ball pressure. If you're off the ball, be in your shifts, be aware, be a playmaker. Offensively, recognize who's guarding you, how to create a two-on-one, what the spacing is, what the right read is, what the right screen is. So I think just putting him in position to kind of know those things on both ends of the floor.",
+      "text_blocks": [],
+      "start_seconds": 204,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla breaks down the defensive expectations for rookie point guards, emphasizing ball pressure and awareness off the ball",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Carter"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Joe Mazzulla explains the defensive and offensive expectations he sets for rookie point guards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "04:13",
+      "summary_phrase": "Joe Mazzulla on balancing defensive focus against veteran-heavy teams",
+      "names_mentioned": [
+        "Jayson Tatum",
+        "Jaylen Brown",
+        "DeAndre Hunter",
+        "Keegan Murray"
+      ],
+      "excerpt": "you can't just pay attention to him. There are a lot of veteran guys",
+      "quote": "You can't just pay attention to him. There are a lot of veteran guys and guys that could go on 10-0 runs by themselves. You take a look at Jayson Tatum, Jaylen Brown, you take a look at Monk, you take a look at DeAndre Hunter. Keegan Murray has shot the ball well against us and obviously what Sabonis can do. So I think you just kind of balance all that out. At the end of the day, he does have the ball in his hands a lot and you have to be able to take away their two-man game. At the same time, they have a ton of guys that can go on runs by themselves.",
+      "text_blocks": [],
+      "start_seconds": 253,
+      "end_seconds": 298,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla on defending veteran teams: You cannot just pay attention to one guy when there are so many players capable of going on a run by themselves",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum",
+          "Jaylen Brown",
+          "Malik Monk",
+          "De'Andre Hunter",
+          "Keegan Murray",
+          "Domantas Sabonis"
+        ],
+        "teams": [
+          "BOS",
+          "SAC",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses the defensive challenge of facing teams with multiple scoring threats.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "04:57",
+      "summary_phrase": "Joe Mazzulla on maintaining consistency and professionalism in the rotation",
+      "names_mentioned": [],
+      "excerpt": "we just need everybody to come in with the professionalism, the preparation",
+      "quote": "We just need everybody to come in with the professionalism, the preparation that at any point in time they could go to minutes that impact winning. Guys do a great job of staying ready. It's on everybody to be prepared. We don't know what we're going to have to get to, so guys got to be ready. They do a good job of that and we try to stay consistent in that.",
+      "text_blocks": [],
+      "start_seconds": 297,
+      "end_seconds": 317,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla emphasizes the importance of professionalism and preparation for every player on the roster to ensure they are ready to impact winning at any time",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla emphasizes the importance of professionalism and readiness for all players in the rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "F8jvlwIG5Is",
+  "url": "https://www.youtube.com/watch?v=F8jvlwIG5Is",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-22T01:52:47Z",
+  "duration_seconds": 317,
+  "processed_at": "2026-11-22T02:02:41Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

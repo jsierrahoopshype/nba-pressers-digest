@@ -3239,6 +3239,22 @@
   }
  },
  "pending": {
+  "F8jvlwIG5Is": {
+   "channel": "Boston Celtics",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-22",
+   "is_one_off": false,
+   "queued_at": "2026-11-22T02:02:41Z",
+   "run_id": "2026-11-22-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-22",
+   "speaker": "Joe Mazzulla",
+   "title": "Joe Mazzulla: “I’m Not a Doctor” When Asked About Derrick White’s Shoulder Injury | Celtics Pregame",
+   "top_quote": "Games like this I enjoy because it validates the locker room and the roster and guys work hard. They put themselves in position to impact the winning and that's what we expect tonight.",
+   "video_id": "F8jvlwIG5Is"
+  },
   "S1H3zPZ0F2I": {
    "channel": "San Antonio Spurs",
    "clip_count": 4,
