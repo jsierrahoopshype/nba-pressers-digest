@@ -1,0 +1,152 @@
+{
+  "video_title": "Jonathan Kuminga Postgame Interview With Sean Dorcellus | 11.21.26",
+  "speakers_seen": [
+    "Sean Dorcellus",
+    "Jonathan Kuminga"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Unidentified reporter",
+        "Jonathan Kuminga"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Jonathan Kuminga on his aggressive playstyle and offensive development",
+      "names_mentioned": [
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "Once the game come to me, I just got to be aggressive and you know, knowing when to score",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Jonathan, you've looked comfortable on this team since day one. But over the last two, you've taken it to another level, almost 20 points a game on nearly 60% from the field. What's been working so well lately?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "Just letting the game come to me. Once the game come to me, I just got to be aggressive and you know, knowing when to score, when to pass, and just figuring it out."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga on his recent offensive surge: Just letting the game come to me. Once the game comes to me I just have to be aggressive and know when to score and when to pass.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga discusses his recent offensive performance and his approach to playing with aggression.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Unidentified reporter",
+        "Jonathan Kuminga"
+      ],
+      "timestamp": "00:23",
+      "summary_phrase": "Jonathan Kuminga on the Timberwolves' defensive identity and team versatility",
+      "names_mentioned": [
+        "Rudy Gobert",
+        "D'Angelo Russell"
+      ],
+      "excerpt": "I think defense is going to win us a lot of games. We got so many people that could play",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "This is the number one defense in the league that you guys are a part of. Rudy's a big focal point down low, Melo's been great at the point of attack. How much pride do you take in your role on that end of the court?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "I take a lot of pride on defense here. I think defense is going to win us a lot of games. We got so many people that could play on offense. I feel like all of us could go out there and affect the game in many ways, but how can we affect it on defense and get out there and play in open space? So I think we take pride in that as much as we can so we can get out and run."
+        }
+      ],
+      "start_seconds": 23,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga says the Timberwolves take a lot of pride in their defense: I think defense is going to win us a lot of games. We have so many people that can play on offense.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Rudy Gobert",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jonathan Kuminga explains the pride the team takes in their defensive identity and the contributions of his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jonathan Kuminga",
+      "speakers": [
+        "Unidentified reporter",
+        "Jonathan Kuminga"
+      ],
+      "timestamp": "00:55",
+      "summary_phrase": "Jonathan Kuminga on finishing the Timberwolves' eight-game homestand strong",
+      "names_mentioned": [],
+      "excerpt": "We just got to keep securing our home court, keep stacking these wins.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You got one more game in this franchise record eight-game homestand. How do you finish strong here Monday night?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "We just got to keep securing our home court, keep stacking these wins. All matters, the long way. So we just got to secure our home court and go do what we got to do on the road."
+        }
+      ],
+      "start_seconds": 55,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga on closing out the Timberwolves homestand: We just have to keep securing our home court and keep stacking these wins.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga talks about the importance of finishing the team's eight-game homestand with a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "eSVIGkgdYlI",
+  "url": "https://www.youtube.com/watch?v=eSVIGkgdYlI",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-22T04:26:21Z",
+  "duration_seconds": 82,
+  "processed_at": "2026-11-22T04:36:22Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

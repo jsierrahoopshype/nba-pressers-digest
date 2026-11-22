@@ -1,0 +1,185 @@
+{
+  "video_title": "LIVE: Pelicans vs. Spurs Postgame Interviews 11/21/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "speakers": [],
+      "timestamp": "06:19",
+      "summary_phrase": "Jamahl Mosley on the need for better starts and defensive intensity",
+      "names_mentioned": [],
+      "excerpt": "You've got to start the game off hitting first, taking care of the basketball, defending at the highest level.",
+      "quote": "We cannot keep digging these early holes to try to show our resiliency and the fight back. You've got to start the game off hitting first, taking care of the basketball, defending at the highest level early, making it a physical game to start the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 379,
+      "end_seconds": 397,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the team must stop digging early holes and start games with more defensive intensity and better ball security",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's need to improve their defensive intensity and ball security at the start of games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "speakers": [],
+      "timestamp": "06:35",
+      "summary_phrase": "Jamahl Mosley on Victor Wembanyama's 50-point performance",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "Give him credit, 50 and 19. It's hard to guard, different match-ups.",
+      "quote": "Give him credit, 50 and 19. It's hard to guard, different match-ups. We're on off certain guys, try to protect the rim, he's spacing back, knocking down shots. It's a tough guard.",
+      "verbatim_original_language": "",
+      "start_seconds": 395,
+      "end_seconds": 407,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Jamahl Mosley on Victor Wembanyama after his 50 point night: It is a tough guard when you have to protect the rim and he is spacing back and knocking down shots",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "NOP",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reacts to Victor Wembanyama's 50-point and 19-rebound performance against his team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "speakers": [],
+      "timestamp": "07:40",
+      "summary_phrase": "Jamahl Mosley on the importance of ball movement and trust",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "Move it and share it and trust it.",
+      "quote": "Move it and share it and trust it. Tonight was one of those nights because of their switching, because of their length, because of Victor Wembanyama at the rim. When you look down the court and you're going to attack and he's in there, you either got to go through him with force or you've got to spray it.",
+      "verbatim_original_language": "",
+      "start_seconds": 460,
+      "end_seconds": 483,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the challenge of facing Wembanyama: When you attack and he is at the rim you either have to go through him with force or you have to spray it",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "NOP",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains the offensive challenges posed by the Spurs' defense and Victor Wembanyama's rim protection.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "speakers": [],
+      "timestamp": "08:12",
+      "summary_phrase": "Jamahl Mosley on Jeremiah's growth and professional approach",
+      "names_mentioned": [
+        "Jeremiah"
+      ],
+      "excerpt": "He's growing. Sitting and watching film with him, the things that he sees, how he plays the game.",
+      "quote": "He's growing. Sitting and watching film with him, the things that he sees, how he plays the game, how he sees the game, how he's trying to facilitate, getting guys involved, knowing when guys need to get shots. All of those things are his progression. I do like where he is and how he's approaching the game night in and night out from a serious, professional standpoint.",
+      "verbatim_original_language": "",
+      "start_seconds": 492,
+      "end_seconds": 518,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley praises the progression of Jeremiah noting his growth in film study and his serious professional approach to the game",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Robinson-Earl"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley evaluates the recent professional growth and development of Jeremiah Robinson-Earl.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "speakers": [],
+      "timestamp": "08:38",
+      "summary_phrase": "Jamahl Mosley on Jordan Poole's impact off the bench",
+      "names_mentioned": [
+        "Jordan Poole"
+      ],
+      "excerpt": "With bodies down, it's gigantic for us to be able to have somebody to provide a spark.",
+      "quote": "With bodies down, it's gigantic for us to be able to have somebody to provide a spark. And I think that's very important for us to have that. Obviously when certain guys come back, the lineup changes. Having bodies down tonight threw things for a little bit of a wrinkle, but again, that's not an excuse. We've got to find out next man up and we've got to play as hard as we can no matter who we throw on the floor.",
+      "verbatim_original_language": "",
+      "start_seconds": 518,
+      "end_seconds": 550,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on Jordan Poole providing a spark off the bench: It is gigantic for us to have somebody to provide a spark when bodies are down",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jordan Poole"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the importance of Jordan Poole providing a spark off the bench while the team deals with injuries.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "kmpblu0rb-U",
+  "url": "https://www.youtube.com/watch?v=kmpblu0rb-U",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-22T03:58:18Z",
+  "duration_seconds": 592,
+  "processed_at": "2026-11-22T04:36:30Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

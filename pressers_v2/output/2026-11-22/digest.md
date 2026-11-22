@@ -10,7 +10,19 @@ Joe Mazzulla: "I can't, I'm not a doctor."
 
 From: [Joe Mazzulla: “I’m Not a Doctor” When Asked About Derrick White’s Shoulder Injury \| Celtics Pregame](https://www.youtube.com/watch?v=F8jvlwIG5Is) · *Boston Celtics*
 
-**2. Jaden McDaniels — "defensively just being physical, picking up full court, disrupting them. I mean, he a good player" — Jaden McDaniels on guarding Ty Jerome and maintaining defensive intensity** [00:17](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s)
+**2. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
+
+**Unidentified reporter:** "This is the number one defense in the league that you guys are a part of. Rudy's a big focal point down low, Melo's been great at the point of attack. How much pride do you take in your role on that end of the court?"
+
+**Jonathan Kuminga:** "I take a lot of pride on defense here. I think defense is going to win us a lot of games. We got so many people that could play on offense. I feel like all of us could go out there and affect the game in many ways, but how can we affect it on defense and get out there and play in open space? So I think we take pride in that as much as we can so we can get out and run."
+
+[https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
+
+From: [Jonathan Kuminga Postgame Interview With Sean Dorcellus \| 11.21.26](https://www.youtube.com/watch?v=eSVIGkgdYlI) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2) · [Send to Slack](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2&slack=1)</small>
+
+**3. Jaden McDaniels — "defensively just being physical, picking up full court, disrupting them. I mean, he a good player" — Jaden McDaniels on guarding Ty Jerome and maintaining defensive intensity** [00:17](https://www.youtube.com/watch?v=YtctqZ2gX9M&t=17s)
 
 **Unidentified speaker:** "This morning when I asked you just about the mentality of playing both ends of the floor and not showing the tiredness, you said, 'It's something that I just have to fight through.' You guarded one of their better offensive players in **Ty Jerome**, especially with the way he's been shooting as of late. What was the mentality? How were you able to get it done on both ends of the floor tonight?"
 
@@ -22,7 +34,7 @@ From: [Jaden McDaniels Postgame Interview After Win Against Memphis Grizzlies \|
 
 <small>[Clip it](presserclips://clip?v=YtctqZ2gX9M&t=17&q=2) · [Send to Slack](presserclips://clip?v=YtctqZ2gX9M&t=17&q=2&slack=1)</small>
 
-**3. Alan Horton — "How much did that put pressure on you guys defensively to be so on point here tonight?" — Ayo Dosunmu on the challenge of defending a balanced Grizzlies team** [00:45](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s)
+**4. Alan Horton — "How much did that put pressure on you guys defensively to be so on point here tonight?" — Ayo Dosunmu on the challenge of defending a balanced Grizzlies team** [00:45](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s)
 
 **Alan Horton:** "They're a really good team. I don't think fans know some of the names that are putting up these big numbers, but how much did that put pressure on you guys defensively to be so on point here tonight?"
 
@@ -196,6 +208,44 @@ _Speakers identified: Unidentified speaker, Jaden McDaniels_
 
 ---
 
+## Jonathan Kuminga Postgame Interview With Sean Dorcellus | 11.21.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=eSVIGkgdYlI](https://www.youtube.com/watch?v=eSVIGkgdYlI)
+
+_Speakers identified: Sean Dorcellus, Jonathan Kuminga_
+
+**1. Jonathan Kuminga — "Once the game come to me, I just got to be aggressive and you know, knowing when to score" — Jonathan Kuminga on his aggressive playstyle and offensive development** [00:00](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=0s)
+
+**Unidentified reporter:** "Jonathan, you've looked comfortable on this team since day one. But over the last two, you've taken it to another level, almost 20 points a game on nearly 60% from the field. What's been working so well lately?"
+
+**Jonathan Kuminga:** "Just letting the game come to me. Once the game come to me, I just got to be aggressive and you know, knowing when to score, when to pass, and just figuring it out."
+
+[https://www.youtube.com/watch?v=eSVIGkgdYlI&t=0s](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=0s)
+
+<small>[Clip it](presserclips://clip?v=eSVIGkgdYlI&t=0&q=1) · [Send to Slack](presserclips://clip?v=eSVIGkgdYlI&t=0&q=1&slack=1)</small>
+
+**2. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
+
+**Unidentified reporter:** "This is the number one defense in the league that you guys are a part of. Rudy's a big focal point down low, Melo's been great at the point of attack. How much pride do you take in your role on that end of the court?"
+
+**Jonathan Kuminga:** "I take a lot of pride on defense here. I think defense is going to win us a lot of games. We got so many people that could play on offense. I feel like all of us could go out there and affect the game in many ways, but how can we affect it on defense and get out there and play in open space? So I think we take pride in that as much as we can so we can get out and run."
+
+[https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
+
+<small>[Clip it](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2) · [Send to Slack](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2&slack=1)</small>
+
+**3. Jonathan Kuminga — "We just got to keep securing our home court, keep stacking these wins." — Jonathan Kuminga on finishing the Timberwolves' eight-game homestand strong** [00:55](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=55s)
+
+**Unidentified reporter:** "You got one more game in this franchise record eight-game homestand. How do you finish strong here Monday night?"
+
+**Jonathan Kuminga:** "We just got to keep securing our home court, keep stacking these wins. All matters, the long way. So we just got to secure our home court and go do what we got to do on the road."
+
+[https://www.youtube.com/watch?v=eSVIGkgdYlI&t=55s](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=55s)
+
+<small>[Clip it](presserclips://clip?v=eSVIGkgdYlI&t=55&q=3) · [Send to Slack](presserclips://clip?v=eSVIGkgdYlI&t=55&q=3&slack=1)</small>
+
+---
+
 ## Doug Christie credits Kings’ ‘discipline’ despite Lakers loss | NBC Sports California — *Sacramento Kings*
 
 Source: [https://www.youtube.com/watch?v=fS5D4CYmOok](https://www.youtube.com/watch?v=fS5D4CYmOok)
@@ -249,6 +299,54 @@ Doug Christie: "That's why it's just trying to pair Domantas up at the start of 
 Doug Christie: "First of all, it would be just getting him healthy. So now that he's healthy, now that he begins to play and he had the four point play the other night, he's not hesitating, he's shooting the basketball. Now we begin to look at, I mean even when I watch him sometimes on film, I could see just as somebody who had foot problems and ankle, the way you land says a lot. It's not about the takeoff, it's about the landing. And if you're favoring, that's telling you something. So all of that little stuff can throw off a person's shot. And for him, that's it's not an excuse, but it's a reality."
 
 [https://www.youtube.com/watch?v=fS5D4CYmOok&t=469s](https://www.youtube.com/watch?v=fS5D4CYmOok&t=469s)
+
+---
+
+## LIVE: Pelicans vs. Spurs Postgame Interviews 11/21/2026 — *New Orleans Pelicans*
+
+Source: [https://www.youtube.com/watch?v=kmpblu0rb-U](https://www.youtube.com/watch?v=kmpblu0rb-U)
+
+_Speakers identified: Jamahl Mosley_
+
+**1. Jamahl Mosley — "You've got to start the game off hitting first, taking care of the basketball, defending at the highest level." — Jamahl Mosley on the need for better starts and defensive intensity** [06:19](https://www.youtube.com/watch?v=kmpblu0rb-U&t=379s)
+
+Jamahl Mosley: "We cannot keep digging these early holes to try to show our resiliency and the fight back. You've got to start the game off hitting first, taking care of the basketball, defending at the highest level early, making it a physical game to start the game."
+
+[https://www.youtube.com/watch?v=kmpblu0rb-U&t=379s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=379s)
+
+<small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=379&q=1) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=379&q=1&slack=1)</small>
+
+**2. Jamahl Mosley — "Give him credit, 50 and 19. It's hard to guard, different match-ups." — Jamahl Mosley on Victor Wembanyama's 50-point performance** [06:35](https://www.youtube.com/watch?v=kmpblu0rb-U&t=395s)
+
+Jamahl Mosley: "Give him credit, 50 and 19. It's hard to guard, different match-ups. We're on off certain guys, try to protect the rim, he's spacing back, knocking down shots. It's a tough guard."
+
+[https://www.youtube.com/watch?v=kmpblu0rb-U&t=395s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=395s)
+
+<small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=395&q=2) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=395&q=2&slack=1)</small>
+
+**3. Jamahl Mosley — "Move it and share it and trust it." — Jamahl Mosley on the importance of ball movement and trust** [07:40](https://www.youtube.com/watch?v=kmpblu0rb-U&t=460s)
+
+Jamahl Mosley: "Move it and share it and trust it. Tonight was one of those nights because of their switching, because of their length, because of **Victor Wembanyama** at the rim. When you look down the court and you're going to attack and he's in there, you either got to go through him with force or you've got to spray it."
+
+[https://www.youtube.com/watch?v=kmpblu0rb-U&t=460s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=460s)
+
+<small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=460&q=3) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=460&q=3&slack=1)</small>
+
+**4. Jamahl Mosley — "He's growing. Sitting and watching film with him, the things that he sees, how he plays the game." — Jamahl Mosley on Jeremiah's growth and professional approach** [08:12](https://www.youtube.com/watch?v=kmpblu0rb-U&t=492s)
+
+Jamahl Mosley: "He's growing. Sitting and watching film with him, the things that he sees, how he plays the game, how he sees the game, how he's trying to facilitate, getting guys involved, knowing when guys need to get shots. All of those things are his progression. I do like where he is and how he's approaching the game night in and night out from a serious, professional standpoint."
+
+[https://www.youtube.com/watch?v=kmpblu0rb-U&t=492s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=492s)
+
+<small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=492&q=4) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=492&q=4&slack=1)</small>
+
+**5. Jamahl Mosley — "With bodies down, it's gigantic for us to be able to have somebody to provide a spark." — Jamahl Mosley on Jordan Poole's impact off the bench** [08:38](https://www.youtube.com/watch?v=kmpblu0rb-U&t=518s)
+
+Jamahl Mosley: "With bodies down, it's gigantic for us to be able to have somebody to provide a spark. And I think that's very important for us to have that. Obviously when certain guys come back, the lineup changes. Having bodies down tonight threw things for a little bit of a wrinkle, but again, that's not an excuse. We've got to find out next man up and we've got to play as hard as we can no matter who we throw on the floor."
+
+[https://www.youtube.com/watch?v=kmpblu0rb-U&t=518s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=518s)
+
+<small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=518&q=5) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=518&q=5&slack=1)</small>
 
 ---
 
