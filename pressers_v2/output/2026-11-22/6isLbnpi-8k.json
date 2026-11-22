@@ -1,0 +1,164 @@
+{
+  "video_title": "Deni Avdija Postgame Interview | Portland Trail Blazers 96, New York Knicks 97 | Nov. 21, 2026",
+  "speakers_seen": [
+    "Deni Avdija",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Deni Avdija",
+      "timestamp": "00:35",
+      "summary_phrase": "Deni Avdija on the team's need to start games with more intensity",
+      "names_mentioned": [],
+      "excerpt": "we understand that we need to start playing a little bit more aggressive in the beginning",
+      "quote": "I think it is part of the game. I really hate to lose and I feel it got to us, especially after we fought and were in the mix the whole game. But sometimes you lose like this, and it hurts, and sometimes you win like this. I think that we as a group understand that we need to start playing a little bit more aggressive in the beginning, but overall we showed character and got back into the game.",
+      "verbatim_original_language": "אני חושב שזה חלק מהמשחק. אני לא כזה, עוד פעם אני ממש לא אוהב להפסיד ואני מרגיש שזה הגיע לנו, במיוחד אחרי שנלחמנו והיינו בפיגור כל המשחק. אבל יש פעמים שאתה מפסיד ככה, וזה כואב, ויש פעמים שאתה גם מנצח ככה. אני חושב שאנחנו כקבוצה מבינים שאנחנו צריכים להתחיל לשחק קצת יותר חזק בהתחלה, אבל סך הכל הראינו אופי, חזרנו למשחק.",
+      "start_seconds": 35,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Deni Avdija says the Blazers need to start games with more intensity after a tough loss to the Knicks. He noted that while the team showed character to get back into the game, they have to be more aggressive from the beginning.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Deni Avdija discusses the team's performance and the need for greater intensity following a narrow loss to the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Deni Avdija",
+      "timestamp": "01:30",
+      "summary_phrase": "Deni Avdija on his personal growth and commitment to team success",
+      "names_mentioned": [],
+      "excerpt": "I am in a different place now. I feel my confidence is there, I feel my maturity is there",
+      "quote": "I think that I enjoy it more. I think that all the things that I will learn in the continuation of the career, it is already near the end, but I just enjoy. I enjoy playing, I am a team player, I enjoy that my group is succeeding. I will do everything so the group will win and what they need from me, I will do. I feel that I am in a different place now. I feel my confidence is there, I feel my maturity is there. I always want to improve, I always want to be a better player, and I believe that the way is still long.",
+      "verbatim_original_language": "אני חושב שאני יותר נהנה. אני חושב שכל הדברים שאני אקל בהמשך הקריירה זה כבר יהיה לקראת הסוף, אבל אני פשוט נהנה. אני נהנה לשחק, אני שחקן קבוצתי, אני נהנה שהקבוצה שלי מצליחה. אני בסוף יעשה הכל בשביל שהקבוצה תנצח ומה שהם צריכים ממני אני אעשה. אני מרגיש שאני במקום אחר עכשיו. מרגיש שהביטחון שלי שם, אני מרגיש הבגרות שלי שם. אני כל הזמן רוצה להשתפר, אני כל הזמן רוצה להיות שחקן יותר טוב ואני מאמין שהדרך עוד ארוכה.",
+      "start_seconds": 90,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Deni Avdija on his growth with the Blazers: I feel that I am in a different place now. I feel my confidence is there, I feel my maturity is there. I am a team player and I will do everything so the group will win.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija reflects on his personal growth, confidence, and commitment to contributing to the team's success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Deni Avdija",
+      "timestamp": "02:54",
+      "summary_phrase": "Deni Avdija on the team's competitiveness and growth after playoff experience",
+      "names_mentioned": [],
+      "excerpt": "I am very competitive and I feel that there are big playmakers that I enjoy",
+      "quote": "It was my first playoff and I learned a lot from it, but I feel that overall, I am very competitive and I feel that there are big playmakers that I enjoy and I am playing well. I feel that overall I handled myself well with the defense of San Antonio, but it was a match-up that was not simple relative to a first playoff game. But definitely, I have here great guys, a good group that believes that it is capable, and every year it is a new challenge.",
+      "verbatim_original_language": "זה כן היה הפלייאוף הראשון שלי וכן למדתי המון ממנו, אבל אני מרגיש שסך הכל כאילו אני מאוד תחרותי ואני מרגיש שיש את הזריקות הגדולות, אני נהנה ואני משחק טוב. אני מרגיש שסך הכל התמודדתי יפה עם ההגנה של סן אנטוניו, אבל תשמע זה היה מאצ'אפ לא פשוט יחסית למשחק פלייאוף ראשון. אבל בהחלט יש לי פה אחלה חבר'ה, קבוצה טובה שמאמינה שניתן לנחמת, וכן כל שנה זה אתגר חדש.",
+      "start_seconds": 174,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Reflecting on his first playoff experience, Deni Avdija says he learned a lot from the San Antonio series and believes the current Blazers group is capable of handling new challenges.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Deni Avdija discusses his past playoff experience and the competitive nature of his current group.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Deni Avdija",
+      "timestamp": "04:09",
+      "summary_phrase": "Deni Avdija on his relationship with his father as a mentor",
+      "names_mentioned": [],
+      "excerpt": "He is a mentor for me as a human being more than a player",
+      "quote": "He calls me. We know a lot of times we don't talk about the game in terms of what I need to do or stuff. At this point, he is just being my dad and we have funny sometimes conversations and how things could have gone differently. But you know, he is a mentor for me as a human being more than a player, so he raised me to be a great athlete and a great competitor, and that is the biggest blessing.",
+      "verbatim_original_language": "",
+      "start_seconds": 249,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 6,
+      "social_post": "Deni Avdija on his father: He is a mentor for me as a human being more than a player. He raised me to be a great athlete and a great competitor, and that is the biggest blessing.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija describes his relationship with his father and the role he plays as a mentor in his life.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Deni Avdija",
+      "timestamp": "04:57",
+      "summary_phrase": "Deni Avdija on the team's defensive focus and late-game execution",
+      "names_mentioned": [],
+      "excerpt": "I feel like we kind of woke up a little bit late",
+      "quote": "Defensively, we played one position at a time. We shot good shots and we just needed to do it from the start. I feel like we kind of woke up a little bit late, and if we come fresh from the start and focus and sharp, I think we will do much, much better. I am so happy that we showed character and came back. That is the positive from today, but unfortunately they won the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 297,
+      "end_seconds": 327,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Deni Avdija on the late rally against the Knicks: We kind of woke up a little bit late. If we come fresh from the start and focus and sharp, I think we will do much, much better.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija analyzes the team's defensive execution and the importance of starting games with better focus.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "6isLbnpi-8k",
+  "url": "https://www.youtube.com/watch?v=6isLbnpi-8k",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-22T05:37:01Z",
+  "duration_seconds": 357,
+  "processed_at": "2026-11-22T06:19:39Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

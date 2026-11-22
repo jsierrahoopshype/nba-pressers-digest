@@ -1,0 +1,163 @@
+{
+  "video_title": "Damian Lillard Postgame Interview | Portland Trail Blazers 96, New York Knicks 97 | Nov. 21, 2026",
+  "speakers_seen": [
+    "Damian Lillard"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:10",
+      "summary_phrase": "Damian Lillard on the Trail Blazers' second-half defensive adjustments",
+      "names_mentioned": [],
+      "excerpt": "we were more disruptive defensively. In the first half we were taking the ball out the net",
+      "quote": "We just did all the stuff that we talked about before the game. We rebounded, we had a lot more pressure on the ball, a lot more resistance. We were more disruptive defensively. In the first half we were taking the ball out the net every time, playing against a set defense, and I thought in the second half we had more of a presence on the defensive end, made them miss, and we rebounded and was able to get out and put some pressure back on them.",
+      "verbatim_original_language": "",
+      "start_seconds": 10,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Damian Lillard says the Blazers defensive turnaround in the second half came down to being more disruptive and finally putting pressure on the ball.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard discusses the defensive adjustments the Trail Blazers made during the second half of their game against the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Damian Lillard",
+      "timestamp": "00:57",
+      "summary_phrase": "Damian Lillard on the Trail Blazers' first-half defensive mistakes",
+      "names_mentioned": [],
+      "excerpt": "we made a lot of mistakes. We died on screens, we didn't communicate, we weren't helping each other",
+      "quote": "We made a lot of mistakes. We died on screens, we didn't communicate, we weren't helping each other. We just weren't on a string, and when you are playing against a championship team, they have been playing well, they are on their home floor, you start the game like that, they see the ball go in early, they feel good, the crowd gets into it, and then you find yourself in what we found ourselves in, a 20-point hole.",
+      "verbatim_original_language": "",
+      "start_seconds": 57,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Damian Lillard on the Blazers digging a 20 point hole against the Knicks: We died on screens, we did not communicate, and we were not helping each other.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Damian Lillard explains the defensive errors that led to the Trail Blazers falling into a 20-point deficit against the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Damian Lillard",
+      "timestamp": "01:53",
+      "summary_phrase": "Damian Lillard on the Trail Blazers' recent slow starts",
+      "names_mentioned": [],
+      "excerpt": "our last three games we haven't gotten off to great starts, and that's something that we got to correct",
+      "quote": "Our last three games we haven't gotten off to great starts, and that's something that we got to correct. Our energy and our focus and our intent has to be better from the jump. We can't continue to let this trend continue, we are starting games slow. We know that we are going to compete and we are going to find ourselves back in it, but if we didn't put ourselves in these situations, maybe instead of us dropping the game in Minnesota or dropping the game tonight, maybe we win both of these games.",
+      "verbatim_original_language": "",
+      "start_seconds": 113,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Damian Lillard says the Blazers must correct their recent trend of slow starts: We cannot continue to let this trend continue. We know we are going to compete, but we have to be better from the jump.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Damian Lillard addresses the team's recurring issue of starting games slowly and the impact on recent results.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Damian Lillard",
+      "timestamp": "02:47",
+      "summary_phrase": "Damian Lillard on the nature of game-winning shots",
+      "names_mentioned": [],
+      "excerpt": "sometimes you are going to get somebody and other times you are going to get got",
+      "quote": "I wouldn't say it motivates you in any way. I think you just understand it is part of the game. Sometimes you are going to get somebody and other times you are going to get got. Tonight we got got, and like I said, it is part of the game. I have had my fair share of being on the side with other teammates in the locker room disappointed, and this time it was us. It is not the first time, probably not the last, but I am sure people love to see these types of endings.",
+      "verbatim_original_language": "",
+      "start_seconds": 167,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "On the tough loss to the Knicks, Damian Lillard says sometimes you get somebody and other times you get got. It is part of the game.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard reflects on the nature of losing on a game-winning shot after the Trail Blazers' defeat to the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Damian Lillard",
+      "timestamp": "04:13",
+      "summary_phrase": "Damian Lillard on his weight loss and physical conditioning",
+      "names_mentioned": [],
+      "excerpt": "I had a full season to focus on my diet and specific ways of training",
+      "quote": "I had a full season to focus on my diet and specific ways of training, coming back off a major injury and being at a later stage of my career. I think it is important to just be light on your joints and tendons and not have as much stress on your body as far as your weight. I think that is part of just being able to remain at a high level playing the game. You can't be heavy. It is easier as you get older to come back heavier and heavier, and I had a year to address that and make sure that I came back feeling good and moving well.",
+      "verbatim_original_language": "",
+      "start_seconds": 253,
+      "end_seconds": 296,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 6,
+      "social_post": "Damian Lillard explains his weight loss and conditioning focus: It is important to be light on your joints and tendons. You cannot be heavy. It is easier as you get older to come back heavier, and I had a year to address that.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Damian Lillard explains how his diet and weight management training have helped him maintain his performance level at this stage of his career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "qWsZ6k_RCSs",
+  "url": "https://www.youtube.com/watch?v=qWsZ6k_RCSs",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-22T05:40:03Z",
+  "duration_seconds": 315,
+  "processed_at": "2026-11-22T06:19:35Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

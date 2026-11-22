@@ -32,6 +32,10 @@
         "context": "Jamahl Mosley discusses the team's need to improve their defensive intensity and ball security at the start of games.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oi35IFgYBXg",
+        "rank": 1
       }
     },
     {
@@ -100,6 +104,10 @@
         "context": "Jamahl Mosley explains the offensive challenges posed by the Spurs' defense and Victor Wembanyama's rim protection.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oi35IFgYBXg",
+        "rank": 2
       }
     },
     {
@@ -133,6 +141,10 @@
         "context": "Jamahl Mosley evaluates the recent professional growth and development of Jeremiah Robinson-Earl.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oi35IFgYBXg",
+        "rank": 3
       }
     },
     {
@@ -166,6 +178,10 @@
         "context": "Jamahl Mosley discusses the importance of Jordan Poole providing a spark off the bench while the team deals with injuries.",
         "best": true,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "oi35IFgYBXg",
+        "rank": 4
       }
     }
   ],

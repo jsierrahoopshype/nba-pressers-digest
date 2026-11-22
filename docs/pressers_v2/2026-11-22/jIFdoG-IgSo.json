@@ -1,0 +1,157 @@
+{
+  "video_title": "Mikal Bridges, Jalen Brunson, Landry Shamet Postgame Media | November 21, 2026",
+  "speakers_seen": [
+    "Mikal Bridges",
+    "Landry Shamet",
+    "Jalen Brunson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mikal Bridges",
+      "speakers": [],
+      "timestamp": "00:08",
+      "summary_phrase": "Mikal Bridges on the final play designed for Jalen Brunson",
+      "names_mentioned": [
+        "Jalen Brunson",
+        "Josh Hart"
+      ],
+      "excerpt": "trying to get Jalen open and create space and how Josh threw it kind of indicated",
+      "quote": "Trying to get Jalen open and create space and how Josh threw it kind of indicated that I was going to be open, so just going to make a play.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mikal Bridges explains the final play design that led to his game winner, noting how he read the defense to find space after the initial look for Jalen Brunson.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Brunson",
+          "Josh Hart"
+        ],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Mikal Bridges explains the final play of the game involving Jalen Brunson and Josh Hart.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mikal Bridges",
+      "speakers": [],
+      "timestamp": "00:42",
+      "summary_phrase": "Mikal Bridges on the team's reaction to the game-winning shot",
+      "names_mentioned": [],
+      "excerpt": "seeing the joy in those guys and obviously tonight with the alumni and stuff, just a pretty cool moment",
+      "quote": "First you win the game, but second just seeing the joy in those guys and obviously tonight with the alumni and stuff, just a pretty cool moment to be in that situation, especially after a tough fourth quarter, so it felt good.",
+      "verbatim_original_language": "",
+      "start_seconds": 42,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Mikal Bridges on the atmosphere at MSG after the win: It was a pretty cool moment to be in that situation, especially after a tough fourth quarter.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Mikal Bridges describes the team's emotional reaction to winning the game in front of alumni.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Landry Shamet",
+      "speakers": [],
+      "timestamp": "02:07",
+      "summary_phrase": "Landry Shamet on Jalen Brunson's gravity and game-winning shot",
+      "names_mentioned": [
+        "Jalen Brunson",
+        "Josh Hart",
+        "Mikal Bridges"
+      ],
+      "excerpt": "gravity of Jalen Brunson is undeniable, so he draws two, Mikal frees up and Josh last second",
+      "quote": "They did a good job guarding it early, but again, gravity of Jalen Brunson is undeniable, so he draws two, Mikal frees up and Josh last second get close to a five second count. Has the throw to Mikal and Mikal's open, makes a tough play, makes a tough shot. We believe in him. I was in the corner watching, I saw leave his hand, I felt good about it.",
+      "verbatim_original_language": "",
+      "start_seconds": 127,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Landry Shamet breaks down the final possession: The gravity of Jalen Brunson is undeniable, he draws two, Mikal frees up, and he makes a tough shot.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Brunson",
+          "Mikal Bridges",
+          "Josh Hart"
+        ],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Landry Shamet breaks down the final sequence and Mikal Bridges' game-winning shot.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Brunson",
+      "speakers": [],
+      "timestamp": "02:57",
+      "summary_phrase": "Jalen Brunson on Mikal Bridges' recent performance and work ethic",
+      "names_mentioned": [
+        "Mikal Bridges"
+      ],
+      "excerpt": "when you're continuously working on your game every single day and things may not be falling in your favor",
+      "quote": "That's just who he is. I've said this before, but when you're continuously working on your game every single day and things may not be falling in your favor, but you keep doing the right thing every single day, you keep chipping away, eventually things are going to turn for you. Over the past week or two, things have been turning for him and now he's on a roll.",
+      "verbatim_original_language": "",
+      "start_seconds": 177,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jalen Brunson on Mikal Bridges finding his rhythm: When you keep doing the right thing every single day, you keep chipping away, eventually things are going to turn for you.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mikal Bridges"
+        ],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jalen Brunson discusses Mikal Bridges' work ethic and recent improvement in performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "jIFdoG-IgSo",
+  "url": "https://www.youtube.com/watch?v=jIFdoG-IgSo",
+  "channel_team": "New York Knicks",
+  "published": "2026-11-22T06:18:03Z",
+  "duration_seconds": 247,
+  "processed_at": "2026-11-22T06:19:34Z",
+  "run_id": "2026-11-22-overnight",
+  "is_one_off": false
+}

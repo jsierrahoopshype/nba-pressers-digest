@@ -64,7 +64,17 @@ From: [“We Pride Ourselves On Defense.” \| Jaden McDaniels Postgame Sound \|
 
 <small>[Clip it](presserclips://clip?v=ssUB726CNvg&t=67&q=3) · [Send to Slack](presserclips://clip?v=ssUB726CNvg&t=67&q=3&slack=1)</small>
 
-**7. LaMelo Ball — "We be harping on him to shoot more, get out of his body a little more and do some more." — LaMelo Ball on Jaden McDaniels' consistency and offensive potential** [01:16](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s)
+**7. Deni Avdija — "He is a mentor for me as a human being more than a player" — Deni Avdija on his relationship with his father as a mentor** [04:09](https://www.youtube.com/watch?v=6isLbnpi-8k&t=249s)
+
+Deni Avdija: "He calls me. We know a lot of times we don't talk about the game in terms of what I need to do or stuff. At this point, he is just being my dad and we have funny sometimes conversations and how things could have gone differently. But you know, he is a mentor for me as a human being more than a player, so he raised me to be a great athlete and a great competitor, and that is the biggest blessing."
+
+[https://www.youtube.com/watch?v=6isLbnpi-8k&t=249s](https://www.youtube.com/watch?v=6isLbnpi-8k&t=249s)
+
+From: [Deni Avdija Postgame Interview \| Portland Trail Blazers 96, New York Knicks 97 \| Nov. 21, 2026](https://www.youtube.com/watch?v=6isLbnpi-8k) · *Portland Trail Blazers*
+
+<small>[Clip it](presserclips://clip?v=6isLbnpi-8k&t=249&q=4) · [Send to Slack](presserclips://clip?v=6isLbnpi-8k&t=249&q=4&slack=1)</small>
+
+**8. LaMelo Ball — "We be harping on him to shoot more, get out of his body a little more and do some more." — LaMelo Ball on Jaden McDaniels' consistency and offensive potential** [01:16](https://www.youtube.com/watch?v=GGZwIDzQ6ec&t=76s)
 
 LaMelo Ball: "For sure, he always just makes the right play. We be harping on him to shoot more, get out of his body a little more and do some more. I mean he already does so much just with the defense and this and that, but like I said, 6'10 can do everything, you kind of want him in the actions and having the ball."
 
@@ -74,7 +84,7 @@ From: [“Tonight I Let The Game Come To Me.” \| LaMelo Ball Postgame Sound \|
 
 <small>[Clip it](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3) · [Send to Slack](presserclips://clip?v=GGZwIDzQ6ec&t=76&q=3&slack=1)</small>
 
-**8. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
+**9. Jonathan Kuminga — "I think defense is going to win us a lot of games. We got so many people that could play" — Jonathan Kuminga on the Timberwolves' defensive identity and team versatility** [00:23](https://www.youtube.com/watch?v=eSVIGkgdYlI&t=23s)
 
 **Unidentified reporter:** "This is the number one defense in the league that you guys are a part of. Rudy's a big focal point down low, Melo's been great at the point of attack. How much pride do you take in your role on that end of the court?"
 
@@ -86,17 +96,25 @@ From: [Jonathan Kuminga Postgame Interview With Sean Dorcellus \| 11.21.26](http
 
 <small>[Clip it](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2) · [Send to Slack](presserclips://clip?v=eSVIGkgdYlI&t=23&q=2&slack=1)</small>
 
-**9. Alan Horton — "How much did that put pressure on you guys defensively to be so on point here tonight?" — Ayo Dosunmu on the challenge of defending a balanced Grizzlies team** [00:45](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s)
+**10. Jalen Brunson — "when you're continuously working on your game every single day and things may not be falling in your favor" — Jalen Brunson on Mikal Bridges' recent performance and work ethic** [02:57](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s)
 
-**Alan Horton:** "They're a really good team. I don't think fans know some of the names that are putting up these big numbers, but how much did that put pressure on you guys defensively to be so on point here tonight?"
+Jalen Brunson: "That's just who he is. I've said this before, but when you're continuously working on your game every single day and things may not be falling in your favor, but you keep doing the right thing every single day, you keep chipping away, eventually things are going to turn for you. Over the past week or two, things have been turning for him and now he's on a roll."
 
-**Ayo Dosunmu:** "In the NBA, it's not all about names. Sometimes they're a good ball club, very well-coached ball club. Those are the most dangerous teams when you necessarily don't know where the majority of the points are coming from. They have a variety of players that are able to contribute, and sometimes that makes it challenging. So yeah, they're a good team."
+[https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s)
 
-[https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=45s)
+From: [Mikal Bridges, Jalen Brunson, Landry Shamet Postgame Media \| November 21, 2026](https://www.youtube.com/watch?v=jIFdoG-IgSo) · *New York Knicks*
 
-From: [Ayo Dosunmu Postgame Interview With Alan Horton \| 11.21.26](https://www.youtube.com/watch?v=ntxnsp0oUsA) · *Minnesota Timberwolves*
+<small>[Clip it](presserclips://clip?v=jIFdoG-IgSo&t=177&q=4) · [Send to Slack](presserclips://clip?v=jIFdoG-IgSo&t=177&q=4&slack=1)</small>
 
-<small>[Clip it](presserclips://clip?v=ntxnsp0oUsA&t=45&q=3) · [Send to Slack](presserclips://clip?v=ntxnsp0oUsA&t=45&q=3&slack=1)</small>
+**11. Damian Lillard — "I had a full season to focus on my diet and specific ways of training" — Damian Lillard on his weight loss and physical conditioning** [04:13](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s)
+
+Damian Lillard: "I had a full season to focus on my diet and specific ways of training, coming back off a major injury and being at a later stage of my career. I think it is important to just be light on your joints and tendons and not have as much stress on your body as far as your weight. I think that is part of just being able to remain at a high level playing the game. You can't be heavy. It is easier as you get older to come back heavier and heavier, and I had a year to address that and make sure that I came back feeling good and moving well."
+
+[https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s)
+
+From: [Damian Lillard Postgame Interview \| Portland Trail Blazers 96, New York Knicks 97 \| Nov. 21, 2026](https://www.youtube.com/watch?v=qWsZ6k_RCSs) · *Portland Trail Blazers*
+
+<small>[Clip it](presserclips://clip?v=qWsZ6k_RCSs&t=253&q=5) · [Send to Slack](presserclips://clip?v=qWsZ6k_RCSs&t=253&q=5&slack=1)</small>
 
 ---
 
@@ -129,6 +147,54 @@ Micah Nori: "I don't know if, I mean, for some of these guys, I think it's maybe
 [https://www.youtube.com/watch?v=6Q6pbv0daLs&t=132s](https://www.youtube.com/watch?v=6Q6pbv0daLs&t=132s)
 
 <small>[Clip it](presserclips://clip?v=6Q6pbv0daLs&t=132&q=3) · [Send to Slack](presserclips://clip?v=6Q6pbv0daLs&t=132&q=3&slack=1)</small>
+
+---
+
+## Deni Avdija Postgame Interview | Portland Trail Blazers 96, New York Knicks 97 | Nov. 21, 2026 — *Portland Trail Blazers*
+
+Source: [https://www.youtube.com/watch?v=6isLbnpi-8k](https://www.youtube.com/watch?v=6isLbnpi-8k)
+
+_Speakers identified: Deni Avdija, Unidentified speaker_
+
+**1. Deni Avdija — "we understand that we need to start playing a little bit more aggressive in the beginning" — Deni Avdija on the team's need to start games with more intensity** [00:35](https://www.youtube.com/watch?v=6isLbnpi-8k&t=35s)
+
+Deni Avdija: "I think it is part of the game. I really hate to lose and I feel it got to us, especially after we fought and were in the mix the whole game. But sometimes you lose like this, and it hurts, and sometimes you win like this. I think that we as a group understand that we need to start playing a little bit more aggressive in the beginning, but overall we showed character and got back into the game."
+
+[https://www.youtube.com/watch?v=6isLbnpi-8k&t=35s](https://www.youtube.com/watch?v=6isLbnpi-8k&t=35s)
+
+<small>[Clip it](presserclips://clip?v=6isLbnpi-8k&t=35&q=1) · [Send to Slack](presserclips://clip?v=6isLbnpi-8k&t=35&q=1&slack=1)</small>
+
+**2. Deni Avdija — "I am in a different place now. I feel my confidence is there, I feel my maturity is there" — Deni Avdija on his personal growth and commitment to team success** [01:30](https://www.youtube.com/watch?v=6isLbnpi-8k&t=90s)
+
+Deni Avdija: "I think that I enjoy it more. I think that all the things that I will learn in the continuation of the career, it is already near the end, but I just enjoy. I enjoy playing, I am a team player, I enjoy that my group is succeeding. I will do everything so the group will win and what they need from me, I will do. I feel that I am in a different place now. I feel my confidence is there, I feel my maturity is there. I always want to improve, I always want to be a better player, and I believe that the way is still long."
+
+[https://www.youtube.com/watch?v=6isLbnpi-8k&t=90s](https://www.youtube.com/watch?v=6isLbnpi-8k&t=90s)
+
+<small>[Clip it](presserclips://clip?v=6isLbnpi-8k&t=90&q=2) · [Send to Slack](presserclips://clip?v=6isLbnpi-8k&t=90&q=2&slack=1)</small>
+
+**3. Deni Avdija — "I am very competitive and I feel that there are big playmakers that I enjoy" — Deni Avdija on the team's competitiveness and growth after playoff experience** [02:54](https://www.youtube.com/watch?v=6isLbnpi-8k&t=174s)
+
+Deni Avdija: "It was my first playoff and I learned a lot from it, but I feel that overall, I am very competitive and I feel that there are big playmakers that I enjoy and I am playing well. I feel that overall I handled myself well with the defense of San Antonio, but it was a match-up that was not simple relative to a first playoff game. But definitely, I have here great guys, a good group that believes that it is capable, and every year it is a new challenge."
+
+[https://www.youtube.com/watch?v=6isLbnpi-8k&t=174s](https://www.youtube.com/watch?v=6isLbnpi-8k&t=174s)
+
+<small>[Clip it](presserclips://clip?v=6isLbnpi-8k&t=174&q=3) · [Send to Slack](presserclips://clip?v=6isLbnpi-8k&t=174&q=3&slack=1)</small>
+
+**4. Deni Avdija — "He is a mentor for me as a human being more than a player" — Deni Avdija on his relationship with his father as a mentor** [04:09](https://www.youtube.com/watch?v=6isLbnpi-8k&t=249s)
+
+Deni Avdija: "He calls me. We know a lot of times we don't talk about the game in terms of what I need to do or stuff. At this point, he is just being my dad and we have funny sometimes conversations and how things could have gone differently. But you know, he is a mentor for me as a human being more than a player, so he raised me to be a great athlete and a great competitor, and that is the biggest blessing."
+
+[https://www.youtube.com/watch?v=6isLbnpi-8k&t=249s](https://www.youtube.com/watch?v=6isLbnpi-8k&t=249s)
+
+<small>[Clip it](presserclips://clip?v=6isLbnpi-8k&t=249&q=4) · [Send to Slack](presserclips://clip?v=6isLbnpi-8k&t=249&q=4&slack=1)</small>
+
+**5. Deni Avdija — "I feel like we kind of woke up a little bit late" — Deni Avdija on the team's defensive focus and late-game execution** [04:57](https://www.youtube.com/watch?v=6isLbnpi-8k&t=297s)
+
+Deni Avdija: "Defensively, we played one position at a time. We shot good shots and we just needed to do it from the start. I feel like we kind of woke up a little bit late, and if we come fresh from the start and focus and sharp, I think we will do much, much better. I am so happy that we showed character and came back. That is the positive from today, but unfortunately they won the game."
+
+[https://www.youtube.com/watch?v=6isLbnpi-8k&t=297s](https://www.youtube.com/watch?v=6isLbnpi-8k&t=297s)
+
+<small>[Clip it](presserclips://clip?v=6isLbnpi-8k&t=297&q=5) · [Send to Slack](presserclips://clip?v=6isLbnpi-8k&t=297&q=5&slack=1)</small>
 
 ---
 
@@ -696,19 +762,51 @@ Doug Christie: "First of all, it would be just getting him healthy. So now that 
 
 ---
 
+## Mikal Bridges, Jalen Brunson, Landry Shamet Postgame Media | November 21, 2026 — *New York Knicks*
+
+Source: [https://www.youtube.com/watch?v=jIFdoG-IgSo](https://www.youtube.com/watch?v=jIFdoG-IgSo)
+
+_Speakers identified: Mikal Bridges, Landry Shamet, Jalen Brunson_
+
+**1. Mikal Bridges — "trying to get Jalen open and create space and how Josh threw it kind of indicated" — Mikal Bridges on the final play designed for Jalen Brunson** [00:08](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=8s)
+
+Mikal Bridges: "Trying to get Jalen open and create space and how Josh threw it kind of indicated that I was going to be open, so just going to make a play."
+
+[https://www.youtube.com/watch?v=jIFdoG-IgSo&t=8s](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=8s)
+
+<small>[Clip it](presserclips://clip?v=jIFdoG-IgSo&t=8&q=1) · [Send to Slack](presserclips://clip?v=jIFdoG-IgSo&t=8&q=1&slack=1)</small>
+
+**2. Mikal Bridges — "seeing the joy in those guys and obviously tonight with the alumni and stuff, just a pretty cool moment" — Mikal Bridges on the team's reaction to the game-winning shot** [00:42](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=42s)
+
+Mikal Bridges: "First you win the game, but second just seeing the joy in those guys and obviously tonight with the alumni and stuff, just a pretty cool moment to be in that situation, especially after a tough fourth quarter, so it felt good."
+
+[https://www.youtube.com/watch?v=jIFdoG-IgSo&t=42s](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=42s)
+
+<small>[Clip it](presserclips://clip?v=jIFdoG-IgSo&t=42&q=2) · [Send to Slack](presserclips://clip?v=jIFdoG-IgSo&t=42&q=2&slack=1)</small>
+
+**3. Landry Shamet — "gravity of Jalen Brunson is undeniable, so he draws two, Mikal frees up and Josh last second" — Landry Shamet on Jalen Brunson's gravity and game-winning shot** [02:07](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=127s)
+
+Landry Shamet: "They did a good job guarding it early, but again, gravity of **Jalen Brunson** is undeniable, so he draws two, Mikal frees up and Josh last second get close to a five second count. Has the throw to Mikal and Mikal's open, makes a tough play, makes a tough shot. We believe in him. I was in the corner watching, I saw leave his hand, I felt good about it."
+
+[https://www.youtube.com/watch?v=jIFdoG-IgSo&t=127s](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=127s)
+
+<small>[Clip it](presserclips://clip?v=jIFdoG-IgSo&t=127&q=3) · [Send to Slack](presserclips://clip?v=jIFdoG-IgSo&t=127&q=3&slack=1)</small>
+
+**4. Jalen Brunson — "when you're continuously working on your game every single day and things may not be falling in your favor" — Jalen Brunson on Mikal Bridges' recent performance and work ethic** [02:57](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s)
+
+Jalen Brunson: "That's just who he is. I've said this before, but when you're continuously working on your game every single day and things may not be falling in your favor, but you keep doing the right thing every single day, you keep chipping away, eventually things are going to turn for you. Over the past week or two, things have been turning for him and now he's on a roll."
+
+[https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s](https://www.youtube.com/watch?v=jIFdoG-IgSo&t=177s)
+
+<small>[Clip it](presserclips://clip?v=jIFdoG-IgSo&t=177&q=4) · [Send to Slack](presserclips://clip?v=jIFdoG-IgSo&t=177&q=4&slack=1)</small>
+
+---
+
 ## LIVE: Pelicans vs. Spurs Postgame Interviews 11/21/2026 — *New Orleans Pelicans*
 
 Source: [https://www.youtube.com/watch?v=kmpblu0rb-U](https://www.youtube.com/watch?v=kmpblu0rb-U)
 
 _Speakers identified: Jamahl Mosley_
-
-**1. Jamahl Mosley — "You've got to start the game off hitting first, taking care of the basketball, defending at the highest level." — Jamahl Mosley on the need for better starts and defensive intensity** [06:19](https://www.youtube.com/watch?v=kmpblu0rb-U&t=379s)
-
-Jamahl Mosley: "We cannot keep digging these early holes to try to show our resiliency and the fight back. You've got to start the game off hitting first, taking care of the basketball, defending at the highest level early, making it a physical game to start the game."
-
-[https://www.youtube.com/watch?v=kmpblu0rb-U&t=379s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=379s)
-
-<small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=379&q=1) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=379&q=1&slack=1)</small>
 
 **2. Jamahl Mosley — "Give him credit, 50 and 19. It's hard to guard, different match-ups." — Jamahl Mosley on Victor Wembanyama's 50-point performance** [06:35](https://www.youtube.com/watch?v=kmpblu0rb-U&t=395s)
 
@@ -717,30 +815,6 @@ Jamahl Mosley: "Give him credit, 50 and 19. It's hard to guard, different match-
 [https://www.youtube.com/watch?v=kmpblu0rb-U&t=395s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=395s)
 
 <small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=395&q=2) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=395&q=2&slack=1)</small>
-
-**3. Jamahl Mosley — "Move it and share it and trust it." — Jamahl Mosley on the importance of ball movement and trust** [07:40](https://www.youtube.com/watch?v=kmpblu0rb-U&t=460s)
-
-Jamahl Mosley: "Move it and share it and trust it. Tonight was one of those nights because of their switching, because of their length, because of **Victor Wembanyama** at the rim. When you look down the court and you're going to attack and he's in there, you either got to go through him with force or you've got to spray it."
-
-[https://www.youtube.com/watch?v=kmpblu0rb-U&t=460s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=460s)
-
-<small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=460&q=3) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=460&q=3&slack=1)</small>
-
-**4. Jamahl Mosley — "He's growing. Sitting and watching film with him, the things that he sees, how he plays the game." — Jamahl Mosley on Jeremiah's growth and professional approach** [08:12](https://www.youtube.com/watch?v=kmpblu0rb-U&t=492s)
-
-Jamahl Mosley: "He's growing. Sitting and watching film with him, the things that he sees, how he plays the game, how he sees the game, how he's trying to facilitate, getting guys involved, knowing when guys need to get shots. All of those things are his progression. I do like where he is and how he's approaching the game night in and night out from a serious, professional standpoint."
-
-[https://www.youtube.com/watch?v=kmpblu0rb-U&t=492s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=492s)
-
-<small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=492&q=4) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=492&q=4&slack=1)</small>
-
-**5. Jamahl Mosley — "With bodies down, it's gigantic for us to be able to have somebody to provide a spark." — Jamahl Mosley on Jordan Poole's impact off the bench** [08:38](https://www.youtube.com/watch?v=kmpblu0rb-U&t=518s)
-
-Jamahl Mosley: "With bodies down, it's gigantic for us to be able to have somebody to provide a spark. And I think that's very important for us to have that. Obviously when certain guys come back, the lineup changes. Having bodies down tonight threw things for a little bit of a wrinkle, but again, that's not an excuse. We've got to find out next man up and we've got to play as hard as we can no matter who we throw on the floor."
-
-[https://www.youtube.com/watch?v=kmpblu0rb-U&t=518s](https://www.youtube.com/watch?v=kmpblu0rb-U&t=518s)
-
-<small>[Clip it](presserclips://clip?v=kmpblu0rb-U&t=518&q=5) · [Send to Slack](presserclips://clip?v=kmpblu0rb-U&t=518&q=5&slack=1)</small>
 
 ---
 
@@ -799,6 +873,46 @@ _Speakers identified: Ayo Dosunmu, Alan Horton_
 [https://www.youtube.com/watch?v=ntxnsp0oUsA&t=100s](https://www.youtube.com/watch?v=ntxnsp0oUsA&t=100s)
 
 <small>[Clip it](presserclips://clip?v=ntxnsp0oUsA&t=100&q=5) · [Send to Slack](presserclips://clip?v=ntxnsp0oUsA&t=100&q=5&slack=1)</small>
+
+---
+
+## Jamahl Mosley | Pelicans vs. Spurs Postgame Interview 11/21/26 — *New Orleans Pelicans*
+
+Source: [https://www.youtube.com/watch?v=oi35IFgYBXg](https://www.youtube.com/watch?v=oi35IFgYBXg)
+
+_Speakers identified: Jamahl Mosley_
+
+**1. Jamahl Mosley — "We cannot keep digging these early holes to try to show our resiliency and the fight back." — Jamahl Mosley on the team's slow starts and defensive intensity** [00:14](https://www.youtube.com/watch?v=oi35IFgYBXg&t=14s)
+
+Jamahl Mosley: "We cannot keep digging these early holes to try to show our resiliency and the fight back. You have to start the game off hitting first, taking care of the basketball, defending at the highest level early, making it a physical game to start the game. Again, **Wembanyama**, give him credit, 50 and 19. It is hard to guard. Different matchups, roam off certain guys, try to protect the rim. He is spacing back, knocking down shots. It is a tough guard."
+
+[https://www.youtube.com/watch?v=oi35IFgYBXg&t=14s](https://www.youtube.com/watch?v=oi35IFgYBXg&t=14s)
+
+<small>[Clip it](presserclips://clip?v=oi35IFgYBXg&t=14&q=1) · [Send to Slack](presserclips://clip?v=oi35IFgYBXg&t=14&q=1&slack=1)</small>
+
+**2. Jamahl Mosley — "When you look down the court and you are going to attack and he is in there." — Jamahl Mosley on the team's ball movement and defensive challenges** [01:36](https://www.youtube.com/watch?v=oi35IFgYBXg&t=96s)
+
+Jamahl Mosley: "Move it and share it and trust it. I think tonight was one of those nights because of their switching, because of their length, because of **Wembanyama** at the rim. When you look down the court and you are going to attack and he is in there, you either have to go through him with force or you have to spray it. I think a lot of times when we saw him down there, we looked like we could just take a one-on-one with the switching, but you have to come off, make the easy play. You have to shift their defense side to side and I do not think we did that as much as we could have."
+
+[https://www.youtube.com/watch?v=oi35IFgYBXg&t=96s](https://www.youtube.com/watch?v=oi35IFgYBXg&t=96s)
+
+<small>[Clip it](presserclips://clip?v=oi35IFgYBXg&t=96&q=2) · [Send to Slack](presserclips://clip?v=oi35IFgYBXg&t=96&q=2&slack=1)</small>
+
+**3. Jamahl Mosley — "He is growing. Sitting and watching film with him, the things that he sees, how he plays." — Jamahl Mosley on Jeremiah's development and professional approach** [02:07](https://www.youtube.com/watch?v=oi35IFgYBXg&t=127s)
+
+Jamahl Mosley: "He is growing. Sitting and watching film with him, the things that he sees, how he plays the game, how he sees the game, how he is trying to facilitate, getting guys involved, knowing when guys need to get shots, all of those things are his progression. I do like where he is and how he is approaching the game night in and night out from a serious standpoint, from a professional standpoint, studying the game as well as what his teammates need to see from him."
+
+[https://www.youtube.com/watch?v=oi35IFgYBXg&t=127s](https://www.youtube.com/watch?v=oi35IFgYBXg&t=127s)
+
+<small>[Clip it](presserclips://clip?v=oi35IFgYBXg&t=127&q=3) · [Send to Slack](presserclips://clip?v=oi35IFgYBXg&t=127&q=3&slack=1)</small>
+
+**4. Jamahl Mosley — "With bodies down, it is gigantic for us to be able to have somebody to provide a spark." — Jamahl Mosley on Jordan Poole's impact off the bench** [02:32](https://www.youtube.com/watch?v=oi35IFgYBXg&t=152s)
+
+Jamahl Mosley: "With bodies down, it is gigantic for us to be able to have somebody to provide a spark. I think that is very important for us to have that. Obviously when certain guys come back, the lineup changes. Having bodies down tonight threw things for a little bit of a wrinkle, but again, that is not an excuse. We have to find out next man up and we have to play as hard as we can no matter who we throw on the floor."
+
+[https://www.youtube.com/watch?v=oi35IFgYBXg&t=152s](https://www.youtube.com/watch?v=oi35IFgYBXg&t=152s)
+
+<small>[Clip it](presserclips://clip?v=oi35IFgYBXg&t=152&q=4) · [Send to Slack](presserclips://clip?v=oi35IFgYBXg&t=152&q=4&slack=1)</small>
 
 ---
 
@@ -887,6 +1001,54 @@ Victor Wembanyama: "Something that is not necessarily evident to see is that the
 [https://www.youtube.com/watch?v=pVg6PjIE_BI&t=555s](https://www.youtube.com/watch?v=pVg6PjIE_BI&t=555s)
 
 <small>[Clip it](presserclips://clip?v=pVg6PjIE_BI&t=555&q=10) · [Send to Slack](presserclips://clip?v=pVg6PjIE_BI&t=555&q=10&slack=1)</small>
+
+---
+
+## Damian Lillard Postgame Interview | Portland Trail Blazers 96, New York Knicks 97 | Nov. 21, 2026 — *Portland Trail Blazers*
+
+Source: [https://www.youtube.com/watch?v=qWsZ6k_RCSs](https://www.youtube.com/watch?v=qWsZ6k_RCSs)
+
+_Speakers identified: Damian Lillard_
+
+**1. Damian Lillard — "we were more disruptive defensively. In the first half we were taking the ball out the net" — Damian Lillard on the Trail Blazers' second-half defensive adjustments** [00:10](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=10s)
+
+Damian Lillard: "We just did all the stuff that we talked about before the game. We rebounded, we had a lot more pressure on the ball, a lot more resistance. We were more disruptive defensively. In the first half we were taking the ball out the net every time, playing against a set defense, and I thought in the second half we had more of a presence on the defensive end, made them miss, and we rebounded and was able to get out and put some pressure back on them."
+
+[https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=10s](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=10s)
+
+<small>[Clip it](presserclips://clip?v=qWsZ6k_RCSs&t=10&q=1) · [Send to Slack](presserclips://clip?v=qWsZ6k_RCSs&t=10&q=1&slack=1)</small>
+
+**2. Damian Lillard — "we made a lot of mistakes. We died on screens, we didn't communicate, we weren't helping each other" — Damian Lillard on the Trail Blazers' first-half defensive mistakes** [00:57](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=57s)
+
+Damian Lillard: "We made a lot of mistakes. We died on screens, we didn't communicate, we weren't helping each other. We just weren't on a string, and when you are playing against a championship team, they have been playing well, they are on their home floor, you start the game like that, they see the ball go in early, they feel good, the crowd gets into it, and then you find yourself in what we found ourselves in, a 20-point hole."
+
+[https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=57s](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=57s)
+
+<small>[Clip it](presserclips://clip?v=qWsZ6k_RCSs&t=57&q=2) · [Send to Slack](presserclips://clip?v=qWsZ6k_RCSs&t=57&q=2&slack=1)</small>
+
+**3. Damian Lillard — "our last three games we haven't gotten off to great starts, and that's something that we got to correct" — Damian Lillard on the Trail Blazers' recent slow starts** [01:53](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=113s)
+
+Damian Lillard: "Our last three games we haven't gotten off to great starts, and that's something that we got to correct. Our energy and our focus and our intent has to be better from the jump. We can't continue to let this trend continue, we are starting games slow. We know that we are going to compete and we are going to find ourselves back in it, but if we didn't put ourselves in these situations, maybe instead of us dropping the game in Minnesota or dropping the game tonight, maybe we win both of these games."
+
+[https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=113s](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=113s)
+
+<small>[Clip it](presserclips://clip?v=qWsZ6k_RCSs&t=113&q=3) · [Send to Slack](presserclips://clip?v=qWsZ6k_RCSs&t=113&q=3&slack=1)</small>
+
+**4. Damian Lillard — "sometimes you are going to get somebody and other times you are going to get got" — Damian Lillard on the nature of game-winning shots** [02:47](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=167s)
+
+Damian Lillard: "I wouldn't say it motivates you in any way. I think you just understand it is part of the game. Sometimes you are going to get somebody and other times you are going to get got. Tonight we got got, and like I said, it is part of the game. I have had my fair share of being on the side with other teammates in the locker room disappointed, and this time it was us. It is not the first time, probably not the last, but I am sure people love to see these types of endings."
+
+[https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=167s](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=167s)
+
+<small>[Clip it](presserclips://clip?v=qWsZ6k_RCSs&t=167&q=4) · [Send to Slack](presserclips://clip?v=qWsZ6k_RCSs&t=167&q=4&slack=1)</small>
+
+**5. Damian Lillard — "I had a full season to focus on my diet and specific ways of training" — Damian Lillard on his weight loss and physical conditioning** [04:13](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s)
+
+Damian Lillard: "I had a full season to focus on my diet and specific ways of training, coming back off a major injury and being at a later stage of my career. I think it is important to just be light on your joints and tendons and not have as much stress on your body as far as your weight. I think that is part of just being able to remain at a high level playing the game. You can't be heavy. It is easier as you get older to come back heavier and heavier, and I had a year to address that and make sure that I came back feeling good and moving well."
+
+[https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s](https://www.youtube.com/watch?v=qWsZ6k_RCSs&t=253s)
+
+<small>[Clip it](presserclips://clip?v=qWsZ6k_RCSs&t=253&q=5) · [Send to Slack](presserclips://clip?v=qWsZ6k_RCSs&t=253&q=5&slack=1)</small>
 
 ---
 
