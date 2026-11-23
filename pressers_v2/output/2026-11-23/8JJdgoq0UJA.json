@@ -1,0 +1,223 @@
+{
+  "video_title": "Bennett Stirtz on New Opportunities and Experiences | Postgame Media | November 18, 2026",
+  "speakers_seen": [
+    "Bennett Stirtz"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "00:08",
+      "summary_phrase": "Bennett Stirtz on maintaining focus despite short-handed roster",
+      "names_mentioned": [],
+      "excerpt": "there's no excuses. Like we knew some guys were out but we still had chances to win",
+      "quote": "I think that was my mindset last game too, so nothing really changed. There's no excuses. Like we knew some guys were out but we still had chances to win the game, and we just got to go back to the drawing board. It comes back to the little things like boxing out, making the right reads on offense. We lost by 10 points or so, so I think we could have got those back, but onto the next.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Bennett Stirtz says the team is focused on the little things like boxing out and making the right reads after a tough loss. He insists there are no excuses despite the short-handed roster.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz discusses the team's loss and the need to improve on fundamental execution despite missing players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "00:37",
+      "summary_phrase": "Bennett Stirtz on the necessity of playing a full 48 minutes",
+      "names_mentioned": [],
+      "excerpt": "it just shows that you got to play a full 48. You can't play three quarters",
+      "quote": "It just shows that you got to play a full 48. You can't play three quarters, you got to play the whole game.",
+      "verbatim_original_language": "",
+      "start_seconds": 37,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Bennett Stirtz on the team's recent performance: You cannot play three quarters. You have to play a full 48 minutes.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz emphasizes the importance of maintaining intensity for the full duration of a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "01:10",
+      "summary_phrase": "Bennett Stirtz on the importance of playing without fear of failure",
+      "names_mentioned": [],
+      "excerpt": "just having the right mindset, not being able and being scared to fail",
+      "quote": "Just having the right mindset, not being able and being scared to fail. When you walk off the court after the game, you got to feel like you have no regrets, like you left it all out there. So I think that's what we all did tonight, but still came up short, back to the drawing board.",
+      "verbatim_original_language": "",
+      "start_seconds": 70,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Bennett Stirtz on his approach to the game: You have to play without being scared to fail. When you walk off the court you have to feel like you have no regrets and left it all out there.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz reflects on the team's mindset and the effort displayed during the recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "01:45",
+      "summary_phrase": "Bennett Stirtz on balancing aggressive shooting with team concepts",
+      "names_mentioned": [],
+      "excerpt": "it's a lot easier to tone back aggressiveness than to ramp it up",
+      "quote": "I think personally, it's a lot easier to tone back aggressiveness than to ramp it up. They can always tell me back if they feel like I'm shooting too much, but I feel like when I shoot it, it's a pretty good shot for the team, and the guys want me to shoot those shots too because it makes it easier for them. So I feel like I just got to be more aggressive, and if they tell me to wind it down a little bit, I'll do that.",
+      "verbatim_original_language": "",
+      "start_seconds": 105,
+      "end_seconds": 139,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Bennett Stirtz says he is working on balancing his aggressiveness on offense. He notes it is easier to tone back than ramp up and that his teammates want him to keep shooting.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz explains his approach to balancing individual aggressiveness with team offensive concepts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "02:14",
+      "summary_phrase": "Bennett Stirtz on teammate encouragement to stay aggressive",
+      "names_mentioned": [
+        "Cruz"
+      ],
+      "excerpt": "be more aggressive like Cruz so at halftime it's like keep shooting like they're going to fall",
+      "quote": "It's like just pulling me to the side during timeouts and in the locker room at halftime after games, like be more aggressive like Cruz so at halftime it's like keep shooting like they're going to fall, so just little things like that.",
+      "verbatim_original_language": "",
+      "start_seconds": 134,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Bennett Stirtz reveals his teammates are constantly encouraging him to stay aggressive. He says guys like Cruz tell him to keep shooting even when the shots are not falling.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cruz"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bennett Stirtz mentions that his teammates, including Cruz, encourage him to remain aggressive with his shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "02:49",
+      "summary_phrase": "Bennett Stirtz on adjusting to the NBA three-point line",
+      "names_mentioned": [],
+      "excerpt": "I think it just comes with the reps, in-game reps too, like I'm still getting more comfortable",
+      "quote": "I think it just comes with the reps, in-game reps too, like I'm still getting more comfortable with it, and I think there's a lot more to come with that, but I feel like in college I was shooting deep threes, so yeah.",
+      "verbatim_original_language": "",
+      "start_seconds": 169,
+      "end_seconds": 186,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Bennett Stirtz says he is still getting comfortable with the NBA three-point line but notes that shooting deep shots in college helped his transition.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz discusses his ongoing adjustment to the distance of the NBA three-point line.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Bennett Stirtz",
+      "timestamp": "03:12",
+      "summary_phrase": "Bennett Stirtz on handling the physical demands of back-to-back games",
+      "names_mentioned": [],
+      "excerpt": "we get the best treatment in the world, so like I can't complain",
+      "quote": "We get the best treatment in the world, so like I can't complain. I'm 23 years old and I feel great, so we're blessed to play the game and excited to play tomorrow night.",
+      "verbatim_original_language": "",
+      "start_seconds": 192,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 2,
+      "social_post": "Bennett Stirtz on the physical demands of back to back games: We get the best treatment in the world so I cannot complain. I am 23 years old and I feel great.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Bennett Stirtz comments on his physical recovery and readiness for the team's upcoming back-to-back game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "8JJdgoq0UJA",
+  "url": "https://www.youtube.com/watch?v=8JJdgoq0UJA",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-23T02:45:35Z",
+  "duration_seconds": 205,
+  "processed_at": "2026-11-23T03:25:53Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false
+}

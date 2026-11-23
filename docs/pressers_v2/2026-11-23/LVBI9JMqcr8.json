@@ -1,0 +1,215 @@
+{
+  "video_title": "Will Hardy talks 4th quarter performance, Svi Mykhailiuk",
+  "speakers_seen": [
+    "Will Hardy"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Will Hardy",
+      "timestamp": "00:06",
+      "summary_phrase": "Will Hardy criticizes team's sloppy play and poor energy",
+      "names_mentioned": [],
+      "excerpt": "I thought it was a really sloppy game. I thought our energy level as a team was pretty poor.",
+      "quote": "I thought it was a really sloppy game. I thought our energy level as a team was pretty poor. It led to a lot of sloppy turnovers, 23 of them for 32 points for them. It's really hard to win that way.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Will Hardy did not hold back after the Jazz loss, calling the performance really sloppy and citing the 23 turnovers as the primary reason it is hard to win games.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy addresses the media following a game where he felt the team displayed poor energy and committed too many turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Will Hardy",
+      "timestamp": "00:43",
+      "summary_phrase": "Will Hardy praises Svi Mykhailiuk's shooting and team contribution",
+      "names_mentioned": [
+        "Svi Mykhailiuk"
+      ],
+      "excerpt": "Obviously Svi had a big night shooting, but I thought that everybody else in that group really contributed.",
+      "quote": "Obviously Svi had a big night shooting, but I thought that everybody else in that group really contributed. For them to dig in and pull us back into that game speaks to them. We got to find some energy for tomorrow's game because these games keep coming and I think for us to be at our best, we've got to deliver a more competitive spirit.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Will Hardy praised Svi Mykhailiuk for his big shooting night but emphasized that the team needs to deliver a more competitive spirit in tomorrow's game.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Svi Mykhailiuk"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Will Hardy discusses the team's performance and praises Svi Mykhailiuk for his shooting contribution during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Will Hardy",
+      "timestamp": "01:17",
+      "summary_phrase": "Will Hardy evaluates Isaiah Collier and Taylor Hendricks' fourth quarter impact",
+      "names_mentioned": [
+        "Isaiah Collier",
+        "Taylor Hendricks"
+      ],
+      "excerpt": "I thought Flip gave us some really good minutes, rebounding the ball, made some good decisions on offense.",
+      "quote": "I thought Flip gave us some really good minutes, rebounding the ball, made some good decisions on offense. I thought Zay as well. He ended up with seven assists, two turnovers in the quarter, but I thought the way that he pushed the tempo, his recognition of the fact that Svi had it going, trying to continue to find him was great.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Will Hardy highlighted the fourth quarter impact of Isaiah Collier and Taylor Hendricks, noting Collier's ability to recognize the hot hand and push the tempo.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Isaiah Collier",
+          "Taylor Hendricks",
+          "Svi Mykhailiuk"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Will Hardy evaluates the fourth quarter impact of Isaiah Collier and Taylor Hendricks while noting their ability to find Svi Mykhailiuk.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Will Hardy",
+      "timestamp": "02:11",
+      "summary_phrase": "Will Hardy discusses Brice Sensabaugh's consistent energy and performance",
+      "names_mentioned": [
+        "Brice Sensabaugh"
+      ],
+      "excerpt": "I thought Brice's energy was good throughout the whole game. I think Brice brings a consistency.",
+      "quote": "I thought Brice's energy was good throughout the whole game. I think Brice brings a consistency in that way every night that he takes the floor and tonight was no different.",
+      "text_blocks": [],
+      "start_seconds": 131,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Will Hardy commended Brice Sensabaugh for his consistent energy, noting that he brings the same intensity every night he takes the floor.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brice Sensabaugh"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy comments on the consistent energy brought by Brice Sensabaugh throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Will Hardy",
+      "timestamp": "02:36",
+      "summary_phrase": "Will Hardy on Svi Mykhailiuk's aggressive shooting and decision-making",
+      "names_mentioned": [
+        "Svi Mykhailiuk"
+      ],
+      "excerpt": "He was super aggressive hunting his catch and shoot. Svi's a good player, good shooter.",
+      "quote": "He was super aggressive hunting his catch and shoot. Svi's a good player, good shooter. I thought he mixed in enough drives on the closeouts to keep them honest. And then like I said, I thought Zay was a big part of it, but I think that the team in general there in the fourth quarter, they recognized that Svi had the hot hand and they were really looking for him.",
+      "text_blocks": [],
+      "start_seconds": 156,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Will Hardy on Svi Mykhailiuk's performance: He was super aggressive hunting his catch and shoot and did a good job mixing in drives to keep the defense honest.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Svi Mykhailiuk",
+          "Isaiah Collier"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Will Hardy analyzes Svi Mykhailiuk's aggressive shooting performance and the team's effort to get him the ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Will Hardy",
+      "timestamp": "03:15",
+      "summary_phrase": "Will Hardy on the team's internal responsibility to improve energy",
+      "names_mentioned": [],
+      "excerpt": "I think that has to come from within. I think each person, we all have a responsibility.",
+      "quote": "I think that has to come from within. I think each person, we all have a responsibility to bring our best self to the team every day. Nobody gets to make an excuse, nobody's going to feel sorry for us. I think this is something where everybody has to take a look in the mirror and say, 'Hey, I need to raise my level,' and if everybody does that, we'll be fine.",
+      "text_blocks": [],
+      "start_seconds": 195,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Will Hardy says the Jazz need to look in the mirror to improve their energy, stating that nobody gets to make an excuse and everyone has a responsibility to raise their level.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy emphasizes the need for individual accountability and improved energy from his players moving forward.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "LVBI9JMqcr8",
+  "url": "https://www.youtube.com/watch?v=LVBI9JMqcr8",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-23T03:01:48Z",
+  "duration_seconds": 234,
+  "processed_at": "2026-11-23T03:25:40Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false
+}

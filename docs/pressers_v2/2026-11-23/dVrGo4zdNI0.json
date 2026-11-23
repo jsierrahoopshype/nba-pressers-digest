@@ -1,0 +1,190 @@
+{
+  "video_title": "Coach Daigneault on Team's Shorthanded Play | Postgame Media | November 22, 2026",
+  "speakers_seen": [
+    "Mark Daigneault"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:18",
+      "summary_phrase": "Mark Daigneault on team effort despite short-handed roster",
+      "names_mentioned": [],
+      "excerpt": "I thought we did some good things. I thought we played a pretty clean game.",
+      "quote": "We were one good run away from trying to put some game pressure on them and we were never able to really do that. They held us off in the second half, but not through lack of effort. To your point, I thought we did some good things. I thought we played a pretty clean game. On the offensive end, I thought we forced them to their layers on a lot of possessions defensively, so things we can learn from and take from.",
+      "text_blocks": [],
+      "start_seconds": 18,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mark Daigneault on the Thunder loss: We were one good run away from putting pressure on them but we were never able to do that. We played a clean game but they held us off.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Head coach Mark Daigneault discusses the team's performance and effort during a postgame press conference following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mark Daigneault",
+      "timestamp": "00:42",
+      "summary_phrase": "Mark Daigneault on player development for Jared McCain and AJ",
+      "names_mentioned": [
+        "AJ",
+        "Jared McCain",
+        "Clifford",
+        "Bennet",
+        "PV",
+        "Josh Giddey",
+        "Mikael"
+      ],
+      "excerpt": "We can take something from every game. Certainly those guys when they become main engines on the scouting report.",
+      "quote": "We can take something from every game. Certainly those guys when they become main engines on the scouting report, they are going to be created a little differently in terms of who their matchup is and the schemes they see. I thought that was the case tonight. And then just continued experience for Bennet and PV. I thought Josh Giddey played really well in the blue game the other night and this is the first time we have gone back to him since then and I thought he continued that tonight. So, Mikael obviously another good dose of minutes. There are positives we can take, there are things we can learn from every game, including this one.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Daigneault on the development of his younger players: When they become main engines on the scouting report they are going to be treated differently in terms of matchups and schemes.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jared McCain",
+          "Josh Giddey"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault evaluates the development and performance of young players including Jared McCain and Josh Giddey after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mark Daigneault",
+      "timestamp": "01:38",
+      "summary_phrase": "Mark Daigneault on team spacing and offensive strategy",
+      "names_mentioned": [],
+      "excerpt": "When we are double big, there is something structural about you probably not going to get as many.",
+      "quote": "I thought we shot it well obviously and got some decent ones. I thought some of that was stylistic. I have mentioned when I have been asked about the threes offensively, when we are double big, there is something structural about you probably not going to get as many and when you are five smalls you are going to get more. The floor is just more spaced and that is just the nature of playing that way and there are trade-offs with both. I like the way we moved the ball, I like the shots we took. I thought we offensive rebounded pretty well given the size in the game. So like I said, we played a pretty clean game offensively and obviously they were just a little bit better tonight.",
+      "text_blocks": [],
+      "start_seconds": 98,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Daigneault on offensive spacing: When we are double big there is something structural about not getting as many threes and when you are five smalls you are going to get more. The floor is just more spaced.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mark Daigneault explains the offensive strategy regarding floor spacing and the trade-offs between playing with two bigs versus five smalls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mark Daigneault",
+      "timestamp": "02:21",
+      "summary_phrase": "Mark Daigneault on developing mental toughness in young players",
+      "names_mentioned": [
+        "Josh Giddey",
+        "Mikael",
+        "Nick",
+        "Brooks",
+        "K-Rich",
+        "Wiggins"
+      ],
+      "excerpt": "You have to be a little bit of a punching bag. You have to be tough enough to mentally stay with it.",
+      "quote": "I will lump him in with Mikael and Nick here now and Brooks, really all those guys that are not in consistent Bennet, even at times that are not in consistent rotation minutes. You have to be a little bit of a punching bag. You have to be tough enough to mentally stay with it, understand it is going to come back around at some point and be able to play in character and hard and inside the team when your number gets called again. And the guys that have been here that have done that well from K-Rich to even Wiggins, guys like that, it makes them tougher and helps them improve and it allows us to go to them in a lot of different situations. So we are trying to build that muscle with some of the guys that are a little bit newer.",
+      "text_blocks": [],
+      "start_seconds": 141,
+      "end_seconds": 197,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Daigneault on the mental toughness required for young players not in the rotation: You have to be a little bit of a punching bag. You have to be tough enough to mentally stay with it and play in character when your number gets called.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Mark Daigneault discusses the importance of mental toughness for young players who are not currently receiving consistent rotation minutes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mark Daigneault",
+      "timestamp": "03:21",
+      "summary_phrase": "Mark Daigneault on balancing minutes during a condensed schedule",
+      "names_mentioned": [
+        "Mitchell",
+        "Hart",
+        "Jared"
+      ],
+      "excerpt": "We are not going to chase a game that the likelihood is low for the reasons that you mentioned.",
+      "quote": "Some of that is game context. It was 20 at some point in the fourth early. At that point, the chances of winning are low and so philosophically, especially in a condensed part of the schedule, we put the bench guys in there and we are still trying to win the game, but we try to give them the chance to cut into it and if they can get it in a strikable spot, then we will go back to those guys. I even went back to Hart and Jared there, I think it was 16 with nine to go. But at the same time, we are not going to chase a game that the likelihood is low for the reasons that you mentioned. So it is a balancing act, it is never perfect, but that is just philosophically how we choose to handle an 82-game season.",
+      "text_blocks": [],
+      "start_seconds": 201,
+      "end_seconds": 254,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Daigneault on managing minutes during a condensed schedule: We are not going to chase a game that the likelihood of winning is low. It is a balancing act and it is never perfect.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Josh Hart",
+          "Jared McCain"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mark Daigneault explains his philosophy on managing player minutes and bench usage during the late stages of a game with a significant deficit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "dVrGo4zdNI0",
+  "url": "https://www.youtube.com/watch?v=dVrGo4zdNI0",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-23T03:24:40Z",
+  "duration_seconds": 254,
+  "processed_at": "2026-11-23T03:25:41Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false
+}

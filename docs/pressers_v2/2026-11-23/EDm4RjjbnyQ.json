@@ -1,0 +1,252 @@
+{
+  "video_title": "Erik Spoelstra Post-Game Interview vs Thunder | 11/22/26",
+  "speakers_seen": [
+    "Erik Spoelstra"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:00",
+      "summary_phrase": "Bam Adebayo's performance and impact on the team's offense",
+      "names_mentioned": [
+        "Bam Adebayo"
+      ],
+      "excerpt": "I'm just glad to see him have that type of game.",
+      "quote": "It was almost like a old-school game where we were playing at the high post. A lot of it was in the post or in pick-and-rolls. But the way they are defending it, we were just letting him try to create an action, get to the paint and then play out of whatever paint touch happened from there. He made some really good passes, set up the guys pretty consistently throughout the course of the game. I was glad to see him have the triple-double because he was playing the right way in the entire game. Super efficient, and I think it just fed confidence into the other guys. We needed a bunch of guys to step up in this game, have Bam out, and I think the way Bam played set that up for everybody.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra praised Bam Adebayo for his triple double performance and his ability to consistently set up teammates while playing the right way throughout the game",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Erik Spoelstra discusses Bam Adebayo's offensive performance and playmaking during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:56",
+      "summary_phrase": "Nikola Jovic's rebounding and defensive versatility",
+      "names_mentioned": [
+        "Nikola Jovic"
+      ],
+      "excerpt": "I liked the way he rebounded the basketball tonight. He really went up after it.",
+      "quote": "I liked the way he rebounded the basketball tonight. He really went up after it, and it was one of his better rebounding games. It's not just that he rebounds, it's the optics of it, being in traffic, going up there, and securing the rebounds. I like that offensive rebound there at the end. He's been working at it, he had a couple good practices to prepare, but he's been preparing before this. Our depth is really important. You see his versatility, how that always can help, and they went to a really small lineup, and so Nikola's versatility defensively really helps you. His ability to switch, keep the ball in front of him, and get these like weird lineups, you just need a lot of versatility defensively, and he was able to provide that.",
+      "verbatim_original_language": "",
+      "start_seconds": 56,
+      "end_seconds": 108,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra highlighted Nikola Jovic for his rebounding and defensive versatility against small lineups noting that his ability to switch was key for the team",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jovic"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra praises Nikola Jovic for his rebounding and defensive versatility against a small lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "02:06",
+      "summary_phrase": "Update on Giannis Antetokounmpo's injury status",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "That's not super high. He almost played tonight.",
+      "quote": "That's not super high. He almost played tonight. I thought it was the right decision by everybody, the medical staff, Giannis. He went through his whole process to try to play, but I thought it was the right move. We have a couple days before our next game. We'll see how these two days go, but I'm optimistic.",
+      "verbatim_original_language": "",
+      "start_seconds": 126,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra says Giannis Antetokounmpo almost played tonight and he is optimistic about his status for the next game",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Erik Spoelstra provides an update on Giannis Antetokounmpo's injury status following his absence from the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "02:33",
+      "summary_phrase": "Assessing the team's defensive progress and lapses",
+      "names_mentioned": [],
+      "excerpt": "There were some things that I really liked, and then there were some couple lapses.",
+      "quote": "There were some things that I really liked, and then there were some couple lapses at different junctures. But for the most part, it was pretty good. When we gave up 3.9, that was a little bit frustrating, the way we were giving up the threes, but the efforts were there. The want is there. We were a little bit more consistent with it tonight. I know they had their guys out, but you still have to defend and make multiple efforts. There's no way around it.",
+      "verbatim_original_language": "",
+      "start_seconds": 153,
+      "end_seconds": 186,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Erik Spoelstra on the defensive effort tonight: There were some things I really liked and then there were some couple lapses at different junctures but for the most part it was pretty good",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra evaluates the team's defensive consistency and effort levels during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "03:29",
+      "summary_phrase": "Bam Adebayo's development in reading double teams",
+      "names_mentioned": [
+        "Bam Adebayo"
+      ],
+      "excerpt": "He faces the defense a lot more now, so he's able to see what's happening.",
+      "quote": "Well, he faces the defense a lot more now, so he's able to see what's happening and where the help is coming from. They were bringing it from the baseline, and then if he put the ball on the floor, they would aggressively dig or trap from the top. So I think the first step is facing it. If you're backing in, sometimes you can get surprised. I also think we spent an inordinate amount of time this year post-spacing because of the dynamic between Giannis and Bam. And if we're not right with our spacing when the two of them are on the court, we get jammed up. It's been a while since we've been jammed up, and I'm thinking about that Charlotte game, it was crazy. But that was part of the process we had to go through to work through this. And so we spend a lot of time with it, we watch a lot of film on it, Dave worked on it, and then that helps you, even in a game like this where Giannis is not playing, everybody's spacing was a lot more detailed, and we were able to generate offense from the post-up, and that's progress from our work, really, through the skill.",
+      "verbatim_original_language": "",
+      "start_seconds": 209,
+      "end_seconds": 289,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Erik Spoelstra discusses the progress of Bam Adebayo reading double teams and the team's ongoing work to improve spacing when playing alongside Giannis Antetokounmpo",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo",
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Erik Spoelstra explains how Bam Adebayo has improved at reading double teams and managing spacing alongside Giannis Antetokounmpo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "04:49",
+      "summary_phrase": "The strategy behind small-ball lineups and spacing",
+      "names_mentioned": [
+        "Giannis Antetokounmpo",
+        "Bam Adebayo"
+      ],
+      "excerpt": "I didn't want to lose the 3.9. If you're playing from a position of power.",
+      "quote": "A lot of it was because in the second quarter, they went to that super small lineup, and then that's when they were actually getting us scrambled around, and I didn't want to lose the 3.9. If you're playing from a position of power and playing with a lead, and they're scrambling you, then giving up the 3.9, well, that's why we went to some of those lineups and were able to flatten them out, and those were our switchable lineups. On the other end, I don't have a lot of complaints offensively. I'm not sure what you're referring to. Yeah, sometimes we could have tested the paint a little bit more. If I was to say anything about our offense tonight, we probably could have scored 135, we were throwing it into the stands. We could have kept it simple a little bit more. I see it as a product of the guys having fun, and they're trying to make somebody else get an open shot, and there's a little bit of flair for the moment. I'm not totally upset at that, especially from where we were a month ago, but if we can just get some more shots on goal, I also like scoring 135, I'm fine with 135 and 140.",
+      "verbatim_original_language": "",
+      "start_seconds": 289,
+      "end_seconds": 371,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra on the offense: We probably could have scored 135 but we were throwing it into the stands. I am not totally upset at that especially from where we were a month ago",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Erik Spoelstra explains his strategic decisions regarding small-ball lineups and the team's offensive execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "06:22",
+      "summary_phrase": "Bam Adebayo's aggressive mentality and decision-making",
+      "names_mentioned": [
+        "Bam Adebayo"
+      ],
+      "excerpt": "It's the ground-and-pound mentality that both of those guys have.",
+      "quote": "With Bam, it's the ground-and-pound mentality that both of those guys have. And I think some of that of how Bam plays is rubbing off on Bam. I think he's being more assertive once he gets into the circle area, just being way more aggressive, even sometimes just trying to go up and dunk it, and that's when he gets hammered instead of trying to finesse it. But all of it, and I think once you start seeing it happen more often, then you start going to it more often. We've been emphasizing, you know, with the two of them, it should feel like a frontcourt when they're leaving the game after the game. It should feel like this an element of ground-and-pound and physicality where they have to ice themselves. If we're not doing that, then we're not maximizing their brutality. And they can do it in different ways. It's not just putting your head down, it's playing with nuance to get to your brutality, and I think those two are getting better with that.",
+      "verbatim_original_language": "",
+      "start_seconds": 382,
+      "end_seconds": 450,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra wants his frontcourt to play with more brutality: It should feel like an element of ground and pound and physicality where they have to ice themselves",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Erik Spoelstra discusses the aggressive playing style and physicality he expects from Bam Adebayo.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "EDm4RjjbnyQ",
+  "url": "https://www.youtube.com/watch?v=EDm4RjjbnyQ",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-23T02:59:22Z",
+  "duration_seconds": 482,
+  "processed_at": "2026-11-23T03:25:47Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false
+}
