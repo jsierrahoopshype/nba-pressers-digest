@@ -13,6 +13,12 @@
    "seeded": true,
    "slot_date": "2026-11-09"
   },
+  "-BTsCNdh9os": {
+   "at": "2026-11-23T00:51:59Z",
+   "quote": "the focus the commitment to that to each other i think it begins with our spacing coming down the floor if we don t have something passing the ball or we re attacking the defense not on the front side",
+   "run_id": "2026-11-23T0050Z-20utc",
+   "slot_date": "2026-11-22"
+  },
   "-CeCavZxex4": {
    "at": "2026-11-10T10:26:36Z",
    "quote": "obviously when you are not a basketball player not played the sport not been in a locker room you see it and it jumps off the page at you i understand doc in this situation obviously doc is historical",
@@ -349,6 +355,12 @@
    "quote": "it feels like we can get to guys in the pocket different guys in the pocket that often leads to maybe a mid range shot we face a lot of drop coverage when you have rudy gobert on the floor so you have",
    "run_id": "2026-11-13-overnight",
    "slot_date": "2026-11-13"
+  },
+  "5MwqQU7Z_p0": {
+   "at": "2026-11-23T00:51:59Z",
+   "quote": "there s a difference between an open shot and an open shot with rhythm we re getting some open shots but i don t think there s a rhythm to them so they re less likely to go in if you get a paint touch",
+   "run_id": "2026-11-23T0050Z-20utc",
+   "slot_date": "2026-11-22"
   },
   "5OgBtpi8_lk": {
    "at": "2026-11-10T10:26:55Z",
@@ -710,6 +722,12 @@
    "run_id": "2026-11-21-overnight",
    "slot_date": "2026-11-21"
   },
+  "CS3FlGY1-Aw": {
+   "at": "2026-11-23T00:51:59Z",
+   "quote": "the most important thing lou tore it up zubi tore it up dyson tore it up on the glass plays like that allow us more chances to score and then it deflates the other team we talk about that all the time",
+   "run_id": "2026-11-23T0050Z-20utc",
+   "slot_date": "2026-11-22"
+  },
   "CVj5Z5y0ZA0": {
    "at": "2026-11-12T17:39:12Z",
    "quote": "i d say so i think that offensively i m a liability if i don t look for my shot i think that i do a great job of getting guys involved but if they re just not going to help i have to go score the ball",
@@ -784,6 +802,12 @@
    "quote": "obviously fouls i think we fouled them 18 times they went to the free throw line 18 times in the second quarter so drives and fouls and like you said danny they were living at our rim you know fourth ",
    "run_id": "2026-11-19-overnight",
    "slot_date": "2026-11-19"
+  },
+  "EXZlblwNX18": {
+   "at": "2026-11-23T00:51:59Z",
+   "quote": "we re all connected out there we know exactly what we need to do to get it done there s no gray areas everyone knows their role so it s been fun so far",
+   "run_id": "2026-11-23T0050Z-20utc",
+   "slot_date": "2026-11-22"
   },
   "Ea-GfFFEXpo": {
    "at": "2026-11-19T18:24:05Z",
@@ -2445,6 +2469,12 @@
    "run_id": "2026-11-16T2322Z-14utc",
    "slot_date": "2026-11-16"
   },
+  "jusQdayEPM4": {
+   "at": "2026-11-23T00:51:59Z",
+   "quote": "i think for us just being so consumed with the process processes and we re starting to take care of the basketball better obviously the wheels can fall off at any moment in any game but we re taking c",
+   "run_id": "2026-11-23T0050Z-20utc",
+   "slot_date": "2026-11-22"
+  },
   "jvjXy2P86fk": {
    "at": "2026-11-19T18:24:05Z",
    "quote": "i ll say it would be kawhi leonard",
@@ -3000,6 +3030,12 @@
    "run_id": "2026-11-18-overnight",
    "slot_date": "2026-11-18"
   },
+  "u2XViKO2iVk": {
+   "at": "2026-11-23T00:51:59Z",
+   "quote": "i value that a lot i feel like anytime we can get any extra possession it s always good for the team and a lot of credit to everybody that stepped in the game today especially the second group we came",
+   "run_id": "2026-11-23T0050Z-20utc",
+   "slot_date": "2026-11-22"
+  },
   "u2bsTFu3SgE": {
    "at": "2026-11-12T17:39:12Z",
    "quote": "i mean this rockets team did what they do right in terms of the way they attacked defensively offensively all last i know that s what you all are trying to do and establish here just i don t know was ",
@@ -3338,102 +3374,5 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {
-  "-BTsCNdh9os": {
-   "channel": "Atlanta Hawks",
-   "clip_count": 4,
-   "content_type": "presser",
-   "date": "2026-11-22",
-   "is_one_off": false,
-   "queued_at": "2026-11-23T00:51:59Z",
-   "run_id": "2026-11-23T0050Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-22",
-   "speaker": "Quin Snyder",
-   "title": "Hawks vs. Pistons Postgame Press Conference: Head Coach Quin Snyder",
-   "top_quote": "The focus, the commitment to that, to each other. I think it begins with our spacing coming down the floor. If we don't have something, passing the ball, or we're attacking the defense, not on the front side where they're shifted, not holding the ball where the defense can shift again, and being willing to create shots for each other and taking them, and crashing. It's kind of formulaic, and those guys, when you're coming into the game and you have that focus and those things, particularly when your team's behind, there's an opportunity there, and those guys have done that, they've seized it.",
-   "video_id": "-BTsCNdh9os"
-  },
-  "5MwqQU7Z_p0": {
-   "channel": "Golden State Warriors",
-   "clip_count": 11,
-   "content_type": "presser",
-   "date": "2026-11-22",
-   "is_one_off": false,
-   "queued_at": "2026-11-23T00:51:59Z",
-   "run_id": "2026-11-23T0050Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-22",
-   "speaker": "Steve Kerr",
-   "title": "Steve Kerr harps on Warriors’ defense to step up vs. Celtics | NBC Sports Bay Area",
-   "top_quote": "There's a difference between an open shot and an open shot with rhythm. We're getting some open shots, but I don't think there's a rhythm to them. So they're less likely to go in. If you get a paint touch, kick out, open three, that's what you're looking for. It doesn't feel like we're getting a ton of those. So ball pressure in the last couple games hurt us, so we worked hard yesterday in practice on some things trying to generate better rhythm to our offense.",
-   "video_id": "5MwqQU7Z_p0"
-  },
-  "CS3FlGY1-Aw": {
-   "channel": "Atlanta Hawks",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-22",
-   "is_one_off": false,
-   "queued_at": "2026-11-23T00:51:59Z",
-   "run_id": "2026-11-23T0050Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-22",
-   "speaker": "Corey Kispert",
-   "title": "Hawks vs. Pistons Postgame Press Conference: Corey Kispert",
-   "top_quote": "The most important thing. Lou tore it up, Zubi tore it up, Dyson tore it up on the glass. Plays like that allow us more chances to score and then it deflates the other team. We talk about that all the time as a group, emphasizing that kind of stuff. When you are on the other end and there is rebound after rebound after rebound and a big three, that flattens the other team. Credit to those guys for getting on the glass and cleaning it up. Seven offensive rebounds for Dyson, six for Jaylen, three for Lou, two for Zubi, that stuff goes a long way.",
-   "video_id": "CS3FlGY1-Aw"
-  },
-  "EXZlblwNX18": {
-   "channel": "Los Angeles Lakers",
-   "clip_count": 20,
-   "content_type": "presser",
-   "date": "2026-11-22",
-   "is_one_off": false,
-   "queued_at": "2026-11-23T00:51:59Z",
-   "run_id": "2026-11-23T0050Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": false,
-   "slot_date": "2026-11-22",
-   "speaker": "Ziaire Williams",
-   "title": "Lakers Practice Interview 2026-27 Season: Ziaire Williams, Collin Sexton, Coach JJ Redick",
-   "top_quote": "We're all connected out there. We know exactly what we need to do to get it done. There's no gray areas. Everyone knows their role, so it's been fun so far.",
-   "video_id": "EXZlblwNX18"
-  },
-  "jusQdayEPM4": {
-   "channel": "Dallas Mavericks",
-   "clip_count": 7,
-   "content_type": "presser",
-   "date": "2026-11-22",
-   "is_one_off": false,
-   "queued_at": "2026-11-23T00:51:59Z",
-   "run_id": "2026-11-23T0050Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-22",
-   "speaker": "Dusty May",
-   "title": "Dusty May Pregame | Darryn Peterson, Walter Clayton Jr. & Mavericks at Jazz",
-   "top_quote": "I think for us just being so consumed with the process, processes and we're starting to take care of the basketball better. Obviously, the wheels can fall off at any moment in any game, but we're taking care of the ball, we're valuing it better, we're more active on the glass, a lot more team rebounding, we're all five guys are involved. And so, all the other stuff, the fluff that goes into the game, it usually the same things that go into winning and losing typically shake out over time whether you're home or on the road.",
-   "video_id": "jusQdayEPM4"
-  },
-  "u2XViKO2iVk": {
-   "channel": "Atlanta Hawks",
-   "clip_count": 3,
-   "content_type": "presser",
-   "date": "2026-11-22",
-   "is_one_off": false,
-   "queued_at": "2026-11-23T00:51:59Z",
-   "run_id": "2026-11-23T0050Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-22",
-   "speaker": "Luguentz Dort",
-   "title": "Hawks vs. Pistons Postgame Press Conference: Luguentz Dort",
-   "top_quote": "I value that a lot. I feel like anytime we can get any extra possession, it's always good for the team. And a lot of credit to everybody that stepped in the game today, especially the second group. We came out here and competed really hard, and credit to the first group as well for just setting up the tone the way they started the game.",
-   "video_id": "u2XViKO2iVk"
-  }
- }
+ "pending": {}
 }
