@@ -1,0 +1,160 @@
+{
+  "video_title": "Hawks vs. Pistons Postgame Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:10",
+      "summary_phrase": "Quin Snyder on the Hawks' bench playing with high connectivity",
+      "names_mentioned": [],
+      "excerpt": "The focus, the commitment to that, to each other. I think it begins with our spacing.",
+      "quote": "The focus, the commitment to that, to each other. I think it begins with our spacing coming down the floor. If we don't have something, passing the ball, or we're attacking the defense, not on the front side where they're shifted, not holding the ball where the defense can shift again, and being willing to create shots for each other and taking them, and crashing. It's kind of formulaic, and those guys, when you're coming into the game and you have that focus and those things, particularly when your team's behind, there's an opportunity there, and those guys have done that, they've seized it.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 70,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Quin Snyder on the Hawks bench unit: The focus and commitment to each other begins with our spacing and being willing to create shots for one another. It is formulaic and those guys have seized the opportunity.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the team's offensive focus and ball movement during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "03:26",
+      "summary_phrase": "Quin Snyder explains the defensive coverage switch on Cade Cunningham",
+      "names_mentioned": [
+        "Cade Cunningham",
+        "Dyson Daniels",
+        "Lou Williams"
+      ],
+      "excerpt": "When Jenkins was in the game, we had Dyson on the ball and Lou on Cade.",
+      "quote": "When Jenkins was in the game, we had Dyson on the ball and Lou on Cade. They both guarded him, and there was, those two when they're involved in an action, could switch. I don't know that we switched up the coverage as much as a lot of times there's tried to adjust some in pick-and-roll coverages, but there was no coverage for what the competitiveness that Lou had and Dyson as well. I thought Lou's ability to move his feet and just hold his ground, it's just, it's really unique. You've watched a lot of NBA games and there's only a few guys that can do that.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Quin Snyder praises the defensive tenacity of Dyson Daniels and Lou on Cade Cunningham. Snyder says Lou's ability to move his feet and hold his ground is really unique and something you rarely see in the NBA.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cade Cunningham",
+          "Dyson Daniels",
+          "Lou Williams"
+        ],
+        "teams": [
+          "ATL",
+          "DET"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Quin Snyder explains the defensive strategy and player assignments used to guard Cade Cunningham.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "04:41",
+      "summary_phrase": "Quin Snyder on staggering minutes for Jalen Johnson and Dyson Daniels",
+      "names_mentioned": [
+        "Jalen Johnson",
+        "Dyson Daniels"
+      ],
+      "excerpt": "The two of them obviously start the game together, and I think they're two primary ball-handlers.",
+      "quote": "The two of them obviously start the game together, and I think they're two primary ball-handlers. So, there's times when they're both in, but with where we are right now, that group of nine guys that played tonight, I think it's important to have one of them out there to steady us, particularly in like dead-ball situations, out of bounds, things like that. If we can run and get stops, other guys can handle, but those two guys, I think have a natural feel for leading as well when they have the ball in their hands.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 281,
+      "end_seconds": 318,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Quin Snyder explains the decision to stagger Jalen Johnson and Dyson Daniels minutes. He says it is important to have at least one of them on the floor to steady the team in dead ball situations.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Johnson",
+          "Dyson Daniels"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Quin Snyder explains the rotation strategy regarding staggering the minutes of Jalen Johnson and Dyson Daniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Quin Snyder",
+      "timestamp": "08:37",
+      "summary_phrase": "Quin Snyder on Corey Kispert's mental toughness and team commitment",
+      "names_mentioned": [
+        "Corey Kispert"
+      ],
+      "excerpt": "His mental toughness and his commitment to the team has been unwavering through all that.",
+      "quote": "It's hard to overstate it. It's something that he and I have had really direct conversations about. And he's played well, even up to the point where he's gotten to get on the floor and have more minutes. So, it's, as I said before, you want to play everybody, and the game doesn't always present itself that way, but we are, and I've said this before too, a work in progress. And the thing that's most impressive about what Corey's done is obviously his play, but his mental toughness and his commitment to the team has been unwavering through all that. And he's all, be mad at me, and keep throwing yourself in the team, and that isn't something I even need to say. But in my mind, the way that he's been able to lose himself in the group is pretty unique.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 517,
+      "end_seconds": 572,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Quin Snyder on Corey Kispert: The thing that is most impressive is his mental toughness and his commitment to the team. His ability to lose himself in the group is pretty unique.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Corey Kispert"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder praises Corey Kispert for his mental toughness and commitment to the team despite fluctuating playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "-BTsCNdh9os",
+  "url": "https://www.youtube.com/watch?v=-BTsCNdh9os",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-22T23:48:43Z",
+  "duration_seconds": 735,
+  "processed_at": "2026-11-23T00:51:22Z",
+  "run_id": "2026-11-23T0050Z-20utc",
+  "is_one_off": false
+}

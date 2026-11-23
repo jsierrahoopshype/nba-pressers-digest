@@ -1,0 +1,670 @@
+{
+  "video_title": "Lakers Practice Interview 2026-27 Season: Ziaire Williams, Collin Sexton, Coach JJ Redick",
+  "speakers_seen": [
+    "Ziaire Williams",
+    "Collin Sexton",
+    "JJ Redick"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ziaire Williams",
+      "timestamp": "00:00",
+      "summary_phrase": "Ziaire Williams on the Lakers' team chemistry and roles",
+      "names_mentioned": [],
+      "excerpt": "We're all connected out there. We know exactly what we need to do to get it done.",
+      "quote": "We're all connected out there. We know exactly what we need to do to get it done. There's no gray areas. Everyone knows their role, so it's been fun so far.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 12,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ziaire Williams on the Lakers' chemistry: We are all connected out there. Everyone knows their role, so it has been fun so far.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ziaire Williams discusses how the team is currently working on establishing roles and chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ziaire Williams",
+      "timestamp": "00:56",
+      "summary_phrase": "Ziaire Williams on handling pressure and staying grounded",
+      "names_mentioned": [],
+      "excerpt": "I'm a man of God. I just stay prayed up, stay in the Bible, talk to my family.",
+      "quote": "I'm a man of God. I just stay prayed up, stay in the Bible, talk to my family. Good game or bad game, you know, just treat it like the same. Get my recovery, watch film, and just keep the daily habits the same.",
+      "verbatim_original_language": "",
+      "start_seconds": 56,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Ziaire Williams on staying grounded: Good game or bad game, just treat it like the same. Get my recovery, watch film, and keep the daily habits the same.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Ziaire Williams explains his personal approach to maintaining consistency and mental health during the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ziaire Williams",
+      "timestamp": "01:29",
+      "summary_phrase": "Ziaire Williams on finding his rhythm after injury",
+      "names_mentioned": [],
+      "excerpt": "I feel like I'm in rhythm. The role I have, some games I might get two shots.",
+      "quote": "I feel like I'm in rhythm. The role I have, some games I might get two shots, some games I might get ten. It just depends on the ball finding me, but I'm cool with that. I'm just trying to do whatever I can to impact winning.",
+      "verbatim_original_language": "",
+      "start_seconds": 89,
+      "end_seconds": 107,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ziaire Williams feels he is back in rhythm: Some games I might get two shots, some games I might get ten. I am just trying to do whatever I can to impact winning.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Ziaire Williams reflects on finding his rhythm and adjusting to his role within the team's offense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ziaire Williams",
+      "timestamp": "02:04",
+      "summary_phrase": "Ziaire Williams on Cameron Carr's performance",
+      "names_mentioned": [
+        "Cameron Carr"
+      ],
+      "excerpt": "He always reminds me of myself my rookie year. Just super happy to be out there.",
+      "quote": "I thought he was great. He always reminds me of myself my rookie year. Just super happy to be out there. He's just super grateful for the opportunity, and he did great. Had a big three, finished on a break, played some good defense, so I'm proud of him. It's just the beginning.",
+      "verbatim_original_language": "",
+      "start_seconds": 124,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Ziaire Williams on Cameron Carr: He reminds me of myself my rookie year. Just super happy to be out there and grateful for the opportunity.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cameron Carr"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ziaire Williams praises the performance and energy of teammate Cameron Carr.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ziaire Williams",
+      "timestamp": "02:26",
+      "summary_phrase": "Ziaire Williams on the team's chemistry with lob passes",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "I try to put myself in positions where the lob is the best option we have.",
+      "quote": "I try to put myself in positions where the lob is the best option we have. When you catch a lob, people throw it more often. If you miss a dunk or don't catch it, then people get more hesitant. I feel like we're all still new playing with each other, so we're all just trying to figure out each other's strengths and weaknesses. Obviously, Luka has hit me a couple of times.",
+      "verbatim_original_language": "",
+      "start_seconds": 146,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ziaire Williams on the Lakers' lob game: We are all still new playing with each other, so we are all just trying to figure out each other's strengths and weaknesses.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ziaire Williams discusses the team's ongoing effort to build chemistry on lob plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ziaire Williams",
+      "timestamp": "03:45",
+      "summary_phrase": "Ziaire Williams on the impact of playing with Walker Kessler",
+      "names_mentioned": [
+        "Walker Kessler"
+      ],
+      "excerpt": "We all love Walker. He's the anchor of our defense. He's one of the nicest guys.",
+      "quote": "We all love Walker. He's the anchor of our defense. He's one of the nicest guys I think I've probably ever played with. He's a great dude, and I love Walker to death. It's always good to know you have this paint presence behind you. Top one percent of the one percent in rim protection, so he's been great for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 225,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Ziaire Williams on Walker Kessler: He is the anchor of our defense. One of the nicest guys I have ever played with. Top one percent of the one percent in rim protection.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Walker Kessler"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ziaire Williams highlights the defensive impact and character of teammate Walker Kessler.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ziaire Williams",
+      "timestamp": "04:37",
+      "summary_phrase": "Ziaire Williams on his chemistry with Matisse Thybulle",
+      "names_mentioned": [
+        "Matisse Thybulle"
+      ],
+      "excerpt": "We feed off each other's energy. We play like on the same wavelength in a sense.",
+      "quote": "We feed off each other's energy. We play like on the same wavelength in a sense. I feel like our minds are super connected, especially on the defensive end. We both love to take on the challenge, and we love to not only just contain our matchup, but also help out all the other guys as well. It's been great for him. I've learned a lot from him, honestly.",
+      "verbatim_original_language": "",
+      "start_seconds": 277,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ziaire Williams on Matisse Thybulle: We feed off each other's energy. We play on the same wavelength, especially on the defensive end.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Matisse Thybulle"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ziaire Williams describes his defensive chemistry and learning experience with Matisse Thybulle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Collin Sexton",
+      "timestamp": "06:02",
+      "summary_phrase": "Collin Sexton on encouraging Ziaire Williams to shoot",
+      "names_mentioned": [
+        "Ziaire Williams"
+      ],
+      "excerpt": "I've been telling Ziaire for the last couple weeks, you get an opportunity, let it fly.",
+      "quote": "I've been telling Ziaire for the last couple weeks, you get an opportunity, let it fly. You work on it each and every day in the summer, you work on it here at practice. We all believe in you. I said, I throw you the ball, shoot it. I don't care. So I was super excited when he shot it, and it was nothing but net.",
+      "verbatim_original_language": "",
+      "start_seconds": 362,
+      "end_seconds": 387,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Collin Sexton is pushing Ziaire Williams to be more aggressive: I have been telling Ziaire for the last couple weeks, you get an opportunity, let it fly. We all believe in you.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ziaire Williams"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Sexton explains that he has been encouraging Ziaire Williams to be more aggressive with his shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Collin Sexton",
+      "timestamp": "06:24",
+      "summary_phrase": "Collin Sexton on Ziaire Williams' recovery from injury",
+      "names_mentioned": [
+        "Ziaire Williams"
+      ],
+      "excerpt": "It's different because he's coming off an injury. He didn't play all last season.",
+      "quote": "It's different because he's coming off an injury. He didn't play all last season, he was out for a good bit of the year, and just trying to figure out the rhythm to get back. I know how that feels, of being out nine, ten months and trying to find a rhythm to get back. So I always give myself grace, so when I'm talking to him, I give him grace as well because it's not easy.",
+      "verbatim_original_language": "",
+      "start_seconds": 384,
+      "end_seconds": 414,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Collin Sexton on Ziaire Williams returning from injury: I know how that feels, of being out nine or ten months and trying to find a rhythm. I give him grace because it is not easy.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ziaire Williams"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Collin Sexton discusses the difficulty of returning to rhythm after a long-term injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Collin Sexton",
+      "timestamp": "07:12",
+      "summary_phrase": "Collin Sexton on Ziaire Williams' character and team impact",
+      "names_mentioned": [
+        "Ziaire Williams"
+      ],
+      "excerpt": "I've been knowing Ziaire for a long time, so you can just tell everyone gravitates to him.",
+      "quote": "I've been knowing Ziaire for a long time, so you can just tell everyone gravitates to him. He's such a good guy on the court. We all laughing and joking with him and trying to mess with him. He's one of those people that you know what you're going to get from him each and every day. He's going to come in with a good attitude, work hard, and have a good mindset.",
+      "verbatim_original_language": "",
+      "start_seconds": 432,
+      "end_seconds": 460,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Collin Sexton on Ziaire Williams: You can just tell everyone gravitates to him. He is going to come in with a good attitude, work hard, and have a good mindset.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ziaire Williams"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Sexton comments on Ziaire Williams' positive attitude and character within the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Collin Sexton",
+      "timestamp": "07:46",
+      "summary_phrase": "Collin Sexton on the Lakers' fourth-quarter execution",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "Me and Luka have been talking. I got to make sure I get the guys organized.",
+      "quote": "Me and Luka have been talking. I got to make sure I get the guys organized. I got to make sure we get a possession each and every time down, and make sure we don't turn the ball over. So I think the biggest thing for me is just getting them in the right spots, and when we're in the right spots, we usually get a good shot.",
+      "verbatim_original_language": "",
+      "start_seconds": 466,
+      "end_seconds": 492,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Collin Sexton on his role: I have to make sure I get the guys organized. I have to make sure we get a possession each and every time down and make sure we do not turn the ball over.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Collin Sexton discusses his coordination with Luka Doncic regarding late-game execution and organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Collin Sexton",
+      "timestamp": "08:30",
+      "summary_phrase": "Collin Sexton on adjusting to different roles",
+      "names_mentioned": [
+        "JJ Redick"
+      ],
+      "excerpt": "Each and every day is going to be different, so that's one thing we always talk about.",
+      "quote": "Each and every day is going to be different, so that's one thing we always talk about. Not one game is going to be the same, so you have to be willing to adjust. I feel like I've been adjusting pretty well. Whenever I'm out there, I try to go out there and have the right mindset and the right approach to impact winning at any cost.",
+      "verbatim_original_language": "",
+      "start_seconds": 510,
+      "end_seconds": 536,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Collin Sexton on adjusting roles: Not one game is going to be the same, so you have to be willing to adjust. I try to have the right mindset to impact winning at any cost.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Collin Sexton speaks on the necessity of being adaptable to changing roles throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Collin Sexton",
+      "timestamp": "09:28",
+      "summary_phrase": "Collin Sexton on the pressure of playing for the Lakers",
+      "names_mentioned": [],
+      "excerpt": "It's amazing to come in and see the Raptors and see the championship and things like that.",
+      "quote": "It's amazing to come in and see the Raptors and see the championship and things like that. For me, I don't think it's pressure that we already set on ourselves. At the end of the day, we're coming in and trying to be the best version of ourselves. We're not really too focused on the past, we're focused on the now and focused on how can we win now.",
+      "verbatim_original_language": "",
+      "start_seconds": 568,
+      "end_seconds": 595,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Collin Sexton on Lakers expectations: We are not really too focused on the past, we are focused on the now and focused on how can we win now.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Collin Sexton discusses the team's focus on current performance rather than external pressure or past history.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Collin Sexton",
+      "timestamp": "10:06",
+      "summary_phrase": "Collin Sexton on the unique experience of being a Laker",
+      "names_mentioned": [],
+      "excerpt": "Lakers fans are everywhere. When we go to away games, you can tell the support.",
+      "quote": "Lakers fans are everywhere. When we go to away games, you can tell the support. And then two, I would say just the media, the media aspect of winning. Not just you guys, but just the media aspect of like, okay, we have to win and we have to put on a show. It's Lakers show. So each and every night we're going to get the other team's best, and we got to be willing to go out there and know that and be ready to go.",
+      "verbatim_original_language": "",
+      "start_seconds": 606,
+      "end_seconds": 639,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Collin Sexton on the Lakers experience: It is Lakers show. Each and every night we are going to get the other team's best, and we have to be willing to go out there and be ready to go.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Collin Sexton reflects on the unique media environment and fan support associated with playing for the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Collin Sexton",
+      "timestamp": "10:56",
+      "summary_phrase": "Collin Sexton on his role in offensive organization",
+      "names_mentioned": [
+        "Sandra",
+        "Walker Kessler"
+      ],
+      "excerpt": "I got to make sure I'm doing the right play calls, time and score.",
+      "quote": "I got to make sure I'm doing the right play calls, time and score, making sure I'm seeing, okay, maybe Sandra didn't get a shot this possession, or maybe Walker didn't get a shot. Just trying to organize that and trying to make sure, okay, getting those guys a feel, especially the guys that's going to be in the fourth quarter with two minutes to go.",
+      "verbatim_original_language": "",
+      "start_seconds": 656,
+      "end_seconds": 681,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Collin Sexton on offensive organization: I am trying to make sure I am doing the right play calls, time and score, and getting guys a feel, especially for the fourth quarter.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Sandra",
+          "Walker Kessler"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Sexton explains his responsibility in ensuring key teammates are involved in the offense during crunch time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Collin Sexton",
+      "timestamp": "11:31",
+      "summary_phrase": "Collin Sexton on his chemistry with Walker Kessler",
+      "names_mentioned": [
+        "Walker Kessler"
+      ],
+      "excerpt": "We're way more mature now because we think the game a lot better.",
+      "quote": "We're way more mature now because we think the game a lot better. And even just in the summer, we work out together. So that chemistry is like, we're talking to each other in the middle of the play, and it helps like, okay, he know, all right, I'm going to pass to him, or he got a screen for me. It's like, I think that chemistry is just, it's huge.",
+      "verbatim_original_language": "",
+      "start_seconds": 691,
+      "end_seconds": 718,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Collin Sexton on his chemistry with Walker Kessler: We are way more mature now because we think the game a lot better. That chemistry is huge.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Walker Kessler"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Collin Sexton discusses the growth of his on-court chemistry with Walker Kessler.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Collin Sexton",
+      "timestamp": "12:00",
+      "summary_phrase": "Collin Sexton on the team's defensive physicality",
+      "names_mentioned": [
+        "JJ Redick"
+      ],
+      "excerpt": "We're able to be a little bit more physical on the ball and off the ball.",
+      "quote": "We're able to be a little bit more physical on the ball and off the ball. I think that's something that Coach Redick wants us to do, just because if we're physical, usually they can call every foul. So just being a more physical team and have that approach, and I feel like that's what I bring each and every night.",
+      "verbatim_original_language": "",
+      "start_seconds": 720,
+      "end_seconds": 743,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Collin Sexton on defensive identity: Coach Redick wants us to be a little bit more physical. If we are physical, usually they can call every foul, but that is the approach we need.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Collin Sexton discusses the team's shift toward a more physical defensive approach under JJ Redick.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "JJ Redick",
+      "timestamp": "12:57",
+      "summary_phrase": "JJ Redick clarifies rumors about a hype video",
+      "names_mentioned": [],
+      "excerpt": "I just want to clarify something, that I I did not actually make a hype video.",
+      "quote": "I just want to clarify something, that I I did not actually make a hype video on my iPhone on the iMovie app on Friday afternoon. That was not me. I talked about a postgame, it was like a half-joke. But we had some wonderful people in the Lakers organization. Oh, you did. Oh, you did it. Awesome. It was it was great. And last minute, by the way, it was terrific.",
+      "verbatim_original_language": "",
+      "start_seconds": 777,
+      "end_seconds": 805,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 7,
+      "social_post": "JJ Redick clarifies the hype video rumors: I did not actually make a hype video on my iPhone on the iMovie app on Friday afternoon. That was not me.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "JJ Redick clarifies that he did not personally create a viral hype video for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "JJ Redick",
+      "timestamp": "13:30",
+      "summary_phrase": "JJ Redick on Austin Reaves' status",
+      "names_mentioned": [
+        "Austin Reaves"
+      ],
+      "excerpt": "He was in practice. We didn't do anything live, but he was a full participant.",
+      "quote": "He was in practice. We didn't do anything live, but he was a full participant. Started with some teaching on some stuff to clean some stuff up, and then we did two sets of defensive breakdowns, two sets of offensive breakdowns, and now the guys are getting shots up. So, but he was did everything, making progress.",
+      "verbatim_original_language": "",
+      "start_seconds": 810,
+      "end_seconds": 832,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "JJ Redick on Austin Reaves: He was a full participant in practice today. He did everything and is making progress.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Austin Reaves"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "JJ Redick provides an update on Austin Reaves' participation in practice and his recovery progress.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 20,
+      "speaker": "JJ Redick",
+      "timestamp": "16:46",
+      "summary_phrase": "JJ Redick on Luka Doncic's leadership style",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "He's leading not out of frustration. And whether that was a frustrating moment or not.",
+      "quote": "First of all, I think what he's been doing has been great because he's leading not out of frustration. And whether that was a frustrating moment or not, look, it was frustrating for me. It was a four-point game, and we don't execute it two-for-one, and then we don't execute the last shot, and we turned a four-point game where could be tied if we execute that correctly into an eight-point game. I was steaming, and that's part of the reason that maybe I raised my voice a little bit at halftime.",
+      "verbatim_original_language": "",
+      "start_seconds": 1006,
+      "end_seconds": 1041,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "JJ Redick on Luka Doncic: He is leading not out of frustration. I was steaming at halftime because we did not execute, and that is part of the reason I raised my voice.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions",
+          "teammates"
+        ],
+        "context": "JJ Redick discusses Luka Doncic's leadership and reflects on a specific moment of frustration regarding game execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "EXZlblwNX18",
+  "url": "https://www.youtube.com/watch?v=EXZlblwNX18",
+  "channel_team": "Los Angeles Lakers",
+  "published": "2026-11-22T23:25:08Z",
+  "duration_seconds": 1251,
+  "processed_at": "2026-11-23T00:51:52Z",
+  "run_id": "2026-11-23T0050Z-20utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

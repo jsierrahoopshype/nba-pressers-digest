@@ -1,0 +1,117 @@
+{
+  "video_title": "Hawks vs. Pistons Postgame Press Conference: Luguentz Dort",
+  "speakers_seen": [
+    "Luguentz Dort"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Luguentz Dort",
+      "timestamp": "00:17",
+      "summary_phrase": "Luguentz Dort on the importance of team rebounding",
+      "names_mentioned": [],
+      "excerpt": "Anytime we can get any extra possession, it's always good for the team.",
+      "quote": "I value that a lot. I feel like anytime we can get any extra possession, it's always good for the team. And a lot of credit to everybody that stepped in the game today, especially the second group. We came out here and competed really hard, and credit to the first group as well for just setting up the tone the way they started the game.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Luguentz Dort on the importance of team rebounding: I value that a lot. I feel like anytime we can get any extra possession, it is always good for the team.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ATL",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Luguentz Dort discusses the importance of team rebounding and the effort shown by the bench and starting units during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Luguentz Dort",
+      "timestamp": "00:50",
+      "summary_phrase": "Luguentz Dort on the defensive challenge of guarding Cade Cunningham",
+      "names_mentioned": [
+        "Cade Cunningham"
+      ],
+      "excerpt": "He gets their team going, he's their main engine.",
+      "quote": "He is a great player. He gets their team going, he's their main engine. Anytime I can make it tough on him, it's always going to be beneficial for us, for our team. We did it as a team. We tried to throw a lot of different looks and make it tough on him, but I feel like we did a good job as a group.",
+      "text_blocks": [],
+      "start_seconds": 50,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Luguentz Dort on guarding Cade Cunningham: He is a great player. He gets their team going, he is their main engine. Anytime I can make it tough on him, it is always going to be beneficial for us.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cade Cunningham"
+        ],
+        "teams": [
+          "ATL",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Luguentz Dort explains the defensive strategy used by the team to limit the impact of Cade Cunningham.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Luguentz Dort",
+      "timestamp": "01:59",
+      "summary_phrase": "Luguentz Dort on building chemistry with Dyson Daniels",
+      "names_mentioned": [
+        "Dyson Daniels"
+      ],
+      "excerpt": "I love sharing the court with Dyson, especially on the defensive end.",
+      "quote": "We get used to it. We have a lot of different lineups that we are throwing out there. I love sharing the court with Dyson, especially on the defensive end. I have a lot of trust knowing that he's there and the way that we are communicating and we are getting better every game. It's new for both of us, so throughout the whole season we will get used to it, but we will figure it out and we will get it right.",
+      "text_blocks": [],
+      "start_seconds": 119,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Luguentz Dort on building chemistry with Dyson Daniels: I love sharing the court with Dyson, especially on the defensive end. I have a lot of trust knowing that he is there and the way that we are communicating.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dyson Daniels"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Luguentz Dort talks about developing chemistry and defensive communication with teammate Dyson Daniels.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "u2XViKO2iVk",
+  "url": "https://www.youtube.com/watch?v=u2XViKO2iVk",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-22T23:47:39Z",
+  "duration_seconds": 154,
+  "processed_at": "2026-11-23T00:51:27Z",
+  "run_id": "2026-11-23T0050Z-20utc",
+  "is_one_off": false
+}

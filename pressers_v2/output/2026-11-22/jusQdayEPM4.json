@@ -1,0 +1,237 @@
+{
+  "video_title": "Dusty May Pregame | Darryn Peterson, Walter Clayton Jr. & Mavericks at Jazz",
+  "speakers_seen": [
+    "Dusty May"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dusty May",
+      "timestamp": "00:05",
+      "summary_phrase": "Dusty May on team process and improved ball security",
+      "names_mentioned": [],
+      "excerpt": "we're starting to take care of the basketball better",
+      "quote": "I think for us just being so consumed with the process, processes and we're starting to take care of the basketball better. Obviously, the wheels can fall off at any moment in any game, but we're taking care of the ball, we're valuing it better, we're more active on the glass, a lot more team rebounding, we're all five guys are involved. And so, all the other stuff, the fluff that goes into the game, it usually the same things that go into winning and losing typically shake out over time whether you're home or on the road.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dusty May says the team is focusing on the process and valuing the basketball more as they look to improve their consistency on the road.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May discusses the team's focus on process and improved ball security during a pregame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dusty May",
+      "timestamp": "00:51",
+      "summary_phrase": "Dusty May on Darryn Peterson's adjustment to the college game",
+      "names_mentioned": [
+        "Darryn Peterson"
+      ],
+      "excerpt": "he's got the size, the skill set, and so I think it's just a matter of him getting more comfortable",
+      "quote": "Darryn Peterson is obviously being a new player, we tend to have a tendency to overreact every game, good or bad, and especially for players who are playing in college basketball this time last year, playing two games a week and maybe one of them's a money game. And so, a good game, a bad game, we just have a tendency to overreact. With Darryn, the talent is obvious, he's got the size, the skill set, and so I think it's just a matter of him getting more comfortable playing, I'm sure getting used to teammates. They've had a lot of injuries where guys are coming in and out of the lineup and probably without Markkanen maybe they're playing a little bit more through their guards.",
+      "text_blocks": [],
+      "start_seconds": 51,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Dusty May on Darryn Peterson's adjustment to college basketball: We tend to have a tendency to overreact every game. The talent is obvious and it is just a matter of him getting more comfortable.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darryn Peterson",
+          "Lauri Markkanen"
+        ],
+        "teams": [
+          "DAL",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Dusty May discusses the adjustment period for Darryn Peterson and notes the impact of Lauri Markkanen's absence on the opponent's rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dusty May",
+      "timestamp": "01:52",
+      "summary_phrase": "Dusty May on the team's resilience despite poor shooting",
+      "names_mentioned": [],
+      "excerpt": "to not let that impact our energy and our effort was a positive sign going forward",
+      "quote": "That was the most positive thing, especially when we went into half with a lead and we felt like we had our best shooters have missed free throws, we had missed some looks that we really liked and to still have a lead and to not let that impact our energy and our effort was a positive sign going forward.",
+      "text_blocks": [],
+      "start_seconds": 112,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dusty May says the most positive sign recently was the team's ability to maintain energy and effort despite missing shots and free throws.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May reflects on the team's ability to maintain a lead despite poor shooting performance in a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dusty May",
+      "timestamp": "02:26",
+      "summary_phrase": "Dusty May on Walter Clayton Jr.'s development and mindset",
+      "names_mentioned": [
+        "Walter Clayton Jr.",
+        "Rick Pitino"
+      ],
+      "excerpt": "I do think the chip on the shoulder is real",
+      "quote": "I do think the chip on the shoulder is real. He went to a program at Iona that probably helped him a lot as well. Walter was always skilled, he was always a good player. I don't think he had the intensity and the tenacity that he got there playing for Coach Pitino. And then he went to Florida and it was another perfect situation for him where he was able to step in, play kind of an off-guard role his first year, and then evolve into a primary handler, which I think really helped his NBA career and his long-term potential as well. He just has a real belief and confidence in himself.",
+      "text_blocks": [],
+      "start_seconds": 146,
+      "end_seconds": 190,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Dusty May credits Walter Clayton Jr.'s development to his time playing for Rick Pitino, noting that he gained a real intensity and tenacity that helped his long term potential.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Walter Clayton Jr.",
+          "Rick Pitino"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May evaluates the development and professional growth of Walter Clayton Jr. under previous coaching.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dusty May",
+      "timestamp": "04:05",
+      "summary_phrase": "Dusty May on the team's improved defensive rebounding",
+      "names_mentioned": [],
+      "excerpt": "our guards now are starting to rebound",
+      "quote": "Part of that is our guards now are starting to rebound. If you watch this in the Cal and you watch this the first couple games, our guards act as if it wasn't their job to help rebound and it wasn't their responsibility. And now, I can think of five or six plays last night, and it probably was the difference in the game where they weren't 50-50 basketballs, they were 80-20, 90-10, and we had a guard go in and just get in the mix and maybe get a fingertip on it. And then when our guards can come up with those loose balls, it's a broken floor and we're making better decisions in transition as well.",
+      "text_blocks": [],
+      "start_seconds": 245,
+      "end_seconds": 290,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dusty May says a major difference in recent games has been the guards committing to rebounding, which has helped the team create better transition opportunities.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May highlights the improved effort from his guards in defensive rebounding during recent games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Dusty May",
+      "timestamp": "05:21",
+      "summary_phrase": "Dusty May on his decision to attend Indiana University",
+      "names_mentioned": [],
+      "excerpt": "I was just going to go be a student manager at Indiana",
+      "quote": "My junior year of high school I had a good junior year and I was being recruited by a lot of small schools, Division II and NAIs, and then I had a bad senior season. And at that point I was a little frustrated, I was just going to go be a student manager at Indiana. I went through the process of applying to school and started the introduction with a side story with the team doctor in Indiana. At the last minute I got an itch to play, I went to a Division II school and I wasn't there very long and I realized that wasn't going to get me where I wanted to get to as far as coaching, and I thought if I go work for Coach Knight I could probably get a varsity coaching job in Indiana by 25 by my mid-20s and start my coaching career.",
+      "text_blocks": [],
+      "start_seconds": 321,
+      "end_seconds": 379,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Dusty May shares his origin story, revealing he originally planned to be a student manager at Indiana before deciding he wanted to pursue a coaching career under Bob Knight.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bob Knight"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May shares a personal anecdote about his decision to attend Indiana University and his early career aspirations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Dusty May",
+      "timestamp": "07:34",
+      "summary_phrase": "Dusty May on Kyrie Irving's impact on team chemistry",
+      "names_mentioned": [
+        "Kyrie Irving"
+      ],
+      "excerpt": "his ability to break down the defense and I think when he's on the floor, the other guys are playing four-on-four",
+      "quote": "His ability to break down the defense and I think when he's on the floor, the other guys are playing four-on-four, which helps everyone as far as spacing and things like that. But also his big shot making, even, you know, I think last night two things really jump out, the way we're able to turn them over and turn those basket turn those turnovers into baskets and then Kyrie making a back-breaking shots are the things that really jumped out. And so, you know, he's a calming presence.",
+      "text_blocks": [],
+      "start_seconds": 454,
+      "end_seconds": 488,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Dusty May on Kyrie Irving: He is a calming presence whose ability to break down the defense makes the game easier for everyone else on the floor.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May praises the impact of Kyrie Irving on the team's spacing and his ability to make clutch shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "jusQdayEPM4",
+  "url": "https://www.youtube.com/watch?v=jusQdayEPM4",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-22T23:07:54Z",
+  "duration_seconds": 506,
+  "processed_at": "2026-11-23T00:51:40Z",
+  "run_id": "2026-11-23T0050Z-20utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
