@@ -1,0 +1,495 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe, Bilal Coulibaly and Kyshawn George | 11.22.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "Bilal Coulibaly",
+    "Kyshawn George"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:31",
+      "summary_phrase": "Brian Keefe on defensive strategy against Anthony Davis and Lakers",
+      "names_mentioned": [
+        "Anthony Davis",
+        "Alex",
+        "Bilal"
+      ],
+      "excerpt": "Everybody had a piece to that. We're trying to make it look as crowded as possible.",
+      "quote": "It was a whole team effort. Anthony Davis did a great job starting the game trying to establish that, and then we can switch off on with Alex, and then obviously we bring Bilal in the game. Everybody had a piece to that. We're trying to make it look as crowded as possible when you play a talent like him. You just try to make it hard; you're usually not going to stop them completely. You just want to make everything harder and earn everything. I thought we did a good job of that tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 31,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the defensive game plan against Anthony Davis: You try to make it look as crowded as possible when you play a talent like him. You just try to make it hard.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Davis"
+        ],
+        "teams": [
+          "WAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe discusses the team defensive strategy used to contain Anthony Davis during their game against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brian Keefe",
+      "timestamp": "01:15",
+      "summary_phrase": "Brian Keefe on Bilal Coulibaly's development as a playmaker",
+      "names_mentioned": [
+        "Bilal"
+      ],
+      "excerpt": "We're putting the ball in his hands to make decisions.",
+      "quote": "We're putting the ball in his hands to make decisions. Playing him as the initial attack guy on pick-and-roll actions, I loved how he was able to get in the paint, kick out for his teammates, and obviously draws fouls. He's a two-way impact player, but he can make impact doing different things offensively. We're going to keep putting the ball in his hands more and more.",
+      "verbatim_original_language": "",
+      "start_seconds": 75,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Brian Keefe says the Wizards are committed to Bilal Coulibaly as a primary playmaker: We are putting the ball in his hands to make decisions. We are going to keep putting the ball in his hands more and more.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Bilal Coulibaly"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe explains his decision to increase Bilal Coulibaly's playmaking responsibilities and usage in pick-and-roll actions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:03",
+      "summary_phrase": "Brian Keefe on roster depth and rotation management",
+      "names_mentioned": [
+        "Will Riley",
+        "Chris Middleton",
+        "Bub",
+        "Trey"
+      ],
+      "excerpt": "We got a deep roster. And that's one of the things we're learning about our team.",
+      "quote": "We got a deep roster. And that's one of the things we're learning about our team. We're going to put guys in different combinations and different things. We want to give Will Riley a chance, obviously Chris Middleton. Bub has been playing great, and I loved what he did in the Chicago game in, gave us great energy when we needed it in the second quarter. Things change quickly in this league. I liked how Trey played well tonight, obviously coming off the bench and catch and shoot, but loved Will Riley's energy. Bub will be in the rotation. Things change; he works extremely hard, his game just like the rest of them. We got a deep roster, we're going to utilize it all year long.",
+      "verbatim_original_language": "",
+      "start_seconds": 123,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the Wizards rotation: We got a deep roster and we are going to utilize it all year long. Things change quickly in this league.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Will Riley",
+          "Chris Middleton",
+          "Bub Carrington",
+          "Trey Young"
+        ],
+        "teams": [
+          "WAS",
+          "CHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Brian Keefe discusses his rotation management and confirms that Bub Carrington will remain in the rotation.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brian Keefe",
+      "timestamp": "02:37",
+      "summary_phrase": "Brian Keefe on Trey Young's role and offensive impact",
+      "names_mentioned": [
+        "Trey Young"
+      ],
+      "excerpt": "They basically have to put two on him at all scenarios.",
+      "quote": "The one thing that people don't give him enough credit for is they basically have to put two on him at all scenarios. So we can move him around the court to get that and that gets actions for our other players. He starts the dominoes. Two on the ball, he can get off it, and then we're making simple reads after that. But you need guys who can put two on the ball, and he's one of those guys in this league. That's what he's putting us in a position to be successful.",
+      "verbatim_original_language": "",
+      "start_seconds": 157,
+      "end_seconds": 193,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Brian Keefe on the gravity Trey Young provides: The one thing that people do not give him enough credit for is they basically have to put two on him at all scenarios. He starts the dominoes.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Young"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe explains how Trey Young's offensive gravity creates scoring opportunities for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brian Keefe",
+      "timestamp": "03:18",
+      "summary_phrase": "Brian Keefe on defensive consistency during winning streak",
+      "names_mentioned": [],
+      "excerpt": "I think we're defending. I think that's the biggest thing for us.",
+      "quote": "I think we're defending. I think that's the biggest thing for us. You obviously want to make shots like we did tonight. I thought our process would have been good either way, pace offensively, driving, kick, kicking it out. Obviously we made them tonight, but you got to hang your hat on something. You got to hang your hat on defense, and I think that's, I believe three in a row under 100. We're not where we want to be, we can still get better in that, but those are the consistent habits that we want to establish for this team.",
+      "verbatim_original_language": "",
+      "start_seconds": 198,
+      "end_seconds": 237,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the Wizards defensive streak: You have to hang your hat on defense and I think that is three in a row under 100. We are not where we want to be but those are the consistent habits we want to establish.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe reflects on the team's recent defensive improvement and the importance of establishing consistent habits.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Brian Keefe",
+      "timestamp": "05:18",
+      "summary_phrase": "Brian Keefe on situational lineups and roster versatility",
+      "names_mentioned": [],
+      "excerpt": "That's I think one of the strengths of our roster. We can play very big.",
+      "quote": "Sometimes we're doing, sometimes that can be situational with depending what teams are doing. That's I think one of the strengths of our roster. We can play very big, we can play smaller, and we can add some defense into the lineup. I think that's what we're learning about our group. That was part of the early season process and we're going to continue to do that. But we're going to continue to put the guys out there who are playing well, too. So we got a deep roster, we're going to utilize all of it. Everybody's going to have to step up this year. I think that's really important for our group.",
+      "verbatim_original_language": "",
+      "start_seconds": 318,
+      "end_seconds": 361,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brian Keefe on roster versatility: That is one of the strengths of our roster. We can play very big, we can play smaller, and we can add some defense into the lineup.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe discusses the versatility of his roster and the ability to adjust lineups based on situational needs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Brian Keefe",
+      "timestamp": "06:12",
+      "summary_phrase": "Brian Keefe on Kyshawn George and AJ's offensive versatility",
+      "names_mentioned": [
+        "Kyshawn",
+        "AJ"
+      ],
+      "excerpt": "Kyshawn and AJ can play both ways. You want guys who can play on the ball.",
+      "quote": "Kyshawn and AJ can play both ways. You want guys who can play on the ball and off the ball. They both have the ability to do that, and we're finding spots for them to play in different scenarios together. They have got good combination together. You can see that from all the way starting into the preseason and going into the regular season. So we're finding different little actions that we can run, and that can be vice versa. Sometimes it's AJ handling, sometimes it's Kyshawn handling the ball more and taking advantage of the strengths that we have.",
+      "verbatim_original_language": "",
+      "start_seconds": 372,
+      "end_seconds": 410,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the development of Kyshawn George and AJ: They both have the ability to play on the ball and off the ball. We are finding spots for them to play in different scenarios together.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kyshawn George",
+          "AJ Johnson"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe discusses the offensive versatility of Kyshawn George and AJ Johnson and how they complement each other.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Bilal Coulibaly",
+      "timestamp": "06:55",
+      "summary_phrase": "Bilal Coulibaly on his shooting confidence and work ethic",
+      "names_mentioned": [],
+      "excerpt": "I know all the work I put in the summer and it's not a couple of misses.",
+      "quote": "I know all the work I put in the summer and it's not a couple of misses that were going to make me drop my head or something like that. So yeah, just had to keep shooting with confidence and I knew it was about to fall.",
+      "verbatim_original_language": "",
+      "start_seconds": 415,
+      "end_seconds": 433,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Bilal Coulibaly on his shooting slump: I know all the work I put in the summer and it is not a couple of misses that were going to make me drop my head. Just had to keep shooting with confidence.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Bilal Coulibaly explains his mindset regarding maintaining shooting confidence despite recent misses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Bilal Coulibaly",
+      "timestamp": "07:21",
+      "summary_phrase": "Bilal Coulibaly on his defensive goals and mindset",
+      "names_mentioned": [],
+      "excerpt": "I really want to be one of the best defensive players in the league.",
+      "quote": "I always take the matchup personal. Just trying to do my best. I really want to be one of the best defensive players in the league. I think I'm showing that I can get there and that I'm getting there.",
+      "verbatim_original_language": "",
+      "start_seconds": 441,
+      "end_seconds": 456,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 6,
+      "social_post": "Bilal Coulibaly has big goals: I always take the matchup personal. I really want to be one of the best defensive players in the league. I think I am showing that I can get there.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Bilal Coulibaly discusses his personal defensive goals and his desire to be recognized as an elite defender in the league.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Bilal Coulibaly",
+      "timestamp": "07:48",
+      "summary_phrase": "Bilal Coulibaly on team unity and physical defensive play",
+      "names_mentioned": [
+        "Chris Middleton"
+      ],
+      "excerpt": "Being more physical I'd say was the the main part. Had to show a little bit more fight.",
+      "quote": "It was pretty tough because nobody's a loser in the locker room. So yeah, we just had to keep our head up and kept talking together, kept meeting, talking about what was wrong, what was right, and just had to keep doing the right things. Being more physical I'd say was the the main part. Had to show a little bit more fight and that's what we did. So we're doing good right now. I see the main guy was Chris Middleton. I know that one day he said everybody got to get out and we just talked between us.",
+      "verbatim_original_language": "",
+      "start_seconds": 468,
+      "end_seconds": 506,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Bilal Coulibaly credits Chris Middleton for a locker room turnaround: Nobody is a loser in the locker room. We had to show a little bit more fight. I know one day Chris Middleton said everybody got to get out and we just talked.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Middleton"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Bilal Coulibaly describes how the team improved their physicality and unity following a team meeting led by Chris Middleton.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Kyshawn George",
+      "timestamp": "11:10",
+      "summary_phrase": "Kyshawn George on team trust and offensive execution",
+      "names_mentioned": [],
+      "excerpt": "I think we just trusted in each other, making the simple play down the floor.",
+      "quote": "I think we just trusted in each other, making the simple play down the floor. Today, I don't know exactly the stat, but we hit a couple threes in the third quarter and we just do our job, put two on the ball, create an advantage, and just kick it to the easy guys. I think that keeps the game easy for us and that's what we should do going forward.",
+      "verbatim_original_language": "",
+      "start_seconds": 670,
+      "end_seconds": 697,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kyshawn George on the Wizards offensive flow: We just trusted in each other, making the simple play down the floor. That keeps the game easy for us and that is what we should do going forward.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George discusses the importance of team trust and making simple plays to create offensive advantages.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Kyshawn George",
+      "timestamp": "11:45",
+      "summary_phrase": "Kyshawn George on Trey Young's offensive gravity",
+      "names_mentioned": [
+        "Trey",
+        "AJ"
+      ],
+      "excerpt": "He creates a whole lot of tension. Whether he's on ball, off ball.",
+      "quote": "He creates a whole lot of tension. Whether he's on ball, off ball. If he sets a screen, most likely two defenders are going to stay with him for like a split second, which allows me or AJ to get open after that. So really credit to him to be able to figure out where he can put himself in the action, where even if he doesn't have the ball in the hand, like he's creating the advantage for us and the whole team at the same time.",
+      "verbatim_original_language": "",
+      "start_seconds": 705,
+      "end_seconds": 739,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kyshawn George on Trey Young: He creates a whole lot of tension. Even if he does not have the ball in his hand, he is creating the advantage for us and the whole team at the same time.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trey Young",
+          "AJ Johnson"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George explains how Trey Young's off-ball movement creates space and advantages for him and AJ Johnson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Kyshawn George",
+      "timestamp": "12:27",
+      "summary_phrase": "Kyshawn George on team accountability and character",
+      "names_mentioned": [],
+      "excerpt": "We have high character players. We're not here to just go through the motions.",
+      "quote": "We have high character players. We're not here to just go through the motions and just be average. We want to accomplish something. We're playing to establish ourselves as not only players, but also an organization. So we believe in ourselves. When the whole team has the same feeling, it's on us to just go out there and do our job.",
+      "verbatim_original_language": "",
+      "start_seconds": 747,
+      "end_seconds": 770,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Kyshawn George on the team mindset: We have high character players. We are not here to just go through the motions and just be average. We want to accomplish something.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George speaks on the team's character and their collective goal to establish a strong identity as an organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Kyshawn George",
+      "timestamp": "13:13",
+      "summary_phrase": "Kyshawn George on hard work and team consistency",
+      "names_mentioned": [],
+      "excerpt": "For me, there's no magic recipe. You just got to do the work.",
+      "quote": "For me, there's no magic recipe. You just got to do the work. You got to guard your man, stay in front, on possessions one to floor, run the play, make the simple things. We're all super talented on the floor and that's going to come to us naturally. But it's all the little things that you have to do to be able to win consistently.",
+      "verbatim_original_language": "",
+      "start_seconds": 793,
+      "end_seconds": 818,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kyshawn George on consistency: There is no magic recipe. You just have to do the work. You have to guard your man, stay in front, and make the simple things.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Kyshawn George emphasizes the importance of doing the little things and maintaining consistency to win games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Kyshawn George",
+      "timestamp": "15:14",
+      "summary_phrase": "Kyshawn George on Jonas Valanciunas's leadership and physical presence",
+      "names_mentioned": [
+        "Jonas Valanciunas"
+      ],
+      "excerpt": "The biggest thing I learned from Jonas is like his presence, his physical presence.",
+      "quote": "The biggest thing I learned from Jonas is like his presence, his physical presence. No matter what was going on, he hold himself to a certain standard of presence and hold his teammates to a certain accountability of like, look, you got to be the low man, you have to be there and be physical with it. If somebody goes to the paint, you tag him. He was that kind of like tone setter for everybody, and that's the biggest thing I got from him.",
+      "verbatim_original_language": "",
+      "start_seconds": 914,
+      "end_seconds": 943,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Kyshawn George on what he learned from Jonas Valanciunas: The biggest thing I learned from Jonas is his physical presence. He was that kind of tone setter for everybody.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jonas Valanciunas"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kyshawn George reflects on the leadership and physical presence that Jonas Valanciunas brought to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "IXQQ8qtuZ7s",
+  "url": "https://www.youtube.com/watch?v=IXQQ8qtuZ7s",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-23T13:24:45Z",
+  "duration_seconds": 943,
+  "processed_at": "2026-11-23T21:31:49Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,133 @@
+{
+  "video_title": "Naz Reid Shootaround Media Availability | 11/23/26",
+  "speakers_seen": [
+    "Naz Reid"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Naz Reid",
+      "timestamp": "00:15",
+      "summary_phrase": "Naz Reid on the Hornets' improved mental focus this season",
+      "names_mentioned": [],
+      "excerpt": "the mental is better than it's been since we started",
+      "quote": "The mental is better than it's been since we started. I think mentally everybody has the proper focus. They're trying to execute the proper process. I think the mental is starting to take shape. Being able to actually do the things that we talk about on the floor are huge too. So I think once everything takes full shape, I think we'll be in a good space.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Naz Reid says the Hornets are finally finding their mental focus this season, noting that the team is starting to execute the process they talk about on the floor.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Naz Reid discusses the improved mental focus and execution of the Charlotte Hornets this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Naz Reid",
+      "timestamp": "00:53",
+      "summary_phrase": "Naz Reid on Hornets players adapting to new roles and positions",
+      "names_mentioned": [],
+      "excerpt": "being put in positions that you aren't used to, but being able to try and succeed",
+      "quote": "A lot of things are asked of each and every one of us. Playing different positions you might not have been playing in, and being put in positions that you aren't used to, but being able to try and succeed in that situation to help us win. It happens. It's a long season. Things happen, things take shape, things change. You've got to be able to step up and have that next-man-up mentality.",
+      "verbatim_original_language": "",
+      "start_seconds": 53,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Naz Reid on the Hornets dealing with shifting roles and lineups: You have to be able to step up and have that next man up mentality.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Naz Reid talks about players adapting to new roles and positions within the Hornets roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Naz Reid",
+      "timestamp": "01:33",
+      "summary_phrase": "Naz Reid on reaching 6,000 career points as an undrafted player",
+      "names_mentioned": [],
+      "excerpt": "it goes towards the work that I've put in over the time that I've been in the league",
+      "quote": "It's huge. It goes towards the work that I've put in over the time that I've been in the league. Being able to actually execute a goal like that is huge, especially from my standpoint, undrafted and so forth. It's definitely a cool milestone for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 93,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Naz Reid on hitting 6,000 career points as an undrafted player: It is huge. It goes towards the work that I have put in over the time that I have been in the league. It is definitely a cool milestone for sure.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Naz Reid reflects on reaching the milestone of 6,000 career points as an undrafted player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Naz Reid",
+      "timestamp": "02:01",
+      "summary_phrase": "Naz Reid on the Hornets' physical and competitive style of play",
+      "names_mentioned": [],
+      "excerpt": "I just see a team who wants to fight",
+      "quote": "They play really hard, they're physical. The guys are desperate, they want to win. You can definitely see that in their style of play. I would say they have the number one offense right now, so they're playing super locked in and close to each other on the end of the ball. And I just see a team who wants to fight. Being able to compete against those guys will be huge for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 121,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Naz Reid says the Hornets are preparing for a physical battle against their next opponent, describing them as a team that is super locked in and wants to fight.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Naz Reid comments on the physical and competitive style of play displayed by the Hornets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "_9rH2N8AYTM",
+  "url": "https://www.youtube.com/watch?v=_9rH2N8AYTM",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-23T17:19:32Z",
+  "duration_seconds": 154,
+  "processed_at": "2026-11-23T21:31:19Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false
+}

@@ -119,13 +119,6 @@
    "run_id": "2026-11-17T0255Z-20utc",
    "slot_date": "2026-11-16"
   },
-  "0bg0sW1ve8s": {
-   "at": "2026-11-09T18:54:00Z",
-   "quote": "i think his energy his ability to make plays off the dribble of getting to the basket getting to the paint and then defensively just being able to switch some be in a drop blitz and he is all purpose ",
-   "run_id": "2026-11-09-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-09"
-  },
   "0idft1CR3wc": {
    "at": "2026-11-12T04:27:57Z",
    "quote": "i just try to do what i can to help this team in any way possible whether that s starting coming off the bench just trying to jumpstart something for this team coach told me he felt like we needed som",
@@ -1974,13 +1967,6 @@
    "run_id": "2026-11-22-overnight",
    "slot_date": "2026-11-22"
   },
-  "aJSJd1S8y_0": {
-   "at": "2026-11-09T18:53:45Z",
-   "quote": "you saw a team that played desperate like they d lost that many in a row and that they wanted to come out and take care of home and that s exactly what they did now we didn t help that cause obviously",
-   "run_id": "2026-11-09-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-09"
-  },
   "a_-MS-B_QGk": {
    "at": "2026-11-19T18:24:05Z",
    "quote": "that s who he is and i said it a game or two ago that we re not really concerned about the percentage or numbers he s getting great looks and that s going to come back to life every shot he shoots we ",
@@ -3423,5 +3409,131 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {}
+ "pending": {
+  "IXQQ8qtuZ7s": {
+   "channel": "Washington Wizards",
+   "clip_count": 15,
+   "content_type": "presser",
+   "date": "2026-11-23",
+   "is_one_off": false,
+   "queued_at": "2026-11-23T21:31:58Z",
+   "run_id": "2026-11-23-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-23",
+   "speaker": "Brian Keefe",
+   "title": "Media Availability: Head Coach Brian Keefe, Bilal Coulibaly and Kyshawn George | 11.22.26",
+   "top_quote": "It was a whole team effort. Anthony Davis did a great job starting the game trying to establish that, and then we can switch off on with Alex, and then obviously we bring Bilal in the game. Everybody had a piece to that. We're trying to make it look as crowded as possible when you play a talent like him. You just try to make it hard; you're usually not going to stop them completely. You just want to make everything harder and earn everything. I thought we did a good job of that tonight.",
+   "video_id": "IXQQ8qtuZ7s"
+  },
+  "LkzPbFMOCFY": {
+   "channel": "Chip Overseas",
+   "clip_count": 22,
+   "content_type": "oneoff",
+   "date": "2026-11-22",
+   "is_one_off": true,
+   "queued_at": "2026-11-23T21:31:58Z",
+   "run_id": "2026-11-23-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-23",
+   "speaker": "Archie Goodwin",
+   "title": "Archie Goodwin: The Reality Of Life After The NBA (Interview)",
+   "top_quote": "It's a few things. One of the things, obviously, is the rules of the Europe and Asia are very different. So, in Europe, I think it's four imports can be on the court at a time. In Asia, it's two. So, what teams do in Asia, they'll get two imports and then they'll get what is called an Asian import. An Asian import is basically anybody that's not from that country that you're in. So, if you're in Korea, it could be a Japanese guy, Chinese guy, it could be a Filipino, or it could be an American who has an Asian passport, which is super hard to get. But that could be the thing, too. So, they kind of try to use that to get three imports, kind of.",
+   "video_id": "LkzPbFMOCFY"
+  },
+  "PEjEGPihS1o": {
+   "channel": "X&O's CHAT",
+   "clip_count": 8,
+   "content_type": "oneoff",
+   "date": "2026-11-22",
+   "is_one_off": true,
+   "queued_at": "2026-11-23T21:31:58Z",
+   "run_id": "2026-11-23-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-23",
+   "speaker": "Džanan Musa",
+   "title": "Finale se ne igra, finale se dobija | X&O’s Chat",
+   "top_quote": "Negdje onaj taj prvi moj debi u Evroligi je bio sa 16 godina, tek sam napunio 16. I negdje karijera je baš kao što si rekao rano krenula, ali eto zadovoljan sam sa svime što sam ostvario do sada, tako da ono, uspeh je tu.",
+   "video_id": "PEjEGPihS1o"
+  },
+  "S-c95OkZvJY": {
+   "channel": "Cleveland Cavaliers",
+   "clip_count": 9,
+   "content_type": "presser",
+   "date": "2026-11-23",
+   "is_one_off": false,
+   "queued_at": "2026-11-23T21:31:58Z",
+   "run_id": "2026-11-23-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-23",
+   "speaker": "Jarrett Allen",
+   "title": "Cavs Shootaround | Jarrett Allen Media Availability | 11.23.2026",
+   "top_quote": "His 'Yes we can' quote, I define them as, you know, yes we can, yes we can overcome anything, yes we can go for it and march through anything that adversity that's in our way. That's just what I know Obama's message to be.",
+   "video_id": "S-c95OkZvJY"
+  },
+  "_9rH2N8AYTM": {
+   "channel": "Charlotte Hornets",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-23",
+   "is_one_off": false,
+   "queued_at": "2026-11-23T21:31:58Z",
+   "run_id": "2026-11-23-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-23",
+   "speaker": "Naz Reid",
+   "title": "Naz Reid Shootaround Media Availability | 11/23/26",
+   "top_quote": "The mental is better than it's been since we started. I think mentally everybody has the proper focus. They're trying to execute the proper process. I think the mental is starting to take shape. Being able to actually do the things that we talk about on the floor are huge too. So I think once everything takes full shape, I think we'll be in a good space.",
+   "video_id": "_9rH2N8AYTM"
+  },
+  "d8f6TjTofpU": {
+   "channel": "HoopsHype",
+   "clip_count": 1,
+   "content_type": "presser",
+   "date": "2026-11-23",
+   "is_one_off": false,
+   "queued_at": "2026-11-23T21:31:58Z",
+   "run_id": "2026-11-23-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-23",
+   "speaker": "Draymond Green",
+   "title": "Draymond Green on Eddie Johnson's tweets",
+   "top_quote": "People are going to say what they want to say. If I have time, I respond. I usually respond once and then just let them talk to their microphone or their laptop or in Eddie Johnson's case, whoever he has typing for him because we know he doesn't know how to use those things. I'm always going to do what's needed. I've always been that guy who does what's needed and that'll never change. If people want to debate what they think I should do, you notice it's never really the great debating and it's never the winners debating. It's always the losers and the guys who just didn't quite do it. So let them debate. It's good for edification. Check it out, download it where you get your podcast today.",
+   "video_id": "d8f6TjTofpU"
+  },
+  "ghDHf1GXwVk": {
+   "channel": "IN MY OPINION PODCAST",
+   "clip_count": 1,
+   "content_type": "oneoff",
+   "date": "2026-11-22",
+   "is_one_off": true,
+   "queued_at": "2026-11-23T21:31:58Z",
+   "run_id": "2026-11-23-overnight",
+   "run_slot": "overnight",
+   "slot_date": "2026-11-23",
+   "speaker": "Tristan Thompson",
+   "title": "‘I DO LIKE BLACK WOMEN!’ 😳 Tristan Thompson Responds To Dating Rumours | EP232 P2",
+   "top_quote": "I had a great time to be myself, right? I like to be on and making the adjustment on a Sunday. On a Sunday. On a Sunday. You miss football, I know you're happy about that. I got you all.",
+   "video_id": "ghDHf1GXwVk"
+  },
+  "oWGshBy-OK0": {
+   "channel": "HoopsHype",
+   "clip_count": 2,
+   "content_type": "presser",
+   "date": "2026-11-23",
+   "is_one_off": false,
+   "queued_at": "2026-11-23T21:31:58Z",
+   "run_id": "2026-11-23-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-23",
+   "speaker": "Erik Spoelstra",
+   "title": "Erik Spoelstra on Giannis's play style rubbing off on Bam Adebayo",
+   "top_quote": "With Giannis, it's the ground and pound mentality that both of those guys have. And I think some of that of how Giannis plays is rubbing off on Bam. I think he's being more assertive once he gets into the circle area, just being much more aggressive, even sometimes just trying to go up and dunk it, and that's when you get hammered instead of trying to finesse it. Once you start seeing it happen more often, you start going to it more often.",
+   "video_id": "oWGshBy-OK0"
+  }
+ }
 }

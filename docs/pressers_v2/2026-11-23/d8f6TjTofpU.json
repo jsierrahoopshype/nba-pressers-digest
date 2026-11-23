@@ -1,0 +1,53 @@
+{
+  "video_title": "Draymond Green on Eddie Johnson's tweets",
+  "speakers_seen": [
+    "Draymond Green"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Draymond Green",
+      "timestamp": "00:00",
+      "summary_phrase": "Draymond Green addresses critics and Eddie Johnson's social media commentary",
+      "names_mentioned": [
+        "Eddie Johnson"
+      ],
+      "excerpt": "It's never really the great debating and it's never the winners debating. It's always the losers.",
+      "quote": "People are going to say what they want to say. If I have time, I respond. I usually respond once and then just let them talk to their microphone or their laptop or in Eddie Johnson's case, whoever he has typing for him because we know he doesn't know how to use those things. I'm always going to do what's needed. I've always been that guy who does what's needed and that'll never change. If people want to debate what they think I should do, you notice it's never really the great debating and it's never the winners debating. It's always the losers and the guys who just didn't quite do it. So let them debate. It's good for edification. Check it out, download it where you get your podcast today.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 8,
+      "social_post": "Draymond Green on his critics and Eddie Johnson: It is never the winners debating. It is always the losers and the guys who just did not quite do it. So let them debate.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Eddie Johnson"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Draymond Green responds to social media commentary and criticism directed at him by Eddie Johnson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "d8f6TjTofpU",
+  "url": "https://www.youtube.com/watch?v=d8f6TjTofpU",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-23T14:22:34Z",
+  "duration_seconds": 81,
+  "processed_at": "2026-11-23T21:31:16Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false
+}

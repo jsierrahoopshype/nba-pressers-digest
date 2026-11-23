@@ -1,0 +1,86 @@
+{
+  "video_title": "Erik Spoelstra on Giannis's play style rubbing off on Bam Adebayo",
+  "speakers_seen": [
+    "Erik Spoelstra"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:07",
+      "summary_phrase": "Erik Spoelstra on Giannis Antetokounmpo's influence on Bam Adebayo's play style",
+      "names_mentioned": [
+        "Giannis Antetokounmpo",
+        "Bam Adebayo"
+      ],
+      "excerpt": "some of that of how Giannis plays is rubbing off on Bam",
+      "quote": "With Giannis, it's the ground and pound mentality that both of those guys have. And I think some of that of how Giannis plays is rubbing off on Bam. I think he's being more assertive once he gets into the circle area, just being much more aggressive, even sometimes just trying to go up and dunk it, and that's when you get hammered instead of trying to finesse it. Once you start seeing it happen more often, you start going to it more often.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Erik Spoelstra says Bam Adebayo is becoming more assertive and aggressive in the paint, noting that the ground and pound mentality of Giannis Antetokounmpo is starting to rub off on him.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo",
+          "Bam Adebayo"
+        ],
+        "teams": [
+          "MIA",
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Erik Spoelstra discusses how Giannis Antetokounmpo's aggressive playing style is influencing Bam Adebayo's approach on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Erik Spoelstra",
+      "timestamp": "00:52",
+      "summary_phrase": "Erik Spoelstra on the necessary physicality of the Heat's frontcourt",
+      "names_mentioned": [],
+      "excerpt": "it should feel like a front court when they're leaving the game after the game",
+      "quote": "With the two of them, it should feel like a front court when they're leaving the game after the game. It should feel like there's been an element of ground and pound and physicality where they have to ice themselves. If we're not doing that, then we're not maximizing their brutality. And they can do it in different ways. It's not just putting your head down and just being brutal, it's playing with nuance.",
+      "text_blocks": [],
+      "start_seconds": 52,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Erik Spoelstra wants his frontcourt to play with more physicality, saying that after games, opponents should feel like they need to ice themselves because of the brutality of his big men.",
+      "team": "HoopsHype",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Erik Spoelstra explains the level of physical intensity he expects from his frontcourt players during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "oWGshBy-OK0",
+  "url": "https://www.youtube.com/watch?v=oWGshBy-OK0",
+  "channel_team": "HoopsHype",
+  "published": "2026-11-23T14:21:29Z",
+  "duration_seconds": 84,
+  "processed_at": "2026-11-23T21:31:25Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false
+}
