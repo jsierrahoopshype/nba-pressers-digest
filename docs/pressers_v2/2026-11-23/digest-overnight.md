@@ -54,7 +54,17 @@ Josh Giddey: "That's one of the things about him, I think really good communicat
 
 From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls OT Loss to Nuggets](https://www.youtube.com/watch?v=GXOLEVcghG0) · *Chicago Bulls*
 
-**7. Jared McCain — "it shows that the coaches trust him, and for long-term I think it's going to be huge for us" — Jared McCain on Micic's opportunity in the starting lineup** [03:08](https://www.youtube.com/watch?v=KeQADE3DAtY&t=188s)
+**7. Karl-Anthony Towns — "when he's bringing his whole arsenal to the game, he's a dangerous player for any team" — Karl-Anthony Towns on Jose Alvarado's dangerous offensive performance** [01:38](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=98s)
+
+Karl-Anthony Towns: "Every person on the other team would tell you the same thing. He's a pest. Obviously, you see him shooting the ball really well these last two games. When he's bringing his whole arsenal to the game, he's a dangerous player for any team."
+
+[https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=98s](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=98s)
+
+From: [Karl-Anthony Towns, Josh Hart, Jose Alvarado Postgame Media \| November 22, 2026](https://www.youtube.com/watch?v=iF5yyH4Tuo4) · *New York Knicks*
+
+<small>[Clip it](presserclips://clip?v=iF5yyH4Tuo4&t=98&q=2) · [Send to Slack](presserclips://clip?v=iF5yyH4Tuo4&t=98&q=2&slack=1)</small>
+
+**8. Jared McCain — "it shows that the coaches trust him, and for long-term I think it's going to be huge for us" — Jared McCain on Micic's opportunity in the starting lineup** [03:08](https://www.youtube.com/watch?v=KeQADE3DAtY&t=188s)
 
 Jared McCain: "It's huge. I think one of those things that builds a lot of confidence in him. It shows that the coaches trust him, and for long-term I think it's going to be huge for us. During this stretch, it's a lot of learning. And so when players that are injured start to come back more, it's going to be us all being confident and just trying to look at it in a positive direction. Having everyone be confident in themselves towards the end of the season is what we need."
 
@@ -64,7 +74,7 @@ From: [Jared McCain on Tonight's Game \| Postgame Media \| November 22, 2026](ht
 
 <small>[Clip it](presserclips://clip?v=KeQADE3DAtY&t=188&q=4) · [Send to Slack](presserclips://clip?v=KeQADE3DAtY&t=188&q=4&slack=1)</small>
 
-**8. Jamal Murray — "he struggled for maybe seven games shooting, and he was still having 21, 22 and 13." — Jamal Murray on Nikola Jokic's consistency and resilience** [12:19](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s)
+**9. Jamal Murray — "he struggled for maybe seven games shooting, and he was still having 21, 22 and 13." — Jamal Murray on Nikola Jokic's consistency and resilience** [12:19](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s)
 
 Jamal Murray: "No one's worried about him. I just think he struggled for maybe seven games shooting, and he was still having 21, 22 and 13. So, I mean, it's not really, I wouldn't consider that a struggle. It's just good to see him have his flow and be as dominant as we know he can be, and I mean, it's every night he's doing this. So, if he misses a couple shots for one day, we're not, we're not tripping."
 
@@ -74,7 +84,7 @@ From: [Full Denver Nuggets Postgame Media Availability vs. CHI 🎙](https://www
 
 <small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=739&q=8) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=739&q=8&slack=1)</small>
 
-**9. Ayo Dosunmu — "Our niche, I mean we need to get better at closing games." — Ayo Dosunmu on the Bulls' need to close out games** [16:06](https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s)
+**10. Ayo Dosunmu — "Our niche, I mean we need to get better at closing games." — Ayo Dosunmu on the Bulls' need to close out games** [16:06](https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s)
 
 Ayo Dosunmu: "I know we team that building. I wouldn't say we're young. We got guys that have been in the league. You know, we just trying to figure out how to win and close out games. I think that's our that's our niche. I mean we need to get better at closing games. We're competing hard enough to be in games for the past eight or nine. Now it's just freaking hard to close now."
 
@@ -82,7 +92,7 @@ Ayo Dosunmu: "I know we team that building. I wouldn't say we're young. We got g
 
 From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls OT Loss to Nuggets](https://www.youtube.com/watch?v=GXOLEVcghG0) · *Chicago Bulls*
 
-**10. Gui Santos — "If it's a night that we can't score, but we cannot let them score too" — Gui Santos on the Warriors' defensive focus against the Celtics** [00:00](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s)
+**11. Gui Santos — "If it's a night that we can't score, but we cannot let them score too" — Gui Santos on the Warriors' defensive focus against the Celtics** [00:00](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s)
 
 **Unidentified reporter:** "Gui, **Steve Kerr** said you guys needed to dig out of a hole with defense, so grind it out tough the win. How did you do it?"
 
@@ -92,7 +102,7 @@ From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls 
 
 From: [Gui Santos gets ‘swagger back’ in Warriors’ win vs. Celtics \| NBC Sports Bay Area](https://www.youtube.com/watch?v=f7rJbgiZjDo) · *Golden State Warriors*
 
-**11. Zaccharie Risacher — "I think we let him be too comfortable." — Zaccharie Risacher on defensive lapses against high-scoring opponents** [02:43](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s)
+**12. Zaccharie Risacher — "I think we let him be too comfortable." — Zaccharie Risacher on defensive lapses against high-scoring opponents** [02:43](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s)
 
 Zaccharie Risacher: "Maybe it is a little bit of focus, like concentration, but also be more physical. I think we let him be too comfortable. If we were to be a little bit more physical, getting through screens, make sure he wasn't getting open looks earlier in the game, I think that would have helped us throughout the whole game."
 
@@ -100,7 +110,7 @@ Zaccharie Risacher: "Maybe it is a little bit of focus, like concentration, but 
 
 From: [Zaccharie Risacher Postgame Interview \| Mavericks at Jazz \| Nov. 22, 2026](https://www.youtube.com/watch?v=mV1bAgkg6VI) · *Dallas Mavericks*
 
-**12. Bennett Stirtz — "it's a lot easier to tone back aggressiveness than to ramp it up" — Bennett Stirtz on balancing aggressive shooting with team concepts** [01:45](https://www.youtube.com/watch?v=8JJdgoq0UJA&t=105s)
+**13. Bennett Stirtz — "it's a lot easier to tone back aggressiveness than to ramp it up" — Bennett Stirtz on balancing aggressive shooting with team concepts** [01:45](https://www.youtube.com/watch?v=8JJdgoq0UJA&t=105s)
 
 Bennett Stirtz: "I think personally, it's a lot easier to tone back aggressiveness than to ramp it up. They can always tell me back if they feel like I'm shooting too much, but I feel like when I shoot it, it's a pretty good shot for the team, and the guys want me to shoot those shots too because it makes it easier for them. So I feel like I just got to be more aggressive, and if they tell me to wind it down a little bit, I'll do that."
 
@@ -911,6 +921,70 @@ _Speakers identified: Gui Santos, Kerith Burke_
 **Gui Santos:** "You can see the last possession, right? He does what he does. We know that we are 100% covered with him. Just let him guard the best player of the other team and we going to be good. We know that he going to do a great job."
 
 [https://www.youtube.com/watch?v=f7rJbgiZjDo&t=106s](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=106s)
+
+---
+
+## Karl-Anthony Towns, Josh Hart, Jose Alvarado Postgame Media | November 22, 2026 — *New York Knicks*
+
+Source: [https://www.youtube.com/watch?v=iF5yyH4Tuo4](https://www.youtube.com/watch?v=iF5yyH4Tuo4)
+
+_Speakers identified: Karl-Anthony Towns, Josh Hart, Jose Alvarado_
+
+**1. Karl-Anthony Towns — "we still haven't consistently played 48 minutes. Even tonight, we did a good job getting a lead" — Karl-Anthony Towns on the team's need for consistent 48-minute effort** [01:07](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=67s)
+
+Karl-Anthony Towns: "I think we are doing a good job, but we still haven't consistently played 48 minutes. Even tonight, we did a good job getting a lead and protecting the lead and then we let go of the rope in the fourth and gave life to the other team. We have to do a better job on that with the consistency and the effort for 48 minutes and execution."
+
+[https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=67s](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=67s)
+
+<small>[Clip it](presserclips://clip?v=iF5yyH4Tuo4&t=67&q=1) · [Send to Slack](presserclips://clip?v=iF5yyH4Tuo4&t=67&q=1&slack=1)</small>
+
+**2. Karl-Anthony Towns — "when he's bringing his whole arsenal to the game, he's a dangerous player for any team" — Karl-Anthony Towns on Jose Alvarado's dangerous offensive performance** [01:38](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=98s)
+
+Karl-Anthony Towns: "Every person on the other team would tell you the same thing. He's a pest. Obviously, you see him shooting the ball really well these last two games. When he's bringing his whole arsenal to the game, he's a dangerous player for any team."
+
+[https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=98s](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=98s)
+
+<small>[Clip it](presserclips://clip?v=iF5yyH4Tuo4&t=98&q=2) · [Send to Slack](presserclips://clip?v=iF5yyH4Tuo4&t=98&q=2&slack=1)</small>
+
+**3. Karl-Anthony Towns — "we can't wait for the playoffs to have that switch turned on. We have to work on our habits" — Karl-Anthony Towns on the team's need to build better championship habits** [02:12](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=132s)
+
+Karl-Anthony Towns: "I just think that we let our foot off the gas. That's not what we need to be doing. We need to be building a better habit and better mentality when it comes to having a lead and protecting a lead. That's what made us so special in the playoffs. We can't wait for the playoffs to have that switch turned on. We have to work on our habits now so we can build those championship habits."
+
+[https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=132s](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=132s)
+
+<small>[Clip it](presserclips://clip?v=iF5yyH4Tuo4&t=132&q=3) · [Send to Slack](presserclips://clip?v=iF5yyH4Tuo4&t=132&q=3&slack=1)</small>
+
+**4. Josh Hart — "some of it is just the attention to detail. I don't think it was bad early on" — Josh Hart on the team's improved attention to detail and execution** [05:04](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=304s)
+
+Josh Hart: "I think some of it is just the attention to detail. I don't think it was bad early on. We were losing one or two possession games. It's not like we were getting blown out. It was just a play here or there with the lack of execution that caught up to us. I think now we are putting those possessions together and getting back into the flow of the game."
+
+[https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=304s](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=304s)
+
+<small>[Clip it](presserclips://clip?v=iF5yyH4Tuo4&t=304&q=4) · [Send to Slack](presserclips://clip?v=iF5yyH4Tuo4&t=304&q=4&slack=1)</small>
+
+**5. Josh Hart — "I think we have to run more late. That's an easy way to relieve some of that pressure" — Josh Hart on the need to execute better and run late in close games** [05:49](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=349s)
+
+Josh Hart: "I think we have to execute better. I think we have to run more late. That's an easy way to relieve some of that pressure. You saw I think Karl had the one layup with a minute and a half left. That was a big one for us. So we just have to continue to run, generate good shots like that, and then when we get into the half-court offense, execute."
+
+[https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=349s](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=349s)
+
+<small>[Clip it](presserclips://clip?v=iF5yyH4Tuo4&t=349&q=5) · [Send to Slack](presserclips://clip?v=iF5yyH4Tuo4&t=349&q=5&slack=1)</small>
+
+**6. Jose Alvarado — "we just got to be pay attention for more details. We got to finish the whole game" — Jose Alvarado on the team's need to pay attention to details for full games** [08:40](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=520s)
+
+Jose Alvarado: "We just got to be pay attention for more details. We got to finish the whole game, don't play half a game and that's on us."
+
+[https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=520s](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=520s)
+
+<small>[Clip it](presserclips://clip?v=iF5yyH4Tuo4&t=520&q=6) · [Send to Slack](presserclips://clip?v=iF5yyH4Tuo4&t=520&q=6&slack=1)</small>
+
+**7. Jose Alvarado — "we came out more aggressive. We pay attention more details and we took out their strength" — Jose Alvarado on the team's aggressive approach to the game** [08:56](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=536s)
+
+Jose Alvarado: "We came out more aggressive. We pay attention more details and we took out their strength. We know they like to be on the fast break, we know they like to be physical and we try to match that right away."
+
+[https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=536s](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=536s)
+
+<small>[Clip it](presserclips://clip?v=iF5yyH4Tuo4&t=536&q=7) · [Send to Slack](presserclips://clip?v=iF5yyH4Tuo4&t=536&q=7&slack=1)</small>
 
 ---
 
