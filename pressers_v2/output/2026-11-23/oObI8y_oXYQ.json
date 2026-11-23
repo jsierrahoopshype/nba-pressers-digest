@@ -1,0 +1,729 @@
+{
+  "video_title": "Steve Kerr, Warriors break down skid-snapping win vs. Celtics | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Draymond Green",
+    "Steve Kerr",
+    "Brandin Podziemski",
+    "Charles Bassey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Draymond Green",
+      "timestamp": "00:17",
+      "summary_phrase": "Draymond Green on defensive adjustments against Jayson Tatum",
+      "names_mentioned": [
+        "Jayson Tatum"
+      ],
+      "excerpt": "You try to make them take tough shots and you live with the results.",
+      "quote": "Well, the pass was great in his pick-and-roll coverages. Al was great in his pick-and-roll coverages. In the second half, I was staying with him no matter what, and everybody else just needed to get back to their guy, and then they shrunk the floor. I always tell y'all, there's no way to stop a superstar in this league. You try to make them take tough shots and you live with the results. In the second half, I think the pressure was better on him. He wasn't as comfortable as he was in the first half, and overall we did a pretty good job.",
+      "text_blocks": [],
+      "start_seconds": 17,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Draymond Green on defending superstars like Jayson Tatum: There is no way to stop a superstar in this league. You try to make them take tough shots and you live with the results.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Draymond Green explains the defensive strategy used to contain Jayson Tatum in the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Draymond Green",
+      "timestamp": "01:14",
+      "summary_phrase": "Draymond Green on the team's film session and defensive effort",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "It was embarrassing just looking at our effort the last few games.",
+      "quote": "I think it lit a fire. One thing about it is the film never lies. You want to know the truth, go watch film. We had a film session yesterday, and it was embarrassing just looking at our effort the last few games. Yeah, you go on a five-game losing streak, but the message was, Steph's out, great. That's no reason for our defense to suck. We heard the message, and guys stepped up to the challenge and came out with a better effort tonight, and it was good for us.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Draymond Green says the Warriors film session after their five-game losing streak was embarrassing. The message was clear: Steph Curry being out is no reason for the defense to suck.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Draymond Green discusses how the team used a film session to address their poor defensive effort during a five-game losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Draymond Green",
+      "timestamp": "02:00",
+      "summary_phrase": "Draymond Green on Steve Kerr's decision to play him at the four",
+      "names_mentioned": [
+        "Steve Kerr"
+      ],
+      "excerpt": "Coach told me, I'm going to put you at the four, put some more size out there.",
+      "quote": "Coach told me, we talked in Memphis, and he just said, I'm going to put you at the four, put some more size out there, and I want you to get to the corner and fire away. So, I got to the corner. They were really helping in heavy off the corners, and so, Yax was making the play, and he came off those first couple, advanced it right away. When you get the ball on time, there's a confidence that goes with that, and I'm sitting there, just kind of space to the corner, but he's throwing the ball right away. As soon as he comes off the screen, he sees that guy helped in, he threw the ball. It's an onus as a player to make the shot for him, because he had the belief in you.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 173,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Draymond Green on his shift to the four: Coach told me he wanted to put more size out there and for me to get to the corner and fire away. When you get the ball on time there is a confidence that goes with that.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Draymond Green describes Steve Kerr's decision to shift him to the power forward position to improve team size.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Draymond Green",
+      "timestamp": "03:06",
+      "summary_phrase": "Draymond Green on the importance of shooting for his partnership with Charles Bassey",
+      "names_mentioned": [
+        "Charles Bassey"
+      ],
+      "excerpt": "I got to shoot. If I don't shoot it, it don't work.",
+      "quote": "I got to shoot. If I don't shoot it, it don't work. So I came out firing. And then, and then, you know, defensively, you know, one, Bas is a good rebounder, a really good rebounder. And so having that size defensively, it allows me to go guard the best wing, or you know, whoever that best player is. It allows me to go guard them. If I'm at the five, I kind of got to guard the biggest guy, you know, and try to hold man the pain and hold the fort down. But playing next to Bas, it allows me to go match up wherever I may need to match up.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Draymond Green explains why playing next to Charles Bassey helps his game: If I am at the five I have to guard the biggest guy and hold the fort down. Playing next to Bas allows me to go match up wherever I need to.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Charles Bassey"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Draymond Green explains how playing alongside Charles Bassey allows him more defensive flexibility on the wing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Draymond Green",
+      "timestamp": "04:23",
+      "summary_phrase": "Draymond Green on his role and mindset at this stage of his career",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "I'm never going to be in your 15, be like, oh man, Steph's out, it's my chance.",
+      "quote": "You got to take open shots, like I said. But then also, you know, I'm never going to be in your 15, be like, oh man, Steph's out, it's my chance. When I was in year six, it was my chance, and I would do what I do, you know. But year 15, that's not, that'll never be my mindset. And as someone who can do a multitude of things on the basketball court, I would never deduce myself down to, he got to go score. Like that's, you know, I think when people say that, they try, you know, you got guys comparing their young selves to my old self, which is fun. Says a lot. You got people flexing their resumes, and if I flex my resume back, I'm a bully.",
+      "text_blocks": [],
+      "start_seconds": 263,
+      "end_seconds": 314,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 9,
+      "social_post": "Draymond Green on his mindset in year 15: I am never going to be in year 15 and say oh man Steph is out it is my chance. You got people flexing their resumes and if I flex my resume back I am a bully.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Draymond Green reflects on his veteran mindset and role on the team while Stephen Curry is sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Steve Kerr",
+      "timestamp": "15:03",
+      "summary_phrase": "Steve Kerr on his relationship with Tom Machery",
+      "names_mentioned": [
+        "Tom Machery"
+      ],
+      "excerpt": "Tom and I email periodically. As you know, he's a poet and a writer.",
+      "quote": "Tom and I email periodically. As you know, he's a poet and a writer, and he's shared some of his books with me, and he's the biggest Warriors fan there is. So we stay in touch, and I love hearing from him. I love seeing him before the game. I hadn't seen him probably in a couple of years, so it's wonderful to have Tom at the game tonight.",
+      "text_blocks": [],
+      "start_seconds": 903,
+      "end_seconds": 930,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Steve Kerr shares a heartwarming moment about his relationship with poet and writer Tom Machery: He is the biggest Warriors fan there is. I love hearing from him and it is wonderful to have him at the game.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tom Machery"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr shares his appreciation for his relationship with long-time Warriors fan and writer Tom Machery.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Steve Kerr",
+      "timestamp": "15:37",
+      "summary_phrase": "Steve Kerr on the keys to the team's defensive effort",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "It was just tightening everything up that we let slip on the road trip.",
+      "quote": "It was just tightening everything up that we let slip on the road trip, starting with transition defense, and forcing perimeter shots, keeping them off the foul line, taking away the easy stuff. And we felt like we did that. Jason hit some really tough shots in that first half, I think he had 23 at halftime, but we felt pretty good about the fact that they weren't getting much in the pain, at the rim, easy buckets in transition, that sort of thing. So, this was going to be the way we were going to snap the streak. It was the only way to do it is defense and rebound, and we did a great job of that.",
+      "text_blocks": [],
+      "start_seconds": 937,
+      "end_seconds": 983,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Steve Kerr on the keys to snapping the losing streak: It was just tightening everything up that we let slip on the road trip. The only way to do it is defense and rebound and we did a great job of that.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Steve Kerr breaks down the defensive keys that allowed the Warriors to snap their losing streak against the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "D5rYy_T45Wc",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Steve Kerr",
+      "timestamp": "16:22",
+      "summary_phrase": "Steve Kerr on the team's film session after losing five straight",
+      "names_mentioned": [
+        "Stephen Curry",
+        "Jimmy Butler",
+        "Moses Moody",
+        "Brandon Williams"
+      ],
+      "excerpt": "When you lose five in a row, the guys tend to pay a little closer attention.",
+      "quote": "It was just no different than any other film session, and when you lose five in a row, the guys tend to pay a little closer attention. And we just reminded them, you know, we're missing all these guys, obviously, you know, offensively, not only Steph and Jimmy, but Moses and Brandon Williams. So we're missing all these guys. So to expect to have that, you know, that much firepower out of the lineup and to expect to outscore people right now is foolhardy. So we had to, we had to do this at the defensive end and the guys really took that to heart and did a great job of that.",
+      "text_blocks": [],
+      "start_seconds": 982,
+      "end_seconds": 1025,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Steve Kerr on the Warriors offensive struggles: We are missing all these guys. To expect to have that much firepower out of the lineup and to expect to outscore people right now is foolhardy.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry",
+          "Jimmy Butler",
+          "Moses Moody",
+          "Brandin Podziemski"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Steve Kerr explains that the team must rely on defense due to the absence of several key offensive players.",
+        "best": true,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "D5rYy_T45Wc",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Steve Kerr",
+      "timestamp": "17:25",
+      "summary_phrase": "Steve Kerr on his conversation with Draymond Green about coming off the bench",
+      "names_mentioned": [
+        "Draymond Green"
+      ],
+      "excerpt": "He told me, I'll do whatever you need. Like if you want me to come off the bench.",
+      "quote": "He told me, on the trip, we talked, and he said, I'll do whatever you need. Like if you want me to come off the bench, I'll come off the bench. Like we're, we're constantly, you know, collaborating together. I told him I had no desire to bring him off the bench because we got to dig this thing out with defense and he remains, you know, one of the the great defenders in the league. He showed that tonight. But part of that conversation was that we were going to be playing him with Bassey. We needed more size on the, on the front line. Bassey is a great, uh, role threat for Yax, and that was going to put Draymond in the corner, and so that meant just got to let it fly. And he did, you know, he, he took that first one and knocked it down, knocked down another one and, uh, played a really, uh, key role on the offensive side, but of course it's, it's his defense that makes him who he is.",
+      "text_blocks": [],
+      "start_seconds": 1045,
+      "end_seconds": 1114,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Steve Kerr on his conversation with Draymond Green: He told me he would do whatever I need. I told him I had no desire to bring him off the bench because we have to dig this thing out with defense.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Draymond Green",
+          "Charles Bassey"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Steve Kerr details his conversation with Draymond Green regarding his role and the decision to pair him with Charles Bassey.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "D5rYy_T45Wc",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Steve Kerr",
+      "timestamp": "19:32",
+      "summary_phrase": "Steve Kerr on the need for competitive defense and rebounding",
+      "names_mentioned": [
+        "Stephen Curry",
+        "Jimmy Butler"
+      ],
+      "excerpt": "We need competitive defense and rebounding. That's a that's it.",
+      "quote": "We need competitive defense and rebounding. That's a that's it. This can't turn into a an offensive conversation about those guys have to replace. Nobody replaces Steph, you know. Nobody replaces Jimmy Butler. So we're going to have to win games with our defense and so all I care about is are they competing defensively, is the spirit right, is the energy up. All of that was really solid tonight and the guys collectively dug their way out of a five-game losing streak. And in my experience, you know, a long time in the NBA, like this is the only way to to to dig your way out. You don't you don't like suddenly score 130 points after a streak like this. So it's all about the defense and then once you win one, things tend to loosen up a little bit and you tend to shoot better.",
+      "text_blocks": [],
+      "start_seconds": 1172,
+      "end_seconds": 1229,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Steve Kerr on the team's identity without Steph Curry: Nobody replaces Steph. Nobody replaces Jimmy Butler. We are going to have to win games with our defense.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry",
+          "Jimmy Butler"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr emphasizes that the team's path out of their losing streak is through competitive defense rather than individual scoring.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "D5rYy_T45Wc",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "22:32",
+      "summary_phrase": "Brandin Podziemski on the team's collective defensive effort",
+      "names_mentioned": [
+        "Jayson Tatum"
+      ],
+      "excerpt": "Dray did a good job on him, made him play a lot of ISO basketball.",
+      "quote": "I mean, uh, Dray did a good job on him, made him play a lot of ISO basketball, and, uh, we all just chipped in where we could. And to get out the winning streak, or losing streak, this is probably going to be a hard game, and, uh, you know, we found ourselves with it, and held them to 12 in the fourth quarter, so, grinded it out and I'll try to keep it going.",
+      "text_blocks": [],
+      "start_seconds": 1352,
+      "end_seconds": 1381,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brandin Podziemski on the defensive effort against the Celtics: We all just chipped in where we could. We held them to 12 in the fourth quarter so we grinded it out.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandin Podziemski credits Draymond Green's defensive effort for helping the team snap their losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "m8C7U7rULsc",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "23:59",
+      "summary_phrase": "Brandin Podziemski on the impact of the Draymond Green and Charles Bassey pairing",
+      "names_mentioned": [
+        "Charles Bassey",
+        "Draymond Green"
+      ],
+      "excerpt": "Obviously Charles out there provides a threat at the basket per se from a role perspective.",
+      "quote": "I mean, uh, obviously Charles out there provides a threat at the basket per se from a role perspective. It's a little bit different when Hal's out there with Dray. Um, there's not that presence at the rim, and, um, so, I think any combination can work, um, if you're playing the right way. But, um, Charles has been phenomenal when he's had that opportunity.",
+      "text_blocks": [],
+      "start_seconds": 1439,
+      "end_seconds": 1464,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brandin Podziemski on the frontcourt rotation: Obviously Charles out there provides a threat at the basket. It is a little bit different when there is not that presence at the rim.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Charles Bassey",
+          "Draymond Green"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandin Podziemski discusses the impact of Charles Bassey's presence at the rim compared to other lineup combinations.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "m8C7U7rULsc",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "24:33",
+      "summary_phrase": "Brandin Podziemski on his shot selection and aggressive mindset",
+      "names_mentioned": [],
+      "excerpt": "I think for me during the road trip, I settled a lot of times for threes.",
+      "quote": "Yeah, uh, I think for me during the road trip, I settled a lot of times for threes. Um, so for me tonight, just trying to touch the paint as much as I could. I know I still shot 10 threes, but, um, majority of them were pretty wide open looks from teammates. Uh, so when I had the ball, just try to touch the paint as much as I could and get him in a rotation and play that way.",
+      "text_blocks": [],
+      "start_seconds": 1473,
+      "end_seconds": 1504,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brandin Podziemski on adjusting his game: During the road trip I settled a lot of times for threes. Tonight I was just trying to touch the paint as much as I could.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandin Podziemski explains his shift in shot selection from settling for threes to attacking the paint.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "m8C7U7rULsc",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "25:16",
+      "summary_phrase": "Brandin Podziemski on his development and chemistry with Yax",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "It's moving really fast for both of us in terms of our development together out there.",
+      "quote": "Well, it's being expedited for sure, um, with Steph out. I think, uh, um, it's moving really fast for both of us in terms of our development together out there. Uh, but I mean, we're both mature, we're both figuring it out. Um, there's going to be some bad games, some good games, but, um, you know, over the course of time, especially with these opportunities we're given, uh, I think it's going to work out for us.",
+      "text_blocks": [],
+      "start_seconds": 1516,
+      "end_seconds": 1546,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brandin Podziemski on his development: It is being expedited for sure with Steph out. It is moving really fast for both of us but we are both mature and figuring it out.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandin Podziemski discusses his accelerated development and chemistry with teammates while Stephen Curry is out.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "m8C7U7rULsc",
+        "rank": 5
+      }
+    },
+    {
+      "rank": 15,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "25:52",
+      "summary_phrase": "Brandin Podziemski on the team's resilience during the losing streak",
+      "names_mentioned": [],
+      "excerpt": "Just feel like there's a lot of deflated moments, um, one we shot very poorly.",
+      "quote": "Just feel like there's a lot of deflated moments, um, one we shot very poorly. And so, when you see a lot of misses keep going, it's just human nature to be like, dang. And it is hard to get back on defense. Um, but then there was also a lot of things that we could control and it was just effort plays, um, on their road trip. Um, but you know, in the half court, we were really, really good, um, during the trip. So, kind of just found that extra piece that helped that we made some shots tonight. Um, but we got to carry that over Wednesday.",
+      "text_blocks": [],
+      "start_seconds": 1552,
+      "end_seconds": 1594,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brandin Podziemski on the losing streak: There were a lot of deflated moments. When you see a lot of misses keep going it is just human nature to be like dang. It is hard to get back on defense.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandin Podziemski reflects on the team's resilience and ability to overcome deflated moments during their recent road trip.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "m8C7U7rULsc",
+        "rank": 6
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Charles Bassey",
+      "timestamp": "26:35",
+      "summary_phrase": "Charles Bassey on the team's defensive focus",
+      "names_mentioned": [],
+      "excerpt": "All full, man. Transition defense, that was mostly the, um, the film was all about defense, man.",
+      "quote": "All full, man. Transition defense, that was mostly the, um, the film was all about defense, man. Um, but yeah, man, it was a five, five-game losing streak. We knew we had to like get better, more on on on defense coming to this game. So it's like, um, we had to just lock in on that on that part, you know, these past two days before we play today. So yeah, definitely defense.",
+      "text_blocks": [],
+      "start_seconds": 1595,
+      "end_seconds": 1623,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Charles Bassey on the defensive focus: The film was all about defense. We knew we had to get better after a five-game losing streak so we had to just lock in on that part.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Charles Bassey highlights the team's focus on defensive film study as the primary reason for their improved performance.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "_i45dX5cmdk",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Charles Bassey",
+      "timestamp": "27:00",
+      "summary_phrase": "Charles Bassey on the importance of communication on defense",
+      "names_mentioned": [],
+      "excerpt": "Oh, just communication, man. Like just, just talk, man, you know.",
+      "quote": "Oh, just communication, man. Like just, just talk, man, you know. Uh, we were scrambling a lot out there, just communicate, you know, help the help the next guy, you know, help your helper. So, um, like you see, man, we were just scrambling, just, you know, just coming out effort plays and, uh, yeah, man, just defense for real.",
+      "text_blocks": [],
+      "start_seconds": 1620,
+      "end_seconds": 1643,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Charles Bassey on the key to the win: Just communication. We were scrambling a lot out there so we had to help the helper.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Charles Bassey emphasizes the importance of defensive communication and effort in the team's recent win.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "_i45dX5cmdk",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 18,
+      "speaker": "Charles Bassey",
+      "timestamp": "27:30",
+      "summary_phrase": "Charles Bassey on his role and commitment to the team",
+      "names_mentioned": [],
+      "excerpt": "Just doing what I do out there, just helping, helping the team, you know, defensively, offensively.",
+      "quote": "Working for me, man, I'm just, uh, uh, just doing what I do out there, just helping, helping the team, you know, defensively, offensively, and, um, I just, uh, you see my, like I said, man, just using my opportunity. I mean, I don't know if I'm, you know, how long I'm going to be starting for, but obviously, um, every game I, um, I start, I just want to, um, show what kind of player I am, um, what kind of caliber player I am for the team, and obviously, I never know what's going to happen, but as long as I keep starting, I'm going to be showing up for the team.",
+      "text_blocks": [],
+      "start_seconds": 1650,
+      "end_seconds": 1694,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Charles Bassey on his opportunity: I don't know how long I am going to be starting for but every game I start I just want to show what kind of caliber player I am for the team.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Charles Bassey discusses his commitment to proving his value to the team while he is in the starting lineup.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "_i45dX5cmdk",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 19,
+      "speaker": "Charles Bassey",
+      "timestamp": "28:19",
+      "summary_phrase": "Charles Bassey on the team's collective effort and heart",
+      "names_mentioned": [
+        "Jayson Tatum",
+        "Draymond Green"
+      ],
+      "excerpt": "It shows a lot, man. Like I said, man, our effort plays this game was great, man.",
+      "quote": "It shows a lot, man. Like I said, man, our effort plays this game was great, man. I mean, I wasn't the only one rebounding, you know, Gee was out there going after offensive rebound, you know, Yax, BP, the guys out there, so it's like just shows a lot of heart, man. Like I said, man, um, coming into this game, we just felt like, um, we just didn't want to, uh, obviously like just didn't want to repeat what happened this past five games, you know. How, I mean, what Steve was talking about when we're watching film this past two days was our body language, you know, and coming to this game we just felt, uh, we had to be great, you know, even though we were down like five, six, seven, 10 point. At one point today, today we were down like 11, and I just felt like we felt like, you know, our body language was great when we were down, you know. We were staying in the game, you know, and I mean, you could compare this game to the past five games, you know. We were down like five, six, 10, we just put our head down, but today was way different, so hopefully we just going to continue doing that.",
+      "text_blocks": [],
+      "start_seconds": 1699,
+      "end_seconds": 1783,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Charles Bassey on the team's body language: We were down 11 and I felt like our body language was great. We were staying in the game. Today was way different than the past five games.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Charles Bassey notes the improvement in the team's body language and collective effort compared to the previous losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "_i45dX5cmdk",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 20,
+      "speaker": "Charles Bassey",
+      "timestamp": "29:39",
+      "summary_phrase": "Charles Bassey on Draymond Green's offensive versatility",
+      "names_mentioned": [
+        "Draymond Green"
+      ],
+      "excerpt": "Draymond has been playing well for his whole life, you know, but I mean he could play the five.",
+      "quote": "I mean, Draymond has been playing well for his whole life, you know, but I mean he could play the five, but, um, obviously he, uh, he always want to play with a big, so, I mean just we've been practicing, we've been, you know, practicing that in practice, you know, this past two days, playing the four even, um, a couple of that practices, so I mean you guys could see he was knocking down shots today, so, I mean obviously, I think, um, Steve wanted to, Steve wants to involve him more, you know, with the offense and, you know, playing from the corner and stuff like that, so I mean that's, that's working. I think he wants to, he definitely wants to play with a big out there, so, yeah.",
+      "text_blocks": [],
+      "start_seconds": 1779,
+      "end_seconds": 1830,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Charles Bassey on Draymond Green: Steve wants to involve him more with the offense and playing from the corner. He definitely wants to play with a big out there.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green",
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Bassey explains the tactical adjustment of playing Draymond Green at the four alongside a traditional big man.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "_i45dX5cmdk",
+        "rank": 5
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "oObI8y_oXYQ",
+  "url": "https://www.youtube.com/watch?v=oObI8y_oXYQ",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-23T06:18:56Z",
+  "duration_seconds": 2334,
+  "processed_at": "2026-11-23T06:51:56Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

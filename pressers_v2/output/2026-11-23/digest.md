@@ -2,7 +2,15 @@
 
 # Best of the best
 
-**1. Erik Spoelstra — "That's not super high. He almost played tonight." — Update on Giannis Antetokounmpo's injury status** [02:06](https://www.youtube.com/watch?v=EDm4RjjbnyQ&t=126s)
+**1. Draymond Green — "I'm never going to be in your 15, be like, oh man, Steph's out, it's my chance." — Draymond Green on his role and mindset at this stage of his career** [04:23](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=263s)
+
+Draymond Green: "You got to take open shots, like I said. But then also, you know, I'm never going to be in your 15, be like, oh man, Steph's out, it's my chance. When I was in year six, it was my chance, and I would do what I do, you know. But year 15, that's not, that'll never be my mindset. And as someone who can do a multitude of things on the basketball court, I would never deduce myself down to, he got to go score. Like that's, you know, I think when people say that, they try, you know, you got guys comparing their young selves to my old self, which is fun. Says a lot. You got people flexing their resumes, and if I flex my resume back, I'm a bully."
+
+[https://www.youtube.com/watch?v=oObI8y_oXYQ&t=263s](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=263s)
+
+From: [Steve Kerr, Warriors break down skid-snapping win vs. Celtics \| NBC Sports Bay Area](https://www.youtube.com/watch?v=oObI8y_oXYQ) · *Golden State Warriors*
+
+**2. Erik Spoelstra — "That's not super high. He almost played tonight." — Update on Giannis Antetokounmpo's injury status** [02:06](https://www.youtube.com/watch?v=EDm4RjjbnyQ&t=126s)
 
 Erik Spoelstra: "That's not super high. He almost played tonight. I thought it was the right decision by everybody, the medical staff, Giannis. He went through his whole process to try to play, but I thought it was the right move. We have a couple days before our next game. We'll see how these two days go, but I'm optimistic."
 
@@ -12,7 +20,7 @@ From: [Erik Spoelstra Post-Game Interview vs Thunder \| 11/22/26](https://www.yo
 
 <small>[Clip it](presserclips://clip?v=EDm4RjjbnyQ&t=126&q=3) · [Send to Slack](presserclips://clip?v=EDm4RjjbnyQ&t=126&q=3&slack=1)</small>
 
-**2. Cooper Flagg — "The last couple games have been amazing. He's done it all year with the steals." — Cooper Flagg on Zach Edey's defensive impact and versatility** [03:38](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=218s)
+**3. Cooper Flagg — "The last couple games have been amazing. He's done it all year with the steals." — Cooper Flagg on Zach Edey's defensive impact and versatility** [03:38](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=218s)
 
 Cooper Flagg: "The last couple games have been amazing. He's done it all year with the steals and the blocks, but just helping us be another glue guy. Since PJ got the illness, Zach stepping up, being ready, taking on a starting spot and fitting in pretty seamlessly."
 
@@ -20,7 +28,7 @@ Cooper Flagg: "The last couple games have been amazing. He's done it all year wi
 
 From: [Cooper Flagg Postgame Interview \| Mavericks at Jazz \| Nov. 22, 2026](https://www.youtube.com/watch?v=R7zQvs73_hQ) · *Dallas Mavericks*
 
-**3. Charles Bassey — "Draymond has been playing the five his whole life, but he always wants to play with a big." — Charles Bassey on Draymond Green's versatility and role in the offense** [03:15](https://www.youtube.com/watch?v=_i45dX5cmdk&t=195s)
+**4. Charles Bassey — "Draymond has been playing the five his whole life, but he always wants to play with a big." — Charles Bassey on Draymond Green's versatility and role in the offense** [03:15](https://www.youtube.com/watch?v=_i45dX5cmdk&t=195s)
 
 Charles Bassey: "**Draymond** has been playing the five his whole life, but he always wants to play with a big. We've been practicing that in practice these past two days, playing the four even a couple of those practices. You guys could see he was knocking down shots today. Steve Kerr wants to involve him more with the offense and playing from the corner. That's working. He definitely wants to play with a big out there."
 
@@ -28,7 +36,7 @@ Charles Bassey: "**Draymond** has been playing the five his whole life, but he a
 
 From: [Charles Bassey seizing every opportunity after Warriors' win \| NBC Sports Bay Area](https://www.youtube.com/watch?v=_i45dX5cmdk) · *Golden State Warriors*
 
-**4. Brandin Podziemski — "people think he lacks offensive ability, but when he scores our team usually wins" — Brandin Podziemski on Draymond Green's aggressive offensive performance against the Celtics** [01:10](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s)
+**5. Brandin Podziemski — "people think he lacks offensive ability, but when he scores our team usually wins" — Brandin Podziemski on Draymond Green's aggressive offensive performance against the Celtics** [01:10](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s)
 
 **Kerith Burke:** "Can you give me some insight about **Draymond**? He had a season-high in scoring. Looked like he wanted to get that part of his game going early. Then he also had the task of being the main guy on **Tatum**. How did you see **Draymond** tackle this game?"
 
@@ -38,23 +46,13 @@ From: [Charles Bassey seizing every opportunity after Warriors' win \| NBC Sport
 
 From: [Brandin Podziemski praises Draymond’s offense in Warriors’ win \| NBC Sports Bay Area](https://www.youtube.com/watch?v=_v2gq_dt3gk) · *Golden State Warriors*
 
-**5. Josh Giddey — "He doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear." — Josh Giddey on Billy Donovan's communication and accountability** [07:24](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
+**6. Josh Giddey — "He doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear." — Josh Giddey on Billy Donovan's communication and accountability** [07:24](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
 
 Josh Giddey: "That's one of the things about him, I think really good communicator. And he probably, you know, as a former player, he probably understands as well and he he can relate to us as players a lot more. And yeah, he was really good about it, I think. As he says, it's not the first time, but he doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear. And you know, as players, it's frustrating in the moment, obviously you want to be out there trying to help your team win games, but I wasn't surprised, I wasn't sitting there confused as to why I wasn't out there. Like I knew why and he hit it on the head the next day and we move forward and move on to tonight."
 
 [https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
 
 From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls OT Loss to Nuggets](https://www.youtube.com/watch?v=GXOLEVcghG0) · *Chicago Bulls*
-
-**6. Draymond Green — "Jacob Rubin and Frank Vogel called us out. They showed some clips and it was embarrassing." — Draymond Green on the team's defensive film session** [01:37](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s)
-
-**Festus Ezeli:** "I thought overall the ball pressure was better. I don't think there was anything drastic, but the small details on the defensive end, I thought you guys paid a little bit better attention to that and then you got rewarded for that."
-
-**Draymond Green:** "We had a great film session defensive wise and **Jacob Rubin** and **Frank Vogel** called us out. They showed some clips and it was embarrassing. We knew we had to come out better on that end of the ball and we were able to do that."
-
-[https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s)
-
-From: [Draymond Green reveals how Warriors' defense improved in win \| NBC Sports Bay Area](https://www.youtube.com/watch?v=yHUdiGNqQY8) · *Golden State Warriors*
 
 **7. Jared McCain — "it shows that the coaches trust him, and for long-term I think it's going to be huge for us" — Jared McCain on Micic's opportunity in the starting lineup** [03:08](https://www.youtube.com/watch?v=KeQADE3DAtY&t=188s)
 
@@ -1027,6 +1025,50 @@ Zaccharie Risacher: "It is really important. I know that's something the team ne
 Zaccharie Risacher: "I am having a lot of fun playing and I feel like we are playing good ball, we are playing for each other, we are making the extra efforts as a team. It is just great to be able to play in this kind of environment where everybody's got each other's back and everybody wants to win and compete at their highest level. I am just having fun with my teammates and I think everybody can feel it, everybody is connected."
 
 [https://www.youtube.com/watch?v=mV1bAgkg6VI&t=283s](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=283s)
+
+---
+
+## Steve Kerr, Warriors break down skid-snapping win vs. Celtics | NBC Sports Bay Area — *Golden State Warriors*
+
+Source: [https://www.youtube.com/watch?v=oObI8y_oXYQ](https://www.youtube.com/watch?v=oObI8y_oXYQ)
+
+_Speakers identified: Draymond Green, Steve Kerr, Brandin Podziemski, Charles Bassey_
+
+**1. Draymond Green — "You try to make them take tough shots and you live with the results." — Draymond Green on defensive adjustments against Jayson Tatum** [00:17](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=17s)
+
+Draymond Green: "Well, the pass was great in his pick-and-roll coverages. Al was great in his pick-and-roll coverages. In the second half, I was staying with him no matter what, and everybody else just needed to get back to their guy, and then they shrunk the floor. I always tell y'all, there's no way to stop a superstar in this league. You try to make them take tough shots and you live with the results. In the second half, I think the pressure was better on him. He wasn't as comfortable as he was in the first half, and overall we did a pretty good job."
+
+[https://www.youtube.com/watch?v=oObI8y_oXYQ&t=17s](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=17s)
+
+**2. Draymond Green — "It was embarrassing just looking at our effort the last few games." — Draymond Green on the team's film session and defensive effort** [01:14](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=74s)
+
+Draymond Green: "I think it lit a fire. One thing about it is the film never lies. You want to know the truth, go watch film. We had a film session yesterday, and it was embarrassing just looking at our effort the last few games. Yeah, you go on a five-game losing streak, but the message was, Steph's out, great. That's no reason for our defense to suck. We heard the message, and guys stepped up to the challenge and came out with a better effort tonight, and it was good for us."
+
+[https://www.youtube.com/watch?v=oObI8y_oXYQ&t=74s](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=74s)
+
+**3. Draymond Green — "Coach told me, I'm going to put you at the four, put some more size out there." — Draymond Green on Steve Kerr's decision to play him at the four** [02:00](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=120s)
+
+Draymond Green: "Coach told me, we talked in Memphis, and he just said, I'm going to put you at the four, put some more size out there, and I want you to get to the corner and fire away. So, I got to the corner. They were really helping in heavy off the corners, and so, Yax was making the play, and he came off those first couple, advanced it right away. When you get the ball on time, there's a confidence that goes with that, and I'm sitting there, just kind of space to the corner, but he's throwing the ball right away. As soon as he comes off the screen, he sees that guy helped in, he threw the ball. It's an onus as a player to make the shot for him, because he had the belief in you."
+
+[https://www.youtube.com/watch?v=oObI8y_oXYQ&t=120s](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=120s)
+
+**4. Draymond Green — "I got to shoot. If I don't shoot it, it don't work." — Draymond Green on the importance of shooting for his partnership with Charles Bassey** [03:06](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=186s)
+
+Draymond Green: "I got to shoot. If I don't shoot it, it don't work. So I came out firing. And then, and then, you know, defensively, you know, one, Bas is a good rebounder, a really good rebounder. And so having that size defensively, it allows me to go guard the best wing, or you know, whoever that best player is. It allows me to go guard them. If I'm at the five, I kind of got to guard the biggest guy, you know, and try to hold man the pain and hold the fort down. But playing next to Bas, it allows me to go match up wherever I may need to match up."
+
+[https://www.youtube.com/watch?v=oObI8y_oXYQ&t=186s](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=186s)
+
+**5. Draymond Green — "I'm never going to be in your 15, be like, oh man, Steph's out, it's my chance." — Draymond Green on his role and mindset at this stage of his career** [04:23](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=263s)
+
+Draymond Green: "You got to take open shots, like I said. But then also, you know, I'm never going to be in your 15, be like, oh man, Steph's out, it's my chance. When I was in year six, it was my chance, and I would do what I do, you know. But year 15, that's not, that'll never be my mindset. And as someone who can do a multitude of things on the basketball court, I would never deduce myself down to, he got to go score. Like that's, you know, I think when people say that, they try, you know, you got guys comparing their young selves to my old self, which is fun. Says a lot. You got people flexing their resumes, and if I flex my resume back, I'm a bully."
+
+[https://www.youtube.com/watch?v=oObI8y_oXYQ&t=263s](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=263s)
+
+**6. Steve Kerr — "Tom and I email periodically. As you know, he's a poet and a writer." — Steve Kerr on his relationship with Tom Machery** [15:03](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=903s)
+
+Steve Kerr: "Tom and I email periodically. As you know, he's a poet and a writer, and he's shared some of his books with me, and he's the biggest Warriors fan there is. So we stay in touch, and I love hearing from him. I love seeing him before the game. I hadn't seen him probably in a couple of years, so it's wonderful to have Tom at the game tonight."
+
+[https://www.youtube.com/watch?v=oObI8y_oXYQ&t=903s](https://www.youtube.com/watch?v=oObI8y_oXYQ&t=903s)
 
 ---
 
