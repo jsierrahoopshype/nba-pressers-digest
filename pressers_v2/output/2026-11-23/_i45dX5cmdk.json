@@ -1,0 +1,214 @@
+{
+  "video_title": "Charles Bassey seizing every opportunity after Warriors' win | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Charles Bassey"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Bassey",
+      "timestamp": "00:11",
+      "summary_phrase": "Charles Bassey on the team's defensive struggles and recent losing streak",
+      "names_mentioned": [],
+      "excerpt": "We knew we had to get better on defense coming to this game.",
+      "quote": "Transition defense, that was mostly what the film was all about. We knew we had to get better on defense coming to this game. We had to just lock in on that part these past two days before we played today, so definitely defense.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Charles Bassey says the team focused heavily on transition defense in practice over the last two days to address their recent struggles.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Charles Bassey discusses the team's focus on transition defense following recent film sessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Bassey",
+      "timestamp": "00:37",
+      "summary_phrase": "Charles Bassey emphasizes communication as the key to defensive success",
+      "names_mentioned": [],
+      "excerpt": "Just communicate, help the next guy, help your helper.",
+      "quote": "Just communication. We were scrambling a lot out there. Just communicate, help the next guy, help your helper. We were scrambling, just coming out effort plays and defense for real.",
+      "verbatim_original_language": "",
+      "start_seconds": 37,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Charles Bassey identifies communication as the primary fix for the team's defensive scrambling.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Charles Bassey explains the importance of communication and defensive effort during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Bassey",
+      "timestamp": "01:05",
+      "summary_phrase": "Charles Bassey on his role and mindset as a starter",
+      "names_mentioned": [],
+      "excerpt": "I'm just doing what I do out there, just helping the team defensively, offensively.",
+      "quote": "I'm just doing what I do out there, just helping the team defensively, offensively. I'm just using my opportunity. I don't know how long I'm going to be starting for, but obviously every game I start, I just want to show what kind of player I am, what kind of caliber player I am for the team. As long as I keep starting, I'm going to be showing up for the team.",
+      "verbatim_original_language": "",
+      "start_seconds": 65,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Charles Bassey on his current starting role: I am just using my opportunity. I do not know how long I am going to be starting for, but every game I start, I just want to show what kind of player I am for the team.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Charles Bassey reflects on his mindset and performance while serving as a starter for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Bassey",
+      "timestamp": "01:55",
+      "summary_phrase": "Charles Bassey on the team's collective effort and heart in a win without Steph Curry",
+      "names_mentioned": [
+        "Steph"
+      ],
+      "excerpt": "It shows a lot of heart, man. Our effort plays this game was great.",
+      "quote": "It shows a lot of heart, man. Our effort plays this game was great. I wasn't the only one rebounding. Kevon Looney was out there going after offensive rebounds, and the guys out there, it shows a lot of heart. Coming into this game, we just felt like we didn't want to repeat what happened these past five games. Steve Kerr was talking about when we were watching film these past two days was our body language. Coming into this game, we felt like we had to be great, even though we were down like 11 at one point. Our body language was great even when we were down. We were staying in the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 115,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Charles Bassey says the team maintained great body language even when down by 11 points, noting that Steve Kerr emphasized the importance of their attitude during film sessions.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry",
+          "Kevon Looney",
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Bassey praises the team's collective effort and body language in a win without Stephen Curry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Charles Bassey",
+      "timestamp": "03:15",
+      "summary_phrase": "Charles Bassey on Draymond Green's versatility and role in the offense",
+      "names_mentioned": [
+        "Draymond"
+      ],
+      "excerpt": "Draymond has been playing the five his whole life, but he always wants to play with a big.",
+      "quote": "Draymond has been playing the five his whole life, but he always wants to play with a big. We've been practicing that in practice these past two days, playing the four even a couple of those practices. You guys could see he was knocking down shots today. Steve Kerr wants to involve him more with the offense and playing from the corner. That's working. He definitely wants to play with a big out there.",
+      "verbatim_original_language": "",
+      "start_seconds": 195,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Charles Bassey says Steve Kerr is looking to involve Draymond Green more in the offense from the corner, noting that Draymond has been practicing playing the four alongside a big man.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green",
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Bassey discusses Draymond Green's offensive role and Steve Kerr's strategy to play him alongside a big man.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Charles Bassey",
+      "timestamp": "03:53",
+      "summary_phrase": "Charles Bassey praises Draymond Green's defensive impact against Jayson Tatum",
+      "names_mentioned": [
+        "Draymond",
+        "Tatum",
+        "Steve"
+      ],
+      "excerpt": "He's one of the best defenders in the league. He's been one of the best for a long period.",
+      "quote": "He's one of the best defenders in the league. He's been one of the best for a long period of time. Taking that challenge, he's probably going to guard the best guys every night. He wants to take that challenge. Kudos to him, he did what he's supposed to do, and then we got the win. His defense has been really great for the team.",
+      "verbatim_original_language": "",
+      "start_seconds": 233,
+      "end_seconds": 258,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Charles Bassey praises Draymond Green for his defensive consistency and willingness to take on the challenge of guarding the opposing team's best players every night.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green",
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Charles Bassey praises Draymond Green for his defensive performance against Jayson Tatum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "_i45dX5cmdk",
+  "url": "https://www.youtube.com/watch?v=_i45dX5cmdk",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-23T05:28:52Z",
+  "duration_seconds": 279,
+  "processed_at": "2026-11-23T05:59:40Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

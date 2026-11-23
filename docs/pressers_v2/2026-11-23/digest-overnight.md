@@ -20,7 +20,25 @@ Cooper Flagg: "The last couple games have been amazing. He's done it all year wi
 
 From: [Cooper Flagg Postgame Interview \| Mavericks at Jazz \| Nov. 22, 2026](https://www.youtube.com/watch?v=R7zQvs73_hQ) · *Dallas Mavericks*
 
-**3. Josh Giddey — "He doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear." — Josh Giddey on Billy Donovan's communication and accountability** [07:24](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
+**3. Charles Bassey — "Draymond has been playing the five his whole life, but he always wants to play with a big." — Charles Bassey on Draymond Green's versatility and role in the offense** [03:15](https://www.youtube.com/watch?v=_i45dX5cmdk&t=195s)
+
+Charles Bassey: "**Draymond** has been playing the five his whole life, but he always wants to play with a big. We've been practicing that in practice these past two days, playing the four even a couple of those practices. You guys could see he was knocking down shots today. Steve Kerr wants to involve him more with the offense and playing from the corner. That's working. He definitely wants to play with a big out there."
+
+[https://www.youtube.com/watch?v=_i45dX5cmdk&t=195s](https://www.youtube.com/watch?v=_i45dX5cmdk&t=195s)
+
+From: [Charles Bassey seizing every opportunity after Warriors' win \| NBC Sports Bay Area](https://www.youtube.com/watch?v=_i45dX5cmdk) · *Golden State Warriors*
+
+**4. Brandin Podziemski — "people think he lacks offensive ability, but when he scores our team usually wins" — Brandin Podziemski on Draymond Green's aggressive offensive performance against the Celtics** [01:10](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s)
+
+**Kerith Burke:** "Can you give me some insight about **Draymond**? He had a season-high in scoring. Looked like he wanted to get that part of his game going early. Then he also had the task of being the main guy on **Tatum**. How did you see **Draymond** tackle this game?"
+
+**Brandin Podziemski:** "It's what makes him a Hall of Famer. People think he lacks offensive ability, but when he scores our team usually wins. We're all encouraging him to be aggressive, take shots when he's open, take shots at the rim when he's open. Don't be so unselfish. He did that. I'm pretty sure it shocked the Celtics even a little bit to start the game, but that gave us a good energy, a good boost to start the game."
+
+[https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s)
+
+From: [Brandin Podziemski praises Draymond’s offense in Warriors’ win \| NBC Sports Bay Area](https://www.youtube.com/watch?v=_v2gq_dt3gk) · *Golden State Warriors*
+
+**5. Josh Giddey — "He doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear." — Josh Giddey on Billy Donovan's communication and accountability** [07:24](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
 
 Josh Giddey: "That's one of the things about him, I think really good communicator. And he probably, you know, as a former player, he probably understands as well and he he can relate to us as players a lot more. And yeah, he was really good about it, I think. As he says, it's not the first time, but he doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear. And you know, as players, it's frustrating in the moment, obviously you want to be out there trying to help your team win games, but I wasn't surprised, I wasn't sitting there confused as to why I wasn't out there. Like I knew why and he hit it on the head the next day and we move forward and move on to tonight."
 
@@ -28,7 +46,7 @@ Josh Giddey: "That's one of the things about him, I think really good communicat
 
 From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls OT Loss to Nuggets](https://www.youtube.com/watch?v=GXOLEVcghG0) · *Chicago Bulls*
 
-**4. Draymond Green — "Jacob Rubin and Frank Vogel called us out. They showed some clips and it was embarrassing." — Draymond Green on the team's defensive film session** [01:37](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s)
+**6. Draymond Green — "Jacob Rubin and Frank Vogel called us out. They showed some clips and it was embarrassing." — Draymond Green on the team's defensive film session** [01:37](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s)
 
 **Festus Ezeli:** "I thought overall the ball pressure was better. I don't think there was anything drastic, but the small details on the defensive end, I thought you guys paid a little bit better attention to that and then you got rewarded for that."
 
@@ -38,7 +56,7 @@ From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls 
 
 From: [Draymond Green reveals how Warriors' defense improved in win \| NBC Sports Bay Area](https://www.youtube.com/watch?v=yHUdiGNqQY8) · *Golden State Warriors*
 
-**5. Jared McCain — "it shows that the coaches trust him, and for long-term I think it's going to be huge for us" — Jared McCain on Micic's opportunity in the starting lineup** [03:08](https://www.youtube.com/watch?v=KeQADE3DAtY&t=188s)
+**7. Jared McCain — "it shows that the coaches trust him, and for long-term I think it's going to be huge for us" — Jared McCain on Micic's opportunity in the starting lineup** [03:08](https://www.youtube.com/watch?v=KeQADE3DAtY&t=188s)
 
 Jared McCain: "It's huge. I think one of those things that builds a lot of confidence in him. It shows that the coaches trust him, and for long-term I think it's going to be huge for us. During this stretch, it's a lot of learning. And so when players that are injured start to come back more, it's going to be us all being confident and just trying to look at it in a positive direction. Having everyone be confident in themselves towards the end of the season is what we need."
 
@@ -48,7 +66,7 @@ From: [Jared McCain on Tonight's Game \| Postgame Media \| November 22, 2026](ht
 
 <small>[Clip it](presserclips://clip?v=KeQADE3DAtY&t=188&q=4) · [Send to Slack](presserclips://clip?v=KeQADE3DAtY&t=188&q=4&slack=1)</small>
 
-**6. Jamal Murray — "he struggled for maybe seven games shooting, and he was still having 21, 22 and 13." — Jamal Murray on Nikola Jokic's consistency and resilience** [12:19](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s)
+**8. Jamal Murray — "he struggled for maybe seven games shooting, and he was still having 21, 22 and 13." — Jamal Murray on Nikola Jokic's consistency and resilience** [12:19](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s)
 
 Jamal Murray: "No one's worried about him. I just think he struggled for maybe seven games shooting, and he was still having 21, 22 and 13. So, I mean, it's not really, I wouldn't consider that a struggle. It's just good to see him have his flow and be as dominant as we know he can be, and I mean, it's every night he's doing this. So, if he misses a couple shots for one day, we're not, we're not tripping."
 
@@ -58,7 +76,7 @@ From: [Full Denver Nuggets Postgame Media Availability vs. CHI 🎙](https://www
 
 <small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=739&q=8) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=739&q=8&slack=1)</small>
 
-**7. Ayo Dosunmu — "Our niche, I mean we need to get better at closing games." — Ayo Dosunmu on the Bulls' need to close out games** [16:06](https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s)
+**9. Ayo Dosunmu — "Our niche, I mean we need to get better at closing games." — Ayo Dosunmu on the Bulls' need to close out games** [16:06](https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s)
 
 Ayo Dosunmu: "I know we team that building. I wouldn't say we're young. We got guys that have been in the league. You know, we just trying to figure out how to win and close out games. I think that's our that's our niche. I mean we need to get better at closing games. We're competing hard enough to be in games for the past eight or nine. Now it's just freaking hard to close now."
 
@@ -66,7 +84,17 @@ Ayo Dosunmu: "I know we team that building. I wouldn't say we're young. We got g
 
 From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls OT Loss to Nuggets](https://www.youtube.com/watch?v=GXOLEVcghG0) · *Chicago Bulls*
 
-**8. Zaccharie Risacher — "I think we let him be too comfortable." — Zaccharie Risacher on defensive lapses against high-scoring opponents** [02:43](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s)
+**10. Gui Santos — "If it's a night that we can't score, but we cannot let them score too" — Gui Santos on the Warriors' defensive focus against the Celtics** [00:00](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s)
+
+**Unidentified reporter:** "Gui, **Steve Kerr** said you guys needed to dig out of a hole with defense, so grind it out tough the win. How did you do it?"
+
+**Gui Santos:** "Steve was talking to us a lot about how we've been playing defense the last couple games. We had a great meeting yesterday, we all talking and we are in the same page. That's what we need to do. If it's a night that we can't score, but we cannot let them score too. If we have to win a game like this 88 to 87, we got to do it. We got to find a way, and today was a day that we did it."
+
+[https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s)
+
+From: [Gui Santos gets ‘swagger back’ in Warriors’ win vs. Celtics \| NBC Sports Bay Area](https://www.youtube.com/watch?v=f7rJbgiZjDo) · *Golden State Warriors*
+
+**11. Zaccharie Risacher — "I think we let him be too comfortable." — Zaccharie Risacher on defensive lapses against high-scoring opponents** [02:43](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s)
 
 Zaccharie Risacher: "Maybe it is a little bit of focus, like concentration, but also be more physical. I think we let him be too comfortable. If we were to be a little bit more physical, getting through screens, make sure he wasn't getting open looks earlier in the game, I think that would have helped us throughout the whole game."
 
@@ -74,7 +102,7 @@ Zaccharie Risacher: "Maybe it is a little bit of focus, like concentration, but 
 
 From: [Zaccharie Risacher Postgame Interview \| Mavericks at Jazz \| Nov. 22, 2026](https://www.youtube.com/watch?v=mV1bAgkg6VI) · *Dallas Mavericks*
 
-**9. Bennett Stirtz — "it's a lot easier to tone back aggressiveness than to ramp it up" — Bennett Stirtz on balancing aggressive shooting with team concepts** [01:45](https://www.youtube.com/watch?v=8JJdgoq0UJA&t=105s)
+**12. Bennett Stirtz — "it's a lot easier to tone back aggressiveness than to ramp it up" — Bennett Stirtz on balancing aggressive shooting with team concepts** [01:45](https://www.youtube.com/watch?v=8JJdgoq0UJA&t=105s)
 
 Bennett Stirtz: "I think personally, it's a lot easier to tone back aggressiveness than to ramp it up. They can always tell me back if they feel like I'm shooting too much, but I feel like when I shoot it, it's a pretty good shot for the team, and the guys want me to shoot those shots too because it makes it easier for them. So I feel like I just got to be more aggressive, and if they tell me to wind it down a little bit, I'll do that."
 
@@ -147,6 +175,44 @@ Bennett Stirtz: "We get the best treatment in the world, so like I can't complai
 [https://www.youtube.com/watch?v=8JJdgoq0UJA&t=192s](https://www.youtube.com/watch?v=8JJdgoq0UJA&t=192s)
 
 <small>[Clip it](presserclips://clip?v=8JJdgoq0UJA&t=192&q=7) · [Send to Slack](presserclips://clip?v=8JJdgoq0UJA&t=192&q=7&slack=1)</small>
+
+---
+
+## Steve Kerr shares how defense, rebounding helped Warriors win | NBC Sports Bay Area — *Golden State Warriors*
+
+Source: [https://www.youtube.com/watch?v=D5rYy_T45Wc](https://www.youtube.com/watch?v=D5rYy_T45Wc)
+
+_Speakers identified: Steve Kerr_
+
+**1. Steve Kerr — "It was just tightening everything up that we let slip on the road trip." — Steve Kerr on the keys to the Warriors' defensive turnaround** [00:48](https://www.youtube.com/watch?v=D5rYy_T45Wc&t=48s)
+
+Steve Kerr: "It was just tightening everything up that we let slip on the road trip, starting with transition defense and forcing perimeter shots, keeping them off the foul line, taking away the easy stuff. We felt like we did that. Jason hit some really tough shots in that first half, but we felt pretty good about the fact that they weren't getting much in the paint, at the rim, easy buckets in transition. This was going to be the way we were going to snap this streak. It was the only way to do it is defense and rebound and we did a great job of that."
+
+[https://www.youtube.com/watch?v=D5rYy_T45Wc&t=48s](https://www.youtube.com/watch?v=D5rYy_T45Wc&t=48s)
+
+**2. Steve Kerr — "When you lose five in a row the guys tend to pay a little closer attention." — Steve Kerr on the team's reaction to the recent losing streak** [01:43](https://www.youtube.com/watch?v=D5rYy_T45Wc&t=103s)
+
+Steve Kerr: "It was no different than any other film session. When you lose five in a row the guys tend to pay a little closer attention. We just reminded them we're missing all these guys, obviously offensively, not only Steph and Jimmy, but Moses and **Brandin Podziemski**. So to expect to have that much firepower out of the lineup and to expect to outscore people right now is foolhardy. We had to do this at the defensive end and the guys really took that to heart and did a great job."
+
+[https://www.youtube.com/watch?v=D5rYy_T45Wc&t=103s](https://www.youtube.com/watch?v=D5rYy_T45Wc&t=103s)
+
+**3. Steve Kerr — "Draymond remains one of the great defenders in the league." — Steve Kerr on Draymond Green's role and defensive impact** [02:24](https://www.youtube.com/watch?v=D5rYy_T45Wc&t=144s)
+
+Steve Kerr: "Draymond told me on the trip we talked and he said, I'll do whatever you need. If you want me to come off the bench, I'll come off the bench. We're constantly collaborating together. I told him I had no desire to bring him off the bench because we got to dig this thing out with defense and he remains one of the great defenders in the league. He showed that tonight. But part of that conversation was that we were going to be playing him with Bjelica. We needed more size on the front line. Bjelica is a great roll threat for yaks and that was going to put Draymond in the corner. So that meant just got to let it fly and he did."
+
+[https://www.youtube.com/watch?v=D5rYy_T45Wc&t=144s](https://www.youtube.com/watch?v=D5rYy_T45Wc&t=144s)
+
+**4. Steve Kerr — "We're going to have to win games with our defense." — Steve Kerr on the necessity of defensive consistency** [04:43](https://www.youtube.com/watch?v=D5rYy_T45Wc&t=283s)
+
+Steve Kerr: "We need competitive defense and rebounding. That's it. This can't turn into an offensive conversation about those guys having to replace Steph. Nobody replaces Steph. Nobody replaces **Jimmy Butler**. So we're going to have to win games with our defense. All I care about is are they competing defensively? Is the spirit right? Is the energy up? All of that was really solid tonight and the guys collectively dug their way out of a five-game losing streak. In my experience, a long time in the NBA, this is the only way to dig your way out. You don't suddenly score 130 points after a streak like this. It's all about the defense."
+
+[https://www.youtube.com/watch?v=D5rYy_T45Wc&t=283s](https://www.youtube.com/watch?v=D5rYy_T45Wc&t=283s)
+
+**5. Steve Kerr — "That was about us losing five in a row and the trust we have in each other." — Steve Kerr on the emotional embrace with Draymond Green** [05:43](https://www.youtube.com/watch?v=D5rYy_T45Wc&t=343s)
+
+Steve Kerr: "That was about us losing five in a row and him offering to come off the bench and what we've been through for 12 years, the trust we have in each other. I just told him he's a champion and that's who he is. That was an incredible stop at the end on **Jason Tatum** and at his core, Draymond is just an unbelievable competitor and winner and I thought he showed that tonight."
+
+[https://www.youtube.com/watch?v=D5rYy_T45Wc&t=343s](https://www.youtube.com/watch?v=D5rYy_T45Wc&t=343s)
 
 ---
 
@@ -646,6 +712,74 @@ Cooper Flagg: "The last couple games have been amazing. He's done it all year wi
 
 ---
 
+## Charles Bassey seizing every opportunity after Warriors' win | NBC Sports Bay Area — *Golden State Warriors*
+
+Source: [https://www.youtube.com/watch?v=_i45dX5cmdk](https://www.youtube.com/watch?v=_i45dX5cmdk)
+
+_Speakers identified: Charles Bassey_
+
+**1. Charles Bassey — "We knew we had to get better on defense coming to this game." — Charles Bassey on the team's defensive struggles and recent losing streak** [00:11](https://www.youtube.com/watch?v=_i45dX5cmdk&t=11s)
+
+Charles Bassey: "Transition defense, that was mostly what the film was all about. We knew we had to get better on defense coming to this game. We had to just lock in on that part these past two days before we played today, so definitely defense."
+
+[https://www.youtube.com/watch?v=_i45dX5cmdk&t=11s](https://www.youtube.com/watch?v=_i45dX5cmdk&t=11s)
+
+**2. Charles Bassey — "Just communicate, help the next guy, help your helper." — Charles Bassey emphasizes communication as the key to defensive success** [00:37](https://www.youtube.com/watch?v=_i45dX5cmdk&t=37s)
+
+Charles Bassey: "Just communication. We were scrambling a lot out there. Just communicate, help the next guy, help your helper. We were scrambling, just coming out effort plays and defense for real."
+
+[https://www.youtube.com/watch?v=_i45dX5cmdk&t=37s](https://www.youtube.com/watch?v=_i45dX5cmdk&t=37s)
+
+**3. Charles Bassey — "I'm just doing what I do out there, just helping the team defensively, offensively." — Charles Bassey on his role and mindset as a starter** [01:05](https://www.youtube.com/watch?v=_i45dX5cmdk&t=65s)
+
+Charles Bassey: "I'm just doing what I do out there, just helping the team defensively, offensively. I'm just using my opportunity. I don't know how long I'm going to be starting for, but obviously every game I start, I just want to show what kind of player I am, what kind of caliber player I am for the team. As long as I keep starting, I'm going to be showing up for the team."
+
+[https://www.youtube.com/watch?v=_i45dX5cmdk&t=65s](https://www.youtube.com/watch?v=_i45dX5cmdk&t=65s)
+
+**4. Charles Bassey — "It shows a lot of heart, man. Our effort plays this game was great." — Charles Bassey on the team's collective effort and heart in a win without Steph Curry** [01:55](https://www.youtube.com/watch?v=_i45dX5cmdk&t=115s)
+
+Charles Bassey: "It shows a lot of heart, man. Our effort plays this game was great. I wasn't the only one rebounding. Kevon Looney was out there going after offensive rebounds, and the guys out there, it shows a lot of heart. Coming into this game, we just felt like we didn't want to repeat what happened these past five games. Steve Kerr was talking about when we were watching film these past two days was our body language. Coming into this game, we felt like we had to be great, even though we were down like 11 at one point. Our body language was great even when we were down. We were staying in the game."
+
+[https://www.youtube.com/watch?v=_i45dX5cmdk&t=115s](https://www.youtube.com/watch?v=_i45dX5cmdk&t=115s)
+
+**5. Charles Bassey — "Draymond has been playing the five his whole life, but he always wants to play with a big." — Charles Bassey on Draymond Green's versatility and role in the offense** [03:15](https://www.youtube.com/watch?v=_i45dX5cmdk&t=195s)
+
+Charles Bassey: "**Draymond** has been playing the five his whole life, but he always wants to play with a big. We've been practicing that in practice these past two days, playing the four even a couple of those practices. You guys could see he was knocking down shots today. Steve Kerr wants to involve him more with the offense and playing from the corner. That's working. He definitely wants to play with a big out there."
+
+[https://www.youtube.com/watch?v=_i45dX5cmdk&t=195s](https://www.youtube.com/watch?v=_i45dX5cmdk&t=195s)
+
+**6. Charles Bassey — "He's one of the best defenders in the league. He's been one of the best for a long period." — Charles Bassey praises Draymond Green's defensive impact against Jayson Tatum** [03:53](https://www.youtube.com/watch?v=_i45dX5cmdk&t=233s)
+
+Charles Bassey: "He's one of the best defenders in the league. He's been one of the best for a long period of time. Taking that challenge, he's probably going to guard the best guys every night. He wants to take that challenge. Kudos to him, he did what he's supposed to do, and then we got the win. His defense has been really great for the team."
+
+[https://www.youtube.com/watch?v=_i45dX5cmdk&t=233s](https://www.youtube.com/watch?v=_i45dX5cmdk&t=233s)
+
+---
+
+## Brandin Podziemski praises Draymond’s offense in Warriors’ win | NBC Sports Bay Area — *Golden State Warriors*
+
+Source: [https://www.youtube.com/watch?v=_v2gq_dt3gk](https://www.youtube.com/watch?v=_v2gq_dt3gk)
+
+_Speakers identified: Brandin Podziemski, Kerith Burke_
+
+**1. Brandin Podziemski — "when you're on a losing streak and you try to find a way to win a game" — Brandin Podziemski on the Warriors' defensive mindset during a losing streak** [00:00](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=0s)
+
+**Unidentified reporter:** "I think coming out of practice, you guys had a good idea that this would be a grind-it-out game, a low-scoring one. Going into that game, how did that help you set your defensive intention?"
+
+**Brandin Podziemski:** "When you're on a losing streak and you try to find a way to win a game, through the history of the game, that's how you usually do it. That was our focus and just let everything else be everything else."
+
+[https://www.youtube.com/watch?v=_v2gq_dt3gk&t=0s](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=0s)
+
+**2. Brandin Podziemski — "people think he lacks offensive ability, but when he scores our team usually wins" — Brandin Podziemski on Draymond Green's aggressive offensive performance against the Celtics** [01:10](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s)
+
+**Kerith Burke:** "Can you give me some insight about **Draymond**? He had a season-high in scoring. Looked like he wanted to get that part of his game going early. Then he also had the task of being the main guy on **Tatum**. How did you see **Draymond** tackle this game?"
+
+**Brandin Podziemski:** "It's what makes him a Hall of Famer. People think he lacks offensive ability, but when he scores our team usually wins. We're all encouraging him to be aggressive, take shots when he's open, take shots at the rim when he's open. Don't be so unselfish. He did that. I'm pretty sure it shocked the Celtics even a little bit to start the game, but that gave us a good energy, a good boost to start the game."
+
+[https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s)
+
+---
+
 ## Coach Daigneault on Team's Shorthanded Play | Postgame Media | November 22, 2026 — *Oklahoma City Thunder*
 
 Source: [https://www.youtube.com/watch?v=dVrGo4zdNI0](https://www.youtube.com/watch?v=dVrGo4zdNI0)
@@ -742,6 +876,46 @@ Tristan da Silva: "Making simple plays, getting off the ball when when you see t
 
 ---
 
+## Gui Santos gets ‘swagger back’ in Warriors’ win vs. Celtics | NBC Sports Bay Area — *Golden State Warriors*
+
+Source: [https://www.youtube.com/watch?v=f7rJbgiZjDo](https://www.youtube.com/watch?v=f7rJbgiZjDo)
+
+_Speakers identified: Gui Santos, Kerith Burke_
+
+**1. Gui Santos — "If it's a night that we can't score, but we cannot let them score too" — Gui Santos on the Warriors' defensive focus against the Celtics** [00:00](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s)
+
+**Unidentified reporter:** "Gui, **Steve Kerr** said you guys needed to dig out of a hole with defense, so grind it out tough the win. How did you do it?"
+
+**Gui Santos:** "Steve was talking to us a lot about how we've been playing defense the last couple games. We had a great meeting yesterday, we all talking and we are in the same page. That's what we need to do. If it's a night that we can't score, but we cannot let them score too. If we have to win a game like this 88 to 87, we got to do it. We got to find a way, and today was a day that we did it."
+
+[https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s)
+
+**2. Gui Santos — "we were not even worried about how the score is, we just playing super hard" — Gui Santos on the Warriors' fourth-quarter intensity** [00:40](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=40s)
+
+**Unidentified reporter:** "The Celtics had a huge third quarter. You guys responded with a huge fourth quarter. How do you stay locked in those moments where every possession matters?"
+
+**Gui Santos:** "We know the games like that, we have up and downs, but we just got to keep playing. We got to keep playing hard. In moments in the fourth quarter that we were playing super hard, we were not even worried about how the score is, we just playing super hard and the score comes automatically with that."
+
+[https://www.youtube.com/watch?v=f7rJbgiZjDo&t=40s](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=40s)
+
+**3. Gui Santos — "I'm getting my swagger back" — Gui Santos on his confidence and physical health** [01:12](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=72s)
+
+**Unidentified reporter:** "You had two really big threes in the fourth quarter. How are you feeling right now? How's your confidence? How are you moving out there?"
+
+**Gui Santos:** "I'm feeling that I'm getting my swagger back. Still working a lot, getting my body 100% healthy, and I just want to be that guy for the team every night. If I have to hit threes, okay, I do it, but I got to be the guy that's going to be impacting the game without even touching the ball."
+
+[https://www.youtube.com/watch?v=f7rJbgiZjDo&t=72s](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=72s)
+
+**4. Gui Santos — "just let him guard the best player of the other team and we going to be good" — Gui Santos on Draymond Green's defensive impact** [01:46](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=106s)
+
+**Kerith Burke:** "Finally, can you tell me how you saw Draymond approach this game?"
+
+**Gui Santos:** "You can see the last possession, right? He does what he does. We know that we are 100% covered with him. Just let him guard the best player of the other team and we going to be good. We know that he going to do a great job."
+
+[https://www.youtube.com/watch?v=f7rJbgiZjDo&t=106s](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=106s)
+
+---
+
 ## Dusty May Postgame Press Conference | Mavericks at Jazz | Nov. 22, 2026 — *Dallas Mavericks*
 
 Source: [https://www.youtube.com/watch?v=ls5WZeC-FwQ](https://www.youtube.com/watch?v=ls5WZeC-FwQ)
@@ -765,6 +939,50 @@ Dusty May: "Our activity continues to improve, especially on the defensive end. 
 Dusty May: "I thought his passing, he ends up with eight assists, I thought he probably deserved 10 or 12. He set some guys up for key layups and we weren't able to convert, but I thought he played an incredible floor game. His leadership was apparent and obviously when he's making those threes off the bounce, it gives everyone else a lot more space and he demands a lot of attention by the opposition."
 
 [https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=237s](https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=237s)
+
+---
+
+## Brandin Podziemski hopes Warriors’ win sparks turnaround | NBC Sports Bay Area — *Golden State Warriors*
+
+Source: [https://www.youtube.com/watch?v=m8C7U7rULsc](https://www.youtube.com/watch?v=m8C7U7rULsc)
+
+_Speakers identified: Brandin Podziemski_
+
+**1. Brandin Podziemski — "Dray did a good job on him, made him play a lot of iso basketball" — Brandin Podziemski on the team's defensive effort against Jayson Tatum** [00:20](https://www.youtube.com/watch?v=m8C7U7rULsc&t=20s)
+
+Brandin Podziemski: "Dray did a good job on him, made him play a lot of iso basketball, and we all just chipped in where we could to get out the losing streak. It is probably going to be a hard game and we found ourselves with it and held them to 12 in the fourth quarter, so grind it out and I will try to keep it going."
+
+[https://www.youtube.com/watch?v=m8C7U7rULsc&t=20s](https://www.youtube.com/watch?v=m8C7U7rULsc&t=20s)
+
+**2. Brandin Podziemski — "Just accountability, some eye-opening clips where we all can be better" — Brandin Podziemski on the team's film session regarding defensive accountability** [01:04](https://www.youtube.com/watch?v=m8C7U7rULsc&t=64s)
+
+Brandin Podziemski: "Just accountability, some eye-opening clips where we all can be better. I think it helped us. Everybody didn't take it personal but just took initiative on their behalf of what they need to do better and brought it tonight."
+
+[https://www.youtube.com/watch?v=m8C7U7rULsc&t=64s](https://www.youtube.com/watch?v=m8C7U7rULsc&t=64s)
+
+**3. Brandin Podziemski — "Charles has been phenomenal when he's had that opportunity" — Brandin Podziemski on the Draymond Green and Trayce Jackson-Davis frontcourt pairing** [01:20](https://www.youtube.com/watch?v=m8C7U7rULsc&t=80s)
+
+Brandin Podziemski: "Obviously Charles out there provides a threat at the basket per se from a role perspective. It is a little bit different when Kevon Looney is out there with Draymond, there is not that presence at the rim. I think any combination can work if you are playing the right way, but Charles has been phenomenal when he's had that opportunity."
+
+[https://www.youtube.com/watch?v=m8C7U7rULsc&t=80s](https://www.youtube.com/watch?v=m8C7U7rULsc&t=80s)
+
+**4. Brandin Podziemski — "I settled a lot of times for threes, so for me tonight just trying to touch the paint as much as I could" — Brandin Podziemski on his evolving role as a scoring option and ball-handler** [01:53](https://www.youtube.com/watch?v=m8C7U7rULsc&t=113s)
+
+Brandin Podziemski: "I think for me during the road trip I settled a lot of times for threes, so for me tonight just trying to touch the paint as much as I could. I know I still shot 10 threes, but a majority of them were pretty wide-open looks from teammates. So when I had the ball just trying to touch the paint as much as I could and get them in a rotation and play that way."
+
+[https://www.youtube.com/watch?v=m8C7U7rULsc&t=113s](https://www.youtube.com/watch?v=m8C7U7rULsc&t=113s)
+
+**5. Brandin Podziemski — "It's moving really fast for both of us in terms of our development together out there" — Brandin Podziemski on his developing chemistry with Trayce Jackson-Davis** [02:28](https://www.youtube.com/watch?v=m8C7U7rULsc&t=148s)
+
+Brandin Podziemski: "Well, it's to be an expedited for sure with **Stephen Curry** out. I think it's moving really fast for both of us in terms of our development together out there. But I mean, we're both mature, we're both figuring it out. There's going to be some bad games, some good games, but you know over the course of time, especially with these opportunities we're given, I think it's going to work out for us."
+
+[https://www.youtube.com/watch?v=m8C7U7rULsc&t=148s](https://www.youtube.com/watch?v=m8C7U7rULsc&t=148s)
+
+**6. Brandin Podziemski — "Just feel like there's a lot of deflating moments" — Brandin Podziemski on the team's energy levels during the recent road trip** [03:14](https://www.youtube.com/watch?v=m8C7U7rULsc&t=194s)
+
+Brandin Podziemski: "Just feel like there's a lot of deflating moments. One, we shot very poorly, and so when you see a lot of misses keep going, it's just human nature to be like, dang. And it's hard to get back on defense. But then there was also a lot of things that we could control and it was just effort plays on that road trip. But you know, in the half-court we were really really good during the trip. So kind of just found that extra piece that helped that we made some shots tonight, but we got to carry that over Wednesday."
+
+[https://www.youtube.com/watch?v=m8C7U7rULsc&t=194s](https://www.youtube.com/watch?v=m8C7U7rULsc&t=194s)
 
 ---
 

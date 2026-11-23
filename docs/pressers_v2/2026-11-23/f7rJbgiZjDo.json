@@ -1,0 +1,200 @@
+{
+  "video_title": "Gui Santos gets ‘swagger back’ in Warriors’ win vs. Celtics | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Gui Santos",
+    "Kerith Burke"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Gui Santos",
+      "speakers": [
+        "Unidentified reporter",
+        "Gui Santos"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Gui Santos on the Warriors' defensive focus against the Celtics",
+      "names_mentioned": [
+        "Steve Kerr"
+      ],
+      "excerpt": "If it's a night that we can't score, but we cannot let them score too",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Gui, Steve Kerr said you guys needed to dig out of a hole with defense, so grind it out tough the win. How did you do it?"
+        },
+        {
+          "speaker": "Gui Santos",
+          "text": "Steve was talking to us a lot about how we've been playing defense the last couple games. We had a great meeting yesterday, we all talking and we are in the same page. That's what we need to do. If it's a night that we can't score, but we cannot let them score too. If we have to win a game like this 88 to 87, we got to do it. We got to find a way, and today was a day that we did it."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Gui Santos says the Warriors defensive focus was the key to beating the Celtics. He noted that even on nights where the shots are not falling they have to find a way to win by locking in on the other end of the floor.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Gui Santos discusses the team defensive focus against the Celtics following a meeting with head coach Steve Kerr.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Gui Santos",
+      "speakers": [
+        "Unidentified reporter",
+        "Gui Santos"
+      ],
+      "timestamp": "00:40",
+      "summary_phrase": "Gui Santos on the Warriors' fourth-quarter intensity",
+      "names_mentioned": [],
+      "excerpt": "we were not even worried about how the score is, we just playing super hard",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "The Celtics had a huge third quarter. You guys responded with a huge fourth quarter. How do you stay locked in those moments where every possession matters?"
+        },
+        {
+          "speaker": "Gui Santos",
+          "text": "We know the games like that, we have up and downs, but we just got to keep playing. We got to keep playing hard. In moments in the fourth quarter that we were playing super hard, we were not even worried about how the score is, we just playing super hard and the score comes automatically with that."
+        }
+      ],
+      "start_seconds": 40,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Gui Santos on the Warriors fourth quarter intensity against Boston. He says the team stopped worrying about the scoreboard and just focused on playing hard to let the result come naturally.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Gui Santos explains how the team maintained intensity during the fourth quarter against the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Gui Santos",
+      "speakers": [
+        "Unidentified reporter",
+        "Gui Santos"
+      ],
+      "timestamp": "01:12",
+      "summary_phrase": "Gui Santos on his confidence and physical health",
+      "names_mentioned": [],
+      "excerpt": "I'm getting my swagger back",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You had two really big threes in the fourth quarter. How are you feeling right now? How's your confidence? How are you moving out there?"
+        },
+        {
+          "speaker": "Gui Santos",
+          "text": "I'm feeling that I'm getting my swagger back. Still working a lot, getting my body 100% healthy, and I just want to be that guy for the team every night. If I have to hit threes, okay, I do it, but I got to be the guy that's going to be impacting the game without even touching the ball."
+        }
+      ],
+      "start_seconds": 72,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Gui Santos says he is finally getting his swagger back. He wants to be a player who impacts the game even without touching the ball.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Gui Santos describes his current physical health and confidence level after hitting two key three-pointers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Gui Santos",
+      "speakers": [
+        "Kerith Burke",
+        "Gui Santos"
+      ],
+      "timestamp": "01:46",
+      "summary_phrase": "Gui Santos on Draymond Green's defensive impact",
+      "names_mentioned": [
+        "Draymond Green"
+      ],
+      "excerpt": "just let him guard the best player of the other team and we going to be good",
+      "text_blocks": [
+        {
+          "speaker": "Kerith Burke",
+          "text": "Finally, can you tell me how you saw Draymond approach this game?"
+        },
+        {
+          "speaker": "Gui Santos",
+          "text": "You can see the last possession, right? He does what he does. We know that we are 100% covered with him. Just let him guard the best player of the other team and we going to be good. We know that he going to do a great job."
+        }
+      ],
+      "start_seconds": 106,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Gui Santos on the defensive impact of Draymond Green. He says the team feels 100 percent covered whenever Draymond is on the floor because he is always going to do a great job guarding the best player.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Gui Santos praises the defensive impact of teammate Draymond Green during the final possession of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "f7rJbgiZjDo",
+  "url": "https://www.youtube.com/watch?v=f7rJbgiZjDo",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-23T05:10:55Z",
+  "duration_seconds": 130,
+  "processed_at": "2026-11-23T05:59:52Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

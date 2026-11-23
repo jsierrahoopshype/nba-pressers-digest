@@ -1,0 +1,194 @@
+{
+  "video_title": "Steve Kerr shares how defense, rebounding helped Warriors win | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Steve Kerr"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Steve Kerr",
+      "timestamp": "00:48",
+      "summary_phrase": "Steve Kerr on the keys to the Warriors' defensive turnaround",
+      "names_mentioned": [],
+      "excerpt": "It was just tightening everything up that we let slip on the road trip.",
+      "quote": "It was just tightening everything up that we let slip on the road trip, starting with transition defense and forcing perimeter shots, keeping them off the foul line, taking away the easy stuff. We felt like we did that. Jason hit some really tough shots in that first half, but we felt pretty good about the fact that they weren't getting much in the paint, at the rim, easy buckets in transition. This was going to be the way we were going to snap this streak. It was the only way to do it is defense and rebound and we did a great job of that.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Steve Kerr says the Warriors snapped their losing streak by focusing on the basics: tightening up transition defense, forcing perimeter shots, and keeping opponents off the foul line.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr explains the defensive adjustments made to end the team's losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Steve Kerr",
+      "timestamp": "01:43",
+      "summary_phrase": "Steve Kerr on the team's reaction to the recent losing streak",
+      "names_mentioned": [
+        "Stephen Curry",
+        "Draymond Green",
+        "Moses Moody",
+        "Brandin Podziemski"
+      ],
+      "excerpt": "When you lose five in a row the guys tend to pay a little closer attention.",
+      "quote": "It was no different than any other film session. When you lose five in a row the guys tend to pay a little closer attention. We just reminded them we're missing all these guys, obviously offensively, not only Steph and Jimmy, but Moses and Brandin Podziemski. So to expect to have that much firepower out of the lineup and to expect to outscore people right now is foolhardy. We had to do this at the defensive end and the guys really took that to heart and did a great job.",
+      "text_blocks": [],
+      "start_seconds": 103,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Steve Kerr on the Warriors losing streak: To expect to have that much firepower out of the lineup and to expect to outscore people right now is foolhardy. We had to do this at the defensive end.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry",
+          "Jimmy Butler",
+          "Moses Moody",
+          "Brandin Podziemski"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr discusses the team's focus during film sessions while missing several key players due to injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Steve Kerr",
+      "timestamp": "02:24",
+      "summary_phrase": "Steve Kerr on Draymond Green's role and defensive impact",
+      "names_mentioned": [
+        "Draymond Green",
+        "Nemanja Bjelica"
+      ],
+      "excerpt": "Draymond remains one of the great defenders in the league.",
+      "quote": "Draymond told me on the trip we talked and he said, I'll do whatever you need. If you want me to come off the bench, I'll come off the bench. We're constantly collaborating together. I told him I had no desire to bring him off the bench because we got to dig this thing out with defense and he remains one of the great defenders in the league. He showed that tonight. But part of that conversation was that we were going to be playing him with Bjelica. We needed more size on the front line. Bjelica is a great roll threat for yaks and that was going to put Draymond in the corner. So that meant just got to let it fly and he did.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 192,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Steve Kerr reveals Draymond Green offered to come off the bench during the Warriors losing streak. Kerr told him he had no desire to do that because he remains one of the great defenders in the league.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Draymond Green",
+          "Nemanja Bjelica"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Steve Kerr discusses his conversation with Draymond Green regarding his role and lineup changes to improve team size.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Steve Kerr",
+      "timestamp": "04:43",
+      "summary_phrase": "Steve Kerr on the necessity of defensive consistency",
+      "names_mentioned": [
+        "Stephen Curry",
+        "Jimmy Butler"
+      ],
+      "excerpt": "We're going to have to win games with our defense.",
+      "quote": "We need competitive defense and rebounding. That's it. This can't turn into an offensive conversation about those guys having to replace Steph. Nobody replaces Steph. Nobody replaces Jimmy Butler. So we're going to have to win games with our defense. All I care about is are they competing defensively? Is the spirit right? Is the energy up? All of that was really solid tonight and the guys collectively dug their way out of a five-game losing streak. In my experience, a long time in the NBA, this is the only way to dig your way out. You don't suddenly score 130 points after a streak like this. It's all about the defense.",
+      "text_blocks": [],
+      "start_seconds": 283,
+      "end_seconds": 326,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Steve Kerr on the Warriors offensive struggles: Nobody replaces Steph. Nobody replaces Jimmy Butler. So we are going to have to win games with our defense.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry",
+          "Jimmy Butler"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr emphasizes that the team must rely on defense rather than offense while key players are sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Steve Kerr",
+      "timestamp": "05:43",
+      "summary_phrase": "Steve Kerr on the emotional embrace with Draymond Green",
+      "names_mentioned": [
+        "Draymond Green",
+        "Jason Tatum"
+      ],
+      "excerpt": "That was about us losing five in a row and the trust we have in each other.",
+      "quote": "That was about us losing five in a row and him offering to come off the bench and what we've been through for 12 years, the trust we have in each other. I just told him he's a champion and that's who he is. That was an incredible stop at the end on Jason Tatum and at his core, Draymond is just an unbelievable competitor and winner and I thought he showed that tonight.",
+      "text_blocks": [],
+      "start_seconds": 343,
+      "end_seconds": 371,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 7,
+      "social_post": "Steve Kerr on his emotional moment with Draymond Green: I just told him he is a champion and that is who he is. At his core, Draymond is just an unbelievable competitor and winner.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Draymond Green",
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Steve Kerr reflects on his relationship with Draymond Green and his defensive performance against Jayson Tatum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "D5rYy_T45Wc",
+  "url": "https://www.youtube.com/watch?v=D5rYy_T45Wc",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-23T05:13:53Z",
+  "duration_seconds": 459,
+  "processed_at": "2026-11-23T05:59:42Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

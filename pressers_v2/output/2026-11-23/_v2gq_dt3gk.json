@@ -1,0 +1,113 @@
+{
+  "video_title": "Brandin Podziemski praises Draymond’s offense in Warriors’ win | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Brandin Podziemski",
+    "Kerith Burke"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brandin Podziemski",
+      "speakers": [
+        "Unidentified reporter",
+        "Brandin Podziemski"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Brandin Podziemski on the Warriors' defensive mindset during a losing streak",
+      "names_mentioned": [],
+      "excerpt": "when you're on a losing streak and you try to find a way to win a game",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "I think coming out of practice, you guys had a good idea that this would be a grind-it-out game, a low-scoring one. Going into that game, how did that help you set your defensive intention?"
+        },
+        {
+          "speaker": "Brandin Podziemski",
+          "text": "When you're on a losing streak and you try to find a way to win a game, through the history of the game, that's how you usually do it. That was our focus and just let everything else be everything else."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brandin Podziemski on the Warriors defensive mindset during their recent losing streak: When you are trying to find a way to win a game, that is how you usually do it. That was our focus and just let everything else be everything else.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandin Podziemski discusses the team's defensive mindset during a losing streak following a reporter's question.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brandin Podziemski",
+      "speakers": [
+        "Kerith Burke",
+        "Brandin Podziemski"
+      ],
+      "timestamp": "01:10",
+      "summary_phrase": "Brandin Podziemski on Draymond Green's aggressive offensive performance against the Celtics",
+      "names_mentioned": [
+        "Draymond",
+        "Tatum"
+      ],
+      "excerpt": "people think he lacks offensive ability, but when he scores our team usually wins",
+      "text_blocks": [
+        {
+          "speaker": "Kerith Burke",
+          "text": "Can you give me some insight about Draymond? He had a season-high in scoring. Looked like he wanted to get that part of his game going early. Then he also had the task of being the main guy on Tatum. How did you see Draymond tackle this game?"
+        },
+        {
+          "speaker": "Brandin Podziemski",
+          "text": "It's what makes him a Hall of Famer. People think he lacks offensive ability, but when he scores our team usually wins. We're all encouraging him to be aggressive, take shots when he's open, take shots at the rim when he's open. Don't be so unselfish. He did that. I'm pretty sure it shocked the Celtics even a little bit to start the game, but that gave us a good energy, a good boost to start the game."
+        }
+      ],
+      "start_seconds": 70,
+      "end_seconds": 106,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Brandin Podziemski on Draymond Green: People think he lacks offensive ability, but when he scores our team usually wins. We are all encouraging him to be aggressive, take shots when he is open, take shots at the rim when he is open.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green",
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandin Podziemski explains how Draymond Green's aggressive offensive play and defensive effort against Jayson Tatum helped the Warriors win.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "_v2gq_dt3gk",
+  "url": "https://www.youtube.com/watch?v=_v2gq_dt3gk",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-23T05:12:29Z",
+  "duration_seconds": 106,
+  "processed_at": "2026-11-23T05:59:48Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

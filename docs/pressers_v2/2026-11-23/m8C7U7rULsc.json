@@ -1,0 +1,221 @@
+{
+  "video_title": "Brandin Podziemski hopes Warriors’ win sparks turnaround | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Brandin Podziemski"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "00:20",
+      "summary_phrase": "Brandin Podziemski on the team's defensive effort against Jayson Tatum",
+      "names_mentioned": [
+        "Draymond Green",
+        "Jayson Tatum"
+      ],
+      "excerpt": "Dray did a good job on him, made him play a lot of iso basketball",
+      "quote": "Dray did a good job on him, made him play a lot of iso basketball, and we all just chipped in where we could to get out the losing streak. It is probably going to be a hard game and we found ourselves with it and held them to 12 in the fourth quarter, so grind it out and I will try to keep it going.",
+      "text_blocks": [],
+      "start_seconds": 20,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Brandin Podziemski credits Draymond Green for forcing Jayson Tatum into isolation basketball and helping the Warriors snap their losing streak with a strong fourth quarter defensive effort.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green",
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Brandin Podziemski discusses the team defensive strategy against Jayson Tatum and Draymond Green's contribution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "01:04",
+      "summary_phrase": "Brandin Podziemski on the team's film session regarding defensive accountability",
+      "names_mentioned": [
+        "Steve Kerr"
+      ],
+      "excerpt": "Just accountability, some eye-opening clips where we all can be better",
+      "quote": "Just accountability, some eye-opening clips where we all can be better. I think it helped us. Everybody didn't take it personal but just took initiative on their behalf of what they need to do better and brought it tonight.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brandin Podziemski says the Warriors used a recent film session to focus on accountability, noting that players took the initiative to improve their individual defensive responsibilities.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandin Podziemski reflects on a recent team film session focused on defensive accountability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "01:20",
+      "summary_phrase": "Brandin Podziemski on the Draymond Green and Trayce Jackson-Davis frontcourt pairing",
+      "names_mentioned": [
+        "Draymond Green",
+        "Trayce Jackson-Davis",
+        "Steve Kerr"
+      ],
+      "excerpt": "Charles has been phenomenal when he's had that opportunity",
+      "quote": "Obviously Charles out there provides a threat at the basket per se from a role perspective. It is a little bit different when Kevon Looney is out there with Draymond, there is not that presence at the rim. I think any combination can work if you are playing the right way, but Charles has been phenomenal when he's had that opportunity.",
+      "text_blocks": [],
+      "start_seconds": 80,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Brandin Podziemski highlights the rim protection Trayce Jackson Davis provides compared to Kevon Looney, stating that any frontcourt combination can work for the Warriors if they play the right way.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trayce Jackson-Davis",
+          "Draymond Green",
+          "Kevon Looney"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Brandin Podziemski compares the frontcourt impact of Trayce Jackson-Davis versus Kevon Looney when paired with Draymond Green.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "01:53",
+      "summary_phrase": "Brandin Podziemski on his evolving role as a scoring option and ball-handler",
+      "names_mentioned": [
+        "Draymond Green",
+        "Trayce Jackson-Davis"
+      ],
+      "excerpt": "I settled a lot of times for threes, so for me tonight just trying to touch the paint as much as I could",
+      "quote": "I think for me during the road trip I settled a lot of times for threes, so for me tonight just trying to touch the paint as much as I could. I know I still shot 10 threes, but a majority of them were pretty wide-open looks from teammates. So when I had the ball just trying to touch the paint as much as I could and get them in a rotation and play that way.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brandin Podziemski explains his shift in offensive approach, focusing on touching the paint rather than settling for threes to get the defense in rotation.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandin Podziemski explains his adjustment to prioritize paint touches over settling for three-point shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "02:28",
+      "summary_phrase": "Brandin Podziemski on his developing chemistry with Trayce Jackson-Davis",
+      "names_mentioned": [
+        "Trayce Jackson-Davis",
+        "Stephen Curry"
+      ],
+      "excerpt": "It's moving really fast for both of us in terms of our development together out there",
+      "quote": "Well, it's to be an expedited for sure with Stephen Curry out. I think it's moving really fast for both of us in terms of our development together out there. But I mean, we're both mature, we're both figuring it out. There's going to be some bad games, some good games, but you know over the course of time, especially with these opportunities we're given, I think it's going to work out for us.",
+      "text_blocks": [],
+      "start_seconds": 148,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "With Stephen Curry out, Brandin Podziemski says his chemistry with Trayce Jackson Davis is developing at an expedited rate, noting they are both mature enough to work through the ups and downs.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Trayce Jackson-Davis",
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandin Podziemski discusses his developing chemistry with Trayce Jackson-Davis while Stephen Curry is sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Brandin Podziemski",
+      "timestamp": "03:14",
+      "summary_phrase": "Brandin Podziemski on the team's energy levels during the recent road trip",
+      "names_mentioned": [],
+      "excerpt": "Just feel like there's a lot of deflating moments",
+      "quote": "Just feel like there's a lot of deflating moments. One, we shot very poorly, and so when you see a lot of misses keep going, it's just human nature to be like, dang. And it's hard to get back on defense. But then there was also a lot of things that we could control and it was just effort plays on that road trip. But you know, in the half-court we were really really good during the trip. So kind of just found that extra piece that helped that we made some shots tonight, but we got to carry that over Wednesday.",
+      "text_blocks": [],
+      "start_seconds": 194,
+      "end_seconds": 233,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brandin Podziemski reflects on the Warriors recent road trip, admitting that poor shooting led to deflating moments that made it difficult to maintain defensive effort.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandin Podziemski addresses the team's struggles with energy and effort during their recent road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "m8C7U7rULsc",
+  "url": "https://www.youtube.com/watch?v=m8C7U7rULsc",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-23T05:28:03Z",
+  "duration_seconds": 237,
+  "processed_at": "2026-11-23T05:59:41Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
