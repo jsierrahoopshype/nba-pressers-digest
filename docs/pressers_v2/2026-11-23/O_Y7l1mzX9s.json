@@ -1,0 +1,100 @@
+{
+  "video_title": "Will Richard hopes to help Warriors vs. Celtics despite injury | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Will Richard",
+    "Kerith Burke"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Will Richard",
+      "speakers": [
+        "Kerith Burke",
+        "Will Richard"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Will Richard on Warriors defensive focus after road trip",
+      "names_mentioned": [
+        "Steve Kerr"
+      ],
+      "excerpt": "I feel like we can make up for a lot of our mistakes if we're just all on the same page",
+      "text_blocks": [
+        {
+          "speaker": "Kerith Burke",
+          "text": "Will, after the road trip, Steve Kerr said he told you guys, play great defense, create some advantages. So after practice yesterday, what was the defensive focus?"
+        },
+        {
+          "speaker": "Will Richard",
+          "text": "For a big thing, part of it was just transition defense, having urgency getting back, getting everything sorted. And just communication. I feel like we can make up for a lot of our mistakes if we're just all on the same page. So that was the big focus yesterday."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Will Richard says the Warriors defensive focus after their road trip has been on transition defense and urgency. He believes they can make up for mistakes if they are all on the same page.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Will Richard discusses the defensive focus emphasized by head coach Steve Kerr following the team's recent road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Will Richard",
+      "timestamp": "00:39",
+      "summary_phrase": "Will Richard on managing rookie ups and downs",
+      "names_mentioned": [
+        "Steve Kerr",
+        "Yaxel"
+      ],
+      "excerpt": "Only thing you can control is your energy and that for sure, so just keep doing that.",
+      "quote": "I told him I went through the same thing last year. We had a lot of guys out, we had a little street where we were losing games, but I said it's a part of it. I mean, it's a long season and things can turn quick. So just keep the energy right. Only thing you can control is your energy and that for sure, so just keep doing that.",
+      "start_seconds": 39,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Will Richard on helping teammates navigate the ups and downs of a long season: The only thing you can control is your energy. Just keep doing that.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Will Richard reflects on his experience as a rookie and how he advises teammates on maintaining energy during the long NBA season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "O_Y7l1mzX9s",
+  "url": "https://www.youtube.com/watch?v=O_Y7l1mzX9s",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-23T01:02:52Z",
+  "duration_seconds": 72,
+  "processed_at": "2026-11-23T01:43:15Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
