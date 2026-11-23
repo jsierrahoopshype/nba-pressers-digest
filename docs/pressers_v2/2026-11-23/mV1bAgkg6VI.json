@@ -1,0 +1,201 @@
+{
+  "video_title": "Zaccharie Risacher Postgame Interview | Mavericks at Jazz | Nov. 22, 2026",
+  "speakers_seen": [
+    "Zaccharie Risacher"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "00:11",
+      "summary_phrase": "Zaccharie Risacher on the need for consistent 48-minute team effort",
+      "names_mentioned": [],
+      "excerpt": "We got to be more consistent. We got to play for 48 minutes.",
+      "quote": "We got to be more consistent. We got to play for 48 minutes. Even though we played great almost the whole game, that ain't enough and we got to make sure we keep our intensity high and make sure we keep doing those winning plays till the end.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Zaccharie Risacher says the Mavericks need to be more consistent and play for all 48 minutes to secure wins.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Zaccharie Risacher discusses the team's need for consistent effort throughout the entire game following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "00:48",
+      "summary_phrase": "Zaccharie Risacher on team connectivity and ball movement",
+      "names_mentioned": [],
+      "excerpt": "The ball was moving, we was playing fast, we was scoring.",
+      "quote": "We played great. We were playing good ball, the ball was moving, we was playing fast, we was scoring. I feel like we just got to do that for 48 minutes. There is a lot of good things that we did today that we need to rewatch and work on, but I feel like overall it was pretty solid and we got to keep doing it for 48 minutes.",
+      "verbatim_original_language": "",
+      "start_seconds": 48,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Zaccharie Risacher on the team performance against the Jazz: We played great ball and the movement was there, but we have to maintain that for 48 minutes.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Zaccharie Risacher reflects on the team's ball movement and overall performance during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "01:29",
+      "summary_phrase": "Zaccharie Risacher on maintaining success with bench rotations",
+      "names_mentioned": [
+        "Kyrie Irving",
+        "Cooper Flagg"
+      ],
+      "excerpt": "It was good for us to be able to compete even though Kyrie and Cooper were on the bench.",
+      "quote": "The ball was moving and we were playing with good pace. We are all about making stops, getting easy buckets, and playing the right way. It was good for us to be able to compete even though Kyrie and Cooper were on the bench together. I feel like we have a lot of good players and we can do a lot of good things together, and once we find a way to impact the game as a team, we are much more efficient.",
+      "verbatim_original_language": "",
+      "start_seconds": 89,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Zaccharie Risacher says the team is finding ways to be efficient even when Kyrie Irving and Cooper Flagg are on the bench together.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kyrie Irving",
+          "Cooper Flagg"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zaccharie Risacher comments on the team's ability to compete while Kyrie Irving and Cooper Flagg were resting on the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "02:43",
+      "summary_phrase": "Zaccharie Risacher on defensive lapses against high-scoring opponents",
+      "names_mentioned": [],
+      "excerpt": "I think we let him be too comfortable.",
+      "quote": "Maybe it is a little bit of focus, like concentration, but also be more physical. I think we let him be too comfortable. If we were to be a little bit more physical, getting through screens, make sure he wasn't getting open looks earlier in the game, I think that would have helped us throughout the whole game.",
+      "verbatim_original_language": "",
+      "start_seconds": 163,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Zaccharie Risacher admits the defense needs to be more physical and focused to prevent opponents from getting comfortable looks.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Zaccharie Risacher explains the defensive lapses and lack of physicality that allowed an opponent to get comfortable.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "03:42",
+      "summary_phrase": "Zaccharie Risacher on the importance of guard rebounding",
+      "names_mentioned": [],
+      "excerpt": "I know that's something the team needs from me.",
+      "quote": "It is really important. I know that's something the team needs me to do and I know I got to do it at a high level every night. I take a lot of pride doing it because I know that's something the team needs from me. I am going to play hard on defense and make sure we are helping the team getting those rebounds because it is really important for us to be able to grab those rebounds and finish the possession so we can play fast.",
+      "verbatim_original_language": "",
+      "start_seconds": 222,
+      "end_seconds": 256,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Zaccharie Risacher says he takes a lot of pride in his rebounding duties because he knows it is essential for the team to play fast.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Zaccharie Risacher emphasizes the importance of his role in rebounding to help the team play at a fast pace.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Zaccharie Risacher",
+      "timestamp": "04:43",
+      "summary_phrase": "Zaccharie Risacher on team chemistry and competitive environment",
+      "names_mentioned": [],
+      "excerpt": "Everybody's got each other's back and everybody wants to win.",
+      "quote": "I am having a lot of fun playing and I feel like we are playing good ball, we are playing for each other, we are making the extra efforts as a team. It is just great to be able to play in this kind of environment where everybody's got each other's back and everybody wants to win and compete at their highest level. I am just having fun with my teammates and I think everybody can feel it, everybody is connected.",
+      "verbatim_original_language": "",
+      "start_seconds": 283,
+      "end_seconds": 314,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Zaccharie Risacher on the current team environment: I am having a lot of fun playing and I feel like we are playing for each other.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Zaccharie Risacher describes the positive team chemistry and competitive environment he is experiencing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "mV1bAgkg6VI",
+  "url": "https://www.youtube.com/watch?v=mV1bAgkg6VI",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-23T04:14:49Z",
+  "duration_seconds": 332,
+  "processed_at": "2026-11-23T05:08:24Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

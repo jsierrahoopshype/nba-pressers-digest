@@ -12,7 +12,33 @@ From: [Erik Spoelstra Post-Game Interview vs Thunder \| 11/22/26](https://www.yo
 
 <small>[Clip it](presserclips://clip?v=EDm4RjjbnyQ&t=126&q=3) · [Send to Slack](presserclips://clip?v=EDm4RjjbnyQ&t=126&q=3&slack=1)</small>
 
-**2. Jared McCain — "it shows that the coaches trust him, and for long-term I think it's going to be huge for us" — Jared McCain on Micic's opportunity in the starting lineup** [03:08](https://www.youtube.com/watch?v=KeQADE3DAtY&t=188s)
+**2. Cooper Flagg — "The last couple games have been amazing. He's done it all year with the steals." — Cooper Flagg on Zach Edey's defensive impact and versatility** [03:38](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=218s)
+
+Cooper Flagg: "The last couple games have been amazing. He's done it all year with the steals and the blocks, but just helping us be another glue guy. Since PJ got the illness, Zach stepping up, being ready, taking on a starting spot and fitting in pretty seamlessly."
+
+[https://www.youtube.com/watch?v=R7zQvs73_hQ&t=218s](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=218s)
+
+From: [Cooper Flagg Postgame Interview \| Mavericks at Jazz \| Nov. 22, 2026](https://www.youtube.com/watch?v=R7zQvs73_hQ) · *Dallas Mavericks*
+
+**3. Josh Giddey — "He doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear." — Josh Giddey on Billy Donovan's communication and accountability** [07:24](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
+
+Josh Giddey: "That's one of the things about him, I think really good communicator. And he probably, you know, as a former player, he probably understands as well and he he can relate to us as players a lot more. And yeah, he was really good about it, I think. As he says, it's not the first time, but he doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear. And you know, as players, it's frustrating in the moment, obviously you want to be out there trying to help your team win games, but I wasn't surprised, I wasn't sitting there confused as to why I wasn't out there. Like I knew why and he hit it on the head the next day and we move forward and move on to tonight."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
+
+From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls OT Loss to Nuggets](https://www.youtube.com/watch?v=GXOLEVcghG0) · *Chicago Bulls*
+
+**4. Draymond Green — "Jacob Rubin and Frank Vogel called us out. They showed some clips and it was embarrassing." — Draymond Green on the team's defensive film session** [01:37](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s)
+
+**Festus Ezeli:** "I thought overall the ball pressure was better. I don't think there was anything drastic, but the small details on the defensive end, I thought you guys paid a little bit better attention to that and then you got rewarded for that."
+
+**Draymond Green:** "We had a great film session defensive wise and **Jacob Rubin** and **Frank Vogel** called us out. They showed some clips and it was embarrassing. We knew we had to come out better on that end of the ball and we were able to do that."
+
+[https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s)
+
+From: [Draymond Green reveals how Warriors' defense improved in win \| NBC Sports Bay Area](https://www.youtube.com/watch?v=yHUdiGNqQY8) · *Golden State Warriors*
+
+**5. Jared McCain — "it shows that the coaches trust him, and for long-term I think it's going to be huge for us" — Jared McCain on Micic's opportunity in the starting lineup** [03:08](https://www.youtube.com/watch?v=KeQADE3DAtY&t=188s)
 
 Jared McCain: "It's huge. I think one of those things that builds a lot of confidence in him. It shows that the coaches trust him, and for long-term I think it's going to be huge for us. During this stretch, it's a lot of learning. And so when players that are injured start to come back more, it's going to be us all being confident and just trying to look at it in a positive direction. Having everyone be confident in themselves towards the end of the season is what we need."
 
@@ -22,7 +48,33 @@ From: [Jared McCain on Tonight's Game \| Postgame Media \| November 22, 2026](ht
 
 <small>[Clip it](presserclips://clip?v=KeQADE3DAtY&t=188&q=4) · [Send to Slack](presserclips://clip?v=KeQADE3DAtY&t=188&q=4&slack=1)</small>
 
-**3. Bennett Stirtz — "it's a lot easier to tone back aggressiveness than to ramp it up" — Bennett Stirtz on balancing aggressive shooting with team concepts** [01:45](https://www.youtube.com/watch?v=8JJdgoq0UJA&t=105s)
+**6. Jamal Murray — "he struggled for maybe seven games shooting, and he was still having 21, 22 and 13." — Jamal Murray on Nikola Jokic's consistency and resilience** [12:19](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s)
+
+Jamal Murray: "No one's worried about him. I just think he struggled for maybe seven games shooting, and he was still having 21, 22 and 13. So, I mean, it's not really, I wouldn't consider that a struggle. It's just good to see him have his flow and be as dominant as we know he can be, and I mean, it's every night he's doing this. So, if he misses a couple shots for one day, we're not, we're not tripping."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s)
+
+From: [Full Denver Nuggets Postgame Media Availability vs. CHI 🎙](https://www.youtube.com/watch?v=FXdgJvVq9A8) · *Denver Nuggets*
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=739&q=8) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=739&q=8&slack=1)</small>
+
+**7. Ayo Dosunmu — "Our niche, I mean we need to get better at closing games." — Ayo Dosunmu on the Bulls' need to close out games** [16:06](https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s)
+
+Ayo Dosunmu: "I know we team that building. I wouldn't say we're young. We got guys that have been in the league. You know, we just trying to figure out how to win and close out games. I think that's our that's our niche. I mean we need to get better at closing games. We're competing hard enough to be in games for the past eight or nine. Now it's just freaking hard to close now."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s)
+
+From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls OT Loss to Nuggets](https://www.youtube.com/watch?v=GXOLEVcghG0) · *Chicago Bulls*
+
+**8. Zaccharie Risacher — "I think we let him be too comfortable." — Zaccharie Risacher on defensive lapses against high-scoring opponents** [02:43](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s)
+
+Zaccharie Risacher: "Maybe it is a little bit of focus, like concentration, but also be more physical. I think we let him be too comfortable. If we were to be a little bit more physical, getting through screens, make sure he wasn't getting open looks earlier in the game, I think that would have helped us throughout the whole game."
+
+[https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s)
+
+From: [Zaccharie Risacher Postgame Interview \| Mavericks at Jazz \| Nov. 22, 2026](https://www.youtube.com/watch?v=mV1bAgkg6VI) · *Dallas Mavericks*
+
+**9. Bennett Stirtz — "it's a lot easier to tone back aggressiveness than to ramp it up" — Bennett Stirtz on balancing aggressive shooting with team concepts** [01:45](https://www.youtube.com/watch?v=8JJdgoq0UJA&t=105s)
 
 Bennett Stirtz: "I think personally, it's a lot easier to tone back aggressiveness than to ramp it up. They can always tell me back if they feel like I'm shooting too much, but I feel like when I shoot it, it's a pretty good shot for the team, and the guys want me to shoot those shots too because it makes it easier for them. So I feel like I just got to be more aggressive, and if they tell me to wind it down a little bit, I'll do that."
 
@@ -31,16 +83,6 @@ Bennett Stirtz: "I think personally, it's a lot easier to tone back aggressivene
 From: [Bennett Stirtz on New Opportunities and Experiences \| Postgame Media \| November 18, 2026](https://www.youtube.com/watch?v=8JJdgoq0UJA) · *Oklahoma City Thunder*
 
 <small>[Clip it](presserclips://clip?v=8JJdgoq0UJA&t=105&q=4) · [Send to Slack](presserclips://clip?v=8JJdgoq0UJA&t=105&q=4&slack=1)</small>
-
-**4. Tristan da Silva — "I think we we let them get going early. They saw a couple easy ones going in." — Tristan da Silva on defensive lapses and allowing easy buckets** [01:26](https://www.youtube.com/watch?v=e2jpAeVRFRI&t=86s)
-
-Tristan da Silva: "I think we let them get going early. They saw a couple easy ones going in. I think beginning of the game, we took a couple early shots that that let them run out and get easy buckets and get their guys going and obviously the way the way they shot it from three, we weren't really impacting that too much."
-
-[https://www.youtube.com/watch?v=e2jpAeVRFRI&t=86s](https://www.youtube.com/watch?v=e2jpAeVRFRI&t=86s)
-
-From: [POSTGAME SOUND: ORLANDO MAGIC VS. WASHINGTON WIZARDS \| COACH SWEENEY & TRISTAN DA SILVA](https://www.youtube.com/watch?v=e2jpAeVRFRI) · *Orlando Magic*
-
-<small>[Clip it](presserclips://clip?v=e2jpAeVRFRI&t=86&q=3) · [Send to Slack](presserclips://clip?v=e2jpAeVRFRI&t=86&q=3&slack=1)</small>
 
 ---
 
@@ -108,6 +150,70 @@ Bennett Stirtz: "We get the best treatment in the world, so like I can't complai
 
 ---
 
+## Rick Carlisle Postgame Media Availability | November 22, 2026 — *Indiana Pacers*
+
+Source: [https://www.youtube.com/watch?v=Dz2bEhClua8](https://www.youtube.com/watch?v=Dz2bEhClua8)
+
+_Speakers identified: Rick Carlisle_
+
+**1. Rick Carlisle — "He's one of the best players in the world. He's leading the league in rebounding." — Rick Carlisle on Jayson Tatum's elite all-around skill set** [00:00](https://www.youtube.com/watch?v=Dz2bEhClua8&t=0s)
+
+Rick Carlisle: "**Jayson Tatum** is a great player. He's one of the best players in the world. He's leading the league in rebounding. He's a great three-point shooter, he drives it, he's got a lot of other skills. So, he's a tough matchup."
+
+[https://www.youtube.com/watch?v=Dz2bEhClua8&t=0s](https://www.youtube.com/watch?v=Dz2bEhClua8&t=0s)
+
+<small>[Clip it](presserclips://clip?v=Dz2bEhClua8&t=0&q=1) · [Send to Slack](presserclips://clip?v=Dz2bEhClua8&t=0&q=1&slack=1)</small>
+
+**2. Rick Carlisle — "There's a big issue with Delta Airlines. Our pilots are late getting in tonight." — Rick Carlisle on Delta Airlines travel issues affecting team logistics** [01:48](https://www.youtube.com/watch?v=Dz2bEhClua8&t=108s)
+
+Rick Carlisle: "There's a big issue with Delta Airlines. Our pilots are late getting in tonight. I heard that Oklahoma, who played a 6:00 game in Miami, haven't left Miami yet. There's a lot of stuff going on. Had a friend that flew in here from Virginia today, he was at the airport for a 7:00 a.m. flight and they didn't take off until 4:30. It was Delta. So Delta's, I heard it was some kind of an internet thing having to do with weight and balance. When you get in aviation stuff, all that stuff is very sensitive."
+
+[https://www.youtube.com/watch?v=Dz2bEhClua8&t=108s](https://www.youtube.com/watch?v=Dz2bEhClua8&t=108s)
+
+<small>[Clip it](presserclips://clip?v=Dz2bEhClua8&t=108&q=2) · [Send to Slack](presserclips://clip?v=Dz2bEhClua8&t=108&q=2&slack=1)</small>
+
+**3. Rick Carlisle — "He's trying to get the ball in quickly, and I have not looked at it yet." — Rick Carlisle on the defensive breakdown during the inbound play** [03:06](https://www.youtube.com/watch?v=Dz2bEhClua8&t=186s)
+
+**Unidentified speaker:** "You mentioned that inbound, I guess everyone seems sort of shocked by what was going on there. You're talking about what he saw there and what happened on the inbound?"
+
+**Rick Carlisle:** "He's trying to get the ball in quickly, and I have not looked at it yet, so I don't know exactly what happened. But either somebody wasn't looking and ran away from it, but that's a 5-0 run in about two and a half seconds in a very critical part of the game."
+
+[https://www.youtube.com/watch?v=Dz2bEhClua8&t=186s](https://www.youtube.com/watch?v=Dz2bEhClua8&t=186s)
+
+<small>[Clip it](presserclips://clip?v=Dz2bEhClua8&t=186&q=3) · [Send to Slack](presserclips://clip?v=Dz2bEhClua8&t=186&q=3&slack=1)</small>
+
+**4. Rick Carlisle — "We got two guys in our primary rotation who are on two-way contracts." — Rick Carlisle on the contributions of Swason and Smith** [04:08](https://www.youtube.com/watch?v=Dz2bEhClua8&t=248s)
+
+**Unidentified reporter:** "You talk about positive, you're getting really good contributions from **Swason** and **Smith**. Can you talk about their play and what they've added, because you've had to go deeper into your roster?"
+
+**Rick Carlisle:** "Those guys have done a great job. We got two guys in our primary rotation who are on two-way contracts. Good on them that they've put themselves in that position, but it also speaks to where we are with some of the injury stuff that's all part of it."
+
+[https://www.youtube.com/watch?v=Dz2bEhClua8&t=248s](https://www.youtube.com/watch?v=Dz2bEhClua8&t=248s)
+
+<small>[Clip it](presserclips://clip?v=Dz2bEhClua8&t=248&q=4) · [Send to Slack](presserclips://clip?v=Dz2bEhClua8&t=248&q=4&slack=1)</small>
+
+**5. Rick Carlisle — "We've just got to continue to work to get the best three-point looks that we can." — Rick Carlisle on the team's season-low three-point shooting performance** [04:58](https://www.youtube.com/watch?v=Dz2bEhClua8&t=298s)
+
+**Unidentified reporter:** "Your shot on the, you scored on the 6 three-pointers, which is your season low and you shot only 23, which is your lowest in two years. What led to that?"
+
+**Rick Carlisle:** "I would have to say that New York did a good job in that area. We've just got to continue to work to get the best three-point looks that we can. It's men, not machines. You're not always going to make them, but the process needs to remain consistent and that's what we got to focus on right now."
+
+[https://www.youtube.com/watch?v=Dz2bEhClua8&t=298s](https://www.youtube.com/watch?v=Dz2bEhClua8&t=298s)
+
+<small>[Clip it](presserclips://clip?v=Dz2bEhClua8&t=298&q=5) · [Send to Slack](presserclips://clip?v=Dz2bEhClua8&t=298&q=5&slack=1)</small>
+
+**6. Rick Carlisle — "His rebounding is always a major part of the scouting report and he's a loose ball machine." — Rick Carlisle on Josh Hart's rebounding and competitive spirit** [05:34](https://www.youtube.com/watch?v=Dz2bEhClua8&t=334s)
+
+**Unidentified reporter:** "You've seen plenty of **Josh Hart** over the years. What would you say about how all over the court Josh was tonight?"
+
+**Rick Carlisle:** "That's how he plays. I thought he had some very instrumental plays in the third and fourth quarter. His rebounding is always a major part of the scouting report and he's a loose ball machine. He comes up with those plays and he's one of the guys that brings a real toughness to their team."
+
+[https://www.youtube.com/watch?v=Dz2bEhClua8&t=334s](https://www.youtube.com/watch?v=Dz2bEhClua8&t=334s)
+
+<small>[Clip it](presserclips://clip?v=Dz2bEhClua8&t=334&q=6) · [Send to Slack](presserclips://clip?v=Dz2bEhClua8&t=334&q=6&slack=1)</small>
+
+---
+
 ## Erik Spoelstra Post-Game Interview vs Thunder | 11/22/26 — *HoopsHype*
 
 Source: [https://www.youtube.com/watch?v=EDm4RjjbnyQ](https://www.youtube.com/watch?v=EDm4RjjbnyQ)
@@ -169,6 +275,206 @@ Erik Spoelstra: "With Bam, it's the ground-and-pound mentality that both of thos
 [https://www.youtube.com/watch?v=EDm4RjjbnyQ&t=382s](https://www.youtube.com/watch?v=EDm4RjjbnyQ&t=382s)
 
 <small>[Clip it](presserclips://clip?v=EDm4RjjbnyQ&t=382&q=7) · [Send to Slack](presserclips://clip?v=EDm4RjjbnyQ&t=382&q=7&slack=1)</small>
+
+---
+
+## Full Denver Nuggets Postgame Media Availability vs. CHI 🎙 — *Denver Nuggets*
+
+Source: [https://www.youtube.com/watch?v=FXdgJvVq9A8](https://www.youtube.com/watch?v=FXdgJvVq9A8)
+
+_Speakers identified: Coach Adelman, Nikola Jokic, Jamal Murray, Cam Johnson_
+
+**1. Coach Adelman — "they shot the hell out of the three, and then we had a hard time stopping the ball." — Coach Adelman on defensive challenges against Chicago's three-point shooting** [00:06](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=6s)
+
+Coach Adelman: "They shot the hell out of the three, and then we had a hard time stopping the ball. They got to the paint. When you're shooting the ball that well, guys were in between when they could help, when they couldn't. They had that many guys make a three. It was a really tough night for us guarding them, and obviously on the other end, we did a lot of really good things."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=6s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=6s)
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=6&q=1) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=6&q=1&slack=1)</small>
+
+**2. Coach Adelman — "I give Buddy Hield a ton of credit, Jalen Smith. These guys, they played great." — Coach Adelman on team resilience and winning close games** [00:24](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=24s)
+
+Coach Adelman: "You have to understand it's the NBA. If we could win 130 to 60 every night, we would do it. But I'm pretty sure we won the game, just like we've won some low-scoring games like the Boston game. All these games are different, they're their own story. I give **Buddy Hield** a ton of credit, **Jalen Smith**. These guys, they played great. They really did, and Giddey was incredible getting in the paint and making plays."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=24s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=24s)
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=24&q=2) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=24&q=2&slack=1)</small>
+
+**3. Coach Adelman — "I was trying to force-feed him the ball. I had to get him going, get his rhythm going." — Coach Adelman on Aaron Gordon's aggressive fourth-quarter performance** [01:41](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=101s)
+
+Coach Adelman: "I was trying to force-feed him the ball. I had to get him going, get his rhythm going. The cool thing was I thought he got himself going. I think he was under the impression he got hit on a play, and I thought the very next play he was so super aggressive. He got to the rim, got the steal to your point, and kind of got us going."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=101s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=101s)
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=101&q=3) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=101&q=3&slack=1)</small>
+
+**4. Coach Adelman — "it's so much easier to have fluidity if guys shoot when they're open." — Coach Adelman on offensive fluidity and trusting open shots** [02:23](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=143s)
+
+Coach Adelman: "It's so much easier to have fluidity if guys shoot when they're open. If you're waiting for something to happen with a 24-second clock, you're in trouble. I just think the guys have owned that. **Jamal Murray** has to take the open shot when it's available and we create it. Same thing with **Nikola Jokic**. It just helps our offense throughout, and 35 threes for us is a lot, so it was good to see us get them up."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=143s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=143s)
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=143&q=4) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=143&q=4&slack=1)</small>
+
+**5. Nikola Jokic — "we had the opportunity to slow down the game and we were kind of walking into the flow." — Nikola Jokic on slowing down the game and controlling the pace** [04:44](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=284s)
+
+Nikola Jokic: "We had the opportunity to slow down the game and we were kind of walking into the flow. They were dictating the tempo of the game. I think there was a chance for us to slow down because **Coach Adelman** always says the quick offers equal equal quick, strict defense, and like if you have a longer offer, they're going to play a longer defense too."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=284s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=284s)
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=284&q=5) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=284&q=5&slack=1)</small>
+
+**6. Nikola Jokic — "we have been playing for so long together, I don't even think it's taking turns." — Nikola Jokic on chemistry and playing with Jamal Murray** [06:54](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=414s)
+
+Nikola Jokic: "We have been playing for so long together, I don't even think it's taking turns. It just happens, you know? You're trying to get open, if you don't get the ball, it's okay. You're trying to set a screen, if you get, you know, it's just happening and we just try to react and you just try to score in those moments."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=414s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=414s)
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=414&q=6) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=414&q=6&slack=1)</small>
+
+**7. Jamal Murray — "I just think we executed down the stretch and locked in on defense." — Jamal Murray on closing out games on the road** [11:25](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=685s)
+
+Jamal Murray: "I just think we executed down the stretch and locked in on defense and just made whatever shot they're going to take tough, even though they still made some tough ones. Just staying with it, especially on the road. Got to nip the runs in the bud, and I think we did a good job of just reacting to those."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=685s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=685s)
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=685&q=7) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=685&q=7&slack=1)</small>
+
+**8. Jamal Murray — "he struggled for maybe seven games shooting, and he was still having 21, 22 and 13." — Jamal Murray on Nikola Jokic's consistency and resilience** [12:19](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s)
+
+Jamal Murray: "No one's worried about him. I just think he struggled for maybe seven games shooting, and he was still having 21, 22 and 13. So, I mean, it's not really, I wouldn't consider that a struggle. It's just good to see him have his flow and be as dominant as we know he can be, and I mean, it's every night he's doing this. So, if he misses a couple shots for one day, we're not, we're not tripping."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s)
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=739&q=8) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=739&q=8&slack=1)</small>
+
+**9. Cam Johnson — "It was just a fast-paced game up and down, and kind of just relying on us." — Cam Johnson on the team's fast-paced game and overtime execution** [15:13](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=913s)
+
+Cam Johnson: "It was just a fast-paced game up and down, and kind of just relying on us to maybe out-execute a little bit. We didn't really close in the fourth quarter as well as we should have, but at least we did in overtime."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=913s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=913s)
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=913&q=9) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=913&q=9&slack=1)</small>
+
+**10. Cam Johnson — "Just settling down and kind of getting back to doing what we do, that's the main thing." — Cam Johnson on resetting and finishing games** [16:43](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=1003s)
+
+Cam Johnson: "Just settling down and kind of getting back to doing what we do, that's the main thing. We know what we're capable of. It shouldn't have got to that point in a lot of our opinions, but all we can do in that point is just finish it."
+
+[https://www.youtube.com/watch?v=FXdgJvVq9A8&t=1003s](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=1003s)
+
+<small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=1003&q=10) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=1003&q=10&slack=1)</small>
+
+---
+
+## INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls OT Loss to Nuggets — *Chicago Bulls*
+
+Source: [https://www.youtube.com/watch?v=GXOLEVcghG0](https://www.youtube.com/watch?v=GXOLEVcghG0)
+
+_Speakers identified: Billy Donovan, Josh Giddey, Ayo Dosunmu_
+
+**1. Billy Donovan — "Murray, Gordon, Jokic, they took over the game and won it." — Billy Donovan on the Bulls' late-game execution against the Nuggets** [00:12](https://www.youtube.com/watch?v=GXOLEVcghG0&t=12s)
+
+Billy Donovan: "I think both teams were tired in overtime. We were for sure, but they were also. Again, this is a very talented team. **Murray**, **Gordon**, **Jokic**, they took over the game and won it. I think it was a high-level offensive game tonight on both ends. We just couldn't finish."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=12s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=12s)
+
+**2. Billy Donovan — "It's a big body, Jokic and Gordon, so we got to be able to box them out." — Billy Donovan on the Bulls' struggle to secure defensive rebounds** [00:40](https://www.youtube.com/watch?v=GXOLEVcghG0&t=40s)
+
+Billy Donovan: "It's part of one of our problems. You can go bigger, but also you're going to lose different things when you do that. We just got to be better. We got to be more mindful about the rebound. Of course, **Gordon** and **Jokic** were excellent in that part. One got six and one got five. I think that's the game right there in terms of possessions. It's a big body, **Jokic** and **Gordon**, so we got to be able to box them out."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=40s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=40s)
+
+**3. Billy Donovan — "Did any part of you maybe consider like playing him more or down the stretch even in overtime?" — Billy Donovan on Noah's performance and potential for more minutes** [01:22](https://www.youtube.com/watch?v=GXOLEVcghG0&t=82s)
+
+**Unidentified reporter:** "It felt like he gave some of the better efforts on the glass."
+
+**Billy Donovan:** "Did any part of you maybe consider like playing him more or down the stretch even in overtime? Yeah, I mean, I thought that other guys were doing a good job. He was kind of taking the ice minutes on the bench. I tried to mirror Murray minutes with with ice. Tough matchup, not easy. But yeah, maybe maybe **Noah** should play more."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=82s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=82s)
+
+**4. Billy Donovan — "Josh played extremely well, 22 assists, 23 points." — Billy Donovan praises Josh Giddey's performance against the Nuggets** [02:22](https://www.youtube.com/watch?v=GXOLEVcghG0&t=142s)
+
+Billy Donovan: "We got to talk about Josh game. He played extremely well, 22 assists, 23 points. We got to give them flowers when they deserve. Last game they didn't have it, tonight they brought it. So excellent game by both those two guys."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=142s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=142s)
+
+**5. Billy Donovan — "Against this team, you got to really take care of the non-Jokic minutes." — Billy Donovan on the Bulls' fourth-quarter response** [05:18](https://www.youtube.com/watch?v=GXOLEVcghG0&t=318s)
+
+Billy Donovan: "We've been talking about that. We still lost the third quarter, but it wasn't as bad. I think we came back in the fourth. We had a good effort there. It's just against this team, you got to really take care of the non-**Jokic** minutes. He's excellent, and he plays the first quarter and the third quarter. So you know you got to try to survive those minutes. That's how good he is, honestly. And then you got to try to to beat the non-**Jokic** minutes. And tonight wasn't enough."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=318s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=318s)
+
+**6. Josh Giddey — "I thought we we didn't let go of the rope, we battled and battled." — Josh Giddey on the Bulls' resilience despite the loss** [06:02](https://www.youtube.com/watch?v=GXOLEVcghG0&t=362s)
+
+Josh Giddey: "They're a good team and they've been in all the instances before. They know how to handle different coverages. **Jokic**, **Murray**, probably seen it all, so they made shots. Deflating when you go down eight to start overtime. You don't have a lot of time to to claw back out of a out of a hole like that. So I thought we we didn't let go of the rope, we battled and battled, even during regulation. I think just just giving up eight quick ones in overtime, it's tough to come back from that, but I thought we we fought hard and played the right way and gave ourselves every chance to win that game."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=362s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=362s)
+
+**7. Josh Giddey — "It shows that we're there, like we have the ability to win and be in these good games." — Josh Giddey on what the Bulls can learn from competitive losses** [06:30](https://www.youtube.com/watch?v=GXOLEVcghG0&t=390s)
+
+Josh Giddey: "It shows that we're there, like we have the ability to win and be in these good games against good teams. Although the results haven't gone our way probably more more often than not this year, we've shown that we can compete and we can be competitive when we play the right way. It's just a matter of doing it for 48 minutes. I think we've shown stretches where we're really good and we've shown stretches where, you know, we can also lose to anybody in the league. So it's a matter of shortening those bad stretches and lengthening the good ones and we put ourselves in a position to win games against some of the best teams in the league."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=390s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=390s)
+
+**8. Josh Giddey — "He doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear." — Josh Giddey on Billy Donovan's communication and accountability** [07:24](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
+
+Josh Giddey: "That's one of the things about him, I think really good communicator. And he probably, you know, as a former player, he probably understands as well and he he can relate to us as players a lot more. And yeah, he was really good about it, I think. As he says, it's not the first time, but he doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear. And you know, as players, it's frustrating in the moment, obviously you want to be out there trying to help your team win games, but I wasn't surprised, I wasn't sitting there confused as to why I wasn't out there. Like I knew why and he hit it on the head the next day and we move forward and move on to tonight."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
+
+**9. Josh Giddey — "I mean, what not to do, I think that's what got us there in the first place." — Josh Giddey on the lessons learned from being benched** [09:18](https://www.youtube.com/watch?v=GXOLEVcghG0&t=558s)
+
+Josh Giddey: "I mean, what not to do, I think that's what got us there in the first place. Both of us obviously want to be out there trying to help us win games and down the stretch when you're not out there, it's as I said, it's frustrating, but you've got to do your best to to cheer your team on and and root for the guys that are out there. And yeah, I mean, as I as I said, I mean, we we both want to be out there, but it's you know, that's not where we're out there playing, so we've got to perform the right way to be out there at the end of games."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=558s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=558s)
+
+**10. Josh Giddey — "He's not going at one or two guys, like everyone in the team is held accountable." — Josh Giddey on Billy Donovan's culture of accountability** [10:10](https://www.youtube.com/watch?v=GXOLEVcghG0&t=610s)
+
+Josh Giddey: "Yeah, he does, and you can see it. Even during film and and things behind the scenes, like it's he's not going at one or two guys, like everyone in the team is held accountable and that's a that's a thing as as players you love. And as I said, he's a former player, so he understands it. You know, you've got to hold your best players accountable the same way you hold guys that probably aren't in the rotation accountable. So you look up and down the line and when we go through film and and and walk throughs and practices, everyone's held accountable to the same standard and that's how you get better as a team."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=610s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=610s)
+
+**11. Josh Giddey — "A lot of it's just playing together. I think early in the year it was a lot of ISO." — Josh Giddey on the Bulls' offensive improvement through ball movement** [11:01](https://www.youtube.com/watch?v=GXOLEVcghG0&t=661s)
+
+Josh Giddey: "A lot of it's just playing together. I think early in the year it was a lot of ISO, a lot of one-on-one, a lot of bad early shots in the possession. And now we're starting to figure out, you know, how we're effective as an offense and as a team. And that's probably not the the answer for us. Like we've got a group where when we move the ball, we get into quick actions, we rebound and run, we we look good. So that stuff takes time when you put a bunch of new guys together, it takes time to figure out, but I think we're trending in the right direction."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=661s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=661s)
+
+**12. Ayo Dosunmu — "Our niche, I mean we need to get better at closing games." — Ayo Dosunmu on the Bulls' need to close out games** [16:06](https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s)
+
+Ayo Dosunmu: "I know we team that building. I wouldn't say we're young. We got guys that have been in the league. You know, we just trying to figure out how to win and close out games. I think that's our that's our niche. I mean we need to get better at closing games. We're competing hard enough to be in games for the past eight or nine. Now it's just freaking hard to close now."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s)
+
+**13. Ayo Dosunmu — "Yeah, that too, but also uh thinking about the job opportunities given to me." — Ayo Dosunmu on stepping up in the rotation** [16:54](https://www.youtube.com/watch?v=GXOLEVcghG0&t=1014s)
+
+**Unidentified reporter:** "You've been doing what you did tonight for a long time in this league, but when a guy like **Norman**'s out and you get the start, do you try to be a little bit more aggressive looking for your shot?"
+
+**Ayo Dosunmu:** "Yeah, that too, but also uh thinking about the job opportunities given to me. You know, I know my role in this team and I just come on and be professional and do my job and play and be vocal as I can each and every night and go there and compete when whatever minutes I get."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=1014s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=1014s)
+
+**14. Ayo Dosunmu — "You know when you in a rut, you know you just got to figure it out." — Ayo Dosunmu on the Bulls' early-season shooting struggles** [18:41](https://www.youtube.com/watch?v=GXOLEVcghG0&t=1121s)
+
+Ayo Dosunmu: "You know when you in a rut, you know you just got to figure it out. You know it's never going to be easy, and it's never going to be perfect. You just got to figure it out. Life is always never easy. It's never nobody nobody has a perfect life. You know, we we all go through stuff and that's our basketball right where we're in and we're coming out of that and we're competing and we're giving the fans something that they've been longing to see."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=1121s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=1121s)
+
+**15. Ayo Dosunmu — "This is the NBA, you do want to play against the best, you want to compete against the best." — Ayo Dosunmu on the Bulls' recent success against All-NBA players** [20:09](https://www.youtube.com/watch?v=GXOLEVcghG0&t=1209s)
+
+**Unidentified reporter:** "Is there any significance that you've played a succession of all NBA players, you know, MVPs, potential MVPs?"
+
+**Ayo Dosunmu:** "No, excuse me, why am I going to feel sorry for you? You know, no matter who is on the court, like you love the opportunities given to you. That's why we here, why we competing. This is the NBA, you do want to play against the best, you want to compete against the best. And I think that the our everybody is answering the bell, especially Mada and Josh. They're they're turning up a lot."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=1209s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=1209s)
+
+**16. Ayo Dosunmu — "Who doesn't like a great coach, a coach that communicates? I think every player loves that." — Ayo Dosunmu on the importance of communication from the coach** [20:53](https://www.youtube.com/watch?v=GXOLEVcghG0&t=1253s)
+
+**Unidentified reporter:** "You mentioned a couple times you've been benched before, you've talked to **Josh** or Mada about what it was like and how they get how you got out of it or how you developed and what you learned?"
+
+**Ayo Dosunmu:** "No, I haven't talked to them, but I'm sure we all no matter what, how long we've been in this league, we all coach that process where you're you're in the starting lineup or you can get benched. And it's up to you what you do with it. Who doesn't like a great coach, a coach that communicates? I think every player loves that. And I think that once you once he's directing and communicating that, I think you feel better about yourself and better where you're going."
+
+[https://www.youtube.com/watch?v=GXOLEVcghG0&t=1253s](https://www.youtube.com/watch?v=GXOLEVcghG0&t=1253s)
 
 ---
 
@@ -290,6 +596,56 @@ Will Richard: "I told him I went through the same thing last year. We had a lot 
 
 ---
 
+## Cooper Flagg Postgame Interview | Mavericks at Jazz | Nov. 22, 2026 — *Dallas Mavericks*
+
+Source: [https://www.youtube.com/watch?v=R7zQvs73_hQ](https://www.youtube.com/watch?v=R7zQvs73_hQ)
+
+_Speakers identified: Cooper Flagg_
+
+**1. Cooper Flagg — "I thought we just got complacent. The effort dropped to a worse level." — Cooper Flagg on Mavericks' fourth quarter complacency and effort** [00:06](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=6s)
+
+Cooper Flagg: "I thought we just got complacent. The effort dropped to a worse level. It was a lot of time and score too. I think we were running a lot of quick hitters, trying to get guys involved, but we have to be smarter and take up some of the clock."
+
+[https://www.youtube.com/watch?v=R7zQvs73_hQ&t=6s](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=6s)
+
+**2. Cooper Flagg — "We're getting connected. We're getting consistent effort from a lot of guys." — Cooper Flagg on Mavericks' improved defensive connectivity** [01:00](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=60s)
+
+Cooper Flagg: "We're getting connected. We're getting consistent effort from a lot of guys, which is just aligning us to be on the same page more. That in turn leads to more rotations, better rotations, better connectivity."
+
+[https://www.youtube.com/watch?v=R7zQvs73_hQ&t=60s](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=60s)
+
+**3. Cooper Flagg — "He's knocking them down. He was pretty good on that, I thought. He was aggressive, assertive." — Cooper Flagg on Dereck Lively II's aggressive three-point shooting** [01:25](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=85s)
+
+Cooper Flagg: "He's knocking them down. He was pretty good on that, I thought. He was aggressive, assertive. So, we got to do a better job on someone getting hot like that, but he has some tough shots too."
+
+[https://www.youtube.com/watch?v=R7zQvs73_hQ&t=85s](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=85s)
+
+**4. Cooper Flagg — "His gravity, he uses it really well. If teams are going to load up so heavily." — Cooper Flagg on Kyrie Irving's gravity and team chemistry** [01:54](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=114s)
+
+Cooper Flagg: "His gravity, he uses it really well. If teams are going to load up so heavily on him, he's not afraid of just making an easy pass, making an easy play."
+
+[https://www.youtube.com/watch?v=R7zQvs73_hQ&t=114s](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=114s)
+
+**5. Cooper Flagg — "I thought the ball pressure was really good. Dereck Lively II had five steals tonight." — Cooper Flagg on Mavericks' defensive ball pressure and steals** [02:14](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=134s)
+
+Cooper Flagg: "I thought the ball pressure was really good. **Dereck Lively II** had five steals tonight. When those guys bring that level of toughness and pressure on the ball, it's going to make us a lot better. So, definitely shout out to those guys for the intensity they brought from the jump."
+
+[https://www.youtube.com/watch?v=R7zQvs73_hQ&t=134s](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=134s)
+
+**6. Cooper Flagg — "They have plenty of talent. It's just about them getting organized and getting into spots." — Cooper Flagg on Mavericks' bench depth and player talent** [03:04](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=184s)
+
+Cooper Flagg: "They have plenty of talent. It's just about them getting organized and getting into spots that they like. There's so much talent on our team that we should be able to steal some minutes like that, and they'll get better as we keep going."
+
+[https://www.youtube.com/watch?v=R7zQvs73_hQ&t=184s](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=184s)
+
+**7. Cooper Flagg — "The last couple games have been amazing. He's done it all year with the steals." — Cooper Flagg on Zach Edey's defensive impact and versatility** [03:38](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=218s)
+
+Cooper Flagg: "The last couple games have been amazing. He's done it all year with the steals and the blocks, but just helping us be another glue guy. Since PJ got the illness, Zach stepping up, being ready, taking on a starting spot and fitting in pretty seamlessly."
+
+[https://www.youtube.com/watch?v=R7zQvs73_hQ&t=218s](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=218s)
+
+---
+
 ## Coach Daigneault on Team's Shorthanded Play | Postgame Media | November 22, 2026 — *Oklahoma City Thunder*
 
 Source: [https://www.youtube.com/watch?v=dVrGo4zdNI0](https://www.youtube.com/watch?v=dVrGo4zdNI0)
@@ -383,3 +739,121 @@ Tristan da Silva: "Making simple plays, getting off the ball when when you see t
 [https://www.youtube.com/watch?v=e2jpAeVRFRI&t=211s](https://www.youtube.com/watch?v=e2jpAeVRFRI&t=211s)
 
 <small>[Clip it](presserclips://clip?v=e2jpAeVRFRI&t=211&q=5) · [Send to Slack](presserclips://clip?v=e2jpAeVRFRI&t=211&q=5&slack=1)</small>
+
+---
+
+## Dusty May Postgame Press Conference | Mavericks at Jazz | Nov. 22, 2026 — *Dallas Mavericks*
+
+Source: [https://www.youtube.com/watch?v=ls5WZeC-FwQ](https://www.youtube.com/watch?v=ls5WZeC-FwQ)
+
+_Speakers identified: Dusty May_
+
+**1. Dusty May — "we're still in our development phase, not just win this game right here right now phase" — Dusty May on the Mavericks' development-focused approach this season** [00:39](https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=39s)
+
+Dusty May: "We want to play guys more minutes. We want to get in guys. We're still in our development phase, not just win this game right here right now phase, and especially on a road trip. So, probably the first thing we did was pull Kai and Coop too early, that would be the most obvious, but we also have a lot of faith in everyone on our roster."
+
+[https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=39s](https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=39s)
+
+**2. Dusty May — "our activity continues to improve, especially on the defensive end" — Dusty May on the Mavericks' improved defensive intensity and team chemistry** [02:06](https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=126s)
+
+Dusty May: "Our activity continues to improve, especially on the defensive end. I think our point of attack defense, our ball screen defense, we've gotten our guys up a little bit higher in the last couple games. And sometimes we'll move them up, sometimes we'll move them back, but just our overall intensity and now we're at the point where you're starting to see guys cover for each other. When they see one guy go, it causes a chain reaction with three or four other players. Tonight was the first night where I saw that repeatedly, where it was guys completely engaged and covering for each other."
+
+[https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=126s](https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=126s)
+
+**3. Dusty May — "he played an incredible floor game, his leadership was apparent" — Dusty May on Kyrie Irving's aggressive play and leadership** [03:57](https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=237s)
+
+Dusty May: "I thought his passing, he ends up with eight assists, I thought he probably deserved 10 or 12. He set some guys up for key layups and we weren't able to convert, but I thought he played an incredible floor game. His leadership was apparent and obviously when he's making those threes off the bounce, it gives everyone else a lot more space and he demands a lot of attention by the opposition."
+
+[https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=237s](https://www.youtube.com/watch?v=ls5WZeC-FwQ&t=237s)
+
+---
+
+## Zaccharie Risacher Postgame Interview | Mavericks at Jazz | Nov. 22, 2026 — *Dallas Mavericks*
+
+Source: [https://www.youtube.com/watch?v=mV1bAgkg6VI](https://www.youtube.com/watch?v=mV1bAgkg6VI)
+
+_Speakers identified: Zaccharie Risacher_
+
+**1. Zaccharie Risacher — "We got to be more consistent. We got to play for 48 minutes." — Zaccharie Risacher on the need for consistent 48-minute team effort** [00:11](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=11s)
+
+Zaccharie Risacher: "We got to be more consistent. We got to play for 48 minutes. Even though we played great almost the whole game, that ain't enough and we got to make sure we keep our intensity high and make sure we keep doing those winning plays till the end."
+
+[https://www.youtube.com/watch?v=mV1bAgkg6VI&t=11s](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=11s)
+
+**2. Zaccharie Risacher — "The ball was moving, we was playing fast, we was scoring." — Zaccharie Risacher on team connectivity and ball movement** [00:48](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=48s)
+
+Zaccharie Risacher: "We played great. We were playing good ball, the ball was moving, we was playing fast, we was scoring. I feel like we just got to do that for 48 minutes. There is a lot of good things that we did today that we need to rewatch and work on, but I feel like overall it was pretty solid and we got to keep doing it for 48 minutes."
+
+[https://www.youtube.com/watch?v=mV1bAgkg6VI&t=48s](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=48s)
+
+**3. Zaccharie Risacher — "It was good for us to be able to compete even though Kyrie and Cooper were on the bench." — Zaccharie Risacher on maintaining success with bench rotations** [01:29](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=89s)
+
+Zaccharie Risacher: "The ball was moving and we were playing with good pace. We are all about making stops, getting easy buckets, and playing the right way. It was good for us to be able to compete even though Kyrie and Cooper were on the bench together. I feel like we have a lot of good players and we can do a lot of good things together, and once we find a way to impact the game as a team, we are much more efficient."
+
+[https://www.youtube.com/watch?v=mV1bAgkg6VI&t=89s](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=89s)
+
+**4. Zaccharie Risacher — "I think we let him be too comfortable." — Zaccharie Risacher on defensive lapses against high-scoring opponents** [02:43](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s)
+
+Zaccharie Risacher: "Maybe it is a little bit of focus, like concentration, but also be more physical. I think we let him be too comfortable. If we were to be a little bit more physical, getting through screens, make sure he wasn't getting open looks earlier in the game, I think that would have helped us throughout the whole game."
+
+[https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s)
+
+**5. Zaccharie Risacher — "I know that's something the team needs from me." — Zaccharie Risacher on the importance of guard rebounding** [03:42](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=222s)
+
+Zaccharie Risacher: "It is really important. I know that's something the team needs me to do and I know I got to do it at a high level every night. I take a lot of pride doing it because I know that's something the team needs from me. I am going to play hard on defense and make sure we are helping the team getting those rebounds because it is really important for us to be able to grab those rebounds and finish the possession so we can play fast."
+
+[https://www.youtube.com/watch?v=mV1bAgkg6VI&t=222s](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=222s)
+
+**6. Zaccharie Risacher — "Everybody's got each other's back and everybody wants to win." — Zaccharie Risacher on team chemistry and competitive environment** [04:43](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=283s)
+
+Zaccharie Risacher: "I am having a lot of fun playing and I feel like we are playing good ball, we are playing for each other, we are making the extra efforts as a team. It is just great to be able to play in this kind of environment where everybody's got each other's back and everybody wants to win and compete at their highest level. I am just having fun with my teammates and I think everybody can feel it, everybody is connected."
+
+[https://www.youtube.com/watch?v=mV1bAgkg6VI&t=283s](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=283s)
+
+---
+
+## Draymond Green reveals how Warriors' defense improved in win | NBC Sports Bay Area — *Golden State Warriors*
+
+Source: [https://www.youtube.com/watch?v=yHUdiGNqQY8](https://www.youtube.com/watch?v=yHUdiGNqQY8)
+
+_Speakers identified: Chris Mullin, Festus Ezeli, Monte Poole, Draymond Green_
+
+**1. Draymond Green — "I just know I couldn't let him get all the way to the rim." — Draymond Green on his defensive strategy against Jayson Tatum** [00:13](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=13s)
+
+**Unidentified reporter:** "Talk about that possession there with Jayson Tatum. What was the key there? What were you trying to make him do there, the miss that shot?"
+
+**Draymond Green:** "I wanted him to go left. A little better odds when he's going left than right, but he's a great player. Great players are going to get to where they're trying to go on the floor. He was trying to get right. I just know I couldn't let him get all the way to the rim. Make him take a tough contested two. If he make it, he's Jayson Tatum, he makes it for a reason, but I live with the results."
+
+[https://www.youtube.com/watch?v=yHUdiGNqQY8&t=13s](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=13s)
+
+**2. Draymond Green — "Coach told me, get to the corner and fire." — Draymond Green on Steve Kerr's instructions to start the game** [00:49](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=49s)
+
+**Chris Mullin:** "What was the mindset coming into this game, man? Because your shot making tonight was incredible to start the game."
+
+**Draymond Green:** "Coach told me, get to the corner and fire. Play you at the four, get you out there with a five man, get some more size, you can guard bigger wings and you get to the corner and you just fire. So that was my mindset going into it. Gary Payton II hit me with a couple great early passes and when you got guys like that, feed you the ball, it gives you confidence and so I was able to step up and knock them down."
+
+[https://www.youtube.com/watch?v=yHUdiGNqQY8&t=49s](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=49s)
+
+**3. Draymond Green — "Jacob Rubin and Frank Vogel called us out. They showed some clips and it was embarrassing." — Draymond Green on the team's defensive film session** [01:37](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s)
+
+**Festus Ezeli:** "I thought overall the ball pressure was better. I don't think there was anything drastic, but the small details on the defensive end, I thought you guys paid a little bit better attention to that and then you got rewarded for that."
+
+**Draymond Green:** "We had a great film session defensive wise and **Jacob Rubin** and **Frank Vogel** called us out. They showed some clips and it was embarrassing. We knew we had to come out better on that end of the ball and we were able to do that."
+
+[https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=97s)
+
+**4. Draymond Green — "We switched up what we were doing coming down the floor, our flow offense." — Draymond Green on the Warriors' offensive adjustments** [02:26](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=146s)
+
+**Unidentified reporter:** "Did you guys go to more sets offensively to try and control those half court possessions?"
+
+**Draymond Green:** "We switched up what we were doing coming down the floor, our flow offense. We switched that up a little bit and then we were able to, because we were able to get stops, then you're able to run. You don't get in something, we get into the set. I think it was good for us to push when we can push, but slow the game down when we needed to slow it down, get the ball in Gary Payton II's hands, get the ball in Brandin Podziemski's hands and let them make plays and it set us up well."
+
+[https://www.youtube.com/watch?v=yHUdiGNqQY8&t=146s](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=146s)
+
+**5. Draymond Green — "Gui Santos earned his minutes last year by offensive rebounding." — Draymond Green on Kevon Looney and Gui Santos's contributions** [03:00](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=180s)
+
+**Monte Poole:** "Give a shout out to the bench mob."
+
+**Draymond Green:** "**Kevon Looney** is incredible on offensive boards. I always say when you come into this league and you make a name for yourself, you earn your minutes. You have to always do that. **Gui Santos** earned his minutes last year by offensive rebounding and then he was able to start showing that he can handle the ball, he can finish. But offensive rebounding is where he made his name. He's been getting back to that as he's getting healthier this season and his big force because it creates extra possessions."
+
+[https://www.youtube.com/watch?v=yHUdiGNqQY8&t=180s](https://www.youtube.com/watch?v=yHUdiGNqQY8&t=180s)

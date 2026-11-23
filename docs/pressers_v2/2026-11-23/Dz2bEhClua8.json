@@ -1,0 +1,260 @@
+{
+  "video_title": "Rick Carlisle Postgame Media Availability | November 22, 2026",
+  "speakers_seen": [
+    "Rick Carlisle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:00",
+      "summary_phrase": "Rick Carlisle on Jayson Tatum's elite all-around skill set",
+      "names_mentioned": [
+        "Jayson Tatum"
+      ],
+      "excerpt": "He's one of the best players in the world. He's leading the league in rebounding.",
+      "quote": "Jayson Tatum is a great player. He's one of the best players in the world. He's leading the league in rebounding. He's a great three-point shooter, he drives it, he's got a lot of other skills. So, he's a tough matchup.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 16,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Rick Carlisle on Jayson Tatum: He is one of the best players in the world. He is leading the league in rebounding, he is a great three-point shooter, he drives it, he has got a lot of other skills. He is a tough matchup.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "IND",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the skill set of Jayson Tatum following a game against the Boston Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:48",
+      "summary_phrase": "Rick Carlisle on Delta Airlines travel issues affecting team logistics",
+      "names_mentioned": [],
+      "excerpt": "There's a big issue with Delta Airlines. Our pilots are late getting in tonight.",
+      "quote": "There's a big issue with Delta Airlines. Our pilots are late getting in tonight. I heard that Oklahoma, who played a 6:00 game in Miami, haven't left Miami yet. There's a lot of stuff going on. Had a friend that flew in here from Virginia today, he was at the airport for a 7:00 a.m. flight and they didn't take off until 4:30. It was Delta. So Delta's, I heard it was some kind of an internet thing having to do with weight and balance. When you get in aviation stuff, all that stuff is very sensitive.",
+      "text_blocks": [],
+      "start_seconds": 108,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Rick Carlisle shares that travel issues with Delta Airlines are impacting NBA teams tonight, noting that pilots are late and flight delays are widespread due to technical issues.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle explains the travel delays affecting the team due to issues with Delta Airlines.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "03:06",
+      "speakers": [
+        "Unidentified speaker",
+        "Rick Carlisle"
+      ],
+      "summary_phrase": "Rick Carlisle on the defensive breakdown during the inbound play",
+      "names_mentioned": [],
+      "excerpt": "He's trying to get the ball in quickly, and I have not looked at it yet.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "You mentioned that inbound, I guess everyone seems sort of shocked by what was going on there. You're talking about what he saw there and what happened on the inbound?"
+        },
+        {
+          "speaker": "Rick Carlisle",
+          "text": "He's trying to get the ball in quickly, and I have not looked at it yet, so I don't know exactly what happened. But either somebody wasn't looking and ran away from it, but that's a 5-0 run in about two and a half seconds in a very critical part of the game."
+        }
+      ],
+      "start_seconds": 186,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the late game inbound breakdown: I have not looked at it yet, but that is a 5-0 run in about two and a half seconds in a very critical part of the game.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Rick Carlisle addresses a defensive breakdown that occurred during an inbound play in a critical moment of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "04:08",
+      "speakers": [
+        "Unidentified reporter",
+        "Rick Carlisle"
+      ],
+      "summary_phrase": "Rick Carlisle on the contributions of Swason and Smith",
+      "names_mentioned": [
+        "Swason",
+        "Smith"
+      ],
+      "excerpt": "We got two guys in our primary rotation who are on two-way contracts.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You talk about positive, you're getting really good contributions from Swason and Smith. Can you talk about their play and what they've added, because you've had to go deeper into your roster?"
+        },
+        {
+          "speaker": "Rick Carlisle",
+          "text": "Those guys have done a great job. We got two guys in our primary rotation who are on two-way contracts. Good on them that they've put themselves in that position, but it also speaks to where we are with some of the injury stuff that's all part of it."
+        }
+      ],
+      "start_seconds": 248,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Rick Carlisle on his rotation: We have two guys in our primary rotation who are on two-way contracts. Good on them for putting themselves in that position, but it also speaks to where we are with some of the injury stuff.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "contracts",
+          "injuries"
+        ],
+        "context": "Rick Carlisle discusses the contributions of two-way players Swason and Smith while addressing the team's current injury situation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Rick Carlisle",
+      "timestamp": "04:58",
+      "speakers": [
+        "Unidentified reporter",
+        "Rick Carlisle"
+      ],
+      "summary_phrase": "Rick Carlisle on the team's season-low three-point shooting performance",
+      "names_mentioned": [],
+      "excerpt": "We've just got to continue to work to get the best three-point looks that we can.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Your shot on the, you scored on the 6 three-pointers, which is your season low and you shot only 23, which is your lowest in two years. What led to that?"
+        },
+        {
+          "speaker": "Rick Carlisle",
+          "text": "I would have to say that New York did a good job in that area. We've just got to continue to work to get the best three-point looks that we can. It's men, not machines. You're not always going to make them, but the process needs to remain consistent and that's what we got to focus on right now."
+        }
+      ],
+      "start_seconds": 298,
+      "end_seconds": 333,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the team's season-low three-point shooting performance: It is men, not machines. You are not always going to make them, but the process needs to remain consistent.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle reacts to a question about the team's season-low three-point shooting performance against the New York Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Rick Carlisle",
+      "timestamp": "05:34",
+      "speakers": [
+        "Unidentified reporter",
+        "Rick Carlisle"
+      ],
+      "summary_phrase": "Rick Carlisle on Josh Hart's rebounding and competitive spirit",
+      "names_mentioned": [
+        "Josh Hart"
+      ],
+      "excerpt": "His rebounding is always a major part of the scouting report and he's a loose ball machine.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You've seen plenty of Josh Hart over the years. What would you say about how all over the court Josh was tonight?"
+        },
+        {
+          "speaker": "Rick Carlisle",
+          "text": "That's how he plays. I thought he had some very instrumental plays in the third and fourth quarter. His rebounding is always a major part of the scouting report and he's a loose ball machine. He comes up with those plays and he's one of the guys that brings a real toughness to their team."
+        }
+      ],
+      "start_seconds": 334,
+      "end_seconds": 364,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Rick Carlisle on Josh Hart: His rebounding is always a major part of the scouting report and he is a loose ball machine. He comes up with those plays and he is one of the guys that brings a real toughness to their team.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Josh Hart"
+        ],
+        "teams": [
+          "IND",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle praises the competitive spirit and rebounding ability of Josh Hart after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "Dz2bEhClua8",
+  "url": "https://www.youtube.com/watch?v=Dz2bEhClua8",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-23T04:57:27Z",
+  "duration_seconds": 444,
+  "processed_at": "2026-11-23T05:08:02Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false
+}

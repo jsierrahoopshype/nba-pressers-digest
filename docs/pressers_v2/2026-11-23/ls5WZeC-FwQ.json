@@ -1,0 +1,115 @@
+{
+  "video_title": "Dusty May Postgame Press Conference | Mavericks at Jazz | Nov. 22, 2026",
+  "speakers_seen": [
+    "Dusty May"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dusty May",
+      "timestamp": "00:39",
+      "summary_phrase": "Dusty May on the Mavericks' development-focused approach this season",
+      "names_mentioned": [],
+      "excerpt": "we're still in our development phase, not just win this game right here right now phase",
+      "quote": "We want to play guys more minutes. We want to get in guys. We're still in our development phase, not just win this game right here right now phase, and especially on a road trip. So, probably the first thing we did was pull Kai and Coop too early, that would be the most obvious, but we also have a lot of faith in everyone on our roster.",
+      "text_blocks": [],
+      "start_seconds": 39,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Dusty May says the Mavericks are prioritizing development over immediate wins right now. He admits he pulled Kai and Coop too early but emphasizes the team has faith in the entire roster.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Dusty May discusses his philosophy regarding player development and rotation management during the current road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dusty May",
+      "timestamp": "02:06",
+      "summary_phrase": "Dusty May on the Mavericks' improved defensive intensity and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "our activity continues to improve, especially on the defensive end",
+      "quote": "Our activity continues to improve, especially on the defensive end. I think our point of attack defense, our ball screen defense, we've gotten our guys up a little bit higher in the last couple games. And sometimes we'll move them up, sometimes we'll move them back, but just our overall intensity and now we're at the point where you're starting to see guys cover for each other. When they see one guy go, it causes a chain reaction with three or four other players. Tonight was the first night where I saw that repeatedly, where it was guys completely engaged and covering for each other.",
+      "text_blocks": [],
+      "start_seconds": 126,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dusty May says the Mavericks defensive intensity is trending up. He noted that tonight was the first time he saw guys repeatedly covering for each other and creating a chain reaction on the floor.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May evaluates the team's defensive intensity and chemistry improvements observed during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dusty May",
+      "timestamp": "03:57",
+      "summary_phrase": "Dusty May on Kyrie Irving's aggressive play and leadership",
+      "names_mentioned": [
+        "Kyrie Irving"
+      ],
+      "excerpt": "he played an incredible floor game, his leadership was apparent",
+      "quote": "I thought his passing, he ends up with eight assists, I thought he probably deserved 10 or 12. He set some guys up for key layups and we weren't able to convert, but I thought he played an incredible floor game. His leadership was apparent and obviously when he's making those threes off the bounce, it gives everyone else a lot more space and he demands a lot of attention by the opposition.",
+      "text_blocks": [],
+      "start_seconds": 237,
+      "end_seconds": 265,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Dusty May praised Kyrie Irving for an incredible floor game tonight. He noted that Irving deserved more than his eight assists and that his leadership and gravity on the perimeter are opening up the floor for the rest of the team.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Dusty May praises Kyrie Irving for his playmaking, leadership, and offensive impact during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "ls5WZeC-FwQ",
+  "url": "https://www.youtube.com/watch?v=ls5WZeC-FwQ",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-23T04:10:47Z",
+  "duration_seconds": 278,
+  "processed_at": "2026-11-23T05:08:28Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

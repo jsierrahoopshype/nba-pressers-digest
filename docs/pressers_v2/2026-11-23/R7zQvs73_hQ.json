@@ -1,0 +1,240 @@
+{
+  "video_title": "Cooper Flagg Postgame Interview | Mavericks at Jazz | Nov. 22, 2026",
+  "speakers_seen": [
+    "Cooper Flagg"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Cooper Flagg",
+      "timestamp": "00:06",
+      "summary_phrase": "Cooper Flagg on Mavericks' fourth quarter complacency and effort",
+      "names_mentioned": [],
+      "excerpt": "I thought we just got complacent. The effort dropped to a worse level.",
+      "quote": "I thought we just got complacent. The effort dropped to a worse level. It was a lot of time and score too. I think we were running a lot of quick hitters, trying to get guys involved, but we have to be smarter and take up some of the clock.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Cooper Flagg says the Mavericks got complacent in the fourth quarter tonight. He noted the team needs to be smarter with the clock and avoid settling for quick shots when trying to get everyone involved.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg discusses the Mavericks' fourth quarter performance and the team's lack of effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Cooper Flagg",
+      "timestamp": "01:00",
+      "summary_phrase": "Cooper Flagg on Mavericks' improved defensive connectivity",
+      "names_mentioned": [],
+      "excerpt": "We're getting connected. We're getting consistent effort from a lot of guys.",
+      "quote": "We're getting connected. We're getting consistent effort from a lot of guys, which is just aligning us to be on the same page more. That in turn leads to more rotations, better rotations, better connectivity.",
+      "text_blocks": [],
+      "start_seconds": 60,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Cooper Flagg says the Mavericks are starting to find their defensive identity. He credits consistent effort from the roster for leading to better rotations and overall connectivity on the floor.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg comments on the team's improved defensive connectivity and consistency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cooper Flagg",
+      "timestamp": "01:25",
+      "summary_phrase": "Cooper Flagg on Dereck Lively II's aggressive three-point shooting",
+      "names_mentioned": [
+        "Dereck Lively II"
+      ],
+      "excerpt": "He's knocking them down. He was pretty good on that, I thought. He was aggressive, assertive.",
+      "quote": "He's knocking them down. He was pretty good on that, I thought. He was aggressive, assertive. So, we got to do a better job on someone getting hot like that, but he has some tough shots too.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Cooper Flagg on Dereck Lively II hitting shots from deep tonight. He admitted the Mavs have to do a better job defending players who get hot from the perimeter even when they are hitting tough shots.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "DAL",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg reacts to the aggressive three-point shooting performance of Dereck Lively II.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Cooper Flagg",
+      "timestamp": "01:54",
+      "summary_phrase": "Cooper Flagg on Kyrie Irving's gravity and team chemistry",
+      "names_mentioned": [
+        "Kyrie Irving"
+      ],
+      "excerpt": "His gravity, he uses it really well. If teams are going to load up so heavily.",
+      "quote": "His gravity, he uses it really well. If teams are going to load up so heavily on him, he's not afraid of just making an easy pass, making an easy play.",
+      "text_blocks": [],
+      "start_seconds": 114,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Cooper Flagg says Kyrie Irving is doing a great job using his gravity to open up the floor. He noted that Irving is not afraid to make the easy play when teams load up on him defensively.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg explains how Kyrie Irving utilizes his gravity to create plays for teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Cooper Flagg",
+      "timestamp": "02:14",
+      "summary_phrase": "Cooper Flagg on Mavericks' defensive ball pressure and steals",
+      "names_mentioned": [
+        "Dereck Lively II"
+      ],
+      "excerpt": "I thought the ball pressure was really good. Dereck Lively II had five steals tonight.",
+      "quote": "I thought the ball pressure was really good. Dereck Lively II had five steals tonight. When those guys bring that level of toughness and pressure on the ball, it's going to make us a lot better. So, definitely shout out to those guys for the intensity they brought from the jump.",
+      "text_blocks": [],
+      "start_seconds": 134,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Cooper Flagg praised the defensive intensity after Dereck Lively II recorded five steals. He says when the team brings that level of toughness and ball pressure it makes the entire group better.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg praises the defensive ball pressure and intensity brought by Dereck Lively II.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Cooper Flagg",
+      "timestamp": "03:04",
+      "summary_phrase": "Cooper Flagg on Mavericks' bench depth and player talent",
+      "names_mentioned": [
+        "Dereck Lively II"
+      ],
+      "excerpt": "They have plenty of talent. It's just about them getting organized and getting into spots.",
+      "quote": "They have plenty of talent. It's just about them getting organized and getting into spots that they like. There's so much talent on our team that we should be able to steal some minutes like that, and they'll get better as we keep going.",
+      "text_blocks": [],
+      "start_seconds": 184,
+      "end_seconds": 201,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cooper Flagg on the Mavericks bench depth. He says the talent is there and it is just a matter of the second unit getting organized and finding their spots on the floor.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg discusses the talent and development of the Mavericks' bench players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Cooper Flagg",
+      "timestamp": "03:38",
+      "summary_phrase": "Cooper Flagg on Zach Edey's defensive impact and versatility",
+      "names_mentioned": [
+        "Zach Edey"
+      ],
+      "excerpt": "The last couple games have been amazing. He's done it all year with the steals.",
+      "quote": "The last couple games have been amazing. He's done it all year with the steals and the blocks, but just helping us be another glue guy. Since PJ got the illness, Zach stepping up, being ready, taking on a starting spot and fitting in pretty seamlessly.",
+      "text_blocks": [],
+      "start_seconds": 218,
+      "end_seconds": 236,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Cooper Flagg praised Zach Edey for stepping up into the starting lineup while PJ Washington is out. He called Edey a glue guy who has fit in seamlessly with his defensive impact.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zach Edey",
+          "PJ Washington"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg discusses Zach Edey stepping into a starting role following an illness for PJ Washington.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "R7zQvs73_hQ",
+  "url": "https://www.youtube.com/watch?v=R7zQvs73_hQ",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-23T04:12:56Z",
+  "duration_seconds": 242,
+  "processed_at": "2026-11-23T05:08:30Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

@@ -1,0 +1,261 @@
+{
+  "video_title": "Draymond Green reveals how Warriors' defense improved in win | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Chris Mullin",
+    "Festus Ezeli",
+    "Monte Poole",
+    "Draymond Green"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Draymond Green",
+      "speakers": [
+        "Unidentified reporter",
+        "Draymond Green"
+      ],
+      "timestamp": "00:13",
+      "summary_phrase": "Draymond Green on his defensive strategy against Jayson Tatum",
+      "names_mentioned": [
+        "Jason Tatum",
+        "Draymond Green"
+      ],
+      "excerpt": "I just know I couldn't let him get all the way to the rim.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Talk about that possession there with Jayson Tatum. What was the key there? What were you trying to make him do there, the miss that shot?"
+        },
+        {
+          "speaker": "Draymond Green",
+          "text": "I wanted him to go left. A little better odds when he's going left than right, but he's a great player. Great players are going to get to where they're trying to go on the floor. He was trying to get right. I just know I couldn't let him get all the way to the rim. Make him take a tough contested two. If he make it, he's Jayson Tatum, he makes it for a reason, but I live with the results."
+        }
+      ],
+      "start_seconds": 13,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Draymond Green on his defensive approach against Jayson Tatum: I wanted him to go left. I just know I could not let him get all the way to the rim. Make him take a tough contested two. If he makes it he makes it for a reason.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Draymond Green explains his defensive strategy and mindset while guarding Jayson Tatum during a specific possession.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Draymond Green",
+      "speakers": [
+        "Chris Mullin",
+        "Draymond Green"
+      ],
+      "timestamp": "00:49",
+      "summary_phrase": "Draymond Green on Steve Kerr's instructions to start the game",
+      "names_mentioned": [
+        "Steve Kerr",
+        "Draymond Green"
+      ],
+      "excerpt": "Coach told me, get to the corner and fire.",
+      "text_blocks": [
+        {
+          "speaker": "Chris Mullin",
+          "text": "What was the mindset coming into this game, man? Because your shot making tonight was incredible to start the game."
+        },
+        {
+          "speaker": "Draymond Green",
+          "text": "Coach told me, get to the corner and fire. Play you at the four, get you out there with a five man, get some more size, you can guard bigger wings and you get to the corner and you just fire. So that was my mindset going into it. Gary Payton II hit me with a couple great early passes and when you got guys like that, feed you the ball, it gives you confidence and so I was able to step up and knock them down."
+        }
+      ],
+      "start_seconds": 49,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Draymond Green on his hot start against the Celtics: Coach told me get to the corner and fire. Gary Payton II hit me with a couple great early passes and when you got guys like that feed you the ball it gives you confidence.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Steve Kerr",
+          "Gary Payton II"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Draymond Green describes the offensive instructions given by Steve Kerr and the impact of Gary Payton II's passing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Draymond Green",
+      "speakers": [
+        "Festus Ezeli",
+        "Draymond Green"
+      ],
+      "timestamp": "01:37",
+      "summary_phrase": "Draymond Green on the team's defensive film session",
+      "names_mentioned": [
+        "Jacob Rubin",
+        "Frank Vogel",
+        "Draymond Green"
+      ],
+      "excerpt": "Jacob Rubin and Frank Vogel called us out. They showed some clips and it was embarrassing.",
+      "text_blocks": [
+        {
+          "speaker": "Festus Ezeli",
+          "text": "I thought overall the ball pressure was better. I don't think there was anything drastic, but the small details on the defensive end, I thought you guys paid a little bit better attention to that and then you got rewarded for that."
+        },
+        {
+          "speaker": "Draymond Green",
+          "text": "We had a great film session defensive wise and Jacob Rubin and Frank Vogel called us out. They showed some clips and it was embarrassing. We knew we had to come out better on that end of the ball and we were able to do that."
+        }
+      ],
+      "start_seconds": 97,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Draymond Green says the Warriors had a blunt film session after recent defensive struggles: Jacob Rubin and Frank Vogel called us out. They showed some clips and it was embarrassing. We knew we had to come out better.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jacob Rubin",
+          "Frank Vogel"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Draymond Green discusses the team's defensive improvement following a critical film session led by coaches Jacob Rubin and Frank Vogel.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Draymond Green",
+      "speakers": [
+        "Unidentified reporter",
+        "Draymond Green"
+      ],
+      "timestamp": "02:26",
+      "summary_phrase": "Draymond Green on the Warriors' offensive adjustments",
+      "names_mentioned": [
+        "Draymond Green"
+      ],
+      "excerpt": "We switched up what we were doing coming down the floor, our flow offense.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Did you guys go to more sets offensively to try and control those half court possessions?"
+        },
+        {
+          "speaker": "Draymond Green",
+          "text": "We switched up what we were doing coming down the floor, our flow offense. We switched that up a little bit and then we were able to, because we were able to get stops, then you're able to run. You don't get in something, we get into the set. I think it was good for us to push when we can push, but slow the game down when we needed to slow it down, get the ball in Gary Payton II's hands, get the ball in Brandin Podziemski's hands and let them make plays and it set us up well."
+        }
+      ],
+      "start_seconds": 146,
+      "end_seconds": 191,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Draymond Green on the Warriors offensive flow: We switched up what we were doing coming down the floor. It was good for us to push when we can push but slow the game down when we needed to slow it down and let the guys make plays.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Gary Payton II",
+          "Brandin Podziemski"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Draymond Green explains the offensive adjustments the Warriors made to control the pace of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Draymond Green",
+      "speakers": [
+        "Monte Poole",
+        "Draymond Green"
+      ],
+      "timestamp": "03:00",
+      "summary_phrase": "Draymond Green on Kevon Looney and Gui Santos's contributions",
+      "names_mentioned": [
+        "Kevon Looney",
+        "Gui Santos",
+        "Draymond Green"
+      ],
+      "excerpt": "Gui Santos earned his minutes last year by offensive rebounding.",
+      "text_blocks": [
+        {
+          "speaker": "Monte Poole",
+          "text": "Give a shout out to the bench mob."
+        },
+        {
+          "speaker": "Draymond Green",
+          "text": "Kevon Looney is incredible on offensive boards. I always say when you come into this league and you make a name for yourself, you earn your minutes. You have to always do that. Gui Santos earned his minutes last year by offensive rebounding and then he was able to start showing that he can handle the ball, he can finish. But offensive rebounding is where he made his name. He's been getting back to that as he's getting healthier this season and his big force because it creates extra possessions."
+        }
+      ],
+      "start_seconds": 180,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Draymond Green praises the Warriors bench: Kevon Looney is incredible on offensive boards. Gui Santos earned his minutes last year by offensive rebounding and he is getting back to that as he gets healthier.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kevon Looney",
+          "Gui Santos"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Draymond Green praises the contributions of teammates Kevon Looney and Gui Santos regarding their offensive rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "yHUdiGNqQY8",
+  "url": "https://www.youtube.com/watch?v=yHUdiGNqQY8",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-23T04:32:23Z",
+  "duration_seconds": 221,
+  "processed_at": "2026-11-23T05:08:17Z",
+  "run_id": "2026-11-23-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
