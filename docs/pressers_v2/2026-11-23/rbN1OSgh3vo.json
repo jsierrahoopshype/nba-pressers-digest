@@ -1,0 +1,179 @@
+{
+  "video_title": "Myles Turner Postgame Media Availability | 11.23.26",
+  "speakers_seen": [
+    "Myles Turner",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Myles Turner",
+      "timestamp": "00:03",
+      "summary_phrase": "Myles Turner on reaching 10,000 career points",
+      "names_mentioned": [],
+      "excerpt": "It's a testament to a lot of hard work and just a lot of patience",
+      "quote": "There's really no words for it. It's a testament to a lot of hard work and just a lot of patience and just me being myself. There's no question I've been struggling a bit to start the season, but to have a breakthrough like tonight was really big for my confidence and just a reminder of who I am in this league and what my strengths are.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Myles Turner on hitting 10,000 career points: There is no question I have been struggling a bit to start the season, but to have a breakthrough like tonight was really big for my confidence and a reminder of who I am in this league.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner reflects on reaching 10,000 career points and his personal performance after a recent game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Myles Turner",
+      "timestamp": "00:27",
+      "summary_phrase": "Myles Turner on the team's collective growth and chemistry",
+      "names_mentioned": [
+        "Nate",
+        "Braden"
+      ],
+      "excerpt": "I feel like for the past two to three weeks we've been playing basketball the right way",
+      "quote": "I feel like for the past two to three weeks we've been playing basketball the right way. Sometimes a couple plays didn't go our way in the past few games, but we finally collectively fought and put four quarters of basketball together. We just can't be satisfied. I think that we finally set a good precedent for ourselves and now it's to keep rolling.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Myles Turner says the team has been playing basketball the right way for the past few weeks and finally put four quarters together tonight. He says they cannot be satisfied and need to keep rolling.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner discusses the team's recent effort and their ability to play consistently for four quarters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Myles Turner",
+      "timestamp": "00:57",
+      "summary_phrase": "Myles Turner on mentoring younger teammates",
+      "names_mentioned": [
+        "Nate",
+        "Braden"
+      ],
+      "excerpt": "I take immense pride being a leader on this team",
+      "quote": "I take immense pride being a leader on this team. Obviously the results haven't been exactly what we wanted, but the process hasn't changed. I feel like that's my biggest message to everybody on this team. It's the day-by-day process, how you impact winning, how you impact the organization, how to be a pro. Those guys exemplify it between Nate and Braden. Their futures are very bright in this league and they have grown game by game.",
+      "text_blocks": [],
+      "start_seconds": 57,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Myles Turner on his leadership role: I take immense pride being a leader on this team. It is the day by day process, how you impact winning, how you impact the organization, how to be a pro.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nate",
+          "Braden"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Myles Turner discusses his leadership role and praises the development of his younger teammates Nate and Braden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Myles Turner",
+      "timestamp": "01:46",
+      "summary_phrase": "Myles Turner on the importance of winning on the road",
+      "names_mentioned": [],
+      "excerpt": "Winning is very hard in this league, no matter what team you're on",
+      "quote": "Winning is very hard in this league, no matter what team you're on, no matter what schemes you run, no matter how long you've been in this league. You don't take winning for granted. It's been damn near a month since we've won a game, so a night like tonight, you celebrate it. We know we're back to work tomorrow, but you enjoy this feeling. You go to sleep a little bit lighter tonight, knowing that you handled business, especially on the road.",
+      "text_blocks": [],
+      "start_seconds": 106,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Myles Turner on snapping a month long losing streak: Winning is very hard in this league. You do not take winning for granted. You go to sleep a little bit lighter tonight knowing that you handled business, especially on the road.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Myles Turner speaks about the difficulty of winning on the road and the team's relief after ending a losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Myles Turner",
+      "timestamp": "02:39",
+      "summary_phrase": "Myles Turner on defensive impact and team chemistry",
+      "names_mentioned": [
+        "Kelel"
+      ],
+      "excerpt": "Defensively is where you got to really, really make impact in this league",
+      "quote": "We have more veterans in the starting group, so I feel like our roles are a little more defined. It took some chemistry to begin the year to figure out exactly how we want to play together, but it's coming together. I think really the biggest thing is defensively. I think that's where we know we have talent to get the scores on this team, but defensively is where you got to really, really make impact in this league. There's plenty of guys, Kelel, he's really starting to come together because he's understanding that he impacts the game in so many more ways than just scoring.",
+      "text_blocks": [],
+      "start_seconds": 159,
+      "end_seconds": 200,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Myles Turner says the team is starting to find its identity defensively: We know we have talent to get the scores on this team, but defensively is where you have to really make an impact in this league.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kelel"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Myles Turner explains how the team's defensive focus and defined roles are contributing to their chemistry, specifically highlighting Kelel.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "rbN1OSgh3vo",
+  "url": "https://www.youtube.com/watch?v=rbN1OSgh3vo",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-24T04:20:12Z",
+  "duration_seconds": 247,
+  "processed_at": "2026-11-24T04:47:12Z",
+  "run_id": "2026-11-24T0446Z-20utc",
+  "is_one_off": false
+}

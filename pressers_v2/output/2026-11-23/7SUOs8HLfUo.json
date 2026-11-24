@@ -1,0 +1,316 @@
+{
+  "video_title": "“We're Building A Good Habit Of Winning At Home.” | Chris Finch Postgame Sound | 11.23.26",
+  "speakers_seen": [
+    "Jaden McDaniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:25",
+      "summary_phrase": "Timberwolves establishing a winning standard at home for the playoffs",
+      "names_mentioned": [],
+      "excerpt": "We set a standard for playing well at home, just knowing that winning at home can be",
+      "quote": "We set a standard for playing well at home, just knowing that winning at home can be a thing that we do later in the season, like in the playoffs, and help us. So just getting used to winning here is a helpful thing.",
+      "verbatim_original_language": "",
+      "start_seconds": 25,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on the Timberwolves building a home court advantage: We set a standard for playing well at home, knowing that winning at home can be a thing that we do later in the season, like in the playoffs.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses the importance of the team establishing a winning standard at home to prepare for the playoffs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "00:47",
+      "summary_phrase": "Turnovers and fast-break points are part of the Timberwolves' identity",
+      "names_mentioned": [],
+      "excerpt": "Turning teams over is part of our identity and just continuing to make easy ways to get",
+      "quote": "Turning teams over is part of our identity and just continuing to make easy ways to get points is probably the best part of that going on.",
+      "verbatim_original_language": "",
+      "start_seconds": 47,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels says forcing turnovers and getting easy transition points is a core part of the Timberwolves identity.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains that forcing turnovers and scoring in transition are key components of the team's identity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "01:12",
+      "summary_phrase": "Jaden McDaniels on his increased aggression and shot selection",
+      "names_mentioned": [],
+      "excerpt": "Just trying to get to the paint and get to my spots and then just shooting the",
+      "quote": "Just trying to get to the paint and get to my spots and then just shooting the jumpers, threes with confidence. And if they close short, just let it fly and they don't go right by them.",
+      "verbatim_original_language": "",
+      "start_seconds": 72,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on his offensive approach: Just trying to get to the paint and get to my spots and then just shooting the jumpers, threes with confidence.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels describes his offensive approach regarding shot selection and playing with increased aggression.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "02:11",
+      "summary_phrase": "Jaden McDaniels on the leadership and work ethic of Anthony Edwards",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "When we didn't have Ant, he was our leader and like the head of the snake",
+      "quote": "When we didn't have Ant, he was our leader and like the head of the snake and that's who we looked up to. And like he was kind of a vet to us as well. When he first got here, I was only in my fourth year, so I would look up to him. The things he does, like his work ethic is amazing, he's always working, so that's something I took from him.",
+      "verbatim_original_language": "",
+      "start_seconds": 131,
+      "end_seconds": 159,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Jaden McDaniels on Anthony Edwards leadership: When he first got here, I was only in my fourth year, so I would look up to him. The things he does, like his work ethic is amazing, he is always working.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels reflects on the leadership and work ethic of his teammate Anthony Edwards.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "02:45",
+      "summary_phrase": "Jaden McDaniels on his development and mastery of the mid-range game",
+      "names_mentioned": [],
+      "excerpt": "Just continuing to work over on it over the years, when I wasn't good or when I",
+      "quote": "Just continuing to work over on it over the years, when I wasn't good or when I have been good, just continuing to sharpen it and try to master the mid-range, but just continue to work on other parts of my game too.",
+      "verbatim_original_language": "",
+      "start_seconds": 165,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels says he is continuing to sharpen his game and try to master the mid-range.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses his ongoing efforts to develop his mid-range game and overall skill set.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "03:30",
+      "summary_phrase": "Jaden McDaniels looks forward to the challenge of playing on the road",
+      "names_mentioned": [],
+      "excerpt": "The crowd not being on our side.",
+      "quote": "The crowd not being on our side.",
+      "verbatim_original_language": "",
+      "start_seconds": 210,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels says he is looking forward to the challenge of playing on the road where the crowd is not on their side.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels briefly mentions the challenge of playing in road environments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "03:44",
+      "summary_phrase": "Jaden McDaniels praises the recent growth and confidence of TJ Warren",
+      "names_mentioned": [
+        "TJ Warren"
+      ],
+      "excerpt": "TJ been hooping like the last 10 games or so. He's been out there playing with confidence.",
+      "quote": "TJ been hooping like the last 10 games or so. He's been out there playing with confidence, he's been locking up on defense. It's just good to see that he's out there playing with confidence and with no fears, no worries, he's just hooping.",
+      "verbatim_original_language": "",
+      "start_seconds": 224,
+      "end_seconds": 241,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jaden McDaniels on TJ Warren: TJ been hooping like the last 10 games or so. He has been out there playing with confidence, he has been locking up on defense.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "TJ Warren"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels praises the recent defensive effort and confidence shown by teammate TJ Warren.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "04:10",
+      "summary_phrase": "Jaden McDaniels on the goal of making the All-Star team",
+      "names_mentioned": [],
+      "excerpt": "It's a goal, but you know, if it happened, it happened. I just got to keep working.",
+      "quote": "It's a goal, but you know, if it happened, it happened. I just got to keep working, keep doing what I do. I'm not going to let that affect the way I play. I'm not going to think about it every day, but if it happens, it happens.",
+      "verbatim_original_language": "",
+      "start_seconds": 250,
+      "end_seconds": 268,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jaden McDaniels on his All-Star aspirations: It is a goal, but you know, if it happened, it happened. I am not going to let that affect the way I play.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels shares his perspective on the possibility of being selected for the All-Star team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "04:26",
+      "summary_phrase": "Jaden McDaniels prefers playing in front of an adversarial crowd",
+      "names_mentioned": [],
+      "excerpt": "I just don't like when everybody be on our side and it's like I like that Denver",
+      "quote": "I just don't like when everybody be on our side and it's like I like that Denver crowd how they was booing me and all that. It's just the wind feels better, I feel like.",
+      "verbatim_original_language": "",
+      "start_seconds": 266,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 9,
+      "social_post": "Jaden McDaniels prefers playing in front of an adversarial crowd: I just do not like when everybody be on our side. I like that Denver crowd how they was booing me and all that. It is just the wind feels better, I feel like.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains his preference for playing in front of hostile crowds like the one in Denver.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "05:07",
+      "summary_phrase": "Timberwolves' discipline and ability to hold each other accountable",
+      "names_mentioned": [],
+      "excerpt": "I feel like we hold ourselves accountable well. Like you see someone turn the ball over or",
+      "quote": "I feel like we hold ourselves accountable well. Like you see someone turn the ball over or make a mistake, you see like we might come to each other, tell us our fault, like we'll do better. So just I feel like we do good by ourselves. Like we don't need someone to always tell us to do what we did wrong or how we need to do things. I think we just do it ourselves.",
+      "verbatim_original_language": "",
+      "start_seconds": 307,
+      "end_seconds": 336,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jaden McDaniels says the Timberwolves do a good job of holding themselves accountable without needing outside intervention.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jaden McDaniels describes how the team maintains internal accountability after mistakes occur during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "7SUOs8HLfUo",
+  "url": "https://www.youtube.com/watch?v=7SUOs8HLfUo",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-24T04:26:30Z",
+  "duration_seconds": 392,
+  "processed_at": "2026-11-24T04:47:06Z",
+  "run_id": "2026-11-24T0446Z-20utc",
+  "is_one_off": false
+}

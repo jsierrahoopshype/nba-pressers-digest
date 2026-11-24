@@ -1,0 +1,152 @@
+{
+  "video_title": "Jalen Green Postgame On-Court Interview after Suns win against New Orleans Pelicans 123-119",
+  "speakers_seen": [
+    "Amanda",
+    "Jalen Green"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jalen Green",
+      "speakers": [
+        "Unidentified reporter",
+        "Jalen Green"
+      ],
+      "timestamp": "00:04",
+      "summary_phrase": "Jalen Green on the Suns' defensive focus in overtime win",
+      "names_mentioned": [
+        "Jalen Green"
+      ],
+      "excerpt": "We just had to stay locked in defensively. That's where a lot of our lapses was.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Jalen, you look, this Pelicans team wouldn't go away. They had a season-high 67 bench points. How were you guys able to lock in and get this one done in overtime?"
+        },
+        {
+          "speaker": "Jalen Green",
+          "text": "We just had to stay locked in defensively. That's where a lot of our lapses was. It's tough, it's a road game, they're at home. A lot of teams play better when they're at home and they came out and put out a fight. You can't come out here and just relax. You got to come out and play hard, so that's what we did."
+        }
+      ],
+      "start_seconds": 4,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jalen Green on the Suns overtime win against the Pelicans: We just had to stay locked in defensively. That is where a lot of our lapses was. You cannot come out here and just relax. You got to come out and play hard.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jalen Green discusses how the Suns maintained defensive focus to secure an overtime victory against the Pelicans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jalen Green",
+      "speakers": [
+        "Unidentified reporter",
+        "Jalen Green"
+      ],
+      "timestamp": "00:43",
+      "summary_phrase": "Jalen Green on maintaining intensity and execution in late game",
+      "names_mentioned": [
+        "Jalen Green"
+      ],
+      "excerpt": "Just staying aggressive, continuing to be me, trust my work. Simple.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You were locked in, a season-high 25 points for you tonight. But I want to talk about just the late-game execution from you. How are you able to continue to bring that type of energy each time?"
+        },
+        {
+          "speaker": "Jalen Green",
+          "text": "Just staying aggressive, continuing to be me, trust my work. Simple."
+        }
+      ],
+      "start_seconds": 43,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jalen Green on his season high 25 points and late game execution: Just staying aggressive, continuing to be me, trust my work. Simple.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jalen Green explains his mindset regarding his aggressive play and late-game energy after scoring 25 points.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jalen Green",
+      "speakers": [
+        "Unidentified reporter",
+        "Jalen Green"
+      ],
+      "timestamp": "00:51",
+      "summary_phrase": "Jalen Green on communication as the key to defensive success",
+      "names_mentioned": [
+        "Miles Bridges",
+        "Jalen Green"
+      ],
+      "excerpt": "I think communication is the biggest key for us defensively. When we're talking and flying around.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Talking to Miles Bridges today at shootaround and he said the biggest factor in these wins for you guys has really been your defense. What have you found there?"
+        },
+        {
+          "speaker": "Jalen Green",
+          "text": "I think communication is the biggest key for us defensively. When we're talking and flying around, that's when we're at our best, getting steals, and then our offense just flows naturally. So we just got to continue to double down on defense, locking on film, and work towards it."
+        }
+      ],
+      "start_seconds": 51,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jalen Green says communication is the biggest key for the Suns defensively: When we are talking and flying around, that is when we are at our best, getting steals, and then our offense just flows naturally.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Miles Bridges"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jalen Green reacts to comments from Miles Bridges about the team's defensive success being tied to communication.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "UQChnqoeqn8",
+  "url": "https://www.youtube.com/watch?v=UQChnqoeqn8",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-24T04:39:08Z",
+  "duration_seconds": 83,
+  "processed_at": "2026-11-24T04:46:42Z",
+  "run_id": "2026-11-24T0446Z-20utc",
+  "is_one_off": false
+}

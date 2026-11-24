@@ -1,0 +1,170 @@
+{
+  "video_title": "Cavs at Bulls | Sam Merrill & Peyton Watson Post Game | 11.23.2026",
+  "speakers_seen": [
+    "Sam Merrill",
+    "Peyton Watson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Sam Merrill",
+      "speakers": [],
+      "timestamp": "00:03",
+      "summary_phrase": "Sam Merrill on the team's defensive struggles and transition defense",
+      "names_mentioned": [],
+      "excerpt": "We got to be better at guarding the ball and keeping them out of transition.",
+      "quote": "We just got to be better. We gave up 70 points in the first half and especially against teams like these where they play fast in transition and fast in the half court. We got to be better at guarding the ball and keeping them out of transition. The second half we were a lot better defensively, but offensively we were pretty bad, pretty slow, stagnant the whole game. Just not how we want to play.",
+      "verbatim_original_language": "",
+      "start_seconds": 3,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Sam Merrill says the Cavs need to be better defensively after giving up 70 points in the first half against the Bulls. He noted the offense was stagnant and slow throughout the game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Sam Merrill discusses the team's defensive struggles and offensive stagnation following the game against the Bulls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Sam Merrill",
+      "speakers": [],
+      "timestamp": "01:55",
+      "summary_phrase": "Sam Merrill on the importance of defensive communication",
+      "names_mentioned": [],
+      "excerpt": "The more and louder you talk, the better your energy is going to be naturally.",
+      "quote": "Defensively, the communication level, I've always thought the more and louder you talk, the better your energy is going to be naturally. So that's something we got to get better at.",
+      "verbatim_original_language": "",
+      "start_seconds": 115,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Sam Merrill on the Cavs defensive struggles: The more and louder you talk the better your energy is going to be naturally. That is something we have to get better at.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Sam Merrill explains the importance of defensive communication for maintaining team energy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Peyton Watson",
+      "speakers": [],
+      "timestamp": "03:34",
+      "summary_phrase": "Peyton Watson on the team's defensive effort and attention to detail",
+      "names_mentioned": [],
+      "excerpt": "A lot of those mistakes that we made early defensively just had to do with our effort.",
+      "quote": "Just effort. I think a lot of it comes down to how we start the games and the approach we take to the games. A lot of those mistakes that we made early defensively just had to do with our effort. I think that's the number one thing that we have to address. When we started to make runs in the second half, it was because our effort was in the right place, and we were flying around doing the things we were supposed to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 214,
+      "end_seconds": 247,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Peyton Watson says the team needs to address their effort level after a slow start against the Bulls. He believes the second half runs were a direct result of the team finally flying around and playing with the right intensity.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Peyton Watson reflects on the team's defensive effort and the need for better focus at the start of games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Peyton Watson",
+      "speakers": [],
+      "timestamp": "04:32",
+      "summary_phrase": "Peyton Watson on his role as a team connector",
+      "names_mentioned": [],
+      "excerpt": "I'm always trying to communicate with my teammates and try to help make their job easier.",
+      "quote": "I'm always trying to communicate with my teammates and try to help make their job easier and just be a guy that connects the team in a lot of ways. I think I try to just go out there and lead by example by playing as hard as I can every night. I think that everybody has got to look inward and look themselves in the mirror and ask themselves, am I giving 100% every single night?",
+      "verbatim_original_language": "",
+      "start_seconds": 272,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Peyton Watson on his role as a connector: I try to lead by example by playing as hard as I can every night. Everybody has to look in the mirror and ask themselves if they are giving 100 percent every single night.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Peyton Watson describes his role as a team connector and emphasizes the importance of individual effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Peyton Watson",
+      "speakers": [],
+      "timestamp": "06:10",
+      "summary_phrase": "Peyton Watson on the development of the team's young players",
+      "names_mentioned": [],
+      "excerpt": "I feel like we have some of the most capable, smart, adaptive, learning young guys.",
+      "quote": "I feel like we have some of the most capable, smart, adaptive, learning young guys that I've had the chance of being around. I think a lot of our young guys and the guys that come off the bench for us in the second unit are doing positive things out there on a night-to-night basis and they're trying their best. I've only seen benefits just with the energy that they bring to the court, the guys that they are in the locker room, the friends that they are and how they've encouraged and welcomed me as a new player on this team.",
+      "verbatim_original_language": "",
+      "start_seconds": 370,
+      "end_seconds": 409,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Peyton Watson praised the young players on the roster calling them some of the most capable and adaptive guys he has been around. He noted the positive energy they bring to the locker room and the court.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Peyton Watson praises the development and energy of the team's young players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "Lh02MmMunbk",
+  "url": "https://www.youtube.com/watch?v=Lh02MmMunbk",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-24T04:33:24Z",
+  "duration_seconds": 450,
+  "processed_at": "2026-11-24T04:46:48Z",
+  "run_id": "2026-11-24T0446Z-20utc",
+  "is_one_off": false
+}
