@@ -1,0 +1,152 @@
+{
+  "video_title": "Luke Kornet on Spurs Playing with the Right Level of Togetherness",
+  "speakers_seen": [
+    "Luke Kornet",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Luke Kornet",
+      "timestamp": "00:08",
+      "summary_phrase": "Luke Kornet on the Spurs' team identity without key players",
+      "names_mentioned": [],
+      "excerpt": "trying to find a different identity play with that sort of maximizes this thing",
+      "quote": "I feel like as a team, as a group this morning, talking about obviously they are a big part of what we do, so trying to find a different identity play with that sort of maximizes this thing. I just feel like we play with a lot of connectingness and a great spirit and just a willingness to keep figuring it out and whatever it takes.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Luke Kornet says the team is focusing on playing with connectingness and a great spirit while adjusting their identity without key players in the lineup.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Luke Kornet discusses how the team is adjusting its identity and playing style while missing key players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Luke Kornet",
+      "timestamp": "00:59",
+      "summary_phrase": "Luke Kornet on the team's adjustment to Victor Wembanyama's absence",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "it's honestly something that we feel like we've been talking about a little bit",
+      "quote": "It's honestly something that we feel like we've been talking about a little bit and trying to figure out exactly what we want to do with certain things. I honestly feel like there's a great opportunity to be able to just have a lot of minutes of doing that and develop a feel for that because obviously when you have such a uniquely talented player on both ends, you're allowed to do certain things that then it does take acclimate or reacclimation.",
+      "text_blocks": [],
+      "start_seconds": 59,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Luke Kornet notes that playing without a uniquely talented player like Victor Wembanyama requires the team to reacclimate and find new ways to operate on both ends of the floor.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Luke Kornet explains the team's need to adjust their play style while Victor Wembanyama is absent.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Luke Kornet",
+      "timestamp": "02:24",
+      "summary_phrase": "Luke Kornet on Stephen Curry's leadership and playmaking",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "Stephen Curry's a lot of fun to play with and I feel like his competitiveness",
+      "quote": "Stephen Curry's a lot of fun to play with and I feel like his competitiveness and his I feel like especially with the opportunity to be the primary guard, just that leadership and composure and how much we rely on him to be able to just make consistent decisions with the ball. I feel like he did a great job of mixing in distributing and being able to be aggressive in attack.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Luke Kornet praises Stephen Curry for his leadership and composure, noting how much the team relies on him to make consistent decisions with the ball.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "SAS",
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Luke Kornet praises Stephen Curry for his leadership and decision-making during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Luke Kornet",
+      "timestamp": "03:13",
+      "summary_phrase": "Luke Kornet on the team's improved ball movement and spacing",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "we did a good job of playing with some movement and pace",
+      "quote": "I feel like we did a good job of playing with some movement and pace and just keeping it moving from side to side and having a little more hands. Stephen Curry's a great passer in those situations too, so he was able to find me, he was able to find me kind of on some second side drives and stuff like that.",
+      "text_blocks": [],
+      "start_seconds": 193,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Luke Kornet credits the team for improved ball movement and pace, highlighting how Stephen Curry's passing ability helped create opportunities on second side drives.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "SAS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Luke Kornet comments on the team's improved ball movement and Stephen Curry's passing ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "_tbaPXoDMeU",
+  "url": "https://www.youtube.com/watch?v=_tbaPXoDMeU",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-24T07:24:44Z",
+  "duration_seconds": 259,
+  "processed_at": "2026-11-24T07:41:33Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

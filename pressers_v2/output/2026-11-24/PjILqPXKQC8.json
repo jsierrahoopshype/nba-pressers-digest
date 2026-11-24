@@ -1,0 +1,320 @@
+{
+  "video_title": "Lakers vs Jazz | Postgame Interviews x Highlights: November 23, 2026",
+  "speakers_seen": [
+    "JJ Redick",
+    "Cameron Carr",
+    "Walker Kessler",
+    "Jake Laravia"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "JJ Redick",
+      "timestamp": "00:29",
+      "summary_phrase": "JJ Redick on the need for better closeout discipline",
+      "names_mentioned": [],
+      "excerpt": "We need to be better with our closeout discipline and even against lasers we got to be better.",
+      "quote": "We need to be better with our closeout discipline and even against lasers we got to be better. When you are whether you are in a shift or you are in rotation and you have a laser and you literally run at him and you jump from 10 feet away and you fly by him, that is actually doing nothing because he is just going to take a side step three and he is going to get the same thing that we were just trying to give up.",
+      "text_blocks": [],
+      "start_seconds": 29,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JJ Redick says the Lakers need to improve their closeout discipline. He notes that jumping from 10 feet away against shooters is doing nothing because it just leads to open side step threes.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "JJ Redick explains the need for better defensive closeout discipline during his postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "JJ Redick",
+      "timestamp": "03:06",
+      "summary_phrase": "JJ Redick on the team's collective gratitude and selflessness",
+      "names_mentioned": [
+        "Matis",
+        "Jake"
+      ],
+      "excerpt": "They are all really grateful to be here, to be Lakers, they are all really grateful to be on this team.",
+      "quote": "They are all really grateful to be here, to be Lakers, they are all really grateful to be on this team. I know Matis has expressed that to me on a couple of occasions. They have experienced adversity in their careers in different ways and I think that gratitude piece is they are all in a situation where they are putting the team first and they are putting their egos aside and that stuff matters.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "JJ Redick praises the selflessness of his roster, noting that the players are putting their egos aside and are truly grateful to be Lakers. He believes that gratitude is a key factor in their current team chemistry.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Matis"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "JJ Redick discusses the selfless culture and gratitude of his players after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "JJ Redick",
+      "timestamp": "05:06",
+      "summary_phrase": "JJ Redick on the importance of G League development",
+      "names_mentioned": [
+        "Zack",
+        "Alex"
+      ],
+      "excerpt": "When you are on a good team, you have to value the G League and what that is.",
+      "quote": "When you are on a good team, you have to value the G League and what that is. It was literally started, it is called the development league. It is for development and when you are on a good team, you have to get reps as a young player. I think Zack has done a great job over the last two years, Alex is doing a fantastic job this year.",
+      "text_blocks": [],
+      "start_seconds": 306,
+      "end_seconds": 333,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "JJ Redick emphasizes the importance of the G League for young players on good teams. He says that even on a winning roster, young players must value the opportunity to get reps and develop.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zack",
+          "Alex"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "JJ Redick emphasizes the importance of G League development for young players on the roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Cameron Carr",
+      "text_blocks": [
+        {
+          "speaker": "Cameron Carr",
+          "text": "Honestly just defensive lapses as I said earlier today, just trying to be consistent and fill gaps and be where I need to be on time and don't be laxadaisical on defense."
+        },
+        {
+          "speaker": "Unidentified reporter",
+          "text": "And what did you make of how that went tonight and then really the the whole defensive effort tonight?"
+        },
+        {
+          "speaker": "Cameron Carr",
+          "text": "Overall we did a really good job. Of course there is still things we can get better at. I think the fourth quarter group that started, that was that was that group kind of put us over the top right there."
+        }
+      ],
+      "timestamp": "07:12",
+      "summary_phrase": "Cameron Carr on defensive consistency and the fourth quarter group",
+      "names_mentioned": [],
+      "excerpt": "Overall we did a really good job. Of course there is still things we can get better at.",
+      "start_seconds": 432,
+      "end_seconds": 467,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Cameron Carr credits the fourth quarter group for putting the team over the top tonight. He says the focus remains on eliminating defensive lapses and staying consistent throughout the game.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Cameron Carr reflects on the team's defensive consistency and the performance of the fourth-quarter lineup.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Walker Kessler",
+      "timestamp": "12:17",
+      "summary_phrase": "Walker Kessler on the team's improved transition defense",
+      "names_mentioned": [],
+      "excerpt": "Our transition defense has just gotten better, which is nice to see.",
+      "quote": "Our transition defense has just gotten better, which is nice to see. Limiting second chance points has gotten better. Obviously we can still improve on that. We are kind of struggling right now with open threes, but I feel like we had a tough stretch where they kind of came back in the second half.",
+      "text_blocks": [],
+      "start_seconds": 737,
+      "end_seconds": 758,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Walker Kessler says the team has improved their transition defense and limiting second chance points, though he admits they are still struggling with defending open threes.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Walker Kessler discusses the improvements and ongoing challenges regarding the team's transition defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Walker Kessler",
+      "timestamp": "13:23",
+      "summary_phrase": "Walker Kessler on the team's defensive zone adjustments",
+      "names_mentioned": [
+        "Greg St. Jean"
+      ],
+      "excerpt": "Our defensive coach Greg St. Jean and I have kind of talked about the zone.",
+      "quote": "Our defensive coach Greg St. Jean and I have kind of talked about the zone and we have switched it up because in the beginning of the year we were kind of icing on the sides and giving up down, but now we are seeing people in the middle. So we have been workshopping it, but it was good to see it worked for tonight.",
+      "text_blocks": [],
+      "start_seconds": 803,
+      "end_seconds": 828,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Walker Kessler explains that the team has been workshopping their zone defense with coach Greg St. Jean to better protect the middle of the floor rather than just icing the sides.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Greg St. Jean"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Walker Kessler explains the adjustments made to the team's defensive zone scheme in collaboration with coach Greg St. Jean.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Walker Kessler",
+      "timestamp": "16:26",
+      "summary_phrase": "Walker Kessler on team resiliency without Austin Reaves",
+      "names_mentioned": [
+        "Austin"
+      ],
+      "excerpt": "Seeing how we compete without him and not at our full strength is good, it builds resiliency.",
+      "quote": "Seeing how we compete without him and not at our full strength is good, it builds resiliency because there is not going to be always your full strength going into the season, things happen to a long season. So it is encouraging to see, but obviously we miss him and excited for him to get back out there.",
+      "text_blocks": [],
+      "start_seconds": 986,
+      "end_seconds": 1008,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Walker Kessler says competing without Austin Reaves builds resiliency for the long season. He admits the team misses him but is encouraged by how they are handling the adversity.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Austin Reaves"
+        ],
+        "teams": [
+          "LAL",
+          "UTA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Walker Kessler comments on the team's ability to compete and build resiliency while missing Austin Reaves.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jake Laravia",
+      "timestamp": "20:53",
+      "summary_phrase": "Jake Laravia on the team's shared goals and adaptability",
+      "names_mentioned": [],
+      "excerpt": "Everyone is willing to sacrifice for the same goal and we just have a lot of adaptable players.",
+      "quote": "Everyone is willing to sacrifice for the same goal and we just have a lot of adaptable players. A lot of it is lineup based, matchup based, so whoever the coaches think should start that night is who is going to start and I think as players we are all willing to be thrown in and out of the lineup and it doesn't really change much for us as players, you just keep the same mindset and keep the same goal and just go out there and play hard.",
+      "text_blocks": [],
+      "start_seconds": 1253,
+      "end_seconds": 1287,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jake Laravia says the Lakers roster is highly adaptable and willing to sacrifice for the team goal, noting that players are comfortable being moved in and out of the lineup based on matchups.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jake Laravia discusses the willingness of players to adapt to changing lineups and coaching decisions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jake Laravia",
+      "timestamp": "23:22",
+      "summary_phrase": "Jake Laravia on the team's half-court defensive strength",
+      "names_mentioned": [],
+      "excerpt": "I think our half-court defense is probably the best part of our defense.",
+      "quote": "I think our half-court defense is probably the best part of our defense. We break it up kind of eight seconds, that middle eight seconds of being in the half-court is our best defense and we do a really good job of just moving around and scrambling and being in each other's help and trusting each other to do their job.",
+      "text_blocks": [],
+      "start_seconds": 1402,
+      "end_seconds": 1424,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jake Laravia identifies the team's half court defense as their greatest strength, specifically highlighting their ability to scramble and trust each other during the middle eight seconds of a possession.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Jake Laravia highlights the team's effectiveness in half-court defensive rotations and trust.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "PjILqPXKQC8",
+  "url": "https://www.youtube.com/watch?v=PjILqPXKQC8",
+  "channel_team": "Los Angeles Lakers",
+  "published": "2026-11-24T07:15:09Z",
+  "duration_seconds": 1424,
+  "processed_at": "2026-11-24T07:41:39Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

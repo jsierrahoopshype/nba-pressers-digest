@@ -1,0 +1,232 @@
+{
+  "video_title": "Mitch Johnson on Different Spurs Stepping Up vs. Sacramento",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:02",
+      "summary_phrase": "Mitch Johnson on the value of non-Wembanyama minutes",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "we played a good amount of minutes last year without Victor with a lot of the same cast",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Obviously a lot has been made about the non-Wembanyama minutes this year. Did you view this as a good chance to see 48 of them and how different combinations could gel that way?"
+        },
+        {
+          "speaker": "Mitch Johnson",
+          "text": "Yeah, and again, we played a good amount of minutes last year without Victor with a lot of the same cast. And typically, time helps chemistry, execution, feel. And that group has had limited time a lot this year because Victor has played well and he's played minutes. And so it's just a very fine program win in terms of a lot of work that went into tonight that you don't necessarily see because you don't necessarily know when you'll need to tap into some of the things that we did tonight."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Mitch Johnson"
+      ],
+      "reporter_split": true,
+      "start_seconds": 2,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson on the Spurs navigating non-Wembanyama minutes: Time helps chemistry, execution, and feel. It is a fine program win in terms of the work that went into tonight.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the team performance during minutes played without Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:08",
+      "summary_phrase": "Mitch Johnson on Luke Castle's performance and development",
+      "names_mentioned": [
+        "Luke Castle"
+      ],
+      "excerpt": "I thought Luke had a performance that he's had in his time here",
+      "quote": "I thought Luke had a performance that he's had in his time here. I think he played again more minutes tonight. I think we're continuing to find with this group some of the environments to continue to put him and the people that are in with him in in terms of offense and defensive schemes, coverages, plays, spots, etc. And I thought he was phenomenal. I thought the people around him were better and I think hopefully it's something to build off of.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Mitch Johnson on Luke Castle's performance: I thought he was phenomenal. I thought the people around him were better and I think hopefully it is something to build off of.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luke Castle"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson evaluates the performance and development of Luke Castle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:44",
+      "summary_phrase": "Mitch Johnson on Julian Champagnie's shooting and heat checks",
+      "names_mentioned": [
+        "Julian Champagnie",
+        "Devin Vassell"
+      ],
+      "excerpt": "something that has been a growth point for our team is understanding when someone like Julian or Devin",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Julian had that run in the second quarter where he hit four threes in a row."
+        },
+        {
+          "speaker": "Mitch Johnson",
+          "text": "When he takes the fifth one that's kind of an obvious heat check, do you mind those in that situation? I did not. He's earned those. But again, something that has been a growth point for our team is understanding when someone like Julian or Devin more than most, but anybody gets it going like that, and then trying to screen for them, trying to maybe even deceive that I'm looking over here, but I know I'm coming back over there because there comes Julian off of something else or is transition and I have gravity over here, but I know that Julian's over there. And I thought we did a great job."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Mitch Johnson"
+      ],
+      "reporter_split": true,
+      "start_seconds": 104,
+      "end_seconds": 154,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Mitch Johnson on Julian Champagnie's heat check threes: I did not mind them. He has earned those. A growth point for our team is understanding when someone gets it going like that.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Julian Champagnie",
+          "Devin Vassell"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson explains his philosophy on players taking heat check shots during a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "02:23",
+      "summary_phrase": "Mitch Johnson on Steph Castle's dominant game presence",
+      "names_mentioned": [
+        "Steph Castle"
+      ],
+      "excerpt": "I thought it was one of Steph Castle's best games. I thought he was dominant",
+      "quote": "I thought it was one of Steph Castle's best games. I thought he was dominant. I thought he filled the stat sheet but I thought his in-game presence was even stronger just in terms of the pace he played with. He touched the paint numerous times, he got his teammates shots, he was aggressive for himself, he got to the free throw line, he made shots. All of his shots other than a few no-pass two-point mid-range pull-ups were I thought phenomenal decisions. And again, I want him to be perfect, so of course I like two or three of those, because he can get to those whenever he wants. But he was absolutely phenomenal tonight.",
+      "verbatim_original_language": "",
+      "text_blocks": [],
+      "start_seconds": 143,
+      "end_seconds": 188,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Mitch Johnson calls Stephon Castle's performance tonight one of his best games: I thought he was dominant. I thought he filled the stat sheet but I thought his in-game presence was even stronger.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephon Castle"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson praises the dominant performance and decision making of Stephon Castle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mitch Johnson",
+      "timestamp": "03:08",
+      "summary_phrase": "Mitch Johnson on the maturity of Reed and Gillespie",
+      "names_mentioned": [
+        "Reed",
+        "Gillespie"
+      ],
+      "excerpt": "How do you think they looked?",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "I was going to ask you about Reed and Gillespie. You got them both more minutes than you normally do."
+        },
+        {
+          "speaker": "Mitch Johnson",
+          "text": "How do you think they looked? They didn't seem overwhelmed, I don't think. Yeah, honestly, I think very happy for them. I think the majority of our staff and what not, and not anything to do with stats, aren't surprised by that. Those guys work hard, they're mature, they're competitive. They've put their energy into the right spots and spaces for months now. They've been with us since July, right? You just can't play 16 guys. I know I'm a fan of all of them too. And so this is what character is. This is what a program is in terms of you don't necessarily know when, and there's a lot of uncontrollables throughout a long season. And just very happy with the preparation from the staff with not a lot of time to prep. They did a great job getting these guys ready and the guys executed it and they should feel good about tonight."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Mitch Johnson"
+      ],
+      "reporter_split": true,
+      "start_seconds": 188,
+      "end_seconds": 245,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson on the maturity of Reed and Gillespie: They did not seem overwhelmed. Those guys work hard, they are mature, and they are competitive.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaxson Reed",
+          "Riley Minix"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson comments on the maturity and preparation of Reed and Gillespie after receiving increased playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "FyZDPUfTViY",
+  "url": "https://www.youtube.com/watch?v=FyZDPUfTViY",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-24T07:17:31Z",
+  "duration_seconds": 245,
+  "processed_at": "2026-11-24T07:41:32Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}
