@@ -1,0 +1,175 @@
+{
+  "video_title": "Gui Santos explains Warriors’ trust in rookie Yaxel Lendeborg | NBC Sports BA",
+  "speakers_seen": [
+    "Gui Santos"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Gui Santos",
+      "timestamp": "00:17",
+      "summary_phrase": "Gui Santos on his physical recovery and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "my body is going in a better direction right now. I'm feeling slowly I'm building up",
+      "quote": "It feels good, especially after a win. The way that we played yesterday, the whole team was playing connected. We were talking a lot about that on, all right, if you're not going to score 120 points, so if we're going to score 88 points, we got to make them score 87 or less. But talking about me, my body is going in a better direction right now. I'm feeling slowly I'm building up and going back to how it was last year, body-wise, and that's a big part of my confidence going up again, a big part of what I do to help the team, being offensive rebounds, be fighting for every possession, and I think going forward now, I will still take care of my body and bring that to the team every night.",
+      "verbatim_original_language": "",
+      "start_seconds": 17,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Gui Santos says his body is finally heading in the right direction as he works to get back to his form from last season",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Gui Santos discusses his physical recovery and the team's defensive mindset following a recent win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Gui Santos",
+      "timestamp": "01:33",
+      "summary_phrase": "Gui Santos on the energy boost from offensive rebounds",
+      "names_mentioned": [],
+      "excerpt": "when I go there and I grab a offense rebound early in the game, that give me",
+      "quote": "When I go there and I grab a offense rebound early in the game, that give me a lot of energy because you see, all right, I'm bringing an extra possession for the team. And when you hit a three after that, so like last game, I get in the first possession and I hit a three, then I got two offensive rebounds after that and that's put you in the game, that put you in a better position to feel good about yourself in the game, and the rest will come if you play hard.",
+      "verbatim_original_language": "",
+      "start_seconds": 93,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Gui Santos on the energy boost he gets from crashing the glass: When I grab an offensive rebound and we hit a three after that it puts you in a better position to feel good about yourself in the game",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Gui Santos explains how grabbing offensive rebounds provides him with energy and helps him get into a rhythm during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Gui Santos",
+      "timestamp": "02:24",
+      "summary_phrase": "Gui Santos on his defensive mindset during crunch time",
+      "names_mentioned": [
+        "Jayson Tatum"
+      ],
+      "excerpt": "we winning the game, we cannot give up a two right now. So whatever it takes",
+      "quote": "I was not expecting them to call foul on that play, but I was like, okay, we're winning, we're winning the game, we cannot give up a two right now. So whatever it takes to put the body in the middle of the way to him to not score that one. Even let's say if they call the foul before, even if I wasn't there, that could be an and-one and that put them in an even better possession. So my thoughts was just like, he cannot score the easy two points after the foul. So just be there, be present, and trying to make him miss.",
+      "verbatim_original_language": "",
+      "start_seconds": 144,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Gui Santos on his defensive mindset during crunch time: My thoughts were just like he cannot score the easy two points after the foul so just be there and be present",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Gui Santos describes his defensive thought process during a late-game situation to prevent an easy basket.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Gui Santos",
+      "timestamp": "03:17",
+      "summary_phrase": "Gui Santos on the challenge of playing without Stephen Curry",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "when you play with Steph so much easier, everything. The space, you always open",
+      "quote": "When you play with Steph so much easier, everything. The space, you always open, he always got two guys guarding him and that's so easy. And when you don't have him, it's just kind of weird because you got to create your own stuff. Everybody got to create their own shots or create for everybody else. When we don't have him out there, it's just a change of mindset because just because he's in a corner, we're playing four-on-four, because they're not going to leave him. And when he's not on the floor, the guy that is in the corner now is in the help. So even if you drive by somebody, there is somebody helping and we start moving the ball.",
+      "verbatim_original_language": "",
+      "start_seconds": 197,
+      "end_seconds": 244,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Gui Santos explains the difference in the Warriors offense without Stephen Curry: When you play with Steph it is so much easier because you are basically playing four on four",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Gui Santos explains how the team's offensive mindset changes when Stephen Curry is not on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Gui Santos",
+      "timestamp": "04:42",
+      "summary_phrase": "Gui Santos on Yaxel Lendeborg's role and team trust",
+      "names_mentioned": [
+        "Yaxel Lendeborg"
+      ],
+      "excerpt": "Yaxel has been phenomenal this year for us, you know. He's been playing really well",
+      "quote": "Yaxel has been phenomenal this year for us, you know. He's been playing really well and the team trusts him, the staff trusts him, and we know that he's going to do the right decision when he got the ball. So whenever we can, we can give the ball to him in the middle of the paint or either playing pick-and-roll, he's going to have the best decision. But sometimes I feel like the teams are helping and over-helping on him and that's put us in a situation to have the ball doing kind of like the Jimmy role, and he's been doing amazing, but we also got to be there to help him and make his life easier.",
+      "verbatim_original_language": "",
+      "start_seconds": 282,
+      "end_seconds": 328,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Gui Santos praises Yaxel Lendeborg for his play this season: The team trusts him and the staff trusts him and we know that he is going to do the right decision when he has the ball",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Yaxel Lendeborg"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Gui Santos discusses the trust the Warriors organization has in Yaxel Lendeborg and his role in the offense.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "m3cwC19-AoA",
+  "url": "https://www.youtube.com/watch?v=m3cwC19-AoA",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-24T02:06:16Z",
+  "duration_seconds": 399,
+  "processed_at": "2026-11-24T02:30:57Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

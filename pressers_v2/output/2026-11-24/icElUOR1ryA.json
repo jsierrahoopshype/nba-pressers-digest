@@ -1,0 +1,165 @@
+{
+  "video_title": "Mitch Johnson on Spurs Rookies Ja'Kobi Gillespie and Maliq Brown Joining the Team in Sacramento",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:06",
+      "summary_phrase": "Mitch Johnson evaluates the play of Victor Wembanyama and De'Aaron Fox",
+      "names_mentioned": [
+        "Victor Wembanyama",
+        "De'Aaron Fox"
+      ],
+      "excerpt": "For my perspective, it looked like he got tripped.",
+      "quote": "I think Victor Wembanyama is just a little bit more general. De'Aaron Fox, I believe, happened on the play last game where he was running through the lane and from my perspective, it looked like he got tripped. Again, that's my point of view, so it's an opinion, but yeah, wasn't a huge fan of seeing that play after it happened on tape and pretty unfortunate now he has to miss a game because of it.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Mitch Johnson weighs in on the play that led to De'Aaron Fox missing a game, noting he was not a fan of the play after reviewing the tape and believes Fox was tripped.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama",
+          "De'Aaron Fox"
+        ],
+        "teams": [
+          "SAS",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson shares his perspective on a play involving De'Aaron Fox that resulted in an injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:21",
+      "summary_phrase": "Mitch Johnson discusses the Spurs' starting lineup rotation",
+      "names_mentioned": [
+        "Stephon Castle",
+        "Devin Vassell",
+        "Julian Champagnie",
+        "Harrison Barnes",
+        "Luke Kornet"
+      ],
+      "excerpt": "We'll start Stephon Castle, we'll start Devin Vassell, Julian Champagnie who's been starting already, and Harrison Barnes.",
+      "quote": "We'll start Stephon Castle, we'll start Devin Vassell, Julian Champagnie who's been starting already, and Harrison Barnes who's a familiar face with the lineup and then Luke Kornet who started a handful of games last year as well. So looking forward to guys getting some extended minutes, more opportunities, and some fun combinations that we haven't seen so far this year.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "Mitch Johnson announces the Spurs starting lineup for tonight, featuring Stephon Castle, Devin Vassell, Julian Champagnie, Harrison Barnes, and Luke Kornet.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephon Castle",
+          "Devin Vassell",
+          "Julian Champagnie",
+          "Harrison Barnes",
+          "Luke Kornet"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Mitch Johnson announces the starting lineup for the upcoming game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "02:01",
+      "summary_phrase": "Mitch Johnson reflects on Mason Plumlee's impact with the Kings",
+      "names_mentioned": [
+        "Mason Plumlee"
+      ],
+      "excerpt": "This league is good to see when they continue to value players and people like Mason Plumlee.",
+      "quote": "This league is good to see when they continue to value players and people like Mason Plumlee. The league has gotten very much younger and there's a place and a lot of value in some experience veterans like Mason Plumlee on the court and everything that goes in between before and after games. So happy for him to get another opportunity and I think a great acquisition by Sacramento just in terms of continuing to add people into that locker room to support their coach and his message and his staff on what things should look like.",
+      "text_blocks": [],
+      "start_seconds": 121,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Mitch Johnson praises the Kings for signing veteran Mason Plumlee, highlighting the value of experience in a league that has gotten much younger.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mason Plumlee"
+        ],
+        "teams": [
+          "SAS",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the value of veteran players like Mason Plumlee and his acquisition by the Kings.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "02:49",
+      "summary_phrase": "Mitch Johnson on the development of Ja'Kobi Gillespie and Maliq Brown",
+      "names_mentioned": [
+        "Ja'Kobi Gillespie",
+        "Maliq Brown"
+      ],
+      "excerpt": "Ja'Kobi Gillespie and Maliq Brown were great in Summer League, they were great in our gym over the summer.",
+      "quote": "Ja'Kobi Gillespie and Maliq Brown were great in Summer League, they were great in our gym over the summer. They were great in camp. We are excited for them to get going in Austin. They've killed it there and you just kind of keep hitting these milestones and this always happens in a season at some point. Now they get to join us again here and potentially get some opportunities tonight.",
+      "text_blocks": [],
+      "start_seconds": 169,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson says the Spurs are excited to bring Ja'Kobi Gillespie and Maliq Brown back up from Austin to potentially get some opportunities tonight.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ja'Kobi Gillespie",
+          "Maliq Brown"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the development of Ja'Kobi Gillespie and Maliq Brown as they join the team from the G League.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "icElUOR1ryA",
+  "url": "https://www.youtube.com/watch?v=icElUOR1ryA",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-24T02:04:13Z",
+  "duration_seconds": 297,
+  "processed_at": "2026-11-24T02:30:55Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

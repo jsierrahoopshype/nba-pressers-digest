@@ -1,0 +1,266 @@
+{
+  "video_title": "Steve Kerr, Warriors analyze bounce-back win after road skid | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Steve Kerr",
+    "Al Horford",
+    "Gui Santos"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Steve Kerr",
+      "timestamp": "01:05",
+      "summary_phrase": "Draymond Green's defensive versatility at the four and five",
+      "names_mentioned": [
+        "Draymond Green",
+        "Jason Tatum"
+      ],
+      "excerpt": "He's automatically going to go to the best perimeter player. When he's at the five, he's often guarding the center.",
+      "quote": "He's automatically going to go to the best perimeter player. When he's at the five, he's often guarding the center, so this allows us to put him on somebody like Jason Tatum.",
+      "verbatim_original_language": "",
+      "start_seconds": 65,
+      "end_seconds": 77,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Steve Kerr explains the defensive versatility Draymond Green provides, noting that playing him at the five allows the Warriors to put him on elite perimeter threats like Jayson Tatum.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Draymond Green",
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Steve Kerr discusses how Draymond Green's defensive versatility allows him to guard different positions including Jayson Tatum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Steve Kerr",
+      "timestamp": "03:00",
+      "summary_phrase": "Warriors need to teach players to stop flopping",
+      "names_mentioned": [],
+      "excerpt": "We probably have to start teaching our defensive players to flop on screens because everybody around the league is doing it.",
+      "quote": "We probably have to start teaching our defensive players to flop on screens because everybody around the league is doing it. You set a screen and guys chase around the screen and act like they've been hit by a car and the whole bench jumps up and those are automatic fouls, so we have to start teaching that.",
+      "verbatim_original_language": "",
+      "start_seconds": 180,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 9,
+      "social_post": "Steve Kerr says the Warriors might have to start teaching players to flop on screens because everyone else in the league is doing it and getting rewarded with fouls.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Steve Kerr comments on the prevalence of flopping in the NBA and suggests the Warriors may need to start teaching it.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Steve Kerr",
+      "timestamp": "04:34",
+      "summary_phrase": "Warriors' league-leading illegal screen count is a coaching issue",
+      "names_mentioned": [],
+      "excerpt": "We've gotten a lot of illegal screens because the ball handler has gone too early in the pick and roll.",
+      "quote": "We've gotten a lot of illegal screens because the ball handler has gone too early in the pick and roll. We've also gotten some where we've just extended our arms out or extended an elbow out or a hip and so we have to be better. We're number one in the league in illegal screens and it's not the officiating, it's us. We have to adapt to how the game is called and to why we're getting these illegal screens.",
+      "verbatim_original_language": "",
+      "start_seconds": 274,
+      "end_seconds": 305,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Steve Kerr takes accountability for the Warriors leading the league in illegal screens, saying it is not the officiating but a coaching issue that the team needs to fix.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Steve Kerr addresses the high number of illegal screen calls against the Warriors and emphasizes the need for better technique.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Steve Kerr",
+      "timestamp": "08:33",
+      "summary_phrase": "Brandon Williams' return will help with ball pressure issues",
+      "names_mentioned": [
+        "Brandon Williams",
+        "Steph Curry"
+      ],
+      "excerpt": "On the road we got bothered by ball pressure. You can't do that with Brandon, he'll just blow right by you.",
+      "quote": "On the road we got bothered by ball pressure by a couple of the teams. They took us out in San Antonio, Dallas, Memphis in particular. Those last few games, ball pressure really hurt us, kind of put us on our heels and you can't do that with Brandon, he'll just blow right by you. He'll be a big help and definitely him going out at the same time as Steph was a big blow.",
+      "verbatim_original_language": "",
+      "start_seconds": 513,
+      "end_seconds": 542,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Steve Kerr says the return of Brandon Williams will be a big help for the Warriors, noting that his ability to handle ball pressure will prevent the team from being put on their heels.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Williams",
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW",
+          "SAS",
+          "DAL",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Steve Kerr explains how the return of Brandon Williams will help the team handle defensive ball pressure.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Al Horford",
+      "timestamp": "14:40",
+      "summary_phrase": "Brandon Williams' impact on the team's offensive rhythm",
+      "names_mentioned": [
+        "Brandon Williams"
+      ],
+      "excerpt": "It's great to have him just because his ability to put pressure on the rim and the energy that Brandon brings.",
+      "quote": "It's great to have him just because his ability to put pressure on the rim and the energy that Brandon brings. So I'm just excited for him to be back with our group and just to get reacclimated with us.",
+      "verbatim_original_language": "",
+      "start_seconds": 880,
+      "end_seconds": 895,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Al Horford says he is excited to have Brandon Williams back with the group, citing his energy and ability to put pressure on the rim as key factors for the team.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brandon Williams"
+        ],
+        "teams": [
+          "BOS",
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Al Horford shares his excitement about Brandon Williams returning to the lineup and the energy he provides.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "Yk7vJLrjZ1A",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Gui Santos",
+      "timestamp": "22:26",
+      "summary_phrase": "Gui Santos's approach to earning minutes and finding rhythm",
+      "names_mentioned": [],
+      "excerpt": "When I go there and I grab an offensive rebound early in the game, that gives me a lot of energy.",
+      "quote": "When I go there and I grab an offensive rebound early in the game, that gives me a lot of energy because you see like, okay, I'm bringing an extra possession for the team. And when you hit a three after that, then I get in the game. I hit a three in the first possession, then I got two offensive rebounds after that and that's put you in the game, that put you in a better position to feel good about yourself in the game and the rest will come if you play hard.",
+      "verbatim_original_language": "",
+      "start_seconds": 1346,
+      "end_seconds": 1383,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Gui Santos on finding his rhythm: grabbing an early offensive rebound and hitting a three gives him the energy and confidence to play his game.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Gui Santos describes how early offensive rebounds and made shots help him find his rhythm during a game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "m3cwC19-AoA",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Gui Santos",
+      "timestamp": "24:21",
+      "summary_phrase": "Challenges of scaling up and playing without Steph Curry",
+      "names_mentioned": [
+        "Steph Curry"
+      ],
+      "excerpt": "When you play with Steph so much easier, everything is always open. He always got two guys guarding him.",
+      "quote": "When you play with Steph so much easier, everything is always open. He always got two guys guarding him and that's so easy. And when you don't have him, it's just kind of like weird because you got to create your own stuff. Everybody got to create their own shots or create for everybody else. And when he's not on the floor, the guy that is in the corner now is in the help. So even if you drive by somebody, there is somebody helping and we start moving the ball.",
+      "verbatim_original_language": "",
+      "start_seconds": 1461,
+      "end_seconds": 1496,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Gui Santos admits playing without Steph Curry is weird because everything is easier when he is on the floor, forcing everyone else to create their own shots.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Gui Santos explains the difficulty of creating offense for the team when Stephen Curry is not on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "m3cwC19-AoA",
+        "rank": 4
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "0dCnatHCJbI",
+  "url": "https://www.youtube.com/watch?v=0dCnatHCJbI",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-24T02:18:45Z",
+  "duration_seconds": 1678,
+  "processed_at": "2026-11-24T02:31:17Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

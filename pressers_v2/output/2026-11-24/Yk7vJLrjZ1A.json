@@ -1,0 +1,245 @@
+{
+  "video_title": "Al Horford details what sparked Warriors’ turnaround vs. Celtics | NBC Sports BA",
+  "speakers_seen": [
+    "Al Horford"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Al Horford",
+      "timestamp": "00:09",
+      "summary_phrase": "Al Horford on the team's defensive urgency and recent struggles",
+      "names_mentioned": [],
+      "excerpt": "the urgency was there, you know, I think that's where it starts, losing five in a row",
+      "quote": "I think the urgency was there, you know, I think that's where it starts, losing five in a row, just very difficult and being back home and just being able to refocus and I think it started with that urgency, how hard we were playing on the defensive end and how locked in we were into the game plan, that's what gave us the best opportunity and now we have to make sure that we validated and come out on Wednesday and keep that same type of intensity.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Al Horford says the Celtics needed to refocus after their five game losing streak, noting that the team's defensive urgency and commitment to the game plan were the keys to getting back on track.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Al Horford discusses the team's defensive urgency following a five-game losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Al Horford",
+      "timestamp": "00:59",
+      "summary_phrase": "Al Horford on the team's film session and defensive effort",
+      "names_mentioned": [],
+      "excerpt": "we were doing good but it wasn't good enough, the effort level",
+      "quote": "Usually something that we do, addressing the different things, but I think the coaches made it very clear that we needed to be better and the biggest thing, it's not so much the coverages and the schemes, it was we were doing good but it wasn't good enough, the effort level and I think that we were challenged in that way and to be able to really mentally push through different things that we're all going through, so I think that was very positive.",
+      "text_blocks": [],
+      "start_seconds": 59,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Al Horford says the coaching staff challenged the team on their effort level rather than just schemes, noting that the players needed to be mentally tougher to push through their recent struggles.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Al Horford explains how the coaching staff challenged the team to improve their defensive effort during a film session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Al Horford",
+      "timestamp": "01:57",
+      "summary_phrase": "Al Horford on Brandon Williams' return and impact on offense",
+      "names_mentioned": [
+        "Brandon Williams"
+      ],
+      "excerpt": "it's great to have him just because his ability to put pressure on the rim",
+      "quote": "It's great to have him just because his ability to put pressure on the rim and just the energy that Brandon Williams brings, so I'm just excited for him to be back with our group and just to get reacclimated with us.",
+      "text_blocks": [],
+      "start_seconds": 117,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Al Horford is happy to have Brandon Williams back in the mix, highlighting his ability to put pressure on the rim and the energy he brings to the group.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brandon Williams"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Al Horford comments on the return of Brandon Williams and the energy he brings to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Al Horford",
+      "timestamp": "02:24",
+      "summary_phrase": "Al Horford on the team's support for Jaxson Hayes",
+      "names_mentioned": [
+        "Jaxson Hayes"
+      ],
+      "excerpt": "we have a lot of people that are in his ear, a lot of people",
+      "quote": "I haven't been able to really to speak to him much. I feel like we have a lot of people that are in his ear, a lot of people, a lot of advice from all different areas coming to him and I feel like we all mean well a lot of the time but sometimes it can be a little much and we want what's best for him, we want him to come along quickly and everything, but I just think that sometimes I just kind of observe and I see and wherever I can help him I will, but he's a very smart player, smart individual and it's a lot of information, it's a lot of things that go on and it's a long season.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 192,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Al Horford on the team supporting Jaxson Hayes: I feel like we have a lot of people in his ear and sometimes it can be a little much. I just kind of observe and help where I can.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaxson Hayes"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Al Horford discusses the team's support for Jaxson Hayes and the challenge of managing advice during a long season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Al Horford",
+      "timestamp": "03:32",
+      "summary_phrase": "Al Horford on the challenge of playing without Stephen Curry",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "the understanding that we don't have the luxury of what that best player brings",
+      "quote": "I think it's the understanding that we don't have the luxury of what that best player brings and with Steph, so much attention, everything that he draws just opens up things for us and I think that now we have to work much harder to create those advantages and to be able to whether it's generate pressure on the rim or taking the open shots or taking advantage of those opportunities, so I think that consistently we have to find ways to be very efficient and there can be a lot of room for mistakes, turnovers, things like that.",
+      "text_blocks": [],
+      "start_seconds": 212,
+      "end_seconds": 250,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Al Horford on playing without Steph Curry: We don't have the luxury of what he brings. We have to work much harder to create advantages and be very efficient because there is not much room for mistakes.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "BOS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Al Horford reflects on the difficulty of playing without Stephen Curry and the need for increased offensive efficiency.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Al Horford",
+      "timestamp": "06:14",
+      "summary_phrase": "Al Horford on the growth and confidence of Charles Bassey",
+      "names_mentioned": [
+        "Charles Bassey"
+      ],
+      "excerpt": "the biggest thing for Bassey, it has to do with his confidence",
+      "quote": "I think that the biggest thing for Bassey, it has to do with his confidence. I think that he, as he's getting more comfortable here and understanding what we expect and need from him, it just seems that he continues to grow in his role. He's getting more confident on the offensive end on when he needs to finish what he needs to do and then defensively he's starting to anchor that defense and block shots and be a presence and be there, so I just think it's the time and then he's a much more confident player than when we got him at the end of last season.",
+      "text_blocks": [],
+      "start_seconds": 374,
+      "end_seconds": 416,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Al Horford says Charles Bassey is growing into his role, noting that the big man is playing with more confidence on offense and starting to anchor the defense as a rim protector.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Charles Bassey"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Al Horford discusses the growth and increased confidence of Charles Bassey in his role.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Al Horford",
+      "timestamp": "07:02",
+      "summary_phrase": "Al Horford on the team's discipline with setting screens",
+      "names_mentioned": [],
+      "excerpt": "it's a two-man game when it comes to a screen",
+      "quote": "It's always a fine line with that stuff. For us, it's making sure that we just have to be disciplined and also making sure that it's like a two-man game when it comes to a screen, so the person that's receiving the screen, he has to be patient and then the one that's setting the screen, we want to make sure that we get ourselves the right angle but also that we're not necessarily moving and things like that, so it works with both things, it's an emphasis the league has been doing and we just have to adjust to it and make sure that we set our man up and then that we also are able to set good legal screens.",
+      "text_blocks": [],
+      "start_seconds": 422,
+      "end_seconds": 469,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Al Horford says the team is working on being more disciplined with their screens to avoid moving violations, emphasizing that it is a two-man game that requires patience and better angles.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Al Horford addresses the team's need for discipline when setting screens to avoid league penalties.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "Yk7vJLrjZ1A",
+  "url": "https://www.youtube.com/watch?v=Yk7vJLrjZ1A",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-24T01:44:46Z",
+  "duration_seconds": 501,
+  "processed_at": "2026-11-24T02:31:11Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

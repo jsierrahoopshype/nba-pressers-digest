@@ -3316,5 +3316,70 @@
    "slot_date": "2026-11-19"
   }
  },
- "pending": {}
+ "pending": {
+  "0dCnatHCJbI": {
+   "channel": "Golden State Warriors",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T02:31:18Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-24",
+   "speaker": "Steve Kerr",
+   "title": "Steve Kerr, Warriors analyze bounce-back win after road skid | NBC Sports Bay Area",
+   "top_quote": "He's automatically going to go to the best perimeter player. When he's at the five, he's often guarding the center, so this allows us to put him on somebody like Jason Tatum.",
+   "video_id": "0dCnatHCJbI"
+  },
+  "Yk7vJLrjZ1A": {
+   "channel": "Golden State Warriors",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T02:31:18Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-24",
+   "speaker": "Al Horford",
+   "title": "Al Horford details what sparked Warriors’ turnaround vs. Celtics | NBC Sports BA",
+   "top_quote": "I think the urgency was there, you know, I think that's where it starts, losing five in a row, just very difficult and being back home and just being able to refocus and I think it started with that urgency, how hard we were playing on the defensive end and how locked in we were into the game plan, that's what gave us the best opportunity and now we have to make sure that we validated and come out on Wednesday and keep that same type of intensity.",
+   "video_id": "Yk7vJLrjZ1A"
+  },
+  "icElUOR1ryA": {
+   "channel": "San Antonio Spurs",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T02:31:18Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-24",
+   "speaker": "Mitch Johnson",
+   "title": "Mitch Johnson on Spurs Rookies Ja'Kobi Gillespie and Maliq Brown Joining the Team in Sacramento",
+   "top_quote": "I think Victor Wembanyama is just a little bit more general. De'Aaron Fox, I believe, happened on the play last game where he was running through the lane and from my perspective, it looked like he got tripped. Again, that's my point of view, so it's an opinion, but yeah, wasn't a huge fan of seeing that play after it happened on tape and pretty unfortunate now he has to miss a game because of it.",
+   "video_id": "icElUOR1ryA"
+  },
+  "m3cwC19-AoA": {
+   "channel": "Golden State Warriors",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T02:31:18Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-24",
+   "speaker": "Gui Santos",
+   "title": "Gui Santos explains Warriors’ trust in rookie Yaxel Lendeborg | NBC Sports BA",
+   "top_quote": "It feels good, especially after a win. The way that we played yesterday, the whole team was playing connected. We were talking a lot about that on, all right, if you're not going to score 120 points, so if we're going to score 88 points, we got to make them score 87 or less. But talking about me, my body is going in a better direction right now. I'm feeling slowly I'm building up and going back to how it was last year, body-wise, and that's a big part of my confidence going up again, a big part of what I do to help the team, being offensive rebounds, be fighting for every possession, and I think going forward now, I will still take care of my body and bring that to the team every night.",
+   "video_id": "m3cwC19-AoA"
+  }
+ }
 }
