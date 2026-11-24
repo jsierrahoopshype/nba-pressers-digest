@@ -1,0 +1,317 @@
+{
+  "video_title": "Jamal Shead | Post Game at Milwaukee Bucks | November 23, 2026",
+  "speakers_seen": [
+    "Jamal Shead"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:08",
+      "summary_phrase": "Jamal Shead on the Raptors' loss to the Milwaukee Bucks",
+      "names_mentioned": [],
+      "excerpt": "I think it's a big shout out to the Bucks, they played good basketball.",
+      "quote": "I think it's a big shout out to the Bucks, they played good basketball. I can't take nothing away from them. I think we could have done a lot of things better tonight, but we got to move on. We got to be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the Raptors loss to the Bucks: I think we could have done a lot of things better tonight, but we got to move on.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jamal Shead discusses the Raptors' performance following their loss to the Milwaukee Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:26",
+      "summary_phrase": "Jamal Shead on the team's struggles to maintain consistency",
+      "names_mentioned": [],
+      "excerpt": "I think we started off the season winning games like this by 20 or more.",
+      "quote": "No, I don't think it's a common theme. I think we started off the season winning games like this by 20 or more. We have it in us and I can't give you an answer for tonight, but we just have to be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 26,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Shead says the Raptors recent struggles are not a common theme: We started off the season winning games like this by 20 or more. We have it in us.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead addresses whether the team's inconsistent play has become a recurring theme this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamal Shead",
+      "timestamp": "00:51",
+      "summary_phrase": "Jamal Shead on the pressure to win games early in the season",
+      "names_mentioned": [],
+      "excerpt": "I think the pressure's been on since the season started, so I think we just got to find a way to win games.",
+      "quote": "I mean, there's always pressure. I mean, we want to win games. This isn't a good showing and I think the pressure's been on since the season started, so I think we just got to find a way to win games. We keep saying the same thing over and over, we have to be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 51,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the pressure facing the Raptors: There is always pressure. We want to win games. This is not a good showing.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead comments on the pressure to win games early in the regular season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamal Shead",
+      "timestamp": "01:16",
+      "summary_phrase": "Jamal Shead on the team's need to approach every game with the same intensity",
+      "names_mentioned": [],
+      "excerpt": "I think we have to grow up in that sense, just being prepared and being ready to approach every game differently.",
+      "quote": "Approach this game the same way we approached Detroit. Approach every game the same way we approached Detroit. I think we have to grow up in that sense, just being prepared and being ready to approach every game differently and not feed off of what we've been doing, whether it's a high or a low. Just be even keel and come into every game ready to play.",
+      "verbatim_original_language": "",
+      "start_seconds": 76,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the Raptors needing more maturity: We have to grow up in that sense, just being prepared and being ready to approach every game differently.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Jamal Shead emphasizes the need for the team to maintain consistent intensity and preparation across every game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamal Shead",
+      "timestamp": "01:42",
+      "summary_phrase": "Jamal Shead on moving past last season's performance",
+      "names_mentioned": [],
+      "excerpt": "I think last year's over. I think all this year, we've kind of referenced last year a lot and we need to stop doing that.",
+      "quote": "I think last year's over. I think all this year, we've kind of referenced last year a lot and we need to stop doing that. I think this year is this whole new puzzle and like I said, we got to figure it out. Like we just have to be better in a lot of assets and a lot of areas, we have to be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 102,
+      "end_seconds": 127,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamal Shead says the Raptors need to stop looking back: I think last year is over. All this year we have kind of referenced last year a lot and we need to stop doing that.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead explains why the team needs to stop referencing last season and focus on the current year.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamal Shead",
+      "timestamp": "02:11",
+      "summary_phrase": "Jamal Shead on helping teammate Gradey Dick improve his performance",
+      "names_mentioned": [
+        "Gradey Dick"
+      ],
+      "excerpt": "I think he just needs to slow himself down. I think we all saw what he was capable of last year.",
+      "quote": "I think he just needs to slow himself down. I think we all saw what he was capable of last year, but like I said, it's a new year. He just has to find different ways to impact the game. He's on the scouting report now. You know, I think people prepare for him, people look to him as a big part of our team because he is, and he just has to figure out ways to impact the game and kind of help us push us over that hump.",
+      "verbatim_original_language": "",
+      "start_seconds": 131,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Jamal Shead on Gradey Dick adjusting to being on scouting reports: He is on the scouting report now. People prepare for him, people look to him as a big part of our team because he is.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead discusses how Gradey Dick can adjust his game now that opposing teams are scouting him more closely.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamal Shead",
+      "timestamp": "02:41",
+      "summary_phrase": "Jamal Shead on the team's need to work on free throw shooting",
+      "names_mentioned": [],
+      "excerpt": "Just be better. Go work on it. We're we're professionals. Got to be better.",
+      "quote": "Just be better. Go work on it. We're we're professionals. Got to be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 161,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the Raptors free throw struggles: Just be better. Go work on it. We are professionals. Got to be better.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead briefly addresses the team's need to improve their free throw shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamal Shead",
+      "timestamp": "02:54",
+      "summary_phrase": "Jamal Shead on the importance of maintaining consistent preparation",
+      "names_mentioned": [],
+      "excerpt": "It shouldn't be different, no matter who we play. That's what I mean by prepared.",
+      "quote": "It shouldn't be different, no matter who we play. That's what I mean by prepared. Just show a little bit of maturity and understand that every game is different, but we have to come out and be ready to play the same way every single night.",
+      "verbatim_original_language": "",
+      "start_seconds": 174,
+      "end_seconds": 192,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the need for consistency: It should not be different, no matter who we play. Just show a little bit of maturity and understand that every game is different.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead stresses the importance of professional maturity and consistent preparation regardless of the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamal Shead",
+      "timestamp": "03:28",
+      "summary_phrase": "Jamal Shead on the team's goal for the upcoming game",
+      "names_mentioned": [],
+      "excerpt": "Flush this game as best as we can and go get a win on Friday.",
+      "quote": "Flush this game as best as we can and go get a win on Friday. I mean, it's a wins and losses league. We got to start winning. That's just that's just what it is.",
+      "verbatim_original_language": "",
+      "start_seconds": 208,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamal Shead on the Raptors mindset: Flush this game as best as we can and go get a win on Friday. It is a wins and losses league. We have to start winning.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jamal Shead discusses the team's mindset heading into their next game on Friday.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamal Shead",
+      "timestamp": "03:48",
+      "summary_phrase": "Jamal Shead on the difference between starting and coming off the bench",
+      "names_mentioned": [
+        "Scotty Barnes",
+        "Quickley"
+      ],
+      "excerpt": "Scotty was amazing tonight. You know, I think that kind of opened up a lot of our games.",
+      "quote": "I wouldn't say challenges. I mean, you just certain guys, there's a pecking order. I mean, Scotty was amazing tonight. You know, I think that kind of opened up a lot of our games. We missed a lot of open shots because they were doubling him. I think if we make those shots, it's a different game. So, just playing off of different players and understanding your role when certain guys are back. So it's not just it's nothing different, it's just understanding how to play with certain guys, like playing the game with Scotty and playing the game with Quickley and just having those guys out there and knowing your role with those guys.",
+      "verbatim_original_language": "",
+      "start_seconds": 228,
+      "end_seconds": 261,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamal Shead on playing alongside Scottie Barnes: Scottie was amazing tonight. We missed a lot of open shots because they were doubling him. If we make those shots, it is a different game.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes",
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamal Shead discusses the adjustments required when playing alongside teammates like Scottie Barnes and Immanuel Quickley.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "TWPG4-ZQnzw",
+  "url": "https://www.youtube.com/watch?v=TWPG4-ZQnzw",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-24T03:52:17Z",
+  "duration_seconds": 261,
+  "processed_at": "2026-11-24T04:14:24Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

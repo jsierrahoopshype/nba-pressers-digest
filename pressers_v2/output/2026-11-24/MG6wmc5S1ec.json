@@ -1,0 +1,201 @@
+{
+  "video_title": "Ayo Dosunmu Postgame Interview With Alan Horton | 11.23.26",
+  "speakers_seen": [
+    "Alan Horton",
+    "Ayo Dosunmu"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:16",
+      "summary_phrase": "Ayo Dosunmu on the Timberwolves' offensive aggression and team depth",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "We have a bunch of different weapons, a bunch of different guys that can make plays.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "The defensive effort wasn't quite there, but it didn't need to be tonight because your offense was really flowing. What was the key to the offense tonight and guys just knocking down shots all over?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Just being aggressive. I think that's the main thing. We have a bunch of different weapons, a bunch of different guys that can make plays, so we were able to do that. Jaden McDaniels was able to get to his spots. He led us tonight in scoring, and it was fascinating to watch."
+        }
+      ],
+      "start_seconds": 16,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the Timberwolves offensive rhythm tonight: We have a bunch of different weapons and a bunch of different guys that can make plays. Just being aggressive is the main thing.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu discusses the team's offensive performance and Jaden McDaniels' contribution to the win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Alan Horton",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:37",
+      "summary_phrase": "Ayo Dosunmu on Jaden McDaniels' career-high performance and efficiency",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "He's playing aggressive, he's playing efficient. He's seeing the ball go in.",
+      "text_blocks": [
+        {
+          "speaker": "Alan Horton",
+          "text": "A career high for Jaden McDaniels, 34 points, 10 rebounds, 6 assists, 12 of 16 shooting. Is this a glimpse of what Jaden is? He's just gotten better and better every year he's been in the league. You joined him last season, but the world's at his fingertips, right?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "For sure. He's playing aggressive, he's playing efficient. He's seeing the ball go in, he knows he's getting his shots set throughout the offense, and he's an efficient basketball player. I always admire anybody who's efficient, anybody who can get their game off without taking a bunch of shots. So when his volume goes up, he's able to showcase what he did tonight."
+        }
+      ],
+      "start_seconds": 37,
+      "end_seconds": 80,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Ayo Dosunmu on Jaden McDaniels career night: I always admire anybody who is efficient, anybody who can get their game off without taking a bunch of shots. So when his volume goes up, he is able to showcase what he did tonight.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu praises Jaden McDaniels' efficiency and growth following his career-high performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "01:13",
+      "summary_phrase": "Ayo Dosunmu on the importance of team ball movement",
+      "names_mentioned": [],
+      "excerpt": "That was very important. That was something that we've been watching, something that we've been trying to continue.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How do you feel about 35 assists as a team tonight moving the basketball?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "That was very important. That was something that we've been watching, something that we've been trying to continue to get better at, and we showcased it tonight. We finished the road trip off at 6-2, so that's encouraging, and we got to just keep going and get ready for OKC."
+        }
+      ],
+      "start_seconds": 73,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the team recording 35 assists: That was very important. That was something that we have been watching, something that we have been trying to continue to get better at, and we showcased it tonight.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu reflects on the team's ball movement and the conclusion of their road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Alan Horton",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "01:31",
+      "summary_phrase": "Ayo Dosunmu on facing former teammate Julius Randle",
+      "names_mentioned": [
+        "Julius Randle"
+      ],
+      "excerpt": "Anytime you have someone come back to the team, you always show love and wish them the best.",
+      "text_blocks": [
+        {
+          "speaker": "Alan Horton",
+          "text": "How was it going against Julius Randle? You played with him obviously last season, not the full time he was here, but for a lot of the guys he was a real great teammate for two years."
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "It was important. We got the win, of course, but shout out to Julius. He battled last year with me and when I wasn't here, he had some great playoff performances here. Anytime you have someone come back to the team, you always show love and wish them the best and hope he continues to stay healthy and keep balling."
+        }
+      ],
+      "start_seconds": 91,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Ayo Dosunmu on facing former teammate Julius Randle: Anytime you have someone come back to the team, you always show love and wish them the best and hope he continues to stay healthy and keep balling.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Julius Randle"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu shares his thoughts on playing against his former teammate Julius Randle.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "MG6wmc5S1ec",
+  "url": "https://www.youtube.com/watch?v=MG6wmc5S1ec",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-24T03:30:21Z",
+  "duration_seconds": 141,
+  "processed_at": "2026-11-24T04:15:16Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

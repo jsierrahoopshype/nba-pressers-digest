@@ -1,0 +1,209 @@
+{
+  "video_title": "Darko Rajakovic | Post Game at Milwaukee Bucks | November 23, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:10",
+      "summary_phrase": "Darko Rajakovic on Toronto's offensive struggles and transition scoring",
+      "names_mentioned": [],
+      "excerpt": "We were getting 13 points in transition in the first half and second half we slowed down.",
+      "quote": "We were getting 13 points in transition in the first half and second half we slowed down there. I thought in the first half I believe we had 11 turnovers. We scored a lot running in transition and in the second half we had only six to that. So that's part of the problem there and the rebounding piece there. They were aggressive, they got seven offensive boards there that stopped us, but also it's really hard to run in transition when they're scoring over and over.",
+      "verbatim_original_language": "",
+      "start_seconds": 10,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic points to the Raptors transition game and rebounding as the primary issues in tonight loss noting it is hard to run when the opponent is scoring over and over",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the Raptors' offensive struggles and lack of transition scoring during the second half of their game against the Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:46",
+      "summary_phrase": "Darko Rajakovic on Tyler Herro's performance and defensive adjustments",
+      "names_mentioned": [
+        "Tyler Herro"
+      ],
+      "excerpt": "In the third quarter Tyler Herro he caught fire. We kept him to only three points.",
+      "quote": "In the third quarter Tyler Herro he caught fire. We kept him to only three points in the first half. He caught fire in the third quarter there and we tried everything. We tried to blitz him, we tried to switch, we tried to hit in different situations. He played outstanding game in the second half.",
+      "verbatim_original_language": "",
+      "start_seconds": 46,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic on trying to contain Tyler Herro after his third quarter surge saying we tried everything including blitzing and switching but he played an outstanding game",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "TOR",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the defensive adjustments the team attempted to make against Tyler Herro during his high-scoring third quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:18",
+      "summary_phrase": "Darko Rajakovic on Milwaukee's talent and Toronto's defensive challenges",
+      "names_mentioned": [
+        "Tyler Herro",
+        "Jakob Poeltl"
+      ],
+      "excerpt": "They're a good team. Tyler Herro just scored 50 points the other night.",
+      "quote": "They're a good team. I think they're a good team. Tyler Herro just scored 50 points the other night. They lost on the last position against Philly. They play their NBA team and they have talent on their team as well. Last game we had Jakob Poeltl who had 20 points and 10 rebounds. I don't expect from a rookie to provide that stat line every single night. So we had a foul problem with Jakob. We had to keep Jakob off the floor in very important moments of the game there.",
+      "verbatim_original_language": "",
+      "start_seconds": 78,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic explains that Jakob Poeltl foul trouble was a major factor tonight adding that he does not expect a rookie to provide a 20 and 10 stat line every single night",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyler Herro",
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR",
+          "MIL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the challenge of defending Tyler Herro and explains why Jakob Poeltl had limited playing time due to foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:50",
+      "summary_phrase": "Darko Rajakovic on team consistency and closing out games",
+      "names_mentioned": [],
+      "excerpt": "We're learning, we're getting better, we're improving, but we're not still consistent.",
+      "quote": "I think this team, the way we're right now, I think we're learning, we're getting better, we're improving, but we're not still consistent. That's what we got to find, that consistency in games and in important moments and how to close games.",
+      "verbatim_original_language": "",
+      "start_seconds": 110,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the current state of the Raptors saying we are learning and improving but we are not still consistent and need to find how to close games",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic reflects on the team's ongoing development and their need to find consistency in closing out games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:15",
+      "summary_phrase": "Darko Rajakovic on Jakob Poeltl's rhythm and recent health issues",
+      "names_mentioned": [
+        "Jakob Poeltl"
+      ],
+      "excerpt": "He played in really good rhythm before this problem with headache that he had.",
+      "quote": "He played in really good rhythm before this problem with headache that he had for a couple of days that got him off the court for a couple of days of not playing and working out. So he was struggling a little bit in the game tonight to find that rhythm and to fight through it. Situations that he usually is converting and finishing in the rim, he missed two dunks tonight that does not happen to him. So that was kind of like leading to a little bit of indecisiveness for him.",
+      "verbatim_original_language": "",
+      "start_seconds": 135,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic notes that Jakob Poeltl was struggling to find his rhythm tonight after dealing with headaches that kept him off the court for a few days",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic explains that Jakob Poeltl struggled during the game because he was recently sidelined by headaches.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:57",
+      "summary_phrase": "Darko Rajakovic on defensive discipline and rebounding needs",
+      "names_mentioned": [],
+      "excerpt": "We need to get more stops and rebound the ball and really dominate on defensive end.",
+      "quote": "First of all, being in those games when game is being played on a couple of positions one way or the other, discipline in moments, understanding who's hot in the moment of the game, where the ball needs to go. There has to be a little bit of feel for the game and then you got to D up. You got to be able to get on the defensive side and defend. Allowing them to score 67 points, it's going to be really hard. The way we're built now, we need to get more stops and rebound the ball and really dominate on defensive end so we can have some leeway on defensive side.",
+      "verbatim_original_language": "",
+      "start_seconds": 177,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic emphasizes the need for defensive discipline saying we need to get more stops and rebound the ball and really dominate on the defensive end",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic emphasizes the need for better defensive discipline and rebounding to remain competitive in close games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "VbX2USeVvU8",
+  "url": "https://www.youtube.com/watch?v=VbX2USeVvU8",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-24T03:36:20Z",
+  "duration_seconds": 249,
+  "processed_at": "2026-11-24T04:14:54Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

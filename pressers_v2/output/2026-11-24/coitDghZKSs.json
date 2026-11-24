@@ -1,0 +1,628 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game at Milwaukee Bucks | November 23, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic",
+    "Ja'Kobe Walter",
+    "Jamal Shead"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:10",
+      "summary_phrase": "Darko Rajakovic on the Raptors' transition offense and rebounding struggles",
+      "names_mentioned": [],
+      "excerpt": "we got 13 points in transition in the first half and second half we slowed down",
+      "quote": "We got 13 points in transition in the first half and second half we slowed down. I thought in the first half I believe we had 11 turnovers. We scored a lot running in transition and in the second half we had only six to that. So that's part of the problem there. And then the rebounding piece there, they were aggressive, they got seven offensive boards there that stopped us, but also it's really hard to run in transition when they're scoring over and over. When you're getting the ball out of the net, it's going to be really hard.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the Raptors transition struggles against Milwaukee: It is really hard to run in transition when they are scoring over and over. When you are getting the ball out of the net it is going to be really hard.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the team's struggles with transition offense and rebounding against the Bucks.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VbX2USeVvU8",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:46",
+      "summary_phrase": "Darko Rajakovic on the team's defensive adjustments against Tyler Herro",
+      "names_mentioned": [
+        "Tyler Herro"
+      ],
+      "excerpt": "Tyler Herro caught fire in the third quarter there and we tried everything we tried to blitz him",
+      "quote": "In the third quarter Tyler Herro caught fire there. We kept him to only three points in the first half. He caught fire in the third quarter there and we tried everything. We tried to blitz him, we tried to switch, we tried to hit in different situations. He played an outstanding game in the second half.",
+      "text_blocks": [],
+      "start_seconds": 46,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic on trying to contain Tyler Herro: We tried everything. We tried to blitz him, we tried to switch, we tried to hit in different situations. He played an outstanding game in the second half.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "TOR",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the defensive adjustments the team attempted to stop Tyler Herro in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VbX2USeVvU8",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:18",
+      "summary_phrase": "Darko Rajakovic on the Bucks' talent and the Raptors' learning process",
+      "names_mentioned": [
+        "Tyler Herro",
+        "Dalen Terry"
+      ],
+      "excerpt": "they are a good team. Tyler Herro just scored 50 points the other night",
+      "quote": "They are a good team. I think they are a good team. Tyler Herro just scored 50 points the other night. They lost on the last possession against Philly. They play like an NBA team and they have talent on their team as well. Last game we had Dalen Terry who had 20 points and 10 rebounds. I don't expect from a rookie to provide that stat line every single night. So we had a foul problem with Jakob. We had to keep Jakob off the floor in very important moments of the game there. I think this team, the way we are right now, I think we're learning, we're getting better, we're improving, but we're not still consistent.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 124,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the Raptors current state: I think this team, the way we are right now, I think we are learning, we are getting better, we are improving, but we are not still consistent.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyler Herro",
+          "Dalen Terry",
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR",
+          "MIL",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic evaluates the Bucks' talent and discusses the team's ongoing learning process and consistency issues.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VbX2USeVvU8",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:15",
+      "summary_phrase": "Darko Rajakovic on Immanuel Quickley's recent rhythm and health issues",
+      "names_mentioned": [
+        "Immanuel Quickley"
+      ],
+      "excerpt": "he played in really good rhythm before this problem with headache that he had for couple of days",
+      "quote": "He played in really good rhythm before this problem with headache that he had for couple of days that got him off the court for a couple of days of not playing and working out. So he was struggling a little bit in the game tonight to find that rhythm and to fight through it. Situations that he usually is converting and finishing in the rim, he missed two dunks tonight that does not happen to him. So that was kind of leading to a little bit of indecisiveness for him.",
+      "text_blocks": [],
+      "start_seconds": 135,
+      "end_seconds": 170,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic says Immanuel Quickley has been dealing with a headache issue that kept him off the court for a few days, which led to some indecisiveness and missed dunks tonight.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic explains that Immanuel Quickley struggled to find his rhythm after missing time due to headaches.",
+        "best": true,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VbX2USeVvU8",
+        "rank": 5
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamal Shead",
+      "timestamp": "04:16",
+      "summary_phrase": "Jamal Shead credits the Bucks for their strong performance",
+      "names_mentioned": [],
+      "excerpt": "I think it's a big shout out to the Bucks, they played good basketball",
+      "quote": "I think it's a big shout out to the Bucks, they played good basketball. I can't take nothing away from them. I think we could have done a lot of things better tonight, but we got to move on. We got to be better.",
+      "text_blocks": [],
+      "start_seconds": 256,
+      "end_seconds": 273,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the loss to the Bucks: I think it is a big shout out to the Bucks, they played good basketball. I can not take nothing away from them. I think we could have done a lot of things better tonight.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley gives credit to the Bucks for their performance following the Raptors' loss.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "TWPG4-ZQnzw",
+        "rank": 1
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamal Shead",
+      "timestamp": "04:32",
+      "summary_phrase": "Jamal Shead on the team's need to improve consistency",
+      "names_mentioned": [],
+      "excerpt": "we started off the season winning games like this by 20 or more. We have it in us",
+      "quote": "No, I don't think it's a common theme. I think we started off the season winning games like this by 20 or more. We have it in us and I can't give you an answer for tonight, but we just have to be better.",
+      "text_blocks": [],
+      "start_seconds": 272,
+      "end_seconds": 289,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the Raptors inconsistency: We started off the season winning games like this by 20 or more. We have it in us and I can not give you an answer for tonight, but we just have to be better.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley addresses the team's lack of consistency in their recent performances.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "TWPG4-ZQnzw",
+        "rank": 2
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamal Shead",
+      "timestamp": "05:22",
+      "summary_phrase": "Jamal Shead on approaching every game with the same mindset",
+      "names_mentioned": [],
+      "excerpt": "approach this game the same way we approach Detroit. Approach every game the same way we approach Detroit",
+      "quote": "Approach this game the same way we approach Detroit. Approach every game the same way we approach Detroit. I think we have to grow up in that sense, just being prepared and being ready to approach every game differently and not feed off of what we've been doing, whether it's a high or a low. Just be even keel and come into every game ready to play.",
+      "text_blocks": [],
+      "start_seconds": 322,
+      "end_seconds": 348,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the team's mindset: We have to grow up in that sense, just being prepared and being ready to approach every game differently and not feed off of what we have been doing. Just be even keel.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley emphasizes the need for the team to maintain a consistent mindset regardless of the opponent.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "TWPG4-ZQnzw",
+        "rank": 4
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamal Shead",
+      "timestamp": "05:49",
+      "summary_phrase": "Jamal Shead on moving past last season's results",
+      "names_mentioned": [],
+      "excerpt": "last year is over. I think all this year we've kind of referenced last year a lot",
+      "quote": "Last year is over. I think all this year we've kind of referenced last year a lot and we need to stop doing that. I think this year is a whole new puzzle and like I said we got to figure it out. We just have to be better in a lot of assets and a lot of areas we have to be better.",
+      "text_blocks": [],
+      "start_seconds": 349,
+      "end_seconds": 374,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley says the Raptors need to stop looking back: Last year is over. I think all this year we have kind of referenced last year a lot and we need to stop doing that. This year is a whole new puzzle.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley states that the team needs to stop referencing last season and focus on the current year.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "TWPG4-ZQnzw",
+        "rank": 5
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamal Shead",
+      "timestamp": "06:17",
+      "summary_phrase": "Jamal Shead on helping Jamal Shead find his rhythm",
+      "names_mentioned": [
+        "Immanuel Quickley"
+      ],
+      "excerpt": "I think he just needs to slow himself down. I think we all saw what he was capable of",
+      "quote": "I think he just needs to slow himself down. I think we all saw what he was capable of last year, but like I said it's a new year. He just has to find different ways to impact the game. He's on the scouting report now. People prepare for him, people look to him as a big part of our team because he is and he just has to figure out ways to impact the game and kind of help us push us over that hump.",
+      "text_blocks": [],
+      "start_seconds": 377,
+      "end_seconds": 410,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on the defensive attention he is receiving: He is on the scouting report now. People prepare for him, people look to him as a big part of our team because he is.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses the need for himself to adjust to being a focal point on scouting reports.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "TWPG4-ZQnzw",
+        "rank": 6
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 10,
+      "speaker": "Jamal Shead",
+      "timestamp": "07:01",
+      "summary_phrase": "Jamal Shead on the importance of being prepared for every game",
+      "names_mentioned": [],
+      "excerpt": "you see the focus we kind of had when we were playing the Pistons. It shouldn't be different",
+      "quote": "You see the focus we kind of had when we were playing the Pistons. It shouldn't be different no matter who we play. That's what I mean by prepared. Show a little bit of maturity and understand that every game is different, but we have to come out and be ready to play the same way every single night.",
+      "text_blocks": [],
+      "start_seconds": 421,
+      "end_seconds": 444,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the need for maturity: You see the focus we had when we were playing the Pistons. It should not be different no matter who we play. Show a little bit of maturity and understand that every game is different.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley reiterates the importance of maturity and preparation for every game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "TWPG4-ZQnzw",
+        "rank": 8
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 11,
+      "speaker": "Jamal Shead",
+      "timestamp": "07:35",
+      "summary_phrase": "Jamal Shead on the need to start winning games",
+      "names_mentioned": [],
+      "excerpt": "it's a wins and losses league. We got to start winning. That's just what it is",
+      "quote": "Flush this game as best as we can and go get a win on Friday. It's a wins and losses league. We got to start winning. That's just what it is.",
+      "text_blocks": [],
+      "start_seconds": 455,
+      "end_seconds": 467,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on the Raptors' urgency: Flush this game as best as we can and go get a win on Friday. It is a wins and losses league. We got to start winning. That is just what it is.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley stresses the urgency for the team to start winning games.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "TWPG4-ZQnzw",
+        "rank": 9
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 12,
+      "speaker": "Jamal Shead",
+      "timestamp": "07:54",
+      "summary_phrase": "Jamal Shead on the impact of Scotty Barnes' performance",
+      "names_mentioned": [
+        "Scotty Barnes"
+      ],
+      "excerpt": "Scotty was amazing tonight. You know I think that kind of opened up a lot of our games",
+      "quote": "Scotty was amazing tonight. You know I think that kind of opened up a lot of our games. We missed a lot of open shots because they were doubling him. I think if we make those shots it's a different game. So just playing off of different players and understanding your role when certain guys are back.",
+      "text_blocks": [],
+      "start_seconds": 474,
+      "end_seconds": 496,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on Scottie Barnes: Scottie was amazing tonight. I think that kind of opened up a lot of our games. We missed a lot of open shots because they were doubling him.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley praises Scottie Barnes' performance and how it created opportunities for teammates.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "TWPG4-ZQnzw",
+        "rank": 10
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 13,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "08:36",
+      "summary_phrase": "Ja'Kobe Walter on Tyler Herro's performance and the team's defensive lapses",
+      "names_mentioned": [
+        "Tyler Herro"
+      ],
+      "excerpt": "when a good player gains confidence you know it's hard to stop him",
+      "quote": "You see the first half, you know we held him to three points. So you know we're capable. We definitely let him get comfortable. We let him get to what he does and when a good player gains confidence you know it's hard to stop him.",
+      "text_blocks": [],
+      "start_seconds": 516,
+      "end_seconds": 534,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on Tyler Herro: We definitely let him get comfortable. We let him get to what he does and when a good player gains confidence you know it is hard to stop him.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "TOR",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley reflects on the team's defensive lapses against Tyler Herro in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "lRB80F6I3Zc",
+        "rank": 1
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 14,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "09:01",
+      "summary_phrase": "Ja'Kobe Walter on the team's mindset and the competitive nature of the NBA",
+      "names_mentioned": [],
+      "excerpt": "it's the NBA everybody's here for a reason",
+      "quote": "There's no secret what their record is, so of course it's something we know. But at the end of the day we got to approach every game with the same mentality because it's the NBA everybody's here for a reason.",
+      "text_blocks": [],
+      "start_seconds": 541,
+      "end_seconds": 556,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the competitive nature of the NBA: There is no secret what their record is, so of course it is something we know. But at the end of the day we got to approach every game with the same mentality.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses the competitive nature of the NBA and the need for a consistent mentality.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "lRB80F6I3Zc",
+        "rank": 2
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 15,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "09:17",
+      "summary_phrase": "Ja'Kobe Walter on the Bucks' shot-making ability",
+      "names_mentioned": [],
+      "excerpt": "at the end of the day they had a good game. They was hitting shots",
+      "quote": "At the end of the day they had a good game. They was hitting shots. We was hitting we was missing a lot of shots today. Like I said during the NBA, so any any team can be any team at any point, but it's definitely a game that we didn't want to lose.",
+      "text_blocks": [],
+      "start_seconds": 557,
+      "end_seconds": 578,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the loss: Any team can beat any team at any point, but it is definitely a game that we did not want to lose.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley comments on the Bucks' shot-making ability and the team's disappointment in the loss.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "lRB80F6I3Zc",
+        "rank": 3
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 16,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "09:50",
+      "summary_phrase": "Ja'Kobe Walter on the defensive disconnect against Tyler Herro",
+      "names_mentioned": [
+        "Tyler Herro"
+      ],
+      "excerpt": "I think just the initial on-ball defense letting him get into the paint and play make",
+      "quote": "I think just the initial on-ball defense letting him get into the paint and play make decisions from there.",
+      "text_blocks": [],
+      "start_seconds": 590,
+      "end_seconds": 597,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the defensive breakdown: I think just the initial on-ball defense letting him get into the paint and play make decisions from there.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "TOR",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley identifies the failure of initial on-ball defense as a reason for Tyler Herro's success.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "lRB80F6I3Zc",
+        "rank": 4
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 17,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "10:09",
+      "summary_phrase": "Ja'Kobe Walter on defensive positioning against Tyler Herro",
+      "names_mentioned": [
+        "Tyler Herro"
+      ],
+      "excerpt": "just staying in front of the ball, not letting him get to the hip",
+      "quote": "For me personally, just staying in front of the ball, not letting him get to the hip. Basically, I mean first half I feel like we was keeping them out the paint, second half he was getting to the paint.",
+      "text_blocks": [],
+      "start_seconds": 609,
+      "end_seconds": 624,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on his own defensive assignment: For me personally, just staying in front of the ball, not letting him get to the hip.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "TOR",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley explains his personal defensive approach to containing Tyler Herro.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "lRB80F6I3Zc",
+        "rank": 5
+      },
+      "speaker_source": "single-speaker video"
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "coitDghZKSs",
+  "url": "https://www.youtube.com/watch?v=coitDghZKSs",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-24T04:05:10Z",
+  "duration_seconds": 632,
+  "processed_at": "2026-11-24T04:14:43Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

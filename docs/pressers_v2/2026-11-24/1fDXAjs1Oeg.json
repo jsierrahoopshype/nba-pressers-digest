@@ -1,0 +1,180 @@
+{
+  "video_title": "Jordi Fernández Postgame Press Conference vs. Minnesota Timberwolves",
+  "speakers_seen": [
+    "Jordi Fernández"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordi Fernández",
+      "timestamp": "00:11",
+      "summary_phrase": "Jordi Fernández on defensive lapses and team physicality",
+      "names_mentioned": [],
+      "excerpt": "I think that we had hands down from the beginning of the game. That's happened already too many times.",
+      "quote": "I think that I cannot answer accurate, but I can say that a lot of things we could have done better, starting with our physicality, ball pressure, contesting shots. I thought that we had hands down from the beginning of the game. That's happened already too many times where we allow teams that you know are the best players in the world, that if you allow one to go in and then everybody gets loose and makes shots, then it's a long night. We allowed 41 to start. We kept fighting, we did good things at times. Obviously we cut it to three, even though at the end right there cut it and keep fighting, but we got to be better. You see our percentage offensively, 53 from the field, 50 from three against the best defense in the NBA, but you give them 21 turnovers for 31 points, so your offense doesn't mean much.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 71,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez on the Nets loss to Minnesota: We shot 53 percent from the field and 50 percent from three against the best defense in the NBA, but you give them 21 turnovers for 31 points, so your offense does not mean much.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BKN",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez discusses his team's defensive struggles and turnovers following their loss to the Minnesota Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordi Fernández",
+      "timestamp": "01:16",
+      "summary_phrase": "Jordi Fernández evaluates Mike Miles Jr.'s debut performance",
+      "names_mentioned": [
+        "Mike Miles Jr."
+      ],
+      "excerpt": "Good juice to start. Obviously this physicality is something that he needs to get used to.",
+      "quote": "Good juice to start. Obviously this physicality is something that he needs to get used to and I think those were it's not just about learning, it's about helping the team compete. He did good things I have to watch film, but his intentions were good so I I think that I stay with that and then all the other mistakes, we got to keep pushing him to be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 76,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez on Mike Miles Jr. debut: He brought good juice to start. The physicality is something he needs to get used to, but his intentions were good and we have to keep pushing him to be better.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mike Miles Jr."
+        ],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez evaluates the debut performance of Mike Miles Jr. after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordi Fernández",
+      "timestamp": "02:10",
+      "summary_phrase": "Jordi Fernández on Yegor Demin's playmaking and versatility",
+      "names_mentioned": [
+        "Yegor Demin"
+      ],
+      "excerpt": "He is a basketball player and I think that he can playmake and he can also play off the ball.",
+      "quote": "He is a basketball player and I think that he can playmake and he can also play off the ball. I think his superpower is shooting and gravity and I think he does a good job with that and he can help the team to set up and playmake and I think that right there is what I can tell you.",
+      "verbatim_original_language": "",
+      "start_seconds": 130,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordi Fernandez on Yegor Demin: He is a basketball player who can playmake and play off the ball. I think his superpower is shooting and gravity.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Yegor Demin"
+        ],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez describes the playmaking abilities and shooting skills of Yegor Demin.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordi Fernández",
+      "timestamp": "03:09",
+      "summary_phrase": "Jordi Fernández on expectations for Yegor Demin's development",
+      "names_mentioned": [
+        "Yegor Demin"
+      ],
+      "excerpt": "I think he can do better with this ball pressure and physicality, that's for sure, communication.",
+      "quote": "I think he can do better with this ball pressure and physicality, that's for sure, communication. I think the whole team too contesting shots like I said. And then he's got to keep taking good shots because as we all know, he's a great player and every time he shoots the three, I think it's going in. So I know that right now we're looking at 16 games played, still small sample size, so I'm not going to judge my players for shots going in. I'm going to judge him if the shots are good shots or bad shots. I can judge him obviously in the locker room or inside closed doors if his effort is good, if his physicality is good, it's communication is good and we keep, you know, working and getting better. That's for sure we can do.",
+      "verbatim_original_language": "",
+      "start_seconds": 189,
+      "end_seconds": 243,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez on Yegor Demin: I am not going to judge my players for shots going in. I am going to judge him if the shots are good shots or bad shots.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Yegor Demin"
+        ],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez discusses areas for development regarding Yegor Demin's physicality and shot selection.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordi Fernández",
+      "timestamp": "04:15",
+      "summary_phrase": "Jordi Fernández on Mike Miles Jr.'s need for aggression",
+      "names_mentioned": [
+        "Mike Miles Jr."
+      ],
+      "excerpt": "We need him to be aggressive to get his spots, to run, to move, to be hard to guard.",
+      "quote": "Like you said, it comes with like the purpose and that being aggressive. I think Mike does a great job taking care of his body and how strong he is and we need him to be aggressive to get his spots, to run, to move, to be hard to guard, to cut to the rim and I think he can do that. Tonight was not the night and then I expect him to be great in Milwaukee. So again, he faced pretty good defense, but I still think that he could have been better and I know he will.",
+      "verbatim_original_language": "",
+      "start_seconds": 255,
+      "end_seconds": 288,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez on Mike Miles Jr.: We need him to be aggressive to get his spots, to run, to move, to be hard to guard, to cut to the rim. Tonight was not the night and I expect him to be great in Milwaukee.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mike Miles Jr."
+        ],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez explains his expectations for Mike Miles Jr. to play with more aggression in future games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "1fDXAjs1Oeg",
+  "url": "https://www.youtube.com/watch?v=1fDXAjs1Oeg",
+  "channel_team": "Brooklyn Nets",
+  "published": "2026-11-24T03:30:31Z",
+  "duration_seconds": 288,
+  "processed_at": "2026-11-24T04:14:58Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

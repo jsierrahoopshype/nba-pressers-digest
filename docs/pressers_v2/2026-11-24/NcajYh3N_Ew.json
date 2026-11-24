@@ -1,0 +1,366 @@
+{
+  "video_title": "“Proud Of These Guys For Taking Care Of Home Court.” | Chris Finch Postgame Sound | 11.23.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:06",
+      "summary_phrase": "Jaden McDaniels' defensive impact against Michael Porter Jr.",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Michael Porter Jr."
+      ],
+      "excerpt": "did an outstanding job never let Michael Porter Jr. get even get into the game",
+      "quote": "He was great both ends. I think career high on the offensive end, but did an outstanding job never let Michael Porter Jr. get even get into the game. I think he had maybe two shots or something at halftime. So it was a complete game. You know, he rebounded, he assisted, obviously shot went down, he was really in the flow, it was easy for him to get to his spot, and he played outstanding.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch praised Jaden McDaniels for a complete performance against the Nuggets, noting he held Michael Porter Jr. to almost nothing while putting up a career high on the other end.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels",
+          "Michael Porter Jr."
+        ],
+        "teams": [
+          "MIN",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Chris Finch praises Jaden McDaniels for his offensive performance and defensive effort against Michael Porter Jr. during a postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:34",
+      "summary_phrase": "Reflecting on the Timberwolves' six-and-two homestand",
+      "names_mentioned": [],
+      "excerpt": "six-and-two at home, it's harder than you would think to play eight games at home",
+      "quote": "Six-and-two at home, it's harder than you would think to play eight games at home. It's a long time to be at home, it's outside the rhythm of the game for us, but guys did a really good job of staying focused. The maturity to play with the lead, the maturity to play when you're on a winning streak, the maturity to keep doing things the same way is there, for the most part it's there. So, real proud of this and now we go out on the road for a little bit, but we need these games to put them in the bank.",
+      "verbatim_original_language": "",
+      "start_seconds": 34,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch on the Timberwolves finishing their eight-game homestand at 6-2: It is harder than you would think to play that many games at home, but the guys did a great job staying focused.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch reflects on the team's performance during their eight-game homestand and their upcoming road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:30",
+      "summary_phrase": "LaMelo Ball's role in the Timberwolves' ball movement",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "LaMelo Ball did a great job setting the table early just moving the ball quickly",
+      "quote": "I thought LaMelo Ball did a great job setting the table early just moving the ball quickly. You know, looking at his assist total, it wasn't high, but he was the guy who really unlocked a lot of good plays and we made a lot of pass-pass combinations, something that we preach. A team that switches that much, it's not going to be heavy pick-and-roll, it's going to be a lot of movement, ball movement, player movement, and guys really made a good job of passing away from the action like we talked about.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch credited LaMelo Ball for unlocking the offense through quick ball movement, even if the assist numbers did not jump off the page.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses how LaMelo Ball facilitated ball movement and team play during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "02:24",
+      "summary_phrase": "The team's strong start and chemistry development",
+      "names_mentioned": [
+        "Anthony Edwards"
+      ],
+      "excerpt": "the connection was there, the competition was there, the camaraderie off the floor was there",
+      "quote": "The connection was there, the competition was there, the camaraderie off the floor was there. Then when we got to play the first couple games of the season before Anthony Edwards got hurt, we had proof of concept. I think we put belief in ourselves, and obviously we've adjusted pretty well since Anthony Edwards has been out. Guys have kind of found new roles, we're getting great play off the bench, and this team had a little bit of a swagger in the preseason and we've been able to carry it forward, but long way to go.",
+      "verbatim_original_language": "",
+      "start_seconds": 144,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Chris Finch says the Timberwolves have found a new swagger and proof of concept while adjusting to life without Anthony Edwards: This team has found new roles and we have been able to carry it forward.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Anthony Edwards"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the team's chemistry and adjustments made while Anthony Edwards has been sidelined with an injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "03:20",
+      "summary_phrase": "Jaden McDaniels' growth as an All-Star level player",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "he's playing at an All-Star level right now, it really is, this to me is kind of undeniable",
+      "quote": "He's playing at an All-Star level right now, it really is, this to me is kind of undeniable what he's doing out there. He's doing it against better defenders because Anthony Edwards is not out there and they would take one, put on him, and probably one put on LaMelo Ball, so they're really putting a lot of attention on Jaden McDaniels now.",
+      "verbatim_original_language": "",
+      "start_seconds": 200,
+      "end_seconds": 224,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Chris Finch says Jaden McDaniels is playing at an All-Star level right now: It is undeniable what he is doing out there, especially with the extra attention he is drawing from opposing defenses.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels",
+          "Anthony Edwards",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains how Jaden McDaniels has elevated his play to an All-Star level while facing increased defensive attention.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Chris Finch",
+      "timestamp": "04:24",
+      "summary_phrase": "Defensive contributions from the team's centers",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "They did a great job tonight, whether it be disrupting the plays of the Nets, being pretty big at the rim.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "To have your two centers both for the second time in franchise history have three-plus steals, both of them finishing with four, how much does that then put a different standard of what you expect from the defense?"
+        },
+        {
+          "speaker": "Chris Finch",
+          "text": "They did a great job tonight, whether it be disrupting the plays of the Nets, being pretty big at the rim. Rudy Gobert in particular I thought was outstanding at the rim. Rudy Gobert was too. They just didn't come down there as much when Rudy Gobert was on the floor, that's kind of normal. We were leaky from the three-point line, I thought we gave up a lot of cheap threes, maybe over-helping other places that we didn't need to, but our bigs were phenomenal."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Chris Finch"
+      ],
+      "reporter_split": true,
+      "start_seconds": 264,
+      "end_seconds": 312,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch on his centers combining for eight steals against the Nets: Rudy Gobert in particular was outstanding at the rim. They just did not come down there as much when he was on the floor.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the defensive impact of his centers and specifically highlights Rudy Gobert's rim protection against the Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Chris Finch",
+      "timestamp": "05:20",
+      "summary_phrase": "Recognizing players for non-statistical contributions",
+      "names_mentioned": [],
+      "excerpt": "Oh yeah, absolutely. I think most coaches would. Those are two-way guys, those are guys you can win with.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Do you believe in sort of recognizing players for those type of awards that are doing things outside of that?"
+        },
+        {
+          "speaker": "Chris Finch",
+          "text": "Oh yeah, absolutely. I think most coaches would. Those are two-way guys, those are guys you can win with."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Chris Finch"
+      ],
+      "reporter_split": true,
+      "start_seconds": 320,
+      "end_seconds": 335,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Chris Finch on valuing players for non-statistical contributions: Those are two-way guys, those are guys you can win with.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch answers a question about whether he believes in recognizing players for contributions that do not show up in traditional box score statistics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Chris Finch",
+      "timestamp": "05:44",
+      "summary_phrase": "Rudy Gobert's role and need for increased minutes",
+      "names_mentioned": [
+        "Rudy Gobert"
+      ],
+      "excerpt": "I've been trying to grow Rudy Gobert's minutes a little bit just to see if we can get him in a rhythm",
+      "quote": "I've been trying to grow Rudy Gobert's minutes a little bit just to see if we can get him in a rhythm, and that's been at the expense of Rudy Gobert is, you know, he's playing about 12 minutes a night, but I know I need to reverse that, get him out there more now. You see what he did tonight, he just kind of shut down the rim, he made a lot of momentum plays. Those blocks are often fast-break starters. When he's active, up and denying, he got a block shot on a three, he got a couple steals in the entry pass to the offense, those are all things that he can do and he's quick and he's still got a ton to learn and ton to recognize, but he was outstanding tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 344,
+      "end_seconds": 396,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch admits he needs to increase Rudy Gobert's minutes: I have been trying to grow his minutes to get him in a rhythm, but I know I need to reverse that and get him out there more now.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses his plan to increase Rudy Gobert's playing time after a strong defensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Chris Finch",
+      "timestamp": "06:40",
+      "summary_phrase": "Building a consistent defensive identity with the bench",
+      "names_mentioned": [],
+      "excerpt": "we thought that was going to be a bonus for us coming into the season",
+      "quote": "We thought that was going to be a bonus for us coming into the season and we could build one defense with those two guys subbing for each other. And if we play Trey or Jaden McDaniels at the five, then it's probably a switching lineup, but with those guys we really could kind of build one defense around them and that consistency has helped everybody everywhere.",
+      "verbatim_original_language": "",
+      "start_seconds": 400,
+      "end_seconds": 426,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Chris Finch on the team's defensive identity: We could build one defense around our centers and that consistency has helped everybody everywhere.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey",
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains the defensive consistency provided by rotating his centers and utilizing different lineup configurations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Chris Finch",
+      "timestamp": "07:16",
+      "summary_phrase": "Improving spacing and transition play",
+      "names_mentioned": [],
+      "excerpt": "just simple plays and better spacing and kind of making the early pass",
+      "quote": "Just simple plays and better spacing and kind of making the early pass rather than, you know, trying to push into a crowd and then make a play. Just, you know, calm down just a little bit. We've had bad spacing in transition, running on top of each other and those types of things in the last couple games, so we've been better job of just paying attention to that.",
+      "verbatim_original_language": "",
+      "start_seconds": 436,
+      "end_seconds": 463,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Chris Finch on the team's recent transition struggles: We have had bad spacing in transition, running on top of each other, so we have been doing a better job of just paying attention to that.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the need for better spacing and decision-making in transition play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "NcajYh3N_Ew",
+  "url": "https://www.youtube.com/watch?v=NcajYh3N_Ew",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-24T04:02:20Z",
+  "duration_seconds": 471,
+  "processed_at": "2026-11-24T04:14:29Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

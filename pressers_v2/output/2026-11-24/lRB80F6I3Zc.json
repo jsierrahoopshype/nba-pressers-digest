@@ -1,0 +1,177 @@
+{
+  "video_title": "Ja'Kobe Walter | Post Game at Milwaukee Bucks | November 23, 2026",
+  "speakers_seen": [
+    "Ja'Kobe Walter"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "00:13",
+      "summary_phrase": "Ja'Kobe Walter on letting Tyler Herro get comfortable in second half",
+      "names_mentioned": [
+        "Tyler Herro"
+      ],
+      "excerpt": "When a good player gets confidence, you know it's hard to stop him.",
+      "quote": "You see the first half, we held him to three points, so you know we're capable. We definitely let him get comfortable. We let him get to what he does, and when a good player gets confidence, you know it's hard to stop him.",
+      "verbatim_original_language": "",
+      "start_seconds": 13,
+      "end_seconds": 30,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Ja'Kobe Walter on the defensive lapse against Tyler Herro: We held him to three points in the first half so we know we are capable, but we definitely let him get comfortable in the second half.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "TOR",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter discusses the defensive lapses that allowed Tyler Herro to score effectively in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "00:36",
+      "summary_phrase": "Ja'Kobe Walter on maintaining team mentality despite losing record",
+      "names_mentioned": [],
+      "excerpt": "At the end of the day we got to approach every game with the same mentality.",
+      "quote": "There's no secret what the record is, so of course it's something we know, but at the end of the day we got to approach every game with the same mentality, because it's the NBA, everybody's here for a reason.",
+      "verbatim_original_language": "",
+      "start_seconds": 36,
+      "end_seconds": 51,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ja'Kobe Walter on the Raptors current struggles: There is no secret what the record is, but we have to approach every game with the same mentality because it is the NBA and everybody is here for a reason.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter addresses how the team maintains their professional mentality despite the Raptors' current losing record.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "00:53",
+      "summary_phrase": "Ja'Kobe Walter on Milwaukee's shooting performance and missed opportunities",
+      "names_mentioned": [],
+      "excerpt": "They were hitting shots. We were missing a lot of shots today.",
+      "quote": "They had a good game. They were hitting shots. We were missing a lot of shots today. Like I said, during the NBA, any team can beat any team at any point, but this is definitely a game that we didn't want to lose.",
+      "verbatim_original_language": "",
+      "start_seconds": 53,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ja'Kobe Walter on the loss to Milwaukee: They had a good game and were hitting shots while we were missing a lot. It is definitely a game that we did not want to lose.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter reflects on the team's shooting struggles and the difficulty of losing a game they felt they should have won.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "01:26",
+      "summary_phrase": "Ja'Kobe Walter on defensive breakdowns against Tyler Herro",
+      "names_mentioned": [
+        "Tyler Herro"
+      ],
+      "excerpt": "Just the initial on-ball defense, letting him get into the paint and make decisions from there.",
+      "quote": "I think just the initial on-ball defense, letting him get into the paint and make decisions from there.",
+      "verbatim_original_language": "",
+      "start_seconds": 86,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ja'Kobe Walter identifies the defensive breakdown against Tyler Herro: It was just the initial on ball defense, letting him get into the paint and make decisions from there.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "TOR",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter explains the specific defensive breakdowns that allowed Tyler Herro to facilitate the offense from the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ja'Kobe Walter",
+      "timestamp": "01:50",
+      "summary_phrase": "Ja'Kobe Walter on personal defensive focus against Tyler Herro",
+      "names_mentioned": [
+        "Tyler Herro"
+      ],
+      "excerpt": "For me personally, just staying in front of the ball, not letting him get to the hip.",
+      "quote": "For me personally, just staying in front of the ball, not letting him get to the hip. Yeah, basically. First half, I feel like we were keeping them out the paint, second half he was getting to the paint.",
+      "verbatim_original_language": "",
+      "start_seconds": 110,
+      "end_seconds": 125,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ja'Kobe Walter on his personal defensive focus against Tyler Herro: Staying in front of the ball and not letting him get to the hip. In the first half we kept them out of the paint, but in the second half he was getting in there.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tyler Herro"
+        ],
+        "teams": [
+          "TOR",
+          "MIA"
+        ],
+        "topics": [],
+        "context": "Ja'Kobe Walter analyzes his personal defensive performance and his failure to keep Tyler Herro out of the paint in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "lRB80F6I3Zc",
+  "url": "https://www.youtube.com/watch?v=lRB80F6I3Zc",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-24T03:45:57Z",
+  "duration_seconds": 128,
+  "processed_at": "2026-11-24T04:14:33Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,163 @@
+{
+  "video_title": "Jaden McDaniels Postgame Interview After Win Against Brooklyn Nets | 11.23.26",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Jaden McDaniels"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jaden McDaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Jaden McDaniels on his career-high 34-point performance against Brooklyn",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "I just out there flowing tonight, taking what they give me.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Jaden, coach has been on you to be aggressive. You take 16 shots tonight, you have a career-high 34 points. What was the defense giving you?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "Really just I don't know, I just out there flowing tonight, taking what they give me. If they give me a lane to go right, go right, and if they close short, shoot the three. It's just all the work that I put in, to just keep trusting myself."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jaden McDaniels on his career high 34 point night against Brooklyn: I was just out there flowing tonight, taking what they give me. It is all the work that I put in to just keep trusting myself.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels discusses his career-high 34-point performance and his offensive approach against the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jaden McDaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "00:18",
+      "summary_phrase": "Timberwolves' team versatility and performance without Anthony Edwards",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "Kyle Anderson",
+        "Terrence Shannon",
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "We all know we're super versatile as a team and we all know we could hoop.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You guys are now 10 and 4 since losing Anthony Edwards to injury. What's it been like to see some of these other guys, whether it's Kyle Anderson, whether it's Terrence Shannon, Jonathan Kuminga step up and play much bigger roles?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "It's good to see. We all know we're super versatile as a team and we all know we could hoop. It could be anybody's night each game and that's how it's been since Ant's been out. We've been taking care of business and we're just ready for our brother to get back."
+        }
+      ],
+      "start_seconds": 18,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Jaden McDaniels on the Timberwolves playing without Anthony Edwards: We all know we are super versatile as a team and we all know we could hoop. It could be anybody's night each game and we are just ready for our brother to get back.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards",
+          "Kyle Anderson",
+          "Terrence Shannon",
+          "Jonathan Kuminga"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Jaden McDaniels reflects on the team's performance and the increased roles of his teammates while Anthony Edwards is sidelined with an injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jaden McDaniels",
+      "speakers": [
+        "Unidentified reporter",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "00:41",
+      "summary_phrase": "Defensive strategy to limit Michael Porter Jr.",
+      "names_mentioned": [
+        "Michael Porter Jr."
+      ],
+      "excerpt": "Really just staying on him no matter where he's at on the floor.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Michael Porter Jr. such a big part of what Brooklyn does. He only takes seven shots, you limit him to 11 points. How'd you guys slow him down?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "Really just staying on him no matter where he's at on the floor. He's a lethal shooter, he shoots if you're riding his face, and then just denying him, making it tough for him, and that was the outcome."
+        }
+      ],
+      "start_seconds": 41,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on the defensive plan to limit Michael Porter Jr: Really just staying on him no matter where he is at on the floor. He is a lethal shooter, so just denying him and making it tough for him.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Michael Porter Jr."
+        ],
+        "teams": [
+          "MIN",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels explains the defensive strategy used by the Timberwolves to limit the offensive production of Michael Porter Jr.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "fI6kwPgbuNo",
+  "url": "https://www.youtube.com/watch?v=fI6kwPgbuNo",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-24T03:42:04Z",
+  "duration_seconds": 60,
+  "processed_at": "2026-11-24T04:14:37Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

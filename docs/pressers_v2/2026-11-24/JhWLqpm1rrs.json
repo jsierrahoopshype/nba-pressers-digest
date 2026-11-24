@@ -1,0 +1,280 @@
+{
+  "video_title": "Hornets vs Grizzlies: Coach Charles Lee Postgame Media Availability | 11/23/2026",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:15",
+      "summary_phrase": "Charles Lee on Charlotte's defensive adjustments against Memphis",
+      "names_mentioned": [],
+      "excerpt": "It was good to see us like switch coverages after a while.",
+      "quote": "I thought that we were on the verge of a serious breakthrough this evening and credit to our players. I think they came out with a great mindset to be competitive, to be physical, to band together in tough times throughout the whole game. It wasn't always pretty, but it was very competitive. I thought very physical. It was good to see us like switch coverages after a while. They got going versus center field a little bit. We felt like they were too comfortable and we switched to a switching defense and I think that our guards did a good job of trying to stand up their bigs early and then we looked for kick opportunities and the scrambles were great.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Charles Lee says the Hornets were on the verge of a serious breakthrough against Memphis tonight, praising the team for their physicality and ability to switch coverages defensively.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Lee discusses the team's defensive adjustments and switching strategies used against Memphis during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "00:56",
+      "summary_phrase": "Charles Lee on the need for better discipline defending Jaren Jackson Jr.",
+      "names_mentioned": [
+        "Jaren Jackson Jr."
+      ],
+      "excerpt": "11 free throws for Spencer's too much for us.",
+      "quote": "As you go back and watch tonight, I think 11 free throws for Spencer's too much for us. And so from a discipline standpoint of staying down on pump fakes and defending him without fouling, we could be a little bit better. And then there were a couple moments, critical moments where if we're going to switch, you got to execute those reds a little bit better where they get behind you, they slip, and coming up with some of those 50-50 balls.",
+      "verbatim_original_language": "",
+      "start_seconds": 56,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Charles Lee notes the team needs better discipline defending without fouling after Spencer went to the line 11 times. He says they must execute better on defensive switches to avoid giving up easy looks.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaren Jackson Jr."
+        ],
+        "teams": [
+          "CHA",
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Lee reflects on the need for better defensive discipline when guarding Jaren Jackson Jr. to avoid foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "01:25",
+      "summary_phrase": "Charles Lee on Naz Reid's performance and shot selection",
+      "names_mentioned": [
+        "Naz Reid"
+      ],
+      "excerpt": "I got to look at some of the shot quality that he got in the second half.",
+      "quote": "I thought Naz early on was really good and then I got to look at some of the shot quality that he got in the second half. You know, I think some of that's on me, but continue to just analyze that. Great minutes from Christian as well this evening.",
+      "verbatim_original_language": "",
+      "start_seconds": 85,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Charles Lee says he needs to review the shot quality Naz Reid got in the second half, adding that some of the decision making falls on him as the coach.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naz Reid",
+          "Christian Wood"
+        ],
+        "teams": [
+          "CHA",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Charles Lee evaluates the performance and shot quality of Naz Reid and Christian Wood during the postgame availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "01:50",
+      "summary_phrase": "Charles Lee on team consistency and player development",
+      "names_mentioned": [
+        "Christian Wood",
+        "Naz Reid",
+        "T.J. McConnell",
+        "Ryan Dunn"
+      ],
+      "excerpt": "The team is striving to be consistent with all of our habits.",
+      "quote": "That's what we do every day, win or lose. We come in the next day, we work on our bodies, we work on our minds, we correct the things that need to be corrected via film or on the court, and you know, we just keep moving along. I think that the team is striving to be consistent with all of our habits, and so we just got to keep building them. And I think again, like I said, we got great contributions from a lot of different guys tonight. We talk about by committee and I love like what Christian gave us. I thought Liam had some good minutes, T.J., Royce, Ryan, you go down the line. Literally everyone's contributing to the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 110,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Charles Lee emphasizes the importance of consistency and building habits, noting that the Hornets are relying on a by committee approach with contributions from guys like Christian, Liam, and Royce.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses the importance of maintaining consistent habits and team-wide contributions regardless of the game outcome.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Charles Lee",
+      "timestamp": "02:40",
+      "summary_phrase": "Charles Lee on Christian Wood's growing confidence and defensive impact",
+      "names_mentioned": [
+        "Christian Wood"
+      ],
+      "excerpt": "Consistent aggressiveness on both ends.",
+      "quote": "Consistent aggressiveness on both ends. Like I think even defensively it starts there. The energy that he's bringing, some of the deflections and steals. We've talked about trying to be a little bit more of a disruptive defense and I think he adds to that. He contributes to that a ton and then offensively, the catching and shooting is getting better and better. He's getting a better feel for that and then even handling the ball and handling pressure. His teammates encouraging him in a lot of moments, us trying to put him in some different spots, but really proud of the progress that he's making.",
+      "verbatim_original_language": "",
+      "start_seconds": 160,
+      "end_seconds": 201,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Charles Lee is proud of the progress Christian Wood is making, highlighting his consistent aggressiveness, defensive deflections, and improved catch and shoot ability.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Wood"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee praises the recent progress and defensive impact of Christian Wood following the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Charles Lee",
+      "timestamp": "03:16",
+      "summary_phrase": "Charles Lee on defining the team's 'serious breakthrough' potential",
+      "names_mentioned": [],
+      "excerpt": "We talked about what are the things that we need to do in terms of sustaining our competitive spirit.",
+      "quote": "We talked about what are the things that we need to do in terms of sustaining our competitive spirit and our togetherness and I just thought that in a lot of areas in terms of our purpose, how we played purposefully on both ends of the floor was great. Our intent, our physicality was really good for most of the game, but you can't be really good for most of the game. It's got to be 48 minutes or however long the game asks you to play and we're just not quite there.",
+      "verbatim_original_language": "",
+      "start_seconds": 196,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Charles Lee says the Hornets played with great intent and physicality for most of the game, but admits they are not quite at the level where they can sustain that effort for the full 48 minutes.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee explains the team's need to sustain their competitive spirit and purposeful play for the full duration of a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Charles Lee",
+      "timestamp": "03:53",
+      "summary_phrase": "Charles Lee on game-planning for a physically dominant player",
+      "names_mentioned": [
+        "Zach Edey"
+      ],
+      "excerpt": "It definitely makes sure that you got to do all your work early.",
+      "quote": "He definitely has a big presence and it definitely makes sure that you got to do all your work early. You can't hit him late when he gets under the basket and I thought that actually we did a pretty good job all night on him.",
+      "verbatim_original_language": "",
+      "start_seconds": 233,
+      "end_seconds": 251,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Charles Lee on defending a physically dominant player: You have to do all your work early because you cannot hit him late once he gets under the basket.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Charles Lee discusses the defensive game plan required to manage a physically dominant opponent in the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Charles Lee",
+      "timestamp": "04:30",
+      "summary_phrase": "Charles Lee on the impact of Zach Edey's foul trouble",
+      "names_mentioned": [
+        "Zach Edey"
+      ],
+      "excerpt": "Our bigs did a really good job of sticking screens.",
+      "quote": "I think when they went out, so he's usually back in coverage and so our bigs did a really good job of sticking screens and I thought that our guards could come off and they could drive downhill, they could get some open jumpers, and then when he went out, they went to a little bit more of an aggressive like their bigs were either going to switch or they were going to be up in coverage, which I thought our guards did a great job of trying to hit the seams and our guys rolling and then making plays from there.",
+      "verbatim_original_language": "",
+      "start_seconds": 270,
+      "end_seconds": 297,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Charles Lee explains how the Hornets adjusted their offense when Memphis changed their defensive coverage, noting that their guards did a great job hitting the seams and making plays.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zach Edey"
+        ],
+        "teams": [
+          "CHA",
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Lee explains how the team adjusted their offensive approach when Zach Edey was in foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "JhWLqpm1rrs",
+  "url": "https://www.youtube.com/watch?v=JhWLqpm1rrs",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-24T03:29:33Z",
+  "duration_seconds": 297,
+  "processed_at": "2026-11-24T04:15:09Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}
