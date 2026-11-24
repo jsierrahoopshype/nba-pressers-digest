@@ -1,0 +1,173 @@
+{
+  "video_title": "Will Hardy talks Flips contributions, Ace's energy",
+  "speakers_seen": [
+    "Will Hardy"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Will Hardy",
+      "timestamp": "00:02",
+      "summary_phrase": "Will Hardy on the team's shooting struggles and sloppy play",
+      "names_mentioned": [],
+      "excerpt": "another night where we really struggled to make a shot from it felt like anywhere",
+      "quote": "I thought the team fought, executed. Another night where we really struggled to make a shot from it felt like anywhere. The three-point line and the free-throw line again hurt us. First half, I thought we were really sloppy with the ball. I don't think our guards did a very good job of playing with force. Played off one foot way too much, dribbled sideways way too much. Did a much better job the second half of taking care of the ball and it's why we were in the game.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Will Hardy says the Jazz struggled with sloppy play and poor shooting tonight, noting that the guards played off one foot and dribbled sideways too much in the first half.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy discusses the team's poor shooting performance and sloppy ball handling during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Will Hardy",
+      "timestamp": "00:55",
+      "summary_phrase": "Will Hardy praises Taylor Hendricks' professionalism and recent offensive impact",
+      "names_mentioned": [
+        "Taylor Hendricks"
+      ],
+      "excerpt": "Flip's been incredibly professional about his work",
+      "quote": "Flip's been incredibly professional about his work. We've talked a lot about the summer that he had with the surgery and kind of the road back. He's not been discouraged by lack of opportunity. He knew that he was going to get opportunity here at some point and credit to him for staying ready. I think offensively he gave us a different look in terms of the ability to facilitate some of our off-ball stuff. When he's out there, we've got to continue to do a good job of helping him rebound.",
+      "text_blocks": [],
+      "start_seconds": 55,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Will Hardy praised Taylor Hendricks for his professionalism while waiting for his opportunity, noting that he gave the team a different look offensively tonight.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Taylor Hendricks"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Will Hardy praises Taylor Hendricks for his professionalism and offensive contributions following his recovery from surgery.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Will Hardy",
+      "timestamp": "01:34",
+      "summary_phrase": "Will Hardy on the team's improvement in decision-making and ball security",
+      "names_mentioned": [],
+      "excerpt": "just making quick decisions with the ball",
+      "quote": "Just making quick decisions with the ball. I think in the first half we were so passive, truly dribbling sideways with the ball early in the possessions, not playing with an advantage in transition at all. I felt like in the second half we did a much better job of trusting the pass, playing with force and straight lines. It gave us an opportunity to remain in the game.",
+      "text_blocks": [],
+      "start_seconds": 94,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Will Hardy on the Jazz second half adjustments: We did a much better job of trusting the pass, playing with force and straight lines.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy explains the team's improvement in ball security and decision-making during the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Will Hardy",
+      "timestamp": "02:13",
+      "summary_phrase": "Will Hardy evaluates Keyonte George's consistent energy and defensive growth",
+      "names_mentioned": [
+        "Keyonte George"
+      ],
+      "excerpt": "Ace's been really consistent this year with his energy",
+      "quote": "Ace's been really consistent this year with his energy, does all the little things. I think his defense has improved a lot. He's rebounding on both ends pretty well. Even the ones that he doesn't get, when he crashes he keeps the ball alive really well. Has shown himself to be an active cutter, has become a much better runner in transition. All these things add up to Ace being able to impact the game regardless of whether or not he makes a jump shot.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Will Hardy says Keyonte George is impacting the game regardless of his jump shot, highlighting his consistent energy, improved defense, and active cutting.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Keyonte George"
+        ],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Will Hardy evaluates the consistent energy and defensive growth shown by Keyonte George.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Will Hardy",
+      "timestamp": "02:48",
+      "summary_phrase": "Will Hardy on the team's defensive progress and commitment",
+      "names_mentioned": [],
+      "excerpt": "I think we're getting better defensively",
+      "quote": "I think we're getting better defensively. I do. I think the team's pretty connected, they're executing well. We've got to continue to push through some real offensive struggles, but I think the team has shown a commitment to the defensive side of the ball. I'm really impressed with their ability to continue to execute even on the nights where we can't seem to buy a bucket.",
+      "text_blocks": [],
+      "start_seconds": 168,
+      "end_seconds": 193,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Will Hardy says he is impressed with the team's commitment to defense even on nights where they cannot seem to buy a bucket.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy reflects on the team's defensive progress and commitment despite ongoing offensive struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "UNY-BbIEW4M",
+  "url": "https://www.youtube.com/watch?v=UNY-BbIEW4M",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-24T06:03:15Z",
+  "duration_seconds": 197,
+  "processed_at": "2026-11-24T06:50:10Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

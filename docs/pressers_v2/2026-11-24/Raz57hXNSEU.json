@@ -1,0 +1,134 @@
+{
+  "video_title": "Kyle Filipowski talks about what worked, how to be effective, preparing for Denver",
+  "speakers_seen": [
+    "Kyle Filipowski"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kyle Filipowski",
+      "timestamp": "00:04",
+      "summary_phrase": "Kyle Filipowski on his approach to maximizing effort on the court",
+      "names_mentioned": [],
+      "excerpt": "just trying to go out there, give 100% effort.",
+      "quote": "I just kind of went out there, not really putting any expectations on myself, just trying to go out there, give 100% effort.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 13,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kyle Filipowski on his mindset heading into games: I just kind of went out there, not really putting any expectations on myself, just trying to go out there, give 100 percent effort.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Kyle Filipowski discusses his mindset and approach to playing with high effort during his media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kyle Filipowski",
+      "timestamp": "00:23",
+      "summary_phrase": "Kyle Filipowski on contributing beyond scoring through rebounding and playmaking",
+      "names_mentioned": [],
+      "excerpt": "rebounding offensively, defensively, trying to just make the right plays, facilitating on offense",
+      "quote": "Rebounding offensively, defensively, trying to just make the right plays, facilitating on offense, trying to find guys, get their shots, and then just trying to be overall just very solid as a whole.",
+      "text_blocks": [],
+      "start_seconds": 23,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kyle Filipowski on his role with the Jazz: Rebounding offensively, defensively, trying to just make the right plays, facilitating on offense, trying to find guys, get their shots, and then just trying to be overall just very solid as a whole.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Kyle Filipowski explains his focus on rebounding and playmaking to contribute to the team beyond scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kyle Filipowski",
+      "timestamp": "00:42",
+      "summary_phrase": "Kyle Filipowski on the impact of playing alongside another big man",
+      "names_mentioned": [],
+      "excerpt": "having another big out there changes my job a little bit",
+      "quote": "Obviously having another big out there changes my job a little bit. Obviously my job is still to rebound, play hard, things like that, but it is definitely a different look we have playing another big alongside myself.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kyle Filipowski on the adjustment of playing alongside another big man: It is definitely a different look we have playing another big alongside myself.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Kyle Filipowski describes how playing alongside another big man changes his responsibilities on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kyle Filipowski",
+      "timestamp": "01:11",
+      "summary_phrase": "Kyle Filipowski on preparing for the upcoming game against Denver",
+      "names_mentioned": [],
+      "excerpt": "trying to watch film, come together as a group, trying to learn from it",
+      "quote": "Just trying to watch film, come together as a group, trying to learn from it, see what we could have done better down the stretch to keep it a closer game and try to get the win out of it.",
+      "text_blocks": [],
+      "start_seconds": 71,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Kyle Filipowski on the team's preparation for Denver: Just trying to watch film, come together as a group, trying to learn from it, see what we could have done better down the stretch to keep it a closer game and try to get the win out of it.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "UTA",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Kyle Filipowski discusses the team's preparation and film study ahead of their upcoming game against the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "Raz57hXNSEU",
+  "url": "https://www.youtube.com/watch?v=Raz57hXNSEU",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-24T06:11:05Z",
+  "duration_seconds": 89,
+  "processed_at": "2026-11-24T06:49:58Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}
