@@ -1,0 +1,228 @@
+{
+  "video_title": "Taylor Jenkins Postgame Press Conference | 11.23.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:15",
+      "summary_phrase": "Taylor Jenkins on the Bucks' resilient performance in 48-minute effort",
+      "names_mentioned": [],
+      "excerpt": "It was great to see our guys put 48 minutes together.",
+      "quote": "It was great to see our guys put 48 minutes together. I mean, you think you look at the start of the first quarter and the start of the third quarter, we didn't get off to the right starts both quarters there, but our guys just were resilient all night. Obviously, we had a tough one against them in our first game back in Milwaukee, and this was going to be a tough one again. The physicality, obviously, Barnes, heck of a player. I thought we did a great job throughout the game just trying to make him take tough shots, but he's hard to shut down. I thought our rotations, for the most part, were really good, and then just trying to keep them off the boards. I mean, they had 31 second-chance points in the first game. We talked about it at halftime, 14 for the game, that's a big deciding factor.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins on the Bucks win: It was great to see our guys put 48 minutes together. We talked about rebounding at halftime and limiting them to 14 second chance points was a big deciding factor.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "MIL",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Head coach Taylor Jenkins discusses the team's defensive effort against Scottie Barnes and their improved rebounding performance following a previous loss to the same opponent.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:00",
+      "summary_phrase": "Taylor Jenkins praises Miles' defensive impact and milestone achievement",
+      "names_mentioned": [
+        "Miles"
+      ],
+      "excerpt": "No matter what's been happening on the offensive side, he's made an impact on the defensive side.",
+      "quote": "Great performance. It's great to see Miles have a great game. Obviously, no matter what's been happening on the offensive side, he's made an impact on the defensive side. Double-digit rebounds, blocked shots, came in with a confident mentality. His teammates trusted him, he's trusted the work, 10,000 career points, that's pretty special. Guys had a great celebration for him there.",
+      "verbatim_original_language": "",
+      "start_seconds": 60,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Taylor Jenkins on Miles reaching 10,000 career points: No matter what has been happening on the offensive side, he has made an impact on the defensive side. That is pretty special.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Miles Bridges"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins praises Miles Bridges for his defensive impact and reaching the milestone of 10,000 career points.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:18",
+      "summary_phrase": "Taylor Jenkins highlights bench contributions and Kuz's defensive assignment",
+      "names_mentioned": [
+        "Tyler",
+        "Kel",
+        "Braden",
+        "Kuz"
+      ],
+      "excerpt": "Kuz, doing a defensive assignment against an All-Star and making big-time plays, especially in that fourth quarter.",
+      "quote": "Tyler, back-to-back really good games. Guys off the bench, Kel, Braden, impactful moments, and then Kuz, doing a defensive assignment against an All-Star and making big-time plays, especially in that fourth quarter, big-time three, getting the right person in the action, he gets an open shot, Tyler trusts him, he bangs a big shot. So, things that we talked about in the morning, prioritizing that's never going to be perfect, but for 48 minutes our guys did a really good job tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 78,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins praises the bench effort against an All Star: Kuz doing a defensive assignment and making big time plays in the fourth quarter was key for us tonight.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyler Herro",
+          "Kel'el Ware",
+          "Braden Smith",
+          "Kyle Kuzma"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Taylor Jenkins highlights the contributions of the bench unit and Kyle Kuzma's defensive performance in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:01",
+      "summary_phrase": "Taylor Jenkins on the importance of process leading to results",
+      "names_mentioned": [],
+      "excerpt": "You obviously want the process to lead to the results.",
+      "quote": "You obviously want the process to lead to the results. So, it's been tough sledding the last couple of weeks. I've just been pressing on them, guys, keep putting in the work, you guys are going to break through. The spirit's right, how you show up every single day. Let's get better at the certain moments in the game that when we watch film or we go on to practice, dialing in on our scouts and respect our opponents, continue to trust each other.",
+      "verbatim_original_language": "",
+      "start_seconds": 121,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins on the recent stretch: It has been tough sledding the last couple of weeks. I have just been pressing on them to keep putting in the work and trust each other.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins reflects on the importance of trusting the team's process and work ethic during a difficult stretch of games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:06",
+      "summary_phrase": "Taylor Jenkins discusses the growth and versatility of Cas",
+      "names_mentioned": [
+        "Cas",
+        "Kel"
+      ],
+      "excerpt": "Cas, he's shown a lot of good growth this season.",
+      "quote": "Cas, he's shown a lot of good growth this season. Sometimes the way the game shakes out, I know he didn't play there in the second half, but he's got a great ability to get into the paint, how he's navigating screens, attacking space, getting the three assists. He's a willing playmaker. I think him developing chemistry with Kel, which they already had from last season, I think we're starting to see a little bit more of that. His relentless nature on the ball to be a point-of-attack defender, continuing to get better, smarter, aggressive, all piece that together. But overall, a guy that I think has two-way ability. So, he's a guy that can have big nights for us, come in and give us a spurt when he comes off the bench. I got a lot of trust in that kid.",
+      "verbatim_original_language": "",
+      "start_seconds": 186,
+      "end_seconds": 241,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins on the growth of Cas: He has a great ability to get into the paint and navigate screens. He is a guy that can have big nights for us and I have a lot of trust in that kid.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Casper Ware",
+          "Kel'el Ware"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the development of Casper Ware and his growing chemistry with Kel'el Ware.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "04:05",
+      "summary_phrase": "Taylor Jenkins on the team's execution during the closing stretch",
+      "names_mentioned": [
+        "Tyler",
+        "Braden",
+        "Shed",
+        "Barnes",
+        "Murray",
+        "Kuz"
+      ],
+      "excerpt": "I thought we got the right matchups, we got the ball into the right spots.",
+      "quote": "I thought we got the right matchups, we got the ball into the right spots. And the unselfishness for Tyler to be like, 'Hey, Braden, you got this time,' or Braden seeing something, willing to get it to another guy. Kuz coming out being a facilitator for us. Guys made big-time shots, Miles with a big three, Kuz with a big three, getting two on the ball. But then also Braden's ability to attack and get into the teeth of the defense and go finish, had a big finish there. But then we knew they were going to start hitting, that's what Darko does, starts trapping. Thought our guys displayed great poise, we let the clock go down, Tyler obviously gets a big-time shot. And then the execution, they're going to be switching, they're going to be physical, thought for the most part we did a good job down the stretch.",
+      "verbatim_original_language": "",
+      "start_seconds": 245,
+      "end_seconds": 303,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins on the closing stretch: We got the right matchups and the ball into the right spots. The unselfishness for guys to be willing to get it to another guy was great to see.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyler Herro",
+          "Braden Smith",
+          "Kyle Kuzma",
+          "Miles Bridges"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins breaks down the team's execution and decision-making during the closing stretch of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "HPcUSVAXQS8",
+  "url": "https://www.youtube.com/watch?v=HPcUSVAXQS8",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-24T04:16:07Z",
+  "duration_seconds": 350,
+  "processed_at": "2026-11-24T05:07:03Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,77 @@
+{
+  "video_title": "Tyler Herro Postgame Media Availability | 11.23.26",
+  "speakers_seen": [
+    "Tyler Herro"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:16",
+      "summary_phrase": "Tyler Herro on the difficulty of winning in the NBA",
+      "names_mentioned": [],
+      "excerpt": "Anytime you can win in this league it feels good.",
+      "quote": "It feels good. This is a hard league. Anytime you can win in this league it feels good. Even the good teams, I feel like, not saying we are bad, but the teams that do win a lot of games, each game is meaningful and it is not easy to get wins in this league. The team we played over there is really good and they are still clawing and aching for wins. It is tough and it feels good to get out of there with a win. I feel like we can build on this, take this energy into Wednesday, enjoy tonight and try to get Wednesday.",
+      "verbatim_original_language": "",
+      "start_seconds": 16,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Tyler Herro on the grind of the NBA season: It is a hard league and anytime you can win it feels good. The team is looking to build on this energy heading into Wednesday.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro discusses the challenges of winning in the NBA following a victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:55",
+      "summary_phrase": "Tyler Herro on the team's first road win",
+      "names_mentioned": [],
+      "excerpt": "Obviously got to be happy this is the first road win we have had.",
+      "quote": "I told you again I am going to keep saying it is not easy to win in this league, so when you do you enjoy it. Obviously got to be happy this is the first road win we have had. So enjoying it on the road, get on the plane, get back to Milwaukee, get a little rest day tomorrow and be ready to go on Wednesday. This is obviously a good win for us and we just got to keep building.",
+      "verbatim_original_language": "",
+      "start_seconds": 55,
+      "end_seconds": 87,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyler Herro on securing the first road win of the season: It is not easy to win in this league so when you do you enjoy it. We just have to keep building.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro reflects on the team securing their first road win of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "yepXbE4K5gA",
+  "url": "https://www.youtube.com/watch?v=yepXbE4K5gA",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-24T04:17:14Z",
+  "duration_seconds": 89,
+  "processed_at": "2026-11-24T05:06:50Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

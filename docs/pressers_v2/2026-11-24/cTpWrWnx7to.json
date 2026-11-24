@@ -1,0 +1,231 @@
+{
+  "video_title": "“My Goal Is To Impact The Game And Make Winning Plays.” | Joan Beringer Postgame Sound | 11.23.26",
+  "speakers_seen": [
+    "Joan Beringer"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joan Beringer",
+      "timestamp": "00:00",
+      "summary_phrase": "Joan Beringer on his defensive impact and versatility",
+      "names_mentioned": [],
+      "excerpt": "When those days you can't really score, you have to find another way to impact the game.",
+      "quote": "I just try to play hard. When those days you can't really score, you have to find another way to impact the game. I just try to play my best defense, be active, and just play hard.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 14,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joan Beringer on his approach to nights where his shot is not falling: I just try to play my best defense, be active, and just play hard.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Joan Beringer discusses his approach to impacting the game when his scoring is not effective.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joan Beringer",
+      "timestamp": "01:01",
+      "summary_phrase": "Joan Beringer on the team's collective focus on rebounding",
+      "names_mentioned": [],
+      "excerpt": "I think it's a mindset and I think we do it well.",
+      "quote": "I think it's just a group. We try to help each other and that's the best way to rebound the ball and it's just go consistently. I think it's a mindset and I think we do it well.",
+      "verbatim_original_language": "",
+      "start_seconds": 61,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joan Beringer says the Timberwolves rebounding success comes down to a collective mindset: We try to help each other and that is the best way to rebound the ball.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Joan Beringer explains the team's collective mindset regarding rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joan Beringer",
+      "timestamp": "01:47",
+      "summary_phrase": "Joan Beringer on his goal to impact winning",
+      "names_mentioned": [],
+      "excerpt": "He said just for me to find a way to impact the game, impact winning.",
+      "quote": "Before the season starts, the team coach came to me and he gave me a letter and he said just for me to find a way to impact the game, impact winning. So it's just what I try to do every game. Even if I don't score, I just try to impact for the win and I think it's just my mindset every game.",
+      "verbatim_original_language": "",
+      "start_seconds": 107,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Joan Beringer reveals his coach gave him a letter before the season with a specific challenge: Find a way to impact the game and impact winning, even if I do not score.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Joan Beringer reflects on the coaching staff's advice to focus on impacting winning rather than just scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joan Beringer",
+      "timestamp": "02:34",
+      "summary_phrase": "Joan Beringer on learning from Jaden McDaniels and Rudy Gobert",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Rudy Gobert"
+      ],
+      "excerpt": "It's such a blessing for me and I can learn from the best.",
+      "quote": "It's such a blessing for me and I can learn from the best. I really appreciate Jaden McDaniels and Rudy Gobert. They just help me defensively and I learn a lot from them every night.",
+      "verbatim_original_language": "",
+      "start_seconds": 154,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Joan Beringer on learning from Jaden McDaniels and Rudy Gobert: It is such a blessing for me and I can learn from the best. They help me defensively and I learn a lot from them every night.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joan Beringer expresses appreciation for learning defensive skills from teammates Jaden McDaniels and Rudy Gobert.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joan Beringer",
+      "timestamp": "03:16",
+      "summary_phrase": "Joan Beringer on his relationship with Jaden McDaniels",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "I just love Jaden and I love his game.",
+      "quote": "I just love Jaden and I love his game and I just love how we play. He can do anything and I try to visualize that too, because I try to be the best version of myself. I try to visualize him a lot in practice and I just try to stay around to see what he does.",
+      "verbatim_original_language": "",
+      "start_seconds": 196,
+      "end_seconds": 218,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Joan Beringer says he tries to visualize Jaden McDaniels during practice to help his own development: I try to be the best version of myself and I try to visualize him a lot.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Joan Beringer discusses how he studies and tries to emulate Jaden McDaniels during practice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Joan Beringer",
+      "timestamp": "04:00",
+      "summary_phrase": "Joan Beringer on the importance of running the floor",
+      "names_mentioned": [],
+      "excerpt": "Even if I don't receive the ball, I think I can open my teammates.",
+      "quote": "Even if I don't receive the ball, I think I can open my teammates. So I think right now is the best thing I can do, running and play hard. It's just what I do and who I am.",
+      "verbatim_original_language": "",
+      "start_seconds": 240,
+      "end_seconds": 255,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Joan Beringer on the value of running the floor even without the ball: Even if I do not receive the ball, I think I can open my teammates. It is just what I do and who I am.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Joan Beringer explains the value of running the floor to create space for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Joan Beringer",
+      "timestamp": "04:28",
+      "summary_phrase": "Joan Beringer on how soccer helped his basketball footwork",
+      "names_mentioned": [],
+      "excerpt": "Probably my footwork, just moving fast and moving fast.",
+      "quote": "Probably my footwork, just moving fast and moving fast and just yeah, I think it helps with that.",
+      "verbatim_original_language": "",
+      "start_seconds": 268,
+      "end_seconds": 275,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Joan Beringer credits his soccer background for his basketball skills: It helps with my footwork, just moving fast.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Joan Beringer describes how his background in soccer has helped improve his basketball footwork.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "cTpWrWnx7to",
+  "url": "https://www.youtube.com/watch?v=cTpWrWnx7to",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-24T04:15:29Z",
+  "duration_seconds": 296,
+  "processed_at": "2026-11-24T05:07:04Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

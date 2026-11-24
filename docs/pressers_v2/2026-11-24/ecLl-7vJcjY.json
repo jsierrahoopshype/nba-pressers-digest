@@ -1,0 +1,263 @@
+{
+  "video_title": "Rick Carlisle, Jalen Slawson, Kelly Oubre Jr. & Pascal Siakam Postgame Media Avail | Nov. 23, 2026",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Jalen Slawson",
+    "Kelly Oubre Jr.",
+    "Pascal Siakam"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:54",
+      "summary_phrase": "Jalen Slawson's growth in consistency and maturity",
+      "names_mentioned": [
+        "Jalen Slawson"
+      ],
+      "excerpt": "He's become much more consistent as a player, not nearly the number of highs and lows.",
+      "quote": "He's become much more consistent as a player, not nearly the number of highs and lows. Just a lot of highs. And when something does happen that isn't the greatest thing, he recovers very quickly. It's a maturity thing. He's a great kid. I know his family, I know his dad, and he really wants it bad. By wanting it, he wants to be as good a player as he can be to help his team. He's gained the trust of our veteran players because of how hard he goes, he plays to his strengths, they know what they can expect from him, and they know that he will be there for them.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on Jalen Slawson's growth: He has become much more consistent as a player and has gained the trust of our veteran players because of how hard he goes.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Slawson"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Rick Carlisle discusses the growth and maturity of Jalen Slawson during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:58",
+      "summary_phrase": "Rick Carlisle on Jalen Slawson's trash-talking with Shai Gilgeous-Alexander",
+      "names_mentioned": [
+        "Shai Gilgeous-Alexander",
+        "Jalen Slawson"
+      ],
+      "excerpt": "When you get into a talking thing with one of the best players on the planet, that's not the best idea.",
+      "quote": "When you get into a talking thing with one of the best players on the planet, that's not the best idea. But that's part of everything you learn as a young player. I will say this, it got our crowd into it. Our crowd was defiant tonight. They were bringing the energy regardless of what was happening out there, and there was some halacious shot-making by them when we would build up any kind of a lead.",
+      "text_blocks": [],
+      "start_seconds": 118,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 8,
+      "social_post": "Rick Carlisle on Jalen Slawson getting into it with Shai Gilgeous-Alexander: When you get into a talking thing with one of the best players on the planet that is not the best idea.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Slawson",
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "IND",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle reacts to Jalen Slawson engaging in trash talk with Shai Gilgeous-Alexander during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "04:13",
+      "summary_phrase": "Jalen Slawson's development as a three-point shooter",
+      "names_mentioned": [
+        "Jalen Slawson",
+        "Jenny Boucek",
+        "TJ McConnell"
+      ],
+      "excerpt": "He knew that he was going to have to be more consistent shooting the three to stick in the league.",
+      "quote": "He knew that he was going to have to be more consistent shooting the three to stick in the league long-term. He asked Jenny Boucek to work with him. Jenny is our shooting coach. She's worked with TJ McConnell, she's working with Andrew Nembhard on his stroke, she's worked with a lot of our guys very successfully. He's put in an awful lot of work, and it shows up on a night like tonight.",
+      "text_blocks": [],
+      "start_seconds": 253,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Rick Carlisle credits shooting coach Jenny Boucek for Jalen Slawson's development as a three-point shooter: He knew that he was going to have to be more consistent shooting the three to stick in the league long-term.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Slawson",
+          "Jenny Boucek",
+          "TJ McConnell",
+          "Andrew Nembhard"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle explains the work Jalen Slawson put in with shooting coach Jenny Boucek to improve his three-point shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jalen Slawson",
+      "timestamp": "08:29",
+      "summary_phrase": "Tom Hankins' advice on Jalen Slawson's NBA future",
+      "names_mentioned": [
+        "Tom Hankins",
+        "Jamie Rubin"
+      ],
+      "excerpt": "Tom Hankins last year, our head coach for the Mad Ants, told me this could be a big reason you're not in the NBA.",
+      "quote": "Tom Hankins last year, our head coach for the Mad Ants, told me this could be a big reason you're not in the NBA. He actually told me to go talk to our sports psychologist Jamie Rubin, and she did a great job helping me move on to the next play. That's kind of where it started. One thing we talked about was when something like that happens, just try to gather the team. Say something to the team, whether it be a correction, something I see that we can do differently, or even just praising a guy.",
+      "text_blocks": [],
+      "start_seconds": 509,
+      "end_seconds": 547,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jalen Slawson credits his work with a sports psychologist for helping him move on to the next play: One thing we talked about was when something like that happens just try to gather the team.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tom Hankins",
+          "Jamie Rubin"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Jalen Slawson reflects on advice he received from former coach Tom Hankins and a sports psychologist regarding his mental approach to the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kelly Oubre Jr.",
+      "timestamp": "14:10",
+      "summary_phrase": "Ernie Grunfeld's three core principles for NBA players",
+      "names_mentioned": [
+        "Ernie Grunfeld"
+      ],
+      "excerpt": "When I came into the NBA, Ernie Grunfeld was the GM for the Wizards at the time, and he gave me three things to focus on: defend, run, and rebound.",
+      "quote": "When I came into the NBA, Ernie Grunfeld was the GM for the Wizards at the time, and he gave me three things to focus on: defend, run, and rebound. And if I can be excellent at those things, which is all energy things, then I can affect the team. And he's doing that at a high level. He's eager to learn and get better. As long as he continues to do what he's doing, and then add certain parts of his game, I think that the sky is beyond the limit for him.",
+      "text_blocks": [],
+      "start_seconds": 850,
+      "end_seconds": 886,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Kelly Oubre Jr. shares the three core principles Ernie Grunfeld gave him as a rookie: Defend, run, and rebound. If I can be excellent at those things, which is all energy things, then I can affect the team.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Ernie Grunfeld"
+        ],
+        "teams": [
+          "WAS",
+          "IND"
+        ],
+        "topics": [],
+        "context": "Kelly Oubre Jr. shares advice he received from former executive Ernie Grunfeld about the core principles required to succeed in the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Pascal Siakam",
+      "timestamp": "19:30",
+      "summary_phrase": "Pascal Siakam on Jalen Slawson's athletic intensity",
+      "names_mentioned": [
+        "Jalen Slawson"
+      ],
+      "excerpt": "Using your athleticism, playing to exhaustion, both sides of the court, just playing with passion, with force.",
+      "quote": "Using your athleticism, playing to exhaustion, both sides of the court, just playing with passion, with force. And you know, I think like when you end up in that position where you're in a two-way, you're trying to figure out your spot in the league, that's the only way. So I think he's doing that every single position, playing it like it's his last, chasing every single one of those blocks, whatever needs to be done. I think he's doing that, and that's the way you want to do it when you want to have a roster spot.",
+      "text_blocks": [],
+      "start_seconds": 1170,
+      "end_seconds": 1208,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Pascal Siakam on Jalen Slawson's intensity: When you end up in that position where you are in a two-way, you are trying to figure out your spot in the league, that is the only way. Playing it like it is his last.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Slawson"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Pascal Siakam praises the intensity and effort Jalen Slawson displays while fighting for a permanent roster spot.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Pascal Siakam",
+      "timestamp": "22:26",
+      "summary_phrase": "Pascal Siakam on Jalen Slawson's ball security",
+      "names_mentioned": [
+        "Jalen Slawson",
+        "Jenny Boucek"
+      ],
+      "excerpt": "Just being more careful with the ball, obviously just playing within our system.",
+      "quote": "Just being more careful with the ball, obviously just playing within our system. And you know, I think he's, you know, he's talking to Jenny Boucek, he's talking to all the coaches, trying to make sure he does the right thing, and he's following their lead and some of the things that they want him to do, and he's doing that at a high level. And like coach said, that's the difference. Cut down on those mistakes, so then you give yourself an opportunity to be in a game, which he's doing.",
+      "text_blocks": [],
+      "start_seconds": 1346,
+      "end_seconds": 1381,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Pascal Siakam on Jalen Slawson's development: Just being more careful with the ball, obviously just playing within our system. Cut down on those mistakes, so then you give yourself an opportunity to be in a game.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Slawson",
+          "Jenny Boucek"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Pascal Siakam discusses Jalen Slawson's improvement in ball security and his willingness to follow the coaching staff's instructions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "ecLl-7vJcjY",
+  "url": "https://www.youtube.com/watch?v=ecLl-7vJcjY",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-24T04:25:30Z",
+  "duration_seconds": 1524,
+  "processed_at": "2026-11-24T05:06:58Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

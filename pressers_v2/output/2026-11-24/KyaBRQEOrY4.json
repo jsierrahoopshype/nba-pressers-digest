@@ -1,0 +1,209 @@
+{
+  "video_title": "Cavs at Bulls | Kenny Atkinson Post Game | 11.23.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:00",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' loss to the Bulls",
+      "names_mentioned": [],
+      "excerpt": "They were the more energetic, more aggressive, you know, their speed really gave us issues.",
+      "quote": "They were the more energetic, more aggressive, you know, their speed really gave us issues. First quarter was pretty good, that second quarter hurt us, and we do a great job of bouncing back in that third quarter. Right out of halftime we responded, but we couldn't sustain the energy. They played great, we obviously got to be better, Serena.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 23,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson credits the Bulls speed and energy for the Cavaliers loss tonight noting that while they responded well out of halftime they simply could not sustain the necessary energy to win",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the Cavaliers' loss to the Bulls after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:59",
+      "summary_phrase": "Kenny Atkinson on the Cavaliers' turnover problems",
+      "names_mentioned": [],
+      "excerpt": "I think we had 12 or 13 live ball turnovers and that just, especially against a speed team.",
+      "quote": "Our defense wasn't great, but I think we had 12 or 13 live ball turnovers and that just, especially against a speed team like this, they just, that's where their runs just mount, if that makes sense. So, and then defensively, more attention to detail, better job guarding the ball, keeping the ball in front of us. Again, their speed, it was collective. And then when we do get beat, got to be better in the gaps. Just too much penetration in our paint.",
+      "text_blocks": [],
+      "start_seconds": 59,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson points to 12 or 13 live ball turnovers as the primary reason for the Cavaliers struggles against the Bulls speed tonight",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains the defensive issues and turnovers that contributed to the loss against the Bulls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:41",
+      "summary_phrase": "Kenny Atkinson on finding consistent lineups",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "I think part of it that's on me finding the right lineups that click.",
+      "quote": "Listen, I think part of it that's on me finding the right lineups that click. We got to look at when these runs happen, who's out there, that's part of it. Darius was obviously back tonight, had to switch some things up. We really got to get back to the drawing board and look at that, stable lineups equal more consistent play. So, definitely something we got to solidify.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson admits he needs to do a better job finding stable lineups for the Cavaliers saying stable lineups equal more consistent play",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson discusses the need to find more consistent lineups following the return of Darius Garland.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:32",
+      "summary_phrase": "Kenny Atkinson on the halftime message to the team",
+      "names_mentioned": [],
+      "excerpt": "It was no film, no tactics, just we got to compete harder, compete and then play together.",
+      "quote": "It was no film, no tactics, just we got to compete harder, compete and then play together. I felt like when things start going downhill a little, it's natural you start, man, I got to kind of do it myself. And everybody tries to get a little out of their role. I felt like that happened, then that caused turnovers, then kind of snowballs from there. So, avoiding that was the key, compete harder and play together, that was a simple message.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 184,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Atkinson on his halftime message to the team during the loss to the Bulls It was no film no tactics just we got to compete harder compete and then play together",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson describes the message he delivered to the team at halftime.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:16",
+      "summary_phrase": "Kenny Atkinson on using Peyton Watson at center",
+      "names_mentioned": [
+        "Peyton Watson"
+      ],
+      "excerpt": "We tried Norchad at the five, just to deal with their speed.",
+      "quote": "We tried a lot of things. We tried Norchad at the five, just to deal with their speed. They played five out, they drive the heck out of the ball, they get you in closeouts, you need speed out there. But then our rebounding got nicked there, that's what I got, we got JA back in the game, but I'm glad we tried it. They're a unique team, unique how they play, they played great.",
+      "text_blocks": [],
+      "start_seconds": 196,
+      "end_seconds": 225,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson explains the decision to experiment with Norchad at the five against the Bulls saying they needed more speed to deal with the Bulls five out offensive attack",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Norchad Omier",
+          "Jarrett Allen"
+        ],
+        "teams": [
+          "CLE",
+          "CHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson explains the decision to use Norchad Omier at center to counter the Bulls' speed.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:33",
+      "summary_phrase": "Kenny Atkinson on Donovan Mitchell's leadership and scoring",
+      "names_mentioned": [
+        "Donovan Mitchell"
+      ],
+      "excerpt": "Donovan always figures it out, I think that's his superpower.",
+      "quote": "Donovan always figures it out, I think that's his superpower. I've never seen a leader that understands all the moving pieces. I think, like I said, I told Danny, I do think we got to help him with lineups, the lineups we put out there. But listen, Jamal, we need him to score. I think it's the highest efficiency scoring year of his career right now, like he's super efficient, and we need that. We have to have it, we have to have him score.",
+      "text_blocks": [],
+      "start_seconds": 273,
+      "end_seconds": 306,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Kenny Atkinson calls Donovan Mitchells ability to figure things out his superpower and emphasizes that the team needs to help him by putting out better lineups",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises the leadership and scoring efficiency of Donovan Mitchell.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "KyaBRQEOrY4",
+  "url": "https://www.youtube.com/watch?v=KyaBRQEOrY4",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-24T04:28:52Z",
+  "duration_seconds": 339,
+  "processed_at": "2026-11-24T05:06:44Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,263 @@
+{
+  "video_title": "Cavs at Bulls | Sam Merrill & Peyton Watson Post Game | 11.23.2026",
+  "speakers_seen": [
+    "Sam Merrill",
+    "Peyton Watson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Sam Merrill",
+      "speakers": [],
+      "timestamp": "00:03",
+      "summary_phrase": "Sam Merrill on the team's defensive struggles and transition defense",
+      "names_mentioned": [],
+      "excerpt": "We got to be better at guarding the ball and keeping them out of transition.",
+      "quote": "We got to be better. We gave up 70 points in the first half and especially against teams like these where they play fast in transition and fast in the half court. We got to be better at guarding the ball and keeping them out of transition. Second half we were a lot better defensively, but offensively we were pretty bad, pretty slow, stagnant the whole game. Just not how we want to play.",
+      "verbatim_original_language": "",
+      "start_seconds": 3,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Sam Merrill says the Cavs need to be better defensively after giving up 70 points in the first half against the Bulls. He noted the offense was stagnant and slow throughout the game.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Sam Merrill discusses the team's defensive struggles and stagnant offense following a loss to the Chicago Bulls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Sam Merrill",
+      "speakers": [],
+      "timestamp": "00:45",
+      "summary_phrase": "Sam Merrill on the challenge of maintaining energy for 48 minutes",
+      "names_mentioned": [],
+      "excerpt": "48 minutes is a long time and you're not going to be perfect for an entire game.",
+      "quote": "That's our ever-changing challenge right now is how to continue to sustain that way. Listen, 48 minutes is a long time and you're not going to be perfect for an entire game. But from a communication standpoint on the floor and an energy and activity standpoint, you want to be as good as you can for all 48. That's something we got to be better with.",
+      "verbatim_original_language": "",
+      "start_seconds": 45,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Sam Merrill on the challenge of maintaining defensive intensity for 48 minutes. He says the team needs to improve their communication and energy levels to sustain performance.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Sam Merrill explains the challenge of maintaining consistent defensive energy and communication throughout an entire 48-minute game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Sam Merrill",
+      "speakers": [],
+      "timestamp": "01:31",
+      "summary_phrase": "Sam Merrill on the importance of communication with changing lineups",
+      "names_mentioned": [
+        "Kenny"
+      ],
+      "excerpt": "The more and louder you talk, the better your energy is going to be naturally.",
+      "quote": "We all know each other well and we watch film every day and try and communicate through things. It's not going to be perfect when you're playing different lineups and with different guys. There's going to be bumps, especially offensively. But defensively, the communication level, I've always thought the more and louder you talk, the better your energy is going to be naturally. That's something we got to get better at.",
+      "verbatim_original_language": "",
+      "start_seconds": 91,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Sam Merrill says the team is still working through communication bumps while playing different lineups. He believes louder communication naturally leads to better energy on the floor.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Sam Merrill discusses the difficulties of maintaining defensive communication while rotating through different lineups.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Sam Merrill",
+      "speakers": [],
+      "timestamp": "02:13",
+      "summary_phrase": "Sam Merrill on the team's high standards and building good habits",
+      "names_mentioned": [
+        "Kenny"
+      ],
+      "excerpt": "We as a group like to be hard on ourselves and I think that's how you want to be.",
+      "quote": "I don't think we're alone in this. It's not easy. We as a group like to be hard on ourselves and I think that's how you want to be. You want to hold yourself to a high standard when you're trying to win at the highest level. You can't just turn it on in April and May. I think building the right habits only makes it easier to play that way once you get to later in the season and the playoffs. I'm sure Kenny would say something along the same lines, but I think that's the number one thing.",
+      "verbatim_original_language": "",
+      "start_seconds": 133,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Sam Merrill says the team is holding themselves to a high standard because you cannot just turn it on in April and May. He emphasizes that building the right habits now is essential for playoff success.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kenny Atkinson"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Sam Merrill discusses the importance of building good habits early in the season to prepare for the playoffs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Peyton Watson",
+      "speakers": [],
+      "timestamp": "03:34",
+      "summary_phrase": "Peyton Watson on the team's defensive effort and attention to detail",
+      "names_mentioned": [],
+      "excerpt": "A lot of those mistakes that we made early defensively just had to do with our effort.",
+      "quote": "A lot of it comes down to how we start the games and the approach we take to the games. A lot of those mistakes that we made early defensively just had to do with our effort. I think that's the number one thing that we have to address. When we started to make runs in the second half, it was because our effort was in the right place. We were flying around doing the things we were supposed to do. But when you have a start like that, it's hard to just climb yourself back into a game.",
+      "verbatim_original_language": "",
+      "start_seconds": 214,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Peyton Watson says the team's early defensive struggles against the Bulls came down to effort. He noted that the second half runs were only possible because their effort was in the right place.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Peyton Watson reflects on the team's poor defensive start and the need for consistent effort throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Peyton Watson",
+      "speakers": [],
+      "timestamp": "04:23",
+      "summary_phrase": "Peyton Watson on the team's search for consistency and leadership",
+      "names_mentioned": [],
+      "excerpt": "I'm always trying to communicate with my teammates and try to help make their job easier.",
+      "quote": "I think if we knew the answer, we would just do it. I think we're still searching for that. I'm always trying to communicate with my teammates and try to help make their job easier and just be a guy that connects the team in a lot of ways. I think I try to just go out there and lead by example by playing as hard as I can every night. I think that everybody has got to look inward and look themselves in the mirror and ask themselves, am I giving 100% every single night?",
+      "verbatim_original_language": "",
+      "start_seconds": 263,
+      "end_seconds": 300,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Peyton Watson on the search for consistency. He says everyone has to look in the mirror and ask themselves if they are giving 100 percent every single night.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Peyton Watson discusses the team's search for consistency and his own role as a leader who connects teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Peyton Watson",
+      "speakers": [],
+      "timestamp": "05:12",
+      "summary_phrase": "Peyton Watson on the team's need to focus on individual strengths",
+      "names_mentioned": [],
+      "excerpt": "I think it's just one of those things where we've got to all kind of think about what our strengths are.",
+      "quote": "In this case, I don't think it has anything to do with communication, to be quite honest. I think it's just one of those things where we've got to all kind of think about what our strengths are and how we can bring something to the table intangibly and defensively that can help the team win. I think that we have a lot of talented guys, but talent has never been the only thing that you need to win games. Everybody who's ever played the sport of basketball knows that the team that plays harder usually wins the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 312,
+      "end_seconds": 350,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Peyton Watson says talent is not enough to win games. He believes the team needs to focus on individual strengths and intangibles because the team that plays harder usually wins.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Peyton Watson emphasizes that individual effort and playing to personal strengths are more important than just talent for winning games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Peyton Watson",
+      "speakers": [],
+      "timestamp": "06:10",
+      "summary_phrase": "Peyton Watson on the development and energy of younger players",
+      "names_mentioned": [],
+      "excerpt": "I feel like we have some of the most capable, smart, adaptive, learning young guys.",
+      "quote": "I feel like we have some of the most capable, smart, adaptive, learning young guys that I've had the chance of being around. I think that a lot of our young guys and the guys that come off the bench for us in the second unit are doing positive things out there on a night-to-night basis and they're trying their best. I've only seen benefits just with the energy that they bring to the court, the guys that they are in the locker room, the friends that they are and how they've encouraged and welcomed me as a new player on this team.",
+      "verbatim_original_language": "",
+      "start_seconds": 370,
+      "end_seconds": 410,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Peyton Watson praises the young players on the roster, calling them some of the most capable and adaptive guys he has been around. He says their energy and locker room presence have been a major benefit.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Peyton Watson praises the energy, adaptability, and character of the younger players on the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "Lh02MmMunbk",
+  "url": "https://www.youtube.com/watch?v=Lh02MmMunbk",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-24T04:33:24Z",
+  "duration_seconds": 450,
+  "processed_at": "2026-11-24T05:06:34Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

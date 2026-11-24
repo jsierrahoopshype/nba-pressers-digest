@@ -1,0 +1,230 @@
+{
+  "video_title": "Houston Rockets Postgame: Ime Udoka talks win over Clippers",
+  "speakers_seen": [
+    "Ime Udoka"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ime Udoka",
+      "timestamp": "00:06",
+      "summary_phrase": "Ime Udoka on Kevin Porter Jr.'s chemistry with Alperen Sengun",
+      "names_mentioned": [
+        "Kevin Porter Jr.",
+        "Alperen Sengun"
+      ],
+      "excerpt": "when they did switch, I think him and Alperen had a good chemistry on that two-man game",
+      "quote": "I wouldn't say specifically that. He was going well in the first half, and when they did switch, I think him and Alperen had a good chemistry on that two-man game. They're going to have their advantage and the doubles came and they moved it. Trying to get him the ball all the time and so some nights they double, some nights they let him go one-on-one and he exploits it. So, taking what the game gives him and like the matchups he had tonight.",
+      "start_seconds": 6,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ime Udoka on the chemistry between Kevin Porter Jr and Alperen Sengun in the two man game: They are going to have their advantage and the doubles came and they moved it.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Porter Jr.",
+          "Alperen Sengun"
+        ],
+        "teams": [
+          "HOU",
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ime Udoka discusses the two-man game chemistry between Kevin Porter Jr. and Alperen Sengun during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ime Udoka",
+      "timestamp": "00:56",
+      "summary_phrase": "Ime Udoka on defensive discipline against the Clippers",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "for the most part kept those guys in check, got them off the three-point line",
+      "quote": "Attention to detail was great. They are a heavy three-point shooting team. To hold them to 28 points, I think 8%, only 11 makes, seems a little bit loud when Garland hits three in a row, but for the most part kept those guys in check, got them off the three-point line, which they heavily rely on. So I like our attention to detail on certain personnel, stay down on some Ingram pump fakes, and give them some fouls and buckets there, but overall 104 is 104.",
+      "start_seconds": 56,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ime Udoka credits the Rockets defensive attention to detail for holding the Clippers to 11 three pointers: We got them off the three point line which they heavily rely on.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Darius Garland",
+          "Brandon Ingram"
+        ],
+        "teams": [
+          "HOU",
+          "LAC",
+          "CLE",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Ime Udoka evaluates the team's defensive performance and attention to detail against the Clippers' three-point shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ime Udoka",
+      "timestamp": "01:36",
+      "summary_phrase": "Ime Udoka on offensive balance and team versatility",
+      "names_mentioned": [
+        "Kevin Porter Jr."
+      ],
+      "excerpt": "collectively I feel like we have good balance and a variety of ways to get it done",
+      "quote": "It's been solid overall. We're improved offensively and everybody has individually, but collectively I feel like we have good balance and a variety of ways to get it done. We want to obviously play with pace and cause some turnovers to get out, and I think we're really good when we do that. But also half-court execution is a big part of it. I love the fact that we got our ISO guys, we got one of the best post players in the league, as well as Kevin on the block, and several different pick-and-roll handlers, several different shooters, so it's not relying on one style of play. We can go double big, we can go small or regular, and the variety is good.",
+      "start_seconds": 96,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Ime Udoka on the Rockets offensive versatility: We have good balance and a variety of ways to get it done. It is not relying on one style of play. We can go double big, we can go small or regular, and the variety is good.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alperen Sengun",
+          "Kevin Porter Jr."
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka reflects on the team's offensive balance and versatility in their half-court execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ime Udoka",
+      "timestamp": "02:28",
+      "summary_phrase": "Ime Udoka on Tari Eason's impact off the bench",
+      "names_mentioned": [
+        "Tari Eason",
+        "Marcus Smart"
+      ],
+      "excerpt": "his energy and the way he kind of reeks havoc off the bench is great for us",
+      "quote": "For the most part, that's what he's done here. He started some games obviously with the injuries in and out, but his energy and the way he kind of reeks havoc off the bench is great for us. It's a change of pace. When he comes in, you're going out with our man and bringing him and Marcus, so the physicality and defensive intensity is still there. So yeah, he's shooting the ball well, knowing when to slash, mix it up, get out in transition and doing what he does usually on defense. So I love the boost he gives us.",
+      "start_seconds": 148,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Ime Udoka on the impact of Tari Eason off the bench: His energy and the way he kind of reeks havoc off the bench is great for us. It is a change of pace.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tari Eason",
+          "Marcus Sasser"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka praises the energy and defensive impact provided by Tari Eason off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ime Udoka",
+      "timestamp": "03:12",
+      "summary_phrase": "Ime Udoka on Amen Thompson's increased aggressiveness",
+      "names_mentioned": [
+        "Amen Thompson"
+      ],
+      "excerpt": "being more aggressive, trying to get downhill, touch the paint and really attack the basket",
+      "quote": "Being more aggressive, trying to get downhill, touch the paint and really attack the basket. He's missed some early on in the season that, you know, we said we love those looks and I think just the concentrated effort to get to his spots and be more aggressive as far as finishing. And so, not really worried about that. It's some nights like I said, it's different guys and when he's aggressive we're that much better.",
+      "start_seconds": 192,
+      "end_seconds": 221,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ime Udoka on Amen Thompson finding his rhythm: Being more aggressive, trying to get downhill, touch the paint and really attack the basket. When he is aggressive we are that much better.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Amen Thompson"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Ime Udoka discusses Amen Thompson's increased aggressiveness and focus on attacking the basket.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ime Udoka",
+      "timestamp": "04:19",
+      "summary_phrase": "Ime Udoka on late-game offensive execution and team depth",
+      "names_mentioned": [
+        "Alperen Sengun",
+        "Kevin Porter Jr.",
+        "Fred VanVleet",
+        "Jabari Smith Jr."
+      ],
+      "excerpt": "we still don't want to just rely on those two, we got other guys that can score",
+      "quote": "Yeah, I mean a lot's to do with the matchup and what's going well. We always feel like Alperen and Kevin have an advantage most nights and depending on how the defense plays it, other guys will kind of be recipients of that. But yes, you know, I think we still don't want to just rely on those two, we got other guys that can score. Obviously Fred is going to shoot the ball well, Amen is going to get downhill, Jabari will mix it all in and when the ball is moving and we're taking care of it and it's popping around the gym like tonight, 35 assists on 46 buckets, it's kind of equal opportunity and harder to guard.",
+      "start_seconds": 259,
+      "end_seconds": 297,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ime Udoka on the Rockets ball movement after recording 35 assists: When the ball is moving and we are taking care of it and it is popping around the gym like tonight, it is kind of equal opportunity and harder to guard.",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Alperen Sengun",
+          "Kevin Porter Jr.",
+          "Fred VanVleet",
+          "Amen Thompson",
+          "Jabari Smith Jr."
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ime Udoka explains the importance of ball movement and team depth in their offensive success.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "vmYnUII1ti4",
+  "url": "https://www.youtube.com/watch?v=vmYnUII1ti4",
+  "channel_team": "Houston Rockets",
+  "published": "2026-11-24T04:15:19Z",
+  "duration_seconds": 297,
+  "processed_at": "2026-11-24T05:07:09Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

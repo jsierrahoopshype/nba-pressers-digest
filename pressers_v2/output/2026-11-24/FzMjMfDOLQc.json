@@ -1,0 +1,180 @@
+{
+  "video_title": "Jamahl Mosley | Pelicans vs. Suns Postgame Interview 11/23/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:42",
+      "summary_phrase": "Jamahl Mosley on the importance of consistent team rotations",
+      "names_mentioned": [],
+      "excerpt": "understanding that rotation is easier when you have guys consistently in the lineup",
+      "quote": "When we can have a consistent rotation, you can have know who's coming in, who's coming out. If a guy gets hot, they hold, they stay, you keep them going. But understanding that rotation is easier when you have guys consistently in the lineup and that's where we're moving towards. And I think that's the best part of it that you're moving towards healthy, you're moving towards that side of it and those are the things that we're going to have to continue to look at and clean up when we're a whole roster.",
+      "start_seconds": 102,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the team is working toward a more consistent rotation as players return to the lineup. He notes that having a healthy roster will make it easier to manage substitution patterns.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Jamahl Mosley discusses the team's progress toward establishing consistent rotations as players return from injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:15",
+      "summary_phrase": "Jamahl Mosley on Jordan Poole's aggressive play and shot-making",
+      "names_mentioned": [
+        "Jordan Poole"
+      ],
+      "excerpt": "he was aggressive, his teammates were finding him, running a couple after timeout plays for him",
+      "quote": "He got himself going and I told him when he checks in the game, try to find something to get himself going early, whether that's distributing the basketball early to come off the ball early. It comes back to find him and when it came back to find him, he was able to knock a ton of shots down. And I think that he was aggressive, his teammates were finding him, running a couple after timeout plays for him to get himself going and just continue to make the right play, but also knock shots down, that's what we need you to do in big moments.",
+      "start_seconds": 135,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Jordan Poole's scoring night: I told him to find ways to get himself going early, whether that is distributing or coming off the ball. When he is aggressive and knocking down shots, that is what we need in big moments.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jordan Poole"
+        ],
+        "teams": [
+          "NOP",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises Jordan Poole for his aggressive play and shot-making ability during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:47",
+      "summary_phrase": "Jamahl Mosley on Jeremiah's shooting struggles and late-game impact",
+      "names_mentioned": [
+        "Jeremiah"
+      ],
+      "excerpt": "he made some big plays down the stretch and able to get to the basket",
+      "quote": "Keep going. He puts the work in and three of 17, a tough night, but he made some big plays down the stretch and able to get to the basket, wasn't afraid, made the big layup before overtime and I think those are big keys for us for him to be able to do. Just continue to stay aggressive, find the right patches to get to your shot and then continue to set the table, 11 assists, still trying to find guys on not a great shooting night, so what else can you bring to the table when your shot's not falling?",
+      "start_seconds": 167,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jamahl Mosley on Jeremiah's 3 of 17 shooting night: It was a tough night, but he made big plays down the stretch. Even when his shot is not falling, he is still finding guys and bringing value with 11 assists.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah"
+        ],
+        "teams": [
+          "NOP",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley comments on Jeremiah's shooting struggles and his ability to contribute in other ways during a tough offensive night.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:21",
+      "summary_phrase": "Jamahl Mosley on Suns' defensive strategy against his team's speed",
+      "names_mentioned": [
+        "Dylan Brooks"
+      ],
+      "excerpt": "teams are trying to put bigger guys on him, physical, pick him up full court",
+      "quote": "What teams are doing now because of his speed and his pace, the guys are trying to put bigger guys on him, physical, pick him up full court, change the direction of the game, try to wear him down. And I think Dylan Brooks being on him was something, but I think his speed took advantage of it at times. He was able to get downhill, but now it's part of how do we find the right space for him to be able to distribute once he gets into the paint because they were funneling him to the paint in order with the big guys down there.",
+      "start_seconds": 201,
+      "end_seconds": 242,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley explains how teams are trying to slow down their speed by putting bigger, physical defenders on them and funneling them into the paint to challenge their playmaking.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan Brooks"
+        ],
+        "teams": [
+          "NOP",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley analyzes how the Suns are using physical defenders like Dylan Brooks to slow down his team's speed.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:25",
+      "summary_phrase": "Jamahl Mosley on Zion's foul trouble and shot selection",
+      "names_mentioned": [
+        "Zion"
+      ],
+      "excerpt": "he got fouled on four of the plays. That's what I know, looking back at it",
+      "quote": "He got fouled on four of the plays. That's what I know, looking back at it, hit contact, then there was some basketball, but he got hit on three or four of the plays. The other side of it is yes, when he gets down there and there's a crowd, he's putting in such a great body of work to be able to trust that jump shot when he gets down to that crowd, but he has so much momentum going to the rim. The one he had on Dylan Brooks had him at the elbow, drove by him, Dylan reaches across, hits him, he gets the ball fumbled out, but it came across the body first. So those things right there are like, okay, I'm not going to tell him to take the jumper there because he's at the rim.",
+      "start_seconds": 265,
+      "end_seconds": 319,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley defends Zion's shot selection despite the crowd at the rim: I am not going to tell him to take the jumper when he is already at the rim. He is putting in the work and drawing contact.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion",
+          "Dylan Brooks"
+        ],
+        "teams": [
+          "NOP",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reacts to Zion's foul trouble and shot selection during a specific play involving Dylan Brooks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "FzMjMfDOLQc",
+  "url": "https://www.youtube.com/watch?v=FzMjMfDOLQc",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-24T04:58:19Z",
+  "duration_seconds": 346,
+  "processed_at": "2026-11-24T05:06:28Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

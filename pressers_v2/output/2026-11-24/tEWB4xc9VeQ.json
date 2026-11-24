@@ -1,0 +1,140 @@
+{
+  "video_title": "Houston Rockets Postgame: Kevin Durant talks big fourth quarter and win",
+  "speakers_seen": [
+    "Kevin Durant"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kevin Durant",
+      "timestamp": "00:29",
+      "summary_phrase": "Kevin Durant on why the Clippers didn't double-team him",
+      "names_mentioned": [],
+      "excerpt": "They looking at our stats and seeing guys stepping up knocking down shots.",
+      "quote": "No, I mean you look at our team. That was our 18th game of the year. They looking at our stats and seeing guys stepping up knocking down shots. You see other teams give up easy shots to try to stop guys in the paint or stop me on a pick and roll. So I felt like they just tried to play solid defense tonight and they did a good job of switching up coverages throughout the possession which threw us off a bit. But I think we got our rhythm.",
+      "text_blocks": [],
+      "start_seconds": 29,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kevin Durant says the Clippers played solid defense and switched up coverages to force the team to work harder for their looks tonight",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Kevin Durant discusses the defensive strategy employed by the Clippers during their game against the Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kevin Durant",
+      "timestamp": "01:05",
+      "summary_phrase": "Kevin Durant on the team's offensive flow and ball movement",
+      "names_mentioned": [
+        "Darius Garland"
+      ],
+      "excerpt": "I feel like we had to make multiple passes tonight.",
+      "quote": "No, I just think it was a flowing game. I don't think coach we haven't talked about it at all. I know that's been a topic of discussion a lot throughout the season thus far but I feel like we had to make multiple passes tonight. They did a good job on our initial actions and this season our initial actions been getting us some good looks. So sometimes the ball is not going to find guys on that backside when we just pick and roll dunk or pick and roll lob or catch and shoot three. So tonight they made us work a little bit harder and the ball found me a little bit more. Outside of Darius Garland going crazy in the start of the third quarter, I feel like we had the game under control.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kevin Durant on the offensive flow tonight: They did a good job on our initial actions so we had to make multiple passes to find the open man",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Darius Garland"
+        ],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Kevin Durant explains the team's offensive flow and ball movement during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kevin Durant",
+      "timestamp": "01:45",
+      "summary_phrase": "Kevin Durant on the team's improved shooting and efficiency",
+      "names_mentioned": [],
+      "excerpt": "I love that we got more shooting on the floor.",
+      "quote": "Yeah, I mean I love that we got more shooting on the floor. I think that was the main problem for us last year. The lack of shooting that we had on the floor and the lack of three-point attempts. I'm not saying we going crazy and shooting 40 or 50 threes now, but we are more efficient because we got more shooters out there and that's that simple. I think a lot of that stuff that why people hated last year so much is because we couldn't we didn't knock down a lot of shots from the perimeter. So I feel like we got guys that are shooting with confidence and we just getting them up too.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Kevin Durant says the main problem last year was a lack of shooting and that the team is more efficient now because they have guys shooting with confidence",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Kevin Durant discusses the team's improved perimeter shooting compared to the previous season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kevin Durant",
+      "timestamp": "02:33",
+      "summary_phrase": "Kevin Durant on bouncing back defensively after a loss",
+      "names_mentioned": [],
+      "excerpt": "I just think that we know that we had that game, we could have won easily.",
+      "quote": "I just think overall we just don't like losing. I just think that we know that we had that game, we could have won easily. So yeah, I mean each individual knows exactly what happened on the defensive side of the ball and you dig down deep, hold yourself accountable internally and come back just with a better effort. It's a long season, you know. We playing against last game we played against a championship-level organization. Offense is a part of our league now, so it's going to be times where we can't get a stop. It's that simple. They hit tough shots on us, but that's the name of the game sometimes. So we can't get discouraged, we got to come back to the next game and play with that same energy and effort and tonight we was able to put our pressure on them a little bit, put our hands on them a little bit and get to cruise out to a good W.",
+      "text_blocks": [],
+      "start_seconds": 153,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kevin Durant on bouncing back after a loss: Each individual knows exactly what happened on the defensive side of the ball and you hold yourself accountable internally",
+      "team": "Houston Rockets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Kevin Durant reflects on the team's defensive effort and mindset following a previous loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "tEWB4xc9VeQ",
+  "url": "https://www.youtube.com/watch?v=tEWB4xc9VeQ",
+  "channel_team": "Houston Rockets",
+  "published": "2026-11-24T04:26:18Z",
+  "duration_seconds": 218,
+  "processed_at": "2026-11-24T05:06:43Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
