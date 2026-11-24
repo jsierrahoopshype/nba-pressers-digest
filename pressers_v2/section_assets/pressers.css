@@ -43,7 +43,7 @@ a:hover{text-decoration:underline}
 .ehead h1{font-size:1.4rem;font-weight:700;letter-spacing:-.02em;line-height:1.2}
 .ehead .subtitle{margin-top:.2rem}
 
-/* Headshot circle or team logo, with initials when there is none */
+/* Headshot circle or team logo (a player with no photo gets none; a team with no logo gets its abbreviation) */
 .pic{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;overflow:hidden;
   width:28px;height:28px;vertical-align:middle;font-family:var(--mono);font-weight:600;
   font-size:.6rem;color:var(--text-secondary);letter-spacing:.02em}

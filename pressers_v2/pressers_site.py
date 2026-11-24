@@ -99,11 +99,6 @@ def rel_link(frm: str, to: str) -> str:
     return ("../" * (len(f) - i) + down + ("/" if down and to.endswith("/") else "")) or "./"
 
 
-def initials(name: str) -> str:
-    toks = [t for t in re.split(r"[\s\-]+", sq.TITLE_WORDS.sub("", name or "")) if t[:1].isalpha()]
-    return ((toks[0][0] + (toks[-1][0] if len(toks) > 1 else "")) if toks else "?").upper()
-
-
 def ascii_fold(text: str) -> str:
     """Share-image text: the bundled latin font has no glyph past U+00FF."""
     return "".join(c if ord(c) < 256 else unicodedata.normalize("NFKD", c).encode("ascii", "ignore").decode()
@@ -269,7 +264,7 @@ class Renderer:
             px = {"md": 44, "xl": 112}.get(size, 28)
             return (f'<span class="pic face {size}"><img src="{self.M.media.url(f)}" '
                     f'alt="" width="{px}" height="{px}" loading="lazy"></span>')
-        return f'<span class="pic face {size}" aria-hidden="true">{esc(initials(name))}</span>'
+        return ""  # no photo: nothing at all (no initials circle), the name stands alone
 
     def logo(self, path: str, abbr: str, size: str = "") -> str:
         f = self.M.media.logo(abbr)
