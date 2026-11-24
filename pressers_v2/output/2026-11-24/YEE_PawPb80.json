@@ -1,0 +1,200 @@
+{
+  "video_title": "Ty Jerome Walk-Off Interview | Grizzlies vs. Hornets",
+  "speakers_seen": [
+    "Rob Fischer",
+    "Ty Jerome"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ty Jerome",
+      "speakers": [
+        "Unidentified reporter",
+        "Ty Jerome"
+      ],
+      "timestamp": "00:03",
+      "summary_phrase": "Ty Jerome on Grizzlies' late-game rebounding and performance",
+      "names_mentioned": [
+        "Ty Jerome",
+        "Zach"
+      ],
+      "excerpt": "they stepped it up in that third and fourth quarter. That's what they do, they were big tonight.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "End of the third quarter, fourth quarter, what did you guys turn around to distance yourself?"
+        },
+        {
+          "speaker": "Ty Jerome",
+          "text": "Finally grabbed the rebounds. Moses is a hell of an offensive rebounder. We had our hands full, but still, and Zach, they stepped it up in that third and fourth quarter. That's what they do, they were big tonight."
+        }
+      ],
+      "start_seconds": 3,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ty Jerome credits the Grizzlies late game turnaround to finally securing defensive rebounds against a tough Hornets frontcourt",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Moses Brown",
+          "Zach Edey"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ty Jerome discusses the team's improved rebounding performance in the second half against the Hornets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ty Jerome",
+      "speakers": [
+        "Unidentified reporter",
+        "Ty Jerome"
+      ],
+      "timestamp": "00:24",
+      "summary_phrase": "Ty Jerome on his improvisational playstyle and lateral movement",
+      "names_mentioned": [],
+      "excerpt": "I don't know what I'm going to do till I do it.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You went laterally in the paint. Is it planned, or do you know what you're doing when it happens, or does it just happen in the moment?"
+        },
+        {
+          "speaker": "Ty Jerome",
+          "text": "No, I don't know what I'm going to do till I do it. I missed a few easy floaters today, but they'll fall as I get back to it."
+        }
+      ],
+      "start_seconds": 24,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Ty Jerome on his improvisational playstyle in the paint: I do not know what I am going to do till I do it",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ty Jerome explains his improvisational playstyle during a post-game interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ty Jerome",
+      "speakers": [
+        "Unidentified reporter",
+        "Ty Jerome"
+      ],
+      "timestamp": "00:45",
+      "summary_phrase": "Ty Jerome on the impact of Omax and Chris Murray",
+      "names_mentioned": [
+        "Omax",
+        "Chris Murray",
+        "Brandon Miller"
+      ],
+      "excerpt": "they showed the full arsenal tonight, so it was cool to watch.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Two guys tonight that maybe didn't show up in the box score too much, Omax and Chris Murray. What do they mean for your team as far as the energy they bring?"
+        },
+        {
+          "speaker": "Ty Jerome",
+          "text": "Everything. With Booz and Jeremy down, the way they can compete tonight, the way they guarded, the way Chris guarded Brandon Miller, the way Omax competed. And they were huge on offense too. A few big plays, Euro steps and all that. They showed the full arsenal tonight, so it was cool to watch."
+        }
+      ],
+      "start_seconds": 45,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Ty Jerome praises the energy and defensive impact of Omax and Chris Murray in the win over Charlotte",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Olivier-Maxence Prosper",
+          "Kris Murray",
+          "Brandon Miller"
+        ],
+        "teams": [
+          "MEM",
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ty Jerome praises the defensive and offensive contributions of Olivier-Maxence Prosper and Kris Murray following the game against the Hornets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ty Jerome",
+      "speakers": [
+        "Unidentified reporter",
+        "Ty Jerome"
+      ],
+      "timestamp": "01:05",
+      "summary_phrase": "Ty Jerome on maintaining Grizzlies' brand of basketball for 48 minutes",
+      "names_mentioned": [],
+      "excerpt": "We just got to play with our brand of basketball for 48 minutes.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You head back home to take on the Clippers in a cup game. What do you need to take from this one into that one?"
+        },
+        {
+          "speaker": "Ty Jerome",
+          "text": "We just got to play with our brand of basketball for 48 minutes. I think it's we get away from it sometimes and, you know, the rebounding battle, the possession game, the intensity on defense. We got to do that for 48 minutes."
+        }
+      ],
+      "start_seconds": 65,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ty Jerome says the Grizzlies need to maintain their brand of basketball and intensity for all 48 minutes heading into their next game against the Clippers",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Ty Jerome discusses the need for the Grizzlies to maintain their defensive intensity and rebounding focus for the full duration of upcoming games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: interview",
+  "format": "ytq-1",
+  "video_id": "YEE_PawPb80",
+  "url": "https://www.youtube.com/watch?v=YEE_PawPb80",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-24T02:34:38Z",
+  "duration_seconds": 84,
+  "processed_at": "2026-11-24T03:22:56Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

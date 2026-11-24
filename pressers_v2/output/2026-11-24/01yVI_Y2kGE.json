@@ -1,0 +1,291 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Hornets",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:11",
+      "summary_phrase": "Grizzlies' defensive improvement and rebounding dominance in the second half",
+      "names_mentioned": [],
+      "excerpt": "we did a much much better job with the rebounding. It was one of the things we knew Charlotte",
+      "quote": "We did a much much better job with the rebounding. It was one of the things we knew Charlotte is very strong at and they had 11 offensive rebounds in the first half and in the second half they ended up with three. That was the big difference because at the half they had over 10 more shots and their shooting over 40% for three. They had today 20 makes on 45 attempts for 44% and on top of this the offensive rebounds, it's very hard to make that up.",
+      "verbatim_original_language": "",
+      "start_seconds": 11,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Tuomas Iisalo credits the Grizzlies second half turnaround to a massive improvement on the glass, noting that limiting Charlotte to just three offensive rebounds in the second half was the difference in the game.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the Grizzlies' defensive improvements and rebounding performance in the second half against the Hornets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:46",
+      "summary_phrase": "Chris Murray's defensive impact on Brandon Miller",
+      "names_mentioned": [
+        "Chris Murray",
+        "Brandon Miller"
+      ],
+      "excerpt": "Chris Murray's defense on Brandon Miller, that was incredibly focused and high effort",
+      "quote": "We had tremendous defensive possessions. Chris Murray's defense on Brandon Miller, that was incredibly focused and high effort and the whole team I think fed off of that. Our bigs give us the physicality inside and guards just did a much better job in that third quarter and we were able to build that lead.",
+      "verbatim_original_language": "",
+      "start_seconds": 46,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo praised Chris Murray for his defensive effort against Brandon Miller, saying the team fed off his focus and high energy during the third quarter run.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Murray",
+          "Brandon Miller"
+        ],
+        "teams": [
+          "MEM",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo praises Chris Murray for his defensive effort against Brandon Miller during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:25",
+      "summary_phrase": "Chris Murray filling in for injured teammates",
+      "names_mentioned": [
+        "Chris Murray",
+        "Booz",
+        "Jeremy",
+        "Gigi"
+      ],
+      "excerpt": "we are right now missing three position four players in Booz and Jeremy and Gigi",
+      "quote": "A lot of it was obviously us right now missing three position four players in Booz and Jeremy and Gigi, all three that have really played in the rotation at that position. So there's an empty spot in the starting unit and we thought Chris would fill it really well for this game because of how he had gone in that preseason game and also we trust set a lot with variable matchups. We felt like he could match up with Reed, which is unique that your two guard can also match up with some of the fours and he did a great job with this and it turned out well for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 85,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 2,
+      "social_post": "With Booz, Jeremy, and Gigi all out, Tuomas Iisalo explained that Chris Murray earned the start because of his ability to handle unique matchups and his performance during the preseason.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Murray",
+          "Booz",
+          "Jeremy",
+          "Gigi"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tuomas Iisalo explains the decision to start Chris Murray due to injuries to other rotation players.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:31",
+      "summary_phrase": "Chris Murray's confidence as a floor leader",
+      "names_mentioned": [
+        "Chris Murray"
+      ],
+      "excerpt": "he gives the team so much confidence. It's amazing because he himself plays with a ton of confidence",
+      "quote": "He gives the team so much confidence. It's amazing because he himself plays with a ton of confidence and his confidence you can see it comes from the body of work and it comes from the preparation that he's put in. And when you see that you have a point guard that's not afraid of the moment and always wants the ball in his hands, I think it makes it a lot clearer for the other guys what to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 151,
+      "end_seconds": 182,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo on Chris Murray: He gives the team so much confidence. It is amazing because he himself plays with a ton of confidence and his confidence you can see it comes from the body of work and the preparation he has put in.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris Murray"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo describes the impact of Chris Murray's confidence on the rest of the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:00",
+      "summary_phrase": "Charlotte's deep drop defense and Grizzlies' offensive adjustments",
+      "names_mentioned": [
+        "Coach Lee",
+        "Tai",
+        "Cam Spencer"
+      ],
+      "excerpt": "Charlotte, they have played under Coach Lee, they've played this deep drop defense in the pick and roll",
+      "quote": "Charlotte, they have played under Coach Lee, they've played this deep drop defense in the pick and roll all three years here and that opened up spots not only for Tai, but also for Cam Spencer to then take those shots off the pick and roll and then when they look they adjusted into the switch. Thought our bigs and this was a big change from the first half, our bigs did a great job getting front rim position but also our other our perimeter players had way better angles finding them on the inside.",
+      "verbatim_original_language": "",
+      "start_seconds": 180,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Tuomas Iisalo breaks down the offensive adjustments against Charlotte's deep drop defense, noting that better perimeter angles and front rim positioning from the bigs were key to finding open shots.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tai",
+          "Cam Spencer"
+        ],
+        "teams": [
+          "MEM",
+          "CHA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo breaks down the offensive adjustments made against Charlotte's deep drop defensive scheme.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:40",
+      "summary_phrase": "Tai's development and conditioning",
+      "names_mentioned": [
+        "Tai"
+      ],
+      "excerpt": "Tai has been playing an amazing season and it really is a continuation of what he did already",
+      "quote": "Tai has been playing an amazing season and it really is a continuation of what he did already with us last year I think in 15 games and he's in even better shape because of his commitment to the to his rehab and and to his overall conditioning.",
+      "verbatim_original_language": "",
+      "start_seconds": 220,
+      "end_seconds": 238,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo says Tai is playing an amazing season, crediting the players commitment to rehab and overall conditioning for his continued development.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tai"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo comments on the physical conditioning and development of Tai.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "04:10",
+      "summary_phrase": "Coaching Tai and his intelligence on the court",
+      "names_mentioned": [
+        "Tai"
+      ],
+      "excerpt": "Tai is a New Yorker, he's brash, he's confident, but most of all he's very intelligent",
+      "quote": "With Tai it's going much better. I think I have a little bit more experience and Tai is also very experienced. So I'm extremely satisfied with our with our work together with him. It's great to like the discussions with Tai. He's a New Yorker, he's brash, he's confident, but most of all he's very intelligent. He's very intelligent and he also respects that in other people that you can discuss about the smallest details in the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 250,
+      "end_seconds": 280,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Tuomas Iisalo on coaching Tai: He is a New Yorker, he is brash, he is confident, but most of all he is very intelligent. He respects that in other people that you can discuss about the smallest details in the game.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tai"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses his working relationship and the basketball intelligence of Tai.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "05:03",
+      "summary_phrase": "Tai's role as the connective tissue of the team",
+      "names_mentioned": [
+        "Tai"
+      ],
+      "excerpt": "call him the connective tissue within our team. He's brought a lot of fluidity",
+      "quote": "Call him the connective tissue within our team. He's brought a lot of fluidity, a lot of different type of actions. He's such a unique player that he he enhances the offense and really gives us a lot of variability and now it's now it's finding some some different options during that time.",
+      "verbatim_original_language": "",
+      "start_seconds": 303,
+      "end_seconds": 323,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo calls Tai the connective tissue of the Grizzlies, noting that his unique playstyle brings fluidity and variability to the teams offense.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tai"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo describes the unique role Tai plays in enhancing the team's offensive fluidity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "01yVI_Y2kGE",
+  "url": "https://www.youtube.com/watch?v=01yVI_Y2kGE",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-24T02:54:29Z",
+  "duration_seconds": 410,
+  "processed_at": "2026-11-24T03:23:00Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

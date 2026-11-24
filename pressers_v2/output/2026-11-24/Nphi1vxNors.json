@@ -1,0 +1,246 @@
+{
+  "video_title": "Micah Nori Postgame Interview | Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026",
+  "speakers_seen": [
+    "Micah Nori"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Nori",
+      "timestamp": "00:14",
+      "summary_phrase": "Danny and Scoot Henderson's offensive impact against the 76ers",
+      "names_mentioned": [
+        "Danny",
+        "Scoot Henderson",
+        "Drew Holiday"
+      ],
+      "excerpt": "Danny carried us obviously offensively in the first half, and then in the second half Scoot Henderson came in",
+      "quote": "Danny carried us obviously offensively in the first half, and then in the second half Scoot Henderson came in the basketball game and got hot and was able to generate some buckets for us when we needed them. Drew Holiday hit some big ones and to your point with 32 assists and 46 percent on 19 made threes, it was a collective effort.",
+      "start_seconds": 14,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori credits a collective effort for the Blazers win over the 76ers, highlighting Danny's first half scoring and Scoot Henderson's second half spark off the bench.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson",
+          "Drew Holiday"
+        ],
+        "teams": [
+          "POR",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses the offensive contributions of Scoot Henderson and Drew Holiday during the win against the 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Nori",
+      "timestamp": "00:57",
+      "summary_phrase": "Defensive adjustments against the 76ers' pick-and-roll and isolation",
+      "names_mentioned": [
+        "76ers"
+      ],
+      "excerpt": "we did overhelp a little bit too much and they did miss some open looks",
+      "quote": "Quite honestly, we did overhelp a little bit too much and they did miss some open looks. The one thing that we talked about doing was making sure that it wasn't easy. We just felt we were a little bit soft and they were getting too much that they wanted. They were 10 for 15 on the short mid-range isos to start the game at halftime, so we tried to collapse a little bit more, show them a crowd and quite honestly sometimes it's better to be lucky and good.",
+      "start_seconds": 57,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Micah Nori admits the Blazers were a little soft defensively to start against Philadelphia, noting that sometimes it is better to be lucky and good.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Micah Nori explains the defensive adjustments made to counter the 76ers' pick-and-roll and isolation plays.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Nori",
+      "timestamp": "01:35",
+      "summary_phrase": "Danny's ability to get downhill and facilitate the offense",
+      "names_mentioned": [
+        "Danny"
+      ],
+      "excerpt": "he does a great job of getting himself downhill. Didn't get to the free throw line as much",
+      "quote": "The one thing that he did a phenomenal job of was we were able to get the ball moving from side to side and then we were able to get Danny with doing a good job of getting himself downhill. And then they do a really good job of protecting the paint and pulling over. When they showed him a crowd, he got off of it a little time. He ends up with the five turnovers because he hung onto it a little bit too much, but he does a great job of getting himself downhill. Didn't get to the free throw line as much, but he was able to get to the paint, get to his spots and finish, which was big for us.",
+      "start_seconds": 95,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori breaks down Danny's performance, noting his ability to get downhill while acknowledging he needs to clean up the five turnovers from tonight.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Danny"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori evaluates Danny's performance in getting downhill and facilitating the offense despite his turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Nori",
+      "timestamp": "02:02",
+      "summary_phrase": "Scoot Henderson's defensive focus and rhythm in the second half",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "he was more focused on his defense. I think that helps him and then he just his shots",
+      "quote": "I just like the way Scoot Henderson, quite honestly, he just played. He was more focused on his defense. I think that helps him and then he just his shots, catch and shoots were in the rhythm of the game. I thought he took one tough one on a step back that he missed, but other than that, he got himself downhill. When he was able to catch in the slot or catch in the corner, he had zero hesitation and when he let it fly, it just it looked good and it was really good to see him play basically two of the last three games phenomenally for lack of a better term.",
+      "start_seconds": 122,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Nori says Scoot Henderson has played phenomenally in two of the last three games, highlighting his defensive focus and rhythm as the keys to his recent success.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori praises the defensive focus and offensive rhythm shown by Scoot Henderson in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Nori",
+      "timestamp": "02:44",
+      "summary_phrase": "Trail Blazers' offensive spacing and perimeter shooting performance",
+      "names_mentioned": [
+        "Joel",
+        "Donovan"
+      ],
+      "excerpt": "without Joel, they have to commit a couple more people to the rim to help protect it",
+      "quote": "On the perimeter it was more so because they do a good job of taking care of the paint and obviously without Joel, they have to commit a couple more people to the rim to help protect it. And then our guys did a great job of spraying the basketball out, getting in the paint, drawing. We played very, very unselfish, which you show is the 32 assists. But then the catch and shoots, 42 threes and a lot of them were just catch and shoots or swing-swing, so those were good looks for us. And then we were able to control the board. I mean Donovan, God bless him, 18 rebounds, five of them offensive, and we really separated ourselves in the second half on the offensive glass.",
+      "start_seconds": 164,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori praises the unselfish play of the Blazers, who recorded 32 assists and dominated the glass behind Donovan's 18 rebounds to pull away in the second half.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid",
+          "Donovan"
+        ],
+        "teams": [
+          "POR",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Micah Nori analyzes the team's offensive spacing and rebounding performance against the 76ers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Nori",
+      "timestamp": "03:43",
+      "summary_phrase": "Future plans for Dante's development with the Trail Blazers",
+      "names_mentioned": [
+        "Dante",
+        "Joe"
+      ],
+      "excerpt": "the plan is I think quite honestly for him to be with us",
+      "quote": "I'll talk to Joe, but I don't I don't foresee that happening. To me, I think the the plan is I think quite honestly for him to be with us. If we have opportunities to get him to play some games with the remix, we'll do that. But I think obviously first and foremost, the Trail Blazers are the point of emphasis and if he can help us, we will we will keep him with us and then I'll talk to Joe and and Joe does a good job with his group of making those decisions.",
+      "start_seconds": 223,
+      "end_seconds": 260,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Micah Nori says the current plan is for Dante to remain with the Trail Blazers rather than playing for the Remix, though he will continue to consult with Joe on development decisions.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dante",
+          "Joe"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori discusses the development plan for Dante and his intention to consult with Joe regarding roster decisions.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Micah Nori",
+      "timestamp": "04:22",
+      "summary_phrase": "How having multiple handlers helps Danny's offensive efficiency",
+      "names_mentioned": [
+        "Danny"
+      ],
+      "excerpt": "the one thing that really helps Danny is when he's able to get it get off the ball",
+      "quote": "The one thing that really helps Danny is when he's able to get it get off the ball because we have so many extra handlers and then he can find his spots. And when they collapse defense, like I said, this is a team that protects the paint, so they really help with the nail and he's able to get those catch and shoots or when they go under for him to gather himself. But maybe he just didn't want to break it tonight, that's why he didn't make one in the second half, but to your point, he's getting a lot of good looks because we have a lot of guys that are putting pressure on the paint and been able to kick it out.",
+      "start_seconds": 262,
+      "end_seconds": 289,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Nori explains that having multiple ball handlers on the floor is helping Danny find better looks and get off the ball more effectively.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Danny"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Micah Nori explains how having multiple ball handlers benefits Danny's offensive efficiency and shot quality.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Nphi1vxNors",
+  "url": "https://www.youtube.com/watch?v=Nphi1vxNors",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-24T03:18:23Z",
+  "duration_seconds": 289,
+  "processed_at": "2026-11-24T03:22:48Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

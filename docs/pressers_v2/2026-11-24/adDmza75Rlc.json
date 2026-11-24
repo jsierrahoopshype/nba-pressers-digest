@@ -1,0 +1,140 @@
+{
+  "video_title": "Jonathan Kuminga Postgame Interview After Win Against Brooklyn Nets | 11.23.26",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Jonathan Kuminga"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "",
+      "speakers": [
+        "Unidentified reporter",
+        "Jonathan Kuminga"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Jonathan Kuminga on Minnesota's defensive intensity in the second half",
+      "names_mentioned": [
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "How can we come in and play as much defense as we can? That's going to help us",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "JK, the defense was on display tonight. How powerful in the second half were you guys able to turn it up after kind of allowing the Nets to stick around in that first half?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "I think early we fouled a lot. We went back in the locker room, we all spoke, and I think our mindset just going forward is how can we come in and play as much defense as we can? That's going to help us translate in offense, and I think we were all able to talk to each other all the time about defense and defensive assignment, and I think that's been our goal every time."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 42,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga on the Timberwolves defensive turnaround against the Nets: We went back in the locker room, we all spoke, and our mindset going forward is how can we come in and play as much defense as we can.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga explains how the team adjusted their defensive mindset during halftime to improve their performance against the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "",
+      "speakers": [
+        "Unidentified reporter",
+        "Jonathan Kuminga"
+      ],
+      "timestamp": "00:33",
+      "summary_phrase": "Jonathan Kuminga on team chemistry and floor spacing",
+      "names_mentioned": [
+        "Jonathan Kuminga"
+      ],
+      "excerpt": "I just pick my spot and try to give them space as much as I can",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Offensively, you guys continue to just impress the way that you guys have been able to move the ball, find each other. Where were you able to pick your spots to be able to have an impact on the game offensively tonight?"
+        },
+        {
+          "speaker": "Jonathan Kuminga",
+          "text": "I think we got one of the best point guards. We got Jaden that could do everything on the floor. We got Rudy that could help us in multiple ways, and I just pick my spot and try to give them space as much as I can and just play off them every time."
+        }
+      ],
+      "start_seconds": 33,
+      "end_seconds": 70,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga on his role in the Timberwolves offense: I just pick my spot and try to give them space as much as I can and just play off them every time.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jonathan Kuminga describes how he finds his offensive rhythm by playing off teammates Jaden McDaniels and Rudy Gobert.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "00:59",
+      "summary_phrase": "Jonathan Kuminga on the importance of home court support",
+      "names_mentioned": [],
+      "excerpt": "I appreciate them coming out every single day and supporting us",
+      "quote": "It felt great. I appreciate them coming out every single day and supporting us, and I think we feed off of them every single day, and that helps us gain these wins every time.",
+      "verbatim_original_language": "",
+      "start_seconds": 59,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga on the home crowd support: I appreciate them coming out every single day and supporting us, and I think we feed off of them every single day.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga expresses appreciation for the home crowd support and how it motivates the team to win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "adDmza75Rlc",
+  "url": "https://www.youtube.com/watch?v=adDmza75Rlc",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-24T03:07:37Z",
+  "duration_seconds": 78,
+  "processed_at": "2026-11-24T03:22:41Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

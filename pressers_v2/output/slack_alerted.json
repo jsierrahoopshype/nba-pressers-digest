@@ -210,13 +210,6 @@
    "run_id": "2026-11-21-overnight",
    "slot_date": "2026-11-21"
   },
-  "2ywtsVHfdgc": {
-   "at": "2026-11-10T02:44:46Z",
-   "quote": "zion rest just rest anything else no just rest we ve always talked about next man up mentality and so we ve have guys that have started before that have been in lineup that have been out of the lineup",
-   "run_id": "2026-11-10T0243Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-09"
-  },
   "2z8BzAhSIsI": {
    "at": "2026-11-17T18:39:34Z",
    "quote": "i m seeing guys with no agenda playing unselfish basketball on both ends of the floor i m seeing our frontcourt really forming one of the best duos in the nba the run giannis antetokounmpo is on right",
@@ -2131,13 +2124,6 @@
    "seeded": true,
    "slot_date": "2026-11-11"
   },
-  "er-0X-yJBEE": {
-   "at": "2026-11-10T02:44:37Z",
-   "quote": "i want to stay with start with the positive and that s that last group that came in and played with the right energy passion toughness it was really indicative of the contrast between that group and t",
-   "run_id": "2026-11-10T0243Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-09"
-  },
   "f7rJbgiZjDo": {
    "at": "2026-11-23T09:25:03Z",
    "quote": "gui steve kerr said you guys needed to dig out of a hole with defense so grind it out tough the win how did you do it steve was talking to us a lot about how we ve been playing defense the last couple",
@@ -3148,13 +3134,6 @@
    "run_id": "2026-11-13-overnight",
    "slot_date": "2026-11-13"
   },
-  "vyR3JC79fHo": {
-   "at": "2026-11-10T02:44:24Z",
-   "quote": "i felt like it was a process you take care of yourself and make sure you re ready to go while doing that you explain it particularly that first road trip with rookies or guys who never done it you exp",
-   "run_id": "2026-11-10T0243Z-20utc",
-   "seeded": true,
-   "slot_date": "2026-11-09"
-  },
   "w-sUmb7Zfrs": {
    "at": "2026-11-20T09:28:49Z",
    "quote": "like i said earlier just the technicals we all committed i looked i got five i didn t know i had five all of that just bite us at the end of the game",
@@ -3317,6 +3296,22 @@
   }
  },
  "pending": {
+  "01yVI_Y2kGE": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 8,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T03:23:02Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-24",
+   "speaker": "Tuomas Iisalo",
+   "title": "Tuomas Iisalo Press Conference | Grizzlies vs. Hornets",
+   "top_quote": "We did a much much better job with the rebounding. It was one of the things we knew Charlotte is very strong at and they had 11 offensive rebounds in the first half and in the second half they ended up with three. That was the big difference because at the half they had over 10 more shots and their shooting over 40% for three. They had today 20 makes on 45 attempts for 44% and on top of this the offensive rebounds, it's very hard to make that up.",
+   "video_id": "01yVI_Y2kGE"
+  },
   "0dCnatHCJbI": {
    "channel": "Golden State Warriors",
    "clip_count": 7,
@@ -3333,6 +3328,38 @@
    "top_quote": "He's automatically going to go to the best perimeter player. When he's at the five, he's often guarding the center, so this allows us to put him on somebody like Jason Tatum.",
    "video_id": "0dCnatHCJbI"
   },
+  "Nphi1vxNors": {
+   "channel": "Portland Trail Blazers",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T03:23:02Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-24",
+   "speaker": "Micah Nori",
+   "title": "Micah Nori Postgame Interview | Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026",
+   "top_quote": "Danny carried us obviously offensively in the first half, and then in the second half Scoot Henderson came in the basketball game and got hot and was able to generate some buckets for us when we needed them. Drew Holiday hit some big ones and to your point with 32 assists and 46 percent on 19 made threes, it was a collective effort.",
+   "video_id": "Nphi1vxNors"
+  },
+  "YEE_PawPb80": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T03:23:02Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-24",
+   "speaker": "Ty Jerome",
+   "title": "Ty Jerome Walk-Off Interview | Grizzlies vs. Hornets",
+   "top_quote": "End of the third quarter, fourth quarter, what did you guys turn around to distance yourself? Finally grabbed the rebounds. Moses is a hell of an offensive rebounder. We had our hands full, but still, and Zach, they stepped it up in that third and fourth quarter. That's what they do, they were big tonight.",
+   "video_id": "YEE_PawPb80"
+  },
   "Yk7vJLrjZ1A": {
    "channel": "Golden State Warriors",
    "clip_count": 7,
@@ -3348,6 +3375,22 @@
    "title": "Al Horford details what sparked Warriors’ turnaround vs. Celtics | NBC Sports BA",
    "top_quote": "I think the urgency was there, you know, I think that's where it starts, losing five in a row, just very difficult and being back home and just being able to refocus and I think it started with that urgency, how hard we were playing on the defensive end and how locked in we were into the game plan, that's what gave us the best opportunity and now we have to make sure that we validated and come out on Wednesday and keep that same type of intensity.",
    "video_id": "Yk7vJLrjZ1A"
+  },
+  "adDmza75Rlc": {
+   "channel": "Minnesota Timberwolves",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T03:23:02Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-24",
+   "speaker": "",
+   "title": "Jonathan Kuminga Postgame Interview After Win Against Brooklyn Nets | 11.23.26",
+   "top_quote": "JK, the defense was on display tonight. How powerful in the second half were you guys able to turn it up after kind of allowing the Nets to stick around in that first half? I think early we fouled a lot. We went back in the locker room, we all spoke, and I think our mindset just going forward is how can we come in and play as much defense as we can? That's going to help us translate in offense, and I think we were all able to talk to each other all the time about defense and defensive assignment, and I think that's been our goal every time.",
+   "video_id": "adDmza75Rlc"
   },
   "icElUOR1ryA": {
    "channel": "San Antonio Spurs",
@@ -3380,6 +3423,22 @@
    "title": "Gui Santos explains Warriors’ trust in rookie Yaxel Lendeborg | NBC Sports BA",
    "top_quote": "It feels good, especially after a win. The way that we played yesterday, the whole team was playing connected. We were talking a lot about that on, all right, if you're not going to score 120 points, so if we're going to score 88 points, we got to make them score 87 or less. But talking about me, my body is going in a better direction right now. I'm feeling slowly I'm building up and going back to how it was last year, body-wise, and that's a big part of my confidence going up again, a big part of what I do to help the team, being offensive rebounds, be fighting for every possession, and I think going forward now, I will still take care of my body and bring that to the team every night.",
    "video_id": "m3cwC19-AoA"
+  },
+  "nqu7z9vKoZI": {
+   "channel": "Charlotte Hornets",
+   "clip_count": 9,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T03:23:02Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-24",
+   "speaker": "Christian Anderson Jr.",
+   "title": "Hornets vs Grizzlies: Christian Anderson Jr. Postgame Media Availability | 11/23/2026",
+   "top_quote": "I think it's just playing with more confidence and the more my teammates and my coaches build me up, the more comfortable I feel out there. Every game by game it just feels better as the season goes on, so I just stay confident. I think it's the main thing.",
+   "video_id": "nqu7z9vKoZI"
   }
  }
 }
