@@ -14,7 +14,17 @@ From: [Deni Avdija Postgame Interview\| Trail Blazers 128, Philadelphia 76ers 11
 
 <small>[Clip it](presserclips://clip?v=-FN8qnGoYuY&t=211&q=8) · [Send to Slack](presserclips://clip?v=-FN8qnGoYuY&t=211&q=8&slack=1)</small>
 
-**2. Jaden McDaniels — "When we didn't have Anthony Edwards, it was like he was our leader and the head of the snake" — Jaden McDaniels on the leadership and work ethic of Anthony Edwards** [02:11](https://www.youtube.com/watch?v=7SUOs8HLfUo&t=131s)
+**2. Tyronn Lue — "it's difficult because you got to now see who plays well with who, you got many restrictions." — Tyronn Lue on rotation difficulties with returning players** [02:30](https://www.youtube.com/watch?v=a2D37Cs18zc&t=150s)
+
+Tyronn Lue: "It's difficult because you got to now see who plays well with who, you got many restrictions. The person who had to suffer was **Javonte Green**, who's been playing great for us, and so he didn't do anything wrong. He did everything we asked him to do, he played really good basketball for us, and so when you get everybody healthy for the first time, these are the things that happen. I just feel bad for Javonte because he's done everything right, he's played well, and he's going to get another opportunity."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=150s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=150s)
+
+From: [Clippers vs. Rockets \| Postgame Interviews](https://www.youtube.com/watch?v=a2D37Cs18zc) · *LA Clippers*
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=150&q=4) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=150&q=4&slack=1)</small>
+
+**3. Jaden McDaniels — "When we didn't have Anthony Edwards, it was like he was our leader and the head of the snake" — Jaden McDaniels on the leadership and work ethic of Anthony Edwards** [02:11](https://www.youtube.com/watch?v=7SUOs8HLfUo&t=131s)
 
 Jaden McDaniels: "When we didn't have **Anthony Edwards**, it was like he was our leader and the head of the snake and that's who we looked up to. And like he was kind of a vet to us as well. The things he does, his work ethic is amazing, he always working, so that's something I took from him."
 
@@ -24,7 +34,7 @@ From: [“We're Building A Good Habit Of Winning At Home.” \| Chris Finch Post
 
 <small>[Clip it](presserclips://clip?v=7SUOs8HLfUo&t=131&q=4) · [Send to Slack](presserclips://clip?v=7SUOs8HLfUo&t=131&q=4&slack=1)</small>
 
-**3. Jamal Shead — "I think he just needs to slow himself down. I think we all saw what he was capable of last year." — Jamal Shead on helping teammate Gradey Dick improve his performance** [02:11](https://www.youtube.com/watch?v=TWPG4-ZQnzw&t=131s)
+**4. Jamal Shead — "I think he just needs to slow himself down. I think we all saw what he was capable of last year." — Jamal Shead on helping teammate Gradey Dick improve his performance** [02:11](https://www.youtube.com/watch?v=TWPG4-ZQnzw&t=131s)
 
 Jamal Shead: "I think he just needs to slow himself down. I think we all saw what he was capable of last year, but like I said, it's a new year. He just has to find different ways to impact the game. He's on the scouting report now. You know, I think people prepare for him, people look to him as a big part of our team because he is, and he just has to figure out ways to impact the game and kind of help us push us over that hump."
 
@@ -34,7 +44,7 @@ From: [Jamal Shead \| Post Game at Milwaukee Bucks \| November 23, 2026](https:/
 
 <small>[Clip it](presserclips://clip?v=TWPG4-ZQnzw&t=131&q=6) · [Send to Slack](presserclips://clip?v=TWPG4-ZQnzw&t=131&q=6&slack=1)</small>
 
-**4. Keegan Murray — "our record shows we're not a good team because we have lapses in the middle of games" — Keegan Murray on the team's lack of consistency and lapses** [02:23](https://www.youtube.com/watch?v=6a0LEuClNm0&t=143s)
+**5. Keegan Murray — "our record shows we're not a good team because we have lapses in the middle of games" — Keegan Murray on the team's lack of consistency and lapses** [02:23](https://www.youtube.com/watch?v=6a0LEuClNm0&t=143s)
 
 Keegan Murray: "Right now our record shows we're not a good team because we have lapses in the middle of games like that. Teams like San Antonio, even with guys out, they're relentless. The guys come off the bench, know what they have to do and they didn't have any lapses. So for us to be at that level, regardless of who plays, you just got to figure it out and there's no excuse for that."
 
@@ -42,7 +52,7 @@ Keegan Murray: "Right now our record shows we're not a good team because we have
 
 From: [Doug Christie, Keegan Murray, De’Andre Hunter recap Kings’ loss \| NBC Sports California](https://www.youtube.com/watch?v=6a0LEuClNm0) · *Sacramento Kings*
 
-**5. Kevin Durant — "I love that we got more shooting on the floor." — Kevin Durant on the team's improved shooting and efficiency** [01:45](https://www.youtube.com/watch?v=tEWB4xc9VeQ&t=105s)
+**6. Kevin Durant — "I love that we got more shooting on the floor." — Kevin Durant on the team's improved shooting and efficiency** [01:45](https://www.youtube.com/watch?v=tEWB4xc9VeQ&t=105s)
 
 Kevin Durant: "Yeah, I mean I love that we got more shooting on the floor. I think that was the main problem for us last year. The lack of shooting that we had on the floor and the lack of three-point attempts. I'm not saying we going crazy and shooting 40 or 50 threes now, but we are more efficient because we got more shooters out there and that's that simple. I think a lot of that stuff that why people hated last year so much is because we couldn't we didn't knock down a lot of shots from the perimeter. So I feel like we got guys that are shooting with confidence and we just getting them up too."
 
@@ -50,7 +60,7 @@ Kevin Durant: "Yeah, I mean I love that we got more shooting on the floor. I thi
 
 From: [Houston Rockets Postgame: Kevin Durant talks big fourth quarter and win](https://www.youtube.com/watch?v=tEWB4xc9VeQ) · *Houston Rockets*
 
-**6. Luke Kornet — "it's honestly something that we feel like we've been talking about a little bit" — Luke Kornet on the team's adjustment to Victor Wembanyama's absence** [00:59](https://www.youtube.com/watch?v=_tbaPXoDMeU&t=59s)
+**7. Luke Kornet — "it's honestly something that we feel like we've been talking about a little bit" — Luke Kornet on the team's adjustment to Victor Wembanyama's absence** [00:59](https://www.youtube.com/watch?v=_tbaPXoDMeU&t=59s)
 
 Luke Kornet: "It's honestly something that we feel like we've been talking about a little bit and trying to figure out exactly what we want to do with certain things. I honestly feel like there's a great opportunity to be able to just have a lot of minutes of doing that and develop a feel for that because obviously when you have such a uniquely talented player on both ends, you're allowed to do certain things that then it does take acclimate or reacclimation."
 
@@ -60,7 +70,7 @@ From: [Luke Kornet on Spurs Playing with the Right Level of Togetherness](https:
 
 <small>[Clip it](presserclips://clip?v=_tbaPXoDMeU&t=59&q=2) · [Send to Slack](presserclips://clip?v=_tbaPXoDMeU&t=59&q=2&slack=1)</small>
 
-**7. Gui Santos — "Yaxel has been phenomenal this year for us, you know. He's been playing really well" — Gui Santos on Yaxel Lendeborg's role and team trust** [04:42](https://www.youtube.com/watch?v=m3cwC19-AoA&t=282s)
+**8. Gui Santos — "Yaxel has been phenomenal this year for us, you know. He's been playing really well" — Gui Santos on Yaxel Lendeborg's role and team trust** [04:42](https://www.youtube.com/watch?v=m3cwC19-AoA&t=282s)
 
 Gui Santos: "Yaxel has been phenomenal this year for us, you know. He's been playing really well and the team trusts him, the staff trusts him, and we know that he's going to do the right decision when he got the ball. So whenever we can, we can give the ball to him in the middle of the paint or either playing pick-and-roll, he's going to have the best decision. But sometimes I feel like the teams are helping and over-helping on him and that's put us in a situation to have the ball doing kind of like the Jimmy role, and he's been doing amazing, but we also got to be there to help him and make his life easier."
 
@@ -68,7 +78,7 @@ Gui Santos: "Yaxel has been phenomenal this year for us, you know. He's been pla
 
 From: [Gui Santos explains Warriors’ trust in rookie Yaxel Lendeborg \| NBC Sports BA](https://www.youtube.com/watch?v=m3cwC19-AoA) · *Golden State Warriors*
 
-**8. Kenrich Williams — "He is one of the most competitive guys that I've ever been around." — Kenrich Williams on Jalen Williams' competitive nature** [03:41](https://www.youtube.com/watch?v=LGw8NJ2bfNE&t=221s)
+**9. Kenrich Williams — "He is one of the most competitive guys that I've ever been around." — Kenrich Williams on Jalen Williams' competitive nature** [03:41](https://www.youtube.com/watch?v=LGw8NJ2bfNE&t=221s)
 
 Kenrich Williams: "He is one of the most competitive guys that I've ever been around. Not just the game of basketball, it's just everyday, how he attacks the day. He always just shows up for a moment and is super competitive."
 
@@ -78,7 +88,7 @@ From: [Kenrich Williams on Team's Mindset \| Postgame Media \| November 23, 2026
 
 <small>[Clip it](presserclips://clip?v=LGw8NJ2bfNE&t=221&q=5) · [Send to Slack](presserclips://clip?v=LGw8NJ2bfNE&t=221&q=5&slack=1)</small>
 
-**9. Peyton Watson — "I'm always trying to communicate with my teammates and try to help make their job easier." — Peyton Watson on the team's search for consistency and leadership** [04:23](https://www.youtube.com/watch?v=Lh02MmMunbk&t=263s)
+**10. Peyton Watson — "I'm always trying to communicate with my teammates and try to help make their job easier." — Peyton Watson on the team's search for consistency and leadership** [04:23](https://www.youtube.com/watch?v=Lh02MmMunbk&t=263s)
 
 Peyton Watson: "I think if we knew the answer, we would just do it. I think we're still searching for that. I'm always trying to communicate with my teammates and try to help make their job easier and just be a guy that connects the team in a lot of ways. I think I try to just go out there and lead by example by playing as hard as I can every night. I think that everybody has got to look inward and look themselves in the mirror and ask themselves, am I giving 100% every single night?"
 
@@ -88,7 +98,7 @@ From: [Cavs at Bulls \| Sam Merrill & Peyton Watson Post Game \| 11.23.2026](htt
 
 <small>[Clip it](presserclips://clip?v=Lh02MmMunbk&t=263&q=6) · [Send to Slack](presserclips://clip?v=Lh02MmMunbk&t=263&q=6&slack=1)</small>
 
-**10. Ayo Dosunmu — "He's playing aggressive, he's playing efficient. He's seeing the ball go in." — Ayo Dosunmu on Jaden McDaniels' career-high performance and efficiency** [00:37](https://www.youtube.com/watch?v=MG6wmc5S1ec&t=37s)
+**11. Ayo Dosunmu — "He's playing aggressive, he's playing efficient. He's seeing the ball go in." — Ayo Dosunmu on Jaden McDaniels' career-high performance and efficiency** [00:37](https://www.youtube.com/watch?v=MG6wmc5S1ec&t=37s)
 
 **Alan Horton:** "A career high for **Jaden McDaniels**, 34 points, 10 rebounds, 6 assists, 12 of 16 shooting. Is this a glimpse of what Jaden is? He's just gotten better and better every year he's been in the league. You joined him last season, but the world's at his fingertips, right?"
 
@@ -100,7 +110,7 @@ From: [Ayo Dosunmu Postgame Interview With Alan Horton \| 11.23.26](https://www.
 
 <small>[Clip it](presserclips://clip?v=MG6wmc5S1ec&t=37&q=2) · [Send to Slack](presserclips://clip?v=MG6wmc5S1ec&t=37&q=2&slack=1)</small>
 
-**11. Al Horford — "the urgency was there, you know, I think that's where it starts, losing five in a row" — Al Horford on the team's defensive urgency and recent struggles** [00:09](https://www.youtube.com/watch?v=Yk7vJLrjZ1A&t=9s)
+**12. Al Horford — "the urgency was there, you know, I think that's where it starts, losing five in a row" — Al Horford on the team's defensive urgency and recent struggles** [00:09](https://www.youtube.com/watch?v=Yk7vJLrjZ1A&t=9s)
 
 Al Horford: "I think the urgency was there, you know, I think that's where it starts, losing five in a row, just very difficult and being back home and just being able to refocus and I think it started with that urgency, how hard we were playing on the defensive end and how locked in we were into the game plan, that's what gave us the best opportunity and now we have to make sure that we validated and come out on Wednesday and keep that same type of intensity."
 
@@ -108,7 +118,7 @@ Al Horford: "I think the urgency was there, you know, I think that's where it st
 
 From: [Al Horford details what sparked Warriors’ turnaround vs. Celtics \| NBC Sports BA](https://www.youtube.com/watch?v=Yk7vJLrjZ1A) · *Golden State Warriors*
 
-**12. Joan Beringer — "He said just for me to find a way to impact the game, impact winning." — Joan Beringer on his goal to impact winning** [01:47](https://www.youtube.com/watch?v=cTpWrWnx7to&t=107s)
+**13. Joan Beringer — "He said just for me to find a way to impact the game, impact winning." — Joan Beringer on his goal to impact winning** [01:47](https://www.youtube.com/watch?v=cTpWrWnx7to&t=107s)
 
 Joan Beringer: "Before the season starts, the team coach came to me and he gave me a letter and he said just for me to find a way to impact the game, impact winning. So it's just what I try to do every game. Even if I don't score, I just try to impact for the win and I think it's just my mindset every game."
 
@@ -118,7 +128,7 @@ From: [“My Goal Is To Impact The Game And Make Winning Plays.” \| Joan Berin
 
 <small>[Clip it](presserclips://clip?v=cTpWrWnx7to&t=107&q=3) · [Send to Slack](presserclips://clip?v=cTpWrWnx7to&t=107&q=3&slack=1)</small>
 
-**13. Moussa Diabate — "nobody's going to come save us. I think that we do a great job at working on what we have right now" — Moussa Diabate on building chemistry with shifting lineups** [02:20](https://www.youtube.com/watch?v=hK9oVtT3pLw&t=140s)
+**14. Moussa Diabate — "nobody's going to come save us. I think that we do a great job at working on what we have right now" — Moussa Diabate on building chemistry with shifting lineups** [02:20](https://www.youtube.com/watch?v=hK9oVtT3pLw&t=140s)
 
 Moussa Diabate: "That's all we got. At the end of the day, there's only so much you can say, right? I think that at the end of the day, that's all we got. Nobody's going to come save us. I think that we do a great job at working on what we have right now. Obviously we're missing some guys, but still not an excuse, no matter what. I will never come in and be like, oh yeah, this is the reason why we lost. I think we have plenty, we have enough."
 
@@ -128,7 +138,7 @@ From: [Hornets vs Grizzlies: Moussa Diabate Postgame Media Availability \| 11/23
 
 <small>[Clip it](presserclips://clip?v=hK9oVtT3pLw&t=140&q=4) · [Send to Slack](presserclips://clip?v=hK9oVtT3pLw&t=140&q=4&slack=1)</small>
 
-**14. Ja'Kobe Walter — "When a good player gets confidence, you know it's hard to stop him." — Ja'Kobe Walter on letting Tyler Herro get comfortable in second half** [00:13](https://www.youtube.com/watch?v=lRB80F6I3Zc&t=13s)
+**15. Ja'Kobe Walter — "When a good player gets confidence, you know it's hard to stop him." — Ja'Kobe Walter on letting Tyler Herro get comfortable in second half** [00:13](https://www.youtube.com/watch?v=lRB80F6I3Zc&t=13s)
 
 Ja'Kobe Walter: "You see the first half, we held him to three points, so you know we're capable. We definitely let him get comfortable. We let him get to what he does, and when a good player gets confidence, you know it's hard to stop him."
 
@@ -138,7 +148,7 @@ From: [Ja'Kobe Walter \| Post Game at Milwaukee Bucks \| November 23, 2026](http
 
 <small>[Clip it](presserclips://clip?v=lRB80F6I3Zc&t=13&q=1) · [Send to Slack](presserclips://clip?v=lRB80F6I3Zc&t=13&q=1&slack=1)</small>
 
-**15. Walker Kessler — "Seeing how we compete without him and not at our full strength is good, it builds resiliency." — Walker Kessler on team resiliency without Austin Reaves** [16:26](https://www.youtube.com/watch?v=PjILqPXKQC8&t=986s)
+**16. Walker Kessler — "Seeing how we compete without him and not at our full strength is good, it builds resiliency." — Walker Kessler on team resiliency without Austin Reaves** [16:26](https://www.youtube.com/watch?v=PjILqPXKQC8&t=986s)
 
 Walker Kessler: "Seeing how we compete without him and not at our full strength is good, it builds resiliency because there is not going to be always your full strength going into the season, things happen to a long season. So it is encouraging to see, but obviously we miss him and excited for him to get back out there."
 
@@ -146,7 +156,7 @@ Walker Kessler: "Seeing how we compete without him and not at our full strength 
 
 From: [Lakers vs Jazz \| Postgame Interviews x Highlights: November 23, 2026](https://www.youtube.com/watch?v=PjILqPXKQC8) · *Los Angeles Lakers*
 
-**16. De’Andre Hunter — "it's just attention to detail and effort. I think that's the biggest thing" — De’Andre Hunter on the importance of defensive rebounding and effort** [05:34](https://www.youtube.com/watch?v=6a0LEuClNm0&t=334s)
+**17. De’Andre Hunter — "it's just attention to detail and effort. I think that's the biggest thing" — De’Andre Hunter on the importance of defensive rebounding and effort** [05:34](https://www.youtube.com/watch?v=6a0LEuClNm0&t=334s)
 
 De’Andre Hunter: "It's just attention to detail and effort. I think that's the biggest thing. Obviously we're a little undersized with **Domantas Sabonis** at the five, but I think we still can, you know, defensive rebound a lot better and stop the other team from getting offensive rebounds. So I think that's where we lose a lot of our games at and you know we just have to concentrate and focus on that and probably not worry about other things as much."
 
@@ -154,7 +164,7 @@ De’Andre Hunter: "It's just attention to detail and effort. I think that's the
 
 From: [Doug Christie, Keegan Murray, De’Andre Hunter recap Kings’ loss \| NBC Sports California](https://www.youtube.com/watch?v=6a0LEuClNm0) · *Sacramento Kings*
 
-**17. Sam Merrill — "We got to be better at guarding the ball and keeping them out of transition." — Sam Merrill on the team's defensive struggles and transition defense** [00:03](https://www.youtube.com/watch?v=Lh02MmMunbk&t=3s)
+**18. Sam Merrill — "We got to be better at guarding the ball and keeping them out of transition." — Sam Merrill on the team's defensive struggles and transition defense** [00:03](https://www.youtube.com/watch?v=Lh02MmMunbk&t=3s)
 
 Sam Merrill: "We got to be better. We gave up 70 points in the first half and especially against teams like these where they play fast in transition and fast in the half court. We got to be better at guarding the ball and keeping them out of transition. Second half we were a lot better defensively, but offensively we were pretty bad, pretty slow, stagnant the whole game. Just not how we want to play."
 
@@ -164,7 +174,7 @@ From: [Cavs at Bulls \| Sam Merrill & Peyton Watson Post Game \| 11.23.2026](htt
 
 <small>[Clip it](presserclips://clip?v=Lh02MmMunbk&t=3&q=1) · [Send to Slack](presserclips://clip?v=Lh02MmMunbk&t=3&q=1&slack=1)</small>
 
-**18. Kyle Filipowski — "having another big out there changes my job a little bit" — Kyle Filipowski on the impact of playing alongside another big man** [00:42](https://www.youtube.com/watch?v=Raz57hXNSEU&t=42s)
+**19. Kyle Filipowski — "having another big out there changes my job a little bit" — Kyle Filipowski on the impact of playing alongside another big man** [00:42](https://www.youtube.com/watch?v=Raz57hXNSEU&t=42s)
 
 Kyle Filipowski: "Obviously having another big out there changes my job a little bit. Obviously my job is still to rebound, play hard, things like that, but it is definitely a different look we have playing another big alongside myself."
 
@@ -174,7 +184,7 @@ From: [Kyle Filipowski talks about what worked, how to be effective, preparing f
 
 <small>[Clip it](presserclips://clip?v=Raz57hXNSEU&t=42&q=3) · [Send to Slack](presserclips://clip?v=Raz57hXNSEU&t=42&q=3&slack=1)</small>
 
-**19. Jalen Green — "We just had to stay locked in defensively. That's where a lot of our lapses was." — Jalen Green on the Suns' defensive focus in overtime win** [00:04](https://www.youtube.com/watch?v=UQChnqoeqn8&t=4s)
+**20. Jalen Green — "We just had to stay locked in defensively. That's where a lot of our lapses was." — Jalen Green on the Suns' defensive focus in overtime win** [00:04](https://www.youtube.com/watch?v=UQChnqoeqn8&t=4s)
 
 **Unidentified reporter:** "Jalen, you look, this Pelicans team wouldn't go away. They had a season-high 67 bench points. How were you guys able to lock in and get this one done in overtime?"
 
@@ -186,7 +196,7 @@ From: [Jalen Green Postgame On-Court Interview after Suns win against New Orlean
 
 <small>[Clip it](presserclips://clip?v=UQChnqoeqn8&t=4&q=1) · [Send to Slack](presserclips://clip?v=UQChnqoeqn8&t=4&q=1&slack=1)</small>
 
-**20. Ty Jerome — "I don't know what I'm going to do till I do it." — Ty Jerome on his improvisational playstyle and lateral movement** [00:24](https://www.youtube.com/watch?v=YEE_PawPb80&t=24s)
+**21. Ty Jerome — "I don't know what I'm going to do till I do it." — Ty Jerome on his improvisational playstyle and lateral movement** [00:24](https://www.youtube.com/watch?v=YEE_PawPb80&t=24s)
 
 **Unidentified reporter:** "You went laterally in the paint. Is it planned, or do you know what you're doing when it happens, or does it just happen in the moment?"
 
@@ -198,7 +208,17 @@ From: [Ty Jerome Walk-Off Interview \| Grizzlies vs. Hornets](https://www.youtub
 
 <small>[Clip it](presserclips://clip?v=YEE_PawPb80&t=24&q=2) · [Send to Slack](presserclips://clip?v=YEE_PawPb80&t=24&q=2&slack=1)</small>
 
-**21. Jalen Slawson — "Tom Hankins last year, our head coach for the Mad Ants, told me this could be a big reason you're not in the NBA." — Tom Hankins' advice on Jalen Slawson's NBA future** [08:29](https://www.youtube.com/watch?v=ecLl-7vJcjY&t=509s)
+**22. Brandon Boston Jr. — "cleaning up some defensive stuff at the end of the game and making sure we're sharp on offense." — Brandon Boston Jr. on defensive contributions and team growth** [06:33](https://www.youtube.com/watch?v=a2D37Cs18zc&t=393s)
+
+Brandon Boston Jr.: "Some of the defensive lapses at the end of the game, I wasn't a part of it, but we were down maybe three or four and they got a back-door layup, **Tari Eason** got a dunk on the baseline. So just cleaning up some defensive stuff at the end of the game and making sure we're sharp on offense."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=393s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=393s)
+
+From: [Clippers vs. Rockets \| Postgame Interviews](https://www.youtube.com/watch?v=a2D37Cs18zc) · *LA Clippers*
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=393&q=9) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=393&q=9&slack=1)</small>
+
+**23. Jalen Slawson — "Tom Hankins last year, our head coach for the Mad Ants, told me this could be a big reason you're not in the NBA." — Tom Hankins' advice on Jalen Slawson's NBA future** [08:29](https://www.youtube.com/watch?v=ecLl-7vJcjY&t=509s)
 
 Jalen Slawson: "**Tom Hankins** last year, our head coach for the Mad Ants, told me this could be a big reason you're not in the NBA. He actually told me to go talk to our sports psychologist **Jamie Rubin**, and she did a great job helping me move on to the next play. That's kind of where it started. One thing we talked about was when something like that happens, just try to gather the team. Say something to the team, whether it be a correction, something I see that we can do differently, or even just praising a guy."
 
@@ -208,7 +228,7 @@ From: [Rick Carlisle, Jalen Slawson, Kelly Oubre Jr. & Pascal Siakam Postgame Me
 
 <small>[Clip it](presserclips://clip?v=ecLl-7vJcjY&t=509&q=4) · [Send to Slack](presserclips://clip?v=ecLl-7vJcjY&t=509&q=4&slack=1)</small>
 
-**22. Christian Anderson Jr. — "we don't let it drain our confidence and we still think we can go out there" — Christian Anderson Jr. on the Hornets' long-term outlook and team growth** [01:50](https://www.youtube.com/watch?v=nqu7z9vKoZI&t=110s)
+**24. Christian Anderson Jr. — "we don't let it drain our confidence and we still think we can go out there" — Christian Anderson Jr. on the Hornets' long-term outlook and team growth** [01:50](https://www.youtube.com/watch?v=nqu7z9vKoZI&t=110s)
 
 Christian Anderson Jr.: "It's a long season and obviously you're playing against some of the best players in the world and you can't let five games try to let you down mentally and wear on what you're trying to get accomplished. It's 82 games so you got a lot of time to build back up even if you lose a lot of games early. We don't let it drain our confidence and we still think we can go out there and we think we're getting better each game."
 
@@ -218,7 +238,7 @@ From: [Hornets vs Grizzlies: Christian Anderson Jr. Postgame Media Availability 
 
 <small>[Clip it](presserclips://clip?v=nqu7z9vKoZI&t=110&q=3) · [Send to Slack](presserclips://clip?v=nqu7z9vKoZI&t=110&q=3&slack=1)</small>
 
-**23. Myles Turner — "It's been a group breakthrough that's been on the way too." — Myles Turner on the team's collective breakthrough and recent play** [00:27](https://www.youtube.com/watch?v=rbN1OSgh3vo&t=27s)
+**25. Myles Turner — "It's been a group breakthrough that's been on the way too." — Myles Turner on the team's collective breakthrough and recent play** [00:27](https://www.youtube.com/watch?v=rbN1OSgh3vo&t=27s)
 
 Myles Turner: "It's been a group breakthrough that's been on the way too. I feel like for the past two to three weeks we've been playing basketball the right way. Sometimes a couple plays didn't go our way in the past few games, but we finally collectively fought and put four quarters of basketball together. We just can't be satisfied. I think that we finally set a good precedent for ourselves, now it's to keep rolling."
 
@@ -227,16 +247,6 @@ Myles Turner: "It's been a group breakthrough that's been on the way too. I feel
 From: [Myles Turner Postgame Media Availability \| 11.23.26](https://www.youtube.com/watch?v=rbN1OSgh3vo) · *Milwaukee Bucks*
 
 <small>[Clip it](presserclips://clip?v=rbN1OSgh3vo&t=27&q=2) · [Send to Slack](presserclips://clip?v=rbN1OSgh3vo&t=27&q=2&slack=1)</small>
-
-**24. Pascal Siakam — "Using your athleticism, playing to exhaustion, both sides of the court, just playing with passion, with force." — Pascal Siakam on Jalen Slawson's athletic intensity** [19:30](https://www.youtube.com/watch?v=ecLl-7vJcjY&t=1170s)
-
-Pascal Siakam: "Using your athleticism, playing to exhaustion, both sides of the court, just playing with passion, with force. And you know, I think like when you end up in that position where you're in a two-way, you're trying to figure out your spot in the league, that's the only way. So I think he's doing that every single position, playing it like it's his last, chasing every single one of those blocks, whatever needs to be done. I think he's doing that, and that's the way you want to do it when you want to have a roster spot."
-
-[https://www.youtube.com/watch?v=ecLl-7vJcjY&t=1170s](https://www.youtube.com/watch?v=ecLl-7vJcjY&t=1170s)
-
-From: [Rick Carlisle, Jalen Slawson, Kelly Oubre Jr. & Pascal Siakam Postgame Media Avail \| Nov. 23, 2026](https://www.youtube.com/watch?v=ecLl-7vJcjY) · *Indiana Pacers*
-
-<small>[Clip it](presserclips://clip?v=ecLl-7vJcjY&t=1170&q=6) · [Send to Slack](presserclips://clip?v=ecLl-7vJcjY&t=1170&q=6&slack=1)</small>
 
 ---
 
@@ -1703,6 +1713,94 @@ Luke Kornet: "I feel like we did a good job of playing with some movement and pa
 [https://www.youtube.com/watch?v=_tbaPXoDMeU&t=193s](https://www.youtube.com/watch?v=_tbaPXoDMeU&t=193s)
 
 <small>[Clip it](presserclips://clip?v=_tbaPXoDMeU&t=193&q=4) · [Send to Slack](presserclips://clip?v=_tbaPXoDMeU&t=193&q=4&slack=1)</small>
+
+---
+
+## Clippers vs. Rockets | Postgame Interviews — *LA Clippers*
+
+Source: [https://www.youtube.com/watch?v=a2D37Cs18zc](https://www.youtube.com/watch?v=a2D37Cs18zc)
+
+_Speakers identified: Tyronn Lue, Brandon Boston Jr._
+
+**1. Tyronn Lue — "just trying to play through it, getting his rhythm." — Tyronn Lue on Brandon Boston Jr.'s performance and rotation challenges** [00:03](https://www.youtube.com/watch?v=a2D37Cs18zc&t=3s)
+
+Tyronn Lue: "Just trying to play through it, getting his rhythm. I think it was one for seven in the first half and then came back was five for eleven. Just his presence on the floor, we had to get guys shots, get to his spots, and then now we just got to figure out rotations and how we want to play, and who's going to play well with who."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=3s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=3s)
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=3&q=1) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=3&q=1&slack=1)</small>
+
+**2. Tyronn Lue — "couple of misreads defensively, but I thought that third quarter, we go up five." — Tyronn Lue on defensive lapses and the third-quarter run** [00:40](https://www.youtube.com/watch?v=a2D37Cs18zc&t=40s)
+
+Tyronn Lue: "Couple of misreads defensively, but I thought that third quarter, we go up five and then they go on I think a 10-0 run or 12-2 run to go up five. We had that little spurt where we had like three or four turnovers in a row that kind of got them going offensively. Overall, I thought our defense was pretty good, especially in that first half, and then midway through that third quarter, just the turnovers kind of got them back in the game."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=40s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=40s)
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=40&q=2) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=40&q=2&slack=1)</small>
+
+**3. Tyronn Lue — "Terance did a good job just taking what the defense gave him." — Tyronn Lue on Terance Mann's floor spacing and offensive role** [01:18](https://www.youtube.com/watch?v=a2D37Cs18zc&t=78s)
+
+Tyronn Lue: "Terance did a good job just taking what the defense gave him and we talked to him about taking more threes off the dribble, especially versus the drop, and he got us going to allow us to get that five-point lead. Just picking and choosing his spots, also having eight assists and only one turnover, just getting to his spots, making his teammates better, and I think just understanding now the concept of the offense, he's been really good the last few games."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=78s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=78s)
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=78&q=3) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=78&q=3&slack=1)</small>
+
+**4. Tyronn Lue — "it's difficult because you got to now see who plays well with who, you got many restrictions." — Tyronn Lue on rotation difficulties with returning players** [02:30](https://www.youtube.com/watch?v=a2D37Cs18zc&t=150s)
+
+Tyronn Lue: "It's difficult because you got to now see who plays well with who, you got many restrictions. The person who had to suffer was **Javonte Green**, who's been playing great for us, and so he didn't do anything wrong. He did everything we asked him to do, he played really good basketball for us, and so when you get everybody healthy for the first time, these are the things that happen. I just feel bad for Javonte because he's done everything right, he's played well, and he's going to get another opportunity."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=150s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=150s)
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=150&q=4) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=150&q=4&slack=1)</small>
+
+**5. Tyronn Lue — "we were able to run offense by them putting Sengun on Isaiah." — Tyronn Lue on Isaiah Jackson's impact against Sengun** [03:07](https://www.youtube.com/watch?v=a2D37Cs18zc&t=187s)
+
+Tyronn Lue: "We were able to run offense by them putting Sengun on Isaiah, we were able to attack the way we wanted to attack. Early in the game with Brooks, they were putting a four man on Brooks so they could switch, and then had our guards setting picks for DG and some unfamiliar territory for our guys to have the five guard them, having to set screens and pop and roll and things like that. I like what Isaiah was able to bring for us offensively."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=187s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=187s)
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=187&q=5) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=187&q=5&slack=1)</small>
+
+**6. Tyronn Lue — "he got to understand the shoving and pushing fouls and offensive rebounds when you're pushing in the back." — Tyronn Lue on Giannis Antetokounmpo's foul trouble and adjustment** [04:20](https://www.youtube.com/watch?v=a2D37Cs18zc&t=260s)
+
+Tyronn Lue: "It could be easily corrected. I think he got to understand the shoving and pushing fouls and offensive rebounds when you're pushing in the back, things like that. Some of the screens they're calling, with all the guys being able to manipulate and flop and fall the way they try to get hit, it's kind of hard to really tell our guys don't set screens and be careful because we need to get our guys open, so he'll get better with that and clean those things up."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=260s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=260s)
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=260&q=6) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=260&q=6&slack=1)</small>
+
+**7. Brandon Boston Jr. — "it's just a little bit of bending in the rush." — Brandon Boston Jr. on his three-point shooting and conditioning** [05:16](https://www.youtube.com/watch?v=a2D37Cs18zc&t=316s)
+
+Brandon Boston Jr.: "I think it's just a little bit of bending in the rush. It's been a minute since I've been playing against NBA five on five, so just being in the rush, I think it's a good thing to get that game out of the way and we'll move on to the next one."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=316s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=316s)
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=316&q=7) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=316&q=7&slack=1)</small>
+
+**8. Brandon Boston Jr. — "I look back at the film and see what I can do better." — Brandon Boston Jr. on his offensive shot selection and improvement** [06:12](https://www.youtube.com/watch?v=a2D37Cs18zc&t=372s)
+
+Brandon Boston Jr.: "I look back at the film and see what I can do better. Some of those I probably settled instead of getting to the rim and then rushing the three-pointer a little bit, but I'll figure it out in the flow."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=372s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=372s)
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=372&q=8) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=372&q=8&slack=1)</small>
+
+**9. Brandon Boston Jr. — "cleaning up some defensive stuff at the end of the game and making sure we're sharp on offense." — Brandon Boston Jr. on defensive contributions and team growth** [06:33](https://www.youtube.com/watch?v=a2D37Cs18zc&t=393s)
+
+Brandon Boston Jr.: "Some of the defensive lapses at the end of the game, I wasn't a part of it, but we were down maybe three or four and they got a back-door layup, **Tari Eason** got a dunk on the baseline. So just cleaning up some defensive stuff at the end of the game and making sure we're sharp on offense."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=393s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=393s)
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=393&q=9) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=393&q=9&slack=1)</small>
+
+**10. Brandon Boston Jr. — "trying to get in shape but trying to make the right basketball plays on the floor." — Brandon Boston Jr. on the challenge of returning to game shape** [07:00](https://www.youtube.com/watch?v=a2D37Cs18zc&t=420s)
+
+Brandon Boston Jr.: "Trying to get in shape but trying to make the right basketball plays on the floor. Of course I got to get some shots up, but also I got to make the best play on the floor and you know, got to bring all that together, while conditioning."
+
+[https://www.youtube.com/watch?v=a2D37Cs18zc&t=420s](https://www.youtube.com/watch?v=a2D37Cs18zc&t=420s)
+
+<small>[Clip it](presserclips://clip?v=a2D37Cs18zc&t=420&q=10) · [Send to Slack](presserclips://clip?v=a2D37Cs18zc&t=420&q=10&slack=1)</small>
 
 ---
 

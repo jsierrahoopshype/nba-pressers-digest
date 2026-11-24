@@ -1,0 +1,342 @@
+{
+  "video_title": "Clippers vs. Rockets | Postgame Interviews",
+  "speakers_seen": [
+    "Tyronn Lue",
+    "Brandon Boston Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:03",
+      "summary_phrase": "Tyronn Lue on Brandon Boston Jr.'s performance and rotation challenges",
+      "names_mentioned": [
+        "Brandon Boston Jr."
+      ],
+      "excerpt": "just trying to play through it, getting his rhythm.",
+      "quote": "Just trying to play through it, getting his rhythm. I think it was one for seven in the first half and then came back was five for eleven. Just his presence on the floor, we had to get guys shots, get to his spots, and then now we just got to figure out rotations and how we want to play, and who's going to play well with who.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyronn Lue says he is still working through rotation challenges as players return to the lineup and finding rhythm for guys like Brandon Boston Jr.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Boston Jr."
+        ],
+        "teams": [
+          "LAC",
+          "HOU"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue discusses Brandon Boston Jr.'s performance and the ongoing challenge of managing team rotations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyronn Lue",
+      "timestamp": "00:40",
+      "summary_phrase": "Tyronn Lue on defensive lapses and the third-quarter run",
+      "names_mentioned": [
+        "Kevin Durant"
+      ],
+      "excerpt": "couple of misreads defensively, but I thought that third quarter, we go up five.",
+      "quote": "Couple of misreads defensively, but I thought that third quarter, we go up five and then they go on I think a 10-0 run or 12-2 run to go up five. We had that little spurt where we had like three or four turnovers in a row that kind of got them going offensively. Overall, I thought our defense was pretty good, especially in that first half, and then midway through that third quarter, just the turnovers kind of got them back in the game.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 73,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue points to a series of turnovers in the third quarter as the primary reason for the Clippers losing momentum against the Rockets.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAC",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue analyzes the defensive lapses and turnovers that allowed the Rockets to go on a run during the third quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyronn Lue",
+      "timestamp": "01:18",
+      "summary_phrase": "Tyronn Lue on Terance Mann's floor spacing and offensive role",
+      "names_mentioned": [
+        "Terance Mann"
+      ],
+      "excerpt": "Terance did a good job just taking what the defense gave him.",
+      "quote": "Terance did a good job just taking what the defense gave him and we talked to him about taking more threes off the dribble, especially versus the drop, and he got us going to allow us to get that five-point lead. Just picking and choosing his spots, also having eight assists and only one turnover, just getting to his spots, making his teammates better, and I think just understanding now the concept of the offense, he's been really good the last few games.",
+      "text_blocks": [],
+      "start_seconds": 78,
+      "end_seconds": 110,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tyronn Lue praises Terance Mann for his growth in the offense noting he has been really good at picking his spots and making teammates better lately.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Terance Mann"
+        ],
+        "teams": [
+          "LAC",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue praises Terance Mann for his offensive decision-making and playmaking ability during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tyronn Lue",
+      "timestamp": "02:30",
+      "summary_phrase": "Tyronn Lue on rotation difficulties with returning players",
+      "names_mentioned": [
+        "Javonte Green"
+      ],
+      "excerpt": "it's difficult because you got to now see who plays well with who, you got many restrictions.",
+      "quote": "It's difficult because you got to now see who plays well with who, you got many restrictions. The person who had to suffer was Javonte Green, who's been playing great for us, and so he didn't do anything wrong. He did everything we asked him to do, he played really good basketball for us, and so when you get everybody healthy for the first time, these are the things that happen. I just feel bad for Javonte because he's done everything right, he's played well, and he's going to get another opportunity.",
+      "text_blocks": [],
+      "start_seconds": 150,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 5,
+      "social_post": "Tyronn Lue admits it is difficult to manage rotations with a healthy roster and says he feels bad for Javonte Green who has to sit despite playing great basketball.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Javonte Green"
+        ],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tyronn Lue explains the difficulty of managing rotations now that the team is healthy, specifically noting Javonte Green's reduced role.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyronn Lue",
+      "timestamp": "03:07",
+      "summary_phrase": "Tyronn Lue on Isaiah Jackson's impact against Sengun",
+      "names_mentioned": [
+        "Isaiah Jackson",
+        "Alperen Sengun",
+        "Dillon Brooks"
+      ],
+      "excerpt": "we were able to run offense by them putting Sengun on Isaiah.",
+      "quote": "We were able to run offense by them putting Sengun on Isaiah, we were able to attack the way we wanted to attack. Early in the game with Brooks, they were putting a four man on Brooks so they could switch, and then had our guards setting picks for DG and some unfamiliar territory for our guys to have the five guard them, having to set screens and pop and roll and things like that. I like what Isaiah was able to bring for us offensively.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tyronn Lue explains how the team utilized Isaiah Jackson to attack the Rockets defense and create favorable matchups against Alperen Sengun.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Isaiah Jackson",
+          "Alperen Sengun",
+          "Dillon Brooks"
+        ],
+        "teams": [
+          "LAC",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue breaks down the offensive strategy used against the Rockets' defensive matchups involving Isaiah Jackson and Alperen Sengun.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyronn Lue",
+      "timestamp": "04:20",
+      "summary_phrase": "Tyronn Lue on Giannis Antetokounmpo's foul trouble and adjustment",
+      "names_mentioned": [
+        "Giannis Antetokounmpo"
+      ],
+      "excerpt": "he got to understand the shoving and pushing fouls and offensive rebounds when you're pushing in the back.",
+      "quote": "It could be easily corrected. I think he got to understand the shoving and pushing fouls and offensive rebounds when you're pushing in the back, things like that. Some of the screens they're calling, with all the guys being able to manipulate and flop and fall the way they try to get hit, it's kind of hard to really tell our guys don't set screens and be careful because we need to get our guys open, so he'll get better with that and clean those things up.",
+      "text_blocks": [],
+      "start_seconds": 260,
+      "end_seconds": 293,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Tyronn Lue calls out the officiating regarding screens and player movement saying it is hard to tell players to be careful when guys are able to manipulate and flop.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Giannis Antetokounmpo"
+        ],
+        "teams": [
+          "LAC",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyronn Lue discusses the foul trouble issues Giannis Antetokounmpo faced and the difficulty of navigating modern officiating regarding screens.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Brandon Boston Jr.",
+      "timestamp": "05:16",
+      "summary_phrase": "Brandon Boston Jr. on his three-point shooting and conditioning",
+      "names_mentioned": [],
+      "excerpt": "it's just a little bit of bending in the rush.",
+      "quote": "I think it's just a little bit of bending in the rush. It's been a minute since I've been playing against NBA five on five, so just being in the rush, I think it's a good thing to get that game out of the way and we'll move on to the next one.",
+      "text_blocks": [],
+      "start_seconds": 316,
+      "end_seconds": 336,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Brandon Boston Jr. says it has been a minute since he played NBA five on five and is focused on getting his conditioning back after his return to the floor.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Brandon Boston Jr. reflects on his conditioning and the process of returning to five-on-five NBA game action.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Brandon Boston Jr.",
+      "timestamp": "06:12",
+      "summary_phrase": "Brandon Boston Jr. on his offensive shot selection and improvement",
+      "names_mentioned": [],
+      "excerpt": "I look back at the film and see what I can do better.",
+      "quote": "I look back at the film and see what I can do better. Some of those I probably settled instead of getting to the rim and then rushing the three-pointer a little bit, but I'll figure it out in the flow.",
+      "text_blocks": [],
+      "start_seconds": 372,
+      "end_seconds": 388,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brandon Boston Jr. reflects on his shot selection admitting he settled for some three pointers instead of attacking the rim in his recent performance.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Brandon Boston Jr. evaluates his shot selection and areas for improvement after reviewing game film.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Brandon Boston Jr.",
+      "timestamp": "06:33",
+      "summary_phrase": "Brandon Boston Jr. on defensive contributions and team growth",
+      "names_mentioned": [
+        "Tari Eason"
+      ],
+      "excerpt": "cleaning up some defensive stuff at the end of the game and making sure we're sharp on offense.",
+      "quote": "Some of the defensive lapses at the end of the game, I wasn't a part of it, but we were down maybe three or four and they got a back-door layup, Tari Eason got a dunk on the baseline. So just cleaning up some defensive stuff at the end of the game and making sure we're sharp on offense.",
+      "text_blocks": [],
+      "start_seconds": 393,
+      "end_seconds": 416,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brandon Boston Jr. highlights the need for the team to clean up defensive lapses after giving up key baskets late in the game against the Rockets.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Tari Eason"
+        ],
+        "teams": [
+          "LAC",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Brandon Boston Jr. identifies specific defensive breakdowns that occurred late in the game against the Rockets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Brandon Boston Jr.",
+      "timestamp": "07:00",
+      "summary_phrase": "Brandon Boston Jr. on the challenge of returning to game shape",
+      "names_mentioned": [],
+      "excerpt": "trying to get in shape but trying to make the right basketball plays on the floor.",
+      "quote": "Trying to get in shape but trying to make the right basketball plays on the floor. Of course I got to get some shots up, but also I got to make the best play on the floor and you know, got to bring all that together, while conditioning.",
+      "text_blocks": [],
+      "start_seconds": 420,
+      "end_seconds": 438,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brandon Boston Jr. on the balance of returning to game shape while trying to make the right basketball plays on the floor.",
+      "team": "LA Clippers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Brandon Boston Jr. discusses the challenge of balancing physical conditioning with making correct basketball plays on the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "a2D37Cs18zc",
+  "url": "https://www.youtube.com/watch?v=a2D37Cs18zc",
+  "channel_team": "LA Clippers",
+  "published": "2026-11-24T07:56:50Z",
+  "duration_seconds": 490,
+  "processed_at": "2026-11-24T08:33:22Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}
