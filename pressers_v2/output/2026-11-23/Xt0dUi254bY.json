@@ -1,0 +1,156 @@
+{
+  "video_title": "Draymond Went Too Far..",
+  "speakers_seen": [
+    "Draymond Green",
+    "Eddie A. Johnson",
+    "Gilbert Arenas",
+    "Josiah Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Gilbert Arenas",
+      "speakers": [
+        "Gilbert Arenas",
+        "Josiah Johnson"
+      ],
+      "timestamp": "10:56",
+      "summary_phrase": "Gilbert Arenas on the 'cherry on top' of Hall of Fame resumes",
+      "names_mentioned": [
+        "Kevin Johnson",
+        "Charles Barkley"
+      ],
+      "excerpt": "The cake is what we're judging. The ring is the cherry on top.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Gilbert Arenas",
+          "text": "Keep it to the past has this thing that they use. It ain't the same one that we're using today. You're using this bullshit and this is a whole another conversation. The cake is what we're judging. The ring is the cherry on top. That changes the conversation only between a Kevin Johnson and a Charles Barkley. Two number one options carrying a team their career. The cherry is what gets the extra that person in there. But if you're just coming in with a fucking cherry, the cherry is a decoration to shit."
+        },
+        {
+          "speaker": "Josiah Johnson",
+          "text": "The banana split, you put the cherries on the top."
+        }
+      ],
+      "start_seconds": 656,
+      "end_seconds": 696,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Gilbert Arenas says rings should only be the tiebreaker for Hall of Fame resumes. He argues that if you are just coming in with a ring and nothing else, the cherry is just a decoration to shit.",
+      "team": "Gil's Arena"
+    },
+    {
+      "rank": 2,
+      "speaker": "Gilbert Arenas",
+      "speakers": [
+        "Gilbert Arenas",
+        "Josiah Johnson"
+      ],
+      "timestamp": "13:08",
+      "summary_phrase": "Gilbert Arenas on Robert Horry's Hall of Fame worthiness",
+      "names_mentioned": [
+        "Robert Horry"
+      ],
+      "excerpt": "Robert Horry should be in the Hall of Fame.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Gilbert Arenas",
+          "text": "Robert Horry should be in the Hall of Fame. Seven rings. But it's not it's not it's not just about the seven rings. It's about time after time after time again. If you look on the court and you got all these superstars, there's one assassin and one fixer and that's him. Not only was he glue, he was gluing clutch. He was glue in every moment."
+        },
+        {
+          "speaker": "Josiah Johnson",
+          "text": "And hitting pivotal shots to elevate his team to championships."
+        }
+      ],
+      "start_seconds": 788,
+      "end_seconds": 818,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Gilbert Arenas makes the case for Robert Horry in the Hall of Fame. He calls Horry an assassin and a fixer who was not just glue, but glue in every clutch moment.",
+      "team": "Gil's Arena"
+    },
+    {
+      "rank": 3,
+      "speaker": "Gilbert Arenas",
+      "speakers": [
+        "Gilbert Arenas",
+        "Josiah Johnson"
+      ],
+      "timestamp": "28:53",
+      "summary_phrase": "Gilbert Arenas on the impact of Steph Curry's absence on the Warriors",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "When Stephen Curry is not there, what are you doing?",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Gilbert Arenas",
+          "text": "When Stephen Curry is not there, what are you doing? Shit, trying to figure out who I can make the next step. I'm still doing my job. I'm the mechanic. I'm the one when a race car comes, I'm the guy. If the car don't come, my driver's not the driver. My job is to make sure everyone is supposed to be doing their job."
+        },
+        {
+          "speaker": "Josiah Johnson",
+          "text": "But Captain America I think is giving him giving him too much."
+        }
+      ],
+      "start_seconds": 1733,
+      "end_seconds": 1763,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Gilbert Arenas discusses the difficulty of the Warriors system without Steph Curry, comparing his role to a mechanic waiting for a race car to arrive.",
+      "team": "Gil's Arena"
+    },
+    {
+      "rank": 4,
+      "speaker": "Gilbert Arenas",
+      "speakers": [
+        "Gilbert Arenas",
+        "Josiah Johnson"
+      ],
+      "timestamp": "29:56",
+      "summary_phrase": "Gilbert Arenas on the Warriors' need to adjust their system without Steph Curry",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "You can't run him through the same system as Steph.",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Josiah Johnson",
+          "text": "You got to change the system a little bit. You can't run him through the same system as Steph."
+        },
+        {
+          "speaker": "Gilbert Arenas",
+          "text": "And there's nobody running through a system. He's only played 17 games. Give the rookie some credit. He's good. But it's still early."
+        }
+      ],
+      "start_seconds": 1796,
+      "end_seconds": 1812,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Gilbert Arenas says the Warriors need to adjust their system when Steph Curry is out, noting that you cannot run the same plays for other players.",
+      "team": "Gil's Arena"
+    }
+  ],
+  "content_type": "oneoff",
+  "content_type_source": "yt-quotes one-off",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "Xt0dUi254bY",
+  "url": "https://www.youtube.com/watch?v=Xt0dUi254bY",
+  "channel_team": "Gil's Arena",
+  "published": "2026-11-23T22:59:57Z",
+  "duration_seconds": 2753,
+  "processed_at": "2026-11-24T11:04:19Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": true
+}
