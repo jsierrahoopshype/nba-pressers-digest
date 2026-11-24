@@ -1,0 +1,184 @@
+{
+  "video_title": "Taylor Jenkins Media Availability | 11.24.26",
+  "speakers_seen": [
+    "Taylor Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "00:06",
+      "summary_phrase": "Taylor Jenkins on the Bucks' ongoing search for team identity",
+      "names_mentioned": [],
+      "excerpt": "We're still trying to find our identity for sure.",
+      "quote": "It was great to break through, set it last night. Obviously, we've put ourselves in positions in recent games. I think the process the last couple weeks of our guys trying, we're still trying to find our identity for sure, but you definitely want to get the result. The process has been the big thing that we've been focused on every single day. The spirit's been great. I see how these guys show up every single day trying to put themselves in these types of positions.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins says the team is still searching for their identity but is pleased with the process and the spirit of the group after their recent win.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's ongoing effort to establish their identity during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "01:41",
+      "summary_phrase": "Taylor Jenkins provides injury updates on Tyler and Jusuf",
+      "names_mentioned": [
+        "Tyler",
+        "Usa"
+      ],
+      "excerpt": "Tyler got knocked in the head, came out fine, and then Usa has been cleared.",
+      "quote": "Obviously, Tyler got knocked in the head, came out fine, and then Usa has been cleared, which is good. I know there will be a little get back into a rhythm there after the surgery, but everyone clear.",
+      "text_blocks": [],
+      "start_seconds": 101,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins confirms Tyler is fine after a head knock and Jusuf has been cleared to return following his surgery.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyler",
+          "Jusuf"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Taylor Jenkins provides injury updates regarding Tyler and Jusuf during his media availability.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "02:25",
+      "summary_phrase": "Taylor Jenkins on the benefits of a healthy, deep roster",
+      "names_mentioned": [
+        "Luke"
+      ],
+      "excerpt": "Being able to have a healthy roster allows us to have that.",
+      "quote": "It's going to be really helpful. Obviously, we've been trying a lot of different things from a lineup standpoint. As I've said, I've had to go off script at times and pull another guy, and even if he's in there just for three minutes, five minutes, then he finds himself in the rotation a game or two later. We've been able to benefit from that because it allows me to get more information about each individual player, how they're fitting into our system, how they're fitting into our culture on the court. Being able to have a healthy roster allows us to have that. Obviously, we have to make difficult decisions when we got a full 18-man healthy roster, but hopefully in the long run, it allows us to have the development, have the data on each individual guy.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins discusses the challenge of managing a full 18-man roster and how it helps him gather data on player fit and development.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins explains the benefits of having a healthy roster for evaluating player fit and rotation decisions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "03:24",
+      "summary_phrase": "Taylor Jenkins on managing player health and workload",
+      "names_mentioned": [
+        "Clay",
+        "Luke"
+      ],
+      "excerpt": "We have a belief in how we operate. Obviously, this is our first year together.",
+      "quote": "We have a belief in how we operate. Obviously, this is our first year together and you're hopeful that in the off-season, you only have so much control in the off-season, working with guys and how they're building their bodies up for the marathon run. But we were very intentional, the partnership with myself and Luke and our group in the medical and performance team about how we wanted to approach training camp and being very intentional with practice structure, play structure, guys in and out of the rotation. We've been very intentional even with limited practice time, we're going maybe against the normal a little bit where we're actually putting in higher intense work day after a game and adjusting what our game day, the next day looks like so we have our energy. Hopefully that is, we're still gathering the data, but I do think there's something to the work. You want to build up robust, resilient players.",
+      "text_blocks": [],
+      "start_seconds": 204,
+      "end_seconds": 266,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Taylor Jenkins explains the team's intentional approach to practice structure and workload management to build robust and resilient players.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Taylor Jenkins discusses the team's intentional approach to training camp, practice structure, and player workload management.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Taylor Jenkins",
+      "timestamp": "05:33",
+      "summary_phrase": "Taylor Jenkins on the development of the two-big lineup",
+      "names_mentioned": [
+        "Kel",
+        "Miles"
+      ],
+      "excerpt": "I think Kel's found a groove at the five right now, certain combinations there.",
+      "quote": "I came into the season thinking about those two guys together. I think Kel's found a groove at the five right now, certain combinations there. His presence at the rim you're feeling a lot more defensively and offensively as well. But knowing that two-big combination can be good for us, yes, opponent matchups are kind of probably dictate that a little bit with our coverages and how we're deploying each one of those guys. But from an offense standpoint, seeing how teams are guarding Miles, switching him a little bit more, obviously they were in drop coverage, but then you got Kel who maybe can switches can be more dynamic. I think the presence those guys do a great job, the rebounding, rim protection is something that we're trying to get better at. Can those guys aid that department for sure? But we'll see, I'm thinking about it, short-term getting a little bit more of a sample size and developing some chemistry.",
+      "text_blocks": [],
+      "start_seconds": 333,
+      "end_seconds": 395,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Taylor Jenkins is looking to experiment more with his two-big lineup to improve rim protection and rebounding while adjusting to how opponents defend his players.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kel",
+          "Miles"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Taylor Jenkins discusses the development and tactical usage of the two-big lineup involving Kel and Miles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "GSeb2kM6nAM",
+  "url": "https://www.youtube.com/watch?v=GSeb2kM6nAM",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-24T22:30:43Z",
+  "duration_seconds": 415,
+  "processed_at": "2026-11-24T23:28:44Z",
+  "run_id": "2026-11-24T2327Z-14utc",
+  "is_one_off": false
+}

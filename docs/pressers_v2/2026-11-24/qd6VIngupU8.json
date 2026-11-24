@@ -1,0 +1,288 @@
+{
+  "video_title": "LIVE: Pelicans vs. Suns Postgame Interviews 11/23/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "31:02",
+      "summary_phrase": "Jamahl Mosley on the Pelicans' physical, close-game loss to the Suns",
+      "names_mentioned": [],
+      "excerpt": "a lot of little things kind of added up to you falling a little bit short tonight",
+      "quote": "Very physical ball game obviously. Gets to overtime and Phoenix made some more plays than you did, but a lot of little things kind of added up to you falling a little bit short tonight.",
+      "text_blocks": [],
+      "start_seconds": 1862,
+      "end_seconds": 1875,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the Pelicans overtime loss to the Suns: It was a physical game where Phoenix simply made more plays than we did down the stretch.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley reflects on the Pelicans' physical overtime loss to the Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "31:26",
+      "summary_phrase": "Jamahl Mosley on the importance of free throws and turnovers in close games",
+      "names_mentioned": [],
+      "excerpt": "it is the small things. The small turnovers that steal a possession from you",
+      "quote": "It is the small things. The small turnovers that steal a possession from you, the missed opportunity to make the one more pass. 69% from the free throw line, you make those free throws, you actually can put the game away. It changes the momentum of a game.",
+      "text_blocks": [],
+      "start_seconds": 1886,
+      "end_seconds": 1904,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley points to the Pelicans 69 percent free throw shooting as a major factor in tonight's loss: You make those free throws and you actually can put the game away.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses how missed free throws and turnovers impacted the outcome of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "31:43",
+      "summary_phrase": "Jamahl Mosley on the frustration of missing free throws and paint points",
+      "names_mentioned": [],
+      "excerpt": "the most frustrating thing is the things you've been able to count on since day one",
+      "quote": "The most frustrating thing is the things you've been able to count on since day one this year, which is free throw line, points in the paint. You look at all the missed shots in the paint, 50%. Is that the most frustrating thing about tonight especially?",
+      "text_blocks": [],
+      "start_seconds": 1903,
+      "end_seconds": 1921,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley expresses frustration with the Pelicans missing shots in the paint: The most frustrating thing is the things you have been able to count on since day one this year, which is the free throw line and points in the paint.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley expresses frustration regarding the team's poor performance at the free throw line and in the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "32:44",
+      "summary_phrase": "Jamahl Mosley on building consistent rotation and roster health",
+      "names_mentioned": [],
+      "excerpt": "understanding that rotation is is easier when you have guys consistently in the lineup",
+      "quote": "When we can have a consistent rotation, you can have no who's coming in, no who's coming out. If a guy gets hot, they hold, they stay, you keep them going. But understanding that rotation is is easier when you have guys consistently in the lineup and that's you know we're moving towards that. I think that is the best part of it that you're moving towards healthy.",
+      "text_blocks": [],
+      "start_seconds": 1964,
+      "end_seconds": 1990,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the Pelicans rotation: Understanding that rotation is easier when you have guys consistently in the lineup and we are moving towards that.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries",
+          "coaching decisions"
+        ],
+        "context": "Jamahl Mosley explains the importance of roster health and consistency in establishing a reliable rotation.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "FzMjMfDOLQc",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "33:18",
+      "summary_phrase": "Jamahl Mosley on Jordan Goodwin's aggressive play and shot-making",
+      "names_mentioned": [
+        "Jordan Goodwin"
+      ],
+      "excerpt": "he got himself going, and I think we know told him when he checks in the game",
+      "quote": "He got himself going, and I think we know told him when he checks in the game, try to find something to get himself going early, whether that's distributing the basketball early to come off, you know, come off the ball early, comes back to find him. And when it came back to find him, he was able to knock a ton of shots down.",
+      "text_blocks": [],
+      "start_seconds": 1998,
+      "end_seconds": 2023,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Jordan Goodwin's performance: We told him when he checks in the game, try to find something to get himself going early. He was able to knock a ton of shots down.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jordan Goodwin"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley praises Jordan Goodwin for his aggressive play and shot-making ability.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "FzMjMfDOLQc",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "33:49",
+      "summary_phrase": "Jamahl Mosley on Jeremiah Robinson-Earl's shooting performance",
+      "names_mentioned": [
+        "Jeremiah Robinson-Earl"
+      ],
+      "excerpt": "he puts the work in and a three of 17 a tough night",
+      "quote": "He puts the work in and a three of 17 a tough night, but he made some big plays down the stretch and able to get to the basket, wasn't afraid, made the big layup before overtime and I think those are big keys for us for him to be able to do.",
+      "text_blocks": [],
+      "start_seconds": 2029,
+      "end_seconds": 2049,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Jeremiah Robinson-Earl: It was a tough night shooting, but he made some big plays down the stretch and was not afraid.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jeremiah Robinson-Earl"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jamahl Mosley comments on Jeremiah Robinson-Earl's resilience despite a difficult shooting night.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "FzMjMfDOLQc",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "34:23",
+      "summary_phrase": "Jamahl Mosley on how teams are defending Zion Williamson",
+      "names_mentioned": [
+        "Zion Williamson",
+        "Dylan Brooks"
+      ],
+      "excerpt": "what teams are doing now because of his speed and his his pace, the guys are trying",
+      "quote": "What teams are doing now because of his speed and his his pace, the guys are trying to put bigger guys on him, physical, pick him up full court, change the direction of the game, try to wear him down. And I think, you know, Dylan Brooks being on him was something, but I think his speed took advantage of it at times.",
+      "text_blocks": [],
+      "start_seconds": 2063,
+      "end_seconds": 2087,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Jamahl Mosley breaks down how teams are defending Zion Williamson: Guys are trying to put bigger players on him, pick him up full court, and change the direction of the game to try to wear him down.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson",
+          "Dillon Brooks"
+        ],
+        "teams": [
+          "NOP",
+          "HOU"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley explains how opposing teams are using physical defenders to try and slow down Zion Williamson.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "FzMjMfDOLQc",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "36:16",
+      "summary_phrase": "Jamahl Mosley on Zion Williamson's decision-making and trust in his jump shot",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "there's just moments of times of reading the game and that's why he's you know him putting",
+      "quote": "There's just moments of times of reading the game and that's why he's you know him putting the body of work in that he's doing every day after practice and just continuing to trust it. And I think that's very important that once he sees it over time, it's just continue to trust the body of work that you've put in, knowing that you can get downhill at any time.",
+      "text_blocks": [],
+      "start_seconds": 2176,
+      "end_seconds": 2203,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Zion Williamson: It is about reading the game and continuing to trust the body of work that you have put in, knowing that you can get downhill at any time.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses Zion Williamson's development and the importance of trusting his work ethic during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "qd6VIngupU8",
+  "url": "https://www.youtube.com/watch?v=qd6VIngupU8",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-24T19:22:54Z",
+  "duration_seconds": 2343,
+  "processed_at": "2026-11-24T23:29:03Z",
+  "run_id": "2026-11-24T2327Z-14utc",
+  "is_one_off": false
+}

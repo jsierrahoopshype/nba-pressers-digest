@@ -1,0 +1,177 @@
+{
+  "video_title": "Nate Ament Media Availability | 11.24.26",
+  "speakers_seen": [
+    "Nate Ament"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nate Ament",
+      "timestamp": "00:09",
+      "summary_phrase": "Nate Ament on the importance of team chemistry and process",
+      "names_mentioned": [],
+      "excerpt": "I think we've had the right mindset for the past week or so.",
+      "quote": "No matter how many minutes I was playing or not, I just felt good to get a win and see me and my guys compete. I think it's just been a long time coming. I think we've had the right mindset for the past week or so. It just hasn't been the result we wanted, but our process has been good.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 32,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Nate Ament on the Bucks recent win: It just felt good to see me and my guys compete. Our process has been good.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament discusses the team's mindset and process following a recent victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nate Ament",
+      "timestamp": "00:32",
+      "summary_phrase": "Nate Ament on the team's long-term outlook and mindset",
+      "names_mentioned": [],
+      "excerpt": "Everybody realizes that it's a long NBA season and we're not just going to be satisfied.",
+      "quote": "It was good to feel in that moment the win, but everybody realizes that it's a long NBA season and we're not just going to be satisfied with one win. It just added fuel to the fire for the next game and the game after.",
+      "text_blocks": [],
+      "start_seconds": 32,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Nate Ament says the team is not satisfied with just one win: It just added fuel to the fire for the next game and the game after.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Nate Ament reflects on the team's long-term outlook after securing a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nate Ament",
+      "timestamp": "01:16",
+      "summary_phrase": "Nate Ament on the value of closing out tight games",
+      "names_mentioned": [
+        "Braden"
+      ],
+      "excerpt": "It's also good to learn a lot and also get the win.",
+      "quote": "Everything that we've been through so far has been especially important for me and Braden just as rookies. We've learned a lot, but it's also good to learn a lot and also get the win. It was good for us to be in those closing moments and realize it takes so much to get to that level, but then it's another step to close out the game and get a win.",
+      "text_blocks": [],
+      "start_seconds": 76,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Rookie Nate Ament on the learning curve of closing out tight games: It takes so much to get to that level but then it is another step to close out the game and get a win.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Braden"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nate Ament discusses the learning experience of closing out tight games as a rookie alongside teammate Braden.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nate Ament",
+      "timestamp": "02:00",
+      "summary_phrase": "Nate Ament on team growth and understanding coaching expectations",
+      "names_mentioned": [],
+      "excerpt": "We're growing together as a team. We're getting to understand each other more.",
+      "quote": "We're growing together as a team. We're getting to understand each other more and understand what coach wants of us. Whatever coach wants of us, what precedes that is just our competitiveness, and we've been growing in that every single day as we grow closer as teammates.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 138,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Nate Ament on the team chemistry: We are getting to understand each other more and understand what coach wants of us.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "coaching decisions",
+          "teammates"
+        ],
+        "context": "Nate Ament talks about the team's growth and understanding the expectations set by the coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Nate Ament",
+      "timestamp": "02:54",
+      "summary_phrase": "Nate Ament on the benefits of playing in different rotations",
+      "names_mentioned": [
+        "Kahlil"
+      ],
+      "excerpt": "Playing with different people and different rotations and different parts of the game was big for us.",
+      "quote": "Playing with different people and different rotations and different parts of the game was big for us. It was big for me especially, knowing a lot of my minutes came outside the starting five. I got to learn them, like with Kahlil, knowing how you can just put the ball anywhere near the rim and he's probably going to go get it. To close the game, I've started two games here now, so starting to end the game playing with a lot of the starting group and understanding where does Tyler want the ball and how can I help his job be better and everyone else.",
+      "text_blocks": [],
+      "start_seconds": 174,
+      "end_seconds": 215,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Nate Ament on his chemistry with Kahlil: Knowing you can just put the ball anywhere near the rim and he is probably going to go get it.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kahlil",
+          "Tyler"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Nate Ament explains the benefits of playing in different rotations and learning how to play with teammates like Kahlil and Tyler.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "4FBoeCDx_0o",
+  "url": "https://www.youtube.com/watch?v=4FBoeCDx_0o",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-24T22:31:05Z",
+  "duration_seconds": 230,
+  "processed_at": "2026-11-24T23:28:42Z",
+  "run_id": "2026-11-24T2327Z-14utc",
+  "is_one_off": false
+}

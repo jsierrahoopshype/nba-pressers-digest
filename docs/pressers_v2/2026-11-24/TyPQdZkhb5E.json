@@ -1,0 +1,135 @@
+{
+  "video_title": "Kasparas Jakučionis Media Availability | 11.24.26",
+  "speakers_seen": [
+    "Kasparas Jakučionis"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kasparas Jakučionis",
+      "timestamp": "00:07",
+      "summary_phrase": "Kasparas Jakučionis on the team's need to improve their record",
+      "names_mentioned": [],
+      "excerpt": "the record is really bad, so just gotta keep pushing and take this win",
+      "quote": "It's good, you know. A win is always good. I only got the second one though, so just gotta keep pushing. It's not where we want to be and the record is really bad, so just gotta keep pushing and take this win as more motivation and try to stack those wins as much as possible.",
+      "verbatim_original_language": "",
+      "start_seconds": 7,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kasparas Jakučionis on the Bucks current struggles: It is not where we want to be and the record is really bad so we just have to keep pushing and try to stack those wins as much as possible.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kasparas Jakučionis reflects on the team's poor record following a recent victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kasparas Jakučionis",
+      "timestamp": "00:40",
+      "summary_phrase": "Kasparas Jakučionis on the difficulty of losing early in his career",
+      "names_mentioned": [],
+      "excerpt": "I'm not used to losing. It's hard, you know. It's really hard for everyone, I think.",
+      "quote": "I'm not used to losing. It's hard, you know. It's really hard for everyone, I think. I just don't know, you just gotta keep pushing, you know, put the work in. Trust the work you put in and gotta take pride, everybody individually first, to take care of their stuff and then come all as a group and do the job together.",
+      "verbatim_original_language": "",
+      "start_seconds": 40,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kasparas Jakučionis admits the losing streak has been a challenge: I am not used to losing. It is hard for everyone. You just have to keep pushing and trust the work you put in.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kasparas Jakučionis discusses the personal difficulty of adjusting to losing early in his professional career.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kasparas Jakučionis",
+      "timestamp": "01:40",
+      "summary_phrase": "Kasparas Jakučionis on his teammate's defensive and offensive growth",
+      "names_mentioned": [],
+      "excerpt": "he's improving a lot, especially I like the defensive effort he's giving now",
+      "quote": "He's improving a lot, you know. Especially I like the defensive effort he's giving now, like blocking shots and running on offense, getting rebounds. That's the biggest key for him. And then on offense, it's our responsibility to find him, to find the lobs, find the passes for him, because he's a big guy, he's screening for us, good. So we just have to reward him for what he's doing, and I think that's our job to make him going on offense.",
+      "verbatim_original_language": "",
+      "start_seconds": 100,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kasparas Jakučionis on his teammates growth: I like the defensive effort he is giving now. It is our responsibility to find him for lobs and passes because he is a big guy and he is screening for us well.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kasparas Jakučionis praises an unnamed teammate for their recent improvements in defensive effort and offensive contributions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kasparas Jakučionis",
+      "timestamp": "02:19",
+      "summary_phrase": "Kasparas Jakučionis on the importance of team passing and involvement",
+      "names_mentioned": [],
+      "excerpt": "when you pass, especially the lob, you're both happy and the whole team is happy",
+      "quote": "When you pass, especially the lob, you're both happy and the whole team is happy. If you're just trying to score by your own, you may score, you may not, but you'll be the only one who will be happy. And then you have to involve everybody, I think, on the team for them then to be engaged in defense and win the games like that.",
+      "verbatim_original_language": "",
+      "start_seconds": 139,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kasparas Jakučionis on the importance of ball movement: When you pass you are both happy and the whole team is happy. If you are just trying to score on your own you may score but you will be the only one who is happy.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kasparas Jakučionis explains the importance of team passing and ball movement to keep players engaged on both ends of the floor.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "TyPQdZkhb5E",
+  "url": "https://www.youtube.com/watch?v=TyPQdZkhb5E",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-24T22:29:37Z",
+  "duration_seconds": 229,
+  "processed_at": "2026-11-24T23:28:42Z",
+  "run_id": "2026-11-24T2327Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,229 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | VJ Edgecombe | 11.23.26",
+  "speakers_seen": [
+    "VJ Edgecombe"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:15",
+      "summary_phrase": "VJ Edgecombe on the need for better perimeter defense",
+      "names_mentioned": [],
+      "excerpt": "We just got to get better contest, you know, just make them don't give up no wide open shots.",
+      "quote": "I think we just got to get better contest, you know, just make them don't give up no wide open shots. I think that's the only way it's going to let me. I mean they're NBA players, you know. They're going to make shots, so we just got to do our best to to turn that, you know, just make it just make it a little difficult so they don't see a bunch of clean looks. So I think that's something on our end that we can just get better at.",
+      "text_blocks": [],
+      "start_seconds": 15,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "VJ Edgecombe on the Sixers defensive struggles tonight: We just have to make it a little difficult so they do not see a bunch of clean looks. We have to get better at our contests.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses the team's need to improve their perimeter defense and contest shots more effectively.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "00:48",
+      "summary_phrase": "VJ Edgecombe on the importance of point-of-attack defense",
+      "names_mentioned": [],
+      "excerpt": "It starts with all on the ball. You know, you got to guard your yard.",
+      "quote": "It starts with all on the ball. You know, you got to guard your yard. I mean, we shouldn't have to over help or we shouldn't have to help so much if we're, you know, if we're containing the ball.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "VJ Edgecombe on the defensive game plan: It starts on the ball. You have to guard your yard. We should not have to over help if we are containing the ball.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe explains the importance of individual point-of-attack defense to avoid excessive help rotations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "01:06",
+      "summary_phrase": "VJ Edgecombe on the defensive challenge of guarding elite players",
+      "names_mentioned": [],
+      "excerpt": "He's a good player, man. He's a good player, he got going.",
+      "quote": "He's a good player, man. He's a good player, he got going. He made he started he started shooting the ball from far. But yeah, I said he's he's a good player. Um, we said we just got to, you know, just we just got to lock in a little more. Um, and obviously guard our guard someone of such caliber.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 89,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "VJ Edgecombe on defending elite talent: We just have to lock in a little more. You have to guard someone of such caliber.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe reflects on the challenge of guarding an unnamed elite opponent during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "01:38",
+      "summary_phrase": "VJ Edgecombe on the team's rebounding and defensive effort",
+      "names_mentioned": [],
+      "excerpt": "I think first half we did a better job of making them miss.",
+      "quote": "I think first half we did a better job of making them miss, you know, and obviously after that you just got to go got to go rebound. And obviously Clingan, he's he's tall, like 7'3 or however tall he is. So I said we just got to try our best just keep him off the glass, um, just come up with those those long rebounds and just all the loose balls.",
+      "text_blocks": [],
+      "start_seconds": 98,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "VJ Edgecombe on the challenge of rebounding against Donovan Clingan: He is tall. We just have to try our best to keep him off the glass and come up with those long rebounds and loose balls.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Donovan Clingan"
+        ],
+        "teams": [
+          "PHI",
+          "POR"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe discusses the difficulty of rebounding against Donovan Clingan due to his significant height advantage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "02:13",
+      "summary_phrase": "VJ Edgecombe on the difficulty of defending Jrue Holiday",
+      "names_mentioned": [
+        "Jrue Holiday"
+      ],
+      "excerpt": "Someone like him you can't just try to tap tap tap tap the whole time.",
+      "quote": "You can't, um, obviously someone like someone like him you can't just try to tap tap tap tap the whole time. It's one move and go, get off of it, you know, next action, obviously because of, you know, his tenacity on defense. Um, so I say he's a all-time one of the all-time best defenders in my eyes.",
+      "text_blocks": [],
+      "start_seconds": 133,
+      "end_seconds": 156,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "VJ Edgecombe has high praise for Jrue Holiday: He is one of the all time best defenders in my eyes.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jrue Holiday"
+        ],
+        "teams": [
+          "PHI",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe praises Jrue Holiday as one of the best defenders of all time while discussing offensive strategies against him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "02:55",
+      "summary_phrase": "VJ Edgecombe on the importance of point-of-attack defense",
+      "names_mentioned": [],
+      "excerpt": "That's the start of the of the defense. Um, and it's it's obviously it's important.",
+      "quote": "That's the start of the of the defense. Um, and it's it's obviously it's important because you don't want to be in rotation the whole time, scrambling the whole time. Uh, ball move faster than man. You know, it's it's that simple. We know the basketball move faster than than your body does. Um, and I say we just got to if we can just contain it, um, and make it I guess just make it just just difficult.",
+      "text_blocks": [],
+      "start_seconds": 175,
+      "end_seconds": 205,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "VJ Edgecombe on defensive rotation: You do not want to be in rotation the whole time. The ball moves faster than the man. It is that simple.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe reiterates the importance of containing the ball to prevent the team from scrambling on defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "VJ Edgecombe",
+      "timestamp": "05:00",
+      "summary_phrase": "VJ Edgecombe on the defensive impact of Joel Embiid",
+      "names_mentioned": [
+        "Joel Embiid"
+      ],
+      "excerpt": "Obviously with Joel, he ain't switching. Um, so we still got to fight through screens.",
+      "quote": "I think the schemes are still the same. Um, we still got to uh we still got to fight through screens. I say, um, obviously with Joel, he ain't switching. Um, so we still got to fight through screens. Obviously provides a presence. He's 7'2, you know, he provides the presence. Um, he blocks shots when he want to block shots. Um, but I say he he obviously contest shots all the time and obviously someone at 7'2 not down there in the paint, it's it's it's it's a little tricky.",
+      "text_blocks": [],
+      "start_seconds": 300,
+      "end_seconds": 335,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "VJ Edgecombe on playing with Joel Embiid: We still have to fight through screens because he is not switching. Obviously he provides a presence at 7 foot 2.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "VJ Edgecombe explains how Joel Embiid's defensive presence at the rim impacts the team's defensive scheme.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "MWe2xFjDP0E",
+  "url": "https://www.youtube.com/watch?v=MWe2xFjDP0E",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-24T14:35:14Z",
+  "duration_seconds": 353,
+  "processed_at": "2026-11-24T23:29:11Z",
+  "run_id": "2026-11-24T2327Z-14utc",
+  "is_one_off": false
+}

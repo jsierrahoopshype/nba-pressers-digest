@@ -1,0 +1,153 @@
+{
+  "video_title": "Philadelphia 76ers Postgame Media Availability 🎙️ | Coach Nurse | 11.23.26",
+  "speakers_seen": [
+    "Nick Nurse"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Nick Nurse",
+      "timestamp": "00:00",
+      "summary_phrase": "Coach Nurse on the 76ers' defensive struggles and three-point shooting",
+      "names_mentioned": [
+        "Jabari Smith Jr.",
+        "Dean Wade",
+        "Kentavious Caldwell-Pope"
+      ],
+      "excerpt": "It's hard to lose by 10 on that particular stat. 10 makes, that's 30 points.",
+      "quote": "First of all, they outplayed us. Their energy and hustle in general was excellent throughout the game. But the big thing is the three-point shooting. It's hard to lose by 10 on that particular stat. 10 makes, that's 30 points, that's hard to overcome unless you're going to beat them at the free-throw line extensively or win the turnover battle extensively. Possession battles were pretty even, and then they make 10 more threes than you. It's too bad, because I think we went 0-for-4 with Jabari Smith Jr., Dean, and Kentavious Caldwell-Pope, and other than one of Kentavious Caldwell-Pope's, they were all great shots. Maybe one of Kentavious Caldwell-Pope's he had to arc it a little higher over Clingan coming out at him, but other than that, I think they were really good shots.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Nick Nurse on the loss to the Rockets: It is hard to overcome a 10 make deficit from the three point line unless you win the turnover or free throw battle. He noted the team got good looks but could not capitalize.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jabari Smith Jr.",
+          "Kentavious Caldwell-Pope",
+          "Donovan Clingan"
+        ],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse discusses the team's three-point shooting performance and specific shot quality during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Nick Nurse",
+      "timestamp": "01:30",
+      "summary_phrase": "Impact of Jalen Brunson's foul trouble on the game's momentum",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "It was a huge turning point because he was really cooking.",
+      "quote": "It was a huge turning point because he was really cooking. And even though they were shooting very well, we were able to at least match them at the offensive end, and had a bunch of calls in a row on him that really changed the complexion of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Nick Nurse says Jalen Brunson getting into foul trouble was a huge turning point in the game because he was really cooking before the calls changed the complexion of the game.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "PHI",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Nick Nurse explains how Jalen Brunson getting into foul trouble shifted the momentum of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Nick Nurse",
+      "timestamp": "02:23",
+      "summary_phrase": "Defensive rim protection and committee rebounding issues",
+      "names_mentioned": [],
+      "excerpt": "Your rim protection and inability to do that with some size is always a focal point.",
+      "quote": "Your rim protection and inability to do that with some size is always a focal point of being really good defensively. Then you have to do it a little bit more by committee. I thought for the most part, I'm looking at possessions where I liked our help into the paint, they were doing a good job of zinging it out. I didn't particularly like our back out to get to them. There was a couple times they missed those and still got rebounds. We were compacted in the lane with everybody since we didn't get back out, and then giving up an offensive rebound as well. That's just playing through the possession, a little bit of energy and all that kind of stuff. I know it's a battle in there when you got a big guy in there to try to use a couple bodies on it, but we just didn't do enough pieces well.",
+      "verbatim_original_language": "",
+      "start_seconds": 143,
+      "end_seconds": 203,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Nick Nurse on the 76ers defensive rebounding issues: We did not do enough pieces well. He noted that even when they compacted the lane to help, they failed to get back out to shooters or secure the defensive rebound.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Nick Nurse evaluates the team's defensive rim protection and struggles with rebounding by committee.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nick Nurse",
+      "timestamp": "04:32",
+      "summary_phrase": "Defensive breakdowns and need for better help rotations",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "I thought Scoot got downhill on us a few times.",
+      "quote": "Not good tonight. I think way too, I mean, I think Avdija got where he wanted to go too much, Dame did too, but they weren't the only ones. I thought Scoot got downhill on us a few times. There's two parts to it. The guy guarding them has got to be able to round out those drives a little bit more, and then if there is some help coming, the help's got to be there earlier and be better.",
+      "verbatim_original_language": "",
+      "start_seconds": 272,
+      "end_seconds": 300,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Nick Nurse on the defensive breakdowns: Not good tonight. He says the team struggled to contain drives and that the help defense has to be there earlier and be better.",
+      "team": "Philadelphia 76ers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Deni Avdija",
+          "Damian Lillard",
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "PHI",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Nick Nurse critiques the team's defensive breakdowns and failure to contain opposing players on drives to the basket.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "xoH7GrTUPtE",
+  "url": "https://www.youtube.com/watch?v=xoH7GrTUPtE",
+  "channel_team": "Philadelphia 76ers",
+  "published": "2026-11-24T14:38:32Z",
+  "duration_seconds": 300,
+  "processed_at": "2026-11-24T23:28:57Z",
+  "run_id": "2026-11-24T2327Z-14utc",
+  "is_one_off": false
+}

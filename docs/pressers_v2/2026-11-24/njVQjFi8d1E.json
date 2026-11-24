@@ -1,0 +1,173 @@
+{
+  "video_title": "Daniel Gafford Shootaround Interview | Mavericks at Nuggets | Nov. 24, 2026",
+  "speakers_seen": [
+    "Daniel Gafford"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Daniel Gafford",
+      "timestamp": "01:04",
+      "summary_phrase": "Daniel Gafford on the chemistry and development of Nikola Jokic and Jamal Murray",
+      "names_mentioned": [
+        "Nikola Jokic",
+        "Jamal Murray"
+      ],
+      "excerpt": "Eight years? They have been playing together for a long time. Their chemistry, they got an unbreakable bond. And they",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "With how long have they been playing together?"
+        },
+        {
+          "speaker": "Daniel Gafford",
+          "text": "Eight years? They have been playing together for a long time. Their chemistry, they got an unbreakable bond. And they want a championship together, so it's just seeing their development over the years. It's going to be tough to stop that dynamic duo at the end of the day because both of them are pretty much the head of the snake. We got to come out with our ideal of making them uncomfortable, doing things that they usually don't see, and throwing different looks at them."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Daniel Gafford"
+      ],
+      "reporter_split": true,
+      "start_seconds": 64,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Daniel Gafford on facing the Jokic and Murray duo: It is going to be tough to stop them because they are the head of the snake. We have to make them uncomfortable and throw different looks at them.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DAL",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Daniel Gafford discusses the long-standing chemistry and offensive threat posed by Nikola Jokic and Jamal Murray ahead of the Mavericks game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Daniel Gafford",
+      "timestamp": "01:48",
+      "summary_phrase": "Daniel Gafford on the physical challenge of defending Nikola Jokic",
+      "names_mentioned": [
+        "Nikola Jokic"
+      ],
+      "excerpt": "It's going to take every ounce of energy that I have tonight to be able to withstand that.",
+      "quote": "Jokic is a big dude, and it's going to take every ounce of energy that I have tonight to be able to withstand that. Throughout the years in my career, just playing against a guy like him, MVP-caliber player, he's won a championship, and he's got a real good stat sheet throughout his career in the league. Every night I come out here and I play against a guy like him, I try to step up to the challenge as best as I can. I really take pride in it because I learn a lot about myself throughout the instances where I play him.",
+      "text_blocks": [],
+      "start_seconds": 108,
+      "end_seconds": 148,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Daniel Gafford on the challenge of defending Nikola Jokic: He is a big dude and it is going to take every ounce of energy I have tonight to be able to withstand that.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DAL",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Daniel Gafford explains the physical challenge of defending Nikola Jokic and how he prepares to face an MVP-caliber player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Daniel Gafford",
+      "timestamp": "04:34",
+      "summary_phrase": "Daniel Gafford on Dereck Lively II's development and physical impact",
+      "names_mentioned": [
+        "Dereck Lively II"
+      ],
+      "excerpt": "He's one of the strongest guys on our team to be completely honest.",
+      "quote": "I feel like he's really developing in the right way, 100%. He's asserting himself in his role. He's rebounding a lot, he's an energy guy, and he's one of the strongest guys on our team to be completely honest. It's hard for a lot of people to move him, so he's really getting into a lot of people's heads when it comes to setting screens, going for rebounds. He's just bringing that physical nature to the team, and that's something that we need coming off the bench too.",
+      "text_blocks": [],
+      "start_seconds": 274,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Daniel Gafford says Dereck Lively II is one of the strongest guys on the Mavericks: It is hard for a lot of people to move him and he is really getting into a lot of people's heads with his physical nature.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Daniel Gafford praises the development and physical impact of his teammate Dereck Lively II.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Daniel Gafford",
+      "timestamp": "05:03",
+      "summary_phrase": "Daniel Gafford on Kyrie Irving's leadership and gravity on offense",
+      "names_mentioned": [
+        "Kyrie Irving"
+      ],
+      "excerpt": "He's helping us be able to use his gravity for our benefit at the end of the day.",
+      "quote": "Just seeing the way he sees the game and how he helps us develop ways to get more and more options throughout our offense. I feel like he's helping us be able to use his gravity for our benefit at the end of the day. Down the stretch, he can take a couple of offensive plays off here and there, and then definitely if he wants the ball in his hands, we go find a way to get the ball in his hands. He's talking to us, he's very vocal, he leads by example, he comes in, and he holds us accountable.",
+      "text_blocks": [],
+      "start_seconds": 303,
+      "end_seconds": 342,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Daniel Gafford on Kyrie Irving: He is very vocal and leads by example. He helps us use his gravity for our benefit and he holds us accountable.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Daniel Gafford discusses Kyrie Irving's leadership, offensive gravity, and his role in holding teammates accountable.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: shootaround",
+  "format": "ytq-1",
+  "video_id": "njVQjFi8d1E",
+  "url": "https://www.youtube.com/watch?v=njVQjFi8d1E",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-24T19:13:53Z",
+  "duration_seconds": 402,
+  "processed_at": "2026-11-24T23:28:59Z",
+  "run_id": "2026-11-24T2327Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
