@@ -1,6 +1,6 @@
 # NBA Pressers — 2026-11-23
 
-[Podcasts & shows](podcasts.md)
+[Podcasts & shows](podcasts.md) · [One-offs](oneoffs.md)
 
 # Best of the best
 
@@ -22,7 +22,19 @@ From: [Erik Spoelstra Post-Game Interview vs Thunder \| 11/22/26](https://www.yo
 
 <small>[Clip it](presserclips://clip?v=EDm4RjjbnyQ&t=126&q=3) · [Send to Slack](presserclips://clip?v=EDm4RjjbnyQ&t=126&q=3&slack=1)</small>
 
-**3. Jarrett Allen — "Donovan has put down and said it's time for a change. It's time to go forward" — Jarrett Allen on Donovan Mitchell's call for a team change** [03:32](https://www.youtube.com/watch?v=S-c95OkZvJY&t=212s)
+**3. Jamahl Mosley — "He's going to go through his warm-up slot similar to what he did in San Antonio" — Zion Williamson's availability and warm-up process for the upcoming game** [05:13](https://www.youtube.com/watch?v=PHt4rqzfayc&t=313s)
+
+**Unidentified speaker:** "So we saw that **Zion** is probably available, but available, I should say. Is that right?"
+
+**Jamahl Mosley:** "He's going to go through his warm-up slot similar to what he did in San Antonio and see if he's able to still get the push-off and the explosion that he necessarily needs to play with. But again, he took a nice little shot in that OKC game and I think just making sure he's okay there is what we're looking at."
+
+[https://www.youtube.com/watch?v=PHt4rqzfayc&t=313s](https://www.youtube.com/watch?v=PHt4rqzfayc&t=313s)
+
+From: [LIVE: Pelicans vs. Suns Pregame w/ Jamahl Mosley 11/23/2026](https://www.youtube.com/watch?v=PHt4rqzfayc) · *New Orleans Pelicans*
+
+<small>[Clip it](presserclips://clip?v=PHt4rqzfayc&t=313&q=1) · [Send to Slack](presserclips://clip?v=PHt4rqzfayc&t=313&q=1&slack=1)</small>
+
+**4. Jarrett Allen — "Donovan has put down and said it's time for a change. It's time to go forward" — Jarrett Allen on Donovan Mitchell's call for a team change** [03:32](https://www.youtube.com/watch?v=S-c95OkZvJY&t=212s)
 
 Jarrett Allen: "We were a little shaky at the beginning, we were trying to figure ourselves out, but Donovan has put down and said it's time for a change. It's time to, like Obama says, it's time to change, but it's time for change and it's time to go forward and redefine ourselves."
 
@@ -32,7 +44,7 @@ From: [Cavs Shootaround \| Jarrett Allen Media Availability \| 11.23.2026](https
 
 <small>[Clip it](presserclips://clip?v=S-c95OkZvJY&t=212&q=5) · [Send to Slack](presserclips://clip?v=S-c95OkZvJY&t=212&q=5&slack=1)</small>
 
-**4. Cooper Flagg — "The last couple games have been amazing. He's done it all year with the steals." — Cooper Flagg on Zach Edey's defensive impact and versatility** [03:38](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=218s)
+**5. Cooper Flagg — "The last couple games have been amazing. He's done it all year with the steals." — Cooper Flagg on Zach Edey's defensive impact and versatility** [03:38](https://www.youtube.com/watch?v=R7zQvs73_hQ&t=218s)
 
 Cooper Flagg: "The last couple games have been amazing. He's done it all year with the steals and the blocks, but just helping us be another glue guy. Since PJ got the illness, Zach stepping up, being ready, taking on a starting spot and fitting in pretty seamlessly."
 
@@ -40,7 +52,7 @@ Cooper Flagg: "The last couple games have been amazing. He's done it all year wi
 
 From: [Cooper Flagg Postgame Interview \| Mavericks at Jazz \| Nov. 22, 2026](https://www.youtube.com/watch?v=R7zQvs73_hQ) · *Dallas Mavericks*
 
-**5. Charles Bassey — "Draymond has been playing the five his whole life, but he always wants to play with a big." — Charles Bassey on Draymond Green's versatility and role in the offense** [03:15](https://www.youtube.com/watch?v=_i45dX5cmdk&t=195s)
+**6. Charles Bassey — "Draymond has been playing the five his whole life, but he always wants to play with a big." — Charles Bassey on Draymond Green's versatility and role in the offense** [03:15](https://www.youtube.com/watch?v=_i45dX5cmdk&t=195s)
 
 Charles Bassey: "**Draymond** has been playing the five his whole life, but he always wants to play with a big. We've been practicing that in practice these past two days, playing the four even a couple of those practices. You guys could see he was knocking down shots today. Steve Kerr wants to involve him more with the offense and playing from the corner. That's working. He definitely wants to play with a big out there."
 
@@ -48,7 +60,7 @@ Charles Bassey: "**Draymond** has been playing the five his whole life, but he a
 
 From: [Charles Bassey seizing every opportunity after Warriors' win \| NBC Sports Bay Area](https://www.youtube.com/watch?v=_i45dX5cmdk) · *Golden State Warriors*
 
-**6. Brandin Podziemski — "people think he lacks offensive ability, but when he scores our team usually wins" — Brandin Podziemski on Draymond Green's aggressive offensive performance against the Celtics** [01:10](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s)
+**7. Brandin Podziemski — "people think he lacks offensive ability, but when he scores our team usually wins" — Brandin Podziemski on Draymond Green's aggressive offensive performance against the Celtics** [01:10](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s)
 
 **Kerith Burke:** "Can you give me some insight about **Draymond**? He had a season-high in scoring. Looked like he wanted to get that part of his game going early. Then he also had the task of being the main guy on **Tatum**. How did you see **Draymond** tackle this game?"
 
@@ -58,7 +70,7 @@ From: [Charles Bassey seizing every opportunity after Warriors' win \| NBC Sport
 
 From: [Brandin Podziemski praises Draymond’s offense in Warriors’ win \| NBC Sports Bay Area](https://www.youtube.com/watch?v=_v2gq_dt3gk) · *Golden State Warriors*
 
-**7. Josh Giddey — "He doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear." — Josh Giddey on Billy Donovan's communication and accountability** [07:24](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
+**8. Josh Giddey — "He doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear." — Josh Giddey on Billy Donovan's communication and accountability** [07:24](https://www.youtube.com/watch?v=GXOLEVcghG0&t=444s)
 
 Josh Giddey: "That's one of the things about him, I think really good communicator. And he probably, you know, as a former player, he probably understands as well and he he can relate to us as players a lot more. And yeah, he was really good about it, I think. As he says, it's not the first time, but he doesn't sugarcoat it, he tells you what you what you need, he not what you want to hear. And you know, as players, it's frustrating in the moment, obviously you want to be out there trying to help your team win games, but I wasn't surprised, I wasn't sitting there confused as to why I wasn't out there. Like I knew why and he hit it on the head the next day and we move forward and move on to tonight."
 
@@ -66,7 +78,7 @@ Josh Giddey: "That's one of the things about him, I think really good communicat
 
 From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls OT Loss to Nuggets](https://www.youtube.com/watch?v=GXOLEVcghG0) · *Chicago Bulls*
 
-**8. Bilal Coulibaly — "Being more physical I'd say was the the main part. Had to show a little bit more fight." — Bilal Coulibaly on team unity and physical defensive play** [07:48](https://www.youtube.com/watch?v=IXQQ8qtuZ7s&t=468s)
+**9. Bilal Coulibaly — "Being more physical I'd say was the the main part. Had to show a little bit more fight." — Bilal Coulibaly on team unity and physical defensive play** [07:48](https://www.youtube.com/watch?v=IXQQ8qtuZ7s&t=468s)
 
 Bilal Coulibaly: "It was pretty tough because nobody's a loser in the locker room. So yeah, we just had to keep our head up and kept talking together, kept meeting, talking about what was wrong, what was right, and just had to keep doing the right things. Being more physical I'd say was the the main part. Had to show a little bit more fight and that's what we did. So we're doing good right now. I see the main guy was **Chris Middleton**. I know that one day he said everybody got to get out and we just talked between us."
 
@@ -76,7 +88,7 @@ From: [Media Availability: Head Coach Brian Keefe, Bilal Coulibaly and Kyshawn G
 
 <small>[Clip it](presserclips://clip?v=IXQQ8qtuZ7s&t=468&q=10) · [Send to Slack](presserclips://clip?v=IXQQ8qtuZ7s&t=468&q=10&slack=1)</small>
 
-**9. Karl-Anthony Towns — "when he's bringing his whole arsenal to the game, he's a dangerous player for any team" — Karl-Anthony Towns on Jose Alvarado's dangerous offensive performance** [01:38](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=98s)
+**10. Karl-Anthony Towns — "when he's bringing his whole arsenal to the game, he's a dangerous player for any team" — Karl-Anthony Towns on Jose Alvarado's dangerous offensive performance** [01:38](https://www.youtube.com/watch?v=iF5yyH4Tuo4&t=98s)
 
 Karl-Anthony Towns: "Every person on the other team would tell you the same thing. He's a pest. Obviously, you see him shooting the ball really well these last two games. When he's bringing his whole arsenal to the game, he's a dangerous player for any team."
 
@@ -86,7 +98,7 @@ From: [Karl-Anthony Towns, Josh Hart, Jose Alvarado Postgame Media \| November 2
 
 <small>[Clip it](presserclips://clip?v=iF5yyH4Tuo4&t=98&q=2) · [Send to Slack](presserclips://clip?v=iF5yyH4Tuo4&t=98&q=2&slack=1)</small>
 
-**10. Jared McCain — "it shows that the coaches trust him, and for long-term I think it's going to be huge for us" — Jared McCain on Micic's opportunity in the starting lineup** [03:08](https://www.youtube.com/watch?v=KeQADE3DAtY&t=188s)
+**11. Jared McCain — "it shows that the coaches trust him, and for long-term I think it's going to be huge for us" — Jared McCain on Micic's opportunity in the starting lineup** [03:08](https://www.youtube.com/watch?v=KeQADE3DAtY&t=188s)
 
 Jared McCain: "It's huge. I think one of those things that builds a lot of confidence in him. It shows that the coaches trust him, and for long-term I think it's going to be huge for us. During this stretch, it's a lot of learning. And so when players that are injured start to come back more, it's going to be us all being confident and just trying to look at it in a positive direction. Having everyone be confident in themselves towards the end of the season is what we need."
 
@@ -96,7 +108,19 @@ From: [Jared McCain on Tonight's Game \| Postgame Media \| November 22, 2026](ht
 
 <small>[Clip it](presserclips://clip?v=KeQADE3DAtY&t=188&q=4) · [Send to Slack](presserclips://clip?v=KeQADE3DAtY&t=188&q=4&slack=1)</small>
 
-**11. Jamal Murray — "he struggled for maybe seven games shooting, and he was still having 21, 22 and 13." — Jamal Murray on Nikola Jokic's consistency and resilience** [12:19](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s)
+**12. Monte Poole — "He took five three-point shots. And so this is a guy who is averaging less than one make per game" — Draymond Green's unexpected three-point shooting performance** [00:46](https://www.youtube.com/watch?v=cbTV7zkynBs&t=46s)
+
+**Monte Poole:** "He took five three-point shots. And so this is a guy who is averaging less than one make per game."
+
+**Bonta Hill:** "One attempt per game, Monte."
+
+**Monte Poole:** "So when you do that and you make them, I think the whole team kind of, oh, okay, that's a nice surprise. Because you don't expect it, but I think **Steve Kerr** had told him, they had discussed this. Draymond, I'm going to play with Charles Bassey at the five, you're going to be the four, that means corner threes for you. Let them fly."
+
+[https://www.youtube.com/watch?v=cbTV7zkynBs&t=46s](https://www.youtube.com/watch?v=cbTV7zkynBs&t=46s)
+
+From: [Draymond Green sparks Warriors’ bounce-back win vs. Celtics \| NBC Sports Bay Area](https://www.youtube.com/watch?v=cbTV7zkynBs) · *Golden State Warriors*
+
+**13. Jamal Murray — "he struggled for maybe seven games shooting, and he was still having 21, 22 and 13." — Jamal Murray on Nikola Jokic's consistency and resilience** [12:19](https://www.youtube.com/watch?v=FXdgJvVq9A8&t=739s)
 
 Jamal Murray: "No one's worried about him. I just think he struggled for maybe seven games shooting, and he was still having 21, 22 and 13. So, I mean, it's not really, I wouldn't consider that a struggle. It's just good to see him have his flow and be as dominant as we know he can be, and I mean, it's every night he's doing this. So, if he misses a couple shots for one day, we're not, we're not tripping."
 
@@ -106,7 +130,7 @@ From: [Full Denver Nuggets Postgame Media Availability vs. CHI 🎙](https://www
 
 <small>[Clip it](presserclips://clip?v=FXdgJvVq9A8&t=739&q=8) · [Send to Slack](presserclips://clip?v=FXdgJvVq9A8&t=739&q=8&slack=1)</small>
 
-**12. Ayo Dosunmu — "Our niche, I mean we need to get better at closing games." — Ayo Dosunmu on the Bulls' need to close out games** [16:06](https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s)
+**14. Ayo Dosunmu — "Our niche, I mean we need to get better at closing games." — Ayo Dosunmu on the Bulls' need to close out games** [16:06](https://www.youtube.com/watch?v=GXOLEVcghG0&t=966s)
 
 Ayo Dosunmu: "I know we team that building. I wouldn't say we're young. We got guys that have been in the league. You know, we just trying to figure out how to win and close out games. I think that's our that's our niche. I mean we need to get better at closing games. We're competing hard enough to be in games for the past eight or nine. Now it's just freaking hard to close now."
 
@@ -114,7 +138,19 @@ Ayo Dosunmu: "I know we team that building. I wouldn't say we're young. We got g
 
 From: [INSIDE THE LOCKER ROOM: Josh Giddey's HISTORIC Performance in WILD Bulls OT Loss to Nuggets](https://www.youtube.com/watch?v=GXOLEVcghG0) · *Chicago Bulls*
 
-**13. Naz Reid — "it goes towards the work that I've put in over the time that I've been in the league" — Naz Reid on reaching 6,000 career points as an undrafted player** [01:33](https://www.youtube.com/watch?v=_9rH2N8AYTM&t=93s)
+**15. Robbie Hummel — "the defense is something that you can lean on every night and obviously Rudy kind of anchors that" — Timberwolves' defensive identity remains strong despite offensive struggles** [00:08](https://www.youtube.com/watch?v=Uw36hv3T4Q4&t=8s)
+
+**Sean Dorcellus:** "Robbie, almost a quarter of the way through the season, your early impressions of the team?"
+
+**Robbie Hummel:** "I have been really impressed. I know the offense the last three or four games hasn't been flowing as well, but when you lose a player as good as **Anthony Edwards**, so many guys have stepped up. The way they have won games without him, the defense is something that you can lean on every night and obviously **Rudy Gobert** kind of anchors that. Whether it is **Jaden McDaniels** or **Kyle Anderson** or all these guys that can really guard the ball and be aggressive and force turnovers, I just think Minnesota is built to where when they don't have the offense going and you don't have **Anthony Edwards**, you can still fall back on your defense and win games."
+
+[https://www.youtube.com/watch?v=Uw36hv3T4Q4&t=8s](https://www.youtube.com/watch?v=Uw36hv3T4Q4&t=8s)
+
+From: [Robbie Hummel Interview With Sean Dorcellus \| 11.23.26](https://www.youtube.com/watch?v=Uw36hv3T4Q4) · *Minnesota Timberwolves*
+
+<small>[Clip it](presserclips://clip?v=Uw36hv3T4Q4&t=8&q=1) · [Send to Slack](presserclips://clip?v=Uw36hv3T4Q4&t=8&q=1&slack=1)</small>
+
+**16. Naz Reid — "it goes towards the work that I've put in over the time that I've been in the league" — Naz Reid on reaching 6,000 career points as an undrafted player** [01:33](https://www.youtube.com/watch?v=_9rH2N8AYTM&t=93s)
 
 Naz Reid: "It's huge. It goes towards the work that I've put in over the time that I've been in the league. Being able to actually execute a goal like that is huge, especially from my standpoint, undrafted and so forth. It's definitely a cool milestone for sure."
 
@@ -124,7 +160,15 @@ From: [Naz Reid Shootaround Media Availability \| 11/23/26](https://www.youtube.
 
 <small>[Clip it](presserclips://clip?v=_9rH2N8AYTM&t=93&q=3) · [Send to Slack](presserclips://clip?v=_9rH2N8AYTM&t=93&q=3&slack=1)</small>
 
-**14. Gui Santos — "If it's a night that we can't score, but we cannot let them score too" — Gui Santos on the Warriors' defensive focus against the Celtics** [00:00](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s)
+**17. Dalton Johnson — "Steph almost fell out of the seat after the third three-pointer" — Stephen Curry's reaction to Draymond Green's three-point shooting** [01:42](https://www.youtube.com/watch?v=cbTV7zkynBs&t=102s)
+
+Dalton Johnson: "Those three-pointers from Draymond, the bench was up. Steph almost fell out of the seat after the third three-pointer. It brought the collective energy for the entire team. He came into this game making four threes the entire season, and he made three in the first quarter. I just thought that gave everybody a little bit of life."
+
+[https://www.youtube.com/watch?v=cbTV7zkynBs&t=102s](https://www.youtube.com/watch?v=cbTV7zkynBs&t=102s)
+
+From: [Draymond Green sparks Warriors’ bounce-back win vs. Celtics \| NBC Sports Bay Area](https://www.youtube.com/watch?v=cbTV7zkynBs) · *Golden State Warriors*
+
+**18. Gui Santos — "If it's a night that we can't score, but we cannot let them score too" — Gui Santos on the Warriors' defensive focus against the Celtics** [00:00](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s)
 
 **Unidentified reporter:** "Gui, **Steve Kerr** said you guys needed to dig out of a hole with defense, so grind it out tough the win. How did you do it?"
 
@@ -133,24 +177,6 @@ From: [Naz Reid Shootaround Media Availability \| 11/23/26](https://www.youtube.
 [https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s](https://www.youtube.com/watch?v=f7rJbgiZjDo&t=0s)
 
 From: [Gui Santos gets ‘swagger back’ in Warriors’ win vs. Celtics \| NBC Sports Bay Area](https://www.youtube.com/watch?v=f7rJbgiZjDo) · *Golden State Warriors*
-
-**15. Zaccharie Risacher — "I think we let him be too comfortable." — Zaccharie Risacher on defensive lapses against high-scoring opponents** [02:43](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s)
-
-Zaccharie Risacher: "Maybe it is a little bit of focus, like concentration, but also be more physical. I think we let him be too comfortable. If we were to be a little bit more physical, getting through screens, make sure he wasn't getting open looks earlier in the game, I think that would have helped us throughout the whole game."
-
-[https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s](https://www.youtube.com/watch?v=mV1bAgkg6VI&t=163s)
-
-From: [Zaccharie Risacher Postgame Interview \| Mavericks at Jazz \| Nov. 22, 2026](https://www.youtube.com/watch?v=mV1bAgkg6VI) · *Dallas Mavericks*
-
-**16. Bennett Stirtz — "it's a lot easier to tone back aggressiveness than to ramp it up" — Bennett Stirtz on balancing aggressive shooting with team concepts** [01:45](https://www.youtube.com/watch?v=8JJdgoq0UJA&t=105s)
-
-Bennett Stirtz: "I think personally, it's a lot easier to tone back aggressiveness than to ramp it up. They can always tell me back if they feel like I'm shooting too much, but I feel like when I shoot it, it's a pretty good shot for the team, and the guys want me to shoot those shots too because it makes it easier for them. So I feel like I just got to be more aggressive, and if they tell me to wind it down a little bit, I'll do that."
-
-[https://www.youtube.com/watch?v=8JJdgoq0UJA&t=105s](https://www.youtube.com/watch?v=8JJdgoq0UJA&t=105s)
-
-From: [Bennett Stirtz on New Opportunities and Experiences \| Postgame Media \| November 18, 2026](https://www.youtube.com/watch?v=8JJdgoq0UJA) · *Oklahoma City Thunder*
-
-<small>[Clip it](presserclips://clip?v=8JJdgoq0UJA&t=105&q=4) · [Send to Slack](presserclips://clip?v=8JJdgoq0UJA&t=105&q=4&slack=1)</small>
 
 ---
 
@@ -830,6 +856,104 @@ Will Richard: "I told him I went through the same thing last year. We had a lot 
 
 ---
 
+## LIVE: Pelicans vs. Suns Pregame w/ Jamahl Mosley 11/23/2026 — *New Orleans Pelicans*
+
+Source: [https://www.youtube.com/watch?v=PHt4rqzfayc](https://www.youtube.com/watch?v=PHt4rqzfayc)
+
+_Speakers identified: Jamahl Mosley_
+
+**1. Jamahl Mosley — "He's going to go through his warm-up slot similar to what he did in San Antonio" — Zion Williamson's availability and warm-up process for the upcoming game** [05:13](https://www.youtube.com/watch?v=PHt4rqzfayc&t=313s)
+
+**Unidentified speaker:** "So we saw that **Zion** is probably available, but available, I should say. Is that right?"
+
+**Jamahl Mosley:** "He's going to go through his warm-up slot similar to what he did in San Antonio and see if he's able to still get the push-off and the explosion that he necessarily needs to play with. But again, he took a nice little shot in that OKC game and I think just making sure he's okay there is what we're looking at."
+
+[https://www.youtube.com/watch?v=PHt4rqzfayc&t=313s](https://www.youtube.com/watch?v=PHt4rqzfayc&t=313s)
+
+<small>[Clip it](presserclips://clip?v=PHt4rqzfayc&t=313&q=1) · [Send to Slack](presserclips://clip?v=PHt4rqzfayc&t=313&q=1&slack=1)</small>
+
+**2. Jamahl Mosley — "There's enough space on the floor and with what Trey is able to do in shooting the ball" — Why the lineup of Zion, Trey, and Jeremiah excels offensively** [05:39](https://www.youtube.com/watch?v=PHt4rqzfayc&t=339s)
+
+**Unidentified reporter:** "Often times when he and **Trey** are both on the court along with **Jeremiah**, it seems like that's where he really excels. Can you explain why you think that is with that grouping?"
+
+**Jamahl Mosley:** "There's enough space on the floor and with what **Trey** is able to do in shooting the ball, and then **Zion**, the gravity that he has, how teams guard him, it gives **Jeremiah** room to get downhill to attack the basket so teams don't want to help. And then you put those combos together, they've got to make a decision. We're talking to our guys about when you put two on the ball, when two are on the basketball, you've got to make the right play. That's where he's able to thrive, to be able to command the floor, to attack the basket to look for his shot, but also to set up other guys on the floor with the spacing the right way."
+
+[https://www.youtube.com/watch?v=PHt4rqzfayc&t=339s](https://www.youtube.com/watch?v=PHt4rqzfayc&t=339s)
+
+<small>[Clip it](presserclips://clip?v=PHt4rqzfayc&t=339&q=2) · [Send to Slack](presserclips://clip?v=PHt4rqzfayc&t=339&q=2&slack=1)</small>
+
+**3. Jamahl Mosley — "Obviously Book being the head of the snake and what he's able to do" — Coach Mosley's assessment of the Phoenix Suns' bench and team play** [06:29](https://www.youtube.com/watch?v=PHt4rqzfayc&t=389s)
+
+**Unidentified reporter:** "What has stood out to you about this Phoenix group now that you had a time to look at them a little bit more?"
+
+**Jamahl Mosley:** "Obviously **Book** being the head of the snake and what he's able to do and how he commands the floor, but other guys stepping up. Their bench unit plays very good basketball together. Once they make the substitution, you got guys like **Gillespie** coming in the game playing the right way. Guys that are commanding the floor and doing the right thing, playing hard. They crash the glass extremely well. Again, they play as a tight unit. Defensively, they're getting after it trying to get steals. So they're the head of the snake, but they got a lot of small contributions from others that are looking to step up and play well."
+
+[https://www.youtube.com/watch?v=PHt4rqzfayc&t=389s](https://www.youtube.com/watch?v=PHt4rqzfayc&t=389s)
+
+<small>[Clip it](presserclips://clip?v=PHt4rqzfayc&t=389&q=3) · [Send to Slack](presserclips://clip?v=PHt4rqzfayc&t=389&q=3&slack=1)</small>
+
+**4. Jamahl Mosley — "You can't give him one dosage of the same thing" — Strategies for slowing down Devin Booker's offensive impact** [07:03](https://www.youtube.com/watch?v=PHt4rqzfayc&t=423s)
+
+**Unidentified reporter:** "I want to ask you about more about **Devin Booker**. He's had a lot of success in this building. What are the keys to trying to slow him down?"
+
+**Jamahl Mosley:** "He's one of those great players that you can't give him one dosage of the same thing. So you're mixing up who's guarding him, how we guard him, different coverages, double-team, switching, trapping, all those things that come into play. Limiting his touches, that's where it starts. And obviously he's able to get to the free-throw line so well, so the ability to do all that without fouling as best as you can with him is very tough. So size on him, but also sometimes some quickness on him as well to keep the ball out of his hands."
+
+[https://www.youtube.com/watch?v=PHt4rqzfayc&t=423s](https://www.youtube.com/watch?v=PHt4rqzfayc&t=423s)
+
+<small>[Clip it](presserclips://clip?v=PHt4rqzfayc&t=423&q=4) · [Send to Slack](presserclips://clip?v=PHt4rqzfayc&t=423&q=4&slack=1)</small>
+
+**5. Jamahl Mosley — "He seemed to respond back well and we will still look to keep him in that same range" — Trey's reaction to increased minutes and his ongoing restriction status** [07:40](https://www.youtube.com/watch?v=PHt4rqzfayc&t=460s)
+
+**Unidentified reporter:** "How did **Trey** react to having minutes the other night and is he still going to be on a minutes restriction?"
+
+**Jamahl Mosley:** "He was actually good. I think I bumped him up a couple more minutes in that game because he ran long late. But again, he seemed to respond back well and we will still look to keep him in that same range as best as possible. But again, it's always how he responds to it and he's done a great job of communicating how he felt afterwards, so that's a good sign."
+
+[https://www.youtube.com/watch?v=PHt4rqzfayc&t=460s](https://www.youtube.com/watch?v=PHt4rqzfayc&t=460s)
+
+<small>[Clip it](presserclips://clip?v=PHt4rqzfayc&t=460&q=5) · [Send to Slack](presserclips://clip?v=PHt4rqzfayc&t=460&q=5&slack=1)</small>
+
+**6. Jamahl Mosley — "I've seen his work ethic just increase. Every morning he's there first getting work in" — Derrick Queen's work ethic and confidence in his outside shooting** [08:04](https://www.youtube.com/watch?v=PHt4rqzfayc&t=484s)
+
+**Unidentified reporter:** "Looking at **Derrick Queen**, it looks like his outside shot is maybe ahead of schedule. What have you seen from him and just his confidence from outside and how you can use what he can do for you on the floor?"
+
+**Jamahl Mosley:** "I've seen his work ethic just increase. Every morning he's there first getting work in with Coach **Randy**, Coach **Osborne**, just making sure he's getting those pieces of his game tightened up. And he's continued to work on that day in and day out, so that's where the confidence comes from because he's putting the work in. Obviously we all know his ability to make plays, connect people, connect the dots with his passing, but then being able to stretch the floor in certain situations depending on the matchup is going to be big for him."
+
+[https://www.youtube.com/watch?v=PHt4rqzfayc&t=484s](https://www.youtube.com/watch?v=PHt4rqzfayc&t=484s)
+
+<small>[Clip it](presserclips://clip?v=PHt4rqzfayc&t=484&q=6) · [Send to Slack](presserclips://clip?v=PHt4rqzfayc&t=484&q=6&slack=1)</small>
+
+**7. Jamahl Mosley — "Being able to get those guys to come over to help us out in practice is huge" — The importance of team contributions during early morning practices** [08:45](https://www.youtube.com/watch?v=PHt4rqzfayc&t=525s)
+
+**Unidentified reporter:** "If they told you about the Laketown Lunatics group chat and just what have you seen from that group when you have to call them all up early in the morning for practice?"
+
+**Jamahl Mosley:** "I have not seen all of that yet, but being able to get those guys to come over to help us out in practice when we're bodies down is huge. Again, it's such a great group of guys that they understand exactly what we're being what we're asking them to do. But how B-Great has them playing, and that's what's important for our organization, for our culture, what we're continuing to build from this step forward, that they they understand that."
+
+[https://www.youtube.com/watch?v=PHt4rqzfayc&t=525s](https://www.youtube.com/watch?v=PHt4rqzfayc&t=525s)
+
+<small>[Clip it](presserclips://clip?v=PHt4rqzfayc&t=525&q=7) · [Send to Slack](presserclips://clip?v=PHt4rqzfayc&t=525&q=7&slack=1)</small>
+
+**8. Jamahl Mosley — "I really think it's one, it's his spirit, the way he plays with a level of energy" — Daron's energy, defensive tenacity, and role in the rotation** [09:20](https://www.youtube.com/watch?v=PHt4rqzfayc&t=560s)
+
+**Unidentified reporter:** "Looking at **Daron** specifically, one of the comps was to **Naji Marshall**, a guy that really endeared himself to New Orleans and came up the hard way. Just what have you seen from **Daron** specifically that's got him into the rotation?"
+
+**Jamahl Mosley:** "I really think it's one, it's his spirit, the way he plays with a level of energy, tenacity, and joy for the game. That's the big piece of it. Then the other side of it, he's guarding. He's sitting down and trying to guard any and everybody. I mean the one game he guards **DeRozan**, then he draws **Murray**, then he's not afraid to go against **SGA**. Like all those things are who he is and to your point, he represents like what this is in the city, how to get it the hard way. And the toughness that he possesses out there, the confidence that he possesses is exactly what we're asking all these guys to to do and be."
+
+[https://www.youtube.com/watch?v=PHt4rqzfayc&t=560s](https://www.youtube.com/watch?v=PHt4rqzfayc&t=560s)
+
+<small>[Clip it](presserclips://clip?v=PHt4rqzfayc&t=560&q=8) · [Send to Slack](presserclips://clip?v=PHt4rqzfayc&t=560&q=8&slack=1)</small>
+
+**9. Jamahl Mosley — "Teams that start fast sometimes fizzle out. Same teams that start slow start to find their groove" — The potential for struggling teams to turn their season around** [10:03](https://www.youtube.com/watch?v=PHt4rqzfayc&t=603s)
+
+**Unidentified reporter:** "When you look at the Suns and they started slow, but they obviously got it going. Now does that give just teams that in your position that started slow that okay, it's possible to get it flipped around?"
+
+**Jamahl Mosley:** "82 games. That's I know teams that start fast sometimes fizzle out. Same teams that start slow start to find their groove in the middle of the season. And that's the the great part about this league is that you have moments to be able to go do it. And this group believes that. They understand what we can and cannot do. You start to take the small steps, the part of playing 40 minutes of great basketball and turning that into 48. The ability to know that, to register it, to walk through it and see it and then you have games to be able to see it. Now different competition, different nights, but it gives you the the the confidence and knowing that it it can be done and with this group it will be done."
+
+[https://www.youtube.com/watch?v=PHt4rqzfayc&t=603s](https://www.youtube.com/watch?v=PHt4rqzfayc&t=603s)
+
+<small>[Clip it](presserclips://clip?v=PHt4rqzfayc&t=603&q=9) · [Send to Slack](presserclips://clip?v=PHt4rqzfayc&t=603&q=9&slack=1)</small>
+
+---
+
 ## Cooper Flagg Postgame Interview | Mavericks at Jazz | Nov. 22, 2026 — *Dallas Mavericks*
 
 Source: [https://www.youtube.com/watch?v=R7zQvs73_hQ](https://www.youtube.com/watch?v=R7zQvs73_hQ)
@@ -960,6 +1084,34 @@ Jarrett Allen: "I think we're still learning each other's habits like with Evan 
 
 ---
 
+## Robbie Hummel Interview With Sean Dorcellus | 11.23.26 — *Minnesota Timberwolves*
+
+Source: [https://www.youtube.com/watch?v=Uw36hv3T4Q4](https://www.youtube.com/watch?v=Uw36hv3T4Q4)
+
+_Speakers identified: Robbie Hummel, Sean Dorcellus_
+
+**1. Robbie Hummel — "the defense is something that you can lean on every night and obviously Rudy kind of anchors that" — Timberwolves' defensive identity remains strong despite offensive struggles** [00:08](https://www.youtube.com/watch?v=Uw36hv3T4Q4&t=8s)
+
+**Sean Dorcellus:** "Robbie, almost a quarter of the way through the season, your early impressions of the team?"
+
+**Robbie Hummel:** "I have been really impressed. I know the offense the last three or four games hasn't been flowing as well, but when you lose a player as good as **Anthony Edwards**, so many guys have stepped up. The way they have won games without him, the defense is something that you can lean on every night and obviously **Rudy Gobert** kind of anchors that. Whether it is **Jaden McDaniels** or **Kyle Anderson** or all these guys that can really guard the ball and be aggressive and force turnovers, I just think Minnesota is built to where when they don't have the offense going and you don't have **Anthony Edwards**, you can still fall back on your defense and win games."
+
+[https://www.youtube.com/watch?v=Uw36hv3T4Q4&t=8s](https://www.youtube.com/watch?v=Uw36hv3T4Q4&t=8s)
+
+<small>[Clip it](presserclips://clip?v=Uw36hv3T4Q4&t=8&q=1) · [Send to Slack](presserclips://clip?v=Uw36hv3T4Q4&t=8&q=1&slack=1)</small>
+
+**2. Robbie Hummel — "you can put him out there with anybody and he is going to be a winning player" — Kyle Anderson and Terrence Shannon Jr. adapting to NBA roles** [00:42](https://www.youtube.com/watch?v=Uw36hv3T4Q4&t=42s)
+
+**Unidentified reporter:** "A couple of those guys that have stepped up, you are very familiar with going back to their college days: **Kyle Anderson** and **Terrence Shannon Jr.** What has impressed you the most about how their game has translated to the NBA?"
+
+**Robbie Hummel:** "**Kyle Anderson**, he has just gotten better and better every year you have seen him in the NBA. He puts so much pressure on the rim, he is shooting a good percentage from three, he guards, and on top of that he is a great teammate. I think with what **Chris Finch** said, in the sense that you can put him out there with anybody and he is going to be a winning player. And then you look at **Terrence Shannon Jr.**, another Illini, he looks like the **Terrence Shannon Jr.** I saw in college. The will is way to the rim, one-man fast break, transition, he is shooting it well, he is playing with a lot of confidence. If he didn't get hurt last year, he might have broken out last season, but he did have that injury, missed two months, played well in the playoffs and you can tell now he is really playing with a lot of confidence."
+
+[https://www.youtube.com/watch?v=Uw36hv3T4Q4&t=42s](https://www.youtube.com/watch?v=Uw36hv3T4Q4&t=42s)
+
+<small>[Clip it](presserclips://clip?v=Uw36hv3T4Q4&t=42&q=2) · [Send to Slack](presserclips://clip?v=Uw36hv3T4Q4&t=42&q=2&slack=1)</small>
+
+---
+
 ## Naz Reid Shootaround Media Availability | 11/23/26 — *Charlotte Hornets*
 
 Source: [https://www.youtube.com/watch?v=_9rH2N8AYTM](https://www.youtube.com/watch?v=_9rH2N8AYTM)
@@ -1065,6 +1217,92 @@ _Speakers identified: Brandin Podziemski, Kerith Burke_
 **Brandin Podziemski:** "It's what makes him a Hall of Famer. People think he lacks offensive ability, but when he scores our team usually wins. We're all encouraging him to be aggressive, take shots when he's open, take shots at the rim when he's open. Don't be so unselfish. He did that. I'm pretty sure it shocked the Celtics even a little bit to start the game, but that gave us a good energy, a good boost to start the game."
 
 [https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s](https://www.youtube.com/watch?v=_v2gq_dt3gk&t=70s)
+
+---
+
+## Julian Champagnie on Setting the Tone On the First Game of Their Roadtrip In Sacramento — *San Antonio Spurs*
+
+Source: [https://www.youtube.com/watch?v=atm1b0r0MZ4](https://www.youtube.com/watch?v=atm1b0r0MZ4)
+
+_Speakers identified: Julian Champagnie, Unidentified speaker_
+
+**1. Julian Champagnie — "It is super important to set the tone on this road trip. We got a two-game road trip." — Importance of setting the tone on a two-game road trip** [00:16](https://www.youtube.com/watch?v=atm1b0r0MZ4&t=16s)
+
+**Unidentified reporter:** "Big game to start it out. How important is it to get off to a good start?"
+
+**Julian Champagnie:** "It is super important to set the tone on this road trip. We got a two-game road trip, but it will be good to get a dub tonight, going to Portland, get another one."
+
+[https://www.youtube.com/watch?v=atm1b0r0MZ4&t=16s](https://www.youtube.com/watch?v=atm1b0r0MZ4&t=16s)
+
+<small>[Clip it](presserclips://clip?v=atm1b0r0MZ4&t=16&q=1) · [Send to Slack](presserclips://clip?v=atm1b0r0MZ4&t=16&q=1&slack=1)</small>
+
+**2. Julian Champagnie — "They got some good scorers. The rookie is really good. They play hard, they play together." — Evaluating the Sacramento Kings as a young, talented team** [00:29](https://www.youtube.com/watch?v=atm1b0r0MZ4&t=29s)
+
+**Unidentified reporter:** "What is the Sacramento, young team, what are they bringing to the table?"
+
+**Julian Champagnie:** "They got some good scorers. The rookie is really good. They play hard, they play together. So, coming in here, we have to make sure that we stick to our standard."
+
+[https://www.youtube.com/watch?v=atm1b0r0MZ4&t=29s](https://www.youtube.com/watch?v=atm1b0r0MZ4&t=29s)
+
+<small>[Clip it](presserclips://clip?v=atm1b0r0MZ4&t=29&q=2) · [Send to Slack](presserclips://clip?v=atm1b0r0MZ4&t=29&q=2&slack=1)</small>
+
+**3. Julian Champagnie — "No game is an easy game. It is hard to win in this league." — Maintaining focus and intensity against familiar opponents** [00:47](https://www.youtube.com/watch?v=atm1b0r0MZ4&t=47s)
+
+**Unidentified speaker:** "When you are playing a team like this that you have already played twice, do you guys talk about that? Like we still got to get up and play a game for sure."
+
+**Julian Champagnie:** "We still got to get up and play a game for sure. Mentality is all the time. No game is an easy game. It is hard to win in this league. So we got to make sure that we come out today with the right intent and play together."
+
+[https://www.youtube.com/watch?v=atm1b0r0MZ4&t=47s](https://www.youtube.com/watch?v=atm1b0r0MZ4&t=47s)
+
+<small>[Clip it](presserclips://clip?v=atm1b0r0MZ4&t=47&q=3) · [Send to Slack](presserclips://clip?v=atm1b0r0MZ4&t=47&q=3&slack=1)</small>
+
+**4. Julian Champagnie — "I like the gym. The gym is really good. I played Summer League here." — Julian Champagnie on his affinity for the Sacramento arena** [01:12](https://www.youtube.com/watch?v=atm1b0r0MZ4&t=72s)
+
+**Unidentified reporter:** "A couple years ago, I don't know if you remember, you told me that Sacramento was your favorite road city in the NBA. Is that still the case?"
+
+**Julian Champagnie:** "Maybe not my road city, but I like the gym. The gym is really good. I played Summer League here and I made a lot of shots, so it is a favorite shooting gym."
+
+[https://www.youtube.com/watch?v=atm1b0r0MZ4&t=72s](https://www.youtube.com/watch?v=atm1b0r0MZ4&t=72s)
+
+<small>[Clip it](presserclips://clip?v=atm1b0r0MZ4&t=72&q=4) · [Send to Slack](presserclips://clip?v=atm1b0r0MZ4&t=72&q=4&slack=1)</small>
+
+---
+
+## Draymond Green sparks Warriors’ bounce-back win vs. Celtics | NBC Sports Bay Area — *Golden State Warriors*
+
+Source: [https://www.youtube.com/watch?v=cbTV7zkynBs](https://www.youtube.com/watch?v=cbTV7zkynBs)
+
+_Speakers identified: Bonta Hill, Dalton Johnson, Monte Poole_
+
+**1. Bonta Hill — "When he scores, it loosens up the defense just a little bit" — Draymond Green's scoring impact on the Warriors' offense** [00:20](https://www.youtube.com/watch?v=cbTV7zkynBs&t=20s)
+
+**Bonta Hill:** "You can't tell me that it doesn't matter when he scores. It does matter when he scores. When he scores, it loosens up the defense just a little bit and he finishes with nine points, all in the first quarter."
+
+**Monte Poole:** "Yeah, he's the one of those nine points in the first six minutes and they never scored again. But he set a tone."
+
+[https://www.youtube.com/watch?v=cbTV7zkynBs&t=20s](https://www.youtube.com/watch?v=cbTV7zkynBs&t=20s)
+
+**2. Monte Poole — "He took five three-point shots. And so this is a guy who is averaging less than one make per game" — Draymond Green's unexpected three-point shooting performance** [00:46](https://www.youtube.com/watch?v=cbTV7zkynBs&t=46s)
+
+**Monte Poole:** "He took five three-point shots. And so this is a guy who is averaging less than one make per game."
+
+**Bonta Hill:** "One attempt per game, Monte."
+
+**Monte Poole:** "So when you do that and you make them, I think the whole team kind of, oh, okay, that's a nice surprise. Because you don't expect it, but I think **Steve Kerr** had told him, they had discussed this. Draymond, I'm going to play with Charles Bassey at the five, you're going to be the four, that means corner threes for you. Let them fly."
+
+[https://www.youtube.com/watch?v=cbTV7zkynBs&t=46s](https://www.youtube.com/watch?v=cbTV7zkynBs&t=46s)
+
+**3. Dalton Johnson — "Steph almost fell out of the seat after the third three-pointer" — Stephen Curry's reaction to Draymond Green's three-point shooting** [01:42](https://www.youtube.com/watch?v=cbTV7zkynBs&t=102s)
+
+Dalton Johnson: "Those three-pointers from Draymond, the bench was up. Steph almost fell out of the seat after the third three-pointer. It brought the collective energy for the entire team. He came into this game making four threes the entire season, and he made three in the first quarter. I just thought that gave everybody a little bit of life."
+
+[https://www.youtube.com/watch?v=cbTV7zkynBs&t=102s](https://www.youtube.com/watch?v=cbTV7zkynBs&t=102s)
+
+**4. Dalton Johnson — "Green pushed Tatum left and contested a 16-foot fadeaway that missed with 1.6 seconds left" — Draymond Green's defensive effort against Jayson Tatum** [02:08](https://www.youtube.com/watch?v=cbTV7zkynBs&t=128s)
+
+Dalton Johnson: "Green pushed Tatum left and contested a 16-foot fadeaway that missed with 1.6 seconds left. He tries to get him to go left for the final shot. He gets him to go left, Tatum crosses, beats him, but he keeps his feet sliding and has great verticality by **Draymond Green**."
+
+[https://www.youtube.com/watch?v=cbTV7zkynBs&t=128s](https://www.youtube.com/watch?v=cbTV7zkynBs&t=128s)
 
 ---
 

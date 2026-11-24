@@ -1,0 +1,186 @@
+{
+  "video_title": "Julian Champagnie on Setting the Tone On the First Game of Their Roadtrip In Sacramento",
+  "speakers_seen": [
+    "Julian Champagnie",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Julian Champagnie",
+      "speakers": [
+        "Unidentified reporter",
+        "Julian Champagnie"
+      ],
+      "timestamp": "00:16",
+      "summary_phrase": "Importance of setting the tone on a two-game road trip",
+      "names_mentioned": [],
+      "excerpt": "It is super important to set the tone on this road trip. We got a two-game road trip.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Big game to start it out. How important is it to get off to a good start?"
+        },
+        {
+          "speaker": "Julian Champagnie",
+          "text": "It is super important to set the tone on this road trip. We got a two-game road trip, but it will be good to get a dub tonight, going to Portland, get another one."
+        }
+      ],
+      "start_seconds": 16,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Julian Champagnie says it is super important for the Spurs to set the tone on this two game road trip starting tonight in Sacramento.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Julian Champagnie discusses the importance of starting the road trip with a win against Sacramento and Portland.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Julian Champagnie",
+      "speakers": [
+        "Unidentified reporter",
+        "Julian Champagnie"
+      ],
+      "timestamp": "00:29",
+      "summary_phrase": "Evaluating the Sacramento Kings as a young, talented team",
+      "names_mentioned": [],
+      "excerpt": "They got some good scorers. The rookie is really good. They play hard, they play together.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What is the Sacramento, young team, what are they bringing to the table?"
+        },
+        {
+          "speaker": "Julian Champagnie",
+          "text": "They got some good scorers. The rookie is really good. They play hard, they play together. So, coming in here, we have to make sure that we stick to our standard."
+        }
+      ],
+      "start_seconds": 29,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Julian Champagnie on facing the Kings tonight: They have good scorers and play hard so the Spurs have to make sure they stick to their standard.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Julian Champagnie evaluates the strengths of the Sacramento Kings as a young and talented team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Julian Champagnie",
+      "speakers": [
+        "Unidentified speaker",
+        "Julian Champagnie"
+      ],
+      "timestamp": "00:47",
+      "summary_phrase": "Maintaining focus and intensity against familiar opponents",
+      "names_mentioned": [],
+      "excerpt": "No game is an easy game. It is hard to win in this league.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "When you are playing a team like this that you have already played twice, do you guys talk about that? Like we still got to get up and play a game for sure."
+        },
+        {
+          "speaker": "Julian Champagnie",
+          "text": "We still got to get up and play a game for sure. Mentality is all the time. No game is an easy game. It is hard to win in this league. So we got to make sure that we come out today with the right intent and play together."
+        }
+      ],
+      "start_seconds": 47,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Julian Champagnie on the mentality heading into tonight: No game is an easy game and it is hard to win in this league.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Julian Champagnie explains the team's mentality when facing an opponent they have already played multiple times this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Julian Champagnie",
+      "speakers": [
+        "Unidentified reporter",
+        "Julian Champagnie"
+      ],
+      "timestamp": "01:12",
+      "summary_phrase": "Julian Champagnie on his affinity for the Sacramento arena",
+      "names_mentioned": [],
+      "excerpt": "I like the gym. The gym is really good. I played Summer League here.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "A couple years ago, I don't know if you remember, you told me that Sacramento was your favorite road city in the NBA. Is that still the case?"
+        },
+        {
+          "speaker": "Julian Champagnie",
+          "text": "Maybe not my road city, but I like the gym. The gym is really good. I played Summer League here and I made a lot of shots, so it is a favorite shooting gym."
+        }
+      ],
+      "start_seconds": 72,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Julian Champagnie admits he enjoys playing in Sacramento because he had a lot of success there during Summer League: The gym is really good and it is a favorite shooting gym.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Julian Champagnie reflects on his affinity for the Sacramento arena due to his past shooting success there.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "atm1b0r0MZ4",
+  "url": "https://www.youtube.com/watch?v=atm1b0r0MZ4",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-23T22:52:21Z",
+  "duration_seconds": 91,
+  "processed_at": "2026-11-24T01:39:39Z",
+  "run_id": "2026-11-24T0138Z-14utc",
+  "is_one_off": false
+}

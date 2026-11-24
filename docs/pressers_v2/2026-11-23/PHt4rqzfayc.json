@@ -1,0 +1,439 @@
+{
+  "video_title": "LIVE: Pelicans vs. Suns Pregame w/ Jamahl Mosley 11/23/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified speaker",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "05:13",
+      "summary_phrase": "Zion Williamson's availability and warm-up process for the upcoming game",
+      "names_mentioned": [
+        "Zion"
+      ],
+      "excerpt": "He's going to go through his warm-up slot similar to what he did in San Antonio",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "So we saw that Zion is probably available, but available, I should say. Is that right?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "He's going to go through his warm-up slot similar to what he did in San Antonio and see if he's able to still get the push-off and the explosion that he necessarily needs to play with. But again, he took a nice little shot in that OKC game and I think just making sure he's okay there is what we're looking at."
+        }
+      ],
+      "start_seconds": 313,
+      "end_seconds": 343,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley says Zion Williamson is likely available tonight but will go through a warm-up to ensure he still has the necessary explosion after taking a shot in the OKC game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP",
+          "OKC"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Jamahl Mosley discusses Zion Williamson's injury status and warm-up process ahead of the upcoming game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "05:39",
+      "summary_phrase": "Why the lineup of Zion, Trey, and Jeremiah excels offensively",
+      "names_mentioned": [
+        "Zion",
+        "Trey",
+        "Jeremiah"
+      ],
+      "excerpt": "There's enough space on the floor and with what Trey is able to do in shooting the ball",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Often times when he and Trey are both on the court along with Jeremiah, it seems like that's where he really excels. Can you explain why you think that is with that grouping?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "There's enough space on the floor and with what Trey is able to do in shooting the ball, and then Zion, the gravity that he has, how teams guard him, it gives Jeremiah room to get downhill to attack the basket so teams don't want to help. And then you put those combos together, they've got to make a decision. We're talking to our guys about when you put two on the ball, when two are on the basketball, you've got to make the right play. That's where he's able to thrive, to be able to command the floor, to attack the basket to look for his shot, but also to set up other guys on the floor with the spacing the right way."
+        }
+      ],
+      "start_seconds": 339,
+      "end_seconds": 399,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley explains why the Zion Williamson, Trey Murphy, and Jeremiah Robinson-Earl lineup works: The spacing created by Trey and the gravity of Zion allows Jeremiah to attack the basket effectively.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson",
+          "Trey Murphy III",
+          "Jeremiah Robinson-Earl"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Coach Jamahl Mosley explains the offensive spacing benefits of playing Zion Williamson, Trey Murphy III, and Jeremiah Robinson-Earl together.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "06:29",
+      "summary_phrase": "Coach Mosley's assessment of the Phoenix Suns' bench and team play",
+      "names_mentioned": [
+        "Book",
+        "Gillespie"
+      ],
+      "excerpt": "Obviously Book being the head of the snake and what he's able to do",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What has stood out to you about this Phoenix group now that you had a time to look at them a little bit more?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "Obviously Book being the head of the snake and what he's able to do and how he commands the floor, but other guys stepping up. Their bench unit plays very good basketball together. Once they make the substitution, you got guys like Gillespie coming in the game playing the right way. Guys that are commanding the floor and doing the right thing, playing hard. They crash the glass extremely well. Again, they play as a tight unit. Defensively, they're getting after it trying to get steals. So they're the head of the snake, but they got a lot of small contributions from others that are looking to step up and play well."
+        }
+      ],
+      "start_seconds": 389,
+      "end_seconds": 441,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley on the Phoenix Suns: Devin Booker is the head of the snake, but their bench unit plays very good basketball together and they crash the glass extremely well.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker",
+          "Collin Gillespie"
+        ],
+        "teams": [
+          "NOP",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley shares his assessment of the Phoenix Suns' team play and the contributions of their bench unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "07:03",
+      "summary_phrase": "Strategies for slowing down Devin Booker's offensive impact",
+      "names_mentioned": [
+        "Devin Booker"
+      ],
+      "excerpt": "You can't give him one dosage of the same thing",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "I want to ask you about more about Devin Booker. He's had a lot of success in this building. What are the keys to trying to slow him down?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "He's one of those great players that you can't give him one dosage of the same thing. So you're mixing up who's guarding him, how we guard him, different coverages, double-team, switching, trapping, all those things that come into play. Limiting his touches, that's where it starts. And obviously he's able to get to the free-throw line so well, so the ability to do all that without fouling as best as you can with him is very tough. So size on him, but also sometimes some quickness on him as well to keep the ball out of his hands."
+        }
+      ],
+      "start_seconds": 423,
+      "end_seconds": 472,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "How do you slow down Devin Booker? Jamahl Mosley says you cannot give him one dosage of the same thing. You have to mix up coverages, double teams, and switching while trying to limit his touches without fouling.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker"
+        ],
+        "teams": [
+          "NOP",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley describes the defensive strategies required to slow down Phoenix Suns star Devin Booker.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "07:40",
+      "summary_phrase": "Trey's reaction to increased minutes and his ongoing restriction status",
+      "names_mentioned": [
+        "Trey"
+      ],
+      "excerpt": "He seemed to respond back well and we will still look to keep him in that same range",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How did Trey react to having minutes the other night and is he still going to be on a minutes restriction?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "He was actually good. I think I bumped him up a couple more minutes in that game because he ran long late. But again, he seemed to respond back well and we will still look to keep him in that same range as best as possible. But again, it's always how he responds to it and he's done a great job of communicating how he felt afterwards, so that's a good sign."
+        }
+      ],
+      "start_seconds": 460,
+      "end_seconds": 496,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says Trey Murphy responded well to increased minutes recently and the team will continue to monitor his workload to keep him in a similar range.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Murphy III"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Jamahl Mosley provides an update on Trey Murphy III's response to increased minutes and his ongoing minutes restriction.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "08:04",
+      "summary_phrase": "Derrick Queen's work ethic and confidence in his outside shooting",
+      "names_mentioned": [
+        "Jeremiah",
+        "Derrick Queen",
+        "Randy",
+        "Osborne"
+      ],
+      "excerpt": "I've seen his work ethic just increase. Every morning he's there first getting work in",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Looking at Derrick Queen, it looks like his outside shot is maybe ahead of schedule. What have you seen from him and just his confidence from outside and how you can use what he can do for you on the floor?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "I've seen his work ethic just increase. Every morning he's there first getting work in with Coach Randy, Coach Osborne, just making sure he's getting those pieces of his game tightened up. And he's continued to work on that day in and day out, so that's where the confidence comes from because he's putting the work in. Obviously we all know his ability to make plays, connect people, connect the dots with his passing, but then being able to stretch the floor in certain situations depending on the matchup is going to be big for him."
+        }
+      ],
+      "start_seconds": 484,
+      "end_seconds": 537,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley credits Derrick Queen's increased work ethic for his improved outside shooting: He is there every morning getting work in with the coaches to tighten up his game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Derrick Queen"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley discusses the improvement in Derrick Queen's work ethic and his development as an outside shooter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "08:45",
+      "summary_phrase": "The importance of team contributions during early morning practices",
+      "names_mentioned": [],
+      "excerpt": "Being able to get those guys to come over to help us out in practice is huge",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "If they told you about the Laketown Lunatics group chat and just what have you seen from that group when you have to call them all up early in the morning for practice?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "I have not seen all of that yet, but being able to get those guys to come over to help us out in practice when we're bodies down is huge. Again, it's such a great group of guys that they understand exactly what we're being what we're asking them to do. But how B-Great has them playing, and that's what's important for our organization, for our culture, what we're continuing to build from this step forward, that they they understand that."
+        }
+      ],
+      "start_seconds": 525,
+      "end_seconds": 569,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley praises the practice squad players for helping the team when they are short on bodies, noting it is important for the organization culture.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley comments on the importance of practice players helping the team during training sessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "09:20",
+      "summary_phrase": "Daron's energy, defensive tenacity, and role in the rotation",
+      "names_mentioned": [
+        "Daron",
+        "Naji Marshall",
+        "DeRozan",
+        "Murray",
+        "SGA"
+      ],
+      "excerpt": "I really think it's one, it's his spirit, the way he plays with a level of energy",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Looking at Daron specifically, one of the comps was to Naji Marshall, a guy that really endeared himself to New Orleans and came up the hard way. Just what have you seen from Daron specifically that's got him into the rotation?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "I really think it's one, it's his spirit, the way he plays with a level of energy, tenacity, and joy for the game. That's the big piece of it. Then the other side of it, he's guarding. He's sitting down and trying to guard any and everybody. I mean the one game he guards DeRozan, then he draws Murray, then he's not afraid to go against SGA. Like all those things are who he is and to your point, he represents like what this is in the city, how to get it the hard way. And the toughness that he possesses out there, the confidence that he possesses is exactly what we're asking all these guys to to do and be."
+        }
+      ],
+      "start_seconds": 560,
+      "end_seconds": 622,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Jamahl Mosley on Daron Holmes II: He has earned his spot in the rotation through his spirit, energy, and defensive tenacity against stars like DeRozan, Murray, and SGA.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Daron Holmes II",
+          "Naji Marshall",
+          "DeMar DeRozan",
+          "Jamal Murray",
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "NOP",
+          "SAC",
+          "DEN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley explains why Daron Holmes II has earned a spot in the rotation due to his defensive energy and tenacity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Jamahl Mosley",
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "timestamp": "10:03",
+      "summary_phrase": "The potential for struggling teams to turn their season around",
+      "names_mentioned": [],
+      "excerpt": "Teams that start fast sometimes fizzle out. Same teams that start slow start to find their groove",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "When you look at the Suns and they started slow, but they obviously got it going. Now does that give just teams that in your position that started slow that okay, it's possible to get it flipped around?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "82 games. That's I know teams that start fast sometimes fizzle out. Same teams that start slow start to find their groove in the middle of the season. And that's the the great part about this league is that you have moments to be able to go do it. And this group believes that. They understand what we can and cannot do. You start to take the small steps, the part of playing 40 minutes of great basketball and turning that into 48. The ability to know that, to register it, to walk through it and see it and then you have games to be able to see it. Now different competition, different nights, but it gives you the the the confidence and knowing that it it can be done and with this group it will be done."
+        }
+      ],
+      "start_seconds": 603,
+      "end_seconds": 671,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "On the long NBA season, Jamahl Mosley says: Teams that start slow find their groove in the middle of the season. It is about taking small steps to turn 40 minutes of great basketball into 48.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Coach Jamahl Mosley reflects on the possibility of turning a season around after a slow start by referencing the Phoenix Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "PHt4rqzfayc",
+  "url": "https://www.youtube.com/watch?v=PHt4rqzfayc",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-23T23:24:33Z",
+  "duration_seconds": 698,
+  "processed_at": "2026-11-24T01:39:42Z",
+  "run_id": "2026-11-24T0138Z-14utc",
+  "is_one_off": false
+}

@@ -1,0 +1,189 @@
+{
+  "video_title": "Draymond Green sparks Warriors’ bounce-back win vs. Celtics | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Bonta Hill",
+    "Dalton Johnson",
+    "Monte Poole"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Bonta Hill",
+      "speakers": [
+        "Bonta Hill",
+        "Monte Poole"
+      ],
+      "timestamp": "00:20",
+      "summary_phrase": "Draymond Green's scoring impact on the Warriors' offense",
+      "names_mentioned": [
+        "Draymond Green"
+      ],
+      "excerpt": "When he scores, it loosens up the defense just a little bit",
+      "text_blocks": [
+        {
+          "speaker": "Bonta Hill",
+          "text": "You can't tell me that it doesn't matter when he scores. It does matter when he scores. When he scores, it loosens up the defense just a little bit and he finishes with nine points, all in the first quarter."
+        },
+        {
+          "speaker": "Monte Poole",
+          "text": "Yeah, he's the one of those nine points in the first six minutes and they never scored again. But he set a tone."
+        }
+      ],
+      "start_seconds": 20,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Bonta Hill on the impact of Draymond Green scoring early: You cannot tell me it does not matter when he scores. It loosens up the defense and he set a tone for the Warriors in the first quarter.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Bonta Hill discusses how Draymond Green setting an early offensive tone impacted the Warriors' performance against the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Monte Poole",
+      "speakers": [
+        "Monte Poole",
+        "Bonta Hill",
+        "Monte Poole"
+      ],
+      "timestamp": "00:46",
+      "summary_phrase": "Draymond Green's unexpected three-point shooting performance",
+      "names_mentioned": [
+        "Draymond Green",
+        "Steve Kerr"
+      ],
+      "excerpt": "He took five three-point shots. And so this is a guy who is averaging less than one make per game",
+      "text_blocks": [
+        {
+          "speaker": "Monte Poole",
+          "text": "He took five three-point shots. And so this is a guy who is averaging less than one make per game."
+        },
+        {
+          "speaker": "Bonta Hill",
+          "text": "One attempt per game, Monte."
+        },
+        {
+          "speaker": "Monte Poole",
+          "text": "So when you do that and you make them, I think the whole team kind of, oh, okay, that's a nice surprise. Because you don't expect it, but I think Steve Kerr had told him, they had discussed this. Draymond, I'm going to play with Charles Bassey at the five, you're going to be the four, that means corner threes for you. Let them fly."
+        }
+      ],
+      "start_seconds": 46,
+      "end_seconds": 81,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Monte Poole reveals Steve Kerr gave Draymond Green the green light to let it fly from the corner: I think Steve Kerr had told him they had discussed this. Draymond, you are going to be the four, that means corner threes for you.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green",
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Monte Poole explains that Steve Kerr instructed Draymond Green to take corner three-pointers as part of a tactical adjustment.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dalton Johnson",
+      "timestamp": "01:42",
+      "summary_phrase": "Stephen Curry's reaction to Draymond Green's three-point shooting",
+      "names_mentioned": [
+        "Draymond Green",
+        "Stephen Curry"
+      ],
+      "excerpt": "Steph almost fell out of the seat after the third three-pointer",
+      "quote": "Those three-pointers from Draymond, the bench was up. Steph almost fell out of the seat after the third three-pointer. It brought the collective energy for the entire team. He came into this game making four threes the entire season, and he made three in the first quarter. I just thought that gave everybody a little bit of life.",
+      "start_seconds": 102,
+      "end_seconds": 124,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Draymond Green hitting three pointers in the first quarter brought the energy for the Warriors. Dalton Johnson notes Steph Curry almost fell out of his seat after the third one.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry",
+          "Draymond Green"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Dalton Johnson describes how Stephen Curry and the Warriors bench reacted to Draymond Green's unexpected three-point shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dalton Johnson",
+      "timestamp": "02:08",
+      "summary_phrase": "Draymond Green's defensive effort against Jayson Tatum",
+      "names_mentioned": [
+        "Jayson Tatum",
+        "Draymond Green"
+      ],
+      "excerpt": "Green pushed Tatum left and contested a 16-foot fadeaway that missed with 1.6 seconds left",
+      "quote": "Green pushed Tatum left and contested a 16-foot fadeaway that missed with 1.6 seconds left. He tries to get him to go left for the final shot. He gets him to go left, Tatum crosses, beats him, but he keeps his feet sliding and has great verticality by Draymond Green.",
+      "start_seconds": 128,
+      "end_seconds": 147,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Dalton Johnson breaks down the defensive sequence where Draymond Green forced Jayson Tatum left and used great verticality to contest the final shot of the game.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Draymond Green",
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "GSW",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Dalton Johnson analyzes the defensive play where Draymond Green forced Jayson Tatum into a missed shot at the end of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "default",
+  "format": "ytq-1",
+  "video_id": "cbTV7zkynBs",
+  "url": "https://www.youtube.com/watch?v=cbTV7zkynBs",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-23T23:44:59Z",
+  "duration_seconds": 156,
+  "processed_at": "2026-11-24T01:39:30Z",
+  "run_id": "2026-11-24T0138Z-14utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

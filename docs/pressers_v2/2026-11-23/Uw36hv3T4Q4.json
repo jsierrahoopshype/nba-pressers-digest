@@ -1,0 +1,125 @@
+{
+  "video_title": "Robbie Hummel Interview With Sean Dorcellus | 11.23.26",
+  "speakers_seen": [
+    "Robbie Hummel",
+    "Sean Dorcellus"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Robbie Hummel",
+      "speakers": [
+        "Sean Dorcellus",
+        "Robbie Hummel"
+      ],
+      "timestamp": "00:08",
+      "summary_phrase": "Timberwolves' defensive identity remains strong despite offensive struggles",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "Rudy Gobert",
+        "Jaden McDaniels",
+        "Kyle Anderson"
+      ],
+      "excerpt": "the defense is something that you can lean on every night and obviously Rudy kind of anchors that",
+      "text_blocks": [
+        {
+          "speaker": "Sean Dorcellus",
+          "text": "Robbie, almost a quarter of the way through the season, your early impressions of the team?"
+        },
+        {
+          "speaker": "Robbie Hummel",
+          "text": "I have been really impressed. I know the offense the last three or four games hasn't been flowing as well, but when you lose a player as good as Anthony Edwards, so many guys have stepped up. The way they have won games without him, the defense is something that you can lean on every night and obviously Rudy Gobert kind of anchors that. Whether it is Jaden McDaniels or Kyle Anderson or all these guys that can really guard the ball and be aggressive and force turnovers, I just think Minnesota is built to where when they don't have the offense going and you don't have Anthony Edwards, you can still fall back on your defense and win games."
+        }
+      ],
+      "start_seconds": 8,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Robbie Hummel says the Timberwolves have built a defensive identity that allows them to win games even when the offense is struggling and Anthony Edwards is sidelined. He credits Rudy Gobert for anchoring that unit.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Anthony Edwards",
+          "Rudy Gobert",
+          "Jaden McDaniels",
+          "Kyle Anderson"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Robbie Hummel discusses the Timberwolves' defensive identity and ability to win games while Anthony Edwards is sidelined.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Robbie Hummel",
+      "speakers": [
+        "Unidentified reporter",
+        "Robbie Hummel"
+      ],
+      "timestamp": "00:42",
+      "summary_phrase": "Kyle Anderson and Terrence Shannon Jr. adapting to NBA roles",
+      "names_mentioned": [
+        "Kyle Anderson",
+        "Terrence Shannon Jr.",
+        "Chris Finch"
+      ],
+      "excerpt": "you can put him out there with anybody and he is going to be a winning player",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "A couple of those guys that have stepped up, you are very familiar with going back to their college days: Kyle Anderson and Terrence Shannon Jr. What has impressed you the most about how their game has translated to the NBA?"
+        },
+        {
+          "speaker": "Robbie Hummel",
+          "text": "Kyle Anderson, he has just gotten better and better every year you have seen him in the NBA. He puts so much pressure on the rim, he is shooting a good percentage from three, he guards, and on top of that he is a great teammate. I think with what Chris Finch said, in the sense that you can put him out there with anybody and he is going to be a winning player. And then you look at Terrence Shannon Jr., another Illini, he looks like the Terrence Shannon Jr. I saw in college. The will is way to the rim, one-man fast break, transition, he is shooting it well, he is playing with a lot of confidence. If he didn't get hurt last year, he might have broken out last season, but he did have that injury, missed two months, played well in the playoffs and you can tell now he is really playing with a lot of confidence."
+        }
+      ],
+      "start_seconds": 42,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Robbie Hummel is impressed by the growth of Kyle Anderson and Terrence Shannon Jr. He notes that Anderson is a winning player you can put with anyone, while Shannon is playing with a lot of confidence as a one man fast break.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kyle Anderson",
+          "Terrence Shannon Jr.",
+          "Chris Finch"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates",
+          "injuries"
+        ],
+        "context": "Robbie Hummel evaluates the performance and development of Kyle Anderson and Terrence Shannon Jr. for the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: interview",
+  "format": "ytq-1",
+  "video_id": "Uw36hv3T4Q4",
+  "url": "https://www.youtube.com/watch?v=Uw36hv3T4Q4",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-24T00:27:17Z",
+  "duration_seconds": 140,
+  "processed_at": "2026-11-24T01:39:30Z",
+  "run_id": "2026-11-24T0138Z-14utc",
+  "is_one_off": false
+}
