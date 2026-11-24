@@ -584,13 +584,6 @@
    "run_id": "2026-11-19-overnight",
    "slot_date": "2026-11-19"
   },
-  "BZkSD9me9fo": {
-   "at": "2026-11-10T05:19:01Z",
-   "quote": "it felt you know we got back climbed back into the game i think we might have had a shot or two to even cut it to single digits against this team you re probably not getting to the rim so the ability ",
-   "run_id": "2026-11-10-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-10"
-  },
   "BzgCVI9Ahgw": {
    "at": "2026-11-12T17:39:12Z",
    "quote": "that s the growth of this team that s the growth of this group understanding what gets you and keeps you in games and then being able to execute it at the next level basketball is a game of mistakes y",
@@ -1637,13 +1630,6 @@
    "quote": "the warriors are doing it without three point shooting without perimeter shooting but it is all rebounding some defense and getting to the foul line pretty relentlessly the warriors are staying in the",
    "run_id": "2026-11-20-overnight",
    "slot_date": "2026-11-20"
-  },
-  "VW3u2tQw9cg": {
-   "at": "2026-11-10T05:18:55Z",
-   "quote": "the biggest issue in terms of the entire game was the unnecessary fouling and we marched a lot of their guys to the free throw line unnecessarily when we had ourselves in a pretty good position defens",
-   "run_id": "2026-11-10-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-10"
   },
   "V_9t7FMKLmA": {
    "at": "2026-11-13T16:32:22Z",
@@ -3291,6 +3277,22 @@
   }
  },
  "pending": {
+  "-FN8qnGoYuY": {
+   "channel": "Portland Trail Blazers",
+   "clip_count": 9,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T05:58:45Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-24",
+   "speaker": "Deni Avdija",
+   "title": "Deni Avdija Postgame Interview| Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026",
+   "top_quote": "Just being aggressive. I feel like I don't really overthink when I play. I just go out there and have fun, trying to be aggressive and do the right play every time, and I ended up being in a pretty good rhythm in the first half.",
+   "video_id": "-FN8qnGoYuY"
+  },
   "01yVI_Y2kGE": {
    "channel": "Memphis Grizzlies",
    "clip_count": 8,
@@ -3674,6 +3676,22 @@
    "title": "Jaden McDaniels Postgame Interview After Win Against Brooklyn Nets | 11.23.26",
    "top_quote": "Jaden, coach has been on you to be aggressive. You take 16 shots tonight, you have a career-high 34 points. What was the defense giving you? Really just I don't know, I just out there flowing tonight, taking what they give me. If they give me a lane to go right, go right, and if they close short, shoot the three. It's just all the work that I put in, to just keep trusting myself.",
    "video_id": "fI6kwPgbuNo"
+  },
+  "fggqwTEjaRo": {
+   "channel": "Phoenix Suns",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-24",
+   "is_one_off": false,
+   "queued_at": "2026-11-24T05:58:45Z",
+   "run_id": "2026-11-24-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-24",
+   "speaker": "Jordan Ott",
+   "title": "Head Coach Jordan Ott Postgame Media Availability  | 11-23-26",
+   "top_quote": "He stuck with it. I think he could feel like it was building in his direction tonight. His speed, his ability to play out of closeouts, and in transition, I thought he had a big dunk in the fourth quarter where the paint just opened up. We need everyone, and I think he has taken massive steps on this road trip. I think us as a group have taken massive steps on this road trip of just hanging in there. Our spirit carries. Our spirit works on the road. It may not always be perfect, but I think at the end of the day, you can see and feel our group moving in the right direction, and it's all about winning.",
+   "video_id": "fggqwTEjaRo"
   },
   "hK9oVtT3pLw": {
    "channel": "Charlotte Hornets",

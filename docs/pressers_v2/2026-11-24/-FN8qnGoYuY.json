@@ -1,0 +1,303 @@
+{
+  "video_title": "Deni Avdija Postgame Interview| Trail Blazers 128, Philadelphia 76ers 111 | Nov. 23, 2026",
+  "speakers_seen": [
+    "Deni Avdija",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Deni Avdija",
+      "timestamp": "00:01",
+      "summary_phrase": "Deni Avdija on his aggressive mindset and rhythm",
+      "names_mentioned": [],
+      "excerpt": "I feel like I don't really overthink when I play. I just go out there and have fun.",
+      "quote": "Just being aggressive. I feel like I don't really overthink when I play. I just go out there and have fun, trying to be aggressive and do the right play every time, and I ended up being in a pretty good rhythm in the first half.",
+      "verbatim_original_language": "",
+      "start_seconds": 1,
+      "end_seconds": 19,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Deni Avdija on his scoring rhythm against the Sixers: I feel like I do not really overthink when I play. I just go out there and have fun, trying to be aggressive and do the right play every time.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija discusses his aggressive mindset and rhythm during the postgame interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Deni Avdija",
+      "timestamp": "00:42",
+      "summary_phrase": "Deni Avdija on the team's defensive focus in the second half",
+      "names_mentioned": [],
+      "excerpt": "Our mindset was the first team that would come and play defense in the second half would win.",
+      "quote": "Our mindset was the first team that would come and play defense in the second half would win the game, and I think that's what we did. We stepped up, everybody stepped up. They did a great job defensively, and yeah, we were on a string today for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 42,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Deni Avdija says the Blazers defensive focus in the second half was the difference maker against Philadelphia: Our mindset was the first team that would come and play defense in the second half would win the game.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija explains the team's defensive focus during the second half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Deni Avdija",
+      "timestamp": "00:59",
+      "summary_phrase": "Deni Avdija on Scoot Henderson's impact",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "Scoot is a big part of our team. He's talented. We've seen him have really, really big games.",
+      "quote": "Scoot is a big part of our team. He's talented. We've seen him have really, really big games, and we're going to keep trusting him. Keep shooting, he needs to keep shooting his shot, be confident. We know what he's capable of, and he came big time to this game for sure.",
+      "verbatim_original_language": "",
+      "start_seconds": 59,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Deni Avdija on Scoot Henderson: Scoot is a big part of our team. We are going to keep trusting him. Keep shooting, he needs to keep shooting his shot, be confident. We know what he is capable of.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scoot Henderson"
+        ],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Deni Avdija praises teammate Scoot Henderson for his impact and performance in the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Deni Avdija",
+      "timestamp": "01:18",
+      "summary_phrase": "Deni Avdija on competing against LeBron James",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "For me, it doesn't matter who I play against. I come every night and try to compete.",
+      "quote": "I'm not going to say something personal. I compete versus a lot of great players, but for me, it doesn't matter who I play against. I come every night and try to compete, and I'm not scared of anybody.",
+      "verbatim_original_language": "",
+      "start_seconds": 78,
+      "end_seconds": 93,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Deni Avdija on the mentality of facing stars like LeBron James: I compete versus a lot of great players, but for me, it does not matter who I play against. I come every night and try to compete, and I am not scared of anybody.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "POR",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Deni Avdija reflects on his competitive mindset when facing high-profile players like LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Deni Avdija",
+      "timestamp": "01:45",
+      "summary_phrase": "Deni Avdija on the support of his fans",
+      "names_mentioned": [],
+      "excerpt": "My fans are everything. It's just a blessing to have that fan base.",
+      "quote": "My fans are everything. Part of me playing, sometimes sick or injured or tired, is a lot for them as well. I know they're watching me, they're giving me the love, and it's just a blessing to have that fan base. I wish I could say thank you to each and every one of them personally, but they're a lot. I love them to death and we're going to keep rocking.",
+      "verbatim_original_language": "",
+      "start_seconds": 105,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 7,
+      "social_post": "Deni Avdija on the support from his fans: My fans are everything. Part of me playing, sometimes sick or injured or tired, is a lot for them as well. I love them to death and we are going to keep rocking.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija expresses appreciation for the support he receives from his fans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Deni Avdija",
+      "timestamp": "02:23",
+      "summary_phrase": "Deni Avdija on the team's performance and character",
+      "names_mentioned": [],
+      "excerpt": "I wouldn't say it was a complete game, but definitely showed character.",
+      "quote": "I think always we can look at things we could have done better. I think first half we could have played better defense, but I wouldn't say it was a complete game, but definitely showed character.",
+      "verbatim_original_language": "",
+      "start_seconds": 143,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Deni Avdija on the Blazers win over the 76ers: I would not say it was a complete game, but definitely showed character.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija evaluates the team's overall performance and character during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Deni Avdija",
+      "timestamp": "02:44",
+      "summary_phrase": "Deni Avdija on the competitive nature of the NBA",
+      "names_mentioned": [],
+      "excerpt": "The NBA is very dynamic. There's no surprises in the NBA. There's a lot of talented teams.",
+      "quote": "The NBA is very dynamic. You see teams beat first-seed teams sometimes. There's no surprises in the NBA. There's a lot of talented teams, and we're going to come to each and every single game fighting. It doesn't matter if we play the first seed or 15th. It's our mindset.",
+      "verbatim_original_language": "",
+      "start_seconds": 164,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Deni Avdija on the parity in the NBA: You see teams beat first seed teams sometimes. There is no surprises in the NBA. There is a lot of talented teams, and we are going to come to each and every single game fighting.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija discusses the competitive and dynamic nature of the NBA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Deni Avdija",
+      "timestamp": "03:31",
+      "speakers": [
+        "Unidentified speaker",
+        "Deni Avdija"
+      ],
+      "summary_phrase": "Deni Avdija on his growth and the support he receives",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "All this reality is a dream for me, and the fans that come to visit me.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "Deni, this is a special world for you. You broke the record for a young Israeli in the NBA. If I told you six years later you'd get to 25 points in the first half and beat LeBron James, what would you say to me?"
+        },
+        {
+          "speaker": "Deni Avdija",
+          "text": "All this reality is a dream for me, and the fans that come to visit me and give me the support and love while I'm far from home, far from family and friends, they have no idea how much it does me good. I hope that more and more will continue to arrive, and I hope I show enough love to everyone."
+        }
+      ],
+      "verbatim_original_language": "כל המציאות הזאת היא חלום בשבילי, והאוהדים שבאים לבקר אותי ונותנים לי את התמיכה והאהבה שאני רחוק מהבית ורחוק מהמשפחה ומהחברים, אין להם מושג כמה זה עושה לי טוב. אני מקווה שיותר ויותר ימשיכו להגיע, ואני מקווה שאני מראה מספיק אהבה לכולם.",
+      "start_seconds": 211,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 8,
+      "social_post": "Deni Avdija reflects on his journey: All this reality is a dream for me, and the fans that come to visit me and give me the support and love while I am far from home, far from family and friends, they have no idea how much it does me good.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "POR",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Deni Avdija reacts to a question about his career progress and playing against LeBron James.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Deni Avdija",
+      "timestamp": "04:33",
+      "summary_phrase": "Deni Avdija on his continuous improvement",
+      "names_mentioned": [],
+      "excerpt": "The goal in this season is to improve all the time.",
+      "quote": "The goal in this season is to improve all the time. In every season, I try to improve things in my game, but again, I feel like I can and know how to do everything. I try to improve things that I'm maybe less good in, but defense always was there for me. I just need to know to be aggressive there too.",
+      "verbatim_original_language": "המטרה בעונה הזאת זה כל הזמן להשתפר. בכל עונה אני מנסה לשפר דברים במשחק שלי, אבל שוב אני מרגיש שכיף לי, כיף לי שאני יכול ויודע לעשות הכל. ואני מנסה לשפר דברים שאולי אני פחות טוב בהם, אבל הגנה תמיד היה לי. פשוט צריך לדעת להיות אגרסיבי גם שמה.",
+      "start_seconds": 273,
+      "end_seconds": 294,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Deni Avdija on his development goals: The goal in this season is to improve all the time. I try to improve things that I am maybe less good in, but defense always was there for me. I just need to know to be aggressive there too.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija talks about his personal goals for continuous improvement throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "-FN8qnGoYuY",
+  "url": "https://www.youtube.com/watch?v=-FN8qnGoYuY",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-24T05:50:48Z",
+  "duration_seconds": 294,
+  "processed_at": "2026-11-24T05:58:37Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}

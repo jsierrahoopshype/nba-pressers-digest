@@ -1,0 +1,156 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability  | 11-23-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:39",
+      "summary_phrase": "Jordan Ott on Jaylen Brown's late-game execution and energy",
+      "names_mentioned": [
+        "Jaylen Brown"
+      ],
+      "excerpt": "He stuck with it. I think he could feel like it was building in his direction tonight.",
+      "quote": "He stuck with it. I think he could feel like it was building in his direction tonight. His speed, his ability to play out of closeouts, and in transition, I thought he had a big dunk in the fourth quarter where the paint just opened up. We need everyone, and I think he has taken massive steps on this road trip. I think us as a group have taken massive steps on this road trip of just hanging in there. Our spirit carries. Our spirit works on the road. It may not always be perfect, but I think at the end of the day, you can see and feel our group moving in the right direction, and it's all about winning.",
+      "verbatim_original_language": "",
+      "start_seconds": 39,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordan Ott says Jaylen Brown has taken massive steps on this road trip and praises the group for hanging in there to find their identity.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen Brown"
+        ],
+        "teams": [
+          "PHX",
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Jordan Ott discusses Jaylen Brown's performance and the team's overall progress during their road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:26",
+      "summary_phrase": "Jordan Ott on the impact of Collin Gillespie's return to the game",
+      "names_mentioned": [
+        "Collin Gillespie"
+      ],
+      "excerpt": "He got back in there to start the fourth. Huge in the fourth.",
+      "quote": "He got back in there to start the fourth. Huge in the fourth. I think offensively he had a good night, but it was those defenses, the big stop I think he had one on Zion. Book took the ball there in a big, big play from Zion. He's a hard guard when he's downhill at your chest so often. We had to rally around the ball and we were in small, we went with non-traditional center there and we were able to find some of those loose balls to pull it out.",
+      "verbatim_original_language": "",
+      "start_seconds": 86,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott credits Collin Gillespie for a huge defensive stop on Zion Williamson in the fourth quarter during the Suns road win.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Collin Gillespie",
+          "Zion Williamson",
+          "Devin Booker"
+        ],
+        "teams": [
+          "PHX",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jordan Ott evaluates Collin Gillespie's defensive impact and the team's strategy against Zion Williamson in the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:11",
+      "summary_phrase": "Jordan Ott on the team's response to double-teams on Devin Booker",
+      "names_mentioned": [
+        "Devin Booker",
+        "Herb Jones"
+      ],
+      "excerpt": "He was going to make the right play like he always does.",
+      "quote": "We anticipated the double. We anticipated it coming right back to Book. Then they doubled again and I think he was going to make the right play like he always does and Herb just got his hands on it. So, we'll take a look at that. I think it was Collin, he was trying to pass it to him in that weak side after the double team, but he advanced it to Miles after the double, got it right back, and then that next double came and we just weren't quite able to complete it.",
+      "verbatim_original_language": "",
+      "start_seconds": 191,
+      "end_seconds": 228,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott breaks down the late game execution against double teams on Devin Booker and the team's inability to complete the final play.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Devin Booker",
+          "Herb Jones",
+          "Collin Gillespie",
+          "Miles Bridges"
+        ],
+        "teams": [
+          "PHX",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains the team's execution and struggles against double-teams directed at Devin Booker.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:15",
+      "summary_phrase": "Jordan Ott on the team's growing identity during the road trip",
+      "names_mentioned": [],
+      "excerpt": "That locker room is starting to find their own identity this year.",
+      "quote": "It's our spirit. It's our spirit has, you know, like we hoped on the road, when you get on a road trip, this is a longer road trip, you never know how it's going to go or whose number is going to be called. I think that locker room is starting to find their own identity this year. These road wins are hard to do four times in a row. We got something in that locker room cooking that we got to try to keep continuing to build.",
+      "verbatim_original_language": "",
+      "start_seconds": 255,
+      "end_seconds": 289,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jordan Ott believes the Suns locker room is finding their identity after winning four straight road games, saying we got something in that locker room cooking.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott reflects on the team's developing identity and resilience during a successful four-game road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "fggqwTEjaRo",
+  "url": "https://www.youtube.com/watch?v=fggqwTEjaRo",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-24T05:28:32Z",
+  "duration_seconds": 289,
+  "processed_at": "2026-11-24T05:58:28Z",
+  "run_id": "2026-11-24-overnight",
+  "is_one_off": false
+}
