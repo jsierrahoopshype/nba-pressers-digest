@@ -2,7 +2,17 @@
 
 # Best of the best
 
-**1. P.J. Washington — "I thought he was aggressive on both ends of the floor. He was a hell of a playmaker" — P.J. Washington and Cooper Flagg on Cooper Flagg's aggressive performance** [00:08](https://www.youtube.com/watch?v=6VbM2anD-lo&t=8s)
+**1. Jamal Murray — "There's really not X's and O's. We were just bad, everybody down the line" — Jamal Murray on team's poor performance and lack of execution** [08:53](https://www.youtube.com/watch?v=0iMDD0fer28&t=533s)
+
+Jamal Murray: "There's really not X's and O's. We were just bad, everybody down the line. I'm just sloppy, lazy. They look like they were more engaged and they played like it. So, there's really not X's and O's. I really don't even know what to say. We just, down the line, just played bad."
+
+[https://www.youtube.com/watch?v=0iMDD0fer28&t=533s](https://www.youtube.com/watch?v=0iMDD0fer28&t=533s)
+
+From: [Full Denver Nuggets Postgame Media Availability vs. DAL 🎙](https://www.youtube.com/watch?v=0iMDD0fer28) · *Denver Nuggets*
+
+<small>[Clip it](presserclips://clip?v=0iMDD0fer28&t=533&q=5) · [Send to Slack](presserclips://clip?v=0iMDD0fer28&t=533&q=5&slack=1)</small>
+
+**2. P.J. Washington — "I thought he was aggressive on both ends of the floor. He was a hell of a playmaker" — P.J. Washington and Cooper Flagg on Cooper Flagg's aggressive performance** [00:08](https://www.youtube.com/watch?v=6VbM2anD-lo&t=8s)
 
 **P.J. Washington:** "I thought he was aggressive on both ends of the floor. I mean, he was a hell of a playmaker tonight for us. He got downhill, was aggressive, and on the defensive end, he was being himself. If we don't play like that every night with guys, the shots are going to land. He's going to be a special player without making his shots."
 
@@ -12,21 +22,13 @@
 
 From: [Cooper Flagg & P.J. Washington Postgame \| Mavericks at Nuggets \| Nov. 24, 2026](https://www.youtube.com/watch?v=6VbM2anD-lo) · *Dallas Mavericks*
 
-**2. Cooper Flagg — "I think it's cool. Obviously last year we didn't have a chance to be able to compete" — Cooper Flagg on competing in the In-Season Tournament** [03:48](https://www.youtube.com/watch?v=6VbM2anD-lo&t=228s)
+**3. Cooper Flagg — "I think it's cool. Obviously last year we didn't have a chance to be able to compete" — Cooper Flagg on competing in the In-Season Tournament** [03:48](https://www.youtube.com/watch?v=6VbM2anD-lo&t=228s)
 
 Cooper Flagg: "I think it's cool. Obviously last year we didn't have a chance to be able to compete in the cup, so it's pretty cool to be here. I also want to shout out to P.J. I mean, missed two games, come back, plus 32, high plus-minus on the team, like that's something special to be able to come back and just impact the game at such a high level, so definitely need some recognition there too."
 
 [https://www.youtube.com/watch?v=6VbM2anD-lo&t=228s](https://www.youtube.com/watch?v=6VbM2anD-lo&t=228s)
 
 From: [Cooper Flagg & P.J. Washington Postgame \| Mavericks at Nuggets \| Nov. 24, 2026](https://www.youtube.com/watch?v=6VbM2anD-lo) · *Dallas Mavericks*
-
-**3. Dusty May — "Naji is playing like a starter right now. We have a lot of guys that are really starters" — Dusty May explains decision to play PJ Washington with second unit** [01:23](https://www.youtube.com/watch?v=-cdWm8_5qPY&t=83s)
-
-Dusty May: "Obviously, not knowing until after warmups that he was going to play impacted that decision. But this is a group, Naji is playing like a starter right now. We have a lot of guys that are really starters on this group. And so it doesn't really matter. We felt like the last couple games we found a little bit of a defensive rhythm to begin games, and so we just didn't want to rock the boat. And PJ looked great in that second unit. He had more offense because of who he's playing with, had the ball in his hands a little bit more. He played with great physicality, he looked good, and his defensive intensity was great also."
-
-[https://www.youtube.com/watch?v=-cdWm8_5qPY&t=83s](https://www.youtube.com/watch?v=-cdWm8_5qPY&t=83s)
-
-From: [Dusty May Postgame Press Conference \| Mavericks at Nuggets \| Nov. 24, 2026](https://www.youtube.com/watch?v=-cdWm8_5qPY) · *Dallas Mavericks*
 
 ---
 
@@ -77,6 +79,80 @@ Dusty May: "I thought **Gaff** did a great job. I thought **Rez** did a great jo
 Dusty May: "You know, he's always been a low volume guy that made a solid percentage. And you know, to be effective as a center right now where we're playing, and he'll eventually play some five and some four in different positions, like if they're not going to play you, we have faith. We see him making it in practice, he puts in the time, and his teammates trust him. So I think that that's ultimately why he has the confidence to knock those down."
 
 [https://www.youtube.com/watch?v=-cdWm8_5qPY&t=268s](https://www.youtube.com/watch?v=-cdWm8_5qPY&t=268s)
+
+---
+
+## Full Denver Nuggets Postgame Media Availability vs. DAL 🎙 — *Denver Nuggets*
+
+Source: [https://www.youtube.com/watch?v=0iMDD0fer28](https://www.youtube.com/watch?v=0iMDD0fer28)
+
+_Speakers identified: Coach Adelman, Nikola Jokic, Jamal Murray, Christian Braun, Marvin Bagley III_
+
+**1. Coach Adelman — "I thought we were really lazy, the way we pass the ball" — Coach Adelman criticizes team's lazy passing and poor ball-faking** [00:11](https://www.youtube.com/watch?v=0iMDD0fer28&t=11s)
+
+Coach Adelman: "I thought we were really lazy, the way we pass the ball. It felt like I wanted to go back and coach a middle school camp about ball-faking and not throwing it straight into people's hands."
+
+[https://www.youtube.com/watch?v=0iMDD0fer28&t=11s](https://www.youtube.com/watch?v=0iMDD0fer28&t=11s)
+
+<small>[Clip it](presserclips://clip?v=0iMDD0fer28&t=11&q=1) · [Send to Slack](presserclips://clip?v=0iMDD0fer28&t=11&q=1&slack=1)</small>
+
+**2. Coach Adelman — "I thought the start of the game and the whole first half, we just wasted our opportunity" — Coach Adelman on team's missed opportunities and mental breakdowns** [01:04](https://www.youtube.com/watch?v=0iMDD0fer28&t=64s)
+
+Coach Adelman: "I thought the start of the game and the whole first half, we just wasted our opportunity. We came out with great energy, really got into Flag and **Kyrie**, and I look up and it's 5-0, four minutes into the game. We had an opportunity there that we didn't take advantage of. And then, as we missed shots again, it's like it led to defensive breakdowns, which is a mental thing. You have to get past that."
+
+[https://www.youtube.com/watch?v=0iMDD0fer28&t=64s](https://www.youtube.com/watch?v=0iMDD0fer28&t=64s)
+
+<small>[Clip it](presserclips://clip?v=0iMDD0fer28&t=64&q=2) · [Send to Slack](presserclips://clip?v=0iMDD0fer28&t=64&q=2&slack=1)</small>
+
+**3. Coach Adelman — "The conversations we're having back there are extensive. We're trying to figure out who the best people are" — Coach Adelman on potential roster changes and bench rotation** [05:02](https://www.youtube.com/watch?v=0iMDD0fer28&t=302s)
+
+Coach Adelman: "The conversations we're having back there are extensive. We're trying to figure out who the best people are to play. With Jules, Jules is going to be fine. He just got back, just got cleared. We're coming off a really good week. But this thing is fluid, and we know that. And it's fluid for a lot of reasons, not just for trying to find the right bench unit, but so I can get these guys through the season. That's the bottom line."
+
+[https://www.youtube.com/watch?v=0iMDD0fer28&t=302s](https://www.youtube.com/watch?v=0iMDD0fer28&t=302s)
+
+<small>[Clip it](presserclips://clip?v=0iMDD0fer28&t=302&q=3) · [Send to Slack](presserclips://clip?v=0iMDD0fer28&t=302&q=3&slack=1)</small>
+
+**4. Nikola Jokic — "We didn't shoot the ball well, we didn't finish well, we had a lot of turnovers" — Nikola Jokic on team's lack of readiness and poor execution** [07:12](https://www.youtube.com/watch?v=0iMDD0fer28&t=432s)
+
+Nikola Jokic: "We didn't shoot the ball well, we didn't finish well, we had a lot of turnovers."
+
+[https://www.youtube.com/watch?v=0iMDD0fer28&t=432s](https://www.youtube.com/watch?v=0iMDD0fer28&t=432s)
+
+<small>[Clip it](presserclips://clip?v=0iMDD0fer28&t=432&q=4) · [Send to Slack](presserclips://clip?v=0iMDD0fer28&t=432&q=4&slack=1)</small>
+
+**5. Jamal Murray — "There's really not X's and O's. We were just bad, everybody down the line" — Jamal Murray on team's poor performance and lack of execution** [08:53](https://www.youtube.com/watch?v=0iMDD0fer28&t=533s)
+
+Jamal Murray: "There's really not X's and O's. We were just bad, everybody down the line. I'm just sloppy, lazy. They look like they were more engaged and they played like it. So, there's really not X's and O's. I really don't even know what to say. We just, down the line, just played bad."
+
+[https://www.youtube.com/watch?v=0iMDD0fer28&t=533s](https://www.youtube.com/watch?v=0iMDD0fer28&t=533s)
+
+<small>[Clip it](presserclips://clip?v=0iMDD0fer28&t=533&q=5) · [Send to Slack](presserclips://clip?v=0iMDD0fer28&t=533&q=5&slack=1)</small>
+
+**6. Jamal Murray — "Coach Allen talked about how sometimes when you don't make shots, it's deflating" — Jamal Murray on team's struggle to overcome deficits** [10:04](https://www.youtube.com/watch?v=0iMDD0fer28&t=604s)
+
+Jamal Murray: "**Coach Allen** talked about how sometimes when you don't make shots, it's deflating. The team doesn't make shots, and it's deflating, and sometimes the defense is impacted by that. It was like we were just 8-0 run in the matter of a minute. It was just like turnover, turnover, turnover, timeout. We're down 10, come out, turnover, turnover. I guess there's no game plan for that. There's no execution, there's nothing you can really change other than just trying to lock in and play with more physicality, play more aggressive, play more downhill."
+
+[https://www.youtube.com/watch?v=0iMDD0fer28&t=604s](https://www.youtube.com/watch?v=0iMDD0fer28&t=604s)
+
+<small>[Clip it](presserclips://clip?v=0iMDD0fer28&t=604&q=6) · [Send to Slack](presserclips://clip?v=0iMDD0fer28&t=604&q=6&slack=1)</small>
+
+**7. Christian Braun — "I feel like we made a ton of mistakes, turning the ball over and made it easy" — Christian Braun on team's mistakes and lack of urgency** [16:39](https://www.youtube.com/watch?v=0iMDD0fer28&t=999s)
+
+Christian Braun: "I feel like we made a ton of mistakes, turning the ball over and made it easy on them, kind of getting out. I don't know if it was anything they were doing. We just didn't play well in the first half, especially that starting five, so we got to be better."
+
+[https://www.youtube.com/watch?v=0iMDD0fer28&t=999s](https://www.youtube.com/watch?v=0iMDD0fer28&t=999s)
+
+<small>[Clip it](presserclips://clip?v=0iMDD0fer28&t=999&q=7) · [Send to Slack](presserclips://clip?v=0iMDD0fer28&t=999&q=7&slack=1)</small>
+
+**8. Marvin Bagley III — "I just think the passes that we, you know, try to make normally just got picked off." — Marvin Bagley III on team's turnovers and defensive struggles** [18:35](https://www.youtube.com/watch?v=0iMDD0fer28&t=1115s)
+
+**Unidentified reporter:** "**David** was talking about how the turnovers are something that jumped off the stats page, just in terms of why you guys ended up losing this game, led to fast break points. What were those turnovers a product of in your mind?"
+
+**Marvin Bagley III:** "I just think the passes that we, you know, try to make normally just got picked off. From what I can say and can see right now, we put ourselves in a hole, turn the ball over and they score off of it, and it's kind of hard to fight back."
+
+[https://www.youtube.com/watch?v=0iMDD0fer28&t=1115s](https://www.youtube.com/watch?v=0iMDD0fer28&t=1115s)
+
+<small>[Clip it](presserclips://clip?v=0iMDD0fer28&t=1115&q=8) · [Send to Slack](presserclips://clip?v=0iMDD0fer28&t=1115&q=8&slack=1)</small>
 
 ---
 

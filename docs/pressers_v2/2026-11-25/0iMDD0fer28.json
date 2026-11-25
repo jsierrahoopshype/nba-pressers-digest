@@ -1,0 +1,282 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. DAL 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Nikola Jokic",
+    "Jamal Murray",
+    "Christian Braun",
+    "Marvin Bagley III"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:11",
+      "summary_phrase": "Coach Adelman criticizes team's lazy passing and poor ball-faking",
+      "names_mentioned": [],
+      "excerpt": "I thought we were really lazy, the way we pass the ball",
+      "quote": "I thought we were really lazy, the way we pass the ball. It felt like I wanted to go back and coach a middle school camp about ball-faking and not throwing it straight into people's hands.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 8,
+      "social_post": "Coach Adelman did not hold back on his team's performance tonight, saying he felt like he needed to go back and coach a middle school camp about ball faking because the passing was so lazy.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman addresses the media following a loss to the Dallas Mavericks regarding the team's poor passing performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:04",
+      "summary_phrase": "Coach Adelman on team's missed opportunities and mental breakdowns",
+      "names_mentioned": [
+        "Kyrie"
+      ],
+      "excerpt": "I thought the start of the game and the whole first half, we just wasted our opportunity",
+      "quote": "I thought the start of the game and the whole first half, we just wasted our opportunity. We came out with great energy, really got into Flag and Kyrie, and I look up and it's 5-0, four minutes into the game. We had an opportunity there that we didn't take advantage of. And then, as we missed shots again, it's like it led to defensive breakdowns, which is a mental thing. You have to get past that.",
+      "text_blocks": [],
+      "start_seconds": 64,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Adelman says the team's inability to overcome missed shots is a mental issue that leads to defensive breakdowns.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DEN",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Coach Adelman discusses the team's missed opportunities and mental lapses during the first half of the game against Dallas.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "05:02",
+      "summary_phrase": "Coach Adelman on potential roster changes and bench rotation",
+      "names_mentioned": [
+        "Ryan Nemhard",
+        "Demar",
+        "Julian"
+      ],
+      "excerpt": "The conversations we're having back there are extensive. We're trying to figure out who the best people are",
+      "quote": "The conversations we're having back there are extensive. We're trying to figure out who the best people are to play. With Jules, Jules is going to be fine. He just got back, just got cleared. We're coming off a really good week. But this thing is fluid, and we know that. And it's fluid for a lot of reasons, not just for trying to find the right bench unit, but so I can get these guys through the season. That's the bottom line.",
+      "text_blocks": [],
+      "start_seconds": 302,
+      "end_seconds": 334,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Coach Adelman says rotation conversations are extensive and the lineup remains fluid as he tries to manage the team through the season.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jules"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman discusses potential roster and rotation changes while providing an update on the status of Jules.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Nikola Jokic",
+      "timestamp": "07:12",
+      "summary_phrase": "Nikola Jokic on team's lack of readiness and poor execution",
+      "names_mentioned": [],
+      "excerpt": "We didn't shoot the ball well, we didn't finish well, we had a lot of turnovers",
+      "quote": "We didn't shoot the ball well, we didn't finish well, we had a lot of turnovers.",
+      "text_blocks": [],
+      "start_seconds": 432,
+      "end_seconds": 438,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Nikola Jokic on the Nuggets loss: We did not shoot the ball well, we did not finish well, and we had a lot of turnovers.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Nikola Jokic reflects on the team's poor shooting and high turnover count after the loss to Dallas.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamal Murray",
+      "timestamp": "08:53",
+      "summary_phrase": "Jamal Murray on team's poor performance and lack of execution",
+      "names_mentioned": [],
+      "excerpt": "There's really not X's and O's. We were just bad, everybody down the line",
+      "quote": "There's really not X's and O's. We were just bad, everybody down the line. I'm just sloppy, lazy. They look like they were more engaged and they played like it. So, there's really not X's and O's. I really don't even know what to say. We just, down the line, just played bad.",
+      "text_blocks": [],
+      "start_seconds": 533,
+      "end_seconds": 553,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Jamal Murray was blunt after the loss: There are no X's and O's to blame. We were just bad, everybody down the line. I am just sloppy, lazy.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray evaluates the team's overall poor performance and lack of execution against the Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jamal Murray",
+      "timestamp": "10:04",
+      "summary_phrase": "Jamal Murray on team's struggle to overcome deficits",
+      "names_mentioned": [
+        "Coach Allen"
+      ],
+      "excerpt": "Coach Allen talked about how sometimes when you don't make shots, it's deflating",
+      "quote": "Coach Allen talked about how sometimes when you don't make shots, it's deflating. The team doesn't make shots, and it's deflating, and sometimes the defense is impacted by that. It was like we were just 8-0 run in the matter of a minute. It was just like turnover, turnover, turnover, timeout. We're down 10, come out, turnover, turnover. I guess there's no game plan for that. There's no execution, there's nothing you can really change other than just trying to lock in and play with more physicality, play more aggressive, play more downhill.",
+      "text_blocks": [],
+      "start_seconds": 604,
+      "end_seconds": 640,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamal Murray says there is no game plan for the turnover issues the team faced tonight, noting that the only solution is to play with more physicality and aggression.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Coach Adelman"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Jamal Murray reacts to Coach Adelman's comments regarding how missed shots impacted the team's defensive energy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Christian Braun",
+      "timestamp": "16:39",
+      "summary_phrase": "Christian Braun on team's mistakes and lack of urgency",
+      "names_mentioned": [],
+      "excerpt": "I feel like we made a ton of mistakes, turning the ball over and made it easy",
+      "quote": "I feel like we made a ton of mistakes, turning the ball over and made it easy on them, kind of getting out. I don't know if it was anything they were doing. We just didn't play well in the first half, especially that starting five, so we got to be better.",
+      "text_blocks": [],
+      "start_seconds": 999,
+      "end_seconds": 1019,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Christian Braun says the Nuggets made it easy on their opponent tonight by turning the ball over and failing to play well in the first half.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Christian Braun discusses the team's high turnover rate and poor performance from the starting unit in the first half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Marvin Bagley III",
+      "timestamp": "18:35",
+      "summary_phrase": "Marvin Bagley III on team's turnovers and defensive struggles",
+      "names_mentioned": [
+        "David"
+      ],
+      "excerpt": "I just think the passes that we, you know, try to make normally just got picked off.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "David was talking about how the turnovers are something that jumped off the stats page, just in terms of why you guys ended up losing this game, led to fast break points. What were those turnovers a product of in your mind?"
+        },
+        {
+          "speaker": "Marvin Bagley III",
+          "text": "I just think the passes that we, you know, try to make normally just got picked off. From what I can say and can see right now, we put ourselves in a hole, turn the ball over and they score off of it, and it's kind of hard to fight back."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Marvin Bagley III"
+      ],
+      "reporter_split": true,
+      "start_seconds": 1115,
+      "end_seconds": 1151,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Marvin Bagley III on the Nuggets turnovers: We put ourselves in a hole, turned the ball over, and they scored off of it, making it hard to fight back.",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Marvin Bagley III explains the team's turnover issues and how they contributed to the loss against Dallas.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "0iMDD0fer28",
+  "url": "https://www.youtube.com/watch?v=0iMDD0fer28",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-25T07:13:39Z",
+  "duration_seconds": 1252,
+  "processed_at": "2026-11-25T07:49:00Z",
+  "run_id": "2026-11-25-overnight",
+  "is_one_off": false
+}

@@ -431,13 +431,6 @@
    "seeded": true,
    "slot_date": "2026-11-11"
   },
-  "8jgOI6izgwU": {
-   "at": "2026-11-11T07:28:10Z",
-   "quote": "that mindset of feeling like it s going in every time it leaves your hands started feeling a little bit last year during the summer that s all we did was just shoot the ball again i know that s a key ",
-   "run_id": "2026-11-11-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-11"
-  },
   "8qWLB4D5owo": {
    "at": "2026-11-24T11:04:32Z",
    "quote": "i think it probably mean a little more for kevin durant than it would giannis antetokounmpo because people always say kevin durant got his rings from warriors steph and all that shit which i don t bel",
@@ -1829,13 +1822,6 @@
    "run_id": "2026-11-14-overnight",
    "slot_date": "2026-11-14"
   },
-  "_Ido9ON_VC0": {
-   "at": "2026-11-11T07:28:14Z",
-   "quote": "it s him every night we talk about just his energy and his general enthusiasm for life and basketball is always at a high level and tonight on top of it he made shots so he s definitely improved in th",
-   "run_id": "2026-11-11-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-11"
-  },
   "_OZciKkIgvc": {
    "at": "2026-11-21T09:12:01Z",
    "quote": "it would be great to keep the timeout but i felt the possession before it was more imperative to get organized if you miss that one then you go home with a timeout doesn t make a lot of sense so make ",
@@ -2159,13 +2145,6 @@
    "quote": "i think the hip was hurting i think we already seen the hit was hurting and then i think the groin came maybe denver game and then it was just rough for me sleeping that night laying down just relaxin",
    "run_id": "2026-11-16-overnight",
    "slot_date": "2026-11-16"
-  },
-  "egclyHCo1dI": {
-   "at": "2026-11-11T07:28:24Z",
-   "quote": "i think the points in the paint speak for themselves from that standpoint but i thought numerous times we had multiple bigs in the game vucevic and wendell and goga all three of those guys did a reall",
-   "run_id": "2026-11-11-overnight",
-   "seeded": true,
-   "slot_date": "2026-11-11"
   },
   "f7rJbgiZjDo": {
    "at": "2026-11-23T09:25:03Z",
@@ -3303,6 +3282,22 @@
    "title": "Dusty May Postgame Press Conference | Mavericks at Nuggets | Nov. 24, 2026",
    "top_quote": "Very pleased to be able to come out of here with a hard-fought win. Anytime you can hold the Nuggets to under 25 for three of the four quarters, that's a sign of guys really being locked in and committed to defending as a group. They're tough to cover. Caleb Martin, five assists, just some numbers jump out. We had 31 assists as a group. Caleb had five steals. I'm sorry, I misspoke. We had 13 steals as a group that forced 12 turnovers. When we don't turn the ball over and give them baskets in the open court, we're pretty good. And then 35 fast-break points, once again, another stat that's a testament to our defensive intensity and our ability to continue improving on the defensive glass.",
    "video_id": "-cdWm8_5qPY"
+  },
+  "0iMDD0fer28": {
+   "channel": "Denver Nuggets",
+   "clip_count": 8,
+   "content_type": "presser",
+   "date": "2026-11-25",
+   "is_one_off": false,
+   "queued_at": "2026-11-25T07:49:00Z",
+   "run_id": "2026-11-25-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-25",
+   "speaker": "Coach Adelman",
+   "title": "Full Denver Nuggets Postgame Media Availability vs. DAL 🎙",
+   "top_quote": "I thought we were really lazy, the way we pass the ball. It felt like I wanted to go back and coach a middle school camp about ball-faking and not throwing it straight into people's hands.",
+   "video_id": "0iMDD0fer28"
   },
   "6VbM2anD-lo": {
    "channel": "Dallas Mavericks",
