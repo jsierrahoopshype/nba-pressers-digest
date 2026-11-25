@@ -1,0 +1,137 @@
+{
+  "video_title": "Coby White Shootaround Media Availability | 11/25/26",
+  "speakers_seen": [
+    "Coby White"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coby White",
+      "timestamp": "00:30",
+      "summary_phrase": "Coby White on sustaining momentum and improving second-half consistency",
+      "names_mentioned": [],
+      "excerpt": "we got to also have carryover and be consistent and put together a whole full 48.",
+      "quote": "We got to do a little more. Do a little more, start turning these losses into wins. I think the road trip was tough. Out of the four games, we were up in all of them at some point by double digits. So, had to sustain leads but also just continue to finish games well. We did a pretty good job in the second half, but we got to also have carryover and be consistent and put together a whole full 48.",
+      "text_blocks": [],
+      "start_seconds": 30,
+      "end_seconds": 62,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coby White says the Bulls need to improve their consistency and finish games better after blowing multiple double digit leads on their recent road trip. He says they must put together a full 48 minutes.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Coby White discusses the team's need to improve consistency and finish games better after a difficult road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coby White",
+      "timestamp": "01:17",
+      "summary_phrase": "Coby White on his individual rhythm and focus on controllable factors",
+      "names_mentioned": [],
+      "excerpt": "I just want to focus on the controllables and then and then go from there.",
+      "quote": "My thing is, however long I'm out there, I just want to try to impact the game in a positive way and try to help my team win any way that I can. For me, the rhythm and timing and shots, all that is going to come, but I just want to focus on the controllables and then and then go from there.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Coby White on his current focus for the Bulls. He says he is trying to ignore his shooting rhythm and focus on the controllables to help the team win.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Coby White explains his mindset regarding his individual performance and focus on controllable factors during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coby White",
+      "timestamp": "01:36",
+      "summary_phrase": "Coby White on facing his former team, the Charlotte Hornets",
+      "names_mentioned": [],
+      "excerpt": "they got a whole new coaching staff, they got a whole new personnel.",
+      "quote": "At this point, they got a whole new coaching staff, they got a whole new personnel. So, I think it's just different. A lot of the team that are there now, I wasn't there when they were with. So, it's just a whole personnel change over there. But it would be good to see some former teammates and former staff that I haven't seen in a while.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Coby White says facing the Hornets feels different now because of the complete roster and coaching staff turnover since he was there. He says it will be good to see some familiar faces.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Coby White reflects on facing his former team, the Charlotte Hornets, noting the significant changes in their personnel and coaching staff.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coby White",
+      "timestamp": "02:24",
+      "summary_phrase": "Coby White on Chicago's recent play and team identity",
+      "names_mentioned": [],
+      "excerpt": "playing fast, super fast, playing confident, playing free, making shots.",
+      "quote": "Playing fast, super fast, playing confident, playing free, making shots. I think, not too long ago, we started to piss out of the ball. But like I said, playing fast, playing free, playing to our identity I would say over the last couple of games, and they look good, honestly. They look good, so it'll be a good, good test for us tonight as well.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Coby White says the Bulls are finding their identity by playing fast and free. He believes the team looks good and is ready for the test tonight.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "CHI"
+        ],
+        "topics": [],
+        "context": "Coby White describes the Chicago Bulls' current team identity and their focus on playing fast and confident basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "1qo-h-Rvdj4",
+  "url": "https://www.youtube.com/watch?v=1qo-h-Rvdj4",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-25T16:15:45Z",
+  "duration_seconds": 166,
+  "processed_at": "2026-11-25T19:59:32Z",
+  "run_id": "2026-11-25-overnight",
+  "is_one_off": false
+}

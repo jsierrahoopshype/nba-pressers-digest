@@ -1,0 +1,307 @@
+{
+  "video_title": "Media Availability: Head Coach Brian Keefe, AJ Dybantsa, and Anthony Davis | 11.24.26",
+  "speakers_seen": [
+    "Brian Keefe",
+    "AJ Dybantsa",
+    "Anthony Davis"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brian Keefe",
+      "timestamp": "00:41",
+      "summary_phrase": "Brian Keefe on the defensive intensity required against high-powered offenses",
+      "names_mentioned": [],
+      "excerpt": "you have a team that's some high-powered offensive players they have to feel you on every possession.",
+      "quote": "you have a team that's some high-powered offensive players they have to feel you on every possession. You have to make it uncomfortable for them. They're still going to make some of those shots. We did that in the second half. You saw us when we were contesting, pushing them out, making them more uncomfortable. They still made some, but they were a lot more difficult. We let them have too many easy rhythm shots to start the game, and teams can get confidence, especially a team like that.",
+      "verbatim_original_language": "",
+      "start_seconds": 41,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brian Keefe on the defensive approach against high-powered offenses: You have to make it uncomfortable for them. They have to feel you on every possession.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Head coach Brian Keefe discusses the defensive intensity required to compete against high-powered offensive teams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "05:56",
+      "summary_phrase": "AJ Dybantsa on defensive lapses against Jayson Tatum and Paul George",
+      "names_mentioned": [
+        "Jayson Tatum",
+        "Paul George"
+      ],
+      "excerpt": "I think I could have played way better defense just letting those two guys get hot.",
+      "quote": "I think I could have played way better defense just letting those two guys get hot, getting open shots off screens. I think I could have been pressed up a little bit more into the screens and not getting hit on the screens. But overall just think I rebounded well, think I kind of played like the game come to me. I think I had a career high in assists, so just trying to share the ball, try to get everybody involved, and you know when I get everybody involved we play well as a team.",
+      "verbatim_original_language": "",
+      "start_seconds": 356,
+      "end_seconds": 393,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "AJ Dybantsa on his defensive performance against Tatum and George: I think I could have played way better defense. I think I could have been pressed up a little bit more into the screens.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jayson Tatum",
+          "Paul George"
+        ],
+        "teams": [
+          "WAS",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa reflects on his defensive performance and his career-high assist total in a game against the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "AJ Dybantsa",
+      "timestamp": "06:29",
+      "summary_phrase": "AJ Dybantsa on the team's commitment to changing their culture",
+      "names_mentioned": [],
+      "excerpt": "this is the team that, you know, we're trying to identify ourselves, we're trying to change the culture here.",
+      "quote": "this is the team that, you know, we're trying to identify ourselves, we're trying to change the culture here. And we can't dig ourselves that big of a hole in the first place, but even if we do we're going to fight back. We did it in countless games. Obviously, like I said, we don't want to be down, but whenever we are down we're going to just push it in to the buzzer going off.",
+      "verbatim_original_language": "",
+      "start_seconds": 389,
+      "end_seconds": 418,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "AJ Dybantsa on the Wizards culture: This is the team that we are trying to identify ourselves. We are trying to change the culture here. We cannot dig ourselves that big of a hole in the first place.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "AJ Dybantsa discusses the team's ongoing efforts to establish a new culture and their resilience in overcoming deficits.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Anthony Davis",
+      "timestamp": "11:19",
+      "summary_phrase": "Anthony Davis on the unacceptable start against the Celtics",
+      "names_mentioned": [
+        "Jason Tatum"
+      ],
+      "excerpt": "to give up 80 points in a half, you know, it's unacceptable on our on our part.",
+      "quote": "we just can't start the game like how we did, in an entire half. To give up 80 points in a half, you know, it's unacceptable on our on our part. 15 threes a half, it's not the defensive team that we want to be. I do like the fight and the resilience that we showed in the second half, cutting the lead down to five, putting ourselves in a position to try to win the game, but you see that it takes a full 48, you know, and not 24.",
+      "verbatim_original_language": "",
+      "start_seconds": 679,
+      "end_seconds": 714,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 2,
+      "social_post": "Anthony Davis on the team's slow start against Boston: To give up 80 points in a half, it is unacceptable on our part. It is not the defensive team that we want to be.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis addresses the team's poor defensive start and the need for a full 48-minute effort against the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Anthony Davis",
+      "timestamp": "12:46",
+      "summary_phrase": "Anthony Davis on the team's slow start and allowing Jason Tatum to get hot",
+      "names_mentioned": [
+        "Jason Tatum"
+      ],
+      "excerpt": "we came out very lax and slow and allowed them to get hot specifically Jason Tatum.",
+      "quote": "we came out very lax and slow and allowed them to get hot specifically Jason Tatum. He got hot, kind of carried them and then other guys started to feed off of it and now they start making threes. And then now we're putting ourselves behind the eight ball and digging ourselves a hole, so now you got to play perfect basketball, you know, and we had a great second half defensively, you know, but you know you kind of got to have the perfect storm.",
+      "verbatim_original_language": "",
+      "start_seconds": 766,
+      "end_seconds": 799,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Anthony Davis on the defensive lapses: We came out very lax and slow and allowed them to get hot. Now you have to play perfect basketball, and we had a great second half defensively, but you kind of have to have the perfect storm.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "WAS",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis explains how a slow start allowed Jayson Tatum to get into a rhythm and put the team in a difficult position.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Anthony Davis",
+      "timestamp": "15:27",
+      "summary_phrase": "Anthony Davis on AJ Dybantsa's growth and playmaking development",
+      "names_mentioned": [
+        "AJ Dybantsa"
+      ],
+      "excerpt": "he's starting to figure out the game, starting to slow down for him.",
+      "quote": "he's playing extremely well. He's starting to figure out the game, starting to slow down for him. He's starting to make great reads, make big plays for us, whether it's shots or playmaking. As you can see we're starting to put the ball in his hands a little bit more to initiate our offense and create opportunities for himself and others. He still wants to learn, he's still growing. He's still going to have rookie mistakes, specifically when he's driving and he's so used to attacking and being bigger stronger than everybody else.",
+      "verbatim_original_language": "",
+      "start_seconds": 927,
+      "end_seconds": 963,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Anthony Davis on AJ Dybantsa: He is starting to figure out the game. We are starting to put the ball in his hands a little bit more to initiate our offense and create opportunities for himself and others.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis discusses the development of AJ Dybantsa as a playmaker and his growth in reading the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Anthony Davis",
+      "timestamp": "16:24",
+      "summary_phrase": "Anthony Davis on AJ Dybantsa's defensive intensity and desire for big matchups",
+      "names_mentioned": [
+        "AJ Dybantsa",
+        "Jason Tatum",
+        "Paul George"
+      ],
+      "excerpt": "he wants to guard, he wants to big matchups.",
+      "quote": "he wants to guard, he wants to big matchups. Most guys coming in kind of run from those matchups. He wants to guard Jason Tatum, he wants to guard Paul George. He wants these matchups, so that's good and he's doing a good job on them. We got his back, no matter what, so that's really that.",
+      "verbatim_original_language": "",
+      "start_seconds": 984,
+      "end_seconds": 1006,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Anthony Davis on AJ Dybantsa's defensive mentality: He wants to guard, he wants big matchups. Most guys coming in kind of run from those matchups. He wants to guard Jason Tatum, he wants to guard Paul George.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Dybantsa",
+          "Jayson Tatum",
+          "Paul George"
+        ],
+        "teams": [
+          "WAS",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis praises AJ Dybantsa for his willingness to take on difficult defensive assignments against star players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Anthony Davis",
+      "timestamp": "16:53",
+      "summary_phrase": "Anthony Davis on AJ Dybantsa's multi-faceted growth in his third year",
+      "names_mentioned": [
+        "AJ Dybantsa"
+      ],
+      "excerpt": "his growth from his rookie season to year two to now year three, you see the jump.",
+      "quote": "his growth from his rookie season to year two to now year three, you see the jump. His assists, his points, his playmaking, his defensively. He's taking growth every year. He wants to get better, he's constantly asking questions, he's talking, he's first in the gym, last to leave, he's watching film after games, taking care of his body. It shows how much of a pro he is, how great he wants to be, and for a guy who's in his third year, he's going to be a multi-time All-Star in this league.",
+      "verbatim_original_language": "",
+      "start_seconds": 1013,
+      "end_seconds": 1049,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Anthony Davis on AJ Dybantsa's trajectory: He is going to be a multi-time All-Star in this league. You see the jump from his rookie season to year two to now year three.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "AJ Dybantsa"
+        ],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis highlights the professional growth and work ethic of AJ Dybantsa during his third season in the league.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Anthony Davis",
+      "timestamp": "18:36",
+      "summary_phrase": "Anthony Davis on the patience required for building team chemistry",
+      "names_mentioned": [],
+      "excerpt": "you can't rush greatness. It takes time, especially with a new group coming off the last couple years.",
+      "quote": "you can't rush greatness. It takes time, especially with a new group coming off the last couple years. It's going to take time and we're starting to figure it out piece by piece, game by game, practice by practice. We're starting to put games together. Obviously we wanted this one, but it shows that, hey, we're just as good as any other team that we step on the floor with, if we do the things that we're supposed to do.",
+      "verbatim_original_language": "",
+      "start_seconds": 1116,
+      "end_seconds": 1147,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Anthony Davis on team chemistry: You cannot rush greatness. It takes time, especially with a new group. We are starting to figure it out piece by piece, game by game, practice by practice.",
+      "team": "Washington Wizards",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Anthony Davis discusses the patience required to build team chemistry with a new group of players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "oiCQvIXtXZY",
+  "url": "https://www.youtube.com/watch?v=oiCQvIXtXZY",
+  "channel_team": "Washington Wizards",
+  "published": "2026-11-25T16:01:32Z",
+  "duration_seconds": 1297,
+  "processed_at": "2026-11-25T20:00:19Z",
+  "run_id": "2026-11-25-overnight",
+  "is_one_off": false
+}

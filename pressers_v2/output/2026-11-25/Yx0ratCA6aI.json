@@ -1,0 +1,211 @@
+{
+  "video_title": "Derrick White Details His Celtics Journey and Talks Chris Cenac Jr.'s Upside",
+  "speakers_seen": [
+    "Unidentified speaker",
+    "Derrick White"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Derrick White",
+      "timestamp": "01:48",
+      "summary_phrase": "Derrick White on his gratitude for playing for the Boston Celtics",
+      "names_mentioned": [],
+      "excerpt": "I've been really thankful and grateful to put on the Celtics uniform and go out there",
+      "quote": "I've been really thankful and grateful to put on the Celtics uniform and go out there and compete in front of the best fans in the world. Every day I go out there, I try to give my all, help us win as many games as possible, and I'm pretty fortunate to be on this team, especially at this time when we win so many games and play in so many big moments.",
+      "verbatim_original_language": "",
+      "start_seconds": 108,
+      "end_seconds": 136,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Derrick White reflects on his time in Boston, saying he is grateful to put on the uniform and compete in front of the best fans in the world every day.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Derrick White reflects on his gratitude for playing for the Boston Celtics and competing in front of their fans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Derrick White",
+      "timestamp": "02:58",
+      "summary_phrase": "Derrick White on the challenges of an mid-season trade to Boston",
+      "names_mentioned": [],
+      "excerpt": "You get traded, no matter what time you get traded, you're going to try to meet",
+      "quote": "You get traded, no matter what time you get traded, you're going to try to meet so many new people, trying to figure out the roads in Boston, trying to figure out where to live, trying to figure out everything. Especially during the season, it's really difficult, so I feel like I had to hit the ground running, obviously try to figure all the stuff out, meet everybody, figure out the offense and stuff, and win as many games as possible.",
+      "verbatim_original_language": "",
+      "start_seconds": 178,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Derrick White opens up about the difficulty of a mid-season trade, noting that trying to figure out life in a new city while learning a new offense on the fly is really difficult.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "Derrick White discusses the personal and professional challenges of being traded to the Boston Celtics mid-season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Derrick White",
+      "timestamp": "04:22",
+      "summary_phrase": "Derrick White on the motivation to win more than one championship",
+      "names_mentioned": [],
+      "excerpt": "It would be a disappointment if I only won one, so that's just the great thing",
+      "quote": "It would be a disappointment if I only won one, so that's just the great thing about sports is you get one, now you are trying to find the fight for the next one.",
+      "verbatim_original_language": "",
+      "start_seconds": 262,
+      "end_seconds": 275,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 7,
+      "social_post": "Derrick White is already looking ahead to the next title run, stating it would be a disappointment if he only won one championship with the Celtics.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Derrick White expresses his motivation to win more than one championship with the Boston Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Derrick White",
+      "timestamp": "06:41",
+      "summary_phrase": "Derrick White on the evolution of his career and perspective",
+      "names_mentioned": [
+        "Paul George",
+        "Mike Conley",
+        "Al Horford"
+      ],
+      "excerpt": "It's always a good reminder of guys like Paul George and Mike Conley that have had",
+      "quote": "It's always a good reminder of guys like Paul George and Mike Conley that have had unbelievable careers and done so many amazing things in the league, but how hard it is to win a championship and how many guys are still reaching or trying to get that goal. I remember when Al Horford had it one-one and we all wanted to push it for Al, so now it's like Mike and Paul, they've had amazing careers that we want to help them get something they've never done before.",
+      "verbatim_original_language": "",
+      "start_seconds": 401,
+      "end_seconds": 435,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Derrick White discusses the difficulty of winning a title, mentioning that he and his teammates are motivated to help veterans like Paul George and Mike Conley finally get their first championship.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Paul George",
+          "Mike Conley",
+          "Al Horford"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Derrick White discusses the difficulty of winning a championship and his desire to help veteran players achieve that goal.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Derrick White",
+      "timestamp": "07:57",
+      "summary_phrase": "Derrick White on Chris Cenac Jr.'s professional development and upside",
+      "names_mentioned": [
+        "Chris Cenac Jr."
+      ],
+      "excerpt": "He's doing a great job of listening, learning, getting better, and obviously we threw him in",
+      "quote": "He's doing a great job of listening, learning, getting better, and obviously we threw him in a big-time moment last game and he did a lot of great things for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 477,
+      "end_seconds": 489,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Derrick White praises Chris Cenac Jr. for his development, noting he is doing a great job of listening and learning after being thrown into a big-time moment in his last game.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Chris Cenac Jr."
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Derrick White praises the professional development and recent performance of teammate Chris Cenac Jr.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Derrick White",
+      "timestamp": "09:30",
+      "summary_phrase": "Derrick White on the keys to his elite rim protection",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "Just being in the right position, timing is probably the top two things that give you",
+      "quote": "Just being in the right position, timing is probably the top two things that give you an advantage, especially at my size. You're not going to block it, obviously like Victor Wembanyama or something like that, they could be out of position and still get a block, and somehow I've gotten really good timing, especially with all these slow steps and stuff, so you kind of have to figure out what the opponent is going to try to do and time it up right.",
+      "verbatim_original_language": "",
+      "start_seconds": 570,
+      "end_seconds": 602,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Derrick White breaks down his rim protection, explaining that since he is not Victor Wembanyama, he relies on being in the right position and having perfect timing to block shots.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "BOS",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Derrick White explains the technical keys to his rim protection compared to taller players like Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "Yx0ratCA6aI",
+  "url": "https://www.youtube.com/watch?v=Yx0ratCA6aI",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-25T13:00:26Z",
+  "duration_seconds": 660,
+  "processed_at": "2026-11-25T19:59:55Z",
+  "run_id": "2026-11-25-overnight",
+  "is_one_off": false
+}

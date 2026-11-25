@@ -1,0 +1,327 @@
+{
+  "video_title": "Rick Carlisle, Tyrese Haliburton & Aaron Nesmith Practice Media Availability | November 25, 2026",
+  "speakers_seen": [
+    "Rick Carlisle",
+    "Tyrese Haliburton",
+    "Aaron Nesmith"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:22",
+      "summary_phrase": "Rick Carlisle provides update on Jalen Smith's illness and recovery",
+      "names_mentioned": [
+        "Jalen Smith"
+      ],
+      "excerpt": "He has an illness, so he wasn't here today. He's doing well, he's progressing.",
+      "quote": "Jalen Smith has an illness, so he wasn't here today. He practiced with the Boom yesterday successfully. He's doing well, he's progressing. He could return in the next few weeks.",
+      "text_blocks": [],
+      "start_seconds": 22,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Rick Carlisle says Jalen Smith is dealing with an illness and is progressing well. He could return to the floor in the next few weeks.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Smith"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Rick Carlisle provides an update on Jalen Smith's illness and his expected recovery timeline.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:36",
+      "summary_phrase": "Rick Carlisle discusses the team's supportive culture and bench personality",
+      "names_mentioned": [],
+      "excerpt": "Generally speaking, this is a group that is very supportive of one another.",
+      "quote": "Generally speaking, this is a group that is very supportive of one another. We may not have some of the overt personalities on the bench that we have on the past, but it doesn't mean we don't care about each other. We can always do better in all areas.",
+      "text_blocks": [],
+      "start_seconds": 96,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the Pacers bench culture: We may not have the same overt personalities as in the past but it does not mean we do not care about each other.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the team's supportive culture and the personality of the current bench unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "02:14",
+      "summary_phrase": "Rick Carlisle on the challenge of playing Eastern Conference teams frequently",
+      "names_mentioned": [],
+      "excerpt": "It's a little bit odd to play this many times early, but it can happen.",
+      "quote": "Sometimes the schedule is like this, you can play a team three or four times in a month. Eastern teams particularly, they're not a division team, so that's it's a little bit odd to play this many times early, but it can happen. They're a great team, they've got a bunch of Hall of Fame guys on their team and we're going to have our hands full regardless.",
+      "text_blocks": [],
+      "start_seconds": 134,
+      "end_seconds": 160,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the Pacers schedule: It is a little odd to play Eastern Conference teams this many times early in the season but we are going to have our hands full regardless.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle comments on the challenges of playing Eastern Conference opponents multiple times in a short period.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rick Carlisle",
+      "timestamp": "03:50",
+      "summary_phrase": "Rick Carlisle on Tyrese Haliburton's shooting slump and recovery",
+      "names_mentioned": [
+        "Tyrese Haliburton"
+      ],
+      "excerpt": "It's clear that he needed to take a game away. Sometimes the season can be like that.",
+      "quote": "It's clear that he needed to take a game away. Sometimes the season can be like that where you just get banged up and a highly tuned athlete like him, that's dealing with a little bit of a knee thing and a little bit of an ankle thing, can make it difficult. I'm not concerned at all. He's a confident guy by nature, that's not going to change. He understands the importance of process.",
+      "text_blocks": [],
+      "start_seconds": 230,
+      "end_seconds": 258,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Rick Carlisle says he is not concerned about Tyrese Haliburton's shooting slump and notes the guard has been dealing with knee and ankle issues.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Tyrese Haliburton"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Rick Carlisle addresses Tyrese Haliburton's recent shooting slump and explains the impact of his minor knee and ankle injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "07:56",
+      "summary_phrase": "Tyrese Haliburton on the organization's approach to his injury recovery",
+      "names_mentioned": [],
+      "excerpt": "The organization is doing its best they can of protecting me from myself.",
+      "quote": "Being completely honest, the organization is doing its best they can of protecting me from myself. You guys know I'm a competitor, I play through injuries more than a lot of guys and that's just who I am. Unfortunately I am banged up a lot, but I play through as much as I can.",
+      "text_blocks": [],
+      "start_seconds": 476,
+      "end_seconds": 497,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 7,
+      "social_post": "Tyrese Haliburton on his injury management: The organization is doing its best to protect me from myself. I am a competitor and I play through injuries more than a lot of guys.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyrese Haliburton discusses how the Indiana Pacers organization is managing his injury recovery to protect him from himself.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "10:25",
+      "summary_phrase": "Tyrese Haliburton on the difficulty of setting timelines for soft tissue injuries",
+      "names_mentioned": [
+        "Rick Carlisle"
+      ],
+      "excerpt": "The hard part is when you put a timeline on a soft tissue injury.",
+      "quote": "The hard part is when you put a timeline on a soft tissue injury, it can sometimes force guys to come back a little earlier because of what they've said in the past. While I would obviously hope to be playing as soon as possible, I'm very understanding of all the approaches we're taking and having constant communication with our medical staff.",
+      "text_blocks": [],
+      "start_seconds": 625,
+      "end_seconds": 649,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Tyrese Haliburton on injury timelines: The hard part is when you put a timeline on a soft tissue injury it can sometimes force guys to come back a little earlier.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Tyrese Haliburton explains the difficulty of setting specific return timelines for soft tissue injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "13:42",
+      "summary_phrase": "Tyrese Haliburton praises Jalen Smith's high basketball IQ",
+      "names_mentioned": [
+        "Jalen Smith"
+      ],
+      "excerpt": "He's a guy who can make the right read at all times.",
+      "quote": "He's been amazing, man. Coming out of college, he's a guy who can make the right read at all times. I know his size is always a conversation, but I think your size can't there's no there's no real teacher to IQ, you know. He really understands the game, can really pass the ball at a really high level.",
+      "text_blocks": [],
+      "start_seconds": 822,
+      "end_seconds": 845,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Tyrese Haliburton on Jalen Smith: He has been amazing. There is no real teacher to IQ. He really understands the game and can pass the ball at a high level.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Smith"
+        ],
+        "teams": [
+          "IND"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Tyrese Haliburton praises Jalen Smith's basketball IQ and passing ability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tyrese Haliburton",
+      "timestamp": "14:49",
+      "summary_phrase": "Tyrese Haliburton emphasizes the importance of controlling team spirit and effort",
+      "names_mentioned": [],
+      "excerpt": "Controlling what you can I think is very important, how hard you play.",
+      "quote": "Controlling what you can I think is very important, how hard you play and just having our spirit right. I think in games that we're winning, I think we have a sense of like we're supposed to win, and then the games that we lose, it's like feel bad for ourselves, but I think at the end of the day we just got to be who we are.",
+      "text_blocks": [],
+      "start_seconds": 889,
+      "end_seconds": 915,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Tyrese Haliburton on the team's mindset: In games we lose it feels like we feel bad for ourselves but at the end of the day we just have to be who we are.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Tyrese Haliburton emphasizes the importance of maintaining team spirit and effort regardless of game outcomes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Aaron Nesmith",
+      "timestamp": "17:46",
+      "summary_phrase": "Aaron Nesmith on maintaining confidence during shooting slumps",
+      "names_mentioned": [],
+      "excerpt": "Everybody wants to be 100% when they play, but no, I just got to be better.",
+      "quote": "Everybody wants to be 100% when they play, but no, I just got to be better. My mind just got to be a little different, mindset's got to be a little bit aggressive, keep it the same, whether I'm making or missing them.",
+      "text_blocks": [],
+      "start_seconds": 1066,
+      "end_seconds": 1083,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Aaron Nesmith on his shooting struggles: Everybody wants to be 100 percent when they play but I just have to be better. My mindset has to be aggressive whether I am making or missing them.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Aaron Nesmith discusses his mindset and the need to remain aggressive despite shooting struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Aaron Nesmith",
+      "timestamp": "18:11",
+      "summary_phrase": "Aaron Nesmith on the necessity of aggressive shooting to break slumps",
+      "names_mentioned": [],
+      "excerpt": "You have to keep shooting, only way to get out is to get through it.",
+      "quote": "You have to keep shooting, only way to get out is to get through it. So you know my mind's just got to be a little different, mindset's got to be a little bit, you know, aggressive, keep it the same, whether I'm making or missing them.",
+      "text_blocks": [],
+      "start_seconds": 1091,
+      "end_seconds": 1109,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Aaron Nesmith on breaking out of a slump: You have to keep shooting. The only way to get out is to get through it.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "IND"
+        ],
+        "topics": [],
+        "context": "Aaron Nesmith explains that he must continue shooting to overcome his current shooting slump.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "BP-KQGhxCyk",
+  "url": "https://www.youtube.com/watch?v=BP-KQGhxCyk",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-25T19:48:55Z",
+  "duration_seconds": 1192,
+  "processed_at": "2026-11-25T19:59:48Z",
+  "run_id": "2026-11-25-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,351 @@
+{
+  "video_title": "Shootaround Media Availability with Micah Peavy | November 25, 2026 | OKC Thunder",
+  "speakers_seen": [
+    "Nick Gallo",
+    "Micah Peavy"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Unidentified reporter",
+        "Micah Peavy"
+      ],
+      "timestamp": "00:13",
+      "summary_phrase": "Micah Peavy on his quick adjustment to the Thunder system",
+      "names_mentioned": [
+        "Micah Peavy"
+      ],
+      "excerpt": "I know I was going to do whatever it took to get on the court.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Micah, you have made yourself right at home so quickly and easily. That's what the coaching staff said about you right away. Did you imagine that it would happen this quickly for you?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "Stuff has happened since I've gotten here, but that was the plan. I knew I was going to do whatever it took to get on the court. Just playing the right way, doing all the little things, not trying to force anything on offense, just letting the game come to me, and it's worked out."
+        }
+      ],
+      "start_seconds": 13,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Micah Peavy on his quick integration into the Thunder rotation: I knew I was going to do whatever it took to get on the court. Just playing the right way, doing all the little things, not trying to force anything on offense.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Peavy discusses his quick adjustment to the Thunder system during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Unidentified reporter",
+        "Micah Peavy"
+      ],
+      "timestamp": "00:48",
+      "summary_phrase": "Micah Peavy on learning the Thunder's defensive system",
+      "names_mentioned": [
+        "Kenrich Williams"
+      ],
+      "excerpt": "Every time Kenrich came off the court I would talk to him.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "There's a mantra that Kenrich Williams always talks about: you don't have to get ready if you stay ready. What were you doing to stay ready to be able to hit the ground running?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "Even in the games where I didn't suit up right away, I was talking a lot to guys that play similar to me. Every time Kenrich came off the court I would talk to him. Just seeing what they saw and really watching how they played within the system, so when I got thrown out there, I knew exactly how to play."
+        }
+      ],
+      "start_seconds": 48,
+      "end_seconds": 85,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Micah Peavy says he spent his early time on the bench studying Kenrich Williams to learn the Thunder system: Every time Kenrich came off the court I would talk to him. Just seeing what they saw and really watching how they played.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kenrich Williams"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Micah Peavy explains how he learned the Thunder defensive system by observing Kenrich Williams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Unidentified reporter",
+        "Micah Peavy"
+      ],
+      "timestamp": "01:16",
+      "summary_phrase": "Micah Peavy on his defensive role and avoiding fouls",
+      "names_mentioned": [
+        "Micah Peavy"
+      ],
+      "excerpt": "I've been working a lot with the coaches on when to be physical and when not to.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "So much of this Thunder identity is the coordinated defense. What have you learned about that and how your strengths can help this team on that front?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "I just learned how not to foul. I'm trying not to foul. I get my hands in the cookie jar a lot, so I've been working a lot with the coaches on when to be physical and when not to. Just watching a lot of film."
+        }
+      ],
+      "start_seconds": 76,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Micah Peavy admits he is working on his defensive discipline: I get my hands in the cookie jar a lot, so I have been working a lot with the coaches on when to be physical and when not to.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Micah Peavy discusses working with coaches to improve his defensive discipline and avoid fouling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Unidentified reporter",
+        "Micah Peavy"
+      ],
+      "timestamp": "01:44",
+      "summary_phrase": "Micah Peavy on defending LaMelo Ball",
+      "names_mentioned": [
+        "Anthony Edwards",
+        "LaMelo Ball"
+      ],
+      "excerpt": "Ball is a really good player. You've got to pick him up pretty high.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Without Anthony Edwards, they've still been very potent. Of course with LaMelo Ball up top, I'm sure you're going to see some of him. How critical is the hands-behind-your-back attitude tonight?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "It's really critical. Ball is a really good player. You've got to pick him up pretty high because he likes to shoot deep threes. He's a good player, so we have to lock in on what the coaches are saying and get the job done."
+        }
+      ],
+      "start_seconds": 104,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Peavy on the defensive game plan for LaMelo Ball: You have to pick him up pretty high because he likes to shoot deep threes. He is a good player, so we have to lock in on what the coaches are saying.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "OKC",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Micah Peavy discusses the defensive strategy required to guard LaMelo Ball in an upcoming game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Micah Peavy",
+      "speakers": [
+        "Unidentified reporter",
+        "Micah Peavy"
+      ],
+      "timestamp": "02:15",
+      "summary_phrase": "Micah Peavy on defensive rotations and picking up full court",
+      "names_mentioned": [
+        "Micah Peavy"
+      ],
+      "excerpt": "Just because you're going to get hit higher, the guy has more space to play.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "When you pick up high, sometimes as high as mid-court, how does that change the geometry of the rest of the defense?"
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "I think everybody has to be ready a little faster. The big has to be a little higher up just to help me out or help the guys guarding the point guards. Just because you're going to get hit higher, the guy has more space to play, but we work on it a lot, so we're not worried about it."
+        }
+      ],
+      "start_seconds": 135,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Micah Peavy explains how picking up ball handlers at mid court changes the Thunder defensive geometry: Everybody has to be ready a little faster. The big has to be a little higher up just to help me out.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Peavy explains how picking up opposing point guards at mid-court affects the team's defensive rotations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Micah Peavy",
+      "timestamp": "04:03",
+      "summary_phrase": "Micah Peavy on his teammates' confidence in him",
+      "names_mentioned": [
+        "Micah Peavy"
+      ],
+      "excerpt": "It relieves the pressure on yourself to go out there, guard the best players, and do the right things.",
+      "quote": "It feels good, and it relieves the pressure on yourself to go out there, guard the best players, and do the right things on offense.",
+      "text_blocks": [],
+      "start_seconds": 243,
+      "end_seconds": 253,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Micah Peavy on his role with the Thunder: It feels good, and it relieves the pressure on yourself to go out there, guard the best players, and do the right things on offense.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Peavy describes how his teammates' confidence helps him perform his defensive duties.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Micah Peavy",
+      "timestamp": "04:24",
+      "summary_phrase": "Micah Peavy on buying into the Thunder's winning culture",
+      "names_mentioned": [
+        "Marcus"
+      ],
+      "excerpt": "It's just a winning atmosphere, just doing whatever it takes to win.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Marcus talked about how you're pretty much finishing their sentences at this point. You really bought into the system."
+        },
+        {
+          "speaker": "Micah Peavy",
+          "text": "What is it about the system that you really seem to enjoy and resonate with? It's just a winning atmosphere, just doing whatever it takes to win. Guarding the best players, getting extra rebounds, doing everything."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Micah Peavy"
+      ],
+      "reporter_split": true,
+      "start_seconds": 264,
+      "end_seconds": 285,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Micah Peavy on why he resonates with the Thunder system: It is just a winning atmosphere, just doing whatever it takes to win. Guarding the best players, getting extra rebounds, doing everything.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Micah Peavy reflects on buying into the winning culture and system established by the Thunder organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Micah Peavy",
+      "timestamp": "05:05",
+      "summary_phrase": "Micah Peavy on supporting teammate Sorber",
+      "names_mentioned": [
+        "Sorber"
+      ],
+      "excerpt": "I know you haven't seen him play on the NBA level, but he's really good and he's ready.",
+      "quote": "We talked about it all the time. When he had to get his little procedure, I called him right away. I'm just ready for him to get back on the court. I know you haven't seen him play on the NBA level, but he's really good and he's ready.",
+      "text_blocks": [],
+      "start_seconds": 305,
+      "end_seconds": 324,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Micah Peavy shares an update on teammate Sorber following his procedure: I called him right away. I am just ready for him to get back on the court. I know you have not seen him play on the NBA level, but he is really good.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Sorber"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Micah Peavy discusses supporting his teammate Sorber while he recovers from a medical procedure.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "gCevjqJifNo",
+  "url": "https://www.youtube.com/watch?v=gCevjqJifNo",
+  "channel_team": "Oklahoma City Thunder",
+  "published": "2026-11-25T19:14:19Z",
+  "duration_seconds": 358,
+  "processed_at": "2026-11-25T19:59:39Z",
+  "run_id": "2026-11-25-overnight",
+  "is_one_off": false
+}

@@ -1,8 +1,40 @@
 # NBA Pressers — 2026-11-25
 
+[Podcasts & shows](podcasts.md) · [One-offs](oneoffs.md)
+
 # Best of the best
 
-**1. Jamal Murray — "There's really not X's and O's. We were just bad, everybody down the line" — Jamal Murray on team's poor performance and lack of execution** [08:53](https://www.youtube.com/watch?v=0iMDD0fer28&t=533s)
+**1. Tyrese Haliburton — "The organization is doing its best they can of protecting me from myself." — Tyrese Haliburton on the organization's approach to his injury recovery** [07:56](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=476s)
+
+Tyrese Haliburton: "Being completely honest, the organization is doing its best they can of protecting me from myself. You guys know I'm a competitor, I play through injuries more than a lot of guys and that's just who I am. Unfortunately I am banged up a lot, but I play through as much as I can."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=476s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=476s)
+
+From: [Rick Carlisle, Tyrese Haliburton & Aaron Nesmith Practice Media Availability \| November 25, 2026](https://www.youtube.com/watch?v=BP-KQGhxCyk) · *Indiana Pacers*
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=476&q=5) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=476&q=5&slack=1)</small>
+
+**2. Derrick White — "It would be a disappointment if I only won one, so that's just the great thing" — Derrick White on the motivation to win more than one championship** [04:22](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=262s)
+
+Derrick White: "It would be a disappointment if I only won one, so that's just the great thing about sports is you get one, now you are trying to find the fight for the next one."
+
+[https://www.youtube.com/watch?v=Yx0ratCA6aI&t=262s](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=262s)
+
+From: [Derrick White Details His Celtics Journey and Talks Chris Cenac Jr.'s Upside](https://www.youtube.com/watch?v=Yx0ratCA6aI) · *Boston Celtics*
+
+<small>[Clip it](presserclips://clip?v=Yx0ratCA6aI&t=262&q=3) · [Send to Slack](presserclips://clip?v=Yx0ratCA6aI&t=262&q=3&slack=1)</small>
+
+**3. Anthony Davis — "to give up 80 points in a half, you know, it's unacceptable on our on our part." — Anthony Davis on the unacceptable start against the Celtics** [11:19](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=679s)
+
+Anthony Davis: "we just can't start the game like how we did, in an entire half. To give up 80 points in a half, you know, it's unacceptable on our on our part. 15 threes a half, it's not the defensive team that we want to be. I do like the fight and the resilience that we showed in the second half, cutting the lead down to five, putting ourselves in a position to try to win the game, but you see that it takes a full 48, you know, and not 24."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=679s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=679s)
+
+From: [Media Availability: Head Coach Brian Keefe, AJ Dybantsa, and Anthony Davis \| 11.24.26](https://www.youtube.com/watch?v=oiCQvIXtXZY) · *Washington Wizards*
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=679&q=4) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=679&q=4&slack=1)</small>
+
+**4. Jamal Murray — "There's really not X's and O's. We were just bad, everybody down the line" — Jamal Murray on team's poor performance and lack of execution** [08:53](https://www.youtube.com/watch?v=0iMDD0fer28&t=533s)
 
 Jamal Murray: "There's really not X's and O's. We were just bad, everybody down the line. I'm just sloppy, lazy. They look like they were more engaged and they played like it. So, there's really not X's and O's. I really don't even know what to say. We just, down the line, just played bad."
 
@@ -12,7 +44,7 @@ From: [Full Denver Nuggets Postgame Media Availability vs. DAL 🎙](https://www
 
 <small>[Clip it](presserclips://clip?v=0iMDD0fer28&t=533&q=5) · [Send to Slack](presserclips://clip?v=0iMDD0fer28&t=533&q=5&slack=1)</small>
 
-**2. P.J. Washington — "I thought he was aggressive on both ends of the floor. He was a hell of a playmaker" — P.J. Washington and Cooper Flagg on Cooper Flagg's aggressive performance** [00:08](https://www.youtube.com/watch?v=6VbM2anD-lo&t=8s)
+**5. P.J. Washington — "I thought he was aggressive on both ends of the floor. He was a hell of a playmaker" — P.J. Washington and Cooper Flagg on Cooper Flagg's aggressive performance** [00:08](https://www.youtube.com/watch?v=6VbM2anD-lo&t=8s)
 
 **P.J. Washington:** "I thought he was aggressive on both ends of the floor. I mean, he was a hell of a playmaker tonight for us. He got downhill, was aggressive, and on the defensive end, he was being himself. If we don't play like that every night with guys, the shots are going to land. He's going to be a special player without making his shots."
 
@@ -22,7 +54,17 @@ From: [Full Denver Nuggets Postgame Media Availability vs. DAL 🎙](https://www
 
 From: [Cooper Flagg & P.J. Washington Postgame \| Mavericks at Nuggets \| Nov. 24, 2026](https://www.youtube.com/watch?v=6VbM2anD-lo) · *Dallas Mavericks*
 
-**3. Cooper Flagg — "I think it's cool. Obviously last year we didn't have a chance to be able to compete" — Cooper Flagg on competing in the In-Season Tournament** [03:48](https://www.youtube.com/watch?v=6VbM2anD-lo&t=228s)
+**6. AJ Dybantsa — "I think I could have played way better defense just letting those two guys get hot." — AJ Dybantsa on defensive lapses against Jayson Tatum and Paul George** [05:56](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=356s)
+
+AJ Dybantsa: "I think I could have played way better defense just letting those two guys get hot, getting open shots off screens. I think I could have been pressed up a little bit more into the screens and not getting hit on the screens. But overall just think I rebounded well, think I kind of played like the game come to me. I think I had a career high in assists, so just trying to share the ball, try to get everybody involved, and you know when I get everybody involved we play well as a team."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=356s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=356s)
+
+From: [Media Availability: Head Coach Brian Keefe, AJ Dybantsa, and Anthony Davis \| 11.24.26](https://www.youtube.com/watch?v=oiCQvIXtXZY) · *Washington Wizards*
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=356&q=2) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=356&q=2&slack=1)</small>
+
+**7. Cooper Flagg — "I think it's cool. Obviously last year we didn't have a chance to be able to compete" — Cooper Flagg on competing in the In-Season Tournament** [03:48](https://www.youtube.com/watch?v=6VbM2anD-lo&t=228s)
 
 Cooper Flagg: "I think it's cool. Obviously last year we didn't have a chance to be able to compete in the cup, so it's pretty cool to be here. I also want to shout out to P.J. I mean, missed two games, come back, plus 32, high plus-minus on the team, like that's something special to be able to come back and just impact the game at such a high level, so definitely need some recognition there too."
 
@@ -156,6 +198,46 @@ Christian Braun: "I feel like we made a ton of mistakes, turning the ball over a
 
 ---
 
+## Coby White Shootaround Media Availability | 11/25/26 — *Charlotte Hornets*
+
+Source: [https://www.youtube.com/watch?v=1qo-h-Rvdj4](https://www.youtube.com/watch?v=1qo-h-Rvdj4)
+
+_Speakers identified: Coby White_
+
+**1. Coby White — "we got to also have carryover and be consistent and put together a whole full 48." — Coby White on sustaining momentum and improving second-half consistency** [00:30](https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=30s)
+
+Coby White: "We got to do a little more. Do a little more, start turning these losses into wins. I think the road trip was tough. Out of the four games, we were up in all of them at some point by double digits. So, had to sustain leads but also just continue to finish games well. We did a pretty good job in the second half, but we got to also have carryover and be consistent and put together a whole full 48."
+
+[https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=30s](https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=30s)
+
+<small>[Clip it](presserclips://clip?v=1qo-h-Rvdj4&t=30&q=1) · [Send to Slack](presserclips://clip?v=1qo-h-Rvdj4&t=30&q=1&slack=1)</small>
+
+**2. Coby White — "I just want to focus on the controllables and then and then go from there." — Coby White on his individual rhythm and focus on controllable factors** [01:17](https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=77s)
+
+Coby White: "My thing is, however long I'm out there, I just want to try to impact the game in a positive way and try to help my team win any way that I can. For me, the rhythm and timing and shots, all that is going to come, but I just want to focus on the controllables and then and then go from there."
+
+[https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=77s](https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=77s)
+
+<small>[Clip it](presserclips://clip?v=1qo-h-Rvdj4&t=77&q=2) · [Send to Slack](presserclips://clip?v=1qo-h-Rvdj4&t=77&q=2&slack=1)</small>
+
+**3. Coby White — "they got a whole new coaching staff, they got a whole new personnel." — Coby White on facing his former team, the Charlotte Hornets** [01:36](https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=96s)
+
+Coby White: "At this point, they got a whole new coaching staff, they got a whole new personnel. So, I think it's just different. A lot of the team that are there now, I wasn't there when they were with. So, it's just a whole personnel change over there. But it would be good to see some former teammates and former staff that I haven't seen in a while."
+
+[https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=96s](https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=96s)
+
+<small>[Clip it](presserclips://clip?v=1qo-h-Rvdj4&t=96&q=3) · [Send to Slack](presserclips://clip?v=1qo-h-Rvdj4&t=96&q=3&slack=1)</small>
+
+**4. Coby White — "playing fast, super fast, playing confident, playing free, making shots." — Coby White on Chicago's recent play and team identity** [02:24](https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=144s)
+
+Coby White: "Playing fast, super fast, playing confident, playing free, making shots. I think, not too long ago, we started to piss out of the ball. But like I said, playing fast, playing free, playing to our identity I would say over the last couple of games, and they look good, honestly. They look good, so it'll be a good, good test for us tonight as well."
+
+[https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=144s](https://www.youtube.com/watch?v=1qo-h-Rvdj4&t=144s)
+
+<small>[Clip it](presserclips://clip?v=1qo-h-Rvdj4&t=144&q=4) · [Send to Slack](presserclips://clip?v=1qo-h-Rvdj4&t=144&q=4&slack=1)</small>
+
+---
+
 ## Cooper Flagg & P.J. Washington Postgame | Mavericks at Nuggets | Nov. 24, 2026 — *Dallas Mavericks*
 
 Source: [https://www.youtube.com/watch?v=6VbM2anD-lo](https://www.youtube.com/watch?v=6VbM2anD-lo)
@@ -217,3 +299,311 @@ Cooper Flagg: "They were just a heavy gap team. Obviously a lot of these teams d
 Cooper Flagg: "I think it's cool. Obviously last year we didn't have a chance to be able to compete in the cup, so it's pretty cool to be here. I also want to shout out to P.J. I mean, missed two games, come back, plus 32, high plus-minus on the team, like that's something special to be able to come back and just impact the game at such a high level, so definitely need some recognition there too."
 
 [https://www.youtube.com/watch?v=6VbM2anD-lo&t=228s](https://www.youtube.com/watch?v=6VbM2anD-lo&t=228s)
+
+---
+
+## Rick Carlisle, Tyrese Haliburton & Aaron Nesmith Practice Media Availability | November 25, 2026 — *Indiana Pacers*
+
+Source: [https://www.youtube.com/watch?v=BP-KQGhxCyk](https://www.youtube.com/watch?v=BP-KQGhxCyk)
+
+_Speakers identified: Rick Carlisle, Tyrese Haliburton, Aaron Nesmith_
+
+**1. Rick Carlisle — "He has an illness, so he wasn't here today. He's doing well, he's progressing." — Rick Carlisle provides update on Jalen Smith's illness and recovery** [00:22](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=22s)
+
+Rick Carlisle: "**Jalen Smith** has an illness, so he wasn't here today. He practiced with the Boom yesterday successfully. He's doing well, he's progressing. He could return in the next few weeks."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=22s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=22s)
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=22&q=1) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=22&q=1&slack=1)</small>
+
+**2. Rick Carlisle — "Generally speaking, this is a group that is very supportive of one another." — Rick Carlisle discusses the team's supportive culture and bench personality** [01:36](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=96s)
+
+Rick Carlisle: "Generally speaking, this is a group that is very supportive of one another. We may not have some of the overt personalities on the bench that we have on the past, but it doesn't mean we don't care about each other. We can always do better in all areas."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=96s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=96s)
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=96&q=2) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=96&q=2&slack=1)</small>
+
+**3. Rick Carlisle — "It's a little bit odd to play this many times early, but it can happen." — Rick Carlisle on the challenge of playing Eastern Conference teams frequently** [02:14](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=134s)
+
+Rick Carlisle: "Sometimes the schedule is like this, you can play a team three or four times in a month. Eastern teams particularly, they're not a division team, so that's it's a little bit odd to play this many times early, but it can happen. They're a great team, they've got a bunch of Hall of Fame guys on their team and we're going to have our hands full regardless."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=134s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=134s)
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=134&q=3) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=134&q=3&slack=1)</small>
+
+**4. Rick Carlisle — "It's clear that he needed to take a game away. Sometimes the season can be like that." — Rick Carlisle on Tyrese Haliburton's shooting slump and recovery** [03:50](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=230s)
+
+Rick Carlisle: "It's clear that he needed to take a game away. Sometimes the season can be like that where you just get banged up and a highly tuned athlete like him, that's dealing with a little bit of a knee thing and a little bit of an ankle thing, can make it difficult. I'm not concerned at all. He's a confident guy by nature, that's not going to change. He understands the importance of process."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=230s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=230s)
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=230&q=4) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=230&q=4&slack=1)</small>
+
+**5. Tyrese Haliburton — "The organization is doing its best they can of protecting me from myself." — Tyrese Haliburton on the organization's approach to his injury recovery** [07:56](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=476s)
+
+Tyrese Haliburton: "Being completely honest, the organization is doing its best they can of protecting me from myself. You guys know I'm a competitor, I play through injuries more than a lot of guys and that's just who I am. Unfortunately I am banged up a lot, but I play through as much as I can."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=476s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=476s)
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=476&q=5) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=476&q=5&slack=1)</small>
+
+**6. Tyrese Haliburton — "The hard part is when you put a timeline on a soft tissue injury." — Tyrese Haliburton on the difficulty of setting timelines for soft tissue injuries** [10:25](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=625s)
+
+Tyrese Haliburton: "The hard part is when you put a timeline on a soft tissue injury, it can sometimes force guys to come back a little earlier because of what they've said in the past. While I would obviously hope to be playing as soon as possible, I'm very understanding of all the approaches we're taking and having constant communication with our medical staff."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=625s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=625s)
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=625&q=6) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=625&q=6&slack=1)</small>
+
+**7. Tyrese Haliburton — "He's a guy who can make the right read at all times." — Tyrese Haliburton praises Jalen Smith's high basketball IQ** [13:42](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=822s)
+
+Tyrese Haliburton: "He's been amazing, man. Coming out of college, he's a guy who can make the right read at all times. I know his size is always a conversation, but I think your size can't there's no there's no real teacher to IQ, you know. He really understands the game, can really pass the ball at a really high level."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=822s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=822s)
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=822&q=7) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=822&q=7&slack=1)</small>
+
+**8. Tyrese Haliburton — "Controlling what you can I think is very important, how hard you play." — Tyrese Haliburton emphasizes the importance of controlling team spirit and effort** [14:49](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=889s)
+
+Tyrese Haliburton: "Controlling what you can I think is very important, how hard you play and just having our spirit right. I think in games that we're winning, I think we have a sense of like we're supposed to win, and then the games that we lose, it's like feel bad for ourselves, but I think at the end of the day we just got to be who we are."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=889s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=889s)
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=889&q=8) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=889&q=8&slack=1)</small>
+
+**9. Aaron Nesmith — "Everybody wants to be 100% when they play, but no, I just got to be better." — Aaron Nesmith on maintaining confidence during shooting slumps** [17:46](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=1066s)
+
+Aaron Nesmith: "Everybody wants to be 100% when they play, but no, I just got to be better. My mind just got to be a little different, mindset's got to be a little bit aggressive, keep it the same, whether I'm making or missing them."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=1066s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=1066s)
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=1066&q=9) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=1066&q=9&slack=1)</small>
+
+**10. Aaron Nesmith — "You have to keep shooting, only way to get out is to get through it." — Aaron Nesmith on the necessity of aggressive shooting to break slumps** [18:11](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=1091s)
+
+Aaron Nesmith: "You have to keep shooting, only way to get out is to get through it. So you know my mind's just got to be a little different, mindset's got to be a little bit, you know, aggressive, keep it the same, whether I'm making or missing them."
+
+[https://www.youtube.com/watch?v=BP-KQGhxCyk&t=1091s](https://www.youtube.com/watch?v=BP-KQGhxCyk&t=1091s)
+
+<small>[Clip it](presserclips://clip?v=BP-KQGhxCyk&t=1091&q=10) · [Send to Slack](presserclips://clip?v=BP-KQGhxCyk&t=1091&q=10&slack=1)</small>
+
+---
+
+## Derrick White Details His Celtics Journey and Talks Chris Cenac Jr.'s Upside — *Boston Celtics*
+
+Source: [https://www.youtube.com/watch?v=Yx0ratCA6aI](https://www.youtube.com/watch?v=Yx0ratCA6aI)
+
+_Speakers identified: Unidentified speaker, Derrick White_
+
+**1. Derrick White — "I've been really thankful and grateful to put on the Celtics uniform and go out there" — Derrick White on his gratitude for playing for the Boston Celtics** [01:48](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=108s)
+
+Derrick White: "I've been really thankful and grateful to put on the Celtics uniform and go out there and compete in front of the best fans in the world. Every day I go out there, I try to give my all, help us win as many games as possible, and I'm pretty fortunate to be on this team, especially at this time when we win so many games and play in so many big moments."
+
+[https://www.youtube.com/watch?v=Yx0ratCA6aI&t=108s](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=108s)
+
+<small>[Clip it](presserclips://clip?v=Yx0ratCA6aI&t=108&q=1) · [Send to Slack](presserclips://clip?v=Yx0ratCA6aI&t=108&q=1&slack=1)</small>
+
+**2. Derrick White — "You get traded, no matter what time you get traded, you're going to try to meet" — Derrick White on the challenges of an mid-season trade to Boston** [02:58](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=178s)
+
+Derrick White: "You get traded, no matter what time you get traded, you're going to try to meet so many new people, trying to figure out the roads in Boston, trying to figure out where to live, trying to figure out everything. Especially during the season, it's really difficult, so I feel like I had to hit the ground running, obviously try to figure all the stuff out, meet everybody, figure out the offense and stuff, and win as many games as possible."
+
+[https://www.youtube.com/watch?v=Yx0ratCA6aI&t=178s](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=178s)
+
+<small>[Clip it](presserclips://clip?v=Yx0ratCA6aI&t=178&q=2) · [Send to Slack](presserclips://clip?v=Yx0ratCA6aI&t=178&q=2&slack=1)</small>
+
+**3. Derrick White — "It would be a disappointment if I only won one, so that's just the great thing" — Derrick White on the motivation to win more than one championship** [04:22](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=262s)
+
+Derrick White: "It would be a disappointment if I only won one, so that's just the great thing about sports is you get one, now you are trying to find the fight for the next one."
+
+[https://www.youtube.com/watch?v=Yx0ratCA6aI&t=262s](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=262s)
+
+<small>[Clip it](presserclips://clip?v=Yx0ratCA6aI&t=262&q=3) · [Send to Slack](presserclips://clip?v=Yx0ratCA6aI&t=262&q=3&slack=1)</small>
+
+**4. Derrick White — "It's always a good reminder of guys like Paul George and Mike Conley that have had" — Derrick White on the evolution of his career and perspective** [06:41](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=401s)
+
+Derrick White: "It's always a good reminder of guys like **Paul George** and **Mike Conley** that have had unbelievable careers and done so many amazing things in the league, but how hard it is to win a championship and how many guys are still reaching or trying to get that goal. I remember when **Al Horford** had it one-one and we all wanted to push it for Al, so now it's like Mike and Paul, they've had amazing careers that we want to help them get something they've never done before."
+
+[https://www.youtube.com/watch?v=Yx0ratCA6aI&t=401s](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=401s)
+
+<small>[Clip it](presserclips://clip?v=Yx0ratCA6aI&t=401&q=4) · [Send to Slack](presserclips://clip?v=Yx0ratCA6aI&t=401&q=4&slack=1)</small>
+
+**5. Derrick White — "He's doing a great job of listening, learning, getting better, and obviously we threw him in" — Derrick White on Chris Cenac Jr.'s professional development and upside** [07:57](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=477s)
+
+Derrick White: "He's doing a great job of listening, learning, getting better, and obviously we threw him in a big-time moment last game and he did a lot of great things for us."
+
+[https://www.youtube.com/watch?v=Yx0ratCA6aI&t=477s](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=477s)
+
+<small>[Clip it](presserclips://clip?v=Yx0ratCA6aI&t=477&q=5) · [Send to Slack](presserclips://clip?v=Yx0ratCA6aI&t=477&q=5&slack=1)</small>
+
+**6. Derrick White — "Just being in the right position, timing is probably the top two things that give you" — Derrick White on the keys to his elite rim protection** [09:30](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=570s)
+
+Derrick White: "Just being in the right position, timing is probably the top two things that give you an advantage, especially at my size. You're not going to block it, obviously like **Victor Wembanyama** or something like that, they could be out of position and still get a block, and somehow I've gotten really good timing, especially with all these slow steps and stuff, so you kind of have to figure out what the opponent is going to try to do and time it up right."
+
+[https://www.youtube.com/watch?v=Yx0ratCA6aI&t=570s](https://www.youtube.com/watch?v=Yx0ratCA6aI&t=570s)
+
+<small>[Clip it](presserclips://clip?v=Yx0ratCA6aI&t=570&q=6) · [Send to Slack](presserclips://clip?v=Yx0ratCA6aI&t=570&q=6&slack=1)</small>
+
+---
+
+## Shootaround Media Availability with Micah Peavy | November 25, 2026 | OKC Thunder — *Oklahoma City Thunder*
+
+Source: [https://www.youtube.com/watch?v=gCevjqJifNo](https://www.youtube.com/watch?v=gCevjqJifNo)
+
+_Speakers identified: Nick Gallo, Micah Peavy_
+
+**1. Micah Peavy — "I know I was going to do whatever it took to get on the court." — Micah Peavy on his quick adjustment to the Thunder system** [00:13](https://www.youtube.com/watch?v=gCevjqJifNo&t=13s)
+
+**Unidentified reporter:** "Micah, you have made yourself right at home so quickly and easily. That's what the coaching staff said about you right away. Did you imagine that it would happen this quickly for you?"
+
+**Micah Peavy:** "Stuff has happened since I've gotten here, but that was the plan. I knew I was going to do whatever it took to get on the court. Just playing the right way, doing all the little things, not trying to force anything on offense, just letting the game come to me, and it's worked out."
+
+[https://www.youtube.com/watch?v=gCevjqJifNo&t=13s](https://www.youtube.com/watch?v=gCevjqJifNo&t=13s)
+
+<small>[Clip it](presserclips://clip?v=gCevjqJifNo&t=13&q=1) · [Send to Slack](presserclips://clip?v=gCevjqJifNo&t=13&q=1&slack=1)</small>
+
+**2. Micah Peavy — "Every time Kenrich came off the court I would talk to him." — Micah Peavy on learning the Thunder's defensive system** [00:48](https://www.youtube.com/watch?v=gCevjqJifNo&t=48s)
+
+**Unidentified reporter:** "There's a mantra that **Kenrich Williams** always talks about: you don't have to get ready if you stay ready. What were you doing to stay ready to be able to hit the ground running?"
+
+**Micah Peavy:** "Even in the games where I didn't suit up right away, I was talking a lot to guys that play similar to me. Every time Kenrich came off the court I would talk to him. Just seeing what they saw and really watching how they played within the system, so when I got thrown out there, I knew exactly how to play."
+
+[https://www.youtube.com/watch?v=gCevjqJifNo&t=48s](https://www.youtube.com/watch?v=gCevjqJifNo&t=48s)
+
+<small>[Clip it](presserclips://clip?v=gCevjqJifNo&t=48&q=2) · [Send to Slack](presserclips://clip?v=gCevjqJifNo&t=48&q=2&slack=1)</small>
+
+**3. Micah Peavy — "I've been working a lot with the coaches on when to be physical and when not to." — Micah Peavy on his defensive role and avoiding fouls** [01:16](https://www.youtube.com/watch?v=gCevjqJifNo&t=76s)
+
+**Unidentified reporter:** "So much of this Thunder identity is the coordinated defense. What have you learned about that and how your strengths can help this team on that front?"
+
+**Micah Peavy:** "I just learned how not to foul. I'm trying not to foul. I get my hands in the cookie jar a lot, so I've been working a lot with the coaches on when to be physical and when not to. Just watching a lot of film."
+
+[https://www.youtube.com/watch?v=gCevjqJifNo&t=76s](https://www.youtube.com/watch?v=gCevjqJifNo&t=76s)
+
+<small>[Clip it](presserclips://clip?v=gCevjqJifNo&t=76&q=3) · [Send to Slack](presserclips://clip?v=gCevjqJifNo&t=76&q=3&slack=1)</small>
+
+**4. Micah Peavy — "Ball is a really good player. You've got to pick him up pretty high." — Micah Peavy on defending LaMelo Ball** [01:44](https://www.youtube.com/watch?v=gCevjqJifNo&t=104s)
+
+**Unidentified reporter:** "Without **Anthony Edwards**, they've still been very potent. Of course with **LaMelo Ball** up top, I'm sure you're going to see some of him. How critical is the hands-behind-your-back attitude tonight?"
+
+**Micah Peavy:** "It's really critical. Ball is a really good player. You've got to pick him up pretty high because he likes to shoot deep threes. He's a good player, so we have to lock in on what the coaches are saying and get the job done."
+
+[https://www.youtube.com/watch?v=gCevjqJifNo&t=104s](https://www.youtube.com/watch?v=gCevjqJifNo&t=104s)
+
+<small>[Clip it](presserclips://clip?v=gCevjqJifNo&t=104&q=4) · [Send to Slack](presserclips://clip?v=gCevjqJifNo&t=104&q=4&slack=1)</small>
+
+**5. Micah Peavy — "Just because you're going to get hit higher, the guy has more space to play." — Micah Peavy on defensive rotations and picking up full court** [02:15](https://www.youtube.com/watch?v=gCevjqJifNo&t=135s)
+
+**Unidentified reporter:** "When you pick up high, sometimes as high as mid-court, how does that change the geometry of the rest of the defense?"
+
+**Micah Peavy:** "I think everybody has to be ready a little faster. The big has to be a little higher up just to help me out or help the guys guarding the point guards. Just because you're going to get hit higher, the guy has more space to play, but we work on it a lot, so we're not worried about it."
+
+[https://www.youtube.com/watch?v=gCevjqJifNo&t=135s](https://www.youtube.com/watch?v=gCevjqJifNo&t=135s)
+
+<small>[Clip it](presserclips://clip?v=gCevjqJifNo&t=135&q=5) · [Send to Slack](presserclips://clip?v=gCevjqJifNo&t=135&q=5&slack=1)</small>
+
+**6. Micah Peavy — "It relieves the pressure on yourself to go out there, guard the best players, and do the right things." — Micah Peavy on his teammates' confidence in him** [04:03](https://www.youtube.com/watch?v=gCevjqJifNo&t=243s)
+
+Micah Peavy: "It feels good, and it relieves the pressure on yourself to go out there, guard the best players, and do the right things on offense."
+
+[https://www.youtube.com/watch?v=gCevjqJifNo&t=243s](https://www.youtube.com/watch?v=gCevjqJifNo&t=243s)
+
+<small>[Clip it](presserclips://clip?v=gCevjqJifNo&t=243&q=6) · [Send to Slack](presserclips://clip?v=gCevjqJifNo&t=243&q=6&slack=1)</small>
+
+**7. Micah Peavy — "It's just a winning atmosphere, just doing whatever it takes to win." — Micah Peavy on buying into the Thunder's winning culture** [04:24](https://www.youtube.com/watch?v=gCevjqJifNo&t=264s)
+
+**Unidentified reporter:** "**Marcus** talked about how you're pretty much finishing their sentences at this point. You really bought into the system."
+
+**Micah Peavy:** "What is it about the system that you really seem to enjoy and resonate with? It's just a winning atmosphere, just doing whatever it takes to win. Guarding the best players, getting extra rebounds, doing everything."
+
+[https://www.youtube.com/watch?v=gCevjqJifNo&t=264s](https://www.youtube.com/watch?v=gCevjqJifNo&t=264s)
+
+<small>[Clip it](presserclips://clip?v=gCevjqJifNo&t=264&q=7) · [Send to Slack](presserclips://clip?v=gCevjqJifNo&t=264&q=7&slack=1)</small>
+
+**8. Micah Peavy — "I know you haven't seen him play on the NBA level, but he's really good and he's ready." — Micah Peavy on supporting teammate Sorber** [05:05](https://www.youtube.com/watch?v=gCevjqJifNo&t=305s)
+
+Micah Peavy: "We talked about it all the time. When he had to get his little procedure, I called him right away. I'm just ready for him to get back on the court. I know you haven't seen him play on the NBA level, but he's really good and he's ready."
+
+[https://www.youtube.com/watch?v=gCevjqJifNo&t=305s](https://www.youtube.com/watch?v=gCevjqJifNo&t=305s)
+
+<small>[Clip it](presserclips://clip?v=gCevjqJifNo&t=305&q=8) · [Send to Slack](presserclips://clip?v=gCevjqJifNo&t=305&q=8&slack=1)</small>
+
+---
+
+## Media Availability: Head Coach Brian Keefe, AJ Dybantsa, and Anthony Davis | 11.24.26 — *Washington Wizards*
+
+Source: [https://www.youtube.com/watch?v=oiCQvIXtXZY](https://www.youtube.com/watch?v=oiCQvIXtXZY)
+
+_Speakers identified: Brian Keefe, AJ Dybantsa, Anthony Davis_
+
+**1. Brian Keefe — "you have a team that's some high-powered offensive players they have to feel you on every possession." — Brian Keefe on the defensive intensity required against high-powered offenses** [00:41](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=41s)
+
+Brian Keefe: "you have a team that's some high-powered offensive players they have to feel you on every possession. You have to make it uncomfortable for them. They're still going to make some of those shots. We did that in the second half. You saw us when we were contesting, pushing them out, making them more uncomfortable. They still made some, but they were a lot more difficult. We let them have too many easy rhythm shots to start the game, and teams can get confidence, especially a team like that."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=41s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=41s)
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=41&q=1) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=41&q=1&slack=1)</small>
+
+**2. AJ Dybantsa — "I think I could have played way better defense just letting those two guys get hot." — AJ Dybantsa on defensive lapses against Jayson Tatum and Paul George** [05:56](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=356s)
+
+AJ Dybantsa: "I think I could have played way better defense just letting those two guys get hot, getting open shots off screens. I think I could have been pressed up a little bit more into the screens and not getting hit on the screens. But overall just think I rebounded well, think I kind of played like the game come to me. I think I had a career high in assists, so just trying to share the ball, try to get everybody involved, and you know when I get everybody involved we play well as a team."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=356s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=356s)
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=356&q=2) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=356&q=2&slack=1)</small>
+
+**3. AJ Dybantsa — "this is the team that, you know, we're trying to identify ourselves, we're trying to change the culture here." — AJ Dybantsa on the team's commitment to changing their culture** [06:29](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=389s)
+
+AJ Dybantsa: "this is the team that, you know, we're trying to identify ourselves, we're trying to change the culture here. And we can't dig ourselves that big of a hole in the first place, but even if we do we're going to fight back. We did it in countless games. Obviously, like I said, we don't want to be down, but whenever we are down we're going to just push it in to the buzzer going off."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=389s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=389s)
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=389&q=3) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=389&q=3&slack=1)</small>
+
+**4. Anthony Davis — "to give up 80 points in a half, you know, it's unacceptable on our on our part." — Anthony Davis on the unacceptable start against the Celtics** [11:19](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=679s)
+
+Anthony Davis: "we just can't start the game like how we did, in an entire half. To give up 80 points in a half, you know, it's unacceptable on our on our part. 15 threes a half, it's not the defensive team that we want to be. I do like the fight and the resilience that we showed in the second half, cutting the lead down to five, putting ourselves in a position to try to win the game, but you see that it takes a full 48, you know, and not 24."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=679s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=679s)
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=679&q=4) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=679&q=4&slack=1)</small>
+
+**5. Anthony Davis — "we came out very lax and slow and allowed them to get hot specifically Jason Tatum." — Anthony Davis on the team's slow start and allowing Jason Tatum to get hot** [12:46](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=766s)
+
+Anthony Davis: "we came out very lax and slow and allowed them to get hot specifically **Jason Tatum**. He got hot, kind of carried them and then other guys started to feed off of it and now they start making threes. And then now we're putting ourselves behind the eight ball and digging ourselves a hole, so now you got to play perfect basketball, you know, and we had a great second half defensively, you know, but you know you kind of got to have the perfect storm."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=766s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=766s)
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=766&q=5) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=766&q=5&slack=1)</small>
+
+**6. Anthony Davis — "he's starting to figure out the game, starting to slow down for him." — Anthony Davis on AJ Dybantsa's growth and playmaking development** [15:27](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=927s)
+
+Anthony Davis: "he's playing extremely well. He's starting to figure out the game, starting to slow down for him. He's starting to make great reads, make big plays for us, whether it's shots or playmaking. As you can see we're starting to put the ball in his hands a little bit more to initiate our offense and create opportunities for himself and others. He still wants to learn, he's still growing. He's still going to have rookie mistakes, specifically when he's driving and he's so used to attacking and being bigger stronger than everybody else."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=927s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=927s)
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=927&q=6) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=927&q=6&slack=1)</small>
+
+**7. Anthony Davis — "he wants to guard, he wants to big matchups." — Anthony Davis on AJ Dybantsa's defensive intensity and desire for big matchups** [16:24](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=984s)
+
+Anthony Davis: "he wants to guard, he wants to big matchups. Most guys coming in kind of run from those matchups. He wants to guard **Jason Tatum**, he wants to guard **Paul George**. He wants these matchups, so that's good and he's doing a good job on them. We got his back, no matter what, so that's really that."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=984s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=984s)
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=984&q=7) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=984&q=7&slack=1)</small>
+
+**8. Anthony Davis — "his growth from his rookie season to year two to now year three, you see the jump." — Anthony Davis on AJ Dybantsa's multi-faceted growth in his third year** [16:53](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=1013s)
+
+Anthony Davis: "his growth from his rookie season to year two to now year three, you see the jump. His assists, his points, his playmaking, his defensively. He's taking growth every year. He wants to get better, he's constantly asking questions, he's talking, he's first in the gym, last to leave, he's watching film after games, taking care of his body. It shows how much of a pro he is, how great he wants to be, and for a guy who's in his third year, he's going to be a multi-time All-Star in this league."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=1013s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=1013s)
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=1013&q=8) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=1013&q=8&slack=1)</small>
+
+**9. Anthony Davis — "you can't rush greatness. It takes time, especially with a new group coming off the last couple years." — Anthony Davis on the patience required for building team chemistry** [18:36](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=1116s)
+
+Anthony Davis: "you can't rush greatness. It takes time, especially with a new group coming off the last couple years. It's going to take time and we're starting to figure it out piece by piece, game by game, practice by practice. We're starting to put games together. Obviously we wanted this one, but it shows that, hey, we're just as good as any other team that we step on the floor with, if we do the things that we're supposed to do."
+
+[https://www.youtube.com/watch?v=oiCQvIXtXZY&t=1116s](https://www.youtube.com/watch?v=oiCQvIXtXZY&t=1116s)
+
+<small>[Clip it](presserclips://clip?v=oiCQvIXtXZY&t=1116&q=9) · [Send to Slack](presserclips://clip?v=oiCQvIXtXZY&t=1116&q=9&slack=1)</small>
