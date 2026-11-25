@@ -1,0 +1,204 @@
+{
+  "video_title": "Post Game Press Conference l Daniss Jenkins l Pistons at Magic  l 11.24.26 #NBA",
+  "speakers_seen": [
+    "Daniss Jenkins"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "00:02",
+      "summary_phrase": "Daniss Jenkins on adjusting to late lineup changes",
+      "names_mentioned": [],
+      "excerpt": "I just try to get the guys going, the best way I can.",
+      "quote": "I just try to get the guys going, the best way I can. Everybody know we got to take our game up another notch. We are down three starters now tonight, so everybody just had to step the game up but do it together. Obviously, you know we play defense every single night, and I just feel like even some games in the past that we dropped, our defense has been there. It could be better, but sometimes it was just our offense I felt like. Tonight, we were just trying to play fast and get a lot of easy shots, move the ball, cut, and play the game with each other, and I think we did a great job of that.",
+      "text_blocks": [],
+      "start_seconds": 2,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Daniss Jenkins on the Pistons playing without three starters tonight: We are down three starters now tonight, so everybody just had to step the game up but do it together.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins discusses the team's performance and mindset after playing without three starters in a road win against the Magic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "01:12",
+      "summary_phrase": "Daniss Jenkins on the team's collective defensive effort",
+      "names_mentioned": [],
+      "excerpt": "You can't control how many shots you are going to make that night.",
+      "quote": "You can't control how many shots you are going to make that night. In any given night, you don't know what you are going to look like shooting the ball. So on defense, that's just the ability to want to and effort. If you can get that going in the right direction, you are going to have a chance to win every single game, no matter what the circumstances are. We can't control the refs, we can't control the makes, the misses. All you control is your effort, and so that's all we try to do.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Daniss Jenkins on the team defensive philosophy: You cannot control how many shots you are going to make that night. All you control is your effort, and so that is all we try to do.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins explains the importance of defensive effort as a controllable factor regardless of shooting performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "01:53",
+      "summary_phrase": "Daniss Jenkins on the team's grit in a road win",
+      "names_mentioned": [],
+      "excerpt": "We say the word grit a lot, but it is grit.",
+      "quote": "We say the word grit a lot, but it is grit. A game like this, you are down three starters, and to come on the road like this, cup game, and to pull out a win like this, to me, that's grit for you right there. We knew the challenges we were up against, but just our ability to come together and really get the job done on the court, man. To me, it's grit. It's stuff like this, all odds were against us. You ain't nobody really thought we was going to pull this game off, if we being honest. Only we did in that locker room, so that's the way we like it.",
+      "text_blocks": [],
+      "start_seconds": 113,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Daniss Jenkins on the Pistons road win: All odds were against us. You ain't nobody really thought we was going to pull this game off, if we being honest. Only we did in that locker room, so that is the way we like it.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins reflects on the team's grit and ability to secure a road victory despite being shorthanded.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "02:38",
+      "summary_phrase": "Daniss Jenkins on the team's offensive ball movement",
+      "names_mentioned": [],
+      "excerpt": "We just made a collective effort just to get everybody involved.",
+      "quote": "We just made a collective effort just to get everybody involved. Obviously, we know one man can't do it by itself. Nobody averages a lot of points by their self right now in that starting group, so we were just trying to play the game together, share the game, pass it to the open man, play a fun brand of basketball tonight, and I think that's just what you get when you play that way.",
+      "text_blocks": [],
+      "start_seconds": 158,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Daniss Jenkins on the Pistons offensive approach: We just made a collective effort just to get everybody involved. Obviously, we know one man cannot do it by itself.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins describes the team's offensive strategy of prioritizing ball movement and collective involvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "03:18",
+      "summary_phrase": "Daniss Jenkins on the team's defensive intensity",
+      "names_mentioned": [],
+      "excerpt": "We were just trying to be physical, guard your yard without fouling.",
+      "quote": "We were just trying to be physical, guard your yard without fouling. Get our chest into the game early, because these guys, if you let guys get to their spots, it's going to be a tough night for us. So we just tried to set the tone early and be physical with our reads, guard our yard, and really just hit, finish with a hit, find, and go get a rebound. Tonight, we did a really good job of no middle, stick hand. We were just flying around, and it was just energy.",
+      "text_blocks": [],
+      "start_seconds": 198,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Daniss Jenkins on the defensive game plan: We were just trying to be physical, guard your yard without fouling. Get our chest into the game early, because these guys, if you let guys get to their spots, it is going to be a tough night for us.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins details the defensive game plan used to limit the opponent's effectiveness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Daniss Jenkins",
+      "timestamp": "04:13",
+      "summary_phrase": "Daniss Jenkins on taking the tournament seriously",
+      "names_mentioned": [],
+      "excerpt": "And obviously, it's a chance to get used to playoff basketball.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "We taking it very seriously. It's a chance to go get at the end of the day some extra money, like why wouldn't you want that?"
+        },
+        {
+          "speaker": "Daniss Jenkins",
+          "text": "And obviously, it's a chance to get used to playoff basketball. It's supposed to give you that feel of like every game matters. So we taking it very seriously. We taking it as an opportunity to get better and just kind of get used to those games that really mean something, and so we know what we playing for at the end of the day, and so that's how we try to do each time we step out."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Daniss Jenkins"
+      ],
+      "reporter_split": true,
+      "start_seconds": 253,
+      "end_seconds": 293,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Daniss Jenkins on the NBA Cup: We taking it very seriously. It is a chance to go get at the end of the day some extra money, like why would you not want that? And obviously, it is a chance to get used to playoff basketball.",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "Daniss Jenkins explains why the team is taking the NBA Cup tournament seriously as a preparation for playoff basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "BBRXVZl21Cc",
+  "url": "https://www.youtube.com/watch?v=BBRXVZl21Cc",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-25T02:45:54Z",
+  "duration_seconds": 304,
+  "processed_at": "2026-11-25T03:32:31Z",
+  "run_id": "2026-11-25T0331Z-20utc",
+  "is_one_off": false
+}

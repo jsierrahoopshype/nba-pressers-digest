@@ -1,0 +1,196 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons at Magic  l 11.24.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:03",
+      "summary_phrase": "J.B. Bickerstaff praises the team's grit and defensive performance",
+      "names_mentioned": [],
+      "excerpt": "I thought our defense was elite tonight.",
+      "quote": "Just the grit that we showed, the toughness that we played with. I thought our defense was elite tonight. On a night where we were down some offense obviously, we knew we were going to have to hang our hat on the defensive end of the floor. I love the way that everybody contributed. Everybody that got an opportunity went out and did something positive for us and just bought into it. That was the best part about it. We knew it was going to be a gritty game, a physical game, but I thought our guys did a great job.",
+      "verbatim_original_language": "",
+      "start_seconds": 3,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff credited the Pistons defensive effort and grit in tonight win against the Magic noting that the team had to hang their hat on the defensive end while dealing with offensive struggles",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Head coach J.B. Bickerstaff reflects on the team's defensive performance and grit during the post-game press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:38",
+      "summary_phrase": "J.B. Bickerstaff discusses Ausar Thompson's growth as a playmaker",
+      "names_mentioned": [
+        "Ausar Thompson"
+      ],
+      "excerpt": "The guys around him now understand his ability to make plays and they're putting themselves in position.",
+      "quote": "More of the same and his continued growth and development. The confidence he has when he has the ball in his hands, the guys around him now understand his ability to make plays and they're putting themselves in position. But I thought he made some great passes out there, he organized the group, he put a ton of pressure on their paint and again, he's just continuing to get better.",
+      "verbatim_original_language": "",
+      "start_seconds": 38,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff is seeing real growth in Ausar Thompson as a playmaker noting that his teammates now trust his ability to make plays and organize the group on the floor",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ausar Thompson"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the recent development and playmaking growth of Ausar Thompson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:11",
+      "summary_phrase": "J.B. Bickerstaff emphasizes the team's collective approach",
+      "names_mentioned": [],
+      "excerpt": "This group from top to bottom puts the team first every single night.",
+      "quote": "It's just about the collective. We obviously understand the different roles that guys have to play on this team and who our superstars are, but it's not about the individual with this group. This group from top to bottom puts the team first every single night and that's the differentiator for us. No matter the circumstances, the adversities that we face, as long as we know we have each other, we're going to give ourselves a fighting chance and I think tonight shows that.",
+      "verbatim_original_language": "",
+      "start_seconds": 71,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says the differentiator for this Pistons team is their collective approach and putting the team first regardless of the circumstances or adversity they face",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff emphasizes the importance of the collective team effort over individual performances.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:49",
+      "summary_phrase": "J.B. Bickerstaff on the importance of the NBA Cup",
+      "names_mentioned": [],
+      "excerpt": "The cup gives you a different experience and it gives you a different level of playoff basketball.",
+      "quote": "It's important. Our guys are into it. The cup gives you a different experience and it gives you a different level of playoff basketball in the regular season, so it gives you an opportunity to play for something bigger. I think the guys have done a really good job of taking it serious and understanding how important it is and I think you saw that tonight. Their effort was phenomenal, their will and want to win was second to none because I believe that they value this opportunity to play in the cup.",
+      "verbatim_original_language": "",
+      "start_seconds": 109,
+      "end_seconds": 145,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff says the Pistons are taking the NBA Cup seriously because it provides a different level of playoff basketball in the regular season and an opportunity to play for something bigger",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains how the team approaches the NBA Cup tournament.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:30",
+      "summary_phrase": "J.B. Bickerstaff explains rotation strategy when key players are out",
+      "names_mentioned": [],
+      "excerpt": "It's more so based on rotations and giving guys an opportunity who may not play as much.",
+      "quote": "It's more so based on rotations and giving guys an opportunity who may not play as much an opportunity to get out and play. That's first and foremost. We try to stay really clean in our system no matter who's out on the floor for us. We don't make huge changes from that standpoint, but it's more about getting guys opportunities who particularly don't get them as often.",
+      "verbatim_original_language": "",
+      "start_seconds": 150,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "JB Bickerstaff explains that the Pistons rotation strategy when key players are out is focused on staying clean in their system while giving opportunities to guys who do not play as often",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "J.B. Bickerstaff describes his philosophy for managing player rotations when the roster is shorthanded.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:04",
+      "summary_phrase": "J.B. Bickerstaff on the team's offensive improvement after a slow start",
+      "names_mentioned": [],
+      "excerpt": "We started just moving the ball more. I think that's when we're at our best.",
+      "quote": "We started just moving the ball more. I think that's when we're at our best is when we're moving our bodies and the ball with a purpose. I think we got some cut layups out of it, we created some open threes because of it, but everybody was involved in it. So now you got five guys who can't just sit and stare at the ball, they got to guard action and that creates advantages for us and then we got guys that can finish the play.",
+      "verbatim_original_language": "",
+      "start_seconds": 184,
+      "end_seconds": 217,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says the Pistons offense improved once they started moving the ball with a purpose noting that when they move their bodies and the ball they create advantages for everyone on the floor",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff analyzes the team's offensive improvement through better ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "nzfasZQ2WbI",
+  "url": "https://www.youtube.com/watch?v=nzfasZQ2WbI",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-25T02:37:05Z",
+  "duration_seconds": 224,
+  "processed_at": "2026-11-25T03:32:33Z",
+  "run_id": "2026-11-25T0331Z-20utc",
+  "is_one_off": false
+}

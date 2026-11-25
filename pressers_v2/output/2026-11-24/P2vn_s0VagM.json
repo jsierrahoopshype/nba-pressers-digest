@@ -1,0 +1,424 @@
+{
+  "video_title": "POSTGAME SOUND: ORLANDO MAGIC VS. DETROIT PISTONS | COACH SWEENEY, TRISTAN DA SILVA & DESMOND BANE",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Tristan da Silva",
+    "Desmond Bane"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:08",
+      "summary_phrase": "Coach Sweeney on Orlando's turnover issues in the second quarter",
+      "names_mentioned": [],
+      "excerpt": "the main one was turnovers. The first quarter I thought we did a pretty good job",
+      "quote": "The main one was turnovers. The first quarter I thought we did a pretty good job of taking care of the basketball and attacking. Didn't necessarily have great results, but I thought we did a good job of taking care of it and that helped us set our defense. In the second quarter, we had a lot of turnovers and that, whether it was illegal screens or live-ball turnovers, was a problem for us there.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Coach Sweeney identifies second quarter turnovers and illegal screens as the primary issues in the loss to Detroit.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the team's turnover issues during the second quarter of the game against Detroit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:37",
+      "summary_phrase": "Coach Sweeney on defensive pressure and illegal screens",
+      "names_mentioned": [],
+      "excerpt": "their on-ball pressure put us in a position where our guards were trying to start too soon",
+      "quote": "It hasn't happened as much as of late. Early in the season, I thought it was a big issue for us and it cleaned up a little bit. Tonight, their on-ball pressure put us in a position where our guards were trying to start a little too soon and our bigs were not quite using great technique on it at times, and so that was probably the biggest issue there.",
+      "text_blocks": [],
+      "start_seconds": 37,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Coach Sweeney says the team struggled with on ball pressure because guards were trying to start too soon and bigs lacked proper technique.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney explains how Detroit's defensive pressure affected the team's guard play and big man technique.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:17",
+      "summary_phrase": "Coach Sweeney on Isaiah Joe's impact in the fourth quarter",
+      "names_mentioned": [
+        "Isaiah Joe"
+      ],
+      "excerpt": "Isaiah Joe got going there in the fourth and that was probably the difference maker at the end",
+      "quote": "Throughout the course of the game, Isaiah Joe got going there in the fourth and that was probably the difference maker at the end.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Sweeney points to Isaiah Joe getting going in the fourth quarter as the difference maker in the game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Isaiah Joe"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney identifies Isaiah Joe as the difference maker during the fourth quarter of the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Sweeney",
+      "timestamp": "01:40",
+      "summary_phrase": "Coach Sweeney on reckless fouls and late-game execution",
+      "names_mentioned": [],
+      "excerpt": "the closeout was short and instead of putting hand up, put it out",
+      "quote": "On that one, I think as you're talking about, the closeout was short and instead of putting hand up, put it out. And then when you hit a guy on the arm, they're going to call a foul. We had some reckless fouls there and generally that's going to get you beat.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 120,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Coach Sweeney on the defensive lapses: We had some reckless fouls there and generally that is going to get you beat.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney addresses the team's reckless fouls and poor late-game execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Coach Sweeney",
+      "timestamp": "02:24",
+      "summary_phrase": "Coach Sweeney on defending back-door cuts",
+      "names_mentioned": [],
+      "excerpt": "if you're not guarding the basketball, you either want to get to a body and give that",
+      "quote": "I think generally when you're talking about back-door cuts, if you're not guarding the basketball, you either want to get to a body and give that guy one way to go or you want to be in a shrink or in the gap. And so oftentimes when you're in between in that no-man's land, that guy has the opportunity to cut back-door and so we saw a few of those tonight.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 171,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Coach Sweeney explains the defensive breakdown on back door cuts: When you are in between in that no man land that guy has the opportunity to cut.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney explains the defensive breakdown that allowed back-door cuts throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tristan da Silva",
+      "timestamp": "04:17",
+      "summary_phrase": "Tristan da Silva on offensive struggles and missed opportunities",
+      "names_mentioned": [],
+      "excerpt": "I think we had a tough time getting some easy ones, getting easy looks to get us going",
+      "quote": "I think we had a tough time getting some easy ones, getting easy looks to get us going and I feel like it probably felt even worse because we didn't really necessarily get too many stops when we had those droughts. So I think that's part of it. I think we got to be better defensively so we can get ourselves easy ones.",
+      "text_blocks": [],
+      "start_seconds": 257,
+      "end_seconds": 281,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Tristan da Silva says the Magic struggled to get easy looks and failed to generate stops during offensive droughts.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva reflects on the team's offensive struggles and the need for better defensive stops.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Tristan da Silva",
+      "timestamp": "04:47",
+      "summary_phrase": "Tristan da Silva on Detroit's defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "Detroit did a great job packing the paint and being aggressive on the ball when it's driven",
+      "quote": "Just playing in a crowd, I think. Detroit did a great job packing the paint and being aggressive on the ball when it's driven, so I feel like that's that's something that we're we're going to see once we once we check out this game again and and watch the film.",
+      "text_blocks": [],
+      "start_seconds": 287,
+      "end_seconds": 307,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Tristan da Silva credits Detroit for packing the paint and being aggressive on the ball throughout the game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL",
+          "DET"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva discusses the difficulty of playing against Detroit's aggressive paint defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Tristan da Silva",
+      "timestamp": "05:36",
+      "summary_phrase": "Tristan da Silva on the need for better defensive detail",
+      "names_mentioned": [],
+      "excerpt": "it's just got to be more detailed, better timing, more patience",
+      "quote": "It's just got to be more detailed, better timing, more patience and figuring out a way to to use that pressure against them. And I feel like in stretches we did a really good job with that, but you know, we just got to be able to sustain it over a whole a whole game.",
+      "text_blocks": [],
+      "start_seconds": 336,
+      "end_seconds": 357,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Tristan da Silva says the team needs to be more detailed and patient to handle defensive pressure.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva emphasizes the need for more consistency and detail in the team's defensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Tristan da Silva",
+      "timestamp": "08:33",
+      "summary_phrase": "Tristan da Silva on team spacing and offensive development",
+      "names_mentioned": [],
+      "excerpt": "that's still something that we got to work on though",
+      "quote": "Yeah, I would say so. I feel like that's still something that we got to work on though. That's still something that, you know, us as a whole, we have to make sure that that we work on that and obviously me and Dez are part of that and spacing the floor, but you know, it's still when when guys are playing in crowds, I feel like we got to be able to to be outlets and make them see us also so we can make the easy plays.",
+      "text_blocks": [],
+      "start_seconds": 513,
+      "end_seconds": 547,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Tristan da Silva admits the team still needs to work on spacing the floor to avoid playing in crowds.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Desmond Bane"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Tristan da Silva discusses the team's need to improve floor spacing alongside Desmond Bane.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Desmond Bane",
+      "timestamp": "09:21",
+      "summary_phrase": "Desmond Bane on turnovers and physical play",
+      "names_mentioned": [],
+      "excerpt": "turn the ball over, gave away a lot of possessions and I thought that was the turning point",
+      "quote": "Turn the ball over, gave away a lot of possessions and I thought that was the turning point in the game. It's turning the ball over, their physicality. Got to get more shots on goal.",
+      "text_blocks": [],
+      "start_seconds": 561,
+      "end_seconds": 574,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Desmond Bane identifies turnovers and the physicality of the opponent as the turning point in the game.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane identifies turnovers and the opponent's physicality as the turning point of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Desmond Bane",
+      "timestamp": "09:55",
+      "summary_phrase": "Desmond Bane on team accountability and defensive growth",
+      "names_mentioned": [],
+      "excerpt": "we can't be the team that rise the waves, you know, we got to get back to what we do",
+      "quote": "We can be better. We've played against physical defenses, fast defenses, defenses that try to speed you up and we knew what they were going to do. We knew they were going to be physical. We knew they were going to grab and foul and I felt like once we made a few mistakes, they just continued to snowball and that's that's where we got to grow. We can't be the team that rise the waves, you know, we got to get back to what we do, gain our composure and go back and be the aggressor and too often tonight we was on our heels.",
+      "text_blocks": [],
+      "start_seconds": 595,
+      "end_seconds": 636,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Desmond Bane on the team's reaction to physical defense: We cannot be the team that rides the waves. We have to get back to what we do and be the aggressor.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane speaks on the need for the team to maintain composure and stop snowballing after mistakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Desmond Bane",
+      "timestamp": "10:47",
+      "summary_phrase": "Desmond Bane on team frustration and the long season",
+      "names_mentioned": [],
+      "excerpt": "it is frustrating but it's every team's challenge such a long season",
+      "quote": "Yeah, I mean I can't sugarcoat it. Yeah, I mean it is frustrating but it's every team's challenge such a long season. You know, teams are going to win multiple games in a row, lose multiple games in a row, which is fine, but it's how how you do it, you know what I'm saying and what our process looks like, how are we losing games? And a lot of it is in our control.",
+      "text_blocks": [],
+      "start_seconds": 647,
+      "end_seconds": 676,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Desmond Bane on the team's current struggles: I cannot sugarcoat it. It is frustrating but it is how you do it and what our process looks like.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane acknowledges the frustration of losing but emphasizes the importance of the team's process during a long season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Desmond Bane",
+      "timestamp": "12:07",
+      "summary_phrase": "Desmond Bane on shot quality and spacing",
+      "names_mentioned": [],
+      "excerpt": "it feels like we get pretty decent looks",
+      "quote": "Yeah, I mean it's helped for sure. I mean I think that our shot quality, I don't know what it is, they don't hammer us on that every day, but I mean just from looking at it, it feels like we get pretty decent looks. There are times that we get sped up and turn the ball over and you know, we've talked a lot about our decision making and the things that we can do to kind of make life easier on ourselves in that regard.",
+      "text_blocks": [],
+      "start_seconds": 727,
+      "end_seconds": 760,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Desmond Bane says the team is focusing on decision making to stop getting sped up and turning the ball over.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane discusses the team's shot quality and the ongoing need to improve decision-making.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 14,
+      "speaker": "Desmond Bane",
+      "timestamp": "13:17",
+      "summary_phrase": "Desmond Bane on finding consistency in the NBA",
+      "names_mentioned": [],
+      "excerpt": "we just got to find consistency",
+      "quote": "I mean that's kind of how the NBA season goes and we just got to find consistency. The thing that gives me confidence and I hope gives the rest of the guys confidence is that we've shown we can do it and we've done it on the road against really good teams, so it's just about doing it more often and doing it together more often.",
+      "text_blocks": [],
+      "start_seconds": 797,
+      "end_seconds": 822,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Desmond Bane on finding consistency: The thing that gives me confidence is that we have shown we can do it and we have done it on the road against really good teams.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Desmond Bane expresses confidence in the team's ability to find consistency based on previous road performances.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "P2vn_s0VagM",
+  "url": "https://www.youtube.com/watch?v=P2vn_s0VagM",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-25T03:08:11Z",
+  "duration_seconds": 841,
+  "processed_at": "2026-11-25T03:32:47Z",
+  "run_id": "2026-11-25T0331Z-20utc",
+  "is_one_off": false
+}
