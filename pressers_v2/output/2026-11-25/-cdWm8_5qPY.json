@@ -1,0 +1,252 @@
+{
+  "video_title": "Dusty May Postgame Press Conference | Mavericks at Nuggets | Nov. 24, 2026",
+  "speakers_seen": [
+    "Dusty May"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dusty May",
+      "timestamp": "00:04",
+      "summary_phrase": "Dusty May praises team defensive intensity against the Nuggets",
+      "names_mentioned": [
+        "Caleb Martin"
+      ],
+      "excerpt": "anytime you can hold the Nuggets to under 25 for three of the four quarters, that's a sign",
+      "quote": "Very pleased to be able to come out of here with a hard-fought win. Anytime you can hold the Nuggets to under 25 for three of the four quarters, that's a sign of guys really being locked in and committed to defending as a group. They're tough to cover. Caleb Martin, five assists, just some numbers jump out. We had 31 assists as a group. Caleb had five steals. I'm sorry, I misspoke. We had 13 steals as a group that forced 12 turnovers. When we don't turn the ball over and give them baskets in the open court, we're pretty good. And then 35 fast-break points, once again, another stat that's a testament to our defensive intensity and our ability to continue improving on the defensive glass.",
+      "verbatim_original_language": "",
+      "start_seconds": 4,
+      "end_seconds": 53,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Dusty May credits the Mavericks defensive intensity for the win against Denver, noting the team forced 12 turnovers and held the Nuggets to under 25 points in three of the four quarters.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Dusty May discusses the team defensive performance following a victory against the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dusty May",
+      "timestamp": "00:46",
+      "summary_phrase": "Dusty May on defensive focus and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "regardless of the ball going in, you can still find a way to win",
+      "quote": "It just gives you confidence that regardless of the ball going in, you can still find a way to win. And we're getting better defensively. You can see the guys playing off of each other. They're starting to understand what one another is going to do. And our activity, if we can continue to apply the type of ball pressure we have at the point of attack and then we can disrupt passing lanes like we are, then we'll continue to put up good defensive numbers.",
+      "verbatim_original_language": "",
+      "start_seconds": 46,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dusty May says the Mavericks are building defensive chemistry, noting that the team is playing better off each other and finding ways to win even when shots are not falling.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May reflects on the team defensive improvement and chemistry after the game against the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dusty May",
+      "timestamp": "01:23",
+      "summary_phrase": "Dusty May explains decision to play PJ Washington with second unit",
+      "names_mentioned": [
+        "PJ Washington",
+        "Naji Marshall"
+      ],
+      "excerpt": "Naji is playing like a starter right now. We have a lot of guys that are really starters",
+      "quote": "Obviously, not knowing until after warmups that he was going to play impacted that decision. But this is a group, Naji is playing like a starter right now. We have a lot of guys that are really starters on this group. And so it doesn't really matter. We felt like the last couple games we found a little bit of a defensive rhythm to begin games, and so we just didn't want to rock the boat. And PJ looked great in that second unit. He had more offense because of who he's playing with, had the ball in his hands a little bit more. He played with great physicality, he looked good, and his defensive intensity was great also.",
+      "verbatim_original_language": "",
+      "start_seconds": 83,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Dusty May explains why PJ Washington came off the bench, citing a desire not to rock the boat after finding a defensive rhythm with the starting unit and noting that Naji is playing like a starter right now.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "PJ Washington",
+          "Naji Marshall"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Dusty May explains the decision to bring PJ Washington off the bench and praises Naji Marshall's performance.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dusty May",
+      "timestamp": "02:28",
+      "summary_phrase": "Dusty May on team response to Nuggets' third-quarter run",
+      "names_mentioned": [
+        "Naji Marshall",
+        "Brown"
+      ],
+      "excerpt": "a couple of our unheralded guys I thought made big shots and big plays for each other",
+      "quote": "A couple guys made big plays. A couple of the run stoppers were Naji. Naji made a couple big plays. A couple of our unheralded guys I thought made big shots and big plays for each other. And then once we were able to get our defense set again, we were able to defend them much better in the third quarter. They were getting out in transition, they were fine, and they were finding some threes for Brown, and it looked like they were going to go on one of their explosive runs. They were great in the third quarter, and we were able to, I think because of our depth, because of our commitment to picking up and extending the floor and just challenging everything, you'd like to think that maybe gets to their legs a little bit for guys that play heavy minutes.",
+      "verbatim_original_language": "",
+      "start_seconds": 148,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Dusty May credits the Mavericks depth and commitment to extending the floor for stopping the Nuggets third quarter run, noting that the defensive pressure likely affected Denver's legs.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Naji Marshall"
+        ],
+        "teams": [
+          "DAL",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Dusty May describes how the team responded to a third-quarter run by the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dusty May",
+      "timestamp": "03:22",
+      "summary_phrase": "Dusty May evaluates Richaun Holmes' performance against Denver",
+      "names_mentioned": [
+        "Richaun Holmes"
+      ],
+      "excerpt": "he was active, he was aggressive, I thought his defense was really, really, was really good",
+      "quote": "He played really well. I don't even know what his line is, but just he was active, he was aggressive, I thought his defense was really, really, was really good. I guess he walked out of here with nine points and 11 rebounds. Yeah, in this environment, especially being on the road against an organization like Denver, yeah, I can't remember one off the top of my head that was better, especially in just 19 minutes, but he was hard to take off the floor tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 202,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Dusty May praised Richaun Holmes for his performance against Denver, saying he was hard to take off the floor after recording nine points and 11 rebounds in just 19 minutes.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Richaun Holmes"
+        ],
+        "teams": [
+          "DAL",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Dusty May evaluates the performance of Richaun Holmes during the road game against Denver.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Dusty May",
+      "timestamp": "03:53",
+      "summary_phrase": "Dusty May on defensive strategy against Nikola Jokic",
+      "names_mentioned": [
+        "Jokic",
+        "Gaff",
+        "Rez"
+      ],
+      "excerpt": "we pushed his catches out a little bit further and I thought our guys were really smart",
+      "quote": "I thought Gaff did a great job. I thought Rez did a great job, but also our guys, and we pushed his catches out a little bit further and I thought our guys were really smart about mixing up coverages. And you know, we had some switching coverages, then we had some through coverages, and I, you know, we just we felt like we had to give these guys some different looks because once they find a rhythm, they're really, really hard to stop, especially with the two-man game with Jokic and Murray.",
+      "verbatim_original_language": "",
+      "start_seconds": 233,
+      "end_seconds": 269,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Dusty May says the key to defending Nikola Jokic and Jamal Murray was mixing up coverages and pushing catches further out to prevent them from finding a rhythm.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Daniel Gafford",
+          "Nikola Jokic",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DAL",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Dusty May explains the defensive strategy used to contain Nikola Jokic and Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Dusty May",
+      "timestamp": "04:28",
+      "summary_phrase": "Dusty May on Rez's development as a three-point shooter",
+      "names_mentioned": [
+        "Rez"
+      ],
+      "excerpt": "he's always been a low volume guy that made a solid percentage",
+      "quote": "You know, he's always been a low volume guy that made a solid percentage. And you know, to be effective as a center right now where we're playing, and he'll eventually play some five and some four in different positions, like if they're not going to play you, we have faith. We see him making it in practice, he puts in the time, and his teammates trust him. So I think that that's ultimately why he has the confidence to knock those down.",
+      "verbatim_original_language": "",
+      "start_seconds": 268,
+      "end_seconds": 300,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Dusty May says the team has full faith in Rez as a shooter, noting that his teammates trust him because they see him putting in the work during practice.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Dusty May discusses the development and confidence of a player regarding his three-point shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "-cdWm8_5qPY",
+  "url": "https://www.youtube.com/watch?v=-cdWm8_5qPY",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-25T06:12:26Z",
+  "duration_seconds": 307,
+  "processed_at": "2026-11-25T06:57:39Z",
+  "run_id": "2026-11-25-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

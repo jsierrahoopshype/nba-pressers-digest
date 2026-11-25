@@ -3288,6 +3288,38 @@
   }
  },
  "pending": {
+  "-cdWm8_5qPY": {
+   "channel": "Dallas Mavericks",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-25",
+   "is_one_off": false,
+   "queued_at": "2026-11-25T06:57:39Z",
+   "run_id": "2026-11-25-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-25",
+   "speaker": "Dusty May",
+   "title": "Dusty May Postgame Press Conference | Mavericks at Nuggets | Nov. 24, 2026",
+   "top_quote": "Very pleased to be able to come out of here with a hard-fought win. Anytime you can hold the Nuggets to under 25 for three of the four quarters, that's a sign of guys really being locked in and committed to defending as a group. They're tough to cover. Caleb Martin, five assists, just some numbers jump out. We had 31 assists as a group. Caleb had five steals. I'm sorry, I misspoke. We had 13 steals as a group that forced 12 turnovers. When we don't turn the ball over and give them baskets in the open court, we're pretty good. And then 35 fast-break points, once again, another stat that's a testament to our defensive intensity and our ability to continue improving on the defensive glass.",
+   "video_id": "-cdWm8_5qPY"
+  },
+  "6VbM2anD-lo": {
+   "channel": "Dallas Mavericks",
+   "clip_count": 9,
+   "content_type": "presser",
+   "date": "2026-11-25",
+   "is_one_off": false,
+   "queued_at": "2026-11-25T06:57:39Z",
+   "run_id": "2026-11-25-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-25",
+   "speaker": "P.J. Washington",
+   "title": "Cooper Flagg & P.J. Washington Postgame | Mavericks at Nuggets | Nov. 24, 2026",
+   "top_quote": "I thought he was aggressive on both ends of the floor. I mean, he was a hell of a playmaker tonight for us. He got downhill, was aggressive, and on the defensive end, he was being himself. If we don't play like that every night with guys, the shots are going to land. He's going to be a special player without making his shots. I thought he was great tonight, and I thought he was the difference.",
+   "video_id": "6VbM2anD-lo"
+  },
   "7SUOs8HLfUo": {
    "channel": "Minnesota Timberwolves",
    "clip_count": 7,

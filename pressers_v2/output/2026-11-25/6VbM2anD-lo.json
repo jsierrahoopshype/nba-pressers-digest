@@ -1,0 +1,339 @@
+{
+  "video_title": "Cooper Flagg & P.J. Washington Postgame | Mavericks at Nuggets | Nov. 24, 2026",
+  "speakers_seen": [
+    "Cooper Flagg",
+    "P.J. Washington"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "P.J. Washington",
+      "speakers": [
+        "P.J. Washington",
+        "Cooper Flagg"
+      ],
+      "timestamp": "00:08",
+      "summary_phrase": "P.J. Washington and Cooper Flagg on Cooper Flagg's aggressive performance",
+      "names_mentioned": [
+        "Cooper Flagg",
+        "P.J. Washington"
+      ],
+      "excerpt": "I thought he was aggressive on both ends of the floor. He was a hell of a playmaker",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "P.J. Washington",
+          "text": "I thought he was aggressive on both ends of the floor. I mean, he was a hell of a playmaker tonight for us. He got downhill, was aggressive, and on the defensive end, he was being himself. If we don't play like that every night with guys, the shots are going to land. He's going to be a special player without making his shots."
+        },
+        {
+          "speaker": "Cooper Flagg",
+          "text": "I thought he was great tonight, and I thought he was the difference."
+        }
+      ],
+      "start_seconds": 8,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "PJ Washington on Cooper Flagg after tonight's win: He was a hell of a playmaker tonight for us. He got downhill, was aggressive, and on the defensive end, he was being himself. He is going to be a special player.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Cooper Flagg"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "P.J. Washington discusses Cooper Flagg's aggressive performance and playmaking ability during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "P.J. Washington",
+      "timestamp": "00:33",
+      "summary_phrase": "P.J. Washington on his motivation coming off the bench",
+      "names_mentioned": [],
+      "excerpt": "I just felt I saw mismatches all over the floor, so I just tried to use my abilities",
+      "quote": "When I came in, I just tried to be aggressive. I felt I saw mismatches all over the floor, so I just tried to use my abilities to get downhill, make easy ones, and just bring some energy on the defensive end, get deflections, and get on the run.",
+      "verbatim_original_language": "",
+      "start_seconds": 33,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "PJ Washington on his approach off the bench: I just tried to be aggressive. I felt I saw mismatches all over the floor, so I just tried to use my abilities to get downhill, make easy ones, and bring some energy on the defensive end.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "P.J. Washington explains his mindset and approach to being aggressive when entering the game off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cooper Flagg",
+      "timestamp": "01:06",
+      "summary_phrase": "Cooper Flagg on the team's collective effort and bench energy",
+      "names_mentioned": [
+        "P.J. Washington",
+        "Naji Marshall",
+        "Dereck Lively II"
+      ],
+      "excerpt": "I think just the energy that guys like P.J., Naji, and Dereck brought off the bench tonight was huge",
+      "quote": "I think just sticking to the game plan. Coming in with a clear game plan and sticking to it. I thought one through however many guys got in the game tonight, I thought everybody stuck to it and we covered for each other, we rotated. I think just the energy that guys like P.J., Naji, and Dereck brought off the bench tonight was huge. In that second quarter, some really big runs, fourth quarter, huge runs. So I think just that bench energy coming in and being those spark plugs was really big tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 66,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cooper Flagg credits the Mavericks bench for the win: I think just the energy that guys like PJ, Naji, and Dereck brought off the bench tonight was huge. They were those spark plugs for us.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "P.J. Washington",
+          "Naji Marshall",
+          "Dereck Lively II"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cooper Flagg credits the bench energy provided by his teammates for the team's success during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Cooper Flagg",
+      "timestamp": "01:40",
+      "summary_phrase": "Cooper Flagg on the team's defensive motor and transition scoring",
+      "names_mentioned": [
+        "Caleb Martin"
+      ],
+      "excerpt": "Those guys are our defensive motors and when they're out there playing with such a high motor",
+      "quote": "I mean Caleb too. Those guys are our defensive motors and when they're out there playing with such a high motor, it gets everybody else going. It gets us 35 transition points tonight. So just turning that defense into offense is something that is really key for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 100,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Cooper Flagg on the Mavs transition game: When guys like Caleb are out there playing with such a high motor, it gets us 35 transition points. Turning that defense into offense is something that is really key for us.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Caleb Martin"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cooper Flagg highlights how Caleb Martin's defensive motor contributes to the team's transition scoring.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "P.J. Washington",
+      "timestamp": "01:58",
+      "summary_phrase": "P.J. Washington on Caleb Martin's growth and comfort this season",
+      "names_mentioned": [
+        "Caleb Martin"
+      ],
+      "excerpt": "He's more back to himself, just finding a rhythm and he's comfortable",
+      "quote": "I think he's just comfortable. I feel like last year he was dealing with injuries, this year he's more back to himself, just finding a rhythm and he's comfortable. So we love him being out there doing whatever he wants to on the defensive end, and obviously he's guarding the best guards each and every night, pressuring teams, and we need his energy. Obviously he creates a lot of fast breaks for us, and you love playing with guys like that.",
+      "verbatim_original_language": "",
+      "start_seconds": 118,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "PJ Washington on Caleb Martin's resurgence: He is more back to himself, just finding a rhythm and he is comfortable. We love him being out there doing whatever he wants to on the defensive end.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Caleb Martin"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "P.J. Washington discusses Caleb Martin's improved comfort and performance this season after dealing with injuries last year.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Cooper Flagg",
+      "timestamp": "02:22",
+      "summary_phrase": "Cooper Flagg on the team's belief and organizational support",
+      "names_mentioned": [
+        "Caleb Martin"
+      ],
+      "excerpt": "Being around an entire organization that wholeheartedly believes in you, wants the best for you",
+      "quote": "I think just the belief. Being around a group of people, coaching staff, players, and all collectively, like P.J. said he dealt with some injuries last year, but just being around an entire organization that wholeheartedly believes in you, wants the best for you, and is pushing you forward, I think that's a big thing for Caleb. Just everybody giving him that confidence and that belief. He's looked obviously like a different player this year for us, so I'm so happy for Caleb and obviously just his start to the year, and we're going to need him to continue to play like this each and every night.",
+      "verbatim_original_language": "",
+      "start_seconds": 142,
+      "end_seconds": 183,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Cooper Flagg on the team culture helping Caleb Martin: Being around an entire organization that wholeheartedly believes in you and is pushing you forward is a big thing. He has looked like a different player this year.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Caleb Martin"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "injuries",
+          "teammates"
+        ],
+        "context": "Cooper Flagg reflects on how organizational support and confidence have helped Caleb Martin bounce back from his previous injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Cooper Flagg",
+      "timestamp": "03:01",
+      "summary_phrase": "Cooper Flagg on responding to the Nuggets' third-quarter run",
+      "names_mentioned": [],
+      "excerpt": "They have two of the best players in the world and they're going to go on runs",
+      "quote": "They have two of the best players in the world and they're going to go on runs. Those guys make everybody else on their team better, so they're going to go on some runs, but just sticking to it, sticking with the game plan like I said earlier, I thought we did that from the start all the way to the end, and we stuck with it and we were able to make runs of our own.",
+      "verbatim_original_language": "",
+      "start_seconds": 181,
+      "end_seconds": 211,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cooper Flagg on handling the Nuggets: They have two of the best players in the world and they are going to go on runs. We just stuck to the game plan from the start all the way to the end.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg explains how the team maintained their game plan while responding to scoring runs from the Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Cooper Flagg",
+      "timestamp": "03:24",
+      "summary_phrase": "Cooper Flagg on managing the Nuggets' defensive strategy",
+      "names_mentioned": [
+        "Kyrie Irving"
+      ],
+      "excerpt": "A lot of these teams don't want me and Kyrie to be able to play in space",
+      "quote": "They were just a heavy gap team. Obviously a lot of these teams don't want me and Kyrie to be able to play in space, so when I see that, it's just about getting organized and getting guys in the right spots, and guys start knocking down shots. It's hard to take away the space for me and Kyrie and guard high shooters as well.",
+      "verbatim_original_language": "",
+      "start_seconds": 204,
+      "end_seconds": 229,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cooper Flagg on facing a gap defense: A lot of these teams don't want me and Kyrie to be able to play in space. When I see that, it is just about getting organized and getting guys in the right spots.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DAL",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg describes how he and Kyrie Irving manage defensive pressure from teams that pack the paint.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Cooper Flagg",
+      "timestamp": "03:48",
+      "summary_phrase": "Cooper Flagg on competing in the In-Season Tournament",
+      "names_mentioned": [
+        "P.J. Washington"
+      ],
+      "excerpt": "I think it's cool. Obviously last year we didn't have a chance to be able to compete",
+      "quote": "I think it's cool. Obviously last year we didn't have a chance to be able to compete in the cup, so it's pretty cool to be here. I also want to shout out to P.J. I mean, missed two games, come back, plus 32, high plus-minus on the team, like that's something special to be able to come back and just impact the game at such a high level, so definitely need some recognition there too.",
+      "verbatim_original_language": "",
+      "start_seconds": 228,
+      "end_seconds": 257,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Cooper Flagg gives props to PJ Washington: Missed two games, come back, plus 32, high plus-minus on the team. That is something special to be able to come back and just impact the game at such a high level.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "P.J. Washington"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cooper Flagg praises P.J. Washington's high-impact return to the lineup after missing two games.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "6VbM2anD-lo",
+  "url": "https://www.youtube.com/watch?v=6VbM2anD-lo",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-25T06:14:39Z",
+  "duration_seconds": 265,
+  "processed_at": "2026-11-25T06:57:39Z",
+  "run_id": "2026-11-25-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
