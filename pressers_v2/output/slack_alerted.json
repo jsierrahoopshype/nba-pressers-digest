@@ -55,6 +55,12 @@
    "seeded": true,
    "slot_date": "2026-11-11"
   },
+  "-cdWm8_5qPY": {
+   "at": "2026-11-25T09:31:18Z",
+   "quote": "very pleased to be able to come out of here with a hard fought win anytime you can hold the nuggets to under 25 for three of the four quarters that s a sign of guys really being locked in and committe",
+   "run_id": "2026-11-25-overnight",
+   "slot_date": "2026-11-25"
+  },
   "-fmHG2CBPEA": {
    "at": "2026-11-13T16:32:22Z",
    "quote": "this is at least the second time this has happened where we come down and get a whole bunch of wide open threes and nobody makes one then they come in and break the seal on the basket and then we star",
@@ -114,6 +120,12 @@
    "quote": "he s automatically going to go to the best perimeter player when he s at the five he s often guarding the center so this allows us to put him on somebody like jason tatum",
    "run_id": "2026-11-24-overnight",
    "slot_date": "2026-11-24"
+  },
+  "0iMDD0fer28": {
+   "at": "2026-11-25T09:31:18Z",
+   "quote": "i thought we were really lazy the way we pass the ball it felt like i wanted to go back and coach a middle school camp about ball faking and not throwing it straight into people s hands",
+   "run_id": "2026-11-25-overnight",
+   "slot_date": "2026-11-25"
   },
   "0idft1CR3wc": {
    "at": "2026-11-12T04:27:57Z",
@@ -330,6 +342,12 @@
    "quote": "we guarded and we didn t have the mental lapses that we ve had in the first half the one thing that we ve done a very good job of especially at the defensive end is we haven t had self inflicted wound",
    "run_id": "2026-11-22-overnight",
    "slot_date": "2026-11-22"
+  },
+  "6VbM2anD-lo": {
+   "at": "2026-11-25T09:31:18Z",
+   "quote": "i thought he was aggressive on both ends of the floor i mean he was a hell of a playmaker tonight for us he got downhill was aggressive and on the defensive end he was being himself if we don t play l",
+   "run_id": "2026-11-25-overnight",
+   "slot_date": "2026-11-25"
   },
   "6a0LEuClNm0": {
    "at": "2026-11-24T09:24:46Z",
@@ -2132,6 +2150,12 @@
    "run_id": "2026-11-16-overnight",
    "slot_date": "2026-11-16"
   },
+  "eyNERRvTKNs": {
+   "at": "2026-11-25T09:31:18Z",
+   "quote": "i don t really play the game for praise or anything like that i leave that to jalen to get his flowers cat kel og duane and jalen they get that and i don t get any i m cool with it",
+   "run_id": "2026-11-25-overnight",
+   "slot_date": "2026-11-25"
+  },
   "f7rJbgiZjDo": {
    "at": "2026-11-23T09:25:03Z",
    "quote": "gui steve kerr said you guys needed to dig out of a hole with defense so grind it out tough the win how did you do it steve was talking to us a lot about how we ve been playing defense the last couple",
@@ -3111,6 +3135,12 @@
    "run_id": "2026-11-22-overnight",
    "slot_date": "2026-11-22"
   },
+  "wvfMyiW6CaI": {
+   "at": "2026-11-25T09:31:18Z",
+   "quote": "i m looking at the brothers and i m saying la doing special things the lakers are doing special things jj redick right now as far as i m concerned is one of the leading candidates for coach of the yea",
+   "run_id": "2026-11-25-overnight",
+   "slot_date": "2026-11-25"
+  },
   "x6MOj5mPRaY": {
    "at": "2026-11-18T18:12:26Z",
    "quote": "what did you see on that play you got the steal obviously time running out just tell us about that transition right there i knew it was a bad play before i was looking for a foul so i knew we had to g",
@@ -3246,54 +3276,6 @@
   }
  },
  "pending": {
-  "-cdWm8_5qPY": {
-   "channel": "Dallas Mavericks",
-   "clip_count": 7,
-   "content_type": "presser",
-   "date": "2026-11-25",
-   "is_one_off": false,
-   "queued_at": "2026-11-25T06:57:39Z",
-   "run_id": "2026-11-25-overnight",
-   "run_slot": "overnight",
-   "single_speaker": true,
-   "slot_date": "2026-11-25",
-   "speaker": "Dusty May",
-   "title": "Dusty May Postgame Press Conference | Mavericks at Nuggets | Nov. 24, 2026",
-   "top_quote": "Very pleased to be able to come out of here with a hard-fought win. Anytime you can hold the Nuggets to under 25 for three of the four quarters, that's a sign of guys really being locked in and committed to defending as a group. They're tough to cover. Caleb Martin, five assists, just some numbers jump out. We had 31 assists as a group. Caleb had five steals. I'm sorry, I misspoke. We had 13 steals as a group that forced 12 turnovers. When we don't turn the ball over and give them baskets in the open court, we're pretty good. And then 35 fast-break points, once again, another stat that's a testament to our defensive intensity and our ability to continue improving on the defensive glass.",
-   "video_id": "-cdWm8_5qPY"
-  },
-  "0iMDD0fer28": {
-   "channel": "Denver Nuggets",
-   "clip_count": 8,
-   "content_type": "presser",
-   "date": "2026-11-25",
-   "is_one_off": false,
-   "queued_at": "2026-11-25T07:49:00Z",
-   "run_id": "2026-11-25-overnight",
-   "run_slot": "overnight",
-   "single_speaker": false,
-   "slot_date": "2026-11-25",
-   "speaker": "Coach Adelman",
-   "title": "Full Denver Nuggets Postgame Media Availability vs. DAL 🎙",
-   "top_quote": "I thought we were really lazy, the way we pass the ball. It felt like I wanted to go back and coach a middle school camp about ball-faking and not throwing it straight into people's hands.",
-   "video_id": "0iMDD0fer28"
-  },
-  "6VbM2anD-lo": {
-   "channel": "Dallas Mavericks",
-   "clip_count": 9,
-   "content_type": "presser",
-   "date": "2026-11-25",
-   "is_one_off": false,
-   "queued_at": "2026-11-25T06:57:39Z",
-   "run_id": "2026-11-25-overnight",
-   "run_slot": "overnight",
-   "single_speaker": false,
-   "slot_date": "2026-11-25",
-   "speaker": "P.J. Washington",
-   "title": "Cooper Flagg & P.J. Washington Postgame | Mavericks at Nuggets | Nov. 24, 2026",
-   "top_quote": "I thought he was aggressive on both ends of the floor. I mean, he was a hell of a playmaker tonight for us. He got downhill, was aggressive, and on the defensive end, he was being himself. If we don't play like that every night with guys, the shots are going to land. He's going to be a special player without making his shots. I thought he was great tonight, and I thought he was the difference.",
-   "video_id": "6VbM2anD-lo"
-  },
   "7SUOs8HLfUo": {
    "channel": "Minnesota Timberwolves",
    "clip_count": 7,
@@ -3422,21 +3404,6 @@
    "top_quote": "He's become much more consistent as a player, not nearly the number of highs and lows. Just a lot of highs. And when something does happen that isn't the greatest thing, he recovers very quickly. It's a maturity thing. He's a great kid. I know his family, I know his dad, and he really wants it bad. By wanting it, he wants to be as good a player as he can be to help his team. He's gained the trust of our veteran players because of how hard he goes, he plays to his strengths, they know what they can expect from him, and they know that he will be there for them.",
    "video_id": "ecLl-7vJcjY"
   },
-  "eyNERRvTKNs": {
-   "channel": "SLAM",
-   "clip_count": 8,
-   "content_type": "oneoff",
-   "date": "2026-11-24",
-   "is_one_off": true,
-   "queued_at": "2026-11-25T09:31:18Z",
-   "run_id": "2026-11-25-overnight",
-   "run_slot": "overnight",
-   "slot_date": "2026-11-25",
-   "speaker": "Josh Hart",
-   "title": "What It Really Takes to Be a Champion: The Mindset Behind Josh Hart 👀🏆",
-   "top_quote": "I don't really play the game for praise or anything like that. I leave that to Jalen to get his flowers, Cat, Kel, OG, Duane, and Jalen. They get that, and I don't get any. I'm cool with it.",
-   "video_id": "eyNERRvTKNs"
-  },
   "rbN1OSgh3vo": {
    "channel": "Milwaukee Bucks",
    "clip_count": 5,
@@ -3484,21 +3451,6 @@
    "title": "Houston Rockets Postgame: Ime Udoka talks win over Clippers",
    "top_quote": "I wouldn't say specifically that. He was going well in the first half, and when they did switch, I think him and Alperen had a good chemistry on that two-man game. They're going to have their advantage and the doubles came and they moved it. Trying to get him the ball all the time and so some nights they double, some nights they let him go one-on-one and he exploits it. So, taking what the game gives him and like the matchups he had tonight.",
    "video_id": "vmYnUII1ti4"
-  },
-  "wvfMyiW6CaI": {
-   "channel": "Edification",
-   "clip_count": 30,
-   "content_type": "oneoff",
-   "date": "2026-11-24",
-   "is_one_off": true,
-   "queued_at": "2026-11-25T09:31:18Z",
-   "run_id": "2026-11-25-overnight",
-   "run_slot": "overnight",
-   "slot_date": "2026-11-25",
-   "speaker": "Stephen A. Smith",
-   "title": "Eddie Johnson, Draymond Green Social Media BEEF, Stephen A. Smith Said What? | Edification Episode 3",
-   "top_quote": "I'm looking at the brothers, and I'm saying LA doing special things. The Lakers are doing special things. JJ Redick right now, as far as I'm concerned, is one of the leading candidates for Coach of the Year. Rob Pelinka and what he's put together might be an Executive of the Year with the way he's doing the job. Hell of a job. Luka Doncic is just all-world. Austin Reaves is showing you how he can ball. Kaka Walker, I mean, this brother can play. I got it. Damn, I'm so glad you said it, because they can't. Well, I'm going to say it for them. I'm going to go, I'm looking at the fellas. Yeah, yeah. LA looked pretty damn good.",
-   "video_id": "wvfMyiW6CaI"
   },
   "yepXbE4K5gA": {
    "channel": "Milwaukee Bucks",
