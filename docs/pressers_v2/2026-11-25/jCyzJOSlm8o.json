@@ -1,0 +1,238 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Practice | November 25, 2026",
+  "speakers_seen": [
+    "Jakob Poeltl",
+    "Davion Mitchell"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "01:05",
+      "summary_phrase": "Jakob Poeltl on evolving his role and pick-and-roll chemistry",
+      "names_mentioned": [
+        "Jamal",
+        "Quick"
+      ],
+      "excerpt": "I'm going to look at different pick-and-roll pairings and two-man actions of all different sorts.",
+      "quote": "We are going to make micro-adjustments here and there. We are going to work on different things with different lineups or pairings, especially for me as a center. I'm going to look at different pick-and-roll pairings and two-man actions of all different sorts. We are going to have to change some things based on how teams are guarding us, but I'm not going to add a bunch of stuff to my offensive bag right now. I don't think that's going to be necessarily my role anyway.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jakob Poeltl says he is not looking to expand his offensive bag right now, noting that it is not his role. He plans to focus on micro-adjustments and pick-and-roll chemistry with different lineups.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Jakob Poeltl discusses his approach to refining his role and pick-and-roll execution during practice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "02:14",
+      "summary_phrase": "Jakob Poeltl on his pick-and-roll chemistry with Jamal and Quick",
+      "names_mentioned": [
+        "Jamal",
+        "Quick"
+      ],
+      "excerpt": "I've had really successful games with Jamal where we're both playing fast and playing downhill.",
+      "quote": "I've had really successful games with Jamal where we're both playing fast and playing downhill and overwhelming a more passive defense. I've had great success with Quick where we're trying to dissect it, trying to get him open on some threes. He found me in the late rolls more lately in these games. Obviously, Scotty. I feel like Scotty I've been less in pick-and-roll with this season. It's more just playing off of his post-ups and drives.",
+      "text_blocks": [],
+      "start_seconds": 134,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jakob Poeltl breaks down his chemistry with Raptors guards, noting he has had success playing fast with Jamal Shead and dissecting defenses with Immanuel Quickley.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Shead",
+          "Immanuel Quickley",
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jakob Poeltl reflects on his pick-and-roll chemistry with his teammates during the current season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jakob Poeltl",
+      "timestamp": "05:36",
+      "summary_phrase": "Jakob Poeltl on avoiding moving screen calls",
+      "names_mentioned": [],
+      "excerpt": "Sometimes it's a defender making a good play, sometimes it's a guard taking off early.",
+      "quote": "Yes and no. We have talked to the coaches about it. It's a little bit of everything. It's not necessarily always on the big. Sometimes it's a defender making a good play, sometimes it's a guard taking off early. There's going to be different situations. Looking at what you're doing and trying to figure out how you can manipulate the game in a better way. Sometimes you have to set a screen in a different way, sometimes you have to know when to get out early to try to avoid the contact.",
+      "text_blocks": [],
+      "start_seconds": 336,
+      "end_seconds": 371,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jakob Poeltl on the recent uptick in moving screen calls: It is a mix of guard timing and big man positioning, and the team is working on ways to manipulate the game to avoid those whistles.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jakob Poeltl explains how he and the coaching staff are addressing the issue of moving screen violations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Davion Mitchell",
+      "timestamp": "07:15",
+      "summary_phrase": "Davion Mitchell on adjusting to moving screen calls",
+      "names_mentioned": [],
+      "excerpt": "Time is the biggest thing. It's just time.",
+      "quote": "Time is the biggest thing. It's just time. When the guards see us, obviously they have their own read in their head to evade the push and make the right read. But just being on the same page with the bigs, knowing that we are not in their mind, we don't know if they're going to race it or if they want to be patient this time. Just us being on the same page in terms of when we're coming up, just waiting on it, it ultimately lets us set really good screens.",
+      "text_blocks": [],
+      "start_seconds": 435,
+      "end_seconds": 471,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Davion Mitchell says the key to fixing the Raptors screen issues is simply time and communication, noting that guards and bigs need to be on the same page to set effective screens.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Davion Mitchell discusses the importance of timing and communication between guards and bigs to improve screen execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Davion Mitchell",
+      "timestamp": "08:42",
+      "summary_phrase": "Davion Mitchell on maintaining a positive mindset",
+      "names_mentioned": [
+        "Yacob"
+      ],
+      "excerpt": "We're not focused on losses. Every loss is an opportunity to grow.",
+      "quote": "It's not negative. It's just too early to be thinking like that. We have two-thirds of the season left. We're not focused on losses. Every loss is an opportunity to grow and that's all we're focused on is growing. We have a very young team, we don't have everything figured out. We're missing players, we've never had the same roster throughout these games. So we're just figuring out how to play with each other and we're trying to develop as well.",
+      "text_blocks": [],
+      "start_seconds": 522,
+      "end_seconds": 553,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Davion Mitchell remains optimistic despite the Raptors early struggles: We have two-thirds of the season left and we are not focused on losses. Every loss is an opportunity to grow.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Davion Mitchell explains how the team is maintaining a growth-oriented mindset despite early season losses and roster instability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Davion Mitchell",
+      "timestamp": "09:57",
+      "summary_phrase": "Davion Mitchell on being a featured part of scouting reports",
+      "names_mentioned": [
+        "Jamal"
+      ],
+      "excerpt": "I don't really care what the other team has, what they put on their scout.",
+      "quote": "I don't really care what the other team has, what they put on their scout. I just need to follow what we do. I feel like me just making the right read is all that matters for our team. I haven't really taken a lot of floaters this year, using my touch against bigs. I've been just trying to figure it out. That's all it is, just trying to figure out what works and what doesn't.",
+      "text_blocks": [],
+      "start_seconds": 597,
+      "end_seconds": 626,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Davion Mitchell says he is not concerned with scouting reports or his individual stats, focusing instead on making the right reads and figuring out what works for the team.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Davion Mitchell discusses his focus on making correct reads rather than worrying about opposing scouting reports.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Davion Mitchell",
+      "timestamp": "11:40",
+      "summary_phrase": "Davion Mitchell on treating every game like a playoff game",
+      "names_mentioned": [],
+      "excerpt": "We have to treat every game like a playoff game regardless if it matters or doesn't matter.",
+      "quote": "We have to treat every game like a playoff game regardless if it matters or doesn't matter. Every game matters, so regardless if it's a cup game, playoff game, championship game, regular season game, preseason, we have to play it the same.",
+      "text_blocks": [],
+      "start_seconds": 700,
+      "end_seconds": 716,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Davion Mitchell on the Raptors mindset: We have to treat every game like a playoff game regardless if it matters or does not matter. Every game matters.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Davion Mitchell emphasizes the importance of maintaining a high level of intensity in every game regardless of the stakes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "jCyzJOSlm8o",
+  "url": "https://www.youtube.com/watch?v=jCyzJOSlm8o",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-25T20:40:45Z",
+  "duration_seconds": 804,
+  "processed_at": "2026-11-25T23:04:35Z",
+  "run_id": "2026-11-25T2303Z-14utc",
+  "is_one_off": false
+}
