@@ -1622,6 +1622,31 @@ def _is_page_name(name: str) -> bool:
     return bool(_PAGE_NAME_RE.match(name))
 
 
+# Same answer, transcribed twice: a team posts the full media session and a
+# single-player cut of it (or a third-party channel reposts it), and the two
+# transcriptions start at different points or differ in "uh"s, so the
+# first-200-characters match above misses them. Same speaker plus most of the
+# shorter quote's content words (4+ letters) appearing in the longer one
+# counts as the same answer.
+SAME_ANSWER_MIN_WORDS = 12
+SAME_ANSWER_OVERLAP = 0.6
+
+
+def _answer_speaker(q: dict) -> str:
+    return re.sub(r"\s+", " ", str(q.get("speaker") or "")).strip().lower()
+
+
+def _answer_words(text: str) -> set:
+    return {w for w in re.sub(r"[^\w\s]", " ", str(text or "").lower()).split() if len(w) >= 4}
+
+
+def _same_answer(a: set, b: set) -> bool:
+    small = min(len(a), len(b))
+    if small < SAME_ANSWER_MIN_WORDS:
+        return False
+    return len(a & b) / small >= SAME_ANSWER_OVERLAP
+
+
 def dedupe_page_blocks(blocks: list) -> tuple[list, dict]:
     """Drop repeated quotes from one page's video blocks: a quote whose
     normalized text (first ~200 chars) is ~85%+ the same as one already on
@@ -1638,19 +1663,28 @@ def dedupe_page_blocks(blocks: list) -> tuple[list, dict]:
         loaded.append((i, content, md_path, data if isinstance(data, dict) else None))
     order = sorted(loaded, key=lambda t: (not (t[3] and _single_speaker(t[3])), t[0]))
     seen, hide = [], {}   # seen: (normalized quote, block index); only other videos' copies count
+    answers = []          # (speaker, content words, block index) for the same-answer check
     for i, _, md_path, data in order:
         if not data:
             continue
-        mine = []
+        mine, mine_answers = [], []
         for q in data.get("quotes") or []:
             if not quote_visible(q):
                 continue
-            norm = slack_state.normalize_quote(speaker_own_text(q))
-            if any(j != i and slack_state.same_quote(norm, s) for s, j in seen):
+            own = speaker_own_text(q)
+            norm = slack_state.normalize_quote(own)
+            spk = _answer_speaker(q)
+            words = _answer_words(own)
+            if any(j != i and slack_state.same_quote(norm, s) for s, j in seen) or (
+                    spk and any(j != i and sp == spk and _same_answer(words, w)
+                                for sp, w, j in answers)):
                 hide.setdefault(i, set()).add(q.get("rank"))
             elif norm:
                 mine.append((norm, i))
+                if spk:
+                    mine_answers.append((spk, words, i))
         seen.extend(mine)
+        answers.extend(mine_answers)
     out, hidden = [], {}
     for i, content, md_path, data in loaded:
         if i not in hide:
