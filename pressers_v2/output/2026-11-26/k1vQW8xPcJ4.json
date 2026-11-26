@@ -20,18 +20,18 @@
         },
         {
           "speaker": "Brandon Williams",
-          "text": "It felt great. I was just so excited to be back playing, to be around the team again, just to be on the court. Basketball is my safe space where I get to be me, and to be able to do that tonight with the teammate, it's in our coaches, it was wonderful."
+          "text": "It felt great. I was just so excited to be back playing, to be around the team again, just to be on the court. Basketball is my safe space where I get to be me, and to be able to do that tonight with the teammate, it's in our coaches, it was it was one of the world."
         }
       ],
-      "summary_phrase": "Brandon Williams on his return to the court after injury",
+      "summary_phrase": "Brandon Williams on returning to the court after injury",
       "names_mentioned": [],
       "excerpt": "Basketball is my safe space where I get to be me",
       "start_seconds": 8,
-      "end_seconds": 40,
+      "end_seconds": 41,
       "speaker_confidence": "named",
       "news_score": 3,
-      "social_score": 3,
-      "social_post": "Brandon Williams on his return to the court after injury: Basketball is my safe space where I get to be me.",
+      "social_score": 4,
+      "social_post": "Brandon Williams on returning to the court after injury: Basketball is my safe space where I get to be me.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
@@ -39,7 +39,9 @@
         "teams": [
           "GSW"
         ],
-        "topics": [],
+        "topics": [
+          "injuries"
+        ],
         "context": "Brandon Williams discusses his return to the court after an injury during a postgame interview.",
         "best": false,
         "prompt": "47544341"
@@ -60,29 +62,28 @@
         },
         {
           "speaker": "Brandon Williams",
-          "text": "I don't know, the ball was just moving. They were finding open guys. We didn't have a lid over the rim today, so that's always a plus. As long as we're finding guys, finding the open guys, making the right play, I think that's the most important thing. We can live with the results, make or miss."
+          "text": "I don't know, the ball was just moving. They were finding open guys. We didn't have a lid over the rim today, so that's always a plus. But as long as we're finding guys, finding the open guys, making the right play, I think that's the most important thing. We can live with the results, make or miss."
         }
       ],
-      "summary_phrase": "Brandon Williams on the Warriors' offensive flow against the Kings",
+      "summary_phrase": "Brandon Williams on the Warriors' offensive flow and ball movement",
       "names_mentioned": [],
       "excerpt": "As long as we're finding guys, finding the open guys, making the right play, I think that's the most important thing.",
       "start_seconds": 31,
-      "end_seconds": 65,
+      "end_seconds": 66,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Brandon Williams on the Warriors offensive flow: We did not have a lid over the rim today so that is always a plus.",
+      "social_post": "Brandon Williams on the Warriors offensive flow: We did not have a lid over the rim today. As long as we are finding guys and making the right play, we can live with the results.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
         "subjects": [],
         "teams": [
           "GSW",
-          "BOS",
-          "SAC"
+          "BOS"
         ],
         "topics": [],
-        "context": "Brandon Williams reflects on the offensive flow and ball movement during the Warriors game against the Kings.",
+        "context": "Brandon Williams reflects on the Warriors offensive performance and ball movement following a win.",
         "best": false,
         "prompt": "47544341"
       }
@@ -98,14 +99,14 @@
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
-          "text": "You faced an opponent that does have a struggling defense. So lots of guys can get involved, you got seven players in double-digit scoring. What does that do for the confidence as you guys try to build?"
+          "text": "You faced an opponent that does have a struggling defense. So lots of guys can get involved. You've got seven players in double-digit scoring. What does that do for the confidence as you guys try to build?"
         },
         {
           "speaker": "Brandon Williams",
           "text": "It builds great confidence, especially in these cup games. We're going to go up to Portland and try to get a win there in advance. But like you said, it just builds confidence as a group. The last week or two has been pretty rough for us as a whole. So games like this should just help us carry momentum to the next game."
         }
       ],
-      "summary_phrase": "Brandon Williams on building team confidence through recent offensive performance",
+      "summary_phrase": "Brandon Williams on building team confidence through balanced scoring",
       "names_mentioned": [],
       "excerpt": "It builds great confidence, especially in these cup games.",
       "start_seconds": 55,
@@ -113,7 +114,7 @@
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 2,
-      "social_post": "Brandon Williams says the Warriors are looking to carry momentum from their win against the Kings into their next game in Portland.",
+      "social_post": "Brandon Williams says the Warriors are looking to carry momentum into their next game after a rough stretch: It builds great confidence, especially in these cup games.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
@@ -123,7 +124,7 @@
           "POR"
         ],
         "topics": [],
-        "context": "Brandon Williams explains how the team's offensive performance against the Kings helps build confidence for upcoming games.",
+        "context": "Brandon Williams discusses how balanced scoring helps build team confidence ahead of an upcoming game against Portland.",
         "best": false,
         "prompt": "47544341"
       }
@@ -139,24 +140,24 @@
       "text_blocks": [
         {
           "speaker": "Kerith Burke",
-          "text": "And tell me about De'Anthony Melton's role in this win, eight three-pointers, seven assists."
+          "text": "Tell me about De'Anthony Melton's role in this win, eight three-pointers, seven assists."
         },
         {
           "speaker": "Brandon Williams",
-          "text": "Yeah, I mean he did a little bit of everything. He was hooping. He was finding the ball, the ball was going in, he was finding other guys when he didn't have it. A real complete game from him, I'm happy."
+          "text": "Yeah, I mean he did a little bit of everything. He was hooping. He was finding the ball, the ball was going in, he was finding other guys when he when he didn't have it. A real complete game from him, I'm happy."
         }
       ],
-      "summary_phrase": "Brandon Williams on De'Anthony Melton's performance against the Kings",
+      "summary_phrase": "Brandon Williams praises De'Anthony Melton's complete performance",
       "names_mentioned": [
         "De'Anthony Melton"
       ],
-      "excerpt": "A real complete game from him, I'm happy.",
+      "excerpt": "He was finding the ball, the ball was going in, he was finding other guys",
       "start_seconds": 85,
       "end_seconds": 104,
       "speaker_confidence": "named",
       "news_score": 6,
-      "social_score": 3,
-      "social_post": "Brandon Williams on DeAnthony Melton after his eight three pointer performance: He was hooping.",
+      "social_score": 5,
+      "social_post": "Brandon Williams on DeAnthony Melton after his eight three-pointer performance: He was hooping. A real complete game from him.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
@@ -164,13 +165,12 @@
           "De'Anthony Melton"
         ],
         "teams": [
-          "GSW",
-          "SAC"
+          "GSW"
         ],
         "topics": [
           "teammates"
         ],
-        "context": "Brandon Williams praises De'Anthony Melton for his complete performance in the win against the Kings.",
+        "context": "Brandon Williams praises De'Anthony Melton for his performance in the win against the opponent.",
         "best": false,
         "prompt": "47544341"
       }
@@ -186,7 +186,7 @@
   "channel_team": "Golden State Warriors",
   "published": "2026-11-26T06:18:44Z",
   "duration_seconds": 104,
-  "processed_at": "2026-11-26T09:39:36Z",
+  "processed_at": "2026-11-26T09:44:07Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false,
   "no_clips": true,

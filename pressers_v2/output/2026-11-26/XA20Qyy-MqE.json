@@ -13,9 +13,9 @@
         "Jaylen Wells"
       ],
       "timestamp": "00:03",
-      "summary_phrase": "Jaylen Wells on Memphis Grizzlies' second-half defensive intensity",
+      "summary_phrase": "Jaylen Wells on Memphis Grizzlies' second-half defensive adjustments",
       "names_mentioned": [],
-      "excerpt": "we were very, very good defensive half, just had to play both sides of the ball.",
+      "excerpt": "I think we had to get our offense going. We were very good defensive half, just had to play both sides of the ball.",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
@@ -23,15 +23,15 @@
         },
         {
           "speaker": "Jaylen Wells",
-          "text": "I think we had to get our offense going. We were very, very good defensive half, just had to play both sides of the ball."
+          "text": "I think we had to get our offense going. We were very good defensive half, just had to play both sides of the ball."
         }
       ],
       "start_seconds": 3,
-      "end_seconds": 26,
+      "end_seconds": 25,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Jaylen Wells on the Grizzlies second half surge against the Clippers: We were very good on the defensive end, we just had to play both sides of the ball.",
+      "social_post": "Jaylen Wells on the Grizzlies second half surge against the Clippers: We had to get our offense going and play both sides of the ball.",
       "team": "Memphis Grizzlies",
       "structured": {
         "speaker_role": "player",
@@ -40,7 +40,7 @@
           "MEM"
         ],
         "topics": [],
-        "context": "Jaylen Wells discusses the Grizzlies' defensive intensity and offensive performance in the second half against the Clippers.",
+        "context": "Jaylen Wells explains the difference in the Grizzlies' performance during the second half of the game.",
         "best": false,
         "prompt": "47544341"
       }
@@ -53,9 +53,9 @@
         "Jaylen Wells"
       ],
       "timestamp": "00:16",
-      "summary_phrase": "Jaylen Wells on Grizzlies' ability to wear down opponents",
+      "summary_phrase": "Jaylen Wells explains Memphis Grizzlies' second-half success",
       "names_mentioned": [],
-      "excerpt": "a lot of it is just wearing out the other team. We play a very intense game.",
+      "excerpt": "I think a lot of it is just wearing out the other team. We play a very intense game.",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
@@ -71,7 +71,7 @@
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 3,
-      "social_post": "Jaylen Wells says the Grizzlies success in second halves comes down to wearing out the opponent: We play a very intense game, picking up full court, being disruptive, so I do not think a lot of teams can keep up with that.",
+      "social_post": "Jaylen Wells says the Grizzlies success in second halves comes down to conditioning: We play a very intense game and I do not think a lot of teams can keep up with that.",
       "team": "Memphis Grizzlies",
       "structured": {
         "speaker_role": "player",
@@ -81,7 +81,7 @@
           "LAC"
         ],
         "topics": [],
-        "context": "Jaylen Wells explains why the Grizzlies are successful in second halves by wearing down their opponents with intense, full-court pressure.",
+        "context": "Jaylen Wells discusses the team's ability to wear down opponents through intense defensive pressure.",
         "best": false,
         "prompt": "47544341"
       }
@@ -96,7 +96,7 @@
       "timestamp": "00:30",
       "summary_phrase": "Jaylen Wells on Grizzlies' ball movement and depth",
       "names_mentioned": [],
-      "excerpt": "we have a lot of weapons. Even with guys out, I think it shows our depth.",
+      "excerpt": "We have a lot of weapons. Even with guys out, I think it shows our depth.",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
@@ -104,15 +104,15 @@
         },
         {
           "speaker": "Jaylen Wells",
-          "text": "It's very important. We have a lot of weapons. Even with guys out, I think it shows our depth, shows that anyone can have the ball in their hands and make a play."
+          "text": "It's very important. We have a lot of weapons. Even with guys out, I think it shows our depth, shows that anyone can have the ball in their hands and make a play. And I think it's also just sticking to the game plan, knowing what the defense is going to give us."
         }
       ],
       "start_seconds": 30,
-      "end_seconds": 57,
+      "end_seconds": 64,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Jaylen Wells on the Grizzlies ball movement: We have a lot of weapons. Even with guys out, I think it shows our depth, shows that anyone can have the ball in their hands and make a play.",
+      "social_post": "Jaylen Wells on the Grizzlies ball movement: We have a lot of weapons. Even with guys out it shows our depth and that anyone can have the ball in their hands and make a play.",
       "team": "Memphis Grizzlies",
       "structured": {
         "speaker_role": "player",
@@ -123,7 +123,7 @@
         "topics": [
           "teammates"
         ],
-        "context": "Jaylen Wells highlights the importance of ball movement and the team's depth despite having players out of the lineup.",
+        "context": "Jaylen Wells highlights the importance of ball movement and team depth in the Grizzlies' offensive success.",
         "best": false,
         "prompt": "47544341"
       }
@@ -136,25 +136,25 @@
         "Jaylen Wells"
       ],
       "timestamp": "00:50",
-      "summary_phrase": "Jaylen Wells on upcoming rematch against Minnesota Timberwolves",
+      "summary_phrase": "Jaylen Wells previews upcoming game against Minnesota Timberwolves",
       "names_mentioned": [],
-      "excerpt": "we just got to play our game. That's it. I think if we play our game we'll win.",
+      "excerpt": "We just got to play our game. That's it. I think if we play our game, we'll win.",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
-          "text": "Minnesota ended up winning tonight against Oklahoma City. So Friday's game comes down to the winner wins the group. You played them less than a week ago. What did you learn from that game that needs to be better this time around?"
+          "text": "Minnesota ended up winning tonight against Oklahoma City, so Friday's game comes down to the winner wins the group. You played them less than a week ago. What did you learn from that game that needs to be better this time around?"
         },
         {
           "speaker": "Jaylen Wells",
-          "text": "Defensively, I think we started off really good. We just got to play our game. That's it. I think if we play our game we'll win."
+          "text": "Defensively, I think we started off really good. We just got to play our game. That's it. I think if we play our game, we'll win."
         }
       ],
       "start_seconds": 50,
       "end_seconds": 72,
       "speaker_confidence": "named",
       "news_score": 3,
-      "social_score": 2,
-      "social_post": "Jaylen Wells on the upcoming rematch against Minnesota: Defensively, I think we started off really good. We just got to play our game. That is it. I think if we play our game we will win.",
+      "social_score": 1,
+      "social_post": "Jaylen Wells on the upcoming matchup against Minnesota: We just have to play our game. If we play our game we will win.",
       "team": "Memphis Grizzlies",
       "structured": {
         "speaker_role": "player",
@@ -165,7 +165,7 @@
           "OKC"
         ],
         "topics": [],
-        "context": "Jaylen Wells discusses the upcoming rematch against the Minnesota Timberwolves and the need for the team to play their own game.",
+        "context": "Jaylen Wells comments on the upcoming game against the Minnesota Timberwolves following their win over Oklahoma City.",
         "best": false,
         "prompt": "47544341"
       }
@@ -181,7 +181,7 @@
   "channel_team": "Memphis Grizzlies",
   "published": "2026-11-26T03:29:31Z",
   "duration_seconds": 72,
-  "processed_at": "2026-11-26T09:41:31Z",
+  "processed_at": "2026-11-26T09:45:20Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

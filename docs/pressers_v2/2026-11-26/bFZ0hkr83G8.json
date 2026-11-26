@@ -11,14 +11,14 @@
       "summary_phrase": "Kyle Kuzma on the team's tendency to play selfishly",
       "names_mentioned": [],
       "excerpt": "We think about the individual and not the team.",
-      "quote": "We think about the individual and not the team. We have these stints where we do a great job of playing together, playing smart, playing the right way, and then we have stints where we fall off that trail a little bit.",
+      "quote": "We think about us. We think about the individual and not the team. We have these stints where we do a great job of playing together, playing smart, playing the right way, and then we have stints where we fall off that trail a little bit.",
       "text_blocks": [],
       "start_seconds": 9,
-      "end_seconds": 25,
+      "end_seconds": 27,
       "speaker_confidence": "named",
       "news_score": 7,
       "social_score": 5,
-      "social_post": "Kyle Kuzma says the team is struggling with selfishness: We think about the individual and not the team. We have these stints where we do a great job of playing together and then we have stints where we fall off that trail a little bit.",
+      "social_post": "Kyle Kuzma says the team is struggling with selfishness: We think about the individual and not the team. We have stints where we play the right way and then we fall off that trail.",
       "team": "Milwaukee Bucks",
       "structured": {
         "speaker_role": "player",
@@ -39,13 +39,13 @@
       "summary_phrase": "Kyle Kuzma on the difficulty of playing consistent team basketball",
       "names_mentioned": [],
       "excerpt": "Doing the boring thing is hard to do consistently.",
-      "quote": "Really good teams, I have been in the league a long time, I know they see, they don't get tired of doing the same thing over and over. Doing the boring thing is hard to do consistently. It is hard to just be a robot out there and do the same thing, but you have to take what the defense is giving you.",
+      "quote": "Really good teams, I have been in the league a long time, I know, they see, they don't get tired of doing the same thing over and over. Doing the boring thing is hard to do consistently. It is hard to just be a robot out there and do the same thing, but you have to take what the defense is giving you.",
       "text_blocks": [],
       "start_seconds": 89,
       "end_seconds": 113,
       "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 3,
+      "news_score": 4,
+      "social_score": 2,
       "social_post": "Kyle Kuzma on the challenge of consistency: Doing the boring thing is hard to do consistently. It is hard to just be a robot out there and do the same thing, but you have to take what the defense is giving you.",
       "team": "Milwaukee Bucks",
       "structured": {
@@ -55,7 +55,7 @@
           "MIL"
         ],
         "topics": [],
-        "context": "Kyle Kuzma explains the difficulty of maintaining consistent team basketball and playing the right way.",
+        "context": "Kyle Kuzma explains the difficulty of maintaining consistent team basketball over the course of a long season.",
         "best": false,
         "prompt": "47544341"
       }
@@ -63,20 +63,48 @@
     {
       "rank": 3,
       "speaker": "Kyle Kuzma",
+      "timestamp": "02:18",
+      "summary_phrase": "Kyle Kuzma on the need for better team defensive execution",
+      "names_mentioned": [],
+      "excerpt": "It doesn't matter if we put the ball in the hole, we don't play as a team.",
+      "quote": "I think we just need to play sound team offensive basketball and continue to do what we did the past two nights defensively. We have been pretty good defensively, but that doesn't matter if we put the ball in the hole, we don't play as a team because we are still not going to win. We need to focus on that team aspect and then we are going to give ourselves a chance to win.",
+      "text_blocks": [],
+      "start_seconds": 138,
+      "end_seconds": 167,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kyle Kuzma says the team needs to focus on the team aspect of offense: We have been pretty good defensively, but that does not matter if we do not play as a team because we are still not going to win.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma emphasizes the need for better offensive execution to complement the team's recent defensive improvements.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kyle Kuzma",
       "timestamp": "03:04",
-      "summary_phrase": "Kyle Kuzma on Miles Turner's impact on team defense",
+      "summary_phrase": "Kyle Kuzma on the defensive impact of Miles Turner",
       "names_mentioned": [
         "Miles Turner"
       ],
       "excerpt": "A big part of it is Miles Turner, obviously, because he protects a lot of us.",
-      "quote": "A big part of it is Miles Turner, obviously, because he protects a lot of us. We are not the best point-of-attack defensive team, we have made a lot of growth, but when we have him and Kel at the rim and they are challenging shots, allowing us to save our bacon sometimes, they are giving us a huge lift.",
+      "quote": "A big part of it is Miles Turner, obviously, because he protects a lot of us. We are not the best point-of-attack defensive team, we made a lot of growth, but when we have him and Kel at the rim and they are challenging shots, allowing us to save our bacon sometimes, they are giving us a huge lift.",
       "text_blocks": [],
       "start_seconds": 184,
       "end_seconds": 207,
       "speaker_confidence": "named",
       "news_score": 6,
       "social_score": 3,
-      "social_post": "Kyle Kuzma credits Miles Turner for anchoring the defense: A big part of it is Miles Turner, obviously, because he protects a lot of us. We are not the best point of attack defensive team, but when he is at the rim he is saving our bacon.",
+      "social_post": "Kyle Kuzma credits Miles Turner for defensive impact: He protects a lot of us. We are not the best point of attack defensive team, but when he and Kel are at the rim challenging shots, they are saving our bacon.",
       "team": "Milwaukee Bucks",
       "structured": {
         "speaker_role": "player",
@@ -86,31 +114,29 @@
         "teams": [
           "MIL"
         ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "Kyle Kuzma discusses the defensive impact of Miles Turner and Kel on the team.",
+        "topics": [],
+        "context": "Kyle Kuzma highlights the defensive impact of Miles Turner and Kel at the rim.",
         "best": false,
         "prompt": "47544341"
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "speaker": "Kyle Kuzma",
       "timestamp": "03:57",
-      "summary_phrase": "Kyle Kuzma on Kel's growth and personality on the court",
+      "summary_phrase": "Kyle Kuzma on the growth and personality of Kel",
       "names_mentioned": [
         "Kel"
       ],
-      "excerpt": "He has a very vibrant personality off the court, but he needs to have that on the court.",
-      "quote": "He has a very vibrant personality off the court, but he needs to have that on the court too. When he has it on the court, you see him, he is getting tip dunks, he is blocking shots, he is smiling. He is doing certain things that he is not just trying to focus on shooting threes.",
+      "excerpt": "He has a very vibrant personality off the court, but he needs to have that on the court too.",
+      "quote": "He has a very vibrant personality off the court, but he needs to have that on the court too. And when he has it on the court, you see him, he is getting tip dunks, he is blocking shots, he is smiling. He is doing certain things that he is not just trying to focus on shooting threes. And then when he is getting down in the paint, he is rolling, he is offensive rebounding, he is dunking, we love to see it.",
       "text_blocks": [],
       "start_seconds": 237,
-      "end_seconds": 259,
+      "end_seconds": 269,
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 4,
-      "social_post": "Kyle Kuzma wants to see more energy from Kel on the court: He has a very vibrant personality off the court, but he needs to have that on the court too. When he has it, you see him getting tip dunks, blocking shots, and smiling.",
+      "social_post": "Kyle Kuzma wants to see more energy from Kel on the court: He has a very vibrant personality off the court, but he needs to have that on the court too. When he is getting down in the paint and rolling, we love to see it.",
       "team": "Milwaukee Bucks",
       "structured": {
         "speaker_role": "player",
@@ -123,7 +149,7 @@
         "topics": [
           "teammates"
         ],
-        "context": "Kyle Kuzma talks about the growth of Kel and the importance of bringing his personality to the court.",
+        "context": "Kyle Kuzma discusses the need for Kel to bring his vibrant personality onto the court to impact the game.",
         "best": false,
         "prompt": "47544341"
       }
@@ -139,7 +165,7 @@
   "channel_team": "Milwaukee Bucks",
   "published": "2026-11-26T04:28:44Z",
   "duration_seconds": 297,
-  "processed_at": "2026-11-26T09:41:06Z",
+  "processed_at": "2026-11-26T09:44:58Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

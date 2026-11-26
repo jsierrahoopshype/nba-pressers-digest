@@ -16,9 +16,9 @@
       "start_seconds": 11,
       "end_seconds": 24,
       "speaker_confidence": "named",
-      "news_score": 4,
+      "news_score": 5,
       "social_score": 2,
-      "social_post": "Tyler Herro on the team's offensive struggles tonight: We play best when we're moving that ball, when the ball has pop to it. We just got to get to it and be more consistent with it.",
+      "social_post": "Tyler Herro says the Bucks need to get back to their identity. We play best when we are moving that ball and the ball has pop to it.",
       "team": "Milwaukee Bucks",
       "structured": {
         "speaker_role": "player",
@@ -27,7 +27,7 @@
           "MIL"
         ],
         "topics": [],
-        "context": "Tyler Herro discusses the team's need for consistent ball movement following a game.",
+        "context": "Tyler Herro discusses the team's need for more consistent ball movement following a loss.",
         "best": false,
         "prompt": "47544341"
       }
@@ -38,15 +38,15 @@
       "timestamp": "00:40",
       "summary_phrase": "Tyler Herro on the team's struggle with individual versus team play",
       "names_mentioned": [],
-      "excerpt": "Guys want to score, guys want to play their game a little bit, but we got to play team ball.",
-      "quote": "Things happen. Guys want to score, guys want to play their game a little bit, but we got to play team ball. That's what it's all about.",
+      "excerpt": "We got to play team ball, that's what it's all about.",
+      "quote": "Things happen. Guys want to score, guys want to play their game a little bit, but we got to play team ball, that's what it's all about.",
       "text_blocks": [],
       "start_seconds": 40,
       "end_seconds": 50,
       "speaker_confidence": "named",
-      "news_score": 4,
-      "social_score": 3,
-      "social_post": "Tyler Herro on the team needing to prioritize team play: Things happen. Guys want to score, guys want to play their game a little bit, but we got to play team ball. That's what it's all about.",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Tyler Herro on the Bucks offensive struggles. Guys want to score and play their game a little bit but we have to play team ball.",
       "team": "Milwaukee Bucks",
       "structured": {
         "speaker_role": "player",
@@ -55,7 +55,7 @@
           "MIL"
         ],
         "topics": [],
-        "context": "Tyler Herro addresses the team's struggle to balance individual scoring with team-oriented play.",
+        "context": "Tyler Herro reflects on the team's struggle to prioritize team play over individual scoring efforts.",
         "best": false,
         "prompt": "47544341"
       }
@@ -68,15 +68,15 @@
       "names_mentioned": [
         "Randle"
       ],
-      "excerpt": "It was a slower-paced game, and the way that they switch everything, that naturally slows teams down.",
-      "quote": "It was a slower-paced game, and the way that they switch everything, that naturally slows teams down offensively, which is why we scored what we scored. I think the more we move the ball, the more we play off each other when teams are switching, it's going to help us. But it was a low-scoring game because of how they muck things up defensively. I felt like their players were too comfortable getting to their spots, especially early on, and then Randle especially got going. He was comfortable, and he obviously won them the game.",
+      "excerpt": "It was a slower-paced game and the way that they switch everything naturally that slows teams down.",
+      "quote": "It was a slower-paced game and the way that they switch everything naturally that slows teams down offensively, which is why we scored what we scored. I think that's why the more we move the ball, the more we play off each other when teams are switching, is going to help us. But it was a low-scoring game because of how they muck things up defensively and I still thought we could have been better on our side of the ball defensively. I felt like their players were too comfortable getting to their spots, especially early on and then Randle especially got going, was comfortable and he obviously won them the game.",
       "text_blocks": [],
       "start_seconds": 66,
-      "end_seconds": 103,
+      "end_seconds": 109,
       "speaker_confidence": "named",
-      "news_score": 5,
+      "news_score": 7,
       "social_score": 3,
-      "social_post": "Tyler Herro on the defensive lapses against Julius Randle: I felt like their players were too comfortable getting to their spots, especially early on, and then Randle especially got going. He was comfortable, and he obviously won them the game.",
+      "social_post": "Tyler Herro credits the opponent for mucking up the game defensively but admits the Bucks were too comfortable letting players like Julius Randle get to their spots.",
       "team": "Milwaukee Bucks",
       "structured": {
         "speaker_role": "player",
@@ -88,7 +88,7 @@
           "NYK"
         ],
         "topics": [],
-        "context": "Tyler Herro analyzes the team's offensive struggles against a switching defense and highlights the impact of Julius Randle's performance.",
+        "context": "Tyler Herro analyzes the team's defensive performance and the impact of Julius Randle on the game outcome.",
         "best": true,
         "prompt": "47544341"
       }
@@ -104,7 +104,7 @@
   "channel_team": "Milwaukee Bucks",
   "published": "2026-11-26T04:28:41Z",
   "duration_seconds": 144,
-  "processed_at": "2026-11-26T09:40:56Z",
+  "processed_at": "2026-11-26T09:44:56Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

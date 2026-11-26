@@ -15,7 +15,7 @@
       "timestamp": "00:15",
       "summary_phrase": "Ayo Dosunmu on the Timberwolves' championship DNA and competitive resilience",
       "names_mentioned": [],
-      "excerpt": "they are a championship team, so they have championship DNA",
+      "excerpt": "they are a championship team, so they have championship DNA and we just wanted to fight",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
@@ -31,7 +31,7 @@
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Ayo Dosunmu on the Timberwolves championship DNA and the need to fight through their runs to keep competing",
+      "social_post": "Ayo Dosunmu on the Timberwolves' resilience after a back and forth game: They are a championship team so they have championship DNA and we just wanted to fight through their runs and keep competing.",
       "team": "Minnesota Timberwolves",
       "structured": {
         "speaker_role": "player",
@@ -40,7 +40,7 @@
           "MIN"
         ],
         "topics": [],
-        "context": "Ayo Dosunmu discusses the competitive nature of the game and the opponent's championship DNA following the Timberwolves' victory.",
+        "context": "Ayo Dosunmu discusses the competitive nature of the game and the resilience shown by his team against their opponents.",
         "best": false,
         "prompt": "47544341"
       }
@@ -55,23 +55,23 @@
       "timestamp": "00:35",
       "summary_phrase": "Ayo Dosunmu on the Timberwolves' second unit impact and team response",
       "names_mentioned": [],
-      "excerpt": "their second unit really changed the game for them",
+      "excerpt": "we let their non-shamen, if they won their non-shamen in the first half, we were up 10",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
-          "text": "It felt like you guys were in a really good rhythm in that first quarter, and then it all kind of went away. How did you guys end up getting it back midway through the third?"
+          "text": "It felt like you guys were in a really good rhythm in that first quarter, and then it all kind of went away. How did you guys end up getting it back, like midway through the third?"
         },
         {
           "speaker": "Ayo Dosunmu",
-          "text": "We let their non-shamen, they won their non-shamen in the first half. We were up 10 and their second unit really changed the game for them. So we wanted to harp on that for our team in the second half and do the same thing, and we made a great run in the third quarter."
+          "text": "We let their non-shamen, if they won their non-shamen in the first half, we were up 10 and their second unit really changed the game for them. So we wanted to harp on that for our team in the second half and do the same thing and we made a great run in the third quarter, we were able to finish the game out in the fourth."
         }
       ],
       "start_seconds": 35,
-      "end_seconds": 70,
+      "end_seconds": 75,
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 2,
-      "social_post": "Ayo Dosunmu explains how the team adjusted in the second half to counter the impact of the Timberwolves second unit",
+      "social_post": "Ayo Dosunmu explains the second half turnaround: We wanted to harp on that for our team in the second half and do the same thing and we made a great run in the third quarter.",
       "team": "Minnesota Timberwolves",
       "structured": {
         "speaker_role": "player",
@@ -80,7 +80,7 @@
           "MIN"
         ],
         "topics": [],
-        "context": "Ayo Dosunmu explains how the team adjusted to the opponent's second unit performance during the second half.",
+        "context": "Ayo Dosunmu explains how his team adjusted their defensive approach against the opponent's second unit to regain momentum in the second half.",
         "best": false,
         "prompt": "47544341"
       }
@@ -93,11 +93,11 @@
         "Ayo Dosunmu"
       ],
       "timestamp": "01:30",
-      "summary_phrase": "Ayo Dosunmu on stepping up as primary ball-handler after LaMelo Ball injury",
+      "summary_phrase": "Ayo Dosunmu on stepping up as primary ball-handler after LaMelo Ball's injury",
       "names_mentioned": [
-        "LaMelo"
+        "LaMelo Ball"
       ],
-      "excerpt": "I always been ready for anything and that's my mindset just being able to adapt",
+      "excerpt": "I always been ready for anything and you know that's my mindset just being able to adapt",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
@@ -105,15 +105,15 @@
         },
         {
           "speaker": "Ayo Dosunmu",
-          "text": "For sure. I mean, you know, I always been ready for anything and that's my mindset just being able to adapt to any situation. I'm praying for LaMelo, hopefully it's nothing too serious and we got the win for him."
+          "text": "For sure. I mean, you know, I always been ready for anything and you know that's my mindset just being able to adapt to any situation. I'm praying for LaMelo, hopefully it's nothing too serious and we got the win for him."
         }
       ],
       "start_seconds": 90,
-      "end_seconds": 111,
+      "end_seconds": 112,
       "speaker_confidence": "named",
       "news_score": 9,
       "social_score": 5,
-      "social_post": "Ayo Dosunmu on stepping up as the primary ball handler after the LaMelo Ball injury. I have always been ready for anything and that is my mindset just being able to adapt to any situation",
+      "social_post": "Ayo Dosunmu on stepping up as the primary ball handler following the LaMelo Ball injury: I always been ready for anything and you know that is my mindset just being able to adapt to any situation.",
       "team": "Minnesota Timberwolves",
       "structured": {
         "speaker_role": "player",
@@ -121,61 +121,13 @@
           "LaMelo Ball"
         ],
         "teams": [
-          "MIN",
-          "CHA"
+          "MIN"
         ],
         "topics": [
           "injuries"
         ],
-        "context": "Ayo Dosunmu discusses stepping into a primary ball-handling role following an ankle injury sustained by LaMelo Ball.",
+        "context": "Ayo Dosunmu addresses his role as the primary ball-handler following an ankle injury sustained by LaMelo Ball during the game.",
         "best": true,
-        "prompt": "47544341"
-      }
-    },
-    {
-      "rank": 4,
-      "speaker": "Ayo Dosunmu",
-      "speakers": [
-        "Unidentified reporter",
-        "Ayo Dosunmu"
-      ],
-      "timestamp": "01:45",
-      "summary_phrase": "Ayo Dosunmu on Alex Caruso's mentorship and their shared competitive history",
-      "names_mentioned": [
-        "Alex Caruso"
-      ],
-      "excerpt": "Caruso, he's my guy. When I was a rookie, he was one of my vets",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "You got your shot blocked by Alex Caruso late in the game, but the play continued and you nailed the corner three. How good did that feel after what happened?"
-        },
-        {
-          "speaker": "Ayo Dosunmu",
-          "text": "It felt great. You know, Caruso, he's my guy. When I was a rookie, he was one of my vets that helped me transition into the NBA, so that's just us competing."
-        }
-      ],
-      "start_seconds": 105,
-      "end_seconds": 129,
-      "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 6,
-      "social_post": "Ayo Dosunmu on his history with Alex Caruso. Caruso was one of my vets that helped me transition into the NBA so that is just us competing",
-      "team": "Minnesota Timberwolves",
-      "structured": {
-        "speaker_role": "player",
-        "subjects": [
-          "Alex Caruso"
-        ],
-        "teams": [
-          "MIN",
-          "CHI"
-        ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "Ayo Dosunmu reflects on his history and relationship with Alex Caruso after a late-game play between the two.",
-        "best": false,
         "prompt": "47544341"
       }
     }
@@ -190,7 +142,7 @@
   "channel_team": "Minnesota Timberwolves",
   "published": "2026-11-26T05:08:51Z",
   "duration_seconds": 138,
-  "processed_at": "2026-11-26T09:40:12Z",
+  "processed_at": "2026-11-26T09:44:24Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

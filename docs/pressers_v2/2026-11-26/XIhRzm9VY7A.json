@@ -8,19 +8,17 @@
       "rank": 1,
       "speaker": "Ime Udoka",
       "timestamp": "00:28",
-      "summary_phrase": "Ime Udoka on the Rockets' offensive rebounding strategy",
-      "names_mentioned": [
-        "Stevens"
-      ],
-      "excerpt": "It's what we do. We touch the paint and shoot the ball with confidence.",
-      "quote": "It's what we do. We touch the paint and shoot the ball with confidence. If you make them, great. If you miss them, you got a chance to get them back and get those second-chance points which we didn't do at a high level. But all being said, good job attacking there. Stevens obviously doing what he does and others contributed as well.",
+      "summary_phrase": "Ime Udoka on the Rockets' renewed focus on offensive rebounding",
+      "names_mentioned": [],
+      "excerpt": "It's what we do as part of what we do. We touch the paint, shoot the ball with confidence.",
+      "quote": "It's what we do as part of what we do. We touch the paint, shoot the ball with confidence. If you make them, great. If you miss them, you got a chance to get them back and get those second-chance points, which we didn't do at a high level. But all being said, good job attacking there. Stevens obviously doing what he does and others contributed as well.",
       "text_blocks": [],
       "start_seconds": 28,
-      "end_seconds": 52,
+      "end_seconds": 54,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Ime Udoka on the Rockets offensive rebounding strategy: It is what we do. We touch the paint and shoot the ball with confidence. If you miss them, you got a chance to get them back and get those second chance points.",
+      "social_post": "Ime Udoka says the Rockets are focusing on offensive rebounding to create second chance opportunities after missing shots",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "coach",
@@ -29,7 +27,7 @@
           "HOU"
         ],
         "topics": [],
-        "context": "Ime Udoka discusses the team's offensive rebounding strategy and performance during the postgame press conference.",
+        "context": "Ime Udoka discusses the team's offensive rebounding strategy and performance following a game.",
         "best": false,
         "prompt": "47544341"
       }
@@ -37,33 +35,35 @@
     {
       "rank": 2,
       "speaker": "Ime Udoka",
-      "timestamp": "01:13",
-      "summary_phrase": "Ime Udoka on Fred VanVleet's performance down the stretch",
+      "timestamp": "01:52",
+      "summary_phrase": "Ime Udoka on the defensive strategy against Devin Booker and Kevin Durant",
       "names_mentioned": [
-        "Fred"
+        "Devin Booker",
+        "Kevin Durant",
+        "Jalen Green"
       ],
-      "excerpt": "He got us settled. Didn't love the way we lacked organization at the start of the fourth.",
-      "quote": "He got us settled. Didn't love the way we lacked organization at the start of the fourth and I saw that in the whole group in general. We got to have our bigs rolling in the pocket to collapse the defense, got to have guys being aggressive. It's not just about making shots, it's about getting organized and getting the right look and we didn't have that for a stretch there. Good to get him back in a little earlier than usual, got two days off and extended his time a little bit, but that's what he's here for.",
+      "excerpt": "Don't always look at the end number, you look at the effectiveness to your point and holding them.",
+      "quote": "Anytime, you know, Booker got 25 but 11 on raw free throws. You're shooting 6 for 18 and Jalen 8 for 21. Don't always look at the end number, you look at the effectiveness to your point and holding them to low field goals. Like the attention to detail on those guys for the most part. They got some things, you know, Jalen getting downhill, rejecting the screens and Booker off the kickouts against the low threes as well. But overall made them work through a lot of bodies at them.",
       "text_blocks": [],
-      "start_seconds": 73,
-      "end_seconds": 111,
+      "start_seconds": 112,
+      "end_seconds": 147,
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 2,
-      "social_post": "Ime Udoka on Fred VanVleet: He got us settled. It is not just about making shots, it is about getting organized and getting the right look and we did not have that for a stretch there.",
+      "social_post": "Ime Udoka explains the defensive strategy against Devin Booker and Kevin Durant saying they made them work by throwing a lot of bodies at them",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
-          "Fred VanVleet"
+          "Devin Booker",
+          "Kevin Durant"
         ],
         "teams": [
-          "HOU"
+          "HOU",
+          "PHX"
         ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "Ime Udoka explains how Fred VanVleet helped the team get organized during the fourth quarter.",
+        "topics": [],
+        "context": "Ime Udoka explains the defensive game plan used to limit the effectiveness of Devin Booker and Kevin Durant.",
         "best": false,
         "prompt": "47544341"
       }
@@ -71,84 +71,20 @@
     {
       "rank": 3,
       "speaker": "Ime Udoka",
-      "timestamp": "01:52",
-      "summary_phrase": "Ime Udoka on the defensive game plan against Booker and Green",
-      "names_mentioned": [
-        "Booker",
-        "Green",
-        "Jalen"
-      ],
-      "excerpt": "Don't always look at the end number, you look at the effectiveness.",
-      "quote": "Anytime Booker got 25, but 11 on raw free throws, you're shooting 6 for 18 and Jalen 8 for 21, so don't always look at the end number, you look at the effectiveness to your point and holding them to low field goals. Like the attention to detail on those guys for the most part. They got some things, Jalen getting downhill, reaching the screens and Booker off the kick-outs getting some of those threes as well, but overall made them work through a lot of bodies at them.",
-      "text_blocks": [],
-      "start_seconds": 112,
-      "end_seconds": 146,
-      "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 2,
-      "social_post": "Ime Udoka on the defensive game plan: Do not always look at the end number, you look at the effectiveness to your point and holding them to low field goals. Like the attention to detail on those guys for the most part.",
-      "team": "Houston Rockets",
-      "structured": {
-        "speaker_role": "coach",
-        "subjects": [
-          "Devin Booker",
-          "Jalen Green"
-        ],
-        "teams": [
-          "HOU",
-          "PHX"
-        ],
-        "topics": [],
-        "context": "Ime Udoka evaluates the defensive game plan used against Devin Booker and Jalen Green.",
-        "best": false,
-        "prompt": "47544341"
-      }
-    },
-    {
-      "rank": 4,
-      "speaker": "Ime Udoka",
-      "timestamp": "02:36",
-      "summary_phrase": "Ime Udoka on the team's struggles with free throws",
-      "names_mentioned": [],
-      "excerpt": "It kind of snowballed tonight, we were 16 for 30, so missed quite a few.",
-      "quote": "It kind of snowballed tonight, we were 16 for 30, so missed quite a few. We had missed 10 in the first half at least and so got a little bit better but we only shot four in the second half, so we were two for four there. To go 14 for 26 in the first half and have a 10-point lead with the way we shot the three is a good sign that our defense was guarding well, but like to knock those ones down, extend the lead there and just didn't get the reps in the second half, only four.",
-      "text_blocks": [],
-      "start_seconds": 156,
-      "end_seconds": 195,
-      "speaker_confidence": "named",
-      "news_score": 4,
-      "social_score": 1,
-      "social_post": "Ime Udoka on the Rockets free throw struggles: It kind of snowballed tonight, we were 16 for 30, so missed quite a few. We had missed 10 in the first half at least.",
-      "team": "Houston Rockets",
-      "structured": {
-        "speaker_role": "coach",
-        "subjects": [],
-        "teams": [
-          "HOU"
-        ],
-        "topics": [],
-        "context": "Ime Udoka comments on the team's struggles with free throw shooting throughout the game.",
-        "best": false,
-        "prompt": "47544341"
-      }
-    },
-    {
-      "rank": 5,
-      "speaker": "Ime Udoka",
       "timestamp": "03:14",
-      "summary_phrase": "Ime Udoka on Kevin Durant's scoring milestones",
+      "summary_phrase": "Ime Udoka on Kevin Durant's career scoring milestones",
       "names_mentioned": [
         "Kevin Durant"
       ],
-      "excerpt": "It's almost a second nature thing now. Guys don't really celebrate it too much.",
-      "quote": "It's almost a second nature thing now. Guys don't really celebrate it too much because they just joked in there he's passing so many that he's getting a ball every few games or whatever. While you're in it playing with someone, that's great, that is that great, and as he's passing all these milestones you're kind of just taking it for granted at times. But you look back on it and the accomplishments are things that can't be duplicated. Guys recognize it, I'm sure he will at the end of his career, but he's surpassing so many things it's almost becoming second nature now.",
+      "excerpt": "He's surpassing so many things that it's almost becoming second nature now.",
+      "quote": "It's almost a second nature thing now. Guys don't really celebrate it too much because they just joked in there he's passing so many that he's getting a ball every few games or whatever. While you're in it playing with someone, that's great. That is that great and as passing all these milestones you're just taking it for granted at times. But you look back on it and the accomplishments are things that can't be duplicated. Guys recognize it, I'm sure he will at the end of his career. But he's surpassing so many things that it's almost becoming second nature now.",
       "text_blocks": [],
       "start_seconds": 194,
-      "end_seconds": 234,
+      "end_seconds": 233,
       "speaker_confidence": "named",
       "news_score": 6,
       "social_score": 7,
-      "social_post": "Ime Udoka on Kevin Durant hitting milestones: It is almost becoming second nature now. Guys do not really celebrate it too much because they just joked in there he is passing so many that he is getting a ball every few games.",
+      "social_post": "Ime Udoka on Kevin Durant passing so many scoring milestones that it has become second nature saying he is getting a ball every few games",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "coach",
@@ -160,29 +96,29 @@
           "PHX"
         ],
         "topics": [],
-        "context": "Ime Udoka reflects on Kevin Durant reaching various scoring milestones in his career.",
+        "context": "Ime Udoka reflects on Kevin Durant reaching various career scoring milestones.",
         "best": false,
         "prompt": "47544341"
       }
     },
     {
-      "rank": 6,
+      "rank": 4,
       "speaker": "Ime Udoka",
       "timestamp": "04:07",
-      "summary_phrase": "Ime Udoka on Alperen Sengun's development and triple-doubles",
+      "summary_phrase": "Ime Udoka on Alperen Sengun's development and triple-double performance",
       "names_mentioned": [
-        "Sengun",
-        "Hakeem"
+        "Alperen Sengun",
+        "Hakeem Olajuwon"
       ],
-      "excerpt": "It's been great. He's flirting with them every night now, so it's almost becoming commonplace.",
-      "quote": "It's been great. We recognized him as well tonight for that, for another one and he's flirting with them every night now, so it's almost becoming commonplace. It's very impressive the way he's grown and he dominates the game in all these different ways and luxury for us to have a big that can do all those things, not just a low-post scorer, but the isolations, the assist numbers are high, and guys especially when they're making shots and he's still on the glass doing his thing there. He's grown a ton, he's taking a huge step this year as well and we love the progress he's making.",
+      "excerpt": "He's flirting with them every night now so it's almost becoming commonplace.",
+      "quote": "It's been great. We recognized him as well tonight for that, for another one and he's flirting with them every night now so it's almost becoming commonplace. It's very impressive the way he's grown and he dominates the game in all these different ways. Luxury for us to have a big that can do all those things, not just a low post scorer but the isolations, obviously the assist numbers are high and guys especially when they're making shots and he's still on the glass doing his thing there. He's grown a ton, he's taking a huge step this year as well and we love the progress he's making. Obviously a huge part of what we do.",
       "text_blocks": [],
       "start_seconds": 247,
-      "end_seconds": 289,
+      "end_seconds": 292,
       "speaker_confidence": "named",
       "news_score": 7,
-      "social_score": 6,
-      "social_post": "Ime Udoka on Alperen Sengun: He is flirting with triple doubles every night now, so it is almost becoming commonplace. It is very impressive the way he has grown and he dominates the game in all these different ways.",
+      "social_score": 5,
+      "social_post": "Ime Udoka praises Alperen Sengun for his growth and triple double performance calling him a luxury for the Rockets",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "coach",
@@ -192,45 +128,47 @@
         "teams": [
           "HOU"
         ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "Ime Udoka praises the growth and development of Alperen Sengun after another triple-double performance.",
-        "best": true,
+        "topics": [],
+        "context": "Ime Udoka praises Alperen Sengun for his development and consistent triple-double performances.",
+        "best": false,
         "prompt": "47544341"
       }
     },
     {
-      "rank": 7,
+      "rank": 5,
       "speaker": "Ime Udoka",
       "timestamp": "05:21",
-      "summary_phrase": "Ime Udoka on the team's defensive composure against Dylan Brooks",
+      "summary_phrase": "Ime Udoka on Dillon Brooks' defensive edge and team composure",
       "names_mentioned": [
-        "Dylan Brooks",
-        "Kevin",
-        "Jabari",
-        "Alpi"
+        "Dillon Brooks",
+        "Kevin Durant",
+        "Jabari Smith Jr.",
+        "Alperen Sengun"
       ],
-      "excerpt": "You have to keep composure, not get caught up in it.",
-      "quote": "You have to keep composure, not get caught up in it. The team that's either crying or whining about certain things, you kind of get the edge on and Dylan that's a big part of what he does. It's going to be there every night with him, we know that and for good or bad it can help your team or kind of hinder your team at times and I think our guys did a good job of keeping their cool and playing through it, although quite a few guys got technicals.",
+      "excerpt": "It's a him and Kevin thing always and you saw that tonight.",
+      "quote": "It's a him and Kevin thing always and you saw that tonight. He was chirping with everybody to your point. I think it was a man and him early, Jabari and him at some point and even him and Alperen quite a bit late. You understand that we all know he is and love him for it. But on the other side, you have to keep composure, not get caught up in it and the team that's either crying or whining about certain things, you kind of get the edge on. Dillon that's a big part of what he does. It's going to be there every night with him, we know that and for good or bad it can help your team or kind of hinder your team at times and I think our guys did a good job of keeping their cool and playing through it.",
       "text_blocks": [],
       "start_seconds": 321,
-      "end_seconds": 356,
+      "end_seconds": 377,
       "speaker_confidence": "named",
       "news_score": 6,
       "social_score": 8,
-      "social_post": "Ime Udoka on Dillon Brooks: The team that is either crying or whining about certain things, you kind of get the edge on and Dillon that is a big part of what he does. It can help your team or kind of hinder your team at times.",
+      "social_post": "Ime Udoka on Dillon Brooks chirping at opponents saying we know who he is and love him for it but the team must keep their composure",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
-          "Dillon Brooks"
+          "Dillon Brooks",
+          "Kevin Durant",
+          "Jabari Smith Jr.",
+          "Alperen Sengun"
         ],
         "teams": [
-          "HOU"
+          "HOU",
+          "PHX"
         ],
         "topics": [],
-        "context": "Ime Udoka discusses the importance of maintaining composure while playing against Dillon Brooks.",
+        "context": "Ime Udoka discusses Dillon Brooks' aggressive playing style and the importance of the team maintaining composure.",
         "best": false,
         "prompt": "47544341"
       }
@@ -246,7 +184,7 @@
   "channel_team": "Houston Rockets",
   "published": "2026-11-26T04:32:52Z",
   "duration_seconds": 377,
-  "processed_at": "2026-11-26T09:40:47Z",
+  "processed_at": "2026-11-26T09:44:48Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false,
   "no_clips": true,

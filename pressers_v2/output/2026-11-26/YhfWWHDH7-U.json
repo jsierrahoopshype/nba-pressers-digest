@@ -8,17 +8,17 @@
       "rank": 1,
       "speaker": "Steve Kerr",
       "timestamp": "00:12",
-      "summary_phrase": "Steve Kerr credits recent practices for improved offensive rhythm",
+      "summary_phrase": "Steve Kerr credits recent team practices for improved offensive rhythm",
       "names_mentioned": [],
-      "excerpt": "It always helps to build rhythm and we did that the last couple of days in practice.",
-      "quote": "We had two really good practices in a row the last two days. We are just building rhythm, getting better with our recognition of what we are trying to do offensively. It has been a tough five, six-game stretch shooting the ball, but it is just a matter of time with the quality shooters we have. It always helps to build rhythm and we did that the last couple of days in practice.",
+      "excerpt": "we were due, it's been a tough five, six game stretch shooting the ball",
+      "quote": "We had two really good practices in a row the last two days. We were just building rhythm, getting better with our recognition of what we're trying to do offensively. And then we were due, you know. It's been a tough five, six game stretch shooting the ball, but it's just a matter of time with the quality shooters we have. It always helps to build rhythm and we did that the last couple of days in practice.",
       "verbatim_original_language": "",
       "start_seconds": 12,
-      "end_seconds": 40,
+      "end_seconds": 42,
       "speaker_confidence": "named",
-      "news_score": 6,
+      "news_score": 4,
       "social_score": 2,
-      "social_post": "Steve Kerr says the Warriors are building offensive rhythm again after two really good practices. He believes the team's shooting struggles are just a matter of time given the quality of their shooters.",
+      "social_post": "Steve Kerr credits two really good practices for the Warriors finding their offensive rhythm again after a tough shooting stretch.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "coach",
@@ -27,7 +27,7 @@
           "GSW"
         ],
         "topics": [],
-        "context": "Steve Kerr discusses how recent team practices have helped improve the offensive rhythm of the Warriors.",
+        "context": "Steve Kerr discusses the team's recent practice sessions and their impact on offensive rhythm.",
         "best": false,
         "prompt": "47544341"
       }
@@ -36,21 +36,21 @@
       "rank": 2,
       "speaker": "Steve Kerr",
       "timestamp": "00:55",
-      "summary_phrase": "Steve Kerr explains the tactical value of Draymond Green and Kevon Looney",
+      "summary_phrase": "Steve Kerr explains the tactical value of Kevon Looney and Draymond Green",
       "names_mentioned": [
-        "Draymond Green",
         "Kevon Looney",
+        "Draymond Green",
         "Jason Tatum"
       ],
-      "excerpt": "Having Looney next to him kind of frees him up to roam a little bit and disrupt.",
-      "quote": "Looney gives us the shot-blocking and paint presence and then Draymond, he can guard anybody. We can put him on Jason Tatum like we did the other night, or he can plug off of a player and play center field. We can use him in a lot of different ways, but having Looney next to him kind of frees him up to roam a little bit and disrupt the offense.",
+      "excerpt": "having Kevon Looney next to him kind of frees him up to to roam a little bit",
+      "quote": "Kevon Looney gives us the shot blocking, paint presence and then Draymond Green, he can guard anybody, right? We can put him on Jason Tatum like we did the other night, or he can plug off of a player and play center field. We can use him in a lot of different ways, but having Kevon Looney next to him kind of frees him up to to roam a little bit and disrupt the offense.",
       "verbatim_original_language": "",
       "start_seconds": 55,
-      "end_seconds": 82,
+      "end_seconds": 84,
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 2,
-      "social_post": "Steve Kerr explains the defensive synergy between Kevon Looney and Draymond Green, noting that Looney's rim protection allows Draymond to roam and disrupt opposing offenses.",
+      "social_post": "Steve Kerr explains the tactical synergy between Kevon Looney and Draymond Green, noting that Looney allows Draymond to roam and disrupt opposing offenses.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "coach",
@@ -66,7 +66,7 @@
         "topics": [
           "coaching decisions"
         ],
-        "context": "Steve Kerr explains the defensive roles and tactical advantages of playing Kevon Looney and Draymond Green together.",
+        "context": "Steve Kerr explains the defensive roles and tactical utility of Kevon Looney and Draymond Green.",
         "best": false,
         "prompt": "47544341"
       }
@@ -75,19 +75,19 @@
       "rank": 3,
       "speaker": "Steve Kerr",
       "timestamp": "01:35",
-      "summary_phrase": "Steve Kerr discusses Draymond Green's evolution as a playmaker",
+      "summary_phrase": "Steve Kerr discusses Draymond Green's evolution as a playmaker and shooter",
       "names_mentioned": [
         "Draymond Green"
       ],
-      "excerpt": "Draymond has always been a great passer and a point forward.",
-      "quote": "We have been growing offensively since the trip. We have tweaked a few things and that lineup change obviously changes some things as well. Draymond has always been a great passer and a point forward. I just feel like he is in a great place. He is doing such a great job leading our team, showing patience offensively, and now recognizing the change. He is taking four or five threes a game next to Looney and he is in a good spot here the last couple games. I am really pleased with his play, but most of all just the way he is leading us. He has been incredible.",
+      "excerpt": "he's now he's taking four or five threes a game next to Kevon Looney",
+      "quote": "We've been growing offensively since the trip. We've tweaked a few things, and that lineup change obviously changes some things as well. But Draymond Green has always been a great passer and a point forward. I just feel like he's in a great place. He's doing such a great job leading our team, showing patience offensively. And now he's taking four or five threes a game next to Kevon Looney, and so he's in a good spot here the last couple games.",
       "verbatim_original_language": "",
       "start_seconds": 95,
-      "end_seconds": 137,
+      "end_seconds": 127,
       "speaker_confidence": "named",
-      "news_score": 6,
+      "news_score": 5,
       "social_score": 3,
-      "social_post": "Steve Kerr is pleased with Draymond Green's recent play, highlighting his leadership and improved patience on offense. Kerr says Draymond is in a good spot and has been incredible for the team.",
+      "social_post": "Steve Kerr says Draymond Green is in a great place and highlights his increased aggression from behind the arc, noting he is now taking four or five threes a game.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "coach",
@@ -101,8 +101,8 @@
         "topics": [
           "coaching decisions"
         ],
-        "context": "Steve Kerr discusses Draymond Green's offensive evolution and leadership while playing alongside Kevon Looney.",
-        "best": false,
+        "context": "Steve Kerr discusses offensive adjustments and Draymond Green's performance following a recent lineup change.",
+        "best": true,
         "prompt": "47544341"
       }
     },
@@ -110,19 +110,19 @@
       "rank": 4,
       "speaker": "Steve Kerr",
       "timestamp": "02:40",
-      "summary_phrase": "Steve Kerr highlights Brandon Podziemski's impact on team speed",
+      "summary_phrase": "Steve Kerr on the impact of Brandon Podziemski's return",
       "names_mentioned": [
         "Brandon Podziemski"
       ],
-      "excerpt": "He just gives us that element of speed that can break down the defense.",
-      "quote": "We really missed Brandon Podziemski while he was out. He just gives us that element of speed that can break down the defense. You are not calling any plays, you just get a stop and you throw him the ball and he is just gone. Just incredible speed and the ability to get to the rim and score and break the defense down. That was a big key tonight as well.",
+      "excerpt": "he just gives us that element of speed that can break down the defense",
+      "quote": "We really missed Brandon Podziemski while he was out. He just gives us that element of speed that can break down the defense. You're not calling any plays, you just get a stop and you throw him the ball and he's just gone. Just incredible speed and the ability to get to the rim and score and break the defense down. That was a big key tonight as well.",
       "verbatim_original_language": "",
       "start_seconds": 160,
       "end_seconds": 187,
       "speaker_confidence": "named",
-      "news_score": 6,
-      "social_score": 2,
-      "social_post": "Steve Kerr says the Warriors really missed Brandon Podziemski while he was out, noting that his speed is a key element for breaking down defenses and getting to the rim.",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Steve Kerr says the Warriors really missed the speed of Brandon Podziemski while he was out, calling his ability to break down the defense a big key to their success.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "coach",
@@ -135,7 +135,7 @@
         "topics": [
           "injuries"
         ],
-        "context": "Steve Kerr highlights the impact of Brandon Podziemski's speed on the team's transition offense after his return from injury.",
+        "context": "Steve Kerr comments on the impact of Brandon Podziemski returning to the lineup after being out.",
         "best": false,
         "prompt": "47544341"
       }
@@ -148,15 +148,15 @@
       "names_mentioned": [
         "Moses Moody"
       ],
-      "excerpt": "His high school buddy Moses Moody played a great game too.",
-      "quote": "His high school buddy Moses Moody played a great game too. All those threes, he was due. Moses hasn't shot it well the last few games, so you kind of knew that it was time. Watching those two guys out there is really fun. Imagine being a high school coach coaching against that backcourt ten years ago. Those two guys are really something.",
+      "excerpt": "his high school buddy Moses Moody played a great game too",
+      "quote": "His high school buddy Moses Moody played a great game too. All those threes, he was due. Moses Moody hasn't shot it well the last few games, so you kind of knew that it was time. Watching those two guys out there is really fun.",
       "verbatim_original_language": "",
       "start_seconds": 186,
-      "end_seconds": 210,
+      "end_seconds": 203,
       "speaker_confidence": "named",
-      "news_score": 5,
+      "news_score": 4,
       "social_score": 3,
-      "social_post": "Steve Kerr praises Moses Moody's shooting performance, joking about what it must have been like for high school coaches to face a backcourt featuring both Moody and Podziemski.",
+      "social_post": "Steve Kerr praises Moses Moody for his shooting performance, saying he was due for a big game after struggling in recent outings.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "coach",
@@ -175,20 +175,20 @@
     {
       "rank": 6,
       "speaker": "Steve Kerr",
-      "timestamp": "05:07",
-      "summary_phrase": "Steve Kerr reflects on George Niang's skill set and personality",
+      "timestamp": "04:52",
+      "summary_phrase": "Steve Kerr discusses George Niang's physicality and nickname",
       "names_mentioned": [
         "George Niang"
       ],
-      "excerpt": "I have always loved George. He is just really, really smart and he is physical.",
-      "quote": "I have always loved George. We had him here nine years ago in our G League program and he has always been one of my favorite players as an opponent. Just watching his brain at work, he is just really, really smart and he is physical and he is competitive and he is really skilled. Great three-point shooter, great passer, so he fits in really well with our group. He is also an unbelievable presence in the locker room, just a hilarious guy. He brings the humor and the joy every day and then you combine that with his competitiveness, his feistiness, he is just an amazing teammate.",
+      "excerpt": "one of the great nicknames in sports in my opinion",
+      "quote": "One of the great nicknames in sports in my opinion. I've always loved George Niang. We had him here nine years ago in our G League program and he's always been one of my favorite players as an opponent. Just watching his brain at work, he's really, really smart and he's physical and he's competitive and he's really skilled, great three-point shooter, great passer. He fits in really well with our group and he's also an unbelievable presence in the locker room.",
       "verbatim_original_language": "",
-      "start_seconds": 307,
-      "end_seconds": 349,
+      "start_seconds": 292,
+      "end_seconds": 324,
       "speaker_confidence": "named",
       "news_score": 4,
-      "social_score": 6,
-      "social_post": "Steve Kerr calls George Niang one of his favorite players, praising his basketball IQ and competitiveness while noting that he is an unbelievable presence in the locker room who brings humor and joy every day.",
+      "social_score": 4,
+      "social_post": "Steve Kerr calls Georges Niang one of his favorite players and says he has one of the great nicknames in sports.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "coach",
@@ -198,10 +198,8 @@
         "teams": [
           "GSW"
         ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "Steve Kerr reflects on the skills and personality of Georges Niang, whom he previously coached in the G League.",
+        "topics": [],
+        "context": "Steve Kerr shares his appreciation for Georges Niang's skills and personality.",
         "best": false,
         "prompt": "47544341"
       }
@@ -214,27 +212,26 @@
       "names_mentioned": [
         "Draymond Green"
       ],
-      "excerpt": "It is not easy for any player when they get older, but it is particularly hard.",
-      "quote": "It is not easy for any player when they get older, but it is particularly hard when you have been a great player as Draymond has. He is a Hall of Fame player, first-ballot Hall of Famer. You get older and you have to adapt and you have to reimagine yourself and that is not an easy thing to do, especially for somebody as competitive and passionate as Draymond. I think he is really finding his way. Those first few games without Steph were pretty rough, but he is understanding what he has to do. I think we are understanding as a staff what we have to do too. It is really Draymond putting himself in this position of understanding that he can still lead in a really productive manner even through some of his frustrations and that is exactly what he has done. He has been brilliant in the locker room and on the court.",
+      "excerpt": "it's particularly hard when you've been a great player as Draymond Green has",
+      "quote": "It's not easy for any player when they get older, but it's particularly hard when you've been a great player as Draymond Green has. He's a Hall of Fame player, first ballot Hall of Famer. You get older and you have to adapt and you have to reimagine yourself. That's not an easy thing to do, especially for somebody as competitive and passionate as Draymond Green. I think he's really finding his way. He's understanding that he can still lead in a really productive manner even through some of his frustrations, and that's exactly what he's done.",
       "verbatim_original_language": "",
       "start_seconds": 508,
-      "end_seconds": 568,
+      "end_seconds": 545,
       "speaker_confidence": "named",
-      "news_score": 7,
+      "news_score": 6,
       "social_score": 5,
-      "social_post": "Steve Kerr discusses the challenge of aging for a Hall of Fame player like Draymond Green, saying he is finding his way and leading in a productive manner despite the frustrations of adapting his game.",
+      "social_post": "Steve Kerr on Draymond Green adapting as he gets older: It is not easy to reimagine yourself as a Hall of Fame player, but he is finding his way and leading in a productive manner.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
-          "Draymond Green",
-          "Stephen Curry"
+          "Draymond Green"
         ],
         "teams": [
           "GSW"
         ],
         "topics": [],
-        "context": "Steve Kerr discusses how Draymond Green is adapting his game as he gets older and navigating team challenges without Stephen Curry.",
+        "context": "Steve Kerr reflects on how Draymond Green is adapting his game as he gets older.",
         "best": false,
         "prompt": "47544341"
       }
@@ -250,7 +247,7 @@
   "channel_team": "Golden State Warriors",
   "published": "2026-11-26T06:15:23Z",
   "duration_seconds": 647,
-  "processed_at": "2026-11-26T09:39:52Z",
+  "processed_at": "2026-11-26T09:44:13Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false,
   "no_clips": true,

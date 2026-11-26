@@ -8,31 +8,26 @@
       "rank": 1,
       "speaker": "Mitch Johnson",
       "timestamp": "00:00",
-      "summary_phrase": "Mitch Johnson on late-game execution and defensive lapses against Portland",
-      "names_mentioned": [
-        "Damian Lillard"
-      ],
+      "summary_phrase": "Mitch Johnson on Spurs' late-game execution and defensive lapses",
+      "names_mentioned": [],
       "excerpt": "They took advantage of quite a bit of miscues that we had defensively.",
-      "quote": "In the final two minutes we had three turnovers, so that's going to be hard. We've been pretty good late-game execution. They do a great job pressuring the ball, so that hurt us. They made some shots. They took advantage of quite a bit of miscues that we had defensively, and even in stretches where we were guarding pretty well, if we had a miscue, they took advantage of it quite a bit. I think that led to them getting some threes. Minus 27, I believe, in the three-point, that's going to be tough to overcome. You got to do some good things around that. They won the opportunity battle, so you're in a pretty big uphill climb if you just put those two things in the recipe.",
+      "quote": "In the final two minutes, we had three turnovers, so that's going to be hard. We've been pretty good late-game execution. They do a great job pressuring the ball, so that hurt us. They made some shots. They took advantage of quite a bit of miscues that we had defensively, and even in stretches where we were guarding pretty well, if we had a miscue, they took advantage of it quite a bit. I think that led to them getting some threes. Minus 27, I believe, in the three-point, that's going to be tough to overcome. You got to do some good things around that. They won the opportunity battle, so you're in a pretty big uphill climb if you just put those two things in the recipe.",
       "verbatim_original_language": "",
       "start_seconds": 0,
       "end_seconds": 49,
       "speaker_confidence": "named",
       "news_score": 6,
       "social_score": 2,
-      "social_post": "Mitch Johnson points to late game turnovers and a significant deficit in three point shooting as the primary reasons for the loss to Portland",
+      "social_post": "Mitch Johnson points to late game turnovers and a 27 point deficit from three as the primary reasons for the Spurs loss tonight. He noted that the team struggled to overcome defensive miscues against a high pressure opponent.",
       "team": "San Antonio Spurs",
       "structured": {
         "speaker_role": "coach",
         "subjects": [],
         "teams": [
-          "SAS",
-          "POR"
+          "SAS"
         ],
-        "topics": [
-          "coaching decisions"
-        ],
-        "context": "Mitch Johnson discusses the team's late-game execution and defensive errors during a loss to the Portland Trail Blazers.",
+        "topics": [],
+        "context": "Mitch Johnson discusses the Spurs' late-game execution and defensive struggles following a loss.",
         "best": false,
         "prompt": "47544341"
       }
@@ -41,19 +36,19 @@
       "rank": 2,
       "speaker": "Mitch Johnson",
       "timestamp": "00:41",
-      "summary_phrase": "Mitch Johnson on balancing Victor Wembanyama's usage in traffic",
+      "summary_phrase": "Mitch Johnson on balancing Victor Wembanyama's offensive role in traffic",
       "names_mentioned": [
         "Victor Wembanyama"
       ],
       "excerpt": "There's so many things that we do, whether it's in transition or at the end of the game.",
-      "quote": "There's so many things that we do, whether it's in transition or at the end of the game in a walk-up like that where decision-making is in a bang-bang, a lot of things going on. We try to help prepare our guys for what they may see, and based on what they see, we want them to make decisions accordingly. There's a lot of things happening in that, so it's just stuff that we'll continue to improve upon and clean up.",
+      "quote": "There's so many things that we do, whether it's in transition or at the end of the game in a walk-up like that, where decision-making is in a bang-bang, a lot of things going on. We try to help prepare our guys for what they may see, and based on what they see, we want them to make decisions accordingly. There's a lot of things happening in that, so it's just stuff that we'll continue to improve upon and clean up.",
       "verbatim_original_language": "",
       "start_seconds": 41,
       "end_seconds": 72,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Mitch Johnson says the Spurs are focused on improving decision making and cleaning up execution during high pressure situations in transition and late game sets",
+      "social_post": "Mitch Johnson says the Spurs are focused on improving decision making in transition and late game situations to help players better navigate traffic and defensive pressure.",
       "team": "San Antonio Spurs",
       "structured": {
         "speaker_role": "coach",
@@ -64,7 +59,7 @@
           "SAS"
         ],
         "topics": [],
-        "context": "Mitch Johnson addresses the team's approach to decision-making and ball security when Victor Wembanyama is navigating traffic.",
+        "context": "Mitch Johnson explains the team's approach to helping players make decisions in high-pressure offensive situations.",
         "best": false,
         "prompt": "47544341"
       }
@@ -73,33 +68,33 @@
       "rank": 3,
       "speaker": "Mitch Johnson",
       "timestamp": "01:25",
-      "summary_phrase": "Mitch Johnson on team competitiveness and reckless fouls",
+      "summary_phrase": "Mitch Johnson on Spurs' competitiveness and defensive discipline",
       "names_mentioned": [
         "Damian Lillard",
-        "Nassir Little"
+        "Anfernee Simons"
       ],
-      "excerpt": "We had some reckless fouls. You let Lillard get 10 and Little get eight attempts.",
-      "quote": "I thought our guys' competitiveness was great tonight. Again, like I said, minus 27 from three. We had some reckless fouls. You let Lillard get 10 and Little get eight attempts, so that's 20 attempts from them. We lost the turnover battle. There's a lot of things there that would suggest it's going to be hard to win that game. So we obviously did some good things and a whole bunch of stuff to clean up.",
+      "excerpt": "We had some reckless fouls; you let Lillard get 10 and Simons get eight attempts.",
+      "quote": "I thought our guys' competitiveness was great tonight. Again, like I said, minus 27 from three. We had some reckless fouls; you let Lillard get 10 and Simons get eight attempts, so that's 20 attempts from them. We lost the turnover battle. There's a lot of things there that would suggest it's going to be hard to win that game. We obviously did some good things and a whole bunch of stuff to clean up.",
       "verbatim_original_language": "",
       "start_seconds": 85,
       "end_seconds": 114,
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 2,
-      "social_post": "Mitch Johnson credits the team for their competitiveness but notes that reckless fouls and losing the turnover battle made it too difficult to overcome the deficit",
+      "social_post": "Mitch Johnson credited the team for their competitiveness tonight but highlighted reckless fouls and losing the turnover battle as key areas that made it difficult to win.",
       "team": "San Antonio Spurs",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
           "Damian Lillard",
-          "Nassir Little"
+          "Anfernee Simons"
         ],
         "teams": [
           "SAS",
           "POR"
         ],
         "topics": [],
-        "context": "Mitch Johnson evaluates the team's competitiveness and criticizes the reckless fouls committed against Damian Lillard and Nassir Little.",
+        "context": "Mitch Johnson evaluates the Spurs' defensive discipline and the impact of fouls against specific opposing players.",
         "best": false,
         "prompt": "47544341"
       }
@@ -108,34 +103,32 @@
       "rank": 4,
       "speaker": "Mitch Johnson",
       "timestamp": "01:46",
-      "summary_phrase": "Mitch Johnson on Keldon Johnson and Luke Samanic's rebounding effort",
+      "summary_phrase": "Mitch Johnson on Keldon Johnson and Tre Jones' rebounding effort",
       "names_mentioned": [
         "Keldon Johnson",
-        "Luke Samanic"
+        "Tre Jones"
       ],
-      "excerpt": "I thought Keldon and Luke provided a good amount of trying to get some extra opportunities for us.",
-      "quote": "I thought Keldon and Luke provided a good amount of trying to get some extra opportunities for us. We didn't seem to capitalize on all of them, but I thought again, I thought the fight was there. We just got to be a little bit sharper with some of the execution stuff.",
+      "excerpt": "I thought Keldon and Tre provided a good amount of trying to get some extra opportunities for us.",
+      "quote": "I thought Keldon and Tre provided a good amount of trying to get some extra opportunities for us. We didn't seem to capitalize on all of them, but I thought again, I thought the fight was there. We just got to be a little bit sharper with some of the execution stuff.",
       "verbatim_original_language": "",
       "start_seconds": 106,
       "end_seconds": 126,
       "speaker_confidence": "named",
       "news_score": 3,
       "social_score": 2,
-      "social_post": "Mitch Johnson praises the effort from Keldon Johnson and Luke Samanic on the glass but emphasizes the need for better execution on second chance opportunities",
+      "social_post": "Mitch Johnson praised the rebounding effort from Keldon Johnson and Tre Jones, noting that while the fight was there, the team needs to be sharper with their execution to capitalize on those extra opportunities.",
       "team": "San Antonio Spurs",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
           "Keldon Johnson",
-          "Luka Samanic"
+          "Tre Jones"
         ],
         "teams": [
           "SAS"
         ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "Mitch Johnson comments on the rebounding effort provided by Keldon Johnson and Luka Samanic during the game.",
+        "topics": [],
+        "context": "Mitch Johnson praises the rebounding effort provided by Keldon Johnson and Tre Jones during the game.",
         "best": false,
         "prompt": "47544341"
       }
@@ -144,7 +137,7 @@
       "rank": 5,
       "speaker": "Mitch Johnson",
       "timestamp": "02:02",
-      "summary_phrase": "Mitch Johnson on Devin Vassell's shooting performance",
+      "summary_phrase": "Mitch Johnson on Devin Vassell's shooting performance after injury",
       "names_mentioned": [
         "Devin Vassell"
       ],
@@ -154,9 +147,9 @@
       "start_seconds": 122,
       "end_seconds": 134,
       "speaker_confidence": "named",
-      "news_score": 4,
-      "social_score": 2,
-      "social_post": "Mitch Johnson says the coaching staff is committed to keeping Devin Vassell aggressive and finding him more shots to help him find his groove",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Mitch Johnson says the plan for Devin Vassell is to keep getting him shots and putting him in actions to help him stay aggressive and find his groove as he returns from injury.",
       "team": "San Antonio Spurs",
       "structured": {
         "speaker_role": "coach",
@@ -167,10 +160,10 @@
           "SAS"
         ],
         "topics": [
-          "teammates"
+          "injuries"
         ],
-        "context": "Mitch Johnson discusses the need to continue finding shots for Devin Vassell to help him find his rhythm.",
-        "best": false,
+        "context": "Mitch Johnson discusses the plan to integrate Devin Vassell back into the offense as he returns from injury.",
+        "best": true,
         "prompt": "47544341"
       }
     },
@@ -178,19 +171,19 @@
       "rank": 6,
       "speaker": "Mitch Johnson",
       "timestamp": "02:16",
-      "summary_phrase": "Mitch Johnson on Victor Wembanyama's poise against physical defenses",
+      "summary_phrase": "Mitch Johnson on Victor Wembanyama handling defensive physicality",
       "names_mentioned": [
         "Victor Wembanyama"
       ],
       "excerpt": "I thought he did a great job of just not being rushed through the physicality.",
-      "quote": "I thought he did a great job of just not being rushed through the physicality. They have a lot of guys with switchable size that try to speed you up, be physical, get underneath. They switch their style at times and put the bigs on him and send doubles. I just thought he did a phenomenal job of just playing at his own pace and making good decisions.",
+      "quote": "I thought he did a great job of just not being rushed through the physicality. They have a lot of guys with switchable size that try to speed you up, be physical, get underneath. They switched their style at times and put the bigs on him and sent doubles. I just thought he did a phenomenal job of just playing at his own pace and making good decisions.",
       "verbatim_original_language": "",
       "start_seconds": 136,
       "end_seconds": 162,
       "speaker_confidence": "named",
       "news_score": 6,
-      "social_score": 3,
-      "social_post": "Mitch Johnson says Victor Wembanyama did a phenomenal job of playing at his own pace and making good decisions despite the physical defensive pressure and double teams",
+      "social_score": 4,
+      "social_post": "Mitch Johnson praised Victor Wembanyama for his poise against physical defense, saying he did a phenomenal job of playing at his own pace despite the opponent sending doubles and switching defensive looks.",
       "team": "San Antonio Spurs",
       "structured": {
         "speaker_role": "coach",
@@ -201,7 +194,7 @@
           "SAS"
         ],
         "topics": [],
-        "context": "Mitch Johnson praises Victor Wembanyama for maintaining his composure and pace against the physical defensive pressure applied by the opponent.",
+        "context": "Mitch Johnson praises Victor Wembanyama for his composure against physical defensive pressure and double teams.",
         "best": false,
         "prompt": "47544341"
       }
@@ -217,7 +210,7 @@
   "channel_team": "San Antonio Spurs",
   "published": "2026-11-26T06:57:47Z",
   "duration_seconds": 171,
-  "processed_at": "2026-11-26T09:39:12Z",
+  "processed_at": "2026-11-26T09:43:43Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

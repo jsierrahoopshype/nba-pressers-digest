@@ -10,15 +10,15 @@
       "timestamp": "00:00",
       "summary_phrase": "Taylor Jenkins on Milwaukee's fourth-quarter turnover issues",
       "names_mentioned": [],
-      "excerpt": "we banned what was working for us in the first half",
-      "quote": "We banned what was working for us in the first half. Even there were pockets in the first half too. It's not necessarily the turnovers, it was like shot selection and the turnovers were one thing. I thought for the most part we actually didn't overturn the ball over like we've done in previous games. We didn't have rhythm to our offense, we didn't carry over what we talked about before the game. We had great pockets there in the first quarter and we just abandoned it and didn't trust it. I guess we got bored with the stuff that was working well for us.",
+      "excerpt": "we banned what was working for us in the first half, even there were pockets in the first half",
+      "quote": "We banned what was working for us in the first half, even there were pockets in the first half too. It's not necessarily the turnovers, it was like shot selection and the turnovers were one thing. I thought for the most part we actually didn't overturn the ball over like we've done in previous games. We didn't have rhythm to our offense, we didn't carry over what we talked about before the game. We had great pockets there in the first quarter and we just abandoned it and didn't trust it. I guess we got bored with the stuff that was working well for us.",
       "text_blocks": [],
       "start_seconds": 0,
       "end_seconds": 40,
       "speaker_confidence": "named",
       "news_score": 6,
       "social_score": 3,
-      "social_post": "Taylor Jenkins on the team losing their way in the second half: We got bored with the stuff that was working well for us.",
+      "social_post": "Taylor Jenkins on the Bucks offense stalling out in the second half: I guess we got bored with the stuff that was working well for us.",
       "team": "Milwaukee Bucks",
       "structured": {
         "speaker_role": "coach",
@@ -36,7 +36,7 @@
       "rank": 2,
       "speaker": "Taylor Jenkins",
       "timestamp": "00:47",
-      "summary_phrase": "Taylor Jenkins on Tyler Herro's aggressive play and playmaking",
+      "summary_phrase": "Taylor Jenkins evaluates Tyler Herro's recent offensive and defensive performance",
       "names_mentioned": [
         "Tyler Herro"
       ],
@@ -47,8 +47,8 @@
       "end_seconds": 89,
       "speaker_confidence": "named",
       "news_score": 5,
-      "social_score": 3,
-      "social_post": "Taylor Jenkins on Tyler Herro: He is playing with a good groove and it is not just the scoring, it is the playmaking.",
+      "social_score": 2,
+      "social_post": "Taylor Jenkins likes the current rhythm Tyler Herro is playing with: He is not just scoring, he is playmaking and doing good things defensively.",
       "team": "Milwaukee Bucks",
       "structured": {
         "speaker_role": "coach",
@@ -56,10 +56,11 @@
           "Tyler Herro"
         ],
         "teams": [
-          "MIL"
+          "MIL",
+          "MIA"
         ],
         "topics": [],
-        "context": "Taylor Jenkins evaluates the performance of Tyler Herro regarding his playmaking and defensive effort.",
+        "context": "Taylor Jenkins evaluates the recent offensive and defensive performance of Tyler Herro following the game.",
         "best": false,
         "prompt": "47544341"
       }
@@ -68,21 +69,21 @@
       "rank": 3,
       "speaker": "Taylor Jenkins",
       "timestamp": "01:22",
-      "summary_phrase": "Taylor Jenkins on defensive effort and keeping opponents out of the paint",
+      "summary_phrase": "Taylor Jenkins on defensive improvements and limiting second-chance points",
       "names_mentioned": [
         "Randall",
         "Porter Jr.",
         "Clowny"
       ],
       "excerpt": "being a little bit more locked in on the defensive game plan",
-      "quote": "I think just being a little bit more locked in on the defensive game plan, knowing personnel. Obviously, Randall had a good night, but I thought we did a good job on Porter Jr. and obviously Clowny had a good night shooting the three ball. We didn't do a great job necessarily with the second chance points, but I thought for the most part our guys' activity level was pretty good. But then there were those pockets where we stalled out on offense, we didn't move the ball like we needed to, and we gave up something easy in transition.",
+      "quote": "I think just being a little bit more locked in on the defensive game plan, knowing personnel. Obviously Randall had a good night, but I thought we did a good job on Porter Jr. and obviously Clowny had a good night shooting the three-ball. We didn't do a great job necessarily with the second-chance points, but I thought for the most part our guys' activity level was pretty good. But then there were those pockets where we stalled out on offense, we didn't move the ball like we needed to, and we gave up something easy in transition.",
       "text_blocks": [],
       "start_seconds": 82,
       "end_seconds": 120,
       "speaker_confidence": "named",
       "news_score": 4,
-      "social_score": 2,
-      "social_post": "Taylor Jenkins on defensive lapses: We did not do a great job necessarily with the second chance points, but I thought for the most part our guys activity level was pretty good.",
+      "social_score": 1,
+      "social_post": "Taylor Jenkins on the defensive effort tonight: I thought for the most part our guys activity level was pretty good but we stalled out on offense and gave up easy transition points.",
       "team": "Milwaukee Bucks",
       "structured": {
         "speaker_role": "coach",
@@ -91,10 +92,12 @@
           "Michael Porter Jr."
         ],
         "teams": [
-          "MIL"
+          "MIL",
+          "NYK",
+          "DEN"
         ],
         "topics": [],
-        "context": "Taylor Jenkins reflects on the team's defensive execution against specific opposing players following the game.",
+        "context": "Taylor Jenkins reflects on the team's defensive performance and their ability to limit specific opposing players.",
         "best": false,
         "prompt": "47544341"
       }
@@ -103,17 +106,17 @@
       "rank": 4,
       "speaker": "Taylor Jenkins",
       "timestamp": "02:26",
-      "summary_phrase": "Taylor Jenkins on poor shot quality and lack of rhythm",
+      "summary_phrase": "Taylor Jenkins on shot quality and rhythm in the offense",
       "names_mentioned": [],
-      "excerpt": "the ball's not going in even if you got kind of an open look",
-      "quote": "They were putting two on the ball a lot. We were getting to the second side, we were driving, open lanes, spraying it out. We're going to miss some shots, it's part of it. We ended up shooting 44, wish we could have made a few more for sure. But there was just simple execution. Some of those 44 threes were just no dribble, one pass, not getting in the paint, shooting a shot in front of a guy when we've passed it like two or three times around the perimeter and haven't even broken the plane of the three-point line. Part of that is maybe also the rhythm, the spirit of the ball. The ball's not going in even if you got kind of an open look because it's not a rhythm-generated shot.",
+      "excerpt": "the ball's not going in even if you got kind of an open look because it's not a rhythm generated shot",
+      "quote": "I'll watch the film and see. They were putting two on the ball a lot, we were getting to the second side, we were driving, open lanes, spraying it out. We're going to miss some shots, it's part of it. We ended up shooting 44, wish we could have made a few more for sure. But there was just simple execution. Some of those 44 threes were just no dribble, one pass, not getting in the paint, shooting a shot in front of a guy when we've passed it like two or three times around the perimeter and haven't even broken the plane of the three-point line. So I think part of that is maybe also the rhythm, the spirit of the ball. The ball's not going in even if you got kind of an open look because it's not a rhythm generated shot.",
       "text_blocks": [],
       "start_seconds": 146,
-      "end_seconds": 198,
+      "end_seconds": 201,
       "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 2,
-      "social_post": "Taylor Jenkins on poor shot quality: Some of those 44 threes were just no dribble, one pass, not getting in the paint.",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Taylor Jenkins on the team shooting 44 threes: Some of those were just no dribble, one pass, not getting in the paint. The ball is not going in even if you have an open look because it is not a rhythm generated shot.",
       "team": "Milwaukee Bucks",
       "structured": {
         "speaker_role": "coach",
@@ -122,7 +125,7 @@
           "MIL"
         ],
         "topics": [],
-        "context": "Taylor Jenkins explains the team's poor shot selection and lack of offensive rhythm during the game.",
+        "context": "Taylor Jenkins analyzes the team's shot quality and offensive rhythm during his postgame media availability.",
         "best": false,
         "prompt": "47544341"
       }
@@ -138,7 +141,7 @@
   "channel_team": "Milwaukee Bucks",
   "published": "2026-11-26T04:28:34Z",
   "duration_seconds": 221,
-  "processed_at": "2026-11-26T09:40:57Z",
+  "processed_at": "2026-11-26T09:45:02Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

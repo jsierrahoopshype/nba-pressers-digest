@@ -8,19 +8,19 @@
       "rank": 1,
       "speaker": "Doug Christie",
       "timestamp": "00:06",
-      "summary_phrase": "Doug Christie on Kings' first-quarter struggles against defensive pressure",
+      "summary_phrase": "Kings' first-quarter struggles against defensive blitzing",
       "names_mentioned": [
         "Darius"
       ],
       "excerpt": "they started blitzing Darius and trying to take him out of the game",
-      "quote": "Getting off in the first quarter, I think we tried to play some toss, some splits because they started blitzing Darius and trying to take him out of the game. Unfortunately, E-Man got into a little bit of foul trouble there early on. After that first quarter, which was a blitz, the second and third quarter was more along the lines, but we got to bottle up that and figure out a way to get that for 48 minutes. That's the key.",
+      "quote": "Getting off in the first quarter, I think we tried to play some toss, some splits because they started blitzing Darius and trying to take him out of the game. Unfortunately, E-Man got into a little bit of foul trouble there early on. After that first quarter, which was a blitz, that second and third quarter was more along the lines, but we got to bottle up that and figure out a way to get that for 48 minutes. That's the key.",
       "text_blocks": [],
       "start_seconds": 6,
       "end_seconds": 38,
       "speaker_confidence": "named",
-      "news_score": 5,
+      "news_score": 6,
       "social_score": 2,
-      "social_post": "Doug Christie says the Kings need to figure out how to play with consistent intensity for all 48 minutes after struggling against defensive pressure in the first quarter.",
+      "social_post": "Doug Christie on the Kings' first quarter struggles against the blitz: We have to bottle up that second and third quarter intensity and figure out a way to get that for 48 minutes.",
       "team": "Sacramento Kings",
       "structured": {
         "speaker_role": "coach",
@@ -34,7 +34,7 @@
         "topics": [
           "coaching decisions"
         ],
-        "context": "Doug Christie discusses the Kings' struggles against defensive blitzes directed at Darius Garland.",
+        "context": "Assistant coach Doug Christie discusses the Kings' struggles against defensive blitzing directed at Darius Garland.",
         "best": false,
         "prompt": "47544341"
       }
@@ -42,20 +42,20 @@
     {
       "rank": 2,
       "speaker": "Doug Christie",
-      "timestamp": "00:43",
-      "summary_phrase": "Doug Christie on the need for better offensive spacing against blitzes",
+      "timestamp": "00:44",
+      "summary_phrase": "Need for better offensive spacing against defensive pressure",
       "names_mentioned": [
         "Darius"
       ],
       "excerpt": "you need three outlets when they're going to blitz Darius",
-      "quote": "You need three outlets when they're going to blitz Darius. It's the roller who's setting the screen, somebody has to come up out of the corner. I think we were a little late on everything in that first half, even on the rotations. We have to be aggressive, and that was something that we went over in practice. It's something that we looked at in film and talked to them about, but you got to give them credit. They've won championships, they know exactly what they want to do.",
+      "quote": "You need three outlets when they're going to blitz Darius. It's the roller who's setting the screen, somebody has to come up out of the corner. I think we were a little late on everything in that first half, even on the rotations. We have to be aggressive. It's something that we went over in practice, it's something that we looked at in film and talked to them about, but you got to give them credit. They've won championships, they know exactly what they want to do.",
       "text_blocks": [],
-      "start_seconds": 43,
+      "start_seconds": 44,
       "end_seconds": 77,
       "speaker_confidence": "named",
       "news_score": 6,
       "social_score": 2,
-      "social_post": "Doug Christie explains that the Kings need better spacing and three outlets when opponents blitz Darius Garland to maintain their offensive advantage.",
+      "social_post": "Doug Christie says the Kings need better spacing and three outlets when teams blitz Darius. He admits they were a little late on rotations in the first half.",
       "team": "Sacramento Kings",
       "structured": {
         "speaker_role": "coach",
@@ -69,7 +69,7 @@
         "topics": [
           "coaching decisions"
         ],
-        "context": "Doug Christie explains the need for better offensive spacing and rotations when opponents blitz Darius Garland.",
+        "context": "Doug Christie explains the necessary offensive adjustments and spacing required to counter defensive pressure on Darius Garland.",
         "best": false,
         "prompt": "47544341"
       }
@@ -78,7 +78,7 @@
       "rank": 3,
       "speaker": "Doug Christie",
       "timestamp": "01:16",
-      "summary_phrase": "Doug Christie on the impact of high turnover rates",
+      "summary_phrase": "High turnover rate is unsustainable for Kings",
       "names_mentioned": [],
       "excerpt": "20 turnovers for 26 points is never going to do it",
       "quote": "We have to take care of the basketball at a really, really high level because our margin for error is not huge, but 20 turnovers for 26 points is never going to do it. We got to take care of that basketball.",
@@ -88,7 +88,7 @@
       "speaker_confidence": "named",
       "news_score": 7,
       "social_score": 2,
-      "social_post": "Doug Christie on the Kings turnover issues: 20 turnovers for 26 points is never going to do it. He says the team must take care of the basketball at a high level.",
+      "social_post": "Doug Christie on the Kings' turnover issues: Our margin for error is not huge, but 20 turnovers for 26 points is never going to do it. We have to take care of the basketball.",
       "team": "Sacramento Kings",
       "structured": {
         "speaker_role": "coach",
@@ -97,7 +97,7 @@
           "SAC"
         ],
         "topics": [],
-        "context": "Doug Christie emphasizes the need for the team to reduce turnovers to maintain a competitive margin for error.",
+        "context": "Doug Christie addresses the team's high turnover rate and the need for better ball security.",
         "best": false,
         "prompt": "47544341"
       }
@@ -105,20 +105,20 @@
     {
       "rank": 4,
       "speaker": "Doug Christie",
-      "timestamp": "01:35",
-      "summary_phrase": "Doug Christie on defensive adjustments for Darius",
+      "timestamp": "01:36",
+      "summary_phrase": "Darius will face more defensive variety moving forward",
       "names_mentioned": [
         "Darius"
       ],
       "excerpt": "Darius is going to continue to see every defense that that you can create",
-      "quote": "I think you're going to see it more. I think Darius is going to continue to see every defense that that you can create. They were blitzing small-small, they were blitzing small-big, so it didn't matter. If it was a five-man they were blitzing, if it was a small they were blitzing. I think probably haven't seen the small-small blitz, but even that goes for not only Darius, but it goes for the screener. Where are you going once that happens? You got to release and find an area that he can pass you the basketball, coming up out of the corner. We got to make sure that we make ourselves available because once he gets off the basketball, you put two on the ball, now you have the advantage. But if you don't recognize it quickly enough or you don't make the pass, then you lose the advantage.",
+      "quote": "I think you're going to see it more. I think Darius is going to continue to see every defense that that you can create. They were blitzing small-small, they were blitzing small-big, so it didn't matter. If it was a five-man they were blitzing, if it was a small they were blitzing. I think probably haven't seen the small-small blitz, but even that goes for not only Darius, but it goes for the screener. Where are you going once that happens? You got to release and find an area that he can pass you the basketball, coming up out of the corner.",
       "text_blocks": [],
-      "start_seconds": 95,
-      "end_seconds": 152,
+      "start_seconds": 96,
+      "end_seconds": 135,
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 2,
-      "social_post": "Doug Christie expects teams to keep blitzing Darius Garland and says the team must recognize the defensive pressure faster to capitalize on the resulting advantage.",
+      "social_post": "Doug Christie expects Darius to keep seeing heavy defensive pressure: Darius is going to continue to see every defense that you can create. It is about finding the right spots once the blitz happens.",
       "team": "Sacramento Kings",
       "structured": {
         "speaker_role": "coach",
@@ -132,7 +132,7 @@
         "topics": [
           "coaching decisions"
         ],
-        "context": "Doug Christie analyzes the defensive blitzing strategies used against Darius Garland and the necessary offensive responses.",
+        "context": "Doug Christie predicts that Darius Garland will continue to face varied defensive blitzing schemes from opponents.",
         "best": false,
         "prompt": "47544341"
       }
@@ -141,19 +141,19 @@
       "rank": 5,
       "speaker": "Doug Christie",
       "timestamp": "02:25",
-      "summary_phrase": "Doug Christie on E-Man's physical style and rookie development",
+      "summary_phrase": "E-Man's physical style and rookie learning curve",
       "names_mentioned": [
         "E-Man"
       ],
       "excerpt": "E-Man, he plays a physical style of basketball and I tell him to don't back up",
-      "quote": "E-Man, he plays a physical style of basketball and I tell him to don't back up. Trying to work with him, talk with him about what he's going to see on a night-to-night basis and what the referees are going to be calling. Unfortunately, he got his second and then later in the second half, I believe he got his fourth. So it was just kind of seeing how far we were going to go with him, but love what he brings, love all of the intangibles that he brings to the game. It's being a rookie, you got to learn the the flow of the game and how to survive out there without getting yourself in foul trouble.",
+      "quote": "E-Man, he plays a physical style of basketball and I tell him to don't back up. But trying to work with him, talk with him about what he's going to see on a night-to-night basis and what the referees are going to be calling. Unfortunately, he got his second and then later in the second half, I believe he got his fourth, so it was just kind of seeing how far we were going to go with him. Love what he brings, love all of the intangibles that he brings to the game. It's, being a rookie, you got to learn the flow of the game and how to survive out there without getting yourself in foul trouble.",
       "text_blocks": [],
       "start_seconds": 145,
-      "end_seconds": 191,
+      "end_seconds": 190,
       "speaker_confidence": "named",
-      "news_score": 4,
+      "news_score": 5,
       "social_score": 3,
-      "social_post": "Doug Christie discusses rookie E-Man's physical style of play and the challenge of learning how to stay on the floor without getting into foul trouble.",
+      "social_post": "Doug Christie on rookie E-Man: I love what he brings and all the intangibles, but he has to learn the flow of the game and how to survive out there without getting himself in foul trouble.",
       "team": "Sacramento Kings",
       "structured": {
         "speaker_role": "coach",
@@ -163,10 +163,8 @@
         "teams": [
           "SAC"
         ],
-        "topics": [
-          "coaching decisions"
-        ],
-        "context": "Doug Christie discusses the physical play and foul trouble experienced by rookie E-Man.",
+        "topics": [],
+        "context": "Doug Christie discusses the physical playstyle of rookie E-Man and the challenges of avoiding foul trouble.",
         "best": false,
         "prompt": "47544341"
       }
@@ -175,32 +173,28 @@
       "rank": 6,
       "speaker": "Doug Christie",
       "timestamp": "03:11",
-      "summary_phrase": "Doug Christie on maintaining urgency and pace",
+      "summary_phrase": "Focusing on controllable factors to improve performance",
       "names_mentioned": [
-        "Shon"
+        "Sean"
       ],
-      "excerpt": "making sure to Shon's point, making ourselves available when they begin to blitz us",
-      "quote": "More than anything, just talking about the things that that we can control. Not turning the basketball over, making sure to Shon's point, making ourselves available when they begin to blitz us, playing with a more sense of urgency as far as pace, getting into our stuff quicker so that we're not deeper into the shot clock and all of a sudden you're finding yourself in butter clock, which is seven or under and you're rushing shots. The quicker we can get into it, and then obviously getting defensive stops and getting out and running because now they're cross-matching and different things. You're rim running with your bigs, and if you can seal a small down there, you got the advantage. The same things that that they do.",
+      "excerpt": "talking about the things that that we can control",
+      "quote": "More than anything, just talking about the things that that we can control. Not turning the basketball over, making sure to Sean's point, making ourselves available when they begin to blitz us. Playing with a more sense of urgency as far as pace, getting into our stuff quicker so that we're not deeper into the shot clock and all of a sudden you're finding yourself in butter clock, which is seven or under and you're rushing shots. The quicker we can get into it, and then obviously getting defensive stops and getting out and running.",
       "text_blocks": [],
       "start_seconds": 191,
-      "end_seconds": 240,
+      "end_seconds": 228,
       "speaker_confidence": "named",
-      "news_score": 5,
+      "news_score": 6,
       "social_score": 2,
-      "social_post": "Doug Christie emphasizes the need for the Kings to play with more urgency and get into their offensive sets quicker to avoid rushing shots late in the clock.",
+      "social_post": "Doug Christie says the Kings need to play with more urgency: We have to get into our stuff quicker so we are not deeper into the shot clock and finding ourselves rushing shots.",
       "team": "Sacramento Kings",
       "structured": {
         "speaker_role": "coach",
-        "subjects": [
-          "Shon"
-        ],
+        "subjects": [],
         "teams": [
           "SAC"
         ],
-        "topics": [
-          "coaching decisions"
-        ],
-        "context": "Doug Christie outlines the team's need for better pace, urgency, and ball security to avoid late shot clock situations.",
+        "topics": [],
+        "context": "Doug Christie outlines the controllable factors the team must focus on to improve their offensive pace and execution.",
         "best": false,
         "prompt": "47544341"
       }
@@ -208,20 +202,20 @@
     {
       "rank": 7,
       "speaker": "Doug Christie",
-      "timestamp": "04:36",
-      "summary_phrase": "Doug Christie on Draymond Green's offensive execution",
+      "timestamp": "04:06",
+      "summary_phrase": "Kings' pride and resilience despite the deficit",
       "names_mentioned": [
         "Draymond"
       ],
-      "excerpt": "Draymond has run that offense for the number of years at a really, really high level",
-      "quote": "Draymond has run that offense for the number of years at a really, really high level. So if you make a mistake, he's going to make you pay for it.",
+      "excerpt": "this group has a lot of pride in what they do and they're going to continue to fight",
+      "quote": "I know that the one thing is this group has a lot of pride in what they do and they're going to continue to fight. When you're down like that and you you get it back to four, eight, 10, it's about getting over the hump. And if you don't, then all of a sudden you you might go, ah. Or they made some they made some big shots. I think there was a bank three, a couple last-second shots that went in, back doors. Those are things that we talked about, make sure that push everything up the floor, no back doors. But, you know, Draymond has has run that offense for the number of years at a really, really high level, so if you make a mistake, he's going to make you pay for it.",
       "text_blocks": [],
-      "start_seconds": 276,
-      "end_seconds": 288,
+      "start_seconds": 246,
+      "end_seconds": 299,
       "speaker_confidence": "named",
       "news_score": 5,
-      "social_score": 4,
-      "social_post": "Doug Christie on the challenge of facing Draymond Green: If you make a mistake he is going to make you pay for it.",
+      "social_score": 3,
+      "social_post": "Doug Christie on the Kings' resilience: This group has a lot of pride and they are going to continue to fight, but if you make a mistake against Draymond, he is going to make you pay for it.",
       "team": "Sacramento Kings",
       "structured": {
         "speaker_role": "coach",
@@ -233,7 +227,7 @@
           "GSW"
         ],
         "topics": [],
-        "context": "Doug Christie praises Draymond Green for his high-level execution of the offense.",
+        "context": "Doug Christie reflects on the team's resilience and the difficulty of defending against Draymond Green's offensive playmaking.",
         "best": false,
         "prompt": "47544341"
       }
@@ -241,33 +235,32 @@
     {
       "rank": 8,
       "speaker": "Doug Christie",
-      "timestamp": "04:48",
-      "summary_phrase": "Doug Christie on De'Anthony Melton's long pass and defensive breakdown",
+      "timestamp": "04:57",
+      "summary_phrase": "DeAnthony Melton's defensive lapse and rebounding emphasis",
       "names_mentioned": [
-        "De'Anthony Melton",
+        "DeAnthony Melton",
         "Yaxol"
       ],
-      "excerpt": "I think he leaked out, I don't think it was anything that guys didn't do",
-      "quote": "I think he leaked out. I don't think it was anything that guys didn't do. He just leaked out. Everyone's looking at the basketball, trying to rebound, offensive rebound because we wanted to crash and make sure that we were emphasizing that. That's an area we wanted to get at least 15, we got 12 of them tonight, but he got behind the defense and they just threw it long.",
+      "excerpt": "I think he leaked out. I don't think it was anything that guys didn't do",
+      "quote": "I think he leaked out. I don't think it was anything that guys didn't do. He just leaked out. Everyone's looking at the basketball trying to rebound, offensive rebound, because we wanted to crash and make sure that we were emphasizing that. That's an area we wanted to get at least 15, we got 12 of them tonight. But he got behind the defense and they just threw it long.",
       "text_blocks": [],
-      "start_seconds": 288,
-      "end_seconds": 315,
+      "start_seconds": 297,
+      "end_seconds": 320,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Doug Christie breaks down a defensive breakdown where De'Anthony Melton got behind the defense on a long pass while the Kings were crashing the glass.",
+      "social_post": "Doug Christie explains a defensive lapse: We wanted to crash the glass and emphasize offensive rebounding, but DeAnthony Melton leaked out and they just threw it long.",
       "team": "Sacramento Kings",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
-          "De'Anthony Melton"
+          "DeAnthony Melton"
         ],
         "teams": [
-          "SAC",
-          "GSW"
+          "SAC"
         ],
         "topics": [],
-        "context": "Doug Christie explains a defensive breakdown that allowed De'Anthony Melton to get behind the defense.",
+        "context": "Doug Christie explains a specific defensive breakdown involving DeAnthony Melton during a rebounding attempt.",
         "best": false,
         "prompt": "47544341"
       }
@@ -283,7 +276,7 @@
   "channel_team": "Sacramento Kings",
   "published": "2026-11-26T06:30:28Z",
   "duration_seconds": 320,
-  "processed_at": "2026-11-26T09:39:51Z",
+  "processed_at": "2026-11-26T09:44:05Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false,
   "no_clips": true,

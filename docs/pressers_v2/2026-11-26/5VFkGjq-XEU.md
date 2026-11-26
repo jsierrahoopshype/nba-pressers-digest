@@ -10,58 +10,56 @@ Dalton Johnson: "The Warriors feasted on that Kings defense early with 44 points
 
 [https://www.youtube.com/watch?v=5VFkGjq-XEU&t=32s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=32s)
 
-**2. Dalton Johnson — "Steve Kerr was really happy having two days of practice. He called them really, really good practices." — Steve Kerr's assessment of recent practice sessions** [01:30](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=90s)
+**2. Dalton Johnson — "The defensive rotations were not there in the third quarter, way too many open threes." — Defensive lapses in the third quarter against the Kings** [01:54](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=114s)
 
-Dalton Johnson: "**Steve Kerr** was really happy having two days of practice. He called them really, really good practices. They are going to have to go back to the film and look at the second quarter and the third quarter. That second quarter is when it started to leak out, and that is a natural letdown when you are up by that many points and firing on all cylinders. They were not going to stay as hot as they were in the first quarter."
+Dalton Johnson: "In the third quarter, you saw them get more sloppy with the ball. The defensive rotations were not there in the third quarter, way too many open threes for the Kings, and the Kings simply started making shots. They started making their three-point shots, and that is how they crawled back in this game. Getting to four points on multiple occasions, you are starting to sweat a little bit."
 
-[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=90s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=90s)
+[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=114s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=114s)
 
-**3. Dalton Johnson — "Imagine what that 500,000 does for the people near the back of the bench." — Impact of NBA Cup prize money on bench players** [03:12](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=192s)
+**3. Dalton Johnson — "Imagine what that 500,000 does for the people near the back of the bench." — Financial impact of the NBA Cup on two-way players** [03:12](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=192s)
 
-Dalton Johnson: "Imagine what that 500,000 does for the people near the back of the bench, the guys that do not have guaranteed contracts, the two-way players. **Brandon Williams** talked about it and he is like, 'Yeah, I am all in.' He is on a cheaper one-year deal and he will take that any day."
+Dalton Johnson: "Imagine what that 500,000 does for the people near the back of the bench, the guys that do not have guaranteed contracts, the two-way players. **Brandon Williams** talked about it, and he is like, 'Yeah, I am all in.' He is on a cheaper one-year deal, and he will take that any day."
 
 [https://www.youtube.com/watch?v=5VFkGjq-XEU&t=192s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=192s)
 
-**4. Dalton Johnson — "Eight threes tonight ties a career high. In the previous six games, he totaled eight threes." — De'Anthony Melton's shooting performance and career high** [05:54](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=354s)
+**4. Dalton Johnson — "When someone like De'Anthony Melton gets going from three-point range, that is a huge start." — De'Anthony Melton's impact on the Warriors' offense** [04:30](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=270s)
 
-Dalton Johnson: "It was huge for somebody like **De'Anthony Melton** who has been struggling shooting the ball recently. Eight threes tonight ties a career high. In the previous six games, he totaled eight threes. So it is great for someone like that to see just one ball go through the net and that kind of creates a domino effect."
+Dalton Johnson: "When someone like **De'Anthony Melton** gets going from three-point range, that is a huge start right there. This was truly a strength in numbers game when you think about other people giving **De'Anthony Melton** the ample help around him, and the bench outscoring the Kings 61 to 19 tonight. That is how this team needs to win."
 
-[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=354s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=354s)
+[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=270s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=270s)
 
-**5. Dalton Johnson — "Whenever a top pick goes against another top pick, and for this season, that is going to be Yaxel Lendeborg." — Spotlight game between rookies Yaxel Lendeborg and Darius Acuff Jr.** [07:33](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=453s)
+**5. Dalton Johnson — "If he is going against a Darius Acuff Jr., that is going to be the spotlight game." — Spotlight on the matchup between Yaxel Lendeborg and Darius Acuff Jr.** [07:38](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=458s)
 
-Dalton Johnson: "Whenever a top pick goes against another top pick, and for this season, that is going to be **Yaxel Lendeborg**. If he is going against a **Darius Acuff Jr.**, that is going to be the spotlight game. I just think that they had much different nights. **Yaxel Lendeborg** winds up gutting out this win. He has been sick, he did not practice yesterday, so number one, he gutted out this win, but he still found his way to lead the Warriors with eight rebounds and 15 points."
+Dalton Johnson: "Whenever a top pick goes against another top pick, and for this season for the Warriors that is going to be **Yaxel Lendeborg**. If he is going against a **Darius Acuff Jr.**, that is going to be the spotlight game. I just think that they had much different nights. **Yaxel Lendeborg** winds up gutting out this win, and he still found his way to lead the Warriors with eight rebounds and 15 points."
 
-[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=453s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=453s)
+[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=458s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=458s)
 
-**6. Brandon Williams — "I am in a great space. They dragged me out of a lift for this." — Brandon Williams on his physical condition and performance** [18:04](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1084s)
+**6. Brandon Williams — "That is my job, that is what they brought me in to do." — Brandon Williams on his physical condition and team role** [18:09](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1089s)
 
-Brandon Williams: "I am in a great space. They dragged me out of a lift for this, so I got to get back down there so I can stay on top of it, but it was fun. It was great. No complaints."
+Brandon Williams: "That is my job, that is what they brought me in to do, to keep that offense running when the starting point guard comes out, so the offense does not look stagnant. I know my job, I know my role, and I am going to do that as much as I can."
 
-[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1084s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1084s)
+[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1089s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1089s)
 
-**7. Brandon Williams — "He was not scoring in high school, I ain't going to lie. He was more defense, straight defense." — Brandon Williams on his high school dynamic with De'Anthony Melton** [18:36](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1116s)
+**7. Brandon Williams — "I would want like an engine going or something like that, that would be more lit." — Brandon Williams on the Road Runner sound effect** [19:49](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1189s)
 
-Brandon Williams: "Nah, he was not scoring in high school, I ain't going to lie. He was more defense, straight defense. I was offensive player, so we kind of met each other very well. He took care of that end, I took care of offense. Tonight was his offensive night, but back then it was fun. But now, I said it yesterday, his game changed completely."
-
-[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1116s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1116s)
-
-**8. Brandon Williams — "That is my job. That is what they brought me in to do." — Brandon Williams on his role coming off the bench** [19:27](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1167s)
-
-Brandon Williams: "That is my job. That is what they brought me in to do, to keep that offense running when the starting point guard comes out, so the offense does not look stagnant or anything like that. So I know my job, I know my role, and I am going to do that as much as I can."
-
-[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1167s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1167s)
-
-**9. Brandon Williams — "I want like an engine going or something like that. That would be more lit." — Brandon Williams on the Road Runner sound effect** [19:49](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1189s)
-
-Brandon Williams: "I want like an engine going or something like that. That would be more lit, but I am not mad at the meep-meep. I think **George** kind of started that preseason and stuff, but I ain't mad at it. I ain't going to lie. I would rather have a Ferrari or some engine going crazy, but I will take the meep-meep."
+Brandon Williams: "I would want like an engine going or something like that, that would be more lit, but I am not mad at the meep-meep. I think **George** kind of started that in preseason and stuff, but I am not mad at it. I would rather have a Ferrari or something, an engine going crazy, but I will take the meep-meep."
 
 [https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1189s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1189s)
 
-**10. Brandon Williams — "How much? I could do something with that for sure. You can definitely feel it on the court. I mean" — Brandon Williams on the NBA Cup prize money** [20:18](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1218s)
+**8. Brandon Williams — "I know exactly what I need to fill in and what the team needed more than anything." — Brandon Williams on the motivation of the NBA Cup** [20:17](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1217s)
 
-**Unidentified reporter:** "Man, bad. How much cash you get from it?"
+Brandon Williams: "I know exactly what I need to fill in and what the team needed more than anything, especially with Steph going down. They brought me in for a reason, I know my role, I know exactly what I need to do, and I need to come out here and do XYZ. I am glad I got out there and showed it in 12 minutes and 44 seconds."
 
-**Brandon Williams:** "How much? I could do something with that for sure. You can definitely feel it on the court. I mean the ball is different, the court is different, atmosphere is a little live, and then you look up at the end of the game, we still trying to run it up, so it is great basketball, good competition."
+[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1217s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1217s)
 
-[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1218s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1218s)
+**9. Dalton Johnson — "He is going into that new position for him, playing four instead of the five." — Draymond Green's offensive evolution at the four position** [22:40](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1360s)
+
+Dalton Johnson: "He is going into that new position for him, playing four instead of the five. It is a little bit of a different spot having a **Charles Barkley**. That is big for **Draymond Green**. I think it takes a little bit of that load off of him defensively, and it is okay, I am going to let it fly. No Steph, let us let this thing fly, but I am also going to find ways to drop some dimes too. So a really good offensive game from Draymond tonight."
+
+[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1360s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1360s)
+
+**10. Dalton Johnson — "Steph Curry's re-evaluation will come Friday before that Blazers game." — Steph Curry's injury status and re-evaluation timeline** [26:30](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1590s)
+
+Dalton Johnson: "**Steph Curry**'s re-evaluation will come Friday before that Blazers game. We will talk to us soon thereafter. So the re-evaluation will come Friday before that Blazers game."
+
+[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1590s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1590s)

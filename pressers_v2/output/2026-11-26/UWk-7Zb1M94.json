@@ -8,7 +8,7 @@
       "rank": 1,
       "speaker": "Tuomas Iisalo",
       "timestamp": "00:10",
-      "summary_phrase": "Zack Edey's second half absence due to soreness",
+      "summary_phrase": "Zack Edey's second-half absence due to soreness",
       "names_mentioned": [
         "Zack Edey"
       ],
@@ -20,12 +20,12 @@
       "speaker_confidence": "named",
       "news_score": 9,
       "social_score": 3,
-      "social_post": "Zach Edey was held out of the second half of tonight's game due to soreness. Tuomas Iisalo said the decision was made after Edey reported the issue at the end of the second quarter.",
+      "social_post": "Tuomas Iisalo says Zach Edey was held out of the second half against the Clippers due to soreness in his ankle",
       "team": "Memphis Grizzlies",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
-          "Zack Edey"
+          "Zach Edey"
         ],
         "teams": [
           "MEM"
@@ -33,7 +33,7 @@
         "topics": [
           "injuries"
         ],
-        "context": "Head coach Tuomas Iisalo explains why Zack Edey did not play in the second half of the game against the Clippers due to soreness.",
+        "context": "Coach Tuomas Iisalo explains that Zach Edey was held out of the second half due to soreness.",
         "best": true,
         "prompt": "47544341"
       }
@@ -52,7 +52,7 @@
       "speaker_confidence": "named",
       "news_score": 6,
       "social_score": 2,
-      "social_post": "Tuomas Iisalo on the Grizzlies winning despite poor shooting: It is the worst feeling as a coach if you feel like you have to make shots to win. Winning without making shots is a very sustainable way to play.",
+      "social_post": "Tuomas Iisalo on the Grizzlies winning despite poor shooting: It is the worst feeling as a coach if you are coaching a team where you feel like you have to make shots to win the game",
       "team": "Memphis Grizzlies",
       "structured": {
         "speaker_role": "coach",
@@ -61,7 +61,7 @@
           "MEM"
         ],
         "topics": [],
-        "context": "Tuomas Iisalo discusses the importance of the team being able to win games even when they are not shooting well from three-point range.",
+        "context": "Coach Tuomas Iisalo discusses the importance of winning games despite poor three-point shooting performance.",
         "best": false,
         "prompt": "47544341"
       }
@@ -70,24 +70,24 @@
       "rank": 3,
       "speaker": "Tuomas Iisalo",
       "timestamp": "01:42",
-      "summary_phrase": "Chris Murray's role and growth as a starter",
+      "summary_phrase": "Chris Murray's role and trust as a fifth starter",
       "names_mentioned": [
         "Chris Murray"
       ],
-      "excerpt": "We just play better when he's out there which is what ultimately playing basketball is about",
-      "quote": "We just play better when he's out there which is what ultimately playing basketball is about. You're one of five guys who's out there and you try to help the team win as much as possible and he's really doing that. He's doing it through excellent point-of-attack defense. In Charlotte it was Brandon Miller, today it was Ingram, really limiting their touches, limiting their efficiency, helping with the rebounding, creating disruption defensively, so contributing to the possession game. And then offensively, he's becoming more and more fluent in how we play.",
+      "excerpt": "We just play better when he's out there, which is what ultimately playing basketball is about",
+      "quote": "We just play better when he's out there, which is what ultimately playing basketball is about. You're one of five guys who's out there and you try to help the team win as much as possible. He's really doing that through excellent point-of-attack defense. In Charlotte, it was Brandon Miller; today, it was Ingram, really limiting their touches, limiting their efficiency, helping with the rebounding, creating disruption defensively, so contributing to the possession game. And then offensively, he's becoming more and more fluent in how we play.",
       "text_blocks": [],
       "start_seconds": 102,
-      "end_seconds": 137,
+      "end_seconds": 135,
       "speaker_confidence": "named",
       "news_score": 6,
-      "social_score": 3,
-      "social_post": "Tuomas Iisalo says Chris Murray is making a major impact through his point of attack defense. He noted that Murray has been tasked with limiting top scorers like Brandon Miller and Brandon Ingram recently.",
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo praises Chris Murray for his point of attack defense and his ability to limit the efficiency of opposing stars like Brandon Miller and Brandon Ingram",
       "team": "Memphis Grizzlies",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
-          "Chris Murray",
+          "Kris Murray",
           "Brandon Miller",
           "Brandon Ingram"
         ],
@@ -99,7 +99,7 @@
         "topics": [
           "teammates"
         ],
-        "context": "Tuomas Iisalo praises Chris Murray for his defensive impact against Brandon Miller and Brandon Ingram and his overall growth as a starter.",
+        "context": "Coach Tuomas Iisalo praises Kris Murray for his defensive impact against opponents like Brandon Miller and Brandon Ingram.",
         "best": false,
         "prompt": "47544341"
       }
@@ -120,7 +120,7 @@
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 2,
-      "social_post": "Tuomas Iisalo on the bench production of Cam Spencer, Ty, and Javon: Their ability to shoot off the dribble forces difficult reads from the opposing defense.",
+      "social_post": "Tuomas Iisalo highlights the efficiency of Cam Spencer and the bench unit, noting that their ability to shoot off the dribble forces difficult defensive reads from opponents",
       "team": "Memphis Grizzlies",
       "structured": {
         "speaker_role": "coach",
@@ -135,7 +135,7 @@
         "topics": [
           "teammates"
         ],
-        "context": "Tuomas Iisalo highlights the shooting efficiency and offensive versatility provided by Cam Spencer, Ty, and Javon off the bench.",
+        "context": "Coach Tuomas Iisalo highlights the shooting efficiency and offensive contributions of Cam Spencer, Ty, and Javon.",
         "best": false,
         "prompt": "47544341"
       }
@@ -143,57 +143,25 @@
     {
       "rank": 5,
       "speaker": "Tuomas Iisalo",
-      "timestamp": "04:46",
-      "summary_phrase": "Cam Spencer's improved decision-making and risk-taking",
-      "names_mentioned": [
-        "Cam Spencer"
-      ],
-      "excerpt": "His turnovers are up this year and I'm super excited about that because last year I thought",
-      "quote": "His turnovers are up this year and I'm super excited about that because last year I thought he was a bit risk-averse and he had extremely high assist-to-turnover ratio. We talked about this during the off-season and heading into this season that that's one of the things where he can improve. The best creators have higher turnover numbers because they also look for the higher leverage, the higher value passes and he's had multiple of those where he skips it to the other side instead of making the safest pass.",
-      "text_blocks": [],
-      "start_seconds": 286,
-      "end_seconds": 321,
-      "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 3,
-      "social_post": "Tuomas Iisalo says he is actually excited that Cam Spencer's turnovers are up this year. He explained that Spencer was too risk averse last season and is now making higher value passes.",
-      "team": "Memphis Grizzlies",
-      "structured": {
-        "speaker_role": "coach",
-        "subjects": [
-          "Cam Spencer"
-        ],
-        "teams": [
-          "MEM"
-        ],
-        "topics": [],
-        "context": "Tuomas Iisalo explains why he is pleased with Cam Spencer's increased turnover numbers, viewing them as a sign of more aggressive playmaking.",
-        "best": false,
-        "prompt": "47544341"
-      }
-    },
-    {
-      "rank": 6,
-      "speaker": "Tuomas Iisalo",
-      "timestamp": "06:00",
-      "summary_phrase": "Zack Edey's role in communicating his injury status",
+      "timestamp": "05:41",
+      "summary_phrase": "Zack Edey's ankle injury and precautionary management",
       "names_mentioned": [
         "Zack Edey"
       ],
-      "excerpt": "Of course he would say that first. We are not there every minute asking how his ankle",
-      "quote": "Of course he would say that first. We are not there every minute asking how his ankle is doing so he relayed that message and then the decision was made.",
+      "excerpt": "We are not there every minute asking how his ankle is doing, so he relayed that message",
+      "quote": "We are not there every minute asking how his ankle is doing, so he relayed that message and then the decision was made.",
       "text_blocks": [],
-      "start_seconds": 360,
-      "end_seconds": 372,
+      "start_seconds": 341,
+      "end_seconds": 350,
       "speaker_confidence": "named",
-      "news_score": 7,
+      "news_score": 8,
       "social_score": 2,
-      "social_post": "Tuomas Iisalo clarifies that the decision to sit Zach Edey was based on the player communicating his own status: We are not there every minute asking how his ankle is doing so he relayed that message.",
+      "social_post": "Tuomas Iisalo clarifies that the decision to sit Zach Edey was made after the player relayed concerns about his ankle soreness to the staff",
       "team": "Memphis Grizzlies",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
-          "Zack Edey"
+          "Zach Edey"
         ],
         "teams": [
           "MEM"
@@ -201,7 +169,35 @@
         "topics": [
           "injuries"
         ],
-        "context": "Tuomas Iisalo clarifies that the decision to sit Zack Edey was based on the player communicating his ankle soreness to the coaching staff.",
+        "context": "Coach Tuomas Iisalo clarifies the communication process regarding Zach Edey's ankle injury management.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "06:33",
+      "summary_phrase": "Tuomas Iisalo on gratitude for his family and career",
+      "names_mentioned": [],
+      "excerpt": "I'm extremely grateful for my family and for the support. You guys see me coming in",
+      "quote": "I'm extremely grateful for my family and for the support. You guys see me coming in to work here every day and do these press conferences or games, but we've lived abroad from our homeland for the last 10 years. I think this is the 11th year that we're away from Finland and our youngest one was born in Germany. We've lived there and my wife left the tenured position as a doctor for me to pursue something that was back then a passion and now is supporting the whole family. I've always thought of it more as a family business instead of it became something different.",
+      "text_blocks": [],
+      "start_seconds": 393,
+      "end_seconds": 434,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 9,
+      "social_post": "Tuomas Iisalo reflects on his career journey and the sacrifices his family has made: I have always thought of it more as a family business instead of it becoming something different",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Coach Tuomas Iisalo expresses gratitude for his family's support throughout his coaching career abroad.",
         "best": false,
         "prompt": "47544341"
       }
@@ -217,7 +213,7 @@
   "channel_team": "Memphis Grizzlies",
   "published": "2026-11-26T03:57:48Z",
   "duration_seconds": 522,
-  "processed_at": "2026-11-26T09:41:25Z",
+  "processed_at": "2026-11-26T09:45:08Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

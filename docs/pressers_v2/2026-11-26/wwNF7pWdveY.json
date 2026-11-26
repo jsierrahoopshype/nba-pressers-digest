@@ -12,11 +12,9 @@
         "Unidentified reporter",
         "Deni Avdija"
       ],
-      "timestamp": "00:02",
-      "summary_phrase": "Deni Avdija on the team's collective effort in the win",
-      "names_mentioned": [
-        "Deni Avdija"
-      ],
+      "timestamp": "00:03",
+      "summary_phrase": "Deni Avdija on team effort and defensive execution in close win",
+      "names_mentioned": [],
       "excerpt": "We stayed together. We gave all our effort defensively, offensively. Coaching staff, everybody was locked in today.",
       "text_blocks": [
         {
@@ -28,12 +26,12 @@
           "text": "We stayed together. We gave all our effort defensively, offensively. Coaching staff, everybody was locked in today."
         }
       ],
-      "start_seconds": 2,
-      "end_seconds": 17,
+      "start_seconds": 3,
+      "end_seconds": 18,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Deni Avdija on the Blazers win over the Spurs: We stayed together. We gave all our effort defensively, offensively. Coaching staff, everybody was locked in today.",
+      "social_post": "Deni Avdija on the Blazers close win over the Spurs: We stayed together. We gave all our effort defensively, offensively. Coaching staff, everybody was locked in today.",
       "team": "Portland Trail Blazers",
       "structured": {
         "speaker_role": "player",
@@ -55,11 +53,9 @@
         "Deni Avdija"
       ],
       "timestamp": "00:17",
-      "summary_phrase": "Deni Avdija on the importance of team defense",
-      "names_mentioned": [
-        "Deni Avdija"
-      ],
-      "excerpt": "We were connected today defensively. We did what we needed to do. Shout out to everybody.",
+      "summary_phrase": "Deni Avdija credits team defensive connection for late-game stops",
+      "names_mentioned": [],
+      "excerpt": "We were connected today defensively. We did what we needed to do. Shout out to everybody on the team.",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
@@ -67,15 +63,15 @@
         },
         {
           "speaker": "Deni Avdija",
-          "text": "Team defense, as I said, we were connected today defensively. We did what we needed to do. Shout out to everybody on the team. And that's about it. I'm pretty exhausted."
+          "text": "We were connected today defensively. We did what we needed to do. Shout out to everybody on the team. And that's about it. I'm pretty exhausted."
         }
       ],
       "start_seconds": 17,
-      "end_seconds": 36,
+      "end_seconds": 34,
       "speaker_confidence": "named",
-      "news_score": 4,
-      "social_score": 2,
-      "social_post": "Deni Avdija on the defensive stops down the stretch: We were connected today defensively. We did what we needed to do. Shout out to everybody on the team. And that is about it. I am pretty exhausted.",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Deni Avdija on the late defensive stops that secured the win: We were connected today defensively. We did what we needed to do. Shout out to everybody on the team. And that is about it. I am pretty exhausted.",
       "team": "Portland Trail Blazers",
       "structured": {
         "speaker_role": "player",
@@ -84,7 +80,7 @@
           "POR"
         ],
         "topics": [],
-        "context": "Deni Avdija discusses the importance of the team defensive effort in the final minutes of the game.",
+        "context": "Deni Avdija discusses the importance of the team's defensive effort during the final minutes of the game.",
         "best": false,
         "prompt": "47544341"
       }
@@ -96,28 +92,26 @@
         "Unidentified reporter",
         "Deni Avdija"
       ],
-      "timestamp": "00:43",
-      "summary_phrase": "Deni Avdija on the support from the Portland fans",
-      "names_mentioned": [
-        "Deni Avdija"
-      ],
-      "excerpt": "I definitely feel the love and we want them to come every night and support.",
+      "timestamp": "00:41",
+      "summary_phrase": "Deni Avdija on fan support and team connection",
+      "names_mentioned": [],
+      "excerpt": "I definitely feel the love and we want them to come every night and support and be loud.",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
-          "text": "But everyone in this building are Deni fans. Could you feel the love tonight?"
+          "text": "Everyone in this building are Deni fans. Could you feel the love tonight?"
         },
         {
           "speaker": "Deni Avdija",
           "text": "I definitely feel the love and we want them to come every night and support and be loud because they're a part of us and we love them."
         }
       ],
-      "start_seconds": 43,
-      "end_seconds": 59,
+      "start_seconds": 41,
+      "end_seconds": 57,
       "speaker_confidence": "named",
       "news_score": 3,
-      "social_score": 3,
-      "social_post": "Deni Avdija on the Portland crowd: I definitely feel the love and we want them to come every night and support and be loud because they are a part of us and we love them.",
+      "social_score": 4,
+      "social_post": "Deni Avdija on the home crowd support in Portland: I definitely feel the love and we want them to come every night and support and be loud because they are a part of us and we love them.",
       "team": "Portland Trail Blazers",
       "structured": {
         "speaker_role": "player",
@@ -126,7 +120,7 @@
           "POR"
         ],
         "topics": [],
-        "context": "Deni Avdija reacts to a question about the support received from the Portland home crowd.",
+        "context": "Deni Avdija reacts to a question about the fan support he felt during the game.",
         "best": false,
         "prompt": "47544341"
       }
@@ -142,7 +136,7 @@
   "channel_team": "Portland Trail Blazers",
   "published": "2026-11-26T06:05:01Z",
   "duration_seconds": 63,
-  "processed_at": "2026-11-26T09:39:45Z",
+  "processed_at": "2026-11-26T09:44:11Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

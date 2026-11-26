@@ -17,11 +17,9 @@
         "Ty Jerome"
       ],
       "timestamp": "00:07",
-      "summary_phrase": "Ty Jerome on Memphis Grizzlies' resilience and team depth",
-      "names_mentioned": [
-        "Ty Jerome"
-      ],
-      "excerpt": "we got 18 guys that can all really play, so next man up mentality for us",
+      "summary_phrase": "Ty Jerome on the Grizzlies' team chemistry and next-man-up mentality",
+      "names_mentioned": [],
+      "excerpt": "We got 18 guys that can all really play, so next-man-up mentality for us for sure.",
       "quote": "",
       "text_blocks": [
         {
@@ -30,7 +28,7 @@
         },
         {
           "speaker": "Ty Jerome",
-          "text": "Basketball is a game of runs. They got a good team over there, so we knew they were going to make a run. We just had to get back to playing our brand of basketball at half. At halftime, I told everyone we got a brand new ball game on our hands, and we came out and we made a run to start this half."
+          "text": "Basketball is a game of runs. They got a good team over there, so we knew they were going to make a run. We just had to get back to playing our brand of basketball at half. At halftime, I told everyone we got a brand new ballgame on our hands and we came out and we made a run to start this half."
         },
         {
           "speaker": "Unidentified reporter",
@@ -38,7 +36,7 @@
         },
         {
           "speaker": "Ty Jerome",
-          "text": "I thought we got a lot of good shots, and they're not always going to go in, so you just keep taking them with confidence, and then we made enough."
+          "text": "I thought we got a lot of good shots and they're not always going to go in, so you just keep taking them with confidence and then we made enough."
         },
         {
           "speaker": "Unidentified reporter",
@@ -46,24 +44,25 @@
         },
         {
           "speaker": "Ty Jerome",
-          "text": "I've been saying it all year since training camp. We got 18 guys that can all really play, so next man up mentality for us for sure."
+          "text": "I've been saying it all year since training camp. We got 18 guys that can all really play, so next-man-up mentality for us for sure."
         }
       ],
       "start_seconds": 7,
-      "end_seconds": 90,
+      "end_seconds": 89,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Ty Jerome on the Grizzlies resilience after a hot start against the Clippers: We just had to get back to playing our brand of basketball and we made a run to start the half.",
+      "social_post": "Ty Jerome on the Grizzlies maintaining consistency despite injuries: We got 18 guys that can all really play, so next-man-up mentality for us for sure.",
       "team": "Memphis Grizzlies",
       "structured": {
         "speaker_role": "player",
         "subjects": [],
         "teams": [
-          "MEM"
+          "MEM",
+          "LAC"
         ],
         "topics": [],
-        "context": "Ty Jerome discusses the Grizzlies' ability to maintain consistency and team depth despite various injuries during a post-game interview.",
+        "context": "Ty Jerome discusses the Grizzlies' ability to maintain consistency and their next-man-up mentality during a post-game interview after defeating the Clippers.",
         "best": false,
         "prompt": "47544341"
       }
@@ -79,7 +78,7 @@
   "channel_team": "Memphis Grizzlies",
   "published": "2026-11-26T03:37:11Z",
   "duration_seconds": 90,
-  "processed_at": "2026-11-26T09:41:14Z",
+  "processed_at": "2026-11-26T09:45:13Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

@@ -8,42 +8,27 @@
     {
       "rank": 1,
       "speaker": "Jaden McDaniels",
-      "speakers": [
-        "Unidentified reporter",
-        "Jaden McDaniels"
-      ],
-      "timestamp": "00:00",
-      "summary_phrase": "Jaden McDaniels on the Timberwolves' undefeated start in cup play",
-      "names_mentioned": [
-        "Jaden McDaniels"
-      ],
+      "timestamp": "00:05",
+      "summary_phrase": "Jaden McDaniels on the Timberwolves' undefeated cup play success",
+      "names_mentioned": [],
       "excerpt": "I don't think we've ever been 3-0 in cup play, so just another step closer to the money.",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "How does it feel to know that you're going to be playing Memphis for the finals?"
-        },
-        {
-          "speaker": "Jaden McDaniels",
-          "text": "It feels good. I don't think we've ever been 3-0 in cup play, so just another step closer to the money, and just go ahead and handle business that game."
-        }
-      ],
-      "start_seconds": 0,
-      "end_seconds": 18,
+      "quote": "It feels good. I don't think we've ever been 3-0 in cup play, so just another step closer to the money, and just go ahead and handle business that game.",
+      "text_blocks": [],
+      "start_seconds": 5,
+      "end_seconds": 17,
       "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 3,
-      "social_post": "Jaden McDaniels on the Timberwolves moving to 3-0 in cup play: It is just another step closer to the money and we just have to go ahead and handle business.",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on the Timberwolves being 3-0 in cup play: It feels good. I don't think we have ever been 3-0 in cup play, so just another step closer to the money, and just go ahead and handle business that game.",
       "team": "Minnesota Timberwolves",
       "structured": {
         "speaker_role": "player",
         "subjects": [],
         "teams": [
-          "MIN",
-          "MEM"
+          "MIN"
         ],
         "topics": [],
-        "context": "Jaden McDaniels discusses the Timberwolves reaching the NBA Cup finals after a win against Memphis.",
+        "context": "Jaden McDaniels discusses the Timberwolves' 3-0 record in NBA Cup play following a game.",
         "best": false,
         "prompt": "47544341"
       }
@@ -51,33 +36,20 @@
     {
       "rank": 2,
       "speaker": "Jaden McDaniels",
-      "speakers": [
-        "Unidentified reporter",
-        "Jaden McDaniels"
-      ],
-      "timestamp": "00:15",
-      "summary_phrase": "Jaden McDaniels on defensive execution and limiting Shai Gilgeous-Alexander",
+      "timestamp": "00:22",
+      "summary_phrase": "Jaden McDaniels on defensive focus and containing Shai Gilgeous-Alexander",
       "names_mentioned": [
-        "Jaden McDaniels",
         "Shai Gilgeous-Alexander"
       ],
       "excerpt": "Really just defense at the end and then holding them to one shot.",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "Talk about the back-and-forth game. What was the difference for you guys?"
-        },
-        {
-          "speaker": "Jaden McDaniels",
-          "text": "Really just defense at the end and then holding them to one shot and just taking what they give us. We get out in transition, get easy points, and then just making it hard for Shai Gilgeous-Alexander and really the whole team."
-        }
-      ],
-      "start_seconds": 15,
-      "end_seconds": 36,
+      "quote": "Really just defense at the end and then holding them to one shot and just taking what they give us. We get out in transition, get easy points, and then just making it hard for Shai Gilgeous-Alexander and really the whole team.",
+      "text_blocks": [],
+      "start_seconds": 22,
+      "end_seconds": 38,
       "speaker_confidence": "named",
-      "news_score": 6,
-      "social_score": 3,
-      "social_post": "Jaden McDaniels on the keys to beating OKC: Really just defense at the end and holding them to one shot. We get out in transition, get easy points, and make it hard for Shai Gilgeous-Alexander.",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on the defensive plan against OKC: Really just defense at the end and then holding them to one shot and just taking what they give us. We get out in transition, get easy points, and then just making it hard for Shai.",
       "team": "Minnesota Timberwolves",
       "structured": {
         "speaker_role": "player",
@@ -89,7 +61,7 @@
           "OKC"
         ],
         "topics": [],
-        "context": "Jaden McDaniels explains the defensive strategy used to limit Shai Gilgeous-Alexander and the Thunder.",
+        "context": "Jaden McDaniels explains the defensive strategy used to contain Shai Gilgeous-Alexander and the Thunder.",
         "best": false,
         "prompt": "47544341"
       }
@@ -97,78 +69,20 @@
     {
       "rank": 3,
       "speaker": "Jaden McDaniels",
-      "speakers": [
-        "Unidentified reporter",
-        "Jaden McDaniels"
-      ],
-      "timestamp": "00:34",
-      "summary_phrase": "Jaden McDaniels on teammate's injury and maintaining focus",
+      "timestamp": "01:08",
+      "summary_phrase": "Jaden McDaniels on his comfort level with late-game playmaking",
       "names_mentioned": [
-        "Jaden McDaniels"
-      ],
-      "excerpt": "Another man down, you don't ever want to see your teammate get hurt.",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "Can you talk about the injury or what you saw?"
-        },
-        {
-          "speaker": "Jaden McDaniels",
-          "text": "I didn't really see it, but another man down, you don't ever want to see your teammate get hurt. So trying not to dwell on it. We still had a game to win, so trying to quickly forget about it."
-        }
-      ],
-      "start_seconds": 34,
-      "end_seconds": 53,
-      "speaker_confidence": "named",
-      "news_score": 7,
-      "social_score": 3,
-      "social_post": "Jaden McDaniels on a teammate suffering an injury during the game: You do not ever want to see your teammate get hurt. We still had a game to win, so I am trying to quickly forget about it.",
-      "team": "Minnesota Timberwolves",
-      "structured": {
-        "speaker_role": "player",
-        "subjects": [],
-        "teams": [
-          "MIN"
-        ],
-        "topics": [
-          "injuries",
-          "teammates"
-        ],
-        "context": "Jaden McDaniels reacts to a teammate suffering an injury during the game.",
-        "best": false,
-        "prompt": "47544341"
-      }
-    },
-    {
-      "rank": 4,
-      "speaker": "Jaden McDaniels",
-      "speakers": [
-        "Unidentified reporter",
-        "Jaden McDaniels"
-      ],
-      "timestamp": "00:55",
-      "summary_phrase": "Jaden McDaniels on his role in the fourth quarter offense",
-      "names_mentioned": [
-        "Jaden McDaniels",
         "Rudy Gobert"
       ],
-      "excerpt": "They trust me to make the right decision, and I trust myself as well.",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "How much do you look forward to those opportunities to make plays for yourself and others?"
-        },
-        {
-          "speaker": "Jaden McDaniels",
-          "text": "I look forward to it. That's something I like. They trust me to make the right decision, and I trust myself as well, whether to shoot, pass it out, throw a lob to Rudy Gobert, and I did it like all three in them possessions. So just continuing to be confident in what I do."
-        }
-      ],
-      "start_seconds": 55,
-      "end_seconds": 82,
+      "excerpt": "They trust me to make the right decision and I trust myself as well.",
+      "quote": "I look forward to it. That's something I like. They trust me to make the right decision and I trust myself as well, as whether to shoot, pass it out, throw a lob to Rudy Gobert, and I did it like all three in those possessions. So just continuing to be confident in what I do.",
+      "text_blocks": [],
+      "start_seconds": 68,
+      "end_seconds": 90,
       "speaker_confidence": "named",
       "news_score": 6,
-      "social_score": 4,
-      "social_post": "Jaden McDaniels on his increased playmaking role: They trust me to make the right decision, and I trust myself as well, whether to shoot, pass it out, or throw a lob to Rudy Gobert. I am continuing to be confident in what I do.",
+      "social_score": 3,
+      "social_post": "Jaden McDaniels on his late game playmaking: They trust me to make the right decision and I trust myself as well, as whether to shoot, pass it out, throw a lob to Rudy Gobert, and I did it like all three in those possessions.",
       "team": "Minnesota Timberwolves",
       "structured": {
         "speaker_role": "player",
@@ -181,84 +95,28 @@
         "topics": [
           "teammates"
         ],
-        "context": "Jaden McDaniels discusses his decision-making process and playmaking role in the fourth quarter.",
+        "context": "Jaden McDaniels reflects on his comfort level and decision-making during late-game possessions involving Rudy Gobert.",
         "best": false,
         "prompt": "47544341"
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "speaker": "Jaden McDaniels",
-      "speakers": [
-        "Unidentified reporter",
-        "Jaden McDaniels"
-      ],
-      "timestamp": "01:22",
-      "summary_phrase": "Jaden McDaniels on his individual success and season progress",
+      "timestamp": "01:51",
+      "summary_phrase": "Jaden McDaniels on his defensive strategy against Shai Gilgeous-Alexander",
       "names_mentioned": [
-        "Jaden McDaniels"
-      ],
-      "excerpt": "You got to keep doing it all year, all season, so it's just two games.",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "How are you processing the level that you have reached here this season?"
-        },
-        {
-          "speaker": "Jaden McDaniels",
-          "text": "It's just another day for me. You got to keep doing it all year, all season, so it's just two games. Whatever, I mean, games, it's just another day. Just got to worry about Memphis for real."
-        }
-      ],
-      "start_seconds": 82,
-      "end_seconds": 101,
-      "speaker_confidence": "named",
-      "news_score": 4,
-      "social_score": 2,
-      "social_post": "Jaden McDaniels on his early season performance: It is just another day for me. You have to keep doing it all year, all season, so it is just two games. I just have to worry about Memphis for real.",
-      "team": "Minnesota Timberwolves",
-      "structured": {
-        "speaker_role": "player",
-        "subjects": [],
-        "teams": [
-          "MIN",
-          "MEM"
-        ],
-        "topics": [],
-        "context": "Jaden McDaniels reflects on his individual performance and the upcoming game against Memphis.",
-        "best": false,
-        "prompt": "47544341"
-      }
-    },
-    {
-      "rank": 6,
-      "speaker": "Jaden McDaniels",
-      "speakers": [
-        "Unidentified reporter",
-        "Jaden McDaniels"
-      ],
-      "timestamp": "01:43",
-      "summary_phrase": "Jaden McDaniels on defensive strategy against Shai Gilgeous-Alexander",
-      "names_mentioned": [
-        "Jaden McDaniels",
         "Shai Gilgeous-Alexander"
       ],
       "excerpt": "When he didn't have the ball, just deny him so he doesn't get it back.",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "What do you think worked against Shai Gilgeous-Alexander?"
-        },
-        {
-          "speaker": "Jaden McDaniels",
-          "text": "Really just trying to pressure him. When he didn't have the ball, just deny him so he doesn't get it back. He's a good player, he's got two MVPs, so he can do everything on the court."
-        }
-      ],
-      "start_seconds": 103,
-      "end_seconds": 120,
+      "quote": "Really just trying to pressure him. I'll say what worked for me is just when he didn't have the ball, just deny him so he doesn't get it back. And then really, he's a good player. He's got two MVPs, so he can do everything on the court, shoot threes, do everything. So it's just a props to him and his work.",
+      "text_blocks": [],
+      "start_seconds": 111,
+      "end_seconds": 135,
       "speaker_confidence": "named",
-      "news_score": 6,
+      "news_score": 5,
       "social_score": 3,
-      "social_post": "Jaden McDaniels on defending Shai Gilgeous-Alexander: Really just trying to pressure him. When he did not have the ball, just deny him so he does not get it back. He is a good player, he has two MVPs, so he can do everything.",
+      "social_post": "Jaden McDaniels on defending Shai Gilgeous-Alexander: What worked for me is just when he did not have the ball, just deny him so he does not get it back. He is a good player, he has two MVPs, so he can do everything on the court.",
       "team": "Minnesota Timberwolves",
       "structured": {
         "speaker_role": "player",
@@ -270,84 +128,26 @@
           "OKC"
         ],
         "topics": [],
-        "context": "Jaden McDaniels describes the defensive tactics employed to pressure Shai Gilgeous-Alexander.",
+        "context": "Jaden McDaniels details his specific defensive approach to denying the ball to Shai Gilgeous-Alexander.",
         "best": false,
         "prompt": "47544341"
       }
     },
     {
-      "rank": 7,
+      "rank": 5,
       "speaker": "Jaden McDaniels",
-      "speakers": [
-        "Unidentified reporter",
-        "Jaden McDaniels"
-      ],
-      "timestamp": "02:09",
-      "summary_phrase": "Jaden McDaniels on his offensive growth and team trust",
-      "names_mentioned": [
-        "Jaden McDaniels"
-      ],
-      "excerpt": "My team, the coaches are trusting me, just seeing the work I put in over the years.",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "How much of your offensive production is you improving and how much is more opportunity?"
-        },
-        {
-          "speaker": "Jaden McDaniels",
-          "text": "A little bit of both, but mostly just more opportunity. My team, the coaches are trusting me, just seeing the work I put in over the years to build that trust, and now I just get to play free."
-        }
-      ],
-      "start_seconds": 129,
-      "end_seconds": 150,
+      "timestamp": "02:19",
+      "summary_phrase": "Jaden McDaniels on his offensive development and increased opportunities",
+      "names_mentioned": [],
+      "excerpt": "The coaches are trusting me, just seeing the work I put in over the years.",
+      "quote": "A little bit of both, but mostly just more opportunity. I'll say my team, the coaches are trusting me, just seeing the work I put in over the years to build that trust, and now I just get to play free.",
+      "text_blocks": [],
+      "start_seconds": 139,
+      "end_seconds": 155,
       "speaker_confidence": "named",
-      "news_score": 6,
+      "news_score": 5,
       "social_score": 3,
-      "social_post": "Jaden McDaniels on his offensive growth: It is mostly just more opportunity. My team and the coaches are trusting me, just seeing the work I put in over the years to build that trust, and now I just get to play free.",
-      "team": "Minnesota Timberwolves",
-      "structured": {
-        "speaker_role": "player",
-        "subjects": [],
-        "teams": [
-          "MIN"
-        ],
-        "topics": [
-          "coaching decisions"
-        ],
-        "context": "Jaden McDaniels attributes his offensive production to increased opportunities and trust from the coaching staff.",
-        "best": false,
-        "prompt": "47544341"
-      }
-    },
-    {
-      "rank": 8,
-      "speaker": "Jaden McDaniels",
-      "speakers": [
-        "Unidentified reporter",
-        "Jaden McDaniels"
-      ],
-      "timestamp": "02:33",
-      "summary_phrase": "Jaden McDaniels on staying calm during late-game situations",
-      "names_mentioned": [
-        "Jaden McDaniels"
-      ],
-      "excerpt": "I'll be excited, but I'll be calm at the same time and just knowing these are the games.",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "How do you feel late in games? Do you get excited or nervous?"
-        },
-        {
-          "speaker": "Jaden McDaniels",
-          "text": "I'll be excited, but I'll be calm at the same time and just knowing these are the games we want to play. To be a good team, we got to win games like this, going back and forth up 10, down 10, and just continue to stay with it."
-        }
-      ],
-      "start_seconds": 153,
-      "end_seconds": 177,
-      "speaker_confidence": "named",
-      "news_score": 4,
-      "social_score": 3,
-      "social_post": "Jaden McDaniels on staying calm in late game situations: I will be excited, but I will be calm at the same time. To be a good team, we have to win games like this, going back and forth, and just continue to stay with it.",
+      "social_post": "Jaden McDaniels on his offensive growth: Mostly just more opportunity. My team, the coaches are trusting me, just seeing the work I put in over the years to build that trust, and now I just get to play free.",
       "team": "Minnesota Timberwolves",
       "structured": {
         "speaker_role": "player",
@@ -356,40 +156,54 @@
           "MIN"
         ],
         "topics": [],
-        "context": "Jaden McDaniels discusses his mindset and ability to stay calm during high-pressure late-game situations.",
+        "context": "Jaden McDaniels discusses his offensive growth and the increased trust he has earned from the coaching staff.",
         "best": false,
         "prompt": "47544341"
       }
     },
     {
-      "rank": 9,
+      "rank": 6,
       "speaker": "Jaden McDaniels",
-      "speakers": [
-        "Unidentified reporter",
-        "Jaden McDaniels"
-      ],
-      "timestamp": "02:59",
-      "summary_phrase": "Jaden McDaniels on rediscovering defensive intensity",
-      "names_mentioned": [
-        "Jaden McDaniels"
-      ],
-      "excerpt": "We got slow on offense, not running the right sets, but we got back in the game.",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "What did you sense slip and how did you rediscover the defense?"
-        },
-        {
-          "speaker": "Jaden McDaniels",
-          "text": "We were just giving them second chances and then we got slow on offense, not running the right sets, but as we did in the third quarter, got out in transition, ran the right plays, ran the certain things coach wanted, and then we got back in the game."
-        }
-      ],
-      "start_seconds": 179,
-      "end_seconds": 202,
+      "timestamp": "02:43",
+      "summary_phrase": "Jaden McDaniels on maintaining composure in high-stakes games",
+      "names_mentioned": [],
+      "excerpt": "I'd be excited, but I'd be calm at the same time.",
+      "quote": "I'd be calm. I mean, I'd be excited, but I'd be calm at the same time, and just knowing these are the games we want to play. To be a good team, we've got to win games like this, going back and forth up 10, down 10, and just continue to stay with it.",
+      "text_blocks": [],
+      "start_seconds": 163,
+      "end_seconds": 184,
       "speaker_confidence": "named",
-      "news_score": 5,
+      "news_score": 4,
       "social_score": 2,
-      "social_post": "Jaden McDaniels on the team's defensive turnaround: We were giving them second chances and got slow on offense, but we got back in the game by running the right sets and the certain things coach wanted.",
+      "social_post": "Jaden McDaniels on staying composed: I would be calm. I mean, I would be excited, but I would be calm at the same time, and just knowing these are the games we want to play. To be a good team, we have got to win games like this.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jaden McDaniels describes his mindset and composure during high-stakes, back-and-forth games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jaden McDaniels",
+      "timestamp": "03:35",
+      "summary_phrase": "Jaden McDaniels on the team's collective defensive effort",
+      "names_mentioned": [],
+      "excerpt": "Everybody's giving effort, everybody's playing.",
+      "quote": "Because everybody's giving effort, I'll say that. Everybody's playing. It doesn't matter if I take the best player, they're still giving the same effort, and I feel like we're following the coaching plan that they give us and we're just executing it well.",
+      "text_blocks": [],
+      "start_seconds": 215,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jaden McDaniels on the team defensive effort: Because everybody is giving effort. It does not matter if I take the best player, they are still giving the same effort, and I feel like we are following the coaching plan.",
       "team": "Minnesota Timberwolves",
       "structured": {
         "speaker_role": "player",
@@ -400,51 +214,7 @@
         "topics": [
           "coaching decisions"
         ],
-        "context": "Jaden McDaniels explains how the team rediscovered their defensive intensity and executed the coach's plan.",
-        "best": false,
-        "prompt": "47544341"
-      }
-    },
-    {
-      "rank": 10,
-      "speaker": "Jaden McDaniels",
-      "speakers": [
-        "Unidentified reporter",
-        "Jaden McDaniels"
-      ],
-      "timestamp": "03:26",
-      "summary_phrase": "Jaden McDaniels on the Timberwolves' defensive success",
-      "names_mentioned": [
-        "Jaden McDaniels"
-      ],
-      "excerpt": "Everybody's giving effort, everybody's playing, it doesn't matter if I take the best player.",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified reporter",
-          "text": "Why do you think this team has the kind of success on defense that you have?"
-        },
-        {
-          "speaker": "Jaden McDaniels",
-          "text": "Because everybody's giving effort, everybody's playing, it doesn't matter if I take the best player, everybody's giving the same effort, and I feel like we're following the coaching plan that they give us and we're just executing it well."
-        }
-      ],
-      "start_seconds": 206,
-      "end_seconds": 227,
-      "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 2,
-      "social_post": "Jaden McDaniels on the Timberwolves defensive identity: Everybody is giving effort. It does not matter if I take the best player, everybody is giving the same effort and we are following the coaching plan.",
-      "team": "Minnesota Timberwolves",
-      "structured": {
-        "speaker_role": "player",
-        "subjects": [],
-        "teams": [
-          "MIN"
-        ],
-        "topics": [
-          "coaching decisions"
-        ],
-        "context": "Jaden McDaniels credits the team's defensive success to collective effort and following the coaching staff's game plan.",
+        "context": "Jaden McDaniels credits the team's collective defensive effort and execution of the coaching staff's game plan.",
         "best": false,
         "prompt": "47544341"
       }
@@ -460,7 +230,7 @@
   "channel_team": "Minnesota Timberwolves",
   "published": "2026-11-26T04:55:42Z",
   "duration_seconds": 239,
-  "processed_at": "2026-11-26T09:40:24Z",
+  "processed_at": "2026-11-26T09:44:27Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

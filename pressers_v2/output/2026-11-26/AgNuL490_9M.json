@@ -7,18 +7,18 @@
     {
       "rank": 1,
       "speaker": "Kevin Durant",
-      "timestamp": "00:04",
-      "summary_phrase": "Kevin Durant on the team's fourth-quarter offensive execution",
+      "timestamp": "00:05",
+      "summary_phrase": "Kevin Durant on the Suns' fourth quarter performance against Houston",
       "names_mentioned": [],
-      "excerpt": "we just kept the ball in our hands and made them shoot over us",
-      "quote": "We hit some timely shots. We got stops. I know that sounds cliché and simple, but we gave up two and-ones to start the fourth quarter. We turned the ball over probably three times. So I think we just kept the ball in our hands and made them shoot over us and not foul, and we were able to cruise to the win.",
+      "excerpt": "we gave up two and ones to start the fourth quarter. We turned the ball over probably three times.",
+      "quote": "We hit some timely shots, we got stops. I know that sounds cliché and simple, but we gave up two and ones to start the fourth quarter. We turned the ball over probably three times. So I think we just kept the ball in our hands and made them shoot over us and not foul, and we were able to cruise to the win. I think we had the game under control from the end of the second quarter on into the fourth, and they kind of took control to start the fourth, but overall it's a good team win.",
       "verbatim_original_language": "",
-      "start_seconds": 4,
-      "end_seconds": 28,
+      "start_seconds": 5,
+      "end_seconds": 43,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Kevin Durant on the Suns fourth quarter adjustments against the Rockets: We hit some timely shots and got stops. We turned the ball over a few times early but kept the ball in our hands and made them shoot over us.",
+      "social_post": "Kevin Durant on the Suns closing out the Rockets: We hit some timely shots and got stops. We had the game under control from the end of the second quarter on.",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "player",
@@ -28,7 +28,7 @@
           "HOU"
         ],
         "topics": [],
-        "context": "Kevin Durant discusses the Phoenix Suns' offensive and defensive execution during the fourth quarter of their game against the Houston Rockets.",
+        "context": "Kevin Durant discusses the Suns' performance during the fourth quarter of their game against the Houston Rockets.",
         "best": false,
         "prompt": "47544341"
       }
@@ -37,22 +37,17 @@
       "rank": 2,
       "speaker": "Kevin Durant",
       "timestamp": "00:49",
-      "summary_phrase": "Kevin Durant on reaching 33,000 career points",
-      "names_mentioned": [
-        "LeBron James",
-        "K. Abdul-Jabbar",
-        "K. Malone",
-        "K. Bryant"
-      ],
-      "excerpt": "I try not to make it about myself in there. I understand that it's rare",
-      "quote": "I try not to make it about myself in there. I understand that it's rare to hit these type of accomplishments and I don't ever want to undersell it, but we're playing a team game and it's not about me most of the time. That's why I love my teammates who take a minute to celebrate anybody on individual accomplishments. We celebrate Alpi with his triple-double tonight. We've been doing that since I've been here. But someone who tried to just be one of the guys, I try not to make a big deal out of it.",
+      "summary_phrase": "Kevin Durant on his historic scoring milestone and team focus",
+      "names_mentioned": [],
+      "excerpt": "I try not to make it about myself in there. I understand that it's rare to hit these type of accomplishments.",
+      "quote": "It's cool. I try not to make it about myself in there. I understand that it's rare to hit these type of accomplishments and I don't ever want to undersell it, but we're playing a team game and it's not about me most of the time. That's why I love my teammates who take a minute to celebrate anybody on individual accomplishments. We celebrated Alperen Sengun with his triple-double tonight. We've been doing that since I've been here. But somebody who try to just be one of the guys, I try not to make a big deal out of it.",
       "verbatim_original_language": "",
       "start_seconds": 49,
-      "end_seconds": 86,
+      "end_seconds": 87,
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 4,
-      "social_post": "Kevin Durant on reaching 33,000 career points: I try not to make it about myself. It is rare to hit these accomplishments and I do not want to undersell it, but we are playing a team game and it is not about me most of the time.",
+      "social_post": "Kevin Durant on his latest scoring milestone: It is cool. I try not to make it about myself. I love my teammates who take a minute to celebrate anybody on individual accomplishments.",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "player",
@@ -66,7 +61,7 @@
         "topics": [
           "teammates"
         ],
-        "context": "Kevin Durant reflects on reaching 33,000 career points and praises his teammates for celebrating individual accomplishments like Alperen Sengun's triple-double.",
+        "context": "Kevin Durant reflects on his recent scoring milestone and the team's culture of celebrating individual accomplishments like Alperen Sengun's triple-double.",
         "best": false,
         "prompt": "47544341"
       }
@@ -75,9 +70,9 @@
       "rank": 3,
       "speaker": "Kevin Durant",
       "timestamp": "01:22",
-      "summary_phrase": "Kevin Durant on what he does with game balls",
+      "summary_phrase": "Kevin Durant on what he does with his game balls",
       "names_mentioned": [],
-      "excerpt": "I give them to my mom, I give them to my close friends, my agents",
+      "excerpt": "I give them to my mom, I give them to my close friends, my agents.",
       "quote": "I give them to my mom, I give them to my close friends, my agents, because they know I don't really lose track of them if I don't give them to them. I don't ever want to undersell some of that stuff, but I'm about to experience, like I've been through it, so it's cool enough for me.",
       "verbatim_original_language": "",
       "start_seconds": 82,
@@ -85,7 +80,7 @@
       "speaker_confidence": "named",
       "news_score": 3,
       "social_score": 5,
-      "social_post": "Where do the game balls go? Kevin Durant says he gives them to his mom, close friends, and agents because he does not want to lose track of them.",
+      "social_post": "Kevin Durant says he keeps his game balls by giving them to his mom, agents, and close friends. He says he does not want to undersell the accomplishments but is focused on the game.",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "player",
@@ -94,7 +89,7 @@
           "PHX"
         ],
         "topics": [],
-        "context": "Kevin Durant explains what he does with the game balls he receives after reaching career milestones.",
+        "context": "Kevin Durant explains what he typically does with the game balls he receives after reaching career milestones.",
         "best": false,
         "prompt": "47544341"
       }
@@ -103,19 +98,20 @@
       "rank": 4,
       "speaker": "Kevin Durant",
       "timestamp": "01:48",
-      "summary_phrase": "Kevin Durant on exploiting the Rockets' defensive weaknesses",
+      "summary_phrase": "Kevin Durant on the Suns' offensive strategy against Houston",
       "names_mentioned": [
-        "Fred"
+        "Alperen Sengun",
+        "Bradley Beal"
       ],
-      "excerpt": "we knew this team, they're good at iso defense",
-      "quote": "We knew this team, they're good at iso defense. They are really good at plugging the lanes, getting steals and iso defense, so we just wanted to make a move a bit and then crash the glass. They're a small team. We knew them off of movement is not as disciplined as them in the iso, so we just tried to exploit that as much as possible.",
+      "excerpt": "we knew this team, they're good at iso defense. They are really good at plugging the lanes.",
+      "quote": "We knew this team, they're good at iso defense. They are really good at plugging the lanes, getting steals and iso defense, so we just wanted to make a move a bit and then crash the glass. They're a small team, so we knew them off a movement is not as disciplined as them in the iso, so we just tried to exploit that as much as possible.",
       "verbatim_original_language": "",
       "start_seconds": 108,
       "end_seconds": 134,
       "speaker_confidence": "named",
-      "news_score": 5,
+      "news_score": 4,
       "social_score": 2,
-      "social_post": "Kevin Durant on the Suns game plan against the Rockets: We knew they were good at iso defense and plugging lanes, so we wanted to make them move and crash the glass. We knew their movement defense was not as disciplined as their iso.",
+      "social_post": "Kevin Durant on the Suns offensive game plan against Houston: We knew they were good at iso defense and plugging lanes, so we wanted to move the ball and crash the glass to exploit them.",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "player",
@@ -125,7 +121,7 @@
           "HOU"
         ],
         "topics": [],
-        "context": "Kevin Durant describes the Phoenix Suns' strategy to exploit the Houston Rockets' defensive weaknesses during the game.",
+        "context": "Kevin Durant describes the offensive strategy the Suns used to exploit the Houston Rockets' defensive tendencies.",
         "best": false,
         "prompt": "47544341"
       }
@@ -141,26 +137,26 @@
       "text_blocks": [
         {
           "speaker": "Unidentified speaker",
-          "text": "I know we've asked LeBron this question, we've asked you this question before, as far as when you know it's going to be time to walk away from the game."
+          "text": "I know that we've asked LeBron this question, we've asked you this question before, as far as when you know it's going to be time to walk away from the game."
         },
         {
           "speaker": "Kevin Durant",
-          "text": "Damn, son. Are you seeing like a little inclines of me being ready to be done? Like, damn. That's not, you didn't let me finish saying what I had to say."
+          "text": "Damn, son. Are you seeing like a little inclines of me being ready to be done? Like damn. That's not, you didn't let me finish saying what I had to say."
         }
       ],
-      "summary_phrase": "Kevin Durant reacts to questions about retirement",
+      "summary_phrase": "Kevin Durant reacts to questions about his eventual retirement",
       "names_mentioned": [
-        "LeBron"
+        "LeBron James"
       ],
-      "excerpt": "Are you seeing like a little inclines of me being ready to be done? Like, damn.",
+      "excerpt": "Are you seeing like a little inclines of me being ready to be done? Like damn.",
       "quote": "",
       "verbatim_original_language": "",
       "start_seconds": 140,
-      "end_seconds": 163,
+      "end_seconds": 164,
       "speaker_confidence": "named",
       "news_score": 6,
       "social_score": 9,
-      "social_post": "Kevin Durant had a funny reaction when asked about retirement: Damn son. Are you seeing like a little inclines of me being ready to be done? Like damn.",
+      "social_post": "Kevin Durant had a blunt reaction when asked about his eventual retirement: Damn son. Are you seeing like a little inclines of me being ready to be done? You did not even let me finish saying what I had to say.",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "player",
@@ -172,7 +168,7 @@
           "LAL"
         ],
         "topics": [],
-        "context": "Kevin Durant reacts to a reporter asking him about his potential retirement plans.",
+        "context": "Kevin Durant reacts to a reporter asking him about when he plans to retire from professional basketball.",
         "best": false,
         "prompt": "47544341"
       }
@@ -183,17 +179,17 @@
       "timestamp": "02:40",
       "summary_phrase": "Kevin Durant on maintaining his competitive fire",
       "names_mentioned": [
-        "Dylan"
+        "Bradley Beal"
       ],
-      "excerpt": "I just love basketball. That's simple. I love to play ball.",
-      "quote": "I just love basketball. That's simple. I love to play ball. I love everything about the game, all the details that add up to winning. I care about that. And I don't mind somebody got a grievance with me. I don't mind addressing it right there in the moment. I'm sure he has some, I said some things that he probably didn't like, and he addressed it right there, and I respect that as a man. And it didn't get further than that, but if it does get further than that, I'll be ready for that too.",
+      "excerpt": "I just love basketball. That's simple. I love to play ball. I love everything about the game.",
+      "quote": "I just love basketball. That's simple. I love to play ball. I love everything about the game, all the details that add up to winning. I care about that. But I don't mind somebody got a grievance with me. I don't mind addressing it right there in the moment. I'm sure he has some things that he probably didn't like, and he addressed it right there, and I respect that as a man. It didn't get further than that, but if it does get further than that, I'll be ready for that too.",
       "verbatim_original_language": "",
       "start_seconds": 160,
-      "end_seconds": 197,
+      "end_seconds": 196,
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 7,
-      "social_post": "I just love basketball. Kevin Durant on his competitive fire and handling on court grievances: I do not mind somebody having a grievance with me. I do not mind addressing it right there in the moment.",
+      "social_post": "Kevin Durant on his competitive nature: I love everything about the game. I do not mind if somebody has a grievance with me. I do not mind addressing it right there in the moment. I respect that as a man.",
       "team": "Houston Rockets",
       "structured": {
         "speaker_role": "player",
@@ -202,7 +198,7 @@
           "PHX"
         ],
         "topics": [],
-        "context": "Kevin Durant discusses his love for basketball and his approach to handling on-court conflicts with opponents.",
+        "context": "Kevin Durant explains his continued passion for basketball and his approach to handling on-court confrontations.",
         "best": false,
         "prompt": "47544341"
       }
@@ -218,7 +214,7 @@
   "channel_team": "Houston Rockets",
   "published": "2026-11-26T04:46:28Z",
   "duration_seconds": 207,
-  "processed_at": "2026-11-26T09:40:35Z",
+  "processed_at": "2026-11-26T09:44:36Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false,
   "no_clips": true,

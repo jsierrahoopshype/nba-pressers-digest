@@ -8,17 +8,17 @@
       "rank": 1,
       "speaker": "Brandon Miller",
       "timestamp": "00:22",
-      "summary_phrase": "Brandon Miller on Hornets' team growth despite narrow losses",
+      "summary_phrase": "Brandon Miller on team growth despite recent narrow losses",
       "names_mentioned": [],
-      "excerpt": "I think we see everybody getting better, whether we're losing or winning.",
-      "quote": "Obviously it's a personnel thing, but I think as we go on, as we look back at these games, I think we see everybody getting better, whether we're losing or winning. All I ask is for everybody to play 110% hard as they can every night. I feel like we've been pretty consistent with that. So, as long as we're getting better every night, it's going to give us the best chance to win a basketball game.",
-      "verbatim_original_language": "",
+      "excerpt": "as we look back at these games, we see everybody getting better",
+      "quote": "Obviously it's a personnel thing, but I think as we look back at these games, we see everybody getting better, whether we're losing or winning. All I ask is for everybody to play 110% hard as they can every night. I feel like we've been pretty consistent with that. So, as long as we're getting better every night, it's going to give us the best chance to win a basketball game.",
+      "text_blocks": [],
       "start_seconds": 22,
-      "end_seconds": 52,
+      "end_seconds": 49,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Brandon Miller says the Hornets are focused on consistency and growth despite recent losses. He emphasizes that as long as the team plays as hard as they can every night, they will give themselves the best chance to win.",
+      "social_post": "Brandon Miller says the Hornets are focused on consistency and growth despite recent losses, noting that as long as the team plays as hard as they can every night, they will give themselves the best chance to win.",
       "team": "Charlotte Hornets",
       "structured": {
         "speaker_role": "player",
@@ -27,7 +27,7 @@
           "CHA"
         ],
         "topics": [],
-        "context": "Brandon Miller discusses the team's ongoing development and effort levels following a game against the Bulls.",
+        "context": "Brandon Miller discusses the team's growth and effort levels during a postgame media availability.",
         "best": false,
         "prompt": "47544341"
       }
@@ -36,27 +36,26 @@
       "rank": 2,
       "speaker": "Brandon Miller",
       "timestamp": "01:16",
-      "summary_phrase": "Brandon Miller on defensive execution and finishing games",
+      "summary_phrase": "Brandon Miller on defensive execution and finishing close games",
       "names_mentioned": [],
-      "excerpt": "I think we did a great job on the defensive side of the ball.",
-      "quote": "I think we did a great job on the defensive side of the ball. I feel like we still have to finish plays as they come down to those last stretches. I gave up an offensive board, so I think just the little things like that matter. I don't think it's about shooting numbers or how many shots we made tonight. I think going into the games as shooters, I think we're going to continue to take the shots that we like. We're getting great looks; they're just not falling, and I think that's part of the game.",
-      "verbatim_original_language": "",
+      "excerpt": "I feel like we still have to finish plays as they come down to those last stretches",
+      "quote": "I think we did a great job on the defensive side of the ball. I feel like we still have to finish plays as they come down to those last stretches. I gave up an offensive board, so I think just the little things like that matter. I don't think it's about shooting numbers or how many shots we made tonight. I think going into the games as shooters, I think we're going to continue to take the shots that we like. We're getting great looks, they're just not falling and I think that's part of the game.",
+      "text_blocks": [],
       "start_seconds": 76,
       "end_seconds": 114,
       "speaker_confidence": "named",
       "news_score": 5,
       "social_score": 2,
-      "social_post": "Brandon Miller on the Hornets' late-game execution: I gave up an offensive board, so I think just the little things like that matter. I don't think it's about shooting numbers or how many shots we made tonight.",
+      "social_post": "Brandon Miller on the Hornets defensive effort against the Bulls: I think we did a great job on the defensive side of the ball, but we still have to finish plays as they come down to those last stretches.",
       "team": "Charlotte Hornets",
       "structured": {
         "speaker_role": "player",
         "subjects": [],
         "teams": [
-          "CHA",
-          "CHI"
+          "CHA"
         ],
         "topics": [],
-        "context": "Brandon Miller reflects on the team's defensive performance and shot selection during the postgame media availability.",
+        "context": "Brandon Miller reflects on the team's defensive performance and shooting struggles following a game.",
         "best": false,
         "prompt": "47544341"
       }
@@ -64,20 +63,20 @@
     {
       "rank": 3,
       "speaker": "Brandon Miller",
-      "timestamp": "01:47",
+      "timestamp": "02:01",
       "summary_phrase": "Brandon Miller on Christian Anderson's growth and confidence",
       "names_mentioned": [
         "Christian Anderson"
       ],
-      "excerpt": "I think we're seeing him take more shots around the three-point line, which we love for him.",
-      "quote": "Just the confidence level. I think we're seeing him take more shots around the three-point line, which we love for him. He's been more aggressive in transition, creating the action, getting everybody into the right spots. I'm always still learning. I think a young guy like that, one piece of advice I give to him every day is just be a sponge. Learn as much as you can your first year. I think his second and third year, he will eventually understand and get the game of this NBA basketball in this league.",
-      "verbatim_original_language": "",
-      "start_seconds": 107,
-      "end_seconds": 143,
+      "excerpt": "I think we're seeing him take more shots around the three-point line, which we love for him",
+      "quote": "Just the confidence level. I think we're seeing him take more shots around the three-point line, which we love for him. He's been more aggressive in transition, creating the action, getting everybody into the right spots. I always tell him, just be a sponge. Learn as much as you can your first year. I think his second and third year, he will eventually understand and get the game of this NBA basketball in this league.",
+      "text_blocks": [],
+      "start_seconds": 121,
+      "end_seconds": 150,
       "speaker_confidence": "named",
-      "news_score": 5,
+      "news_score": 6,
       "social_score": 3,
-      "social_post": "Brandon Miller on rookie Christian Anderson: I think we are seeing him take more shots around the three-point line, which we love for him. One piece of advice I give to him every day is just be a sponge.",
+      "social_post": "Brandon Miller is seeing major growth in Christian Anderson, specifically noting his increased confidence and aggressiveness in transition: I always tell him, just be a sponge. Learn as much as you can your first year.",
       "team": "Charlotte Hornets",
       "structured": {
         "speaker_role": "player",
@@ -90,7 +89,7 @@
         "topics": [
           "teammates"
         ],
-        "context": "Brandon Miller praises the growth and confidence of his teammate Christian Anderson during his rookie season.",
+        "context": "Brandon Miller praises the confidence and development of his teammate Christian Anderson.",
         "best": true,
         "prompt": "47544341"
       }
@@ -99,19 +98,19 @@
       "rank": 4,
       "speaker": "Brandon Miller",
       "timestamp": "02:47",
-      "summary_phrase": "Brandon Miller on sticking to the process during losing streaks",
+      "summary_phrase": "Brandon Miller on sticking to the process and avoiding slumps",
       "names_mentioned": [
         "Musa"
       ],
-      "excerpt": "I think we just stick to the process. I feel like we don't have to force anything.",
-      "quote": "I think we just stick to the process. I feel like we don't have to force anything. I think just being confident shooters, putting that confidence in our younger guys and in all the guys really, just to take tough shots or take open shots. I think the shots that we get now are better than the past games. We've been turning it over a lot. I think getting more opportunities to let Musa get on the offensive glass a little bit more, give us that extra possession. So I think it's not about the shots, man. I think our execution is great. Our shot draft is good. We don't take that many bad shots, so I think just stick to the process. It's a long season, shots are going to fall.",
-      "verbatim_original_language": "",
+      "excerpt": "I think we just stick to the process. I feel like we don't have to force anything",
+      "quote": "I think we just stick to the process. I feel like we don't have to force anything. I think just being confident shooters, putting that confidence in our younger guys and in all the guys really, just to take tough shots or take open shots. I think the shots that we get now are better than the past games. We've been turning it over a lot. I think getting more opportunities to let Musa get on the offensive glass a little bit more, give us that extra possession. I think our execution is great. Our shot draft is good. We don't take that many bad shots, so I think just stick to the process. As you said, it's a long season, shots are going to fall.",
+      "text_blocks": [],
       "start_seconds": 167,
-      "end_seconds": 218,
+      "end_seconds": 215,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Brandon Miller says the Hornets are sticking to the process during their losing streak. He believes their shot selection is good and that the team just needs to keep trusting their execution.",
+      "social_post": "Brandon Miller on the Hornets shooting struggles: We don't take that many bad shots, so I think just stick to the process. It is a long season, shots are going to fall.",
       "team": "Charlotte Hornets",
       "structured": {
         "speaker_role": "player",
@@ -122,7 +121,7 @@
           "CHA"
         ],
         "topics": [],
-        "context": "Brandon Miller explains the importance of sticking to the team's process and improving execution during a losing streak.",
+        "context": "Brandon Miller explains the team's offensive process and the importance of rebounding and shot selection.",
         "best": false,
         "prompt": "47544341"
       }
@@ -133,15 +132,15 @@
       "timestamp": "03:56",
       "summary_phrase": "Brandon Miller on his role as a two-way player",
       "names_mentioned": [],
-      "excerpt": "My teammates need me to be the guy on both ends of the floor.",
+      "excerpt": "my teammates need me to be the guy on both ends of the floor",
       "quote": "My teammates need me to be the guy on both ends of the floor, and I'm going to do my best to be that two-way guy for my teammates just to put them in the best position to win a basketball game.",
-      "verbatim_original_language": "",
+      "text_blocks": [],
       "start_seconds": 236,
       "end_seconds": 252,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Brandon Miller on his role: My teammates need me to be the guy on both ends of the floor, and I am going to do my best to be that two-way guy for my teammates just to put them in the best position to win.",
+      "social_post": "Brandon Miller on his development: My teammates need me to be the guy on both ends of the floor, and I am going to do my best to be that two-way guy for my teammates just to put them in the best position to win.",
       "team": "Charlotte Hornets",
       "structured": {
         "speaker_role": "player",
@@ -150,7 +149,7 @@
           "CHA"
         ],
         "topics": [],
-        "context": "Brandon Miller describes his commitment to being a reliable two-way player for his teammates.",
+        "context": "Brandon Miller describes his commitment to being a two-way player to help his teammates win.",
         "best": false,
         "prompt": "47544341"
       }
@@ -161,15 +160,15 @@
       "timestamp": "04:37",
       "summary_phrase": "Brandon Miller on team support and chemistry",
       "names_mentioned": [],
-      "excerpt": "I think we just lean on each other. I think we're all here to support each other.",
-      "quote": "I think we just lean on each other. I think we're all here to support each other, make each other better, better men off the court. I think that's really it for that one.",
-      "verbatim_original_language": "",
+      "excerpt": "we're all here to support each other, make each other better, better men off the court",
+      "quote": "I think we just lean on each other. I think we're all here to support each other, make each other better, better men off the court, and I think that's really it for that one.",
+      "text_blocks": [],
       "start_seconds": 277,
       "end_seconds": 290,
       "speaker_confidence": "named",
       "news_score": 3,
       "social_score": 3,
-      "social_post": "Brandon Miller on team chemistry: I think we just lean on each other. I think we are all here to support each other, make each other better, better men off the court.",
+      "social_post": "Brandon Miller on the culture in the Hornets locker room: I think we just lean on each other. We are all here to support each other, make each other better, better men off the court, and I think that is really it.",
       "team": "Charlotte Hornets",
       "structured": {
         "speaker_role": "player",
@@ -178,7 +177,7 @@
           "CHA"
         ],
         "topics": [],
-        "context": "Brandon Miller comments on the importance of team chemistry and mutual support among the players.",
+        "context": "Brandon Miller discusses the importance of team chemistry and mutual support.",
         "best": false,
         "prompt": "47544341"
       }
@@ -194,7 +193,7 @@
   "channel_team": "Charlotte Hornets",
   "published": "2026-11-26T03:25:17Z",
   "duration_seconds": 293,
-  "processed_at": "2026-11-26T09:41:50Z",
+  "processed_at": "2026-11-26T09:45:30Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

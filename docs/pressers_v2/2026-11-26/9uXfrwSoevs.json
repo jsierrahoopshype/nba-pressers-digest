@@ -9,18 +9,18 @@
     {
       "rank": 1,
       "speaker": "Mark Daigneault",
-      "timestamp": "00:21",
+      "timestamp": "00:20",
       "summary_phrase": "Mark Daigneault on balancing winning with long-term team development",
       "names_mentioned": [],
-      "excerpt": "we're trying to win every game, but we also are trying to make investments in our season",
-      "quote": "We're trying to win every game, obviously. I think the guys are really competing and trying to do that. But we also are trying to make investments in our season, and in the short-term and long-term future of the team given the circumstances. In the past, we've done that. We've planted those seeds and struggled and worked through times like this, and then it yielded future success and positive results. We have to continue to take an optimistic mindset to that, despite the fact that it has been a struggle, it's been challenging.",
+      "excerpt": "we're trying to win every game obviously, but we also are trying to make investments in our season",
+      "quote": "We're trying to win every game obviously, but we also are trying to make investments in our season, and in the short-term and long-term future of the team given the circumstances. In the past, we've done that. We've planted those seeds and struggled and worked through times like this, and then it yielded future success and positive results. We have to continue to take an optimistic mindset to that, despite the fact that it has been a struggle, it's been challenging, but it's not because of a lack of competitiveness or togetherness.",
       "verbatim_original_language": "",
-      "start_seconds": 21,
-      "end_seconds": 57,
+      "start_seconds": 20,
+      "end_seconds": 55,
       "speaker_confidence": "named",
-      "news_score": 5,
+      "news_score": 6,
       "social_score": 2,
-      "social_post": "Mark Daigneault on the Thunder approach during this challenging stretch: We are trying to win every game but also making investments in the short and long term future of the team.",
+      "social_post": "Mark Daigneault on the Thunder navigating a tough stretch: We are trying to win every game, but we also are trying to make investments in our season and in the short-term and long-term future of the team.",
       "team": "Oklahoma City Thunder",
       "structured": {
         "speaker_role": "coach",
@@ -37,35 +37,33 @@
     {
       "rank": 2,
       "speaker": "Mark Daigneault",
-      "timestamp": "01:35",
-      "summary_phrase": "Mark Daigneault on the defensive versatility of Cason Wallace",
+      "timestamp": "01:25",
+      "summary_phrase": "Mark Daigneault on Micah's defensive assignment against LaMelo Ball",
       "names_mentioned": [
-        "Cason Wallace",
+        "Micah",
         "LaMelo Ball",
-        "Pascal Siakam"
+        "Siakam"
       ],
-      "excerpt": "Cason Wallace is like a five-man defense type player, especially the way they're using him right now",
-      "quote": "Cason Wallace is like a five-man defense type player, especially the way they're using him right now. He's guarding some of the best players in the league, and he's going from an assignment like Pascal Siakam, that's like a bigger wing player and slower game, to a guy that's hard to, a slippery player on the perimeter. These are good experiences for him. The thing about him is he's always competing. It's easy to continue to bet on him because you know he's going to compete, and as a result, he's going to improve.",
+      "excerpt": "he's going from an assignment like Siakam that's a bigger wing player to a slippery player",
+      "quote": "He's like a five-man defense type player, especially the way they're using him right now. He's guarding some of the best players in the league, and he's going from an assignment like Siakam that's a bigger wing player and slower game to a guy that's hard to, a slippery player on the perimeter. These are good experiences for him. The thing about him is he's always competing. It's easy to continue to bet on him because you know he's going to compete, and as a result, he's going to improve.",
       "verbatim_original_language": "",
-      "start_seconds": 95,
-      "end_seconds": 131,
+      "start_seconds": 85,
+      "end_seconds": 120,
       "speaker_confidence": "named",
-      "news_score": 6,
+      "news_score": 5,
       "social_score": 3,
-      "social_post": "Mark Daigneault on Cason Wallace: He is a five man defense type player. He is guarding some of the best players in the league and it is easy to continue to bet on him because you know he is going to compete.",
+      "social_post": "Mark Daigneault on the defensive growth of his young players: It is easy to continue to bet on him because you know he is going to compete, and as a result, he is going to improve.",
       "team": "Oklahoma City Thunder",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
-          "Cason Wallace",
-          "Pascal Siakam"
+          "Micah"
         ],
         "teams": [
-          "OKC",
-          "IND"
+          "OKC"
         ],
         "topics": [],
-        "context": "Mark Daigneault praises the defensive versatility and competitive spirit of Cason Wallace while noting his recent assignments.",
+        "context": "Mark Daigneault praises the defensive versatility and competitiveness of Micah while discussing his assignments against different types of players.",
         "best": false,
         "prompt": "47544341"
       }
@@ -73,18 +71,18 @@
     {
       "rank": 3,
       "speaker": "Mark Daigneault",
-      "timestamp": "02:33",
-      "summary_phrase": "Mark Daigneault on the importance of executing in close games",
+      "timestamp": "02:22",
+      "summary_phrase": "Mark Daigneault on execution in close-game losses",
       "names_mentioned": [],
       "excerpt": "we need to execute a few more plays in a game that comes down to one or two possessions",
-      "quote": "The common theme is it's a 48-minute game, and we need to execute a few more plays in a game that comes down to one or two possessions in order to be on the other side of the result. That can happen in the second quarter, it can happen in the first quarter, and it can happen late. We just have to fight for those margins right now, improve on the things that we know the game is going to come down to.",
+      "quote": "The common theme is it's a 48-minute game and we need to execute a few more plays in a game that comes down to one or two possessions in order to be on the other side of the result. That can happen in the second quarter, it can happen in the first quarter, and it can happen late. We just have to fight for those margins right now, improve on the things that we know the game is going to come down to.",
       "verbatim_original_language": "",
-      "start_seconds": 153,
-      "end_seconds": 185,
+      "start_seconds": 142,
+      "end_seconds": 174,
       "speaker_confidence": "named",
       "news_score": 4,
-      "social_score": 1,
-      "social_post": "Mark Daigneault says the common theme in recent losses is needing to execute a few more plays in a game that comes down to one or two possessions.",
+      "social_score": 2,
+      "social_post": "Mark Daigneault on the Thunder's recent close losses: The common theme is it is a 48-minute game and we need to execute a few more plays in a game that comes down to one or two possessions.",
       "team": "Oklahoma City Thunder",
       "structured": {
         "speaker_role": "coach",
@@ -93,7 +91,7 @@
           "OKC"
         ],
         "topics": [],
-        "context": "Mark Daigneault explains the need for better execution in close games to improve the team's win-loss record.",
+        "context": "Mark Daigneault explains that the team needs to improve execution across the entire 48 minutes to win close games.",
         "best": false,
         "prompt": "47544341"
       }
@@ -101,24 +99,25 @@
     {
       "rank": 4,
       "speaker": "Mark Daigneault",
-      "timestamp": "03:33",
-      "summary_phrase": "Mark Daigneault on the team's fluid rotation and bench usage",
+      "timestamp": "03:20",
+      "summary_phrase": "Mark Daigneault on lineup flexibility and bench contributions",
       "names_mentioned": [
-        "Jared McCain"
+        "Jared"
       ],
-      "excerpt": "it's nice having Jared McCain on the bench. We wanted to take a look at something different",
-      "quote": "We're small in the second unit with K. Rich at the five right now. A lot of that decision making was about how do we bridge to a smaller lineup with having some bigger wings on the floor. And I also I like coming off the bench at times with Jared McCain. Obviously, he started a lot of games, but him, Caruso, K. Rich, those are guys that they elevate the tone of the game when they go in there on a lot of nights. And so it's nice having them on the bench. We wanted to take a look at something different. We thought it was a good opportunity to do that, but we've been very fluid during this time. We're looking for every edge we can.",
+      "excerpt": "him, Caruso, K-Rich, those are guys that they elevate the tone of the game",
+      "quote": "We're small in the second unit with K-Rich at the five right now. A lot of that decision-making was about how do we bridge to a smaller lineup with having some bigger wings on the floor. I also like coming off the bench at times with Jared. Him, Caruso, K-Rich, those are guys that they elevate the tone of the game when they go in there on a lot of nights. We wanted to take a look at something different, we thought it was a good opportunity to do that, but we've been very fluid during this time.",
       "verbatim_original_language": "",
-      "start_seconds": 213,
-      "end_seconds": 262,
+      "start_seconds": 200,
+      "end_seconds": 238,
       "speaker_confidence": "named",
-      "news_score": 6,
+      "news_score": 5,
       "social_score": 2,
-      "social_post": "Mark Daigneault on the Thunder rotation: We are small in the second unit with K. Rich at the five. We have been very fluid during this time looking for every edge we can.",
+      "social_post": "Mark Daigneault on the Thunder's fluid rotation and bench units: We wanted to take a look at something different, we thought it was a good opportunity to do that, but we have been very fluid during this time.",
       "team": "Oklahoma City Thunder",
       "structured": {
         "speaker_role": "coach",
         "subjects": [
+          "Kenrich Williams",
           "Jared McCain",
           "Alex Caruso"
         ],
@@ -128,35 +127,39 @@
         "topics": [
           "coaching decisions"
         ],
-        "context": "Mark Daigneault discusses his recent rotation adjustments and the impact of using Jared McCain and Alex Caruso off the bench.",
+        "context": "Mark Daigneault discusses the rationale behind using a smaller lineup and the impact of bench players like Kenrich Williams, Jared McCain, and Alex Caruso.",
         "best": true,
         "prompt": "47544341"
       }
     },
     {
       "rank": 5,
-      "speaker": "Shai Gilgeous-Alexander",
-      "timestamp": "06:43",
-      "summary_phrase": "Shai Gilgeous-Alexander on the team's need for better attention to detail",
-      "names_mentioned": [],
-      "excerpt": "we just have to do better in all the little things. Obviously, our margin for error is slimmer",
-      "quote": "We just have to do better in all the little things. Obviously, our margin for error is slimmer and slimmer, and that's just the reality. We just have to win those little things and win more of them to get a W.",
+      "speaker": "Mark Daigneault",
+      "timestamp": "04:16",
+      "summary_phrase": "Mark Daigneault on managing Shai's workload and conditioning",
+      "names_mentioned": [
+        "Shai"
+      ],
+      "excerpt": "he's a beast in terms of his conditioning and his what he does with his body",
+      "quote": "Sometimes he has to, in parts of the game. We want to be aggressive. His minutes were up again tonight. Some of that is just when we're that close to the game, we want to try to go get it. He feels good, we check in with him regularly. He's a beast in terms of his conditioning and his what he does with his body, so we are playing the long game with all of our guys, but we're also trying to compete and go get the games.",
       "verbatim_original_language": "",
-      "start_seconds": 403,
-      "end_seconds": 419,
+      "start_seconds": 256,
+      "end_seconds": 290,
       "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 2,
-      "social_post": "Shai Gilgeous-Alexander on the current state of the Thunder: Our margin for error is slimmer and slimmer and that is just the reality. We have to win those little things to get a W.",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Mark Daigneault on managing Shai Gilgeous-Alexander's heavy workload: He is a beast in terms of his conditioning and what he does with his body, so we are playing the long game with all of our guys.",
       "team": "Oklahoma City Thunder",
       "structured": {
-        "speaker_role": "player",
-        "subjects": [],
+        "speaker_role": "coach",
+        "subjects": [
+          "Shai Gilgeous-Alexander"
+        ],
         "teams": [
           "OKC"
         ],
         "topics": [],
-        "context": "Shai Gilgeous-Alexander reflects on the team's need for improved attention to detail in close games.",
+        "context": "Mark Daigneault addresses questions regarding the management of Shai Gilgeous-Alexander's minutes and conditioning during competitive games.",
         "best": false,
         "prompt": "47544341"
       }
@@ -164,33 +167,27 @@
     {
       "rank": 6,
       "speaker": "Shai Gilgeous-Alexander",
-      "timestamp": "07:17",
-      "summary_phrase": "Shai Gilgeous-Alexander on Cason Wallace's development and effort",
-      "names_mentioned": [
-        "Cason Wallace"
-      ],
-      "excerpt": "he's giving the effort, energy, great team guy. He's figuring out his way in this league",
-      "quote": "He's doing everything he could do, which is all you can ask. He's giving the effort, energy, great team guy. He's figuring out his way in this league, and yeah, he'll be good for a long time.",
+      "timestamp": "06:32",
+      "summary_phrase": "Shai Gilgeous-Alexander on the team's margin for error",
+      "names_mentioned": [],
+      "excerpt": "obviously our margin of error it's slimmer and slimmer, and that's just the reality",
+      "quote": "We just have to do better in all the little things. Obviously our margin of error it's slimmer and slimmer, and that's just the reality. We just have to win those little things and win more of them to get a W.",
       "verbatim_original_language": "",
-      "start_seconds": 437,
-      "end_seconds": 451,
+      "start_seconds": 392,
+      "end_seconds": 408,
       "speaker_confidence": "named",
       "news_score": 4,
-      "social_score": 3,
-      "social_post": "Shai Gilgeous-Alexander on Cason Wallace: He is doing everything he could do. He is figuring out his way in this league and he will be good for a long time.",
+      "social_score": 2,
+      "social_post": "Shai Gilgeous-Alexander on the Thunder's current struggles: Our margin of error is slimmer and slimmer, and that is just the reality. We just have to win those little things and win more of them to get a W.",
       "team": "Oklahoma City Thunder",
       "structured": {
         "speaker_role": "player",
-        "subjects": [
-          "Cason Wallace"
-        ],
+        "subjects": [],
         "teams": [
           "OKC"
         ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "Shai Gilgeous-Alexander comments on the effort and development of his teammate Cason Wallace.",
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander reflects on the team's slim margin for error and the need to execute small details to secure wins.",
         "best": false,
         "prompt": "47544341"
       }
@@ -198,27 +195,33 @@
     {
       "rank": 7,
       "speaker": "Shai Gilgeous-Alexander",
-      "timestamp": "07:39",
-      "summary_phrase": "Shai Gilgeous-Alexander on the importance of small details in losses",
-      "names_mentioned": [],
-      "excerpt": "the margin of error is smaller, so like those little things matter so much more",
-      "quote": "The margin of error is smaller, so like those little things matter so much more, whether it's rebounding, whether it's loose balls, whether it's hand discipline and not fouling. Yeah, they become more important.",
+      "timestamp": "07:06",
+      "summary_phrase": "Shai Gilgeous-Alexander on Micah's defensive growth",
+      "names_mentioned": [
+        "Micah"
+      ],
+      "excerpt": "he's figuring out his way in this league and yeah he'll be good for a long time",
+      "quote": "He's doing everything he could do, which is all you can ask. He's giving the effort, energy, great team guy. He's figuring out his way in this league and yeah he'll be good for a long time.",
       "verbatim_original_language": "",
-      "start_seconds": 459,
-      "end_seconds": 472,
+      "start_seconds": 426,
+      "end_seconds": 440,
       "speaker_confidence": "named",
-      "news_score": 4,
+      "news_score": 3,
       "social_score": 2,
-      "social_post": "Shai Gilgeous-Alexander on the focus for OKC: The margin of error is smaller so those little things matter so much more whether it is rebounding or hand discipline and not fouling.",
+      "social_post": "Shai Gilgeous-Alexander on his teammate's defensive effort: He is doing everything he could do, which is all you can ask. He is figuring out his way in this league and he will be good for a long time.",
       "team": "Oklahoma City Thunder",
       "structured": {
         "speaker_role": "player",
-        "subjects": [],
+        "subjects": [
+          "Micah"
+        ],
         "teams": [
           "OKC"
         ],
-        "topics": [],
-        "context": "Shai Gilgeous-Alexander emphasizes the importance of small details like rebounding and discipline in tight games.",
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander praises the effort and defensive growth of his teammate Micah.",
         "best": false,
         "prompt": "47544341"
       }
@@ -226,33 +229,27 @@
     {
       "rank": 8,
       "speaker": "Shai Gilgeous-Alexander",
-      "timestamp": "08:20",
-      "summary_phrase": "Shai Gilgeous-Alexander on Cason Wallace's growth as a scorer",
-      "names_mentioned": [
-        "Cason Wallace"
-      ],
-      "excerpt": "Cason Wallace is just a hooper. You throw Cason Wallace on any floor in the world",
-      "quote": "Cason Wallace is just a hooper. You throw Cason Wallace on any floor in the world, and he'll be productive out there. It doesn't matter who's out there. He loves the game, competes, he gives it the effort, and the game rewards him back. I'm not surprised by anything Cason Wallace does just because I know the energy he has and the work he puts into his game.",
+      "timestamp": "07:32",
+      "summary_phrase": "Shai Gilgeous-Alexander on commonalities in late-game losses",
+      "names_mentioned": [],
+      "excerpt": "the little things matter so much more, whether it's rebounding, whether it's loose balls",
+      "quote": "Just the little things. The margin of error is smaller, so those little things matter so much more, whether it's rebounding, whether it's loose balls, whether it's hand discipline and not fouling. They become more important.",
       "verbatim_original_language": "",
-      "start_seconds": 500,
-      "end_seconds": 526,
+      "start_seconds": 452,
+      "end_seconds": 466,
       "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 4,
-      "social_post": "Shai Gilgeous-Alexander on Cason Wallace: Cason is just a hooper. You throw him on any floor in the world and he will be productive. I am not surprised by anything he does because I know the energy he has.",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Shai Gilgeous-Alexander on late-game execution: The margin of error is smaller, so those little things matter so much more, whether it is rebounding, loose balls, or hand discipline.",
       "team": "Oklahoma City Thunder",
       "structured": {
         "speaker_role": "player",
-        "subjects": [
-          "Cason Wallace"
-        ],
+        "subjects": [],
         "teams": [
           "OKC"
         ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "Shai Gilgeous-Alexander praises Cason Wallace's natural basketball ability and work ethic.",
+        "topics": [],
+        "context": "Shai Gilgeous-Alexander explains that small mistakes in late-game situations are becoming more costly for the team.",
         "best": false,
         "prompt": "47544341"
       }
@@ -260,25 +257,25 @@
     {
       "rank": 9,
       "speaker": "Shai Gilgeous-Alexander",
-      "timestamp": "08:52",
-      "summary_phrase": "Shai Gilgeous-Alexander on the playmaking ability of Jared McCain",
+      "timestamp": "08:02",
+      "summary_phrase": "Shai Gilgeous-Alexander on Kenrich's development as a scorer",
       "names_mentioned": [
-        "Jared McCain"
+        "Kenrich"
       ],
-      "excerpt": "Jared McCain is a point guard. He makes plays, can pass, can score on three levels",
-      "quote": "Jared McCain is a point guard. He makes plays, can pass, can score on three levels, really smart player. Yeah, both of those guys, they are more than just shooters for sure.",
+      "excerpt": "Kenrich is just a hooper. You throw Kenrich on any floor in the world, he'll be productive",
+      "quote": "Kenrich is just a hooper. You throw Kenrich on any floor in the world, he'll be productive. It doesn't matter who's out there. He loves the game, competes, he gives it the effort and the game rewards him back. I'm not surprised by anything Kenrich does just because I know the energy he has and the work he puts into his game.",
       "verbatim_original_language": "",
-      "start_seconds": 532,
-      "end_seconds": 544,
+      "start_seconds": 482,
+      "end_seconds": 506,
       "speaker_confidence": "named",
-      "news_score": 6,
+      "news_score": 3,
       "social_score": 3,
-      "social_post": "Shai Gilgeous-Alexander on Jared McCain: Jared is a point guard. He makes plays, can pass, can score on three levels, really smart player. He is more than just a shooter.",
+      "social_post": "Shai Gilgeous-Alexander on Kenrich Williams: Kenrich is just a hooper. You throw Kenrich on any floor in the world, he will be productive. It does not matter who is out there.",
       "team": "Oklahoma City Thunder",
       "structured": {
         "speaker_role": "player",
         "subjects": [
-          "Jared McCain"
+          "Kenrich Williams"
         ],
         "teams": [
           "OKC"
@@ -286,35 +283,41 @@
         "topics": [
           "teammates"
         ],
-        "context": "Shai Gilgeous-Alexander highlights the playmaking and versatility of Jared McCain.",
+        "context": "Shai Gilgeous-Alexander discusses the work ethic and productivity of his teammate Kenrich Williams.",
         "best": false,
         "prompt": "47544341"
       }
     },
     {
       "rank": 10,
-      "speaker": "Ajay Mitchell",
-      "timestamp": "10:22",
-      "summary_phrase": "Ajay Mitchell on the team learning from close-game losses",
-      "names_mentioned": [],
-      "excerpt": "it definitely sucks to lose games like that, but I think as a team we get to learn",
-      "quote": "It definitely sucks to lose games like that, but I think as a team we get to learn a lot about ourselves. And I mean, we see it comes down to details. I think we give our all every single night, and in those losses we're able to just see what was missing in a couple possessions, areas we can improve. And I think that's great for our team down the line.",
+      "speaker": "Shai Gilgeous-Alexander",
+      "timestamp": "08:44",
+      "summary_phrase": "Shai Gilgeous-Alexander on Bennett's versatility as a point guard",
+      "names_mentioned": [
+        "Bennett"
+      ],
+      "excerpt": "Bennett's a point guard, he makes plays, can pass, can score on three levels",
+      "quote": "Bennett's a point guard, he makes plays, can pass, can score on three levels, really smart player. Yeah, both of those guys are more than just shooters for sure.",
       "verbatim_original_language": "",
-      "start_seconds": 622,
-      "end_seconds": 650,
+      "start_seconds": 524,
+      "end_seconds": 535,
       "speaker_confidence": "named",
       "news_score": 4,
       "social_score": 2,
-      "social_post": "Ajay Mitchell on the team learning from close losses: It definitely sucks to lose games like that but I think as a team we get to learn a lot about ourselves.",
+      "social_post": "Shai Gilgeous-Alexander on his teammate's versatility: Bennett is a point guard, he makes plays, can pass, can score on three levels, really smart player. Both of those guys are more than just shooters.",
       "team": "Oklahoma City Thunder",
       "structured": {
         "speaker_role": "player",
-        "subjects": [],
+        "subjects": [
+          "Bennett"
+        ],
         "teams": [
           "OKC"
         ],
-        "topics": [],
-        "context": "Ajay Mitchell discusses the team's ability to learn from recent close-game losses.",
+        "topics": [
+          "teammates"
+        ],
+        "context": "Shai Gilgeous-Alexander evaluates the skill set and versatility of his teammate Bennett.",
         "best": false,
         "prompt": "47544341"
       }
@@ -322,52 +325,18 @@
     {
       "rank": 11,
       "speaker": "Ajay Mitchell",
-      "timestamp": "11:24",
-      "summary_phrase": "Ajay Mitchell on Jared McCain's maturity and growth",
-      "names_mentioned": [
-        "Jared McCain"
-      ],
-      "excerpt": "Jared McCain since day one has been very impressive, you know just how mature he is",
-      "quote": "Jared McCain since day one has been very impressive, you know just how mature he is. Obviously, a great shooter, but can do so many different things on the court, and I think it's great to see him get his first start. And he's I think he's going to keep growing, keep getting better, so really excited for him.",
-      "verbatim_original_language": "",
-      "start_seconds": 684,
-      "end_seconds": 707,
-      "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 3,
-      "social_post": "Ajay Mitchell on Jared McCain: Since day one he has been very impressive with how mature he is. He can do so many different things on the court and I am really excited for him.",
-      "team": "Oklahoma City Thunder",
-      "structured": {
-        "speaker_role": "player",
-        "subjects": [
-          "Jared McCain"
-        ],
-        "teams": [
-          "OKC"
-        ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "Ajay Mitchell shares his thoughts on Jared McCain's maturity and his recent first start.",
-        "best": false,
-        "prompt": "47544341"
-      }
-    },
-    {
-      "rank": 12,
-      "speaker": "Ajay Mitchell",
-      "timestamp": "11:57",
-      "summary_phrase": "Ajay Mitchell on the defensive identity of the team",
+      "timestamp": "10:03",
+      "summary_phrase": "Ajay Mitchell on learning from close-game losses",
       "names_mentioned": [],
-      "excerpt": "I think they're physical. They have obviously they have good defenders and they defend well as a team",
-      "quote": "I think they're physical. They have obviously they have good defenders and they defend well as a team, and I mean, I think that's the key to being a good defensive team.",
+      "excerpt": "it definitely sucks to lose games like that, but I think as a team we get to learn",
+      "quote": "It definitely sucks to lose games like that, but I think as a team we get to learn a lot about ourselves. I mean, we see it comes down to details. I think we give our all every single night, and in those losses we're able to just see what was missing in a couple possessions, areas we can improve, and I think that's great for our team down the line.",
       "verbatim_original_language": "",
-      "start_seconds": 717,
-      "end_seconds": 729,
+      "start_seconds": 603,
+      "end_seconds": 630,
       "speaker_confidence": "named",
       "news_score": 3,
-      "social_score": 1,
-      "social_post": "Ajay Mitchell on the Thunder defensive identity: I think they are physical. They have good defenders and they defend well as a team and I think that is the key to being a good defensive team.",
+      "social_score": 2,
+      "social_post": "Ajay Mitchell on the team's mindset following recent losses: It definitely sucks to lose games like that, but I think as a team we get to learn a lot about ourselves.",
       "team": "Oklahoma City Thunder",
       "structured": {
         "speaker_role": "player",
@@ -376,7 +345,70 @@
           "OKC"
         ],
         "topics": [],
-        "context": "Ajay Mitchell describes the importance of physicality and team defense in establishing a defensive identity.",
+        "context": "Ajay Mitchell discusses the team's ability to learn from close-game losses and focus on improving specific details.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "11:13",
+      "summary_phrase": "Ajay Mitchell on Bennett's maturity and career start",
+      "names_mentioned": [
+        "Bennett"
+      ],
+      "excerpt": "Bennett since day one has been very impressive, you know just how mature he is",
+      "quote": "I think Bennett since day one has been very impressive, you know just how mature he is. Obviously a great shooter, but can do so many different things on the court, and I think it's great to see him get his first start. He's going to keep growing, keep getting better, so really excited for him.",
+      "verbatim_original_language": "",
+      "start_seconds": 673,
+      "end_seconds": 695,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ajay Mitchell on Bennett's first career start: Bennett since day one has been very impressive, you know just how mature he is. He is going to keep growing, keep getting better.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Bennett"
+        ],
+        "teams": [
+          "OKC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ajay Mitchell comments on Bennett's maturity and performance after receiving his first career start.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Ajay Mitchell",
+      "timestamp": "11:48",
+      "summary_phrase": "Ajay Mitchell on Minnesota's defensive identity",
+      "names_mentioned": [],
+      "excerpt": "they're physical, they have obviously they have good defenders and they defend well as a team",
+      "quote": "They're physical, they have obviously they have good defenders and they defend well as a team, and I mean I think that's the key to being a good defensive team.",
+      "verbatim_original_language": "",
+      "start_seconds": 708,
+      "end_seconds": 720,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ajay Mitchell on facing a physical Minnesota defense: They are physical, they have good defenders and they defend well as a team, and I think that is the key to being a good defensive team.",
+      "team": "Oklahoma City Thunder",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "OKC",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ajay Mitchell describes the defensive identity and physical style of play of the Minnesota Timberwolves.",
         "best": false,
         "prompt": "47544341"
       }
@@ -392,7 +424,7 @@
   "channel_team": "Oklahoma City Thunder",
   "published": "2026-11-26T04:19:16Z",
   "duration_seconds": 743,
-  "processed_at": "2026-11-26T09:41:15Z",
+  "processed_at": "2026-11-26T09:45:14Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false
 }

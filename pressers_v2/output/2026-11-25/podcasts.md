@@ -34,23 +34,15 @@ From: [Can a Healthy Timberwolves Team Really Challenge the Spurs? \| Chris Mann
 
 <small>[Clip it](presserclips://clip?v=30lBPedUJO8&t=474&q=14) · [Send to Slack](presserclips://clip?v=30lBPedUJO8&t=474&q=14&slack=1)</small>
 
-**4. Kendrick Perkins — "I got to slide Tyrese Maxey somewhere in that top five. He is in the MVP conversation." — Kendrick Perkins argues for Tyrese Maxey's place in the top five** [00:06](https://www.youtube.com/watch?v=O-J1HnIYb40&t=6s)
+**4. Kendrick Perkins — "Amen Thompson, the most athletic perimeter player in the game, two-way player." — Kendrick Perkins calls Amen Thompson the most athletic perimeter player** [09:27](https://www.youtube.com/watch?v=3IN88dliXhY&t=567s)
 
-**Kendrick Perkins:** "I got to slide **Tyrese Maxey** somewhere in that top five. He is in the MVP conversation."
+Kendrick Perkins: "I'm actually going to go **Amen Thompson** on this. The most athletic perimeter player in the game, two-way player. I've never seen somebody meet **Wembanyama** at the rim and block his shot to save the game. The fact that **Wembanyama** caught the ball in the post and he blocked that shit off the vert, it actually lit a fuel in **Wembanyama**'s ass."
 
-**Richard Jefferson:** "He is top ten, right with **Anthony Edwards**, **Jayson Tatum**."
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=567s](https://www.youtube.com/watch?v=3IN88dliXhY&t=567s)
 
-**Kendrick Perkins:** "No, top ten, my ass. I am bumping out **Nikola Jokic**."
+From: [Richard Jefferson Wants NBA Games Back on Thanksgiving](https://www.youtube.com/watch?v=3IN88dliXhY) · *Road Trippin*
 
-**Channing Frye:** "Who are you bumping out then?"
-
-**Kendrick Perkins:** "I am bumping out **Nikola Jokic**."
-
-[https://www.youtube.com/watch?v=O-J1HnIYb40&t=6s](https://www.youtube.com/watch?v=O-J1HnIYb40&t=6s)
-
-From: [Is Tyrese Maxey a Top 5 Player in the NBA Right Now?](https://www.youtube.com/watch?v=O-J1HnIYb40) · *Road Trippin*
-
-<small>[Clip it](presserclips://clip?v=O-J1HnIYb40&t=6&q=1) · [Send to Slack](presserclips://clip?v=O-J1HnIYb40&t=6&q=1&slack=1)</small>
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=567&q=7) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=567&q=7&slack=1)</small>
 
 **5. Evan Turner — "Jaden McDaniels is going from the conversation, 3-and-D to elite now, two-way scorer, two-way defender." — Jaden McDaniels' evolution into a two-way player** [01:32](https://www.youtube.com/watch?v=30lBPedUJO8&t=92s)
 
@@ -62,7 +54,17 @@ From: [Can a Healthy Timberwolves Team Really Challenge the Spurs? \| Chris Mann
 
 <small>[Clip it](presserclips://clip?v=30lBPedUJO8&t=92&q=4) · [Send to Slack](presserclips://clip?v=30lBPedUJO8&t=92&q=4&slack=1)</small>
 
-**6. Bobby Marks — "It's an expensive roster to be seven and nine, especially a team that's fought to get into play." — Orlando Magic's roster challenges and potential luxury tax implications** [00:22](https://www.youtube.com/watch?v=PWF2Cw7_GmA&t=22s)
+**6. Richard Jefferson — "the NFL disrespected us and started trying to have games on Christmas Day. They trying to take our audience" — Richard Jefferson argues the NFL disrespects the NBA by scheduling Christmas games** [00:00](https://www.youtube.com/watch?v=3IN88dliXhY&t=0s)
+
+Richard Jefferson: "Yes, they should. Why? Because the NFL disrespected us and started trying to have games on Christmas Day. They trying to take our audience, they trying to mess with us. Christmas Day belongs to us, but if y'all want to play that game, then let's just start playing hoop games, right?"
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=0s](https://www.youtube.com/watch?v=3IN88dliXhY&t=0s)
+
+From: [Richard Jefferson Wants NBA Games Back on Thanksgiving](https://www.youtube.com/watch?v=3IN88dliXhY) · *Road Trippin*
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=0&q=1) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=0&q=1&slack=1)</small>
+
+**7. Bobby Marks — "It's an expensive roster to be seven and nine, especially a team that's fought to get into play." — Orlando Magic's roster challenges and potential luxury tax implications** [00:22](https://www.youtube.com/watch?v=PWF2Cw7_GmA&t=22s)
 
 Bobby Marks: "I just wrote Orlando, which I'm really interested with them where they are. I think they were seven and nine as of Monday. Just can't find their footing. They've had injuries again with Banchero, and Suggs comes back. It's an expensive roster to be seven and nine, especially a team that's fought to get into play in the last couple years, and it's going to get more expensive if they retain **Anthony Black**, who's a restricted free agent. And as you guys know, when you're paying the luxury tax, first time they paid the luxury tax in like 20 years, most expensive tax bill they've had in franchise history here. I think teams like that, Orlando is intriguing, just the expectations when you have a big payroll like that."
 
@@ -72,7 +74,7 @@ From: [Who Will Be KEY Players At NBA Trade Deadline?](https://www.youtube.com/w
 
 <small>[Clip it](presserclips://clip?v=PWF2Cw7_GmA&t=22&q=1) · [Send to Slack](presserclips://clip?v=PWF2Cw7_GmA&t=22&q=1&slack=1)</small>
 
-**7. Tim McMahon — "Is he going to be too expensive for the Magic to keep him?" — Anthony Black's contract situation and potential trade considerations for Orlando** [01:10](https://www.youtube.com/watch?v=PWF2Cw7_GmA&t=70s)
+**8. Tim McMahon — "Is he going to be too expensive for the Magic to keep him?" — Anthony Black's contract situation and potential trade considerations for Orlando** [01:10](https://www.youtube.com/watch?v=PWF2Cw7_GmA&t=70s)
 
 **Tim McMahon:** "Orlando is really interesting to me. You mentioned **Anthony Black**, and it's one of those things of is he going to be too expensive for the Magic to keep him? If that's the case, are you better off trading him now, getting first-round compensation in return, or do you play it out in the restricted free agency, which is dicey because there are a lot of teams that are going to have cap space? Or do you try to move somebody now to make room on the payroll to pay **Anthony Black**?"
 
@@ -84,7 +86,7 @@ From: [Who Will Be KEY Players At NBA Trade Deadline?](https://www.youtube.com/w
 
 <small>[Clip it](presserclips://clip?v=PWF2Cw7_GmA&t=70&q=2) · [Send to Slack](presserclips://clip?v=PWF2Cw7_GmA&t=70&q=2&slack=1)</small>
 
-**8. Dave McMenamin — "Walker Kessler came so strong out the gates and I'm going to have a story that drops on Friday" — Dave McMenamin on Walker Kessler's performance** [05:15](https://www.youtube.com/watch?v=X7HnbfmdLcE&t=315s)
+**9. Dave McMenamin — "Walker Kessler came so strong out the gates and I'm going to have a story that drops on Friday" — Dave McMenamin on Walker Kessler's performance** [05:15](https://www.youtube.com/watch?v=X7HnbfmdLcE&t=315s)
 
 Dave McMenamin: "**Walker Kessler** came so strong out the gates and I'm going to have a story that drops on Friday about Kessler. He's shown some signs of just being a young player and maybe his body, having not played for nine months, coming to the Lakers, needing to get back into that rhythm and that conditioning and everything that it takes to play four times a week. We'll see how he does in that individual matchup against Victor Wembanyama."
 
@@ -93,16 +95,6 @@ Dave McMenamin: "**Walker Kessler** came so strong out the gates and I'm going t
 From: [The Hoop Collective's 6th Annual Friendsgiving](https://www.youtube.com/watch?v=X7HnbfmdLcE) · *NBA on ESPN*
 
 <small>[Clip it](presserclips://clip?v=X7HnbfmdLcE&t=315&q=7) · [Send to Slack](presserclips://clip?v=X7HnbfmdLcE&t=315&q=7&slack=1)</small>
-
-**9. Richard Jefferson — "Tyrese Maxey is an absolute stud. He is on pace for a possible first team all NBA." — Richard Jefferson evaluates Tyrese Maxey's All-NBA potential** [03:22](https://www.youtube.com/watch?v=O-J1HnIYb40&t=202s)
-
-Richard Jefferson: "**Tyrese Maxey** is an absolute stud. He is on pace for a possible first team all NBA. He has got an absolute loaded squad around him. To put respect on Jokic's name, I am not saying you are disrespecting, I am saying to put respect on his name. Last season, he did something that has never been done before. This year, he is averaging a triple double and they are 10 and 5 with wins over Boston, with wins over Houston, back to back, two of the Western Conference juggernauts. So to say that Jokic is not a top five player, I think that is really, in my opinion, closer to a top two or one than he is to being outside the top five."
-
-[https://www.youtube.com/watch?v=O-J1HnIYb40&t=202s](https://www.youtube.com/watch?v=O-J1HnIYb40&t=202s)
-
-From: [Is Tyrese Maxey a Top 5 Player in the NBA Right Now?](https://www.youtube.com/watch?v=O-J1HnIYb40) · *Road Trippin*
-
-<small>[Clip it](presserclips://clip?v=O-J1HnIYb40&t=202&q=4) · [Send to Slack](presserclips://clip?v=O-J1HnIYb40&t=202&q=4&slack=1)</small>
 
 **10. Draymond Green — "Coach texted me after the Dallas game like, yo, how you holding up? I'm like, basketball sucks." — Draymond Green on his conversation with Steve Kerr after the Dallas game** [01:37](https://www.youtube.com/watch?v=ZkX2vDaQSfQ&t=97s)
 
@@ -285,6 +277,102 @@ Chris Mannix: "**Victor Wembanyama**, who is the most dominant defensive player 
 [https://www.youtube.com/watch?v=30lBPedUJO8&t=498s](https://www.youtube.com/watch?v=30lBPedUJO8&t=498s)
 
 <small>[Clip it](presserclips://clip?v=30lBPedUJO8&t=498&q=15) · [Send to Slack](presserclips://clip?v=30lBPedUJO8&t=498&q=15&slack=1)</small>
+
+---
+
+## Richard Jefferson Wants NBA Games Back on Thanksgiving — *Road Trippin*
+
+Source: [https://www.youtube.com/watch?v=3IN88dliXhY](https://www.youtube.com/watch?v=3IN88dliXhY)
+
+_Speakers identified: Richard Jefferson, Allie Clifton, Kendrick Perkins, Channing Frye_
+
+**1. Richard Jefferson — "the NFL disrespected us and started trying to have games on Christmas Day. They trying to take our audience" — Richard Jefferson argues the NFL disrespects the NBA by scheduling Christmas games** [00:00](https://www.youtube.com/watch?v=3IN88dliXhY&t=0s)
+
+Richard Jefferson: "Yes, they should. Why? Because the NFL disrespected us and started trying to have games on Christmas Day. They trying to take our audience, they trying to mess with us. Christmas Day belongs to us, but if y'all want to play that game, then let's just start playing hoop games, right?"
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=0s](https://www.youtube.com/watch?v=3IN88dliXhY&t=0s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=0&q=1) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=0&q=1&slack=1)</small>
+
+**3. Richard Jefferson — "Jrue Holiday. Holds the whole plate together, no matter where you put him, he's going to fit in and excel." — Richard Jefferson identifies Jrue Holiday as the glue for any team** [05:15](https://www.youtube.com/watch?v=3IN88dliXhY&t=315s)
+
+Richard Jefferson: "I'm going to say **Jrue Holiday**. Holds the whole plate together, no matter where you put him, he's going to fit in and excel."
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=315s](https://www.youtube.com/watch?v=3IN88dliXhY&t=315s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=315&q=3) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=315&q=3&slack=1)</small>
+
+**4. Kendrick Perkins — "Jalen Brunson has been the best player in the Eastern Conference consistently over the last three years." — Kendrick Perkins praises Jalen Brunson as the Eastern Conference's best player** [07:28](https://www.youtube.com/watch?v=3IN88dliXhY&t=448s)
+
+Kendrick Perkins: "**Jalen Brunson** has been the best player in the Eastern Conference consistently over the last three years. Finals MVP, champion, like there's not one guy that he hasn't taken down, including Wembanyama. And I feel like right now, because he got off to a slow start, but now he's back balling, he's one guy that you could always depend on. When you turn on your TV, he may start off five for 15, but when you get in that fourth quarter, he'll have 10 to 15."
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=448s](https://www.youtube.com/watch?v=3IN88dliXhY&t=448s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=448&q=4) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=448&q=4&slack=1)</small>
+
+**5. Richard Jefferson — "Draymond Green from the space of when he is defending, he's the most versatile defender." — Richard Jefferson explains why Draymond Green is a versatile defensive anchor** [08:39](https://www.youtube.com/watch?v=3IN88dliXhY&t=519s)
+
+Richard Jefferson: "I'm going to say **Draymond Green** from the space of when he is defending, he's the most versatile defender, and he gives you the ability, shoot, he stopped **Jason Tatum** on the last play of the game. You know he going to be flexing, that's our guy."
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=519s](https://www.youtube.com/watch?v=3IN88dliXhY&t=519s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=519&q=5) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=519&q=5&slack=1)</small>
+
+**6. Channing Frye — "I'm going to say Scottie Barnes. Cause he ain't for everybody. Some people love him, some people don't understand him." — Channing Frye names Scottie Barnes as a unique defensive player** [09:06](https://www.youtube.com/watch?v=3IN88dliXhY&t=546s)
+
+Channing Frye: "I'm going to say **Scottie Barnes**. Cause he ain't for everybody. Some people love him, some people don't understand him. But if you watch him play, you're like, holy shit, are you guarding this dude full court? Like he's guarding six-two guards and he's six-nine, then he'll go guard a center and then he'll go run off 15 in a quarter for you."
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=546s](https://www.youtube.com/watch?v=3IN88dliXhY&t=546s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=546&q=6) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=546&q=6&slack=1)</small>
+
+**7. Kendrick Perkins — "Amen Thompson, the most athletic perimeter player in the game, two-way player." — Kendrick Perkins calls Amen Thompson the most athletic perimeter player** [09:27](https://www.youtube.com/watch?v=3IN88dliXhY&t=567s)
+
+Kendrick Perkins: "I'm actually going to go **Amen Thompson** on this. The most athletic perimeter player in the game, two-way player. I've never seen somebody meet **Wembanyama** at the rim and block his shot to save the game. The fact that **Wembanyama** caught the ball in the post and he blocked that shit off the vert, it actually lit a fuel in **Wembanyama**'s ass."
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=567s](https://www.youtube.com/watch?v=3IN88dliXhY&t=567s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=567&q=7) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=567&q=7&slack=1)</small>
+
+**8. Kendrick Perkins — "Giannis is the road. He go give you everything you need on a night-to-night basis." — Kendrick Perkins praises Giannis Antetokounmpo's consistent production** [11:35](https://www.youtube.com/watch?v=3IN88dliXhY&t=695s)
+
+Kendrick Perkins: "I'm going to go Giannis. Giannis is the road. He go give you everything you need on a night-to-night basis. 28 points, 13 rebounds, five assists."
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=695s](https://www.youtube.com/watch?v=3IN88dliXhY&t=695s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=695&q=8) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=695&q=8&slack=1)</small>
+
+**9. Richard Jefferson — "The answer is 100% yes, they should bring back Thanksgiving games." — Richard Jefferson argues that NBA games should return to Thanksgiving** [16:43](https://www.youtube.com/watch?v=3IN88dliXhY&t=1003s)
+
+Richard Jefferson: "The answer is 100% yes, they should bring back Thanksgiving games. First of all, the fact that the NFL, I listen, I know all of us, none of us, all of us work, so it would impact us, but let's just play the hype. Yes, they should. Why? Because the NFL disrespected us and started trying to have games on Christmas Day. They trying to take our audience, they trying to mess with us. Christmas Day belongs to us, but if y'all want to play that game, then let's just start playing hoop games, right? So now all of a sudden when you watching the whoever versus whoever and the score is 42-7, now you can switch the channel and turn on a basketball game."
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=1003s](https://www.youtube.com/watch?v=3IN88dliXhY&t=1003s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=1003&q=9) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=1003&q=9&slack=1)</small>
+
+**10. Kendrick Perkins — "I would say the Dallas Mavericks, criticized for probably having the worst trade in NBA history trading Luka." — Kendrick Perkins credits Nico Harrison for the Dallas Mavericks' success** [18:03](https://www.youtube.com/watch?v=3IN88dliXhY&t=1083s)
+
+Kendrick Perkins: "I would say the Dallas Mavericks, criticized for probably having the worst trade in NBA history trading Luka. You luck up and you get a gem in **Dereck Lively II**. You need to be thankful for **Nico Harrison** every single day he walks into that building, that practice facility, that organization."
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=1083s](https://www.youtube.com/watch?v=3IN88dliXhY&t=1083s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=1083&q=10) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=1083&q=10&slack=1)</small>
+
+**11. Richard Jefferson — "I think the Miami Heat, Clay Thompson off to a start, Davion Mitchell turning into one of the best point guards." — Richard Jefferson praises the Miami Heat's recent performance** [18:25](https://www.youtube.com/watch?v=3IN88dliXhY&t=1105s)
+
+Richard Jefferson: "I'm going to say the Miami Heat. I think the Miami Heat, **Clay Thompson** off to a start, **Davion Mitchell** turning into one of the best point guards in the league with the way he's performed, and then Giannis rounding into form, Bam finding his groove. If you look at it, they should be thankful that Giannis is in that building, that the pieces around Giannis are starting to figure it out. So if we talking about what their record was in October versus what their record is in November, they should be very, very thankful for their record in November."
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=1105s](https://www.youtube.com/watch?v=3IN88dliXhY&t=1105s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=1105&q=11) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=1105&q=11&slack=1)</small>
+
+**12. Kendrick Perkins — "I'm going to go with the Pelicans, and not just the players in the gym, but the whole organization." — Kendrick Perkins expresses concern over the New Orleans Pelicans' direction** [19:33](https://www.youtube.com/watch?v=3IN88dliXhY&t=1173s)
+
+Kendrick Perkins: "I'm going to go with the Pelicans, and not just the players in the gym, but the whole organization needs to go in the gym and figure out which direction they want to go. They're the only team that's all over the place. I love **Joe Dumars**, I love **Troy Weaver**, those are my guys, but you need to figure out that whole situation. It seems like it's a mess. There's a lot of confusion. **Dejounte Murray**, he wants out, obviously it's going to be hard to trade him. You want a lot back for **Trey Murphy**. Okay, is you going to turn over the keys to **Derek Queen** or you going to continue to wait to see if Zion is going to take an All-NBA leap?"
+
+[https://www.youtube.com/watch?v=3IN88dliXhY&t=1173s](https://www.youtube.com/watch?v=3IN88dliXhY&t=1173s)
+
+<small>[Clip it](presserclips://clip?v=3IN88dliXhY&t=1173&q=12) · [Send to Slack](presserclips://clip?v=3IN88dliXhY&t=1173&q=12&slack=1)</small>
 
 ---
 

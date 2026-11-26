@@ -4,62 +4,62 @@ Source: [https://www.youtube.com/watch?v=ypeK_6I5zYA](https://www.youtube.com/wa
 
 _Speakers identified: JJ Redick, Austin Reaves, Walker Kessler_
 
-**1. JJ Redick — "best I've ever seen him play" — JJ Redick on Walker Kessler's performance and status** [00:08](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=8s)
+**1. JJ Redick — "best I've ever seen him play" — JJ Redick on Walker Kessler's status and performance** [00:08](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=8s)
 
-JJ Redick: "**Walker Kessler** was the best I've ever seen him play."
+JJ Redick: "**Walker Kessler** is the best I've ever seen him play."
 
 [https://www.youtube.com/watch?v=ypeK_6I5zYA&t=8s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=8s)
 
-**2. JJ Redick — "This entire road trip is a massive challenge for us" — JJ Redick on the challenges of the upcoming road trip** [01:26](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=86s)
+**2. JJ Redick — "This entire road trip is a massive challenge for us." — JJ Redick on the challenges of the current road trip** [01:26](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=86s)
 
-JJ Redick: "This entire road trip is a massive challenge for us. Four games, all are going to present their different tests, playing against the Western Conference Finals champion from last year who are off to a great start. Starting with that and then you get Memphis, Houston, New Orleans. There is a lot on this trip. It is not just one game, and I think these four games will be a great barometer of where we are at right now."
+JJ Redick: "This entire road trip is a massive challenge for us. Four games, all are going to present their different tests. Playing against the Western Conference Finals champion from last year, who are off to a great start, starting with that, and then you get Memphis, Houston, New Orleans. There is a lot on this trip. It is not just one game."
 
 [https://www.youtube.com/watch?v=ypeK_6I5zYA&t=86s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=86s)
 
-**3. JJ Redick — "we've got to be able to improve and get better" — JJ Redick on the team's need to improve and evolve** [02:51](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=171s)
+**3. JJ Redick — "Whether we lose the game, whether we win the game, we're either going to be contenders" — JJ Redick on the team's identity as contenders or fakes** [02:10](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=130s)
 
-JJ Redick: "We said it from the first day, the results piece, we all want the same result. Every team in the NBA wants to get a win, but we have to be able to improve and get better. One of the things that happens in an NBA season is you decide the things you are going to focus on. You cannot try to get better at nine things at a time. Basically, when you focus on, let's say, defense, you put an emphasis on defense and get better, your screening may suffer. And we talked about that, that was our emphasis today. Our screening has been dog shit. Part of the reason we haven't been good on offense, we missed shots for sure, but we also haven't screened well."
+JJ Redick: "Whether we lose the game, whether we win the game, we're either going to be contenders on first take or we're not going to be contenders and we're fake. That stuff is just noise. We're going to focus on the process of trying to get better and it's a good test to see where we're at right now."
 
-[https://www.youtube.com/watch?v=ypeK_6I5zYA&t=171s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=171s)
+[https://www.youtube.com/watch?v=ypeK_6I5zYA&t=130s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=130s)
 
-**4. JJ Redick — "we got to get this guy in our locker room" — JJ Redick on the acquisition of Ziaire Williams** [06:42](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=402s)
+**4. JJ Redick — "you can't try to get better at nine things at the same time" — JJ Redick on the difficulty of improving multiple areas** [03:13](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=193s)
+
+JJ Redick: "You can't try to get better at nine things at the same time. Basically, when you focus on, let's say defense, we put an emphasis on defense and get better and all that stuff, your screening may suffer. And like we talked about, that was our emphasis today. Our screening has been dogshit. Part of the reason we haven't been good on offense, we missed shots for sure, but we've also not screened well."
+
+[https://www.youtube.com/watch?v=ypeK_6I5zYA&t=193s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=193s)
+
+**5. JJ Redick — "we got to get this guy in our locker room" — JJ Redick on signing Ziaire Williams** [06:42](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=402s)
 
 JJ Redick: "**Ziaire Williams** was supposed to make six and a half million from Brooklyn this year and then he was a non-guaranteed deal so they wave him and he becomes a free agent. He was willing to go to a gym in Vegas and work out for our coaching staff and for Rob. We put him through that, he looked great. I met with him the next day at the hotel for about 45 minutes and towards the middle of that conversation I just kept thinking to myself, holy shit, we got to get this guy in our locker room. We need this guy to be a Laker."
 
 [https://www.youtube.com/watch?v=ypeK_6I5zYA&t=402s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=402s)
 
-**5. Austin Reaves — "felt good to play basketball again" — Austin Reaves on returning from injury** [10:42](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=642s)
+**6. Austin Reaves — "felt good to play basketball again" — Austin Reaves on returning to play after injury** [10:42](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=642s)
 
-Austin Reaves: "It felt good to play basketball again. The win was a little bad, but kind of to be expected being out two weeks. Felt good, we will see how I wake up tomorrow if we are still going in the right direction, but felt really good today."
+Austin Reaves: "It felt good to play basketball again. The wind was a little bad, but kind of to be expected being out two weeks. Felt good, we'll see how I wake up tomorrow if we're still going in the right direction, but felt really good today."
 
 [https://www.youtube.com/watch?v=ypeK_6I5zYA&t=642s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=642s)
 
-**6. Austin Reaves — "put a dent in my insole and carved out a little place in the insole" — Austin Reaves on the nature of his foot injury** [11:49](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=709s)
+**7. Austin Reaves — "It was just a heel contusion" — Austin Reaves on the nature of his foot injury** [11:07](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=667s)
 
-Austin Reaves: "I think that is kind of the only explanation, put a dent in my insole and carved out a little place in the insole. I think it was just the impact and kind of the way I landed. I think I was kind of twisting in the air as well as I came down on the inside, but yeah, we are moving past that."
+Austin Reaves: "I had no idea. I tried to play through it and then I drove baseline, planted on it and was like, I can't do this. So I walked to the back and was in some pretty bad pain. I didn't think I broke my foot, but it sure felt like I broke my foot. But it was just a heel contusion and there's not much you can really do. You try to stay off of it as much as possible, but there's no certain thing you can do to make the process speed up. You kind of just got to let time take care of everything."
 
-[https://www.youtube.com/watch?v=ypeK_6I5zYA&t=709s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=709s)
+[https://www.youtube.com/watch?v=ypeK_6I5zYA&t=667s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=667s)
 
-**7. Walker Kessler — "got to be more physical in screens, got to make better contact" — Walker Kessler on improving screen setting and contact** [17:16](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1036s)
+**8. Walker Kessler — "got to be more physical in screens" — Walker Kessler on improving his defensive impact** [17:16](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1036s)
 
-Walker Kessler: "I think as a team, me included, got to be more physical in screens, got to make better contact. Me personally, got to have better angles, force that over, just continue to work on that will be good."
+Walker Kessler: "I think as a team, me included, got to be more physical in screens, got to make better contact. Me personally, got to have better angles, you know, kind of force that over. Just continue to work on that will be good."
 
 [https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1036s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1036s)
 
-**8. Walker Kessler — "he does exactly what you need to hear, not what you want to hear" — Walker Kessler on JJ Redick's coaching style** [17:33](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1053s)
+**9. Walker Kessler — "He does exactly what you need to hear, not what you want to hear" — Walker Kessler on JJ Redick's radical transparency** [17:33](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1053s)
 
-Walker Kessler: "I love it. I think he does exactly what you need to hear, not what you want to hear all the time and a coach that can do that is not afraid to do that, I respect. The players respect that and it doesn't waste a lot of time. You get a lot more stuff done instead of dancing around subjects, he is very blunt and I think it is a good way to be."
+Walker Kessler: "I love it. I think he does exactly what you need to hear, not what you want to hear all the time and a coach that can do that, is not afraid to do that, I respect. I think the players respect that and it doesn't waste a lot of time. You get a lot more stuff done instead of dancing around subjects, you know, he's very blunt and I think it's a good way to be."
 
 [https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1053s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1053s)
 
-**9. Walker Kessler — "he plays a lot more physical now, stronger" — Walker Kessler on his physical development** [18:41](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1121s)
+**10. Walker Kessler — "obviously the matchup with Wembanyama, he's a great player" — Walker Kessler on the upcoming matchup against Victor Wembanyama** [18:10](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1090s)
 
-Walker Kessler: "He is obviously older, more mature. I think he plays a lot more physical now, stronger. I know he looks a little skinnier, but he is strong. He is a lot stronger than he actually looks. He plays with a lot more physicality now, probably a lot more, not that he didn't have confidence before, but a lot more confidence as well. So, you know, he is putting up some crazy numbers."
+Walker Kessler: "Obviously the matchup with Wembanyama, he's a great player, unprecedented the kind of player he is. But like you said, it's going to be a team effort. For me, I'm just going to focus on doing what I do to win the game and hope the team win."
 
-[https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1121s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1121s)
-
-**10. Walker Kessler — "I try to fix too many things in my head when I'm at the free throw line" — Walker Kessler on his free throw routine** [19:30](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1170s)
-
-Walker Kessler: "I try to fix too many things in my head when I'm at the free throw line and we are kind of trying to simplify it and to thinking one or two thoughts to really focus on and go to the free throw line with confidence."
-
-[https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1170s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1170s)
+[https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1090s](https://www.youtube.com/watch?v=ypeK_6I5zYA&t=1090s)

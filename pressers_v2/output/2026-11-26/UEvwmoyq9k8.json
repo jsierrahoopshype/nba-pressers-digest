@@ -7,35 +7,57 @@
     {
       "rank": 1,
       "speaker": "Unidentified speaker",
-      "speakers": [
-        "Unidentified speaker",
-        "Unidentified speaker"
-      ],
-      "timestamp": "00:41",
-      "summary_phrase": "Comparing Yaxel Lendeborg's versatility to a young LeBron James",
+      "speakers": [],
+      "timestamp": "00:05",
+      "summary_phrase": "Yaxel Lendeborg's development as an all-around NBA player",
       "names_mentioned": [
         "Yaxel Lendeborg",
-        "LeBron James",
         "Stephen Curry"
       ],
-      "excerpt": "the way he plays his versatility it reminds me of a young LeBron James",
-      "quote": "",
-      "text_blocks": [
-        {
-          "speaker": "Unidentified speaker",
-          "text": "It will make him a dangerous player. I know this is going to sound crazy, but bear with me. The way he plays his versatility it reminds me of a young LeBron James. So what I'd like to see, we know he can score the ball, we know he can rebound, I'd like to see more playmaking from him, especially with Stephen Curry out, getting more guys involved, being the number two option for this team."
-        },
-        {
-          "speaker": "Unidentified speaker",
-          "text": "I just think this is a learning curve for him and I think it's really good for him as well and for the Warriors down the road. Now it sucks that they're losing games, but this is just a small sample size within an 82-game season. And what you're trying to do during the season, you're trying to figure out what works when you get to the playoffs."
-        }
+      "excerpt": "This is the building of an all-around player in Yaxel Lendeborg.",
+      "quote": "This is the building of an all-around player in Yaxel Lendeborg. His ability to score has already been on display. A young guy averaging 20 points a game in the NBA at his age, 24, first year in the league, that's impressive. What I love even more than that is the seven rebounds. His ability to affect the game in different ways. His assist numbers, they've actually gone down the last few games because the Warriors have not been scoring very well, but I love his ability to playmaker. You see his versatility, his ability to handle the basketball. His body build and his versatility is going to make him a very dangerous player in the NBA for a long time.",
+      "verbatim_original_language": "",
+      "start_seconds": 5,
+      "end_seconds": 52,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Yaxel Lendeborg is proving to be a dangerous NBA threat. Averaging 20 points as a rookie is impressive, but his versatility, playmaking, and ability to affect the game in different ways are what will make him a long-term force for the Warriors.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Yaxel Lendeborg"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "An analyst discusses the development and versatile skill set of rookie Yaxel Lendeborg for the Golden State Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Unidentified speaker",
+      "speakers": [],
+      "timestamp": "00:43",
+      "summary_phrase": "Yaxel Lendeborg's potential as a playmaker and secondary option",
+      "names_mentioned": [
+        "LeBron James",
+        "Stephen Curry",
+        "Yaxel Lendeborg"
       ],
-      "start_seconds": 41,
-      "end_seconds": 96,
+      "excerpt": "The way he plays his versatility, it reminds me of a poor LeBron James.",
+      "quote": "The way he plays his versatility, it reminds me of a poor LeBron James. What I'd like to see, we know he can score the ball, we know he can rebound. I'd like to see more playmaking from him, especially with Steph out, getting more guys involved, being the number two option for this team. I just think this is a learning curve for him. It's really good for him as well and for the Warriors down the road. Now, it sucks that they're losing games, but this is just a small sample size within an 82-game season. You're trying to figure out what works when you get to the playoffs. Who can you put certain guys with? Who pairs well together? At some point, Steph may be hurt again, and we might not live this reality where we get smacked down on the road. I think this is good for him and I think it's good for the team long-term.",
+      "verbatim_original_language": "",
+      "start_seconds": 43,
+      "end_seconds": 105,
       "speaker_confidence": "inferred",
       "news_score": 6,
       "social_score": 5,
-      "social_post": "Comparing Yaxel Lendeborg to a young LeBron James might sound crazy but the versatility is there. He needs to focus on playmaking while Steph Curry is out to really grow as a number two option for the Warriors.",
+      "social_post": "Yaxel Lendeborg reminds me of a poor LeBron James. While the Warriors are struggling without Steph, this is a vital learning curve for Lendeborg to step up as the number two option and develop his playmaking for the long haul.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
@@ -47,33 +69,32 @@
         "teams": [
           "GSW"
         ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "An analyst discusses Yaxel Lendeborg's versatility and potential role as a playmaker while Stephen Curry is sidelined.",
+        "topics": [],
+        "context": "An analyst evaluates Yaxel Lendeborg's potential as a playmaker and secondary option while Stephen Curry is sidelined with an injury.",
         "best": false,
         "prompt": "47544341"
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "speaker": "Unidentified speaker",
+      "speakers": [],
       "timestamp": "01:35",
-      "summary_phrase": "Evaluating Yaxel Lendeborg's efficiency and role on the Warriors",
+      "summary_phrase": "Evaluating Yaxel Lendeborg's efficiency and role on the floor",
       "names_mentioned": [
         "Yaxel Lendeborg",
         "Stephen Curry",
         "Brandon Williams"
       ],
-      "excerpt": "his efficiency numbers before Stephen Curry got hurt you saw them up there was 45 36",
-      "quote": "A lot of things set Yaxel Lendeborg apart from a normal rookie. His size, his strength, his length, his skill level is off the charts. He can do everything, play inside-out, he can match up defensively across the front line, he can play some threes, fours, or fives. But his efficiency numbers before Stephen Curry got hurt, you saw them up there was 45-36. He was 47-40, close to 80 percent. So Stephen Curry's absence has affected his efficiency numbers like it has everyone. But we've seen what he's able to do. I think it's really important who's on the floor with him, affecting his spacing, because we know he likes to put the ball on the floor and get to the paint. You need spacing for that. So having shooters, I think Brandon Williams tonight, his speed will help him. But I think when Stephen Curry is out, he's the guy you have to really focus on and who to play around him, because he's the guy that can go get his own shot and get his teammate a shot.",
+      "excerpt": "Steph's absence has affected his efficiency numbers like it has everyone.",
+      "quote": "A lot of things set Yaxel apart from a normal rookie. His size, his strength, his length, his skill level is off the charts. He can do everything, play inside-out. He can match up defensively across the front line. He can play some threes, fours, or fives. But his efficiency numbers before Steph got hurt, you saw them up there, it was 45-36. He was 47-40, close to 80%. So Steph's absence has affected his efficiency numbers like it has everyone. We've seen what he's able to do. I think it's really important who's on the floor with him affecting his spacing because we know he likes to put the ball on the floor and get to the paint. You need spacing for that. So having shooters, I think Brandon Williams tonight, his speed will help him. But I think when Steph's out, he's the guy you have to really focus on and who to play around him because he's the guy that can go get his own shot and get his teammate a shot.",
       "verbatim_original_language": "",
       "start_seconds": 95,
       "end_seconds": 154,
       "speaker_confidence": "inferred",
       "news_score": 5,
-      "social_score": 3,
-      "social_post": "Yaxel Lendeborg has the size and skill to play multiple positions but his efficiency is taking a hit without Steph Curry. It is all about finding the right spacing to let him get to the paint.",
+      "social_score": 2,
+      "social_post": "Yaxel Lendeborg is not your normal rookie. His size, strength, and ability to defend multiple positions are off the charts. The key for him moving forward is finding the right spacing to maximize his efficiency while Steph Curry is sidelined.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
@@ -85,10 +106,8 @@
         "teams": [
           "GSW"
         ],
-        "topics": [
-          "teammates"
-        ],
-        "context": "An analyst evaluates Yaxel Lendeborg's efficiency and the importance of floor spacing while Stephen Curry is out.",
+        "topics": [],
+        "context": "An analyst breaks down how Yaxel Lendeborg's efficiency is impacted by the absence of Stephen Curry and the need for better floor spacing.",
         "best": false,
         "prompt": "47544341"
       }
@@ -104,7 +123,7 @@
   "channel_team": "Golden State Warriors",
   "published": "2026-11-26T03:14:47Z",
   "duration_seconds": 154,
-  "processed_at": "2026-11-26T09:41:55Z",
+  "processed_at": "2026-11-26T09:45:32Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false,
   "no_clips": true,

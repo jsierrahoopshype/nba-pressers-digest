@@ -25,15 +25,15 @@
         },
         {
           "speaker": "De’Anthony Melton",
-          "text": "That's my dog right there. He do so many great things on the court and especially in transition and his speed and quickness to get to the rim. I don't think there's too many people really stopping him getting there. It's just about making layups and he made seven of them today, so he's just exceptional."
+          "text": "He is my dog right there. He do so many great things on the court and especially in transition and his speed and quickness to get to the rim. I don't think there is too many people really stopping him getting there. It is just about making layups and he made seven of them today, so he is just exceptional."
         }
       ],
       "start_seconds": 38,
-      "end_seconds": 70,
+      "end_seconds": 71,
       "speaker_confidence": "named",
-      "news_score": 5,
-      "social_score": 4,
-      "social_post": "De Anthony Melton on Brandon Williams after his debut: That is my dog right there. He does so many great things on the court and especially in transition. I do not think there are too many people really stopping him from getting to the rim.",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "De Anthony Melton on Brandon Williams after his return to the Warriors rotation: He is my dog right there. He does so many great things on the court and his speed and quickness to get to the rim is exceptional.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
@@ -47,7 +47,7 @@
           "injuries",
           "teammates"
         ],
-        "context": "De’Anthony Melton discusses the impact of Brandon Williams returning from injury in the Warriors' win against the Kings.",
+        "context": "De’Anthony Melton discusses the impact of Brandon Williams returning from injury during the Warriors' win against the Kings.",
         "best": true,
         "prompt": "47544341"
       }
@@ -59,26 +59,26 @@
         "Unidentified reporter",
         "De’Anthony Melton"
       ],
-      "timestamp": "01:04",
-      "summary_phrase": "Warriors' philosophy on defending home court after road trips",
+      "timestamp": "01:03",
+      "summary_phrase": "Warriors' philosophy on protecting home court after road trips",
       "names_mentioned": [],
-      "excerpt": "We got to protect home court no matter what, so I think we're doing a great job",
+      "excerpt": "We got to protect home court no matter what, so I think we are doing a great job",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
-          "text": "Two games back-to-back at home, two wins. What's been the philosophy coming back home after a tough road trip?"
+          "text": "Two games back-to-back at home, two wins. What has been the philosophy coming back home after a tough road trip?"
         },
         {
           "speaker": "De’Anthony Melton",
-          "text": "This little skid we had, we felt like we was getting punched in the mouth, so we wanted to come out here and just start punching first and get more discipline on both sides of the ball. We got to protect home court no matter what, so I think we're doing a great job of that. Now it's just about continuing this run and keep it going."
+          "text": "This little skid we had, we felt like we were getting punched in the mouth, so we wanted to come out here and start punching first and get more discipline on both sides of the ball. We got to protect home court no matter what, so I think we are doing a great job of that. Now it is just about continuing this run and keeping it going."
         }
       ],
-      "start_seconds": 64,
+      "start_seconds": 63,
       "end_seconds": 97,
       "speaker_confidence": "named",
       "news_score": 6,
       "social_score": 3,
-      "social_post": "De Anthony Melton on the Warriors recent home wins: We felt like we were getting punched in the mouth, so we wanted to come out here and just start punching first and get more discipline on both sides of the ball.",
+      "social_post": "De Anthony Melton on the Warriors mindset after a tough road trip: We felt like we were getting punched in the mouth so we wanted to come out here and start punching first and get more discipline on both sides of the ball.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
@@ -87,7 +87,7 @@
           "GSW"
         ],
         "topics": [],
-        "context": "De’Anthony Melton explains the Warriors' mindset regarding defending their home court after returning from a road trip.",
+        "context": "De’Anthony Melton explains the team's mindset regarding protecting home court following a difficult road trip.",
         "best": false,
         "prompt": "47544341"
       }
@@ -99,26 +99,26 @@
         "Unidentified speaker",
         "De’Anthony Melton"
       ],
-      "timestamp": "01:28",
-      "summary_phrase": "Warriors' ball movement and high-quality shot selection",
+      "timestamp": "01:27",
+      "summary_phrase": "Warriors' focus on ball movement and high-quality shot selection",
       "names_mentioned": [],
-      "excerpt": "We tweaked a couple things that people were kind of scouting on us",
+      "excerpt": "It seems like much better shot, high-quality shots you guys are getting",
       "text_blocks": [
         {
           "speaker": "Unidentified speaker",
-          "text": "You guys get 37 assists on 49 buckets and 20 made threes as a team. Talk about the catch and shoot threes, because that tells me the ball is moving."
+          "text": "You guys get 37 assists on 49 buckets and 20 made threes as a team. Talk about how many catch-and-shoot threes you guys get up, because that tells me the ball is moving, they are in rhythm, and it seems like much better shot, high-quality shots you guys are getting."
         },
         {
           "speaker": "De’Anthony Melton",
-          "text": "We tweaked a couple things that people were kind of scouting on us. We changed a couple things and also we were just sticking to our game plan and just making sure the ball was moving as long as our bodies. We trying to keep the defense honest and just keep them in misdirection."
+          "text": "We tweaked a couple things that people were kind of scouting on us, so we changed a couple things and also we were just sticking to our game plan and just making sure the ball was moving as long as our bodies. We are trying to keep the defense honest and just keep them in misdirection."
         }
       ],
-      "start_seconds": 88,
-      "end_seconds": 120,
+      "start_seconds": 87,
+      "end_seconds": 128,
       "speaker_confidence": "named",
-      "news_score": 4,
+      "news_score": 5,
       "social_score": 2,
-      "social_post": "De Anthony Melton on the Warriors ball movement: We tweaked a couple things that people were scouting on us. We were just sticking to our game plan and making sure the ball was moving as long as our bodies to keep the defense honest.",
+      "social_post": "De Anthony Melton on the Warriors offensive adjustments: We tweaked a couple things that people were scouting on us and we were just sticking to our game plan and making sure the ball was moving as long as our bodies.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
@@ -127,7 +127,7 @@
           "GSW"
         ],
         "topics": [],
-        "context": "De’Anthony Melton explains the adjustments the Warriors made to their offensive ball movement and shot selection.",
+        "context": "De’Anthony Melton describes the adjustments the Warriors made to their offensive game plan to improve ball movement and shot quality.",
         "best": false,
         "prompt": "47544341"
       }
@@ -140,27 +140,27 @@
         "De’Anthony Melton"
       ],
       "timestamp": "02:06",
-      "summary_phrase": "Adjusting the Warriors' rotation during Stephen Curry's absence",
+      "summary_phrase": "Adjusting to non-Stephen Curry minutes in the rotation",
       "names_mentioned": [
         "Stephen Curry"
       ],
-      "excerpt": "When he's off the court, we got to just make sure we maintain the lead",
+      "excerpt": "When he is in the game, he is going to do so many great things for us",
       "text_blocks": [
         {
           "speaker": "Unidentified reporter",
-          "text": "A big conversation has been the non-Steph minutes. How do you guys view this period right now that you're playing without Steph in the lineup?"
+          "text": "A big conversation has been the non-Stephen Curry minutes. I think personally that is a chance for you guys to work on those non-Stephen Curry minutes. How do you guys view this period right now that you are playing without Stephen in the lineup?"
         },
         {
           "speaker": "De’Anthony Melton",
-          "text": "When he's in the game, he's going to do so many great things for us that when he's off the court, we got to just make sure we maintain the lead and sometimes when we're winning, even grow the lead. So we're just trying to figure it out when he's not on the floor and I think we're coming around that corner with it."
+          "text": "Just like you said, non-Stephen minutes, we got to win those minutes because when he is in the game, he is going to do so many great things for us. When he is off the court, we got to just make sure we maintain the lead and sometimes when we are winning, even grow the lead. We are trying to figure it out when he is not on the floor and I think we are coming around that corner with it."
         }
       ],
       "start_seconds": 126,
-      "end_seconds": 160,
+      "end_seconds": 174,
       "speaker_confidence": "named",
       "news_score": 7,
       "social_score": 3,
-      "social_post": "De Anthony Melton on playing without Steph Curry: When he is off the court, we have to just make sure we maintain the lead and sometimes when we are winning, even grow the lead. We are just trying to figure it out.",
+      "social_post": "De Anthony Melton on the Warriors playing without Stephen Curry: When he is off the court we have to make sure we maintain the lead and sometimes even grow the lead. We are trying to figure it out and we are coming around that corner.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
@@ -171,7 +171,7 @@
           "GSW"
         ],
         "topics": [],
-        "context": "De’Anthony Melton discusses how the Warriors are managing their rotation and maintaining leads while Stephen Curry is out of the lineup.",
+        "context": "De’Anthony Melton discusses the importance of the team maintaining or extending leads while Stephen Curry is off the floor.",
         "best": false,
         "prompt": "47544341"
       }
@@ -186,7 +186,7 @@
       "timestamp": "02:37",
       "summary_phrase": "Depth and next-man-up mentality on the Warriors' roster",
       "names_mentioned": [],
-      "excerpt": "I think that's the beauty of this team, we got so much depth and so much confidence",
+      "excerpt": "I think the beauty of this team, we got so much depth and we got so much confidence",
       "text_blocks": [
         {
           "speaker": "Unidentified speaker",
@@ -194,15 +194,15 @@
         },
         {
           "speaker": "De’Anthony Melton",
-          "text": "I've been saying it since day one, how much depth we got. I think anybody on this team can really go. The dudes that's not even really playing can still go. I think that's the beauty of this team, we got so much depth and so much confidence that anybody that steps up, it's always next man up for sure."
+          "text": "I have been saying this since day one, how much depth we got. I think anybody on this team could really go. The dudes that are not even really playing can still go. I think the beauty of this team, we got so much depth and we got so much confidence that anybody that steps up, it is always next man up for sure."
         }
       ],
       "start_seconds": 157,
-      "end_seconds": 187,
+      "end_seconds": 188,
       "speaker_confidence": "named",
-      "news_score": 5,
+      "news_score": 6,
       "social_score": 3,
-      "social_post": "De Anthony Melton on the Warriors bench depth: I have been saying it since day one, how much depth we have. I think anybody on this team can really go. It is always next man up for sure.",
+      "social_post": "De Anthony Melton on the Warriors bench depth: I have been saying this since day one. The beauty of this team is we have so much depth and confidence that anybody that steps up it is always next man up for sure.",
       "team": "Golden State Warriors",
       "structured": {
         "speaker_role": "player",
@@ -214,7 +214,7 @@
         "topics": [
           "teammates"
         ],
-        "context": "De’Anthony Melton praises the depth of the Warriors' roster following a high-scoring performance from the bench against the Kings.",
+        "context": "De’Anthony Melton praises the depth of the Warriors' roster after the bench outscored the Kings' reserves.",
         "best": false,
         "prompt": "47544341"
       }
@@ -230,7 +230,7 @@
   "channel_team": "Golden State Warriors",
   "published": "2026-11-26T05:59:31Z",
   "duration_seconds": 202,
-  "processed_at": "2026-11-26T09:40:06Z",
+  "processed_at": "2026-11-26T09:44:17Z",
   "run_id": "2026-11-26-overnight",
   "is_one_off": false,
   "no_clips": true,
