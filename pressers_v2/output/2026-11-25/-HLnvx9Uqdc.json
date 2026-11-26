@@ -1,0 +1,134 @@
+{
+  "video_title": "We Played One of the HOTTEST Teams in the NBA… (NBA gameday vlog)",
+  "speakers_seen": [
+    "Ayo Dosunmu",
+    "Jaden McDaniels",
+    "Rudy Gobert",
+    "Anthony Edwards"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Ayo Dosunmu",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "02:14",
+      "summary_phrase": "Ayo Dosunmu and Jaden McDaniels bet on push-up challenge",
+      "names_mentioned": [
+        "Ayo Dosunmu",
+        "Jaden McDaniels"
+      ],
+      "excerpt": "Four goats right here for $100. You want it?",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Four goats right here for $100. You want it?"
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "You can't do that."
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "For you. Four goats for $100."
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "He can't do six goats."
+        }
+      ],
+      "start_seconds": 134,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_score": null,
+      "social_post": "",
+      "team": "Ayo Dosunmu"
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Ayo Dosunmu",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "04:19",
+      "summary_phrase": "Ayo Dosunmu challenges Jaden McDaniels to push-up bet",
+      "names_mentioned": [
+        "Ayo Dosunmu",
+        "Jaden McDaniels"
+      ],
+      "excerpt": "I will give you $150 if you can do 20 push-ups straight.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "I will give you $150 if you can do 20 push-ups straight."
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "20 push-ups for $150? Real push-ups?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Real push-ups."
+        }
+      ],
+      "start_seconds": 259,
+      "end_seconds": 267,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_score": null,
+      "social_post": "",
+      "team": "Ayo Dosunmu"
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Ayo Dosunmu",
+        "Jaden McDaniels"
+      ],
+      "timestamp": "05:47",
+      "summary_phrase": "Ayo Dosunmu challenges Jaden McDaniels to seven jump jacks",
+      "names_mentioned": [
+        "Ayo Dosunmu",
+        "Jaden McDaniels"
+      ],
+      "excerpt": "You can't do seven in a minute.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "You can't do seven in a minute."
+        },
+        {
+          "speaker": "Jaden McDaniels",
+          "text": "Seven in a minute? Yes."
+        }
+      ],
+      "start_seconds": 347,
+      "end_seconds": 352,
+      "speaker_confidence": "named",
+      "news_score": null,
+      "social_score": null,
+      "social_post": "",
+      "team": "Ayo Dosunmu"
+    }
+  ],
+  "content_type": "podcast",
+  "content_type_source": "yt-quotes rotation",
+  "source": "hoopshype-yt-quotes",
+  "format": "ytq-1",
+  "video_id": "-HLnvx9Uqdc",
+  "url": "https://www.youtube.com/watch?v=-HLnvx9Uqdc",
+  "channel_team": "Ayo Dosunmu",
+  "published": "2026-11-25T21:11:11Z",
+  "duration_seconds": 1222,
+  "processed_at": "2026-11-26T02:51:06Z",
+  "run_id": "2026-11-26T0250Z-20utc",
+  "is_one_off": false
+}

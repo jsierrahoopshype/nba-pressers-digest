@@ -104,6 +104,60 @@ From: [Is Tyrese Maxey a Top 5 Player in the NBA Right Now?](https://www.youtube
 
 <small>[Clip it](presserclips://clip?v=O-J1HnIYb40&t=202&q=4) · [Send to Slack](presserclips://clip?v=O-J1HnIYb40&t=202&q=4&slack=1)</small>
 
+**10. Draymond Green — "Coach texted me after the Dallas game like, yo, how you holding up? I'm like, basketball sucks." — Draymond Green on his conversation with Steve Kerr after the Dallas game** [01:37](https://www.youtube.com/watch?v=ZkX2vDaQSfQ&t=97s)
+
+Draymond Green: "What that conversation was was like, yo, coach texted me after the Dallas game like, yo, how you holding up? I'm like, basketball sucks, basketball sucks, getting old sucks, all of it sucks. Losing my mind actually. He's like, you want to talk? Absolutely, I love to talk. And in that talk, I said, number one, coach, I just want you to know, you know, when you have a rough night, for me, I think of everything. And so, just want you to know, coach, by the way, if you want, and you overreact, too, coach, you want to bring me off the bench, like, don't hesitate. He's like, man, I didn't even thought about that actually. It's like, but here's what I want to do, and we went through that."
+
+[https://www.youtube.com/watch?v=ZkX2vDaQSfQ&t=97s](https://www.youtube.com/watch?v=ZkX2vDaQSfQ&t=97s)
+
+From: [Draymond Green Responds to Eddie Johnson, Emmanuel Acho & Baron Davis Over His NBA Legacy](https://www.youtube.com/watch?v=ZkX2vDaQSfQ) · *The Draymond Green Show*
+
+<small>[Clip it](presserclips://clip?v=ZkX2vDaQSfQ&t=97&q=2) · [Send to Slack](presserclips://clip?v=ZkX2vDaQSfQ&t=97&q=2&slack=1)</small>
+
+---
+
+## We Played One of the HOTTEST Teams in the NBA… (NBA gameday vlog) — *Ayo Dosunmu*
+
+Source: [https://www.youtube.com/watch?v=-HLnvx9Uqdc](https://www.youtube.com/watch?v=-HLnvx9Uqdc)
+
+_Speakers identified: Ayo Dosunmu, Jaden McDaniels, Rudy Gobert, Anthony Edwards_
+
+**1. Ayo Dosunmu — "Four goats right here for $100. You want it?" — Ayo Dosunmu and Jaden McDaniels bet on push-up challenge** [02:14](https://www.youtube.com/watch?v=-HLnvx9Uqdc&t=134s)
+
+**Ayo Dosunmu:** "Four goats right here for $100. You want it?"
+
+**Jaden McDaniels:** "You can't do that."
+
+**Ayo Dosunmu:** "For you. Four goats for $100."
+
+**Jaden McDaniels:** "He can't do six goats."
+
+[https://www.youtube.com/watch?v=-HLnvx9Uqdc&t=134s](https://www.youtube.com/watch?v=-HLnvx9Uqdc&t=134s)
+
+<small>[Clip it](presserclips://clip?v=-HLnvx9Uqdc&t=134&q=1) · [Send to Slack](presserclips://clip?v=-HLnvx9Uqdc&t=134&q=1&slack=1)</small>
+
+**2. Ayo Dosunmu — "I will give you $150 if you can do 20 push-ups straight." — Ayo Dosunmu challenges Jaden McDaniels to push-up bet** [04:19](https://www.youtube.com/watch?v=-HLnvx9Uqdc&t=259s)
+
+**Ayo Dosunmu:** "I will give you $150 if you can do 20 push-ups straight."
+
+**Jaden McDaniels:** "20 push-ups for $150? Real push-ups?"
+
+**Ayo Dosunmu:** "Real push-ups."
+
+[https://www.youtube.com/watch?v=-HLnvx9Uqdc&t=259s](https://www.youtube.com/watch?v=-HLnvx9Uqdc&t=259s)
+
+<small>[Clip it](presserclips://clip?v=-HLnvx9Uqdc&t=259&q=2) · [Send to Slack](presserclips://clip?v=-HLnvx9Uqdc&t=259&q=2&slack=1)</small>
+
+**3. Ayo Dosunmu — "You can't do seven in a minute." — Ayo Dosunmu challenges Jaden McDaniels to seven jump jacks** [05:47](https://www.youtube.com/watch?v=-HLnvx9Uqdc&t=347s)
+
+**Ayo Dosunmu:** "You can't do seven in a minute."
+
+**Jaden McDaniels:** "Seven in a minute? Yes."
+
+[https://www.youtube.com/watch?v=-HLnvx9Uqdc&t=347s](https://www.youtube.com/watch?v=-HLnvx9Uqdc&t=347s)
+
+<small>[Clip it](presserclips://clip?v=-HLnvx9Uqdc&t=347&q=3) · [Send to Slack](presserclips://clip?v=-HLnvx9Uqdc&t=347&q=3&slack=1)</small>
+
 ---
 
 ## Can a Healthy Timberwolves Team Really Challenge the Spurs? | Chris Mannix & Evan Turner — *Sports Illustrated*
