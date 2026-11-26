@@ -1,0 +1,237 @@
+{
+  "video_title": "Josh Hart, Jose Alvarado, and Pacome Dadiet Postgame Media | November 25, 2026",
+  "speakers_seen": [
+    "Josh Hart",
+    "Jose Alvarado",
+    "Pacome Dadiet"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Josh Hart",
+      "timestamp": "00:10",
+      "summary_phrase": "Josh Hart on maintaining a fast-paced, open-court offensive strategy",
+      "names_mentioned": [],
+      "excerpt": "I trust my work all the time and I was open and they found me on the right timing",
+      "quote": "Run the floor. I knew we had to get out on a fast break and just run to our open spots. I trust my work all the time and I was open and they found me on the right timing and I shot it and it went in today.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 29,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Josh Hart on the Knicks transition offense: Run the floor. I knew we had to get out on a fast break and just run to our open spots. I trust my work all the time.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Josh Hart discusses the team's offensive strategy and his own performance during the postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Josh Hart",
+      "timestamp": "00:49",
+      "summary_phrase": "Josh Hart on the bench's impact and team depth",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "Those guys are going to carry us enough. We always have their backs and they always have ours.",
+      "quote": "It is big for our team. Those guys are going to carry us enough. Today, obviously, it was an all-around game but we always have their backs and they always have ours. It just shows you what type of team we are. It could be anybody any night, but they are going to carry us to the promise land.",
+      "text_blocks": [],
+      "start_seconds": 49,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Josh Hart on the Knicks bench depth: It could be anybody any night, but they are going to carry us to the promise land.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Josh Hart comments on the importance of the bench unit and the team's overall depth.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Josh Hart",
+      "timestamp": "01:25",
+      "summary_phrase": "Josh Hart on the team's 'stay ready' mentality",
+      "names_mentioned": [
+        "Jalen Brunson"
+      ],
+      "excerpt": "Everybody says that, stay ready no matter what, and we are big fans on that.",
+      "quote": "You can be upset, but you cannot dwell on it. We are competitors at the end of the day. Obviously, everybody wants to play, but that is just not the game of how it goes. You just stay ready. Everybody says that, stay ready no matter what, and we are big fans on that. Everybody carries each other like that. It is big on the vets too. Jalen Brunson was in my ear the whole shootaround today, just telling everybody to stay ready because you never know when your name is called or your number.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Josh Hart says Jalen Brunson was in his ear all shootaround emphasizing the stay ready mentality: You can be upset, but you cannot dwell on it. We are competitors at the end of the day.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Brunson"
+        ],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Josh Hart explains the team's stay ready mentality and mentions Jalen Brunson's leadership during shootaround.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jose Alvarado",
+      "timestamp": "03:15",
+      "summary_phrase": "Jose Alvarado on finding his rhythm and getting his body right",
+      "names_mentioned": [],
+      "excerpt": "I feel like I am starting to get into a better rhythm. Mentally, I am there.",
+      "quote": "I feel like I am starting to get into a better rhythm. Mentally, I am there. I have been trying to get my body on track and I feel like I am in a good spot right now. I have to make sure I just continue to stack days, continue to play well, continue to find these guys when they are open, and try to impact the game any way I can.",
+      "text_blocks": [],
+      "start_seconds": 195,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jose Alvarado on his current status: I feel like I am starting to get into a better rhythm. Mentally, I am there. I have been trying to get my body on track and I feel like I am in a good spot right now.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jose Alvarado discusses his physical recovery and his efforts to find a better rhythm on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jose Alvarado",
+      "timestamp": "03:56",
+      "summary_phrase": "Jose Alvarado on the team's composure after an 0-3 start",
+      "names_mentioned": [],
+      "excerpt": "I don't think we had any panic. It was a possession game each of those three losses.",
+      "quote": "I don't think we had any panic. It was not like we started 0-3 and we were getting blown out by 15-20 every game. It was a possession game each of those three losses and it could have went either way. We knew that. We knew it was just a play here, a play there that could have changed the game. We just try to make sure we are focused on every possession.",
+      "text_blocks": [],
+      "start_seconds": 236,
+      "end_seconds": 264,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jose Alvarado on the team's 0-3 start: I don't think we had any panic. It was not like we were getting blown out. It was a possession game each of those three losses.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jose Alvarado reflects on the team's composure following their 0-3 start to the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Pacome Dadiet",
+      "timestamp": "04:42",
+      "summary_phrase": "Pacome Dadiet on accepting accountability and learning from film",
+      "names_mentioned": [
+        "Mike"
+      ],
+      "excerpt": "You just got to take accountability at the end of the day. He showed me some clips.",
+      "quote": "You just got to take accountability at the end of the day. He showed me some clips, so it was clear, obvious. You just got to nod your head and keep going. I think Mike said the other day that Mo had his turn and now it is your turn to replace him in the lineup.",
+      "text_blocks": [],
+      "start_seconds": 282,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Pacome Dadiet on learning from film: You just got to take accountability at the end of the day. He showed me some clips, so it was clear, obvious. You just got to nod your head and keep going.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mo"
+        ],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Pacome Dadiet discusses learning from film and mentions a coaching decision regarding his role in the lineup replacing Mo.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Pacome Dadiet",
+      "timestamp": "05:43",
+      "summary_phrase": "Pacome Dadiet on his physical approach to earning veteran trust",
+      "names_mentioned": [],
+      "excerpt": "Trying to be physical at all times and playing hard, running to the corners, cut hard.",
+      "quote": "Trying to be physical at all times and playing hard, running to the corners, cut hard. Literally playing hard in anything I do. I think earning the trust of the vets is essential and I feel like they trust me and they always been good vets to me, so I feel comfortable out there and really thankful for that.",
+      "text_blocks": [],
+      "start_seconds": 343,
+      "end_seconds": 366,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Pacome Dadiet on earning the trust of his veteran teammates: Trying to be physical at all times and playing hard. I think earning the trust of the vets is essential and I feel like they trust me.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Pacome Dadiet explains his approach to earning the trust of his veteran teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "JSgQykKe4uE",
+  "url": "https://www.youtube.com/watch?v=JSgQykKe4uE",
+  "channel_team": "New York Knicks",
+  "published": "2026-11-26T14:43:33Z",
+  "duration_seconds": 417,
+  "processed_at": "2026-11-26T19:43:08Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

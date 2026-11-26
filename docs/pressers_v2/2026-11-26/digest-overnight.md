@@ -1,5 +1,7 @@
 # NBA Pressers — 2026-11-26
 
+[Podcasts & shows](podcasts-overnight.md)
+
 # Best of the best
 
 **1. Dalton Johnson — "Steph Curry's re-evaluation will come Friday before that Blazers game." — Steph Curry's injury status and re-evaluation timeline** [26:30](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1590s)
@@ -106,7 +108,17 @@ Austin Reaves: "It felt good to play basketball again. The wind was a little bad
 
 From: [Lakers Practice Interview 2026-27 Season: Coach JJ Redick, Austin Reaves, Walker Kessler](https://www.youtube.com/watch?v=ypeK_6I5zYA) · *Los Angeles Lakers*
 
-**12. Brandon Miller — "I think we're seeing him take more shots around the three-point line, which we love for him" — Brandon Miller on Christian Anderson's growth and confidence** [02:01](https://www.youtube.com/watch?v=ZmdegpMOanM&t=121s)
+**12. Pacome Dadiet — "You just got to take accountability at the end of the day. He showed me some clips." — Pacome Dadiet on accepting accountability and learning from film** [04:42](https://www.youtube.com/watch?v=JSgQykKe4uE&t=282s)
+
+Pacome Dadiet: "You just got to take accountability at the end of the day. He showed me some clips, so it was clear, obvious. You just got to nod your head and keep going. I think **Mike** said the other day that Mo had his turn and now it is your turn to replace him in the lineup."
+
+[https://www.youtube.com/watch?v=JSgQykKe4uE&t=282s](https://www.youtube.com/watch?v=JSgQykKe4uE&t=282s)
+
+From: [Josh Hart, Jose Alvarado, and Pacome Dadiet Postgame Media \| November 25, 2026](https://www.youtube.com/watch?v=JSgQykKe4uE) · *New York Knicks*
+
+<small>[Clip it](presserclips://clip?v=JSgQykKe4uE&t=282&q=6) · [Send to Slack](presserclips://clip?v=JSgQykKe4uE&t=282&q=6&slack=1)</small>
+
+**13. Brandon Miller — "I think we're seeing him take more shots around the three-point line, which we love for him" — Brandon Miller on Christian Anderson's growth and confidence** [02:01](https://www.youtube.com/watch?v=ZmdegpMOanM&t=121s)
 
 Brandon Miller: "Just the confidence level. I think we're seeing him take more shots around the three-point line, which we love for him. He's been more aggressive in transition, creating the action, getting everybody into the right spots. I always tell him, just be a sponge. Learn as much as you can your first year. I think his second and third year, he will eventually understand and get the game of this NBA basketball in this league."
 
@@ -116,7 +128,7 @@ From: [Hornets vs Bulls: Brandon Miller Postgame Media Availability \| 11/25/202
 
 <small>[Clip it](presserclips://clip?v=ZmdegpMOanM&t=121&q=3) · [Send to Slack](presserclips://clip?v=ZmdegpMOanM&t=121&q=3&slack=1)</small>
 
-**13. Jaden McDaniels — "They trust me to make the right decision and I trust myself as well." — Jaden McDaniels on his comfort level with late-game playmaking** [01:08](https://www.youtube.com/watch?v=y5hhxL4HNAM&t=68s)
+**14. Jaden McDaniels — "They trust me to make the right decision and I trust myself as well." — Jaden McDaniels on his comfort level with late-game playmaking** [01:08](https://www.youtube.com/watch?v=y5hhxL4HNAM&t=68s)
 
 Jaden McDaniels: "I look forward to it. That's something I like. They trust me to make the right decision and I trust myself as well, as whether to shoot, pass it out, throw a lob to **Rudy Gobert**, and I did it like all three in those possessions. So just continuing to be confident in what I do."
 
@@ -126,7 +138,7 @@ From: [“I'm Just Focused On Staying Confident In My Game.” \| Jaden McDaniel
 
 <small>[Clip it](presserclips://clip?v=y5hhxL4HNAM&t=68&q=3) · [Send to Slack](presserclips://clip?v=y5hhxL4HNAM&t=68&q=3&slack=1)</small>
 
-**14. Stephon Castle — "Usually it's a lot more clean. That's the reason why we lost." — Stephon Castle on the need for better team consistency** [00:44](https://www.youtube.com/watch?v=5r3gABBb-Vo&t=44s)
+**15. Stephon Castle — "Usually it's a lot more clean. That's the reason why we lost." — Stephon Castle on the need for better team consistency** [00:44](https://www.youtube.com/watch?v=5r3gABBb-Vo&t=44s)
 
 Stephon Castle: "Just not completely beating ourselves. Usually it's a lot more clean. That's the reason why we lost. To be specific, tonight it was just the little things. We had some weird plays, shots that kind of hurt in the moment, but I mean, if you really watch the possession, there was a shot that we probably wanted, another shot."
 
@@ -136,7 +148,17 @@ From: [Stephon Castle on Learning From Portland Loss and Adapting for Future Gam
 
 <small>[Clip it](presserclips://clip?v=5r3gABBb-Vo&t=44&q=3) · [Send to Slack](presserclips://clip?v=5r3gABBb-Vo&t=44&q=3&slack=1)</small>
 
-**15. Jaylen Wells — "I think a lot of it is just wearing out the other team. We play a very intense game." — Jaylen Wells explains Memphis Grizzlies' second-half success** [00:16](https://www.youtube.com/watch?v=XA20Qyy-MqE&t=16s)
+**16. Josh Hart — "Those guys are going to carry us enough. We always have their backs and they always have ours." — Josh Hart on the bench's impact and team depth** [00:49](https://www.youtube.com/watch?v=JSgQykKe4uE&t=49s)
+
+Josh Hart: "It is big for our team. Those guys are going to carry us enough. Today, obviously, it was an all-around game but we always have their backs and they always have ours. It just shows you what type of team we are. It could be anybody any night, but they are going to carry us to the promise land."
+
+[https://www.youtube.com/watch?v=JSgQykKe4uE&t=49s](https://www.youtube.com/watch?v=JSgQykKe4uE&t=49s)
+
+From: [Josh Hart, Jose Alvarado, and Pacome Dadiet Postgame Media \| November 25, 2026](https://www.youtube.com/watch?v=JSgQykKe4uE) · *New York Knicks*
+
+<small>[Clip it](presserclips://clip?v=JSgQykKe4uE&t=49&q=2) · [Send to Slack](presserclips://clip?v=JSgQykKe4uE&t=49&q=2&slack=1)</small>
+
+**17. Jaylen Wells — "I think a lot of it is just wearing out the other team. We play a very intense game." — Jaylen Wells explains Memphis Grizzlies' second-half success** [00:16](https://www.youtube.com/watch?v=XA20Qyy-MqE&t=16s)
 
 **Unidentified reporter:** "As far as second halves, you guys have been very successful in second halves. What leads to that?"
 
@@ -148,7 +170,7 @@ From: [Jaylen Wells Walk-Off Interview \| Grizzlies vs. Clippers](https://www.yo
 
 <small>[Clip it](presserclips://clip?v=XA20Qyy-MqE&t=16&q=2) · [Send to Slack](presserclips://clip?v=XA20Qyy-MqE&t=16&q=2&slack=1)</small>
 
-**16. Deni Avdija — "We were connected today defensively. We did what we needed to do. Shout out to everybody on the team." — Deni Avdija credits team defensive connection for late-game stops** [00:17](https://www.youtube.com/watch?v=wwNF7pWdveY&t=17s)
+**18. Deni Avdija — "We were connected today defensively. We did what we needed to do. Shout out to everybody on the team." — Deni Avdija credits team defensive connection for late-game stops** [00:17](https://www.youtube.com/watch?v=wwNF7pWdveY&t=17s)
 
 **Unidentified reporter:** "You guys got some huge stops in those last few minutes. Just how important was your team defense tonight?"
 
@@ -159,16 +181,6 @@ From: [Jaylen Wells Walk-Off Interview \| Grizzlies vs. Clippers](https://www.yo
 From: [Deni Avdija Postgame Interview \| Portland Trail Blazers 116, San Antonio Spurs 111 \| Nov. 25, 2026](https://www.youtube.com/watch?v=wwNF7pWdveY) · *Portland Trail Blazers*
 
 <small>[Clip it](presserclips://clip?v=wwNF7pWdveY&t=17&q=2) · [Send to Slack](presserclips://clip?v=wwNF7pWdveY&t=17&q=2&slack=1)</small>
-
-**17. Shai Gilgeous-Alexander — "obviously our margin of error it's slimmer and slimmer, and that's just the reality" — Shai Gilgeous-Alexander on the team's margin for error** [06:32](https://www.youtube.com/watch?v=9uXfrwSoevs&t=392s)
-
-Shai Gilgeous-Alexander: "We just have to do better in all the little things. Obviously our margin of error it's slimmer and slimmer, and that's just the reality. We just have to win those little things and win more of them to get a W."
-
-[https://www.youtube.com/watch?v=9uXfrwSoevs&t=392s](https://www.youtube.com/watch?v=9uXfrwSoevs&t=392s)
-
-From: [Postgame Media Availability with Coach Daigneault, Shai, and Ajay \| OKC Thunder \| November 25, 2026](https://www.youtube.com/watch?v=9uXfrwSoevs) · *Oklahoma City Thunder*
-
-<small>[Clip it](presserclips://clip?v=9uXfrwSoevs&t=392&q=6) · [Send to Slack](presserclips://clip?v=9uXfrwSoevs&t=392&q=6&slack=1)</small>
 
 ---
 
@@ -207,12 +219,6 @@ Dalton Johnson: "When someone like **De'Anthony Melton** gets going from three-p
 Dalton Johnson: "Whenever a top pick goes against another top pick, and for this season for the Warriors that is going to be **Yaxel Lendeborg**. If he is going against a **Darius Acuff Jr.**, that is going to be the spotlight game. I just think that they had much different nights. **Yaxel Lendeborg** winds up gutting out this win, and he still found his way to lead the Warriors with eight rebounds and 15 points."
 
 [https://www.youtube.com/watch?v=5VFkGjq-XEU&t=458s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=458s)
-
-**8. Brandon Williams — "I know exactly what I need to fill in and what the team needed more than anything." — Brandon Williams on the motivation of the NBA Cup** [20:17](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1217s)
-
-Brandon Williams: "I know exactly what I need to fill in and what the team needed more than anything, especially with Steph going down. They brought me in for a reason, I know my role, I know exactly what I need to do, and I need to come out here and do XYZ. I am glad I got out there and showed it in 12 minutes and 44 seconds."
-
-[https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1217s](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1217s)
 
 **9. Dalton Johnson — "He is going into that new position for him, playing four instead of the five." — Draymond Green's offensive evolution at the four position** [22:40](https://www.youtube.com/watch?v=5VFkGjq-XEU&t=1360s)
 
@@ -583,6 +589,70 @@ Kenny Atkinson: "I thought defensively tonight we made progress. I liked our com
 [https://www.youtube.com/watch?v=HiVeKH1AQR0&t=262s](https://www.youtube.com/watch?v=HiVeKH1AQR0&t=262s)
 
 <small>[Clip it](presserclips://clip?v=HiVeKH1AQR0&t=262&q=7) · [Send to Slack](presserclips://clip?v=HiVeKH1AQR0&t=262&q=7&slack=1)</small>
+
+---
+
+## Josh Hart, Jose Alvarado, and Pacome Dadiet Postgame Media | November 25, 2026 — *New York Knicks*
+
+Source: [https://www.youtube.com/watch?v=JSgQykKe4uE](https://www.youtube.com/watch?v=JSgQykKe4uE)
+
+_Speakers identified: Josh Hart, Jose Alvarado, Pacome Dadiet_
+
+**1. Josh Hart — "I trust my work all the time and I was open and they found me on the right timing" — Josh Hart on maintaining a fast-paced, open-court offensive strategy** [00:10](https://www.youtube.com/watch?v=JSgQykKe4uE&t=10s)
+
+Josh Hart: "Run the floor. I knew we had to get out on a fast break and just run to our open spots. I trust my work all the time and I was open and they found me on the right timing and I shot it and it went in today."
+
+[https://www.youtube.com/watch?v=JSgQykKe4uE&t=10s](https://www.youtube.com/watch?v=JSgQykKe4uE&t=10s)
+
+<small>[Clip it](presserclips://clip?v=JSgQykKe4uE&t=10&q=1) · [Send to Slack](presserclips://clip?v=JSgQykKe4uE&t=10&q=1&slack=1)</small>
+
+**2. Josh Hart — "Those guys are going to carry us enough. We always have their backs and they always have ours." — Josh Hart on the bench's impact and team depth** [00:49](https://www.youtube.com/watch?v=JSgQykKe4uE&t=49s)
+
+Josh Hart: "It is big for our team. Those guys are going to carry us enough. Today, obviously, it was an all-around game but we always have their backs and they always have ours. It just shows you what type of team we are. It could be anybody any night, but they are going to carry us to the promise land."
+
+[https://www.youtube.com/watch?v=JSgQykKe4uE&t=49s](https://www.youtube.com/watch?v=JSgQykKe4uE&t=49s)
+
+<small>[Clip it](presserclips://clip?v=JSgQykKe4uE&t=49&q=2) · [Send to Slack](presserclips://clip?v=JSgQykKe4uE&t=49&q=2&slack=1)</small>
+
+**3. Josh Hart — "Everybody says that, stay ready no matter what, and we are big fans on that." — Josh Hart on the team's 'stay ready' mentality** [01:25](https://www.youtube.com/watch?v=JSgQykKe4uE&t=85s)
+
+Josh Hart: "You can be upset, but you cannot dwell on it. We are competitors at the end of the day. Obviously, everybody wants to play, but that is just not the game of how it goes. You just stay ready. Everybody says that, stay ready no matter what, and we are big fans on that. Everybody carries each other like that. It is big on the vets too. **Jalen Brunson** was in my ear the whole shootaround today, just telling everybody to stay ready because you never know when your name is called or your number."
+
+[https://www.youtube.com/watch?v=JSgQykKe4uE&t=85s](https://www.youtube.com/watch?v=JSgQykKe4uE&t=85s)
+
+<small>[Clip it](presserclips://clip?v=JSgQykKe4uE&t=85&q=3) · [Send to Slack](presserclips://clip?v=JSgQykKe4uE&t=85&q=3&slack=1)</small>
+
+**4. Jose Alvarado — "I feel like I am starting to get into a better rhythm. Mentally, I am there." — Jose Alvarado on finding his rhythm and getting his body right** [03:15](https://www.youtube.com/watch?v=JSgQykKe4uE&t=195s)
+
+Jose Alvarado: "I feel like I am starting to get into a better rhythm. Mentally, I am there. I have been trying to get my body on track and I feel like I am in a good spot right now. I have to make sure I just continue to stack days, continue to play well, continue to find these guys when they are open, and try to impact the game any way I can."
+
+[https://www.youtube.com/watch?v=JSgQykKe4uE&t=195s](https://www.youtube.com/watch?v=JSgQykKe4uE&t=195s)
+
+<small>[Clip it](presserclips://clip?v=JSgQykKe4uE&t=195&q=4) · [Send to Slack](presserclips://clip?v=JSgQykKe4uE&t=195&q=4&slack=1)</small>
+
+**5. Jose Alvarado — "I don't think we had any panic. It was a possession game each of those three losses." — Jose Alvarado on the team's composure after an 0-3 start** [03:56](https://www.youtube.com/watch?v=JSgQykKe4uE&t=236s)
+
+Jose Alvarado: "I don't think we had any panic. It was not like we started 0-3 and we were getting blown out by 15-20 every game. It was a possession game each of those three losses and it could have went either way. We knew that. We knew it was just a play here, a play there that could have changed the game. We just try to make sure we are focused on every possession."
+
+[https://www.youtube.com/watch?v=JSgQykKe4uE&t=236s](https://www.youtube.com/watch?v=JSgQykKe4uE&t=236s)
+
+<small>[Clip it](presserclips://clip?v=JSgQykKe4uE&t=236&q=5) · [Send to Slack](presserclips://clip?v=JSgQykKe4uE&t=236&q=5&slack=1)</small>
+
+**6. Pacome Dadiet — "You just got to take accountability at the end of the day. He showed me some clips." — Pacome Dadiet on accepting accountability and learning from film** [04:42](https://www.youtube.com/watch?v=JSgQykKe4uE&t=282s)
+
+Pacome Dadiet: "You just got to take accountability at the end of the day. He showed me some clips, so it was clear, obvious. You just got to nod your head and keep going. I think **Mike** said the other day that Mo had his turn and now it is your turn to replace him in the lineup."
+
+[https://www.youtube.com/watch?v=JSgQykKe4uE&t=282s](https://www.youtube.com/watch?v=JSgQykKe4uE&t=282s)
+
+<small>[Clip it](presserclips://clip?v=JSgQykKe4uE&t=282&q=6) · [Send to Slack](presserclips://clip?v=JSgQykKe4uE&t=282&q=6&slack=1)</small>
+
+**7. Pacome Dadiet — "Trying to be physical at all times and playing hard, running to the corners, cut hard." — Pacome Dadiet on his physical approach to earning veteran trust** [05:43](https://www.youtube.com/watch?v=JSgQykKe4uE&t=343s)
+
+Pacome Dadiet: "Trying to be physical at all times and playing hard, running to the corners, cut hard. Literally playing hard in anything I do. I think earning the trust of the vets is essential and I feel like they trust me and they always been good vets to me, so I feel comfortable out there and really thankful for that."
+
+[https://www.youtube.com/watch?v=JSgQykKe4uE&t=343s](https://www.youtube.com/watch?v=JSgQykKe4uE&t=343s)
+
+<small>[Clip it](presserclips://clip?v=JSgQykKe4uE&t=343&q=7) · [Send to Slack](presserclips://clip?v=JSgQykKe4uE&t=343&q=7&slack=1)</small>
 
 ---
 
