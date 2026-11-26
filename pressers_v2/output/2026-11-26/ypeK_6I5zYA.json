@@ -1,0 +1,331 @@
+{
+  "video_title": "Lakers Practice Interview 2026-27 Season: Coach JJ Redick, Austin Reaves, Walker Kessler",
+  "speakers_seen": [
+    "JJ Redick",
+    "Austin Reaves",
+    "Walker Kessler"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "JJ Redick",
+      "timestamp": "00:08",
+      "summary_phrase": "JJ Redick on Walker Kessler's performance and status",
+      "names_mentioned": [
+        "Walker Kessler"
+      ],
+      "excerpt": "best I've ever seen him play",
+      "quote": "Walker Kessler was the best I've ever seen him play.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 13,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "JJ Redick is high on Walker Kessler after his recent performance saying it was the best he has ever seen him play.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Walker Kessler"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Head coach JJ Redick discusses the recent performance of Walker Kessler during a media availability session.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "JJ Redick",
+      "timestamp": "01:26",
+      "summary_phrase": "JJ Redick on the challenges of the upcoming road trip",
+      "names_mentioned": [],
+      "excerpt": "This entire road trip is a massive challenge for us",
+      "quote": "This entire road trip is a massive challenge for us. Four games, all are going to present their different tests, playing against the Western Conference Finals champion from last year who are off to a great start. Starting with that and then you get Memphis, Houston, New Orleans. There is a lot on this trip. It is not just one game, and I think these four games will be a great barometer of where we are at right now.",
+      "text_blocks": [],
+      "start_seconds": 86,
+      "end_seconds": 116,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "JJ Redick views the upcoming four game road trip against Dallas Memphis Houston and New Orleans as a major barometer for where the Lakers are at right now.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAL",
+          "MEM",
+          "HOU",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "JJ Redick previews the team's upcoming four-game road trip against various Western Conference opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "JJ Redick",
+      "timestamp": "02:51",
+      "summary_phrase": "JJ Redick on the team's need to improve and evolve",
+      "names_mentioned": [],
+      "excerpt": "we've got to be able to improve and get better",
+      "quote": "We said it from the first day, the results piece, we all want the same result. Every team in the NBA wants to get a win, but we have to be able to improve and get better. One of the things that happens in an NBA season is you decide the things you are going to focus on. You cannot try to get better at nine things at a time. Basically, when you focus on, let's say, defense, you put an emphasis on defense and get better, your screening may suffer. And we talked about that, that was our emphasis today. Our screening has been dog shit. Part of the reason we haven't been good on offense, we missed shots for sure, but we also haven't screened well.",
+      "text_blocks": [],
+      "start_seconds": 171,
+      "end_seconds": 220,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 8,
+      "social_post": "JJ Redick is not holding back on the Lakers offensive struggles saying our screening has been dog shit.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "JJ Redick explains the team's focus on improving their screening efficiency during practice.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "JJ Redick",
+      "timestamp": "06:42",
+      "summary_phrase": "JJ Redick on the acquisition of Ziaire Williams",
+      "names_mentioned": [
+        "Ziaire Williams"
+      ],
+      "excerpt": "we got to get this guy in our locker room",
+      "quote": "Ziaire Williams was supposed to make six and a half million from Brooklyn this year and then he was a non-guaranteed deal so they wave him and he becomes a free agent. He was willing to go to a gym in Vegas and work out for our coaching staff and for Rob. We put him through that, he looked great. I met with him the next day at the hotel for about 45 minutes and towards the middle of that conversation I just kept thinking to myself, holy shit, we got to get this guy in our locker room. We need this guy to be a Laker.",
+      "text_blocks": [],
+      "start_seconds": 402,
+      "end_seconds": 443,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "JJ Redick says he knew the Lakers had to sign Ziaire Williams after a 45 minute meeting telling himself holy shit we got to get this guy in our locker room.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Ziaire Williams"
+        ],
+        "teams": [
+          "LAL",
+          "BKN"
+        ],
+        "topics": [
+          "trades"
+        ],
+        "context": "JJ Redick explains the process behind the team's decision to sign Ziaire Williams after his release from Brooklyn.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Austin Reaves",
+      "timestamp": "10:42",
+      "summary_phrase": "Austin Reaves on returning from injury",
+      "names_mentioned": [],
+      "excerpt": "felt good to play basketball again",
+      "quote": "It felt good to play basketball again. The win was a little bad, but kind of to be expected being out two weeks. Felt good, we will see how I wake up tomorrow if we are still going in the right direction, but felt really good today.",
+      "text_blocks": [],
+      "start_seconds": 642,
+      "end_seconds": 660,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Austin Reaves says it felt good to be back on the floor after his two week injury absence.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Austin Reaves reflects on his return to the court after missing two weeks due to a foot injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Austin Reaves",
+      "timestamp": "11:49",
+      "summary_phrase": "Austin Reaves on the nature of his foot injury",
+      "names_mentioned": [],
+      "excerpt": "put a dent in my insole and carved out a little place in the insole",
+      "quote": "I think that is kind of the only explanation, put a dent in my insole and carved out a little place in the insole. I think it was just the impact and kind of the way I landed. I think I was kind of twisting in the air as well as I came down on the inside, but yeah, we are moving past that.",
+      "text_blocks": [],
+      "start_seconds": 709,
+      "end_seconds": 734,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Austin Reaves explains his recent foot injury was caused by the impact and the way he landed while twisting in the air.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Austin Reaves explains the specific nature of his recent foot injury and the adjustments made to his footwear.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Walker Kessler",
+      "timestamp": "17:16",
+      "summary_phrase": "Walker Kessler on improving screen setting and contact",
+      "names_mentioned": [],
+      "excerpt": "got to be more physical in screens, got to make better contact",
+      "quote": "I think as a team, me included, got to be more physical in screens, got to make better contact. Me personally, got to have better angles, force that over, just continue to work on that will be good.",
+      "text_blocks": [],
+      "start_seconds": 1036,
+      "end_seconds": 1051,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Walker Kessler says he needs to be more physical with his screen setting and focus on better angles to help the Lakers offense.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Walker Kessler discusses the need for the team to improve their physicality and technique when setting screens.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Walker Kessler",
+      "timestamp": "17:33",
+      "summary_phrase": "Walker Kessler on JJ Redick's coaching style",
+      "names_mentioned": [
+        "JJ Redick"
+      ],
+      "excerpt": "he does exactly what you need to hear, not what you want to hear",
+      "quote": "I love it. I think he does exactly what you need to hear, not what you want to hear all the time and a coach that can do that is not afraid to do that, I respect. The players respect that and it doesn't waste a lot of time. You get a lot more stuff done instead of dancing around subjects, he is very blunt and I think it is a good way to be.",
+      "text_blocks": [],
+      "start_seconds": 1053,
+      "end_seconds": 1082,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Walker Kessler appreciates JJ Redick's blunt coaching style saying he tells you what you need to hear not what you want to hear.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "JJ Redick"
+        ],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Walker Kessler shares his thoughts on JJ Redick's blunt and direct coaching style.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Walker Kessler",
+      "timestamp": "18:41",
+      "summary_phrase": "Walker Kessler on his physical development",
+      "names_mentioned": [],
+      "excerpt": "he plays a lot more physical now, stronger",
+      "quote": "He is obviously older, more mature. I think he plays a lot more physical now, stronger. I know he looks a little skinnier, but he is strong. He is a lot stronger than he actually looks. He plays with a lot more physicality now, probably a lot more, not that he didn't have confidence before, but a lot more confidence as well. So, you know, he is putting up some crazy numbers.",
+      "text_blocks": [],
+      "start_seconds": 1121,
+      "end_seconds": 1149,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Walker Kessler notes that he is playing with more physicality and confidence this season despite looking skinnier.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Walker Kessler comments on the physical development and increased confidence of a teammate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Walker Kessler",
+      "timestamp": "19:30",
+      "summary_phrase": "Walker Kessler on his free throw routine",
+      "names_mentioned": [],
+      "excerpt": "I try to fix too many things in my head when I'm at the free throw line",
+      "quote": "I try to fix too many things in my head when I'm at the free throw line and we are kind of trying to simplify it and to thinking one or two thoughts to really focus on and go to the free throw line with confidence.",
+      "text_blocks": [],
+      "start_seconds": 1170,
+      "end_seconds": 1188,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Walker Kessler is working on simplifying his free throw routine to avoid overthinking at the line.",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Walker Kessler explains his efforts to simplify his mental approach while shooting free throws.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "ypeK_6I5zYA",
+  "url": "https://www.youtube.com/watch?v=ypeK_6I5zYA",
+  "channel_team": "Los Angeles Lakers",
+  "published": "2026-11-26T00:00:06Z",
+  "duration_seconds": 1357,
+  "processed_at": "2026-11-26T09:42:12Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

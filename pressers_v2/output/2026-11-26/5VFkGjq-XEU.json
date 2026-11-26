@@ -1,0 +1,351 @@
+{
+  "video_title": "De'Anthony Melton's sharp shooting fuels win over Kings | Dubs Talk Live | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Kerith Burke",
+    "Dalton Johnson",
+    "Brandon Williams"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Dalton Johnson",
+      "timestamp": "00:32",
+      "summary_phrase": "Warriors' offensive performance against the Kings' defense",
+      "names_mentioned": [],
+      "excerpt": "The Warriors feasted on that Kings defense early with 44 points in the first quarter.",
+      "quote": "The Warriors feasted on that Kings defense early with 44 points in the first quarter. That is half of what they scored the entire game against the Boston Celtics. The ball was moving, that is what I really liked in the first quarter, and then it just carried on. They did get outscored in the final three quarters, but when you set that tone in the first quarter and you wind up with 37 assists on the night, good things are going to happen.",
+      "text_blocks": [],
+      "start_seconds": 32,
+      "end_seconds": 64,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "The Warriors offense looked sharp against the Kings with 37 assists on the night. Dalton Johnson notes that setting the tone early with 44 points in the first quarter was the key to the win.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW",
+          "SAC",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Dalton Johnson discusses the Warriors offensive performance against the Kings and references their recent game against the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Dalton Johnson",
+      "timestamp": "01:30",
+      "summary_phrase": "Steve Kerr's assessment of recent practice sessions",
+      "names_mentioned": [
+        "Steve Kerr"
+      ],
+      "excerpt": "Steve Kerr was really happy having two days of practice. He called them really, really good practices.",
+      "quote": "Steve Kerr was really happy having two days of practice. He called them really, really good practices. They are going to have to go back to the film and look at the second quarter and the third quarter. That second quarter is when it started to leak out, and that is a natural letdown when you are up by that many points and firing on all cylinders. They were not going to stay as hot as they were in the first quarter.",
+      "text_blocks": [],
+      "start_seconds": 90,
+      "end_seconds": 122,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Steve Kerr was pleased with the Warriors recent practice sessions. Dalton Johnson notes that while the team cooled off after a hot first quarter, the focus remains on film study to address the second and third quarter letdowns.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Steve Kerr"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Dalton Johnson reports on Steve Kerr's assessment of the team's recent practice sessions and their game performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Dalton Johnson",
+      "timestamp": "03:12",
+      "summary_phrase": "Impact of NBA Cup prize money on bench players",
+      "names_mentioned": [
+        "Brandon Williams"
+      ],
+      "excerpt": "Imagine what that 500,000 does for the people near the back of the bench.",
+      "quote": "Imagine what that 500,000 does for the people near the back of the bench, the guys that do not have guaranteed contracts, the two-way players. Brandon Williams talked about it and he is like, 'Yeah, I am all in.' He is on a cheaper one-year deal and he will take that any day.",
+      "text_blocks": [],
+      "start_seconds": 192,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "The NBA Cup prize money is a major motivator for players on non-guaranteed or two-way contracts. Dalton Johnson highlights how the 500,000 dollar incentive is a massive deal for guys fighting for their spot in the league.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "contracts"
+        ],
+        "context": "Dalton Johnson discusses the impact of the NBA Cup prize money on players with non-guaranteed or two-way contracts.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Dalton Johnson",
+      "timestamp": "05:54",
+      "summary_phrase": "De'Anthony Melton's shooting performance and career high",
+      "names_mentioned": [
+        "De'Anthony Melton"
+      ],
+      "excerpt": "Eight threes tonight ties a career high. In the previous six games, he totaled eight threes.",
+      "quote": "It was huge for somebody like De'Anthony Melton who has been struggling shooting the ball recently. Eight threes tonight ties a career high. In the previous six games, he totaled eight threes. So it is great for someone like that to see just one ball go through the net and that kind of creates a domino effect.",
+      "text_blocks": [],
+      "start_seconds": 354,
+      "end_seconds": 376,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "De'Anthony Melton tied a career high with eight threes against the Kings. Dalton Johnson says seeing the ball go through the net was huge for Melton after his recent shooting struggles.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "De'Anthony Melton"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Dalton Johnson analyzes De'Anthony Melton's shooting performance and his career-high three-pointers made.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Dalton Johnson",
+      "timestamp": "07:33",
+      "summary_phrase": "Spotlight game between rookies Yaxel Lendeborg and Darius Acuff Jr.",
+      "names_mentioned": [
+        "Yaxel Lendeborg",
+        "Darius Acuff Jr."
+      ],
+      "excerpt": "Whenever a top pick goes against another top pick, and for this season, that is going to be Yaxel Lendeborg.",
+      "quote": "Whenever a top pick goes against another top pick, and for this season, that is going to be Yaxel Lendeborg. If he is going against a Darius Acuff Jr., that is going to be the spotlight game. I just think that they had much different nights. Yaxel Lendeborg winds up gutting out this win. He has been sick, he did not practice yesterday, so number one, he gutted out this win, but he still found his way to lead the Warriors with eight rebounds and 15 points.",
+      "text_blocks": [],
+      "start_seconds": 453,
+      "end_seconds": 486,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Yaxel Lendeborg battled through sickness to lead the Warriors with 15 points and 8 rebounds. Dalton Johnson notes that despite not practicing, Lendeborg gutted out the win in the spotlight matchup.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Yaxel Lendeborg",
+          "Darius Acuff Jr."
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Dalton Johnson compares the performances of rookies Yaxel Lendeborg and Darius Acuff Jr. while noting Lendeborg played through an illness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Brandon Williams",
+      "timestamp": "18:04",
+      "summary_phrase": "Brandon Williams on his physical condition and performance",
+      "names_mentioned": [],
+      "excerpt": "I am in a great space. They dragged me out of a lift for this.",
+      "quote": "I am in a great space. They dragged me out of a lift for this, so I got to get back down there so I can stay on top of it, but it was fun. It was great. No complaints.",
+      "text_blocks": [],
+      "start_seconds": 1084,
+      "end_seconds": 1099,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Brandon Williams says he is in a great space physically. He joked that the team had to drag him out of a lift for his media availability.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandon Williams comments on his physical condition after being pulled from a workout for a media interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Brandon Williams",
+      "timestamp": "18:36",
+      "summary_phrase": "Brandon Williams on his high school dynamic with De'Anthony Melton",
+      "names_mentioned": [
+        "De'Anthony Melton"
+      ],
+      "excerpt": "He was not scoring in high school, I ain't going to lie. He was more defense, straight defense.",
+      "quote": "Nah, he was not scoring in high school, I ain't going to lie. He was more defense, straight defense. I was offensive player, so we kind of met each other very well. He took care of that end, I took care of offense. Tonight was his offensive night, but back then it was fun. But now, I said it yesterday, his game changed completely.",
+      "text_blocks": [],
+      "start_seconds": 1116,
+      "end_seconds": 1141,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 7,
+      "social_post": "Brandon Williams on his high school dynamic with De'Anthony Melton: He was not scoring back then, he was straight defense. I was the offensive player. His game has changed completely.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "De'Anthony Melton"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandon Williams reflects on his high school dynamic with teammate De'Anthony Melton and how their roles have evolved.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Brandon Williams",
+      "timestamp": "19:27",
+      "summary_phrase": "Brandon Williams on his role coming off the bench",
+      "names_mentioned": [],
+      "excerpt": "That is my job. That is what they brought me in to do.",
+      "quote": "That is my job. That is what they brought me in to do, to keep that offense running when the starting point guard comes out, so the offense does not look stagnant or anything like that. So I know my job, I know my role, and I am going to do that as much as I can.",
+      "text_blocks": [],
+      "start_seconds": 1167,
+      "end_seconds": 1189,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Brandon Williams on his role with the Warriors: That is my job, to keep the offense running when the starting point guard comes out so it does not look stagnant.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandon Williams explains his understanding of his role coming off the bench to maintain offensive momentum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Brandon Williams",
+      "timestamp": "19:49",
+      "summary_phrase": "Brandon Williams on the Road Runner sound effect",
+      "names_mentioned": [
+        "George"
+      ],
+      "excerpt": "I want like an engine going or something like that. That would be more lit.",
+      "quote": "I want like an engine going or something like that. That would be more lit, but I am not mad at the meep-meep. I think George kind of started that preseason and stuff, but I ain't mad at it. I ain't going to lie. I would rather have a Ferrari or some engine going crazy, but I will take the meep-meep.",
+      "text_blocks": [],
+      "start_seconds": 1189,
+      "end_seconds": 1212,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 8,
+      "social_post": "Brandon Williams on his Road Runner nickname: I would rather have a Ferrari or some engine going crazy, but I will take the meep-meep.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandon Williams shares his preference for a different sound effect to represent his playstyle instead of the current one.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Brandon Williams",
+      "timestamp": "20:18",
+      "summary_phrase": "Brandon Williams on the NBA Cup prize money",
+      "names_mentioned": [],
+      "excerpt": "How much? I could do something with that for sure. You can definitely feel it on the court. I mean",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Man, bad. How much cash you get from it?"
+        },
+        {
+          "speaker": "Brandon Williams",
+          "text": "How much? I could do something with that for sure. You can definitely feel it on the court. I mean the ball is different, the court is different, atmosphere is a little live, and then you look up at the end of the game, we still trying to run it up, so it is great basketball, good competition."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Brandon Williams"
+      ],
+      "reporter_split": true,
+      "start_seconds": 1218,
+      "end_seconds": 1244,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Brandon Williams on the NBA Cup: You can definitely feel it on the court. The ball is different, the court is different, and the atmosphere is a little live. We are still trying to run it up.",
+      "team": "Sacramento Kings",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandon Williams reacts to a question about the financial incentives and atmosphere of the NBA Cup tournament.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "default",
+  "format": "ytq-1",
+  "video_id": "5VFkGjq-XEU",
+  "url": "https://www.youtube.com/watch?v=5VFkGjq-XEU",
+  "channel_team": "Sacramento Kings",
+  "published": "2026-11-26T07:04:04Z",
+  "duration_seconds": 1735,
+  "processed_at": "2026-11-26T09:39:26Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

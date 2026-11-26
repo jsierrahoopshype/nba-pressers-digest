@@ -1,0 +1,307 @@
+{
+  "video_title": "Brandon Williams details ambitions after Warriors return | NBC Sports BA",
+  "speakers_seen": [
+    "Brandon Williams",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brandon Williams",
+      "timestamp": "00:00",
+      "summary_phrase": "Brandon Williams on returning to the court after injury",
+      "names_mentioned": [],
+      "excerpt": "It's been a while since I've been out there and just watching anything the same",
+      "quote": "It's been a while since I've been out there and just watching anything the same, so just being out there, being with the team, all that stuff was fun.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 11,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Brandon Williams says it was fun to be back on the court with the team after his time away due to injury.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Brandon Williams discusses his return to the court after being sidelined by a hamstring injury.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified reporter",
+        "Brandon Williams"
+      ],
+      "timestamp": "00:23",
+      "summary_phrase": "Brandon Williams on his physical condition after hamstring injury",
+      "names_mentioned": [],
+      "excerpt": "I'm in a great space. Y'all dragged me out of the lift for this",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Brandon, how does the hamstring feel after being off for as long as you were?"
+        },
+        {
+          "speaker": "Brandon Williams",
+          "text": "After this game? It feels great. I'm in a great space. Y'all dragged me out of the lift for this, so I got to get back down there so I can stay on top of it, but it was fun. It was great. No complaints."
+        }
+      ],
+      "start_seconds": 23,
+      "end_seconds": 46,
+      "speaker_confidence": "inferred",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Brandon Williams says his hamstring feels great after returning to action. He joked that he had to cut his media availability short to get back to his lift.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Brandon Williams provides an update on how his hamstring feels following his return to game action.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified reporter",
+        "Brandon Williams"
+      ],
+      "timestamp": "00:44",
+      "summary_phrase": "Brandon Williams on his high school dynamic with Melton",
+      "names_mentioned": [
+        "Melton"
+      ],
+      "excerpt": "He wasn't scoring in high school. He was more defense, straight defense. I was offensive player",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Coach spoke about how you and Melton both had great games back court in high school. He said you guys probably gave a lot of trouble to opposing teams back then. Do you have a couple memories like highest scores of you guys as a duo in high school?"
+        },
+        {
+          "speaker": "Brandon Williams",
+          "text": "Nah, he wasn't scoring in high school. He was more defense, straight defense. I was offensive player, so we kind of met each other very well. He took care of that end, I took care of offense. Tonight was his offensive night. But back then it was fun, but now I think yesterday's game changed completely."
+        }
+      ],
+      "start_seconds": 44,
+      "end_seconds": 84,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Brandon Williams on his high school dynamic with Melton: He wasn't scoring back then, he was straight defense. I was the offensive player, so we met each other very well.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "De'Anthony Melton"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Brandon Williams reflects on his high school playing dynamic with teammate De'Anthony Melton.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified reporter",
+        "Brandon Williams"
+      ],
+      "timestamp": "01:32",
+      "summary_phrase": "Brandon Williams on his role in the Warriors' offensive rhythm",
+      "names_mentioned": [
+        "Steve"
+      ],
+      "excerpt": "That's my job. That's what they brought me in to do, to keep that offense running",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Steve was talking the last couple days just about this group trying to get back in some offensive rhythm. How much pride do you take in coming back here and helping the bench score 61 and really that group help get you guys back going?"
+        },
+        {
+          "speaker": "Brandon Williams",
+          "text": "That's my job. That's what they brought me in to do, to keep that offense running when the starting point guard comes out, so our offense doesn't look stagnant or anything like that. I know my job, I know my role, and I'm going to do that as much as I can."
+        }
+      ],
+      "start_seconds": 92,
+      "end_seconds": 129,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Brandon Williams on his role with the Warriors: That is my job. They brought me in to keep the offense running when the starting point guard comes out so we do not look stagnant.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Brandon Williams describes his role in maintaining the offensive rhythm for the Warriors bench unit.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Brandon Williams",
+      "timestamp": "02:10",
+      "summary_phrase": "Brandon Williams on the Roadrunner sound effect after scoring",
+      "names_mentioned": [
+        "George"
+      ],
+      "excerpt": "I want like an engine going or something like that. That would be more lit",
+      "quote": "I want like an engine going or something like that. That would be more lit, but I'm not mad at the meep-meep. I think George kind of started that like preseason and stuff, but I ain't mad at it. I'd rather have a Ferrari or some engine going crazy, but I'll take the meep-meep.",
+      "text_blocks": [],
+      "start_seconds": 130,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 9,
+      "social_post": "Brandon Williams is not a fan of the Roadrunner meep-meep sound effect after he scores. He says he would rather have an engine sound or a Ferrari noise.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandon Williams comments on the Roadrunner sound effect played in the arena after he scores.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified reporter",
+        "Brandon Williams"
+      ],
+      "timestamp": "02:35",
+      "summary_phrase": "Brandon Williams on the importance of the in-season tournament",
+      "names_mentioned": [],
+      "excerpt": "You can definitely feel it on the court. The ball is different, the court is different",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How much do you care about the in-season cup and how badly do you guys want to win it?"
+        },
+        {
+          "speaker": "Brandon Williams",
+          "text": "Man, bad. You can definitely feel it on the court. The ball is different, the court is different, the atmosphere is a little live, and then they look up at the end of the game, we still trying to run it up, so it's great basketball, good competition."
+        }
+      ],
+      "start_seconds": 155,
+      "end_seconds": 181,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Brandon Williams says the team really wants to win the in-season tournament. You can feel the difference in the atmosphere and the competition on the court.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Brandon Williams shares his thoughts on the intensity and atmosphere of the in-season tournament.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Unidentified speaker",
+      "speakers": [
+        "Unidentified reporter",
+        "Brandon Williams"
+      ],
+      "timestamp": "03:04",
+      "summary_phrase": "Brandon Williams on filling in for Steph Curry",
+      "names_mentioned": [
+        "Steph"
+      ],
+      "excerpt": "I know exactly what I need to fill in and what the team needed more than anything",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Did watching the offense struggle make it even more like you wanted to get out there?"
+        },
+        {
+          "speaker": "Brandon Williams",
+          "text": "I think I said it the other day, I know exactly what I need to fill in and what the team needed more than anything, especially with Steph going down. They brought me in for a reason. I know my role, I know exactly what I need to do, and I definitely was on the bench like, damn, I know exactly what I need to do."
+        }
+      ],
+      "start_seconds": 184,
+      "end_seconds": 216,
+      "speaker_confidence": "inferred",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Brandon Williams says he knew exactly what the team needed while watching from the bench with Steph Curry out. He says they brought him in for a reason and he knows his role.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Brandon Williams discusses his mindset while watching the team struggle offensively during Stephen Curry's absence.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "W1uhc-yIl-w",
+  "url": "https://www.youtube.com/watch?v=W1uhc-yIl-w",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-26T06:36:50Z",
+  "duration_seconds": 222,
+  "processed_at": "2026-11-26T09:39:25Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

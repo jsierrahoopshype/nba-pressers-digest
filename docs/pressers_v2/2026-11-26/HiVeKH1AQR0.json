@@ -1,0 +1,229 @@
+{
+  "video_title": "Cavs at Knicks | Kenny Atkinson Post Game | 11.25.2026",
+  "speakers_seen": [
+    "Kenny Atkinson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:10",
+      "summary_phrase": "Kenny Atkinson on the Cavs' fourth-quarter turnover issues",
+      "names_mentioned": [],
+      "excerpt": "I felt like in the fourth quarter we had a couple live ball turnovers. That got them going.",
+      "quote": "I would say three quarters, really good basketball on both our processes. Defensive disposition was right. I felt like in the fourth quarter we had a couple live ball turnovers. That got them going. Their role players stepped up big time, hit some shots. You got to give them credit. We played three quarters of really good basketball and give them credit. They got us in that fourth quarter.",
+      "verbatim_original_language": "",
+      "start_seconds": 10,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says the Cavs played three quarters of good basketball against the Knicks but were undone by live ball turnovers in the fourth quarter.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson discusses the team's performance and turnover issues during the fourth quarter of the loss against the Knicks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "00:53",
+      "summary_phrase": "Kenny Atkinson praises Donovan Mitchell's aggressive play",
+      "names_mentioned": [
+        "Donovan Mitchell"
+      ],
+      "excerpt": "I loved how Donovan played tonight. He was downhill, downhill, paint, paint.",
+      "quote": "I loved how Donovan played tonight. I just he was downhill, downhill, paint, paint. And just as a team, I felt like we were very aggressive, making the right plays. Unfortunately, our shot quality was excellent. Unfortunately, the threes didn't go down tonight, but I thought we had some great looks that just didn't go down.",
+      "verbatim_original_language": "",
+      "start_seconds": 53,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kenny Atkinson liked the shot quality and aggression from Donovan Mitchell tonight despite the shots not falling for the Cavs.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Donovan Mitchell"
+        ],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson praises Donovan Mitchell for his aggressive play and downhill attacking style during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "01:31",
+      "summary_phrase": "Kenny Atkinson identifies turnovers and missed shots as key factors",
+      "names_mentioned": [
+        "Alvarado"
+      ],
+      "excerpt": "I think the turnovers. I think we had a couple untimely turnovers. Some missed shots that led to leak-out.",
+      "quote": "I think the turnovers. I think we had a couple untimely turnovers. Some missed shots that led to leak-out transition. I think they got some easy ones. Alvarado got I think two threes in transition. So, if I was to say correct, we could have been better in transition defense. We do raid and go to the offensive boards hard. I think we had some that bounced long and they got ahead, got some easy baskets that got the momentum going their way. But the live ball turnovers like on the road, they hurt you. That's how momentum swings, and I think that was part of it.",
+      "verbatim_original_language": "",
+      "start_seconds": 91,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson points to transition defense and long rebounds leading to easy baskets as the main issues in the loss to the Knicks.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jose Alvarado"
+        ],
+        "teams": [
+          "CLE",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson explains how turnovers and transition defense allowed the opponent to gain momentum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:21",
+      "summary_phrase": "Kenny Atkinson on addressing poor quarters and team consistency",
+      "names_mentioned": [],
+      "excerpt": "Sometimes it's the first quarter you can figure the lineup or we will look at the lineups.",
+      "quote": "It's a great question. I wish sometimes it's the first quarter you can figure the lineup or we will look at the lineups as always and see, dive deeper into that. But you're right, we got to figure that out. Three quarters playing three quarters of good basketball isn't enough in this league.",
+      "verbatim_original_language": "",
+      "start_seconds": 141,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson acknowledges the Cavs need to address consistency across all four quarters because playing three quarters of good basketball is not enough in this league.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kenny Atkinson addresses the need to evaluate team lineups and consistency after struggling to play four full quarters.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "02:50",
+      "summary_phrase": "Kenny Atkinson on team spirit despite recent losses",
+      "names_mentioned": [],
+      "excerpt": "Spirit is better than ever. I did tell the guys I think sometimes it's hard to see progress.",
+      "quote": "I would say spirit is better than ever. I did tell the guys I think sometimes it's hard to see progress behind a loss or two losses in a row. But listen, progress is not a straight line. It doesn't it's not how this works. I think we did a lot of good things. I think you have some dips in the win-loss column. In the loss column, you have dips and then you respond and then we'll keep building and we'll get on a run like we have the past two years. But like I said, I think our process is right in many ways. We just couldn't sustain.",
+      "verbatim_original_language": "",
+      "start_seconds": 170,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Despite recent losses Kenny Atkinson says the team spirit is better than ever and reminded his players that progress is not a straight line.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson comments on the team's morale and process following a recent string of losses.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "03:45",
+      "summary_phrase": "Kenny Atkinson on identifying trends before bad quarters",
+      "names_mentioned": [],
+      "excerpt": "I think turnovers hurt you. I just kind of repeat that. Missed shots that led to leak-out transition.",
+      "quote": "Like I said, I think turnovers hurt you. I just kind of repeat that. Missed shots that led to leak-out transition. I thought we, like I said, our shot quality was great. I didn't feel like we were forcing shots or taking bad shots. We were in the paint. I didn't look at the three-point numbers, I'm sure they were pretty poor. Then they, long rebounds, they get easy ones and that's just avalanches from there.",
+      "verbatim_original_language": "",
+      "start_seconds": 225,
+      "end_seconds": 254,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson explains how missed shots and long rebounds created an avalanche effect for the Cavs defense in the fourth quarter.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reiterates that turnovers and poor transition defense were the primary factors in the team's fourth-quarter collapse.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Kenny Atkinson",
+      "timestamp": "04:22",
+      "summary_phrase": "Kenny Atkinson on defensive progress despite the loss",
+      "names_mentioned": [],
+      "excerpt": "I thought defensively tonight we made progress. I liked our competitiveness. I liked how physical we were.",
+      "quote": "I don't know. I thought defensively tonight we made progress. I liked our competitiveness. I liked how physical we were. Like I said, fourth quarter was a bad stretch, but we did a lot of good things defensively, protect the paint, didn't have that many rim attempts. So, like you said, it's four quarters. It's not three is not enough. But as a coach, I try to take away the positives, what we're doing positives. Now we just got to do it for longer.",
+      "verbatim_original_language": "",
+      "start_seconds": 262,
+      "end_seconds": 294,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Kenny Atkinson says he saw defensive progress from the Cavs tonight in terms of physicality and paint protection despite the final result.",
+      "team": "Cleveland Cavaliers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CLE"
+        ],
+        "topics": [],
+        "context": "Kenny Atkinson reflects on the team's defensive progress and physicality despite the overall loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "HiVeKH1AQR0",
+  "url": "https://www.youtube.com/watch?v=HiVeKH1AQR0",
+  "channel_team": "Cleveland Cavaliers",
+  "published": "2026-11-26T03:28:30Z",
+  "duration_seconds": 306,
+  "processed_at": "2026-11-26T09:41:50Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,151 @@
+{
+  "video_title": "Stephon Castle on Learning From Portland Loss and Adapting for Future Games",
+  "speakers_seen": [
+    "Stephon Castle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Stephon Castle",
+      "timestamp": "00:07",
+      "summary_phrase": "Stephon Castle reflects on the Spurs' inconsistent performance against Portland",
+      "names_mentioned": [],
+      "excerpt": "It was a weird game. It was an up and down game. It was very physical.",
+      "quote": "It was a weird game. It was an up and down game. It was very physical. They made a lot of tough shots. We missed a lot of shots that we usually make. We stayed there, we wanted it, and I felt we still gave ourselves a chance of contending. So, you know, it's one that it'll be easy to to flex.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Stephon Castle on the loss to Portland: It was a weird game and very physical. We missed a lot of shots that we usually make but we still gave ourselves a chance of contending.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle discusses the Spurs loss to the Portland Trail Blazers and his assessment of the game flow.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Stephon Castle",
+      "timestamp": "00:30",
+      "summary_phrase": "Stephon Castle on maintaining team positivity despite shooting struggles",
+      "names_mentioned": [],
+      "excerpt": "Vic has a great game, you're all are all, I think there's a lot of positive still in the whole game.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "It's one where the threes aren't falling and you're still in it."
+        },
+        {
+          "speaker": "Stephon Castle",
+          "text": "Vic has a great game, you're all are all, I think there's a lot of positive still in the whole game. That's just what do you think, how do you take those to the next?"
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Stephon Castle"
+      ],
+      "reporter_split": true,
+      "start_seconds": 30,
+      "end_seconds": 48,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Stephon Castle says there is a lot of positive to take away from the loss to Portland even when the threes are not falling.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Stephon Castle reflects on the team's shooting struggles and the positive impact of Victor Wembanyama's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Stephon Castle",
+      "timestamp": "00:44",
+      "summary_phrase": "Stephon Castle on the need for better team execution",
+      "names_mentioned": [],
+      "excerpt": "Just not completely beating ourselves.",
+      "quote": "Just not completely beating ourselves. Usually it's a lot more clean. That's the reason why we lost. To be specific, tonight it was just the little things. We had some weird plays, shots that kind of hurt in the moment, but I mean, if you really watch the possession, there was a shot that we probably wanted, another shot.",
+      "text_blocks": [],
+      "start_seconds": 44,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Stephon Castle on why the Spurs lost to Portland: It was just the little things. We had some weird plays and shots that hurt in the moment but we need to focus on not beating ourselves.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle explains that the loss to Portland was primarily due to the team failing to execute on small details.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Stephon Castle",
+      "timestamp": "01:14",
+      "summary_phrase": "Stephon Castle on the physical nature of NBA defense",
+      "names_mentioned": [],
+      "excerpt": "I mean, that's the NBA. You have talent, players in the world.",
+      "quote": "I mean, that's the NBA. You have talent, players in the world. So, I mean, you have to play, trade three-second series, read defense, and they they get off a contested three and they they still get the rebound. So, that's just how the league is, and you have to be willing to that battle against that every single day.",
+      "text_blocks": [],
+      "start_seconds": 74,
+      "end_seconds": 97,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Stephon Castle on the physical nature of the NBA: You have to play and read defense and be willing to battle against that every single day.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle comments on the physical nature of NBA defense and the necessity of competing in every possession.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "5r3gABBb-Vo",
+  "url": "https://www.youtube.com/watch?v=5r3gABBb-Vo",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-26T06:54:37Z",
+  "duration_seconds": 116,
+  "processed_at": "2026-11-26T09:39:09Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

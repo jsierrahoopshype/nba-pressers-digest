@@ -1,0 +1,148 @@
+{
+  "video_title": "Deni Avdija Postgame Interview | Portland Trail Blazers 116, San Antonio Spurs 111 | Nov. 25, 2026",
+  "speakers_seen": [
+    "Deni Avdija",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Deni Avdija",
+      "speakers": [
+        "Unidentified reporter",
+        "Deni Avdija"
+      ],
+      "timestamp": "00:02",
+      "summary_phrase": "Deni Avdija on the team's collective effort in the win",
+      "names_mentioned": [
+        "Deni Avdija"
+      ],
+      "excerpt": "We stayed together. We gave all our effort defensively, offensively. Coaching staff, everybody was locked in today.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Deni, extremely competitive game from beginning to end. How did you find a way to win this one down the stretch?"
+        },
+        {
+          "speaker": "Deni Avdija",
+          "text": "We stayed together. We gave all our effort defensively, offensively. Coaching staff, everybody was locked in today."
+        }
+      ],
+      "start_seconds": 2,
+      "end_seconds": 17,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Deni Avdija on the Blazers win over the Spurs: We stayed together. We gave all our effort defensively, offensively. Coaching staff, everybody was locked in today.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija explains how the team secured a close win against the San Antonio Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Deni Avdija",
+      "speakers": [
+        "Unidentified reporter",
+        "Deni Avdija"
+      ],
+      "timestamp": "00:17",
+      "summary_phrase": "Deni Avdija on the importance of team defense",
+      "names_mentioned": [
+        "Deni Avdija"
+      ],
+      "excerpt": "We were connected today defensively. We did what we needed to do. Shout out to everybody.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You guys got some huge stops in those last few minutes. Just how important was your team defense tonight?"
+        },
+        {
+          "speaker": "Deni Avdija",
+          "text": "Team defense, as I said, we were connected today defensively. We did what we needed to do. Shout out to everybody on the team. And that's about it. I'm pretty exhausted."
+        }
+      ],
+      "start_seconds": 17,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Deni Avdija on the defensive stops down the stretch: We were connected today defensively. We did what we needed to do. Shout out to everybody on the team. And that is about it. I am pretty exhausted.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija discusses the importance of the team defensive effort in the final minutes of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Deni Avdija",
+      "speakers": [
+        "Unidentified reporter",
+        "Deni Avdija"
+      ],
+      "timestamp": "00:43",
+      "summary_phrase": "Deni Avdija on the support from the Portland fans",
+      "names_mentioned": [
+        "Deni Avdija"
+      ],
+      "excerpt": "I definitely feel the love and we want them to come every night and support.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "But everyone in this building are Deni fans. Could you feel the love tonight?"
+        },
+        {
+          "speaker": "Deni Avdija",
+          "text": "I definitely feel the love and we want them to come every night and support and be loud because they're a part of us and we love them."
+        }
+      ],
+      "start_seconds": 43,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Deni Avdija on the Portland crowd: I definitely feel the love and we want them to come every night and support and be loud because they are a part of us and we love them.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Deni Avdija reacts to a question about the support received from the Portland home crowd.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "wwNF7pWdveY",
+  "url": "https://www.youtube.com/watch?v=wwNF7pWdveY",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-26T06:05:01Z",
+  "duration_seconds": 63,
+  "processed_at": "2026-11-26T09:39:45Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

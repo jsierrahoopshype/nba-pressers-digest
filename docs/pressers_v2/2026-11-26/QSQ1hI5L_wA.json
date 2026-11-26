@@ -1,0 +1,368 @@
+{
+  "video_title": "“We Stayed Consistent And Kept Our Head Down To Get The W.” | Ayo Dosunmu Postgame Sound | 11.25.26",
+  "speakers_seen": [
+    "Ayo Dosunmu"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Ayo Dosunmu on Minnesota Timberwolves' playoff and championship ambitions",
+      "names_mentioned": [],
+      "excerpt": "we want to win, we want to advance, we want to have a chance to win that big money.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What does this mean for the group playing on Friday?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "I feel great. That's what it's all about. I believe we have Minnesota. You probably know, never clinch, so that's a coach a game for sure. We want to win, we want to advance, we want to have a chance to win that big money. So it gives more of a incentive to go out there and compete."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 26,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the team's mindset heading into Friday's game: We want to win, we want to advance, we want to have a chance to win that big money. So it gives more of a incentive to go out there and compete.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses the team's motivation to win and advance in the upcoming game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified speaker",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:27",
+      "summary_phrase": "Ayo Dosunmu on maintaining consistency through ups and downs",
+      "names_mentioned": [],
+      "excerpt": "staying the course, not getting too high, not getting too low.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "How did you guys kind of grind through this one? A lot of ups and downs."
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Staying the course, not getting too high, not getting too low. We start off a little slow, miss some shots that we normally make, but it's all about just staying consistent. Just wearing them down for 48 minutes, believing in the offense, believing in our schemes, staying together. We were able to do that. We got some huge stops, got some huge rebounds, made some huge plays."
+        }
+      ],
+      "start_seconds": 27,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on how the team grinded out the win: Staying the course, not getting too high, not getting too low. We start off a little slow, miss some shots that we normally make, but it's all about just staying consistent.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains how the team maintained consistency and focus to secure a victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:56",
+      "summary_phrase": "Ayo Dosunmu on Jaden McDaniels' growth and mid-range effectiveness",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Melo"
+      ],
+      "excerpt": "he's one of the best mid-range scorers and he's one of the most effective players in that area.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What have you seen from Jaden in that short roll, growing into that role?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "It's tough, especially when you got Melo in the action. Jaden, he's getting the ball at where he's very effective at. He's one of the best mid-range scorers and he's one of the most effective players in that area. So he's getting the ball right there, he's quick, he's making decisive decisions and when he gets to his shot, it's very hard to contest because with his height and his touch and his confidence is growing."
+        }
+      ],
+      "start_seconds": 56,
+      "end_seconds": 91,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Ayo Dosunmu on Jaden McDaniels' growth: He's one of the best mid-range scorers and he's one of the most effective players in that area. He's quick, he's making decisive decisions and when he gets to his shot, it's very hard to contest.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels",
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu describes Jaden McDaniels' effectiveness as a mid-range scorer when playing alongside LaMelo Ball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "01:42",
+      "summary_phrase": "Ayo Dosunmu on Jaden McDaniels' demeanor and team impact",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "he definitely turned the corner and turned into a premier star in this league.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "It seems like everyone just loves him. What is it about him that?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "His demeanor, his willingness for one to get better. He's a great teammate. Ever since I got here, he's been nothing but a great teammate. He uplifts others and even when he doesn't have it going, or if he's not getting shots, he's the same person, whether when he got 30 or not. So having that consistency, you want to see people like that win. He's definitely turned the corner and turned into a premier star in this league."
+        }
+      ],
+      "start_seconds": 102,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Ayo Dosunmu says Jaden McDaniels has turned the corner and become a premier star in the league: He's a great teammate. Ever since I got here, he's been nothing but a great teammate. He uplifts others.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu praises Jaden McDaniels' demeanor and consistency as a teammate.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "02:22",
+      "summary_phrase": "Ayo Dosunmu on LaMelo Ball's injury and team support",
+      "names_mentioned": [
+        "LaMelo Ball"
+      ],
+      "excerpt": "just praying for him, just praying for him, hoping nothing is too serious.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You see LaMelo go down, what's going through your mind when he's clearly in a lot of pain?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Just praying for him, just praying for him, hoping nothing is too serious. Hoping he's able to shake back like I know he would. I know he wants to be out there and compete and anytime someone goes down, I'm always praying for them because I understand what it takes to play and what you have to put your body through each night in, night out."
+        }
+      ],
+      "start_seconds": 142,
+      "end_seconds": 174,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 6,
+      "social_post": "Ayo Dosunmu on seeing LaMelo Ball go down with an injury: Just praying for him, just praying for him, hoping nothing is too serious. Hoping he's able to shake back like I know he would.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Ayo Dosunmu reacts to LaMelo Ball suffering an injury during the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "02:53",
+      "summary_phrase": "Ayo Dosunmu on maintaining offensive rhythm and confidence",
+      "names_mentioned": [],
+      "excerpt": "if I know I should have made it, I say, okay, it was a make.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "How do you stay in it enough so that you are in position to make big shots?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "My mindset is, if I know I miss the shot that I normally make, I count it as a make. I don't let makes and misses determine how my game is. So I try to pick up on defense, make extra plays on defense, do the little things that's probably necessarily not scoring, and that helps me get in a rhythm. Always keep going, trusting in my work, trusting in my ability, never lose the confidence."
+        }
+      ],
+      "start_seconds": 173,
+      "end_seconds": 209,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on his shooting mindset: If I know I miss the shot that I normally make, I count it as a make. I don't let makes and misses determine how my game is.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains his mental approach to staying confident and contributing even when his shots are not falling.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "03:48",
+      "summary_phrase": "Ayo Dosunmu on the rivalry with the Oklahoma City Thunder",
+      "names_mentioned": [],
+      "excerpt": "I'm here to inherit it. I'm here to push it.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Can you feel a little difference with that rivalry as it's developed with OKC?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "Sure, and I'm here to inherit it. I'm here to push it. I understand the importance of just playing against them. A couple years ago in the playoffs and them feeding us, and them ultimately winning a title, it's something that we have in our minds, something that we can accomplish."
+        }
+      ],
+      "start_seconds": 228,
+      "end_seconds": 253,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Ayo Dosunmu on the rivalry with OKC: I'm here to inherit it. I'm here to push it. I understand the importance of just playing against them.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses the competitive rivalry between the Minnesota Timberwolves and the Oklahoma City Thunder.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified speaker",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "04:43",
+      "summary_phrase": "Ayo Dosunmu on the Timberwolves' next-man-up culture",
+      "names_mentioned": [
+        "Dante",
+        "Jaylen",
+        "LaMelo"
+      ],
+      "excerpt": "that's our culture, that's our mindset, just next man up, just being ready to play.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "It feels like you guys have that mentality too, right? Like, Amp goes down and Dante and Jaylen and LaMelo even."
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "That's our culture, that's our mindset, just next man up, just being ready to play, being ready to contribute. Each and every guy works extremely hard to go out there and compete and try to help us win. We're so deep that at full strength, some guys that are playing huge minutes that was not in the rotation, and that just showcases how deep we are."
+        }
+      ],
+      "start_seconds": 283,
+      "end_seconds": 316,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the Timberwolves' depth: That's our culture, that's our mindset, just next man up, just being ready to play, being ready to contribute.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu highlights the team's next-man-up culture and depth following recent injuries.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "QSQ1hI5L_wA",
+  "url": "https://www.youtube.com/watch?v=QSQ1hI5L_wA",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-26T04:52:04Z",
+  "duration_seconds": 343,
+  "processed_at": "2026-11-26T09:40:33Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

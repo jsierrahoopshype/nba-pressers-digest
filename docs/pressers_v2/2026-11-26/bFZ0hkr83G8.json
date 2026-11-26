@@ -1,0 +1,145 @@
+{
+  "video_title": "Kyle Kuzma Postgame Media Availability | 11.25.26",
+  "speakers_seen": [
+    "Kyle Kuzma"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "00:09",
+      "summary_phrase": "Kyle Kuzma on the team's tendency to play selfishly",
+      "names_mentioned": [],
+      "excerpt": "We think about the individual and not the team.",
+      "quote": "We think about the individual and not the team. We have these stints where we do a great job of playing together, playing smart, playing the right way, and then we have stints where we fall off that trail a little bit.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Kyle Kuzma says the team is struggling with selfishness: We think about the individual and not the team. We have these stints where we do a great job of playing together and then we have stints where we fall off that trail a little bit.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma discusses the team's tendency to play selfishly during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "01:29",
+      "summary_phrase": "Kyle Kuzma on the difficulty of playing consistent team basketball",
+      "names_mentioned": [],
+      "excerpt": "Doing the boring thing is hard to do consistently.",
+      "quote": "Really good teams, I have been in the league a long time, I know they see, they don't get tired of doing the same thing over and over. Doing the boring thing is hard to do consistently. It is hard to just be a robot out there and do the same thing, but you have to take what the defense is giving you.",
+      "text_blocks": [],
+      "start_seconds": 89,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Kyle Kuzma on the challenge of consistency: Doing the boring thing is hard to do consistently. It is hard to just be a robot out there and do the same thing, but you have to take what the defense is giving you.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Kyle Kuzma explains the difficulty of maintaining consistent team basketball and playing the right way.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "03:04",
+      "summary_phrase": "Kyle Kuzma on Miles Turner's impact on team defense",
+      "names_mentioned": [
+        "Miles Turner"
+      ],
+      "excerpt": "A big part of it is Miles Turner, obviously, because he protects a lot of us.",
+      "quote": "A big part of it is Miles Turner, obviously, because he protects a lot of us. We are not the best point-of-attack defensive team, we have made a lot of growth, but when we have him and Kel at the rim and they are challenging shots, allowing us to save our bacon sometimes, they are giving us a huge lift.",
+      "text_blocks": [],
+      "start_seconds": 184,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Kyle Kuzma credits Miles Turner for anchoring the defense: A big part of it is Miles Turner, obviously, because he protects a lot of us. We are not the best point of attack defensive team, but when he is at the rim he is saving our bacon.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Miles Turner"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kyle Kuzma discusses the defensive impact of Miles Turner and Kel on the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kyle Kuzma",
+      "timestamp": "03:57",
+      "summary_phrase": "Kyle Kuzma on Kel's growth and personality on the court",
+      "names_mentioned": [
+        "Kel"
+      ],
+      "excerpt": "He has a very vibrant personality off the court, but he needs to have that on the court.",
+      "quote": "He has a very vibrant personality off the court, but he needs to have that on the court too. When he has it on the court, you see him, he is getting tip dunks, he is blocking shots, he is smiling. He is doing certain things that he is not just trying to focus on shooting threes.",
+      "text_blocks": [],
+      "start_seconds": 237,
+      "end_seconds": 259,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Kyle Kuzma wants to see more energy from Kel on the court: He has a very vibrant personality off the court, but he needs to have that on the court too. When he has it, you see him getting tip dunks, blocking shots, and smiling.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kel"
+        ],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Kyle Kuzma talks about the growth of Kel and the importance of bringing his personality to the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "bFZ0hkr83G8",
+  "url": "https://www.youtube.com/watch?v=bFZ0hkr83G8",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-26T04:28:44Z",
+  "duration_seconds": 297,
+  "processed_at": "2026-11-26T09:41:06Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,217 @@
+{
+  "video_title": "Hornets vs Bulls: Coach Charles Lee Postgame Media Availability | 11/25/2026",
+  "speakers_seen": [
+    "Charles Lee"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Charles Lee",
+      "timestamp": "00:15",
+      "summary_phrase": "Charles Lee on Charlotte's late-game execution and defensive lapses",
+      "names_mentioned": [],
+      "excerpt": "I got to be better for the guys, and then finishing possessions.",
+      "quote": "There are just a couple moments throughout the game where you have to be able to build upon your momentum really and not allow the other team to chip into your lead as much as we did, or find ways to extend it. The baseline out of bounds, sideline out of bounds, turnovers stick out in my mind. I got to be better for the guys, and then finishing possessions. At the end of the day in that fourth quarter, they get a 34-point quarter and it felt just a ton of guys getting driven. You got to be able to wall up, you got to be able to slide and absorb that contact and be able to stop them before they have two feet in the paint. Our guys then found a couple possessions where we did, and then we just didn't finish possessions, and that's what happened on that last play for them to take that lead.",
+      "start_seconds": 15,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Charles Lee on the Hornets late game defensive struggles against the Bulls: We have to be able to wall up and slide to stop them before they have two feet in the paint. We just did not finish possessions.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA",
+          "CHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Head coach Charles Lee addresses the media after a loss to the Chicago Bulls regarding the team's late-game defensive execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Charles Lee",
+      "timestamp": "01:03",
+      "summary_phrase": "Charles Lee praises Brandon Miller's offensive process and defensive effort",
+      "names_mentioned": [
+        "Brandon Miller"
+      ],
+      "excerpt": "Brandon played with a purpose and a forced downhill to see him get to the paint.",
+      "quote": "Between Brandon and his teammates, their process, the execution, I thought offensively a ton of times when we wanted to get to a half-court set, guys got to their spots. They screened much better today. Brandon played with a purpose and a forced downhill to see him get to the paint was really encouraging. I look forward to him just having more games like this and building off of this momentum. I also thought that he was really good defensively too, so that's the elite two-way player that we need to continue to see.",
+      "start_seconds": 63,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Charles Lee praised Brandon Miller for his performance against the Bulls: Brandon played with a purpose and a forced downhill to see him get to the paint was really encouraging. That is the elite two way player we need to continue to see.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee discusses Brandon Miller's offensive performance and defensive effort during his postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Charles Lee",
+      "timestamp": "01:40",
+      "summary_phrase": "Charles Lee discusses team confidence and closing out close games",
+      "names_mentioned": [
+        "Kobe"
+      ],
+      "excerpt": "We trust him in that situation and if that was the shot that he felt like.",
+      "quote": "We are a very confident group. We are getting the looks that we wanted. Even down the stretch there to execute that play with no timeouts left and get Kobe a shot coming down the floor and a little step back that he has hit several times, we trust him in that situation and if that was the shot that he felt like he could get off, fully believe in it. From a confidence and execution standpoint, I think we are getting better and better, but yes, we do need to finish some of these games and some of it is on the defensive end too, not even offensively.",
+      "start_seconds": 100,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Charles Lee on the Hornets trust in Kobe late in games: We trust him in that situation and if that was the shot that he felt like he could get off, fully believe in it. From a confidence standpoint I think we are getting better.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kobe Bufkin"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Lee explains his trust in Kobe Bufkin to take the final shot during the team's loss to the Bulls.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Charles Lee",
+      "timestamp": "02:49",
+      "summary_phrase": "Charles Lee on Christian Anderson's development and using his size",
+      "names_mentioned": [
+        "Christian Anderson",
+        "Fraser"
+      ],
+      "excerpt": "Being aggressive has been something that we've talked about and making the defense have to guard you.",
+      "quote": "Being aggressive has been something that we've talked about and making the defense have to guard you and respect you in some spots. It's a little bit of Christian, a little bit of our coaching staff continuing to emphasize it, and I think it's also some of the players. A lot of times Dennis is talking to him, Kobe is talking to him, Brandon is talking to him, and those guys that play pick and roll often enough are able to share some jewels with him.",
+      "start_seconds": 169,
+      "end_seconds": 202,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Charles Lee on Christian Andersons development: Being aggressive has been something that we have talked about and making the defense have to guard you and respect you in some spots.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Anderson",
+          "Dennis Smith Jr.",
+          "Kobe Bufkin",
+          "Brandon Miller"
+        ],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Charles Lee discusses the development of rookie Christian Anderson and the mentorship he receives from his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Charles Lee",
+      "timestamp": "03:32",
+      "summary_phrase": "Charles Lee on teaching players to avoid bad fouls",
+      "names_mentioned": [
+        "Christian Anderson",
+        "Trey Jones"
+      ],
+      "excerpt": "Christian is not the only one that got driven to the paint, so it's not only on him.",
+      "quote": "First, I would say Christian is not the only one that got driven to the paint, so it's not only on him, it's our whole collective group. I actually think he's done a good job as well as some other guys of having some active hands in those positions and being able to create some deflections and some steals for us. But a couple of them are just situational. You got Trey Jones driving at you, he's an excellent driver, it was like 44 seconds on the clock so they're trying to play fast, and that's one of those situations where you got two rookies, one on the ball, one in a shift, you got to be there early, you got to show them a crowd so they can't get there.",
+      "start_seconds": 212,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Charles Lee on defensive rotations: You have to be there early, you have to show them a crowd so they cannot get there.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Anderson",
+          "Tre Jones"
+        ],
+        "teams": [
+          "CHA",
+          "CHI"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Charles Lee explains the defensive challenges faced by his young players when defending Tre Jones in late-game situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Charles Lee",
+      "timestamp": "04:37",
+      "summary_phrase": "Charles Lee on maintaining team morale during a losing streak",
+      "names_mentioned": [],
+      "excerpt": "This is a group that loves to work, they love to work together.",
+      "quote": "This is a group that loves to work, they love to work together. We just spoke about outcomes don't determine your level of gratitude and happiness, and I think that we enjoy coming to work every day and figuring out the challenges and the things that we need to get better at. We're making some progress. Again, I think we're all going to say we just got to finish at the end of the day, no matter who you're playing.",
+      "start_seconds": 277,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Charles Lee on the Hornets mindset during the losing streak: We just spoke about outcomes do not determine your level of gratitude and happiness. We enjoy coming to work every day and figuring out the challenges.",
+      "team": "Charlotte Hornets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Charles Lee comments on the team's morale and work ethic following a difficult loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "d44EVtxLh5w",
+  "url": "https://www.youtube.com/watch?v=d44EVtxLh5w",
+  "channel_team": "Charlotte Hornets",
+  "published": "2026-11-26T03:31:41Z",
+  "duration_seconds": 324,
+  "processed_at": "2026-11-26T09:41:33Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

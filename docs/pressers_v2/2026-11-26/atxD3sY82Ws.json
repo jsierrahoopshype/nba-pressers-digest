@@ -1,0 +1,85 @@
+{
+  "video_title": "Ty Jerome Walk-Off Interview | Grizzlies vs. Clippers",
+  "speakers_seen": [
+    "Jessica Benson",
+    "Ty Jerome"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ty Jerome",
+      "speakers": [
+        "Unidentified reporter",
+        "Ty Jerome",
+        "Unidentified reporter",
+        "Ty Jerome",
+        "Unidentified reporter",
+        "Ty Jerome"
+      ],
+      "timestamp": "00:07",
+      "summary_phrase": "Ty Jerome on Memphis Grizzlies' resilience and team depth",
+      "names_mentioned": [
+        "Ty Jerome"
+      ],
+      "excerpt": "we got 18 guys that can all really play, so next man up mentality for us",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Ty, you guys got out to such a hot start in this one. They cut back into it. How were you able to resettle into your game and pull away for the win?"
+        },
+        {
+          "speaker": "Ty Jerome",
+          "text": "Basketball is a game of runs. They got a good team over there, so we knew they were going to make a run. We just had to get back to playing our brand of basketball at half. At halftime, I told everyone we got a brand new ball game on our hands, and we came out and we made a run to start this half."
+        },
+        {
+          "speaker": "Unidentified reporter",
+          "text": "When those shots aren't falling in those stretches, how were you able to get the ball moving a little bit more, get that offense back in the flow?"
+        },
+        {
+          "speaker": "Ty Jerome",
+          "text": "I thought we got a lot of good shots, and they're not always going to go in, so you just keep taking them with confidence, and then we made enough."
+        },
+        {
+          "speaker": "Unidentified reporter",
+          "text": "This team continues to have guys step up, play different roles as you continue to fight through injuries. Just what has led to the consistency of allowing you guys to keep the success coming?"
+        },
+        {
+          "speaker": "Ty Jerome",
+          "text": "I've been saying it all year since training camp. We got 18 guys that can all really play, so next man up mentality for us for sure."
+        }
+      ],
+      "start_seconds": 7,
+      "end_seconds": 90,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ty Jerome on the Grizzlies resilience after a hot start against the Clippers: We just had to get back to playing our brand of basketball and we made a run to start the half.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ty Jerome discusses the Grizzlies' ability to maintain consistency and team depth despite various injuries during a post-game interview.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: interview",
+  "format": "ytq-1",
+  "video_id": "atxD3sY82Ws",
+  "url": "https://www.youtube.com/watch?v=atxD3sY82Ws",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-26T03:37:11Z",
+  "duration_seconds": 90,
+  "processed_at": "2026-11-26T09:41:14Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

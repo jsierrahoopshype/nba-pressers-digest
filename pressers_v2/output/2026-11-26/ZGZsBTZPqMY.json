@@ -1,0 +1,110 @@
+{
+  "video_title": "Tyler Herro Postgame Media Availability | 11.25.26",
+  "speakers_seen": [
+    "Tyler Herro"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:11",
+      "summary_phrase": "Tyler Herro on the team's need for consistent ball movement",
+      "names_mentioned": [],
+      "excerpt": "We play best when we're moving that ball, when the ball has pop to it.",
+      "quote": "We just got away from our game. We play best when we're moving that ball, when the ball has pop to it. We just got to get to it and be more consistent with it.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tyler Herro on the team's offensive struggles tonight: We play best when we're moving that ball, when the ball has pop to it. We just got to get to it and be more consistent with it.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro discusses the team's need for consistent ball movement following a game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tyler Herro",
+      "timestamp": "00:40",
+      "summary_phrase": "Tyler Herro on the team's struggle with individual versus team play",
+      "names_mentioned": [],
+      "excerpt": "Guys want to score, guys want to play their game a little bit, but we got to play team ball.",
+      "quote": "Things happen. Guys want to score, guys want to play their game a little bit, but we got to play team ball. That's what it's all about.",
+      "text_blocks": [],
+      "start_seconds": 40,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Tyler Herro on the team needing to prioritize team play: Things happen. Guys want to score, guys want to play their game a little bit, but we got to play team ball. That's what it's all about.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Tyler Herro addresses the team's struggle to balance individual scoring with team-oriented play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tyler Herro",
+      "timestamp": "01:06",
+      "summary_phrase": "Tyler Herro on defensive lapses and the team's slow-paced offense",
+      "names_mentioned": [
+        "Randle"
+      ],
+      "excerpt": "It was a slower-paced game, and the way that they switch everything, that naturally slows teams down.",
+      "quote": "It was a slower-paced game, and the way that they switch everything, that naturally slows teams down offensively, which is why we scored what we scored. I think the more we move the ball, the more we play off each other when teams are switching, it's going to help us. But it was a low-scoring game because of how they muck things up defensively. I felt like their players were too comfortable getting to their spots, especially early on, and then Randle especially got going. He was comfortable, and he obviously won them the game.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tyler Herro on the defensive lapses against Julius Randle: I felt like their players were too comfortable getting to their spots, especially early on, and then Randle especially got going. He was comfortable, and he obviously won them the game.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Julius Randle"
+        ],
+        "teams": [
+          "MIL",
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Tyler Herro analyzes the team's offensive struggles against a switching defense and highlights the impact of Julius Randle's performance.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "ZGZsBTZPqMY",
+  "url": "https://www.youtube.com/watch?v=ZGZsBTZPqMY",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-26T04:28:41Z",
+  "duration_seconds": 144,
+  "processed_at": "2026-11-26T09:40:56Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

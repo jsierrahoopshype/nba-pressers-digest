@@ -1,0 +1,145 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability  | 11-25-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:54",
+      "summary_phrase": "Jordan Ott on Kamaka's complete performance against a physical team",
+      "names_mentioned": [
+        "Kamaka",
+        "Adams"
+      ],
+      "excerpt": "He just battled. Good minutes from a young dude that hasn't played in a ton of environments.",
+      "quote": "Against a physical team with experienced bigs, all-star level bigs, we just wanted to see him against Adams because we knew the offensive glass would hurt us. But he just battled. He just battled. I thought good minutes from a young dude that hasn't played in a ton of environments like this, in a big game. So yeah, he hung in there and did well.",
+      "verbatim_original_language": "",
+      "start_seconds": 54,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordan Ott praised Kamaka for his performance against a physical team saying he just battled in a big game environment",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Steven Adams"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses how a young player performed while defending Steven Adams.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:30",
+      "summary_phrase": "Jordan Ott reflects on the team's 4-1 road trip performance",
+      "names_mentioned": [],
+      "excerpt": "We wanted to be greedy to try to get to 5-0 on the trip.",
+      "quote": "Overall, if we zoom out after the emotion dies down a little bit today, we were able to make some strides in the trip. We wanted this one too. We wanted to be greedy to try to get to 5-0 on the trip. We knew it was a big game, knew it would be emotional, and we knew we wanted to test ourselves against one of the best teams in the West.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordan Ott reflects on the Suns 4-1 road trip saying the team wanted to be greedy and get to 5-0",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott reflects on the team's performance during their recent five-game road trip.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:01",
+      "summary_phrase": "Jordan Ott explains the rotation changes due to foul trouble",
+      "names_mentioned": [
+        "Miles",
+        "Dylan"
+      ],
+      "excerpt": "We were searching a little bit there for someone that wasn't in foul trouble.",
+      "quote": "We were searching a little bit there for someone that wasn't in foul trouble. Dylan was in foul trouble there at the start of the third quarter, so we pulled him a little bit early to then bring him back to start the fourth. And then our fives ended up obviously in foul trouble. So we were trying to figure out the right combination.",
+      "verbatim_original_language": "",
+      "start_seconds": 181,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Jordan Ott explains the rotation changes in the second half were driven by foul trouble for Dylan and the centers",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan Windler"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jordan Ott explains the reasoning behind rotation changes made due to player foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:20",
+      "summary_phrase": "Jordan Ott identifies defensive rebounding as a primary concern",
+      "names_mentioned": [],
+      "excerpt": "We're 30th in defensive rebounding, struggle again, and thought we were in it.",
+      "quote": "It's always the glass. We're 30th in defensive rebounding, struggle again, and thought we were in it, and then they got one on the free-throw rebound. We're up against it every night. How do we find a way to offset the possession game because we're just getting crushed on the defensive glass? It ended up pretty close again tonight, but between that and then what, take a look at our threes, we shoot 16% on the road, it's going to be hard to beat a really good team.",
+      "verbatim_original_language": "",
+      "start_seconds": 320,
+      "end_seconds": 354,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 2,
+      "social_post": "Jordan Ott identifies defensive rebounding and poor three point shooting as the primary reasons the team is struggling to beat top tier opponents",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott identifies defensive rebounding and three-point shooting as the primary reasons for the team's struggles.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "TH6A8UnbSY4",
+  "url": "https://www.youtube.com/watch?v=TH6A8UnbSY4",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-26T04:37:35Z",
+  "duration_seconds": 358,
+  "processed_at": "2026-11-26T09:40:40Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

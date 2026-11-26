@@ -1,0 +1,185 @@
+{
+  "video_title": "“We Stuck To The Game Plan And Matched OKC's Intensity.” | Chris Finch Postgame Sound | 11.25.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:03",
+      "summary_phrase": "Chris Finch on the Timberwolves' defensive adjustments against OKC",
+      "names_mentioned": [],
+      "excerpt": "We got a lot better against the switching. The switching in the first half bothered us.",
+      "quote": "Regardless of who they have or don't have, it's a really well-coached team. They make you beat them. We got a lot better against the switching. The switching in the first half bothered us when they went to that second unit. We were much better against it in the second half, certainly down the stretch too. There were some game plan mistakes early. Once we corrected those and were much more on point, made a few adjustments, then guys were able to settle into a rhythm of guarding a bit. They missed some timely shots too, so that helped us.",
+      "text_blocks": [],
+      "start_seconds": 3,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Chris Finch says the Timberwolves made necessary defensive adjustments against OKC switching in the second half to settle into a rhythm of guarding",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the Timberwolves' defensive adjustments and execution against the Thunder after the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "00:42",
+      "summary_phrase": "Chris Finch on Jaden McDaniels' emergence as a reliable player",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "D'Angelo Russell",
+        "Rudy Gobert"
+      ],
+      "excerpt": "He's got a great touch, great size. Takes his time, makes the right play.",
+      "quote": "He and D'Angelo Russell have a really good chemistry, of course. He's got a great touch, great size. Takes his time, makes the right play. Whether it's to the corner, whether it's to Rudy Gobert, or whether it's for himself, he can make all the plays.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 60,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Chris Finch praises the chemistry between Jaden McDaniels and D'Angelo Russell noting that McDaniels has a great touch and makes the right play",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels",
+          "D'Angelo Russell",
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Chris Finch praises the chemistry and playmaking ability of Jaden McDaniels alongside his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "01:19",
+      "summary_phrase": "Chris Finch on Jaden McDaniels' complete performance against OKC",
+      "names_mentioned": [
+        "Jaden McDaniels",
+        "Shai Gilgeous-Alexander"
+      ],
+      "excerpt": "Complete game on both ends of the floor. Having the energy to be able to score.",
+      "quote": "Complete game on both ends of the floor. Having the energy to be able to score like that and also score on demand after guarding Shai Gilgeous-Alexander. We matched his minutes exclusively, we didn't really give him much of a break, and just to be able to guard and score was huge.",
+      "text_blocks": [],
+      "start_seconds": 79,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Chris Finch calls Jaden McDaniels performance against OKC a complete game noting the difficulty of guarding Shai Gilgeous Alexander while also scoring on demand",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels",
+          "Shai Gilgeous-Alexander"
+        ],
+        "teams": [
+          "MIN",
+          "OKC"
+        ],
+        "topics": [],
+        "context": "Chris Finch highlights Jaden McDaniels' performance on both ends of the floor while defending Shai Gilgeous-Alexander.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "01:45",
+      "summary_phrase": "Chris Finch on adjusting the rotation without Jaden McDaniels",
+      "names_mentioned": [
+        "Jaden McDaniels"
+      ],
+      "excerpt": "We're going to have to figure out who we put in the starting lineup.",
+      "quote": "We're going to have to figure out who we put in the starting lineup, activate our two-ways at this point, and try to soldier on, figure out how to tweak things here. But right now I don't have any answers for you.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Chris Finch admits he does not have answers yet on how the Timberwolves will adjust the starting lineup following the loss of Jaden McDaniels",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaden McDaniels"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Chris Finch addresses the need to adjust the starting lineup following the absence of Jaden McDaniels.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "02:11",
+      "summary_phrase": "Chris Finch on the Timberwolves' mental toughness as a group",
+      "names_mentioned": [],
+      "excerpt": "They're pretty even keel, generally as people they're pretty even keel, they stay pretty focused.",
+      "quote": "They're pretty even keel, generally as people they're pretty even keel, they stay pretty focused.",
+      "text_blocks": [],
+      "start_seconds": 131,
+      "end_seconds": 137,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Chris Finch describes the Timberwolves as an even keel group that stays focused",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch comments on the mental focus and temperament of his team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "p7ZdNsnK_vM",
+  "url": "https://www.youtube.com/watch?v=p7ZdNsnK_vM",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-26T05:01:31Z",
+  "duration_seconds": 164,
+  "processed_at": "2026-11-26T09:40:17Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}

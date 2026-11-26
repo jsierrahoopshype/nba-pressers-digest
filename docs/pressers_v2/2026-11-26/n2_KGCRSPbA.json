@@ -1,0 +1,196 @@
+{
+  "video_title": "Ayo Dosunmu Postgame Interview With Alan Horton | 11.25.26",
+  "speakers_seen": [
+    "Alan Horton",
+    "Ayo Dosunmu"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:15",
+      "summary_phrase": "Ayo Dosunmu on the Timberwolves' championship DNA and competitive resilience",
+      "names_mentioned": [],
+      "excerpt": "they are a championship team, so they have championship DNA",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "This one was hard fought, was it not? What a wild, how do you describe the swings in this game?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "It was a tough game. We knew that they were going to make runs. They are a championship team, so they have championship DNA and we just wanted to fight through their runs and just keep competing and keep staying together."
+        }
+      ],
+      "start_seconds": 15,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the Timberwolves championship DNA and the need to fight through their runs to keep competing",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu discusses the competitive nature of the game and the opponent's championship DNA following the Timberwolves' victory.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "00:35",
+      "summary_phrase": "Ayo Dosunmu on the Timberwolves' second unit impact and team response",
+      "names_mentioned": [],
+      "excerpt": "their second unit really changed the game for them",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "It felt like you guys were in a really good rhythm in that first quarter, and then it all kind of went away. How did you guys end up getting it back midway through the third?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "We let their non-shamen, they won their non-shamen in the first half. We were up 10 and their second unit really changed the game for them. So we wanted to harp on that for our team in the second half and do the same thing, and we made a great run in the third quarter."
+        }
+      ],
+      "start_seconds": 35,
+      "end_seconds": 70,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu explains how the team adjusted in the second half to counter the impact of the Timberwolves second unit",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains how the team adjusted to the opponent's second unit performance during the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "01:30",
+      "summary_phrase": "Ayo Dosunmu on stepping up as primary ball-handler after LaMelo Ball injury",
+      "names_mentioned": [
+        "LaMelo"
+      ],
+      "excerpt": "I always been ready for anything and that's my mindset just being able to adapt",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Were you ready when LaMelo went down with the ankle to be the primary ball-handler?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "For sure. I mean, you know, I always been ready for anything and that's my mindset just being able to adapt to any situation. I'm praying for LaMelo, hopefully it's nothing too serious and we got the win for him."
+        }
+      ],
+      "start_seconds": 90,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 5,
+      "social_post": "Ayo Dosunmu on stepping up as the primary ball handler after the LaMelo Ball injury. I have always been ready for anything and that is my mindset just being able to adapt to any situation",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "CHA"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Ayo Dosunmu discusses stepping into a primary ball-handling role following an ankle injury sustained by LaMelo Ball.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ayo Dosunmu",
+      "speakers": [
+        "Unidentified reporter",
+        "Ayo Dosunmu"
+      ],
+      "timestamp": "01:45",
+      "summary_phrase": "Ayo Dosunmu on Alex Caruso's mentorship and their shared competitive history",
+      "names_mentioned": [
+        "Alex Caruso"
+      ],
+      "excerpt": "Caruso, he's my guy. When I was a rookie, he was one of my vets",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You got your shot blocked by Alex Caruso late in the game, but the play continued and you nailed the corner three. How good did that feel after what happened?"
+        },
+        {
+          "speaker": "Ayo Dosunmu",
+          "text": "It felt great. You know, Caruso, he's my guy. When I was a rookie, he was one of my vets that helped me transition into the NBA, so that's just us competing."
+        }
+      ],
+      "start_seconds": 105,
+      "end_seconds": 129,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Ayo Dosunmu on his history with Alex Caruso. Caruso was one of my vets that helped me transition into the NBA so that is just us competing",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alex Caruso"
+        ],
+        "teams": [
+          "MIN",
+          "CHI"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu reflects on his history and relationship with Alex Caruso after a late-game play between the two.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "n2_KGCRSPbA",
+  "url": "https://www.youtube.com/watch?v=n2_KGCRSPbA",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-26T05:08:51Z",
+  "duration_seconds": 138,
+  "processed_at": "2026-11-26T09:40:12Z",
+  "run_id": "2026-11-26-overnight",
+  "is_one_off": false
+}
