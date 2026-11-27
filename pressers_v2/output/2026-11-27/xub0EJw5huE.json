@@ -1,0 +1,304 @@
+{
+  "video_title": "Stephon Castle on Staying Connected on Defense Against the Lakers",
+  "speakers_seen": [
+    "Stephon Castle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Stephon Castle",
+      "timestamp": "00:29",
+      "summary_phrase": "Stephon Castle on the necessity of discipline when guarding Luka Doncic",
+      "names_mentioned": [],
+      "excerpt": "the biggest thing is discipline. He plays at his own pace, it's hard to speed him up.",
+      "quote": "The biggest thing is discipline. He plays at his own pace, it's hard to speed him up. So when he gets to certain spots on the floor, if you're not disciplined, that's where he really hurts you with drawing and-ones, picking off corners, just little stuff like that. But it's also not a one-on-one thing. We have to play great team defense, so when we've had success against him in the past, I think we've done that.",
+      "text_blocks": [],
+      "start_seconds": 29,
+      "end_seconds": 59,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Stephon Castle on guarding Luka Doncic: The biggest thing is discipline. He plays at his own pace and it is hard to speed him up. If you are not disciplined, that is where he really hurts you.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAS",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Stephon Castle discusses the defensive discipline required to guard Luka Doncic.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Stephon Castle",
+      "timestamp": "01:02",
+      "summary_phrase": "Stephon Castle on his versatility alongside Luka Doncic and Jayson Tatum",
+      "names_mentioned": [
+        "Luka Doncic",
+        "Jason Tatum"
+      ],
+      "excerpt": "keeping the versatility in my game, not trying to hone into one skill, but trying to be elite.",
+      "quote": "I think the biggest thing is the last thing you said, just keeping the versatility in my game, not trying to hone into one skill, but trying to be elite at a lot of different ones. It's definitely a big deal to be in the same conversation as those two guys for sure.",
+      "text_blocks": [],
+      "start_seconds": 62,
+      "end_seconds": 82,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Stephon Castle on being mentioned alongside stars like Luka Doncic and Jayson Tatum: It is definitely a big deal to be in the same conversation as those two guys for sure.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic",
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "SAS",
+          "DAL",
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle reflects on being mentioned in the same conversation as Luka Doncic and Jayson Tatum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Stephon Castle",
+      "timestamp": "01:40",
+      "summary_phrase": "Stephon Castle on his focus as a lead guard for the Spurs",
+      "names_mentioned": [
+        "Dylan"
+      ],
+      "excerpt": "just trying to produce good shots for us. Most times when you're the only guard on the floor.",
+      "quote": "Just trying to produce good shots for us. Most times when you're the only guard on the floor and you have to create the action sometimes or create the advantage sometimes, most times you don't get the assist out of it. But I think the process of it and the flow of our offense, when we're focused on the right things, I think it goes pretty well.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 126,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Stephon Castle on his role as a lead guard: Most times when you are the only guard on the floor and you have to create the advantage, you do not get the assist out of it. But I think the process of it goes pretty well.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle describes his role and focus as a lead guard for the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Stephon Castle",
+      "timestamp": "02:20",
+      "summary_phrase": "Stephon Castle on the timing required for a perfect pass to shooters",
+      "names_mentioned": [],
+      "excerpt": "when your shooter is expecting the ball, you want to try and get it to them.",
+      "quote": "I think just on time, on target. The best way I can put it is when your shooter is expecting the ball, you want to try and get it to them at that time while they're ready to shoot. So I think a lot of it is the timing of it and where the ball is at, how long they were open for. Just all those little things kind of play into it and just getting our guys the right type of shot.",
+      "text_blocks": [],
+      "start_seconds": 140,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Stephon Castle on his passing philosophy: The best way I can put it is when your shooter is expecting the ball, you want to try and get it to them at that time while they are ready to shoot.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle explains the importance of timing and accuracy when passing to teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Stephon Castle",
+      "timestamp": "03:26",
+      "summary_phrase": "Stephon Castle on the importance of getting Devin Vassell back",
+      "names_mentioned": [
+        "Devin Vassell"
+      ],
+      "excerpt": "we don't want anybody on our team to sit out. He's been a big part of our team.",
+      "quote": "We don't want anybody on our team to sit out. He's been a big part of our team since day one since he got here. So we would love to have him back tonight.",
+      "text_blocks": [],
+      "start_seconds": 206,
+      "end_seconds": 219,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Stephon Castle on Devin Vassell: We do not want anybody on our team to sit out. He has been a big part of our team since day one. We would love to have him back tonight.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Devin Vassell"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Stephon Castle expresses his desire for Devin Vassell to return to the lineup.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Stephon Castle",
+      "timestamp": "04:08",
+      "summary_phrase": "Stephon Castle on the team's goal to return to the play-in tournament",
+      "names_mentioned": [],
+      "excerpt": "it was one of our goals as beginning of the season was to get back to the cup.",
+      "quote": "Especially knowing what the standings are like now, this is a very big game for us. It was one of our goals as beginning of the season was to get back to the cup. So I feel like if we handle business tonight, we'll be one step closer towards that.",
+      "text_blocks": [],
+      "start_seconds": 248,
+      "end_seconds": 267,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Stephon Castle on the Spurs playoff push: Knowing what the standings are like now, this is a very big game for us. It was one of our goals at the beginning of the season to get back to the cup.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle discusses the importance of winning games to reach the team's postseason goals.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Stephon Castle",
+      "timestamp": "04:36",
+      "summary_phrase": "Stephon Castle on the maturity of Kobe Bufkin",
+      "names_mentioned": [
+        "Kobe"
+      ],
+      "excerpt": "he's just really mature. I'd say on and off the court he's really mature.",
+      "quote": "He's just really mature. I'd say on and off the court he's really mature. I think he's a really smart basketball player. He flew into SAC, I think he got in at like 2:00 AM, played the next day, and it was like he was with us the whole time. So I think if you ask anybody else on our team, they'll speak pretty highly of Kobe.",
+      "text_blocks": [],
+      "start_seconds": 276,
+      "end_seconds": 302,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Stephon Castle on teammate Kobe Bufkin: He is just really mature. He flew into SAC, got in at 2 AM, played the next day, and it was like he was with us the whole time.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kobe Bufkin"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Stephon Castle praises the maturity and basketball IQ of his teammate Kobe Bufkin.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Stephon Castle",
+      "timestamp": "05:05",
+      "summary_phrase": "Stephon Castle on the potential opportunity to play for USA Basketball",
+      "names_mentioned": [],
+      "excerpt": "it'll be a great opportunity for me. It'll be a blessing. I played with USA's FIBA team.",
+      "quote": "It'll be a great opportunity for me. It'll be a blessing. I played with USA's FIBA team when I was in high school, so I have a little bit of experience with USA, but it'll definitely be a blessing. It'll be even more fun if we got the chance to match up against them.",
+      "text_blocks": [],
+      "start_seconds": 305,
+      "end_seconds": 326,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Stephon Castle on the potential to play for USA Basketball: It would be a great opportunity for me. It would be a blessing. It would be even more fun if we got the chance to match up against them.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle discusses the potential opportunity to play for USA Basketball.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Stephon Castle",
+      "timestamp": "05:46",
+      "summary_phrase": "Stephon Castle on Victor Wembanyama's impact on the game",
+      "names_mentioned": [
+        "Vic"
+      ],
+      "excerpt": "I think Vic alone can change the trajectory of pretty much any basketball game.",
+      "quote": "I think Vic alone can change the trajectory of pretty much any basketball game. So just watching the talent, especially from there, just grow and grow in our league is definitely something.",
+      "text_blocks": [],
+      "start_seconds": 346,
+      "end_seconds": 358,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Stephon Castle on Victor Wembanyama: I think Vic alone can change the trajectory of pretty much any basketball game. Just watching the talent grow in our league is definitely something.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Stephon Castle comments on the impact Victor Wembanyama has on basketball games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "xub0EJw5huE",
+  "url": "https://www.youtube.com/watch?v=xub0EJw5huE",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-27T21:57:39Z",
+  "duration_seconds": 368,
+  "processed_at": "2026-11-27T22:41:10Z",
+  "run_id": "2026-11-27T2240Z-14utc",
+  "is_one_off": false
+}

@@ -4,7 +4,17 @@
 
 # Best of the best
 
-**1. Miles Bridges — "It's a player-led shootaround, which you don't normally have." — Miles Bridges on the Suns' player-led approach to coaching** [02:02](https://www.youtube.com/watch?v=YHSNoecRCJY&t=122s)
+**1. Stephon Castle — "it was one of our goals as beginning of the season was to get back to the cup." — Stephon Castle on the team's goal to return to the play-in tournament** [04:08](https://www.youtube.com/watch?v=xub0EJw5huE&t=248s)
+
+Stephon Castle: "Especially knowing what the standings are like now, this is a very big game for us. It was one of our goals as beginning of the season was to get back to the cup. So I feel like if we handle business tonight, we'll be one step closer towards that."
+
+[https://www.youtube.com/watch?v=xub0EJw5huE&t=248s](https://www.youtube.com/watch?v=xub0EJw5huE&t=248s)
+
+From: [Stephon Castle on Staying Connected on Defense Against the Lakers](https://www.youtube.com/watch?v=xub0EJw5huE) · *San Antonio Spurs*
+
+<small>[Clip it](presserclips://clip?v=xub0EJw5huE&t=248&q=6) · [Send to Slack](presserclips://clip?v=xub0EJw5huE&t=248&q=6&slack=1)</small>
+
+**2. Miles Bridges — "It's a player-led shootaround, which you don't normally have." — Miles Bridges on the Suns' player-led approach to coaching** [02:02](https://www.youtube.com/watch?v=YHSNoecRCJY&t=122s)
 
 Miles Bridges: "Just how engaged we are. If we as players say that we think this should work instead of what the coaches have planned, the coaches will go along with it. So it's a player-led shootaround, which you don't normally have. They let us get our input in and they respected it as well."
 
@@ -14,21 +24,13 @@ From: [Miles Bridges Shootaround Media Availability \| 11-27-26](https://www.you
 
 <small>[Clip it](presserclips://clip?v=YHSNoecRCJY&t=122&q=5) · [Send to Slack](presserclips://clip?v=YHSNoecRCJY&t=122&q=5&slack=1)</small>
 
-**2. Neemias Queta — "Sometimes I don't think I'm aggressive enough, so it's a balance that you got to be able to have." — Neemias Queta on balancing aggression and team play** [01:07](https://www.youtube.com/watch?v=HQ-BSCHeiuM&t=67s)
+**3. Neemias Queta — "Sometimes I don't think I'm aggressive enough, so it's a balance that you got to be able to have." — Neemias Queta on balancing aggression and team play** [01:07](https://www.youtube.com/watch?v=HQ-BSCHeiuM&t=67s)
 
 Neemias Queta: "Obviously I trust my offense a lot, but sometimes I don't think I'm aggressive enough, so it's a balance that you got to be able to have. I think I'm able to toe the line without overdoing it, so I like where I'm at."
 
 [https://www.youtube.com/watch?v=HQ-BSCHeiuM&t=67s](https://www.youtube.com/watch?v=HQ-BSCHeiuM&t=67s)
 
 From: [Neemias Queta: "Sometimes I Don't Think I'm Aggressive Enough" \| Celtics Pregame](https://www.youtube.com/watch?v=HQ-BSCHeiuM) · *Boston Celtics*
-
-**3. Hugo Gonzalez — "You have to lose to learn how much you want to win." — Hugo Gonzalez on the team's response to a four-game losing streak** [02:46](https://www.youtube.com/watch?v=KQNHb_2IUtM&t=166s)
-
-Hugo Gonzalez: "Anybody wants to lose, and especially here you don't want to lose, especially four in a row. It was tough, but you have to lose. Like I said before, you have to lose to learn how much you want to win. Now we know that we want to win a lot more than what we thought. Maybe at the beginning of the season we were 11-2, we got a little reality shock of, shit, we have to earn every single win every single night. I think that's just going to help us for playing to win even more than we did in the first four games."
-
-[https://www.youtube.com/watch?v=KQNHb_2IUtM&t=166s](https://www.youtube.com/watch?v=KQNHb_2IUtM&t=166s)
-
-From: [Hugo Gonzalez NOT Focused on Individual Goals \| Celtics vs Hawks Pregame](https://www.youtube.com/watch?v=KQNHb_2IUtM) · *Boston Celtics*
 
 ---
 
@@ -171,3 +173,83 @@ Miles Bridges: "Just more catching goes. When the ball gets swung to me, just go
 [https://www.youtube.com/watch?v=YHSNoecRCJY&t=217s](https://www.youtube.com/watch?v=YHSNoecRCJY&t=217s)
 
 <small>[Clip it](presserclips://clip?v=YHSNoecRCJY&t=217&q=8) · [Send to Slack](presserclips://clip?v=YHSNoecRCJY&t=217&q=8&slack=1)</small>
+
+---
+
+## Stephon Castle on Staying Connected on Defense Against the Lakers — *San Antonio Spurs*
+
+Source: [https://www.youtube.com/watch?v=xub0EJw5huE](https://www.youtube.com/watch?v=xub0EJw5huE)
+
+_Speakers identified: Stephon Castle_
+
+**1. Stephon Castle — "the biggest thing is discipline. He plays at his own pace, it's hard to speed him up." — Stephon Castle on the necessity of discipline when guarding Luka Doncic** [00:29](https://www.youtube.com/watch?v=xub0EJw5huE&t=29s)
+
+Stephon Castle: "The biggest thing is discipline. He plays at his own pace, it's hard to speed him up. So when he gets to certain spots on the floor, if you're not disciplined, that's where he really hurts you with drawing and-ones, picking off corners, just little stuff like that. But it's also not a one-on-one thing. We have to play great team defense, so when we've had success against him in the past, I think we've done that."
+
+[https://www.youtube.com/watch?v=xub0EJw5huE&t=29s](https://www.youtube.com/watch?v=xub0EJw5huE&t=29s)
+
+<small>[Clip it](presserclips://clip?v=xub0EJw5huE&t=29&q=1) · [Send to Slack](presserclips://clip?v=xub0EJw5huE&t=29&q=1&slack=1)</small>
+
+**2. Stephon Castle — "keeping the versatility in my game, not trying to hone into one skill, but trying to be elite." — Stephon Castle on his versatility alongside Luka Doncic and Jayson Tatum** [01:02](https://www.youtube.com/watch?v=xub0EJw5huE&t=62s)
+
+Stephon Castle: "I think the biggest thing is the last thing you said, just keeping the versatility in my game, not trying to hone into one skill, but trying to be elite at a lot of different ones. It's definitely a big deal to be in the same conversation as those two guys for sure."
+
+[https://www.youtube.com/watch?v=xub0EJw5huE&t=62s](https://www.youtube.com/watch?v=xub0EJw5huE&t=62s)
+
+<small>[Clip it](presserclips://clip?v=xub0EJw5huE&t=62&q=2) · [Send to Slack](presserclips://clip?v=xub0EJw5huE&t=62&q=2&slack=1)</small>
+
+**3. Stephon Castle — "just trying to produce good shots for us. Most times when you're the only guard on the floor." — Stephon Castle on his focus as a lead guard for the Spurs** [01:40](https://www.youtube.com/watch?v=xub0EJw5huE&t=100s)
+
+Stephon Castle: "Just trying to produce good shots for us. Most times when you're the only guard on the floor and you have to create the action sometimes or create the advantage sometimes, most times you don't get the assist out of it. But I think the process of it and the flow of our offense, when we're focused on the right things, I think it goes pretty well."
+
+[https://www.youtube.com/watch?v=xub0EJw5huE&t=100s](https://www.youtube.com/watch?v=xub0EJw5huE&t=100s)
+
+<small>[Clip it](presserclips://clip?v=xub0EJw5huE&t=100&q=3) · [Send to Slack](presserclips://clip?v=xub0EJw5huE&t=100&q=3&slack=1)</small>
+
+**4. Stephon Castle — "when your shooter is expecting the ball, you want to try and get it to them." — Stephon Castle on the timing required for a perfect pass to shooters** [02:20](https://www.youtube.com/watch?v=xub0EJw5huE&t=140s)
+
+Stephon Castle: "I think just on time, on target. The best way I can put it is when your shooter is expecting the ball, you want to try and get it to them at that time while they're ready to shoot. So I think a lot of it is the timing of it and where the ball is at, how long they were open for. Just all those little things kind of play into it and just getting our guys the right type of shot."
+
+[https://www.youtube.com/watch?v=xub0EJw5huE&t=140s](https://www.youtube.com/watch?v=xub0EJw5huE&t=140s)
+
+<small>[Clip it](presserclips://clip?v=xub0EJw5huE&t=140&q=4) · [Send to Slack](presserclips://clip?v=xub0EJw5huE&t=140&q=4&slack=1)</small>
+
+**5. Stephon Castle — "we don't want anybody on our team to sit out. He's been a big part of our team." — Stephon Castle on the importance of getting Devin Vassell back** [03:26](https://www.youtube.com/watch?v=xub0EJw5huE&t=206s)
+
+Stephon Castle: "We don't want anybody on our team to sit out. He's been a big part of our team since day one since he got here. So we would love to have him back tonight."
+
+[https://www.youtube.com/watch?v=xub0EJw5huE&t=206s](https://www.youtube.com/watch?v=xub0EJw5huE&t=206s)
+
+<small>[Clip it](presserclips://clip?v=xub0EJw5huE&t=206&q=5) · [Send to Slack](presserclips://clip?v=xub0EJw5huE&t=206&q=5&slack=1)</small>
+
+**6. Stephon Castle — "it was one of our goals as beginning of the season was to get back to the cup." — Stephon Castle on the team's goal to return to the play-in tournament** [04:08](https://www.youtube.com/watch?v=xub0EJw5huE&t=248s)
+
+Stephon Castle: "Especially knowing what the standings are like now, this is a very big game for us. It was one of our goals as beginning of the season was to get back to the cup. So I feel like if we handle business tonight, we'll be one step closer towards that."
+
+[https://www.youtube.com/watch?v=xub0EJw5huE&t=248s](https://www.youtube.com/watch?v=xub0EJw5huE&t=248s)
+
+<small>[Clip it](presserclips://clip?v=xub0EJw5huE&t=248&q=6) · [Send to Slack](presserclips://clip?v=xub0EJw5huE&t=248&q=6&slack=1)</small>
+
+**7. Stephon Castle — "he's just really mature. I'd say on and off the court he's really mature." — Stephon Castle on the maturity of Kobe Bufkin** [04:36](https://www.youtube.com/watch?v=xub0EJw5huE&t=276s)
+
+Stephon Castle: "He's just really mature. I'd say on and off the court he's really mature. I think he's a really smart basketball player. He flew into SAC, I think he got in at like 2:00 AM, played the next day, and it was like he was with us the whole time. So I think if you ask anybody else on our team, they'll speak pretty highly of **Kobe**."
+
+[https://www.youtube.com/watch?v=xub0EJw5huE&t=276s](https://www.youtube.com/watch?v=xub0EJw5huE&t=276s)
+
+<small>[Clip it](presserclips://clip?v=xub0EJw5huE&t=276&q=7) · [Send to Slack](presserclips://clip?v=xub0EJw5huE&t=276&q=7&slack=1)</small>
+
+**8. Stephon Castle — "it'll be a great opportunity for me. It'll be a blessing. I played with USA's FIBA team." — Stephon Castle on the potential opportunity to play for USA Basketball** [05:05](https://www.youtube.com/watch?v=xub0EJw5huE&t=305s)
+
+Stephon Castle: "It'll be a great opportunity for me. It'll be a blessing. I played with USA's FIBA team when I was in high school, so I have a little bit of experience with USA, but it'll definitely be a blessing. It'll be even more fun if we got the chance to match up against them."
+
+[https://www.youtube.com/watch?v=xub0EJw5huE&t=305s](https://www.youtube.com/watch?v=xub0EJw5huE&t=305s)
+
+<small>[Clip it](presserclips://clip?v=xub0EJw5huE&t=305&q=8) · [Send to Slack](presserclips://clip?v=xub0EJw5huE&t=305&q=8&slack=1)</small>
+
+**9. Stephon Castle — "I think Vic alone can change the trajectory of pretty much any basketball game." — Stephon Castle on Victor Wembanyama's impact on the game** [05:46](https://www.youtube.com/watch?v=xub0EJw5huE&t=346s)
+
+Stephon Castle: "I think **Vic** alone can change the trajectory of pretty much any basketball game. So just watching the talent, especially from there, just grow and grow in our league is definitely something."
+
+[https://www.youtube.com/watch?v=xub0EJw5huE&t=346s](https://www.youtube.com/watch?v=xub0EJw5huE&t=346s)
+
+<small>[Clip it](presserclips://clip?v=xub0EJw5huE&t=346&q=9) · [Send to Slack](presserclips://clip?v=xub0EJw5huE&t=346&q=9&slack=1)</small>
