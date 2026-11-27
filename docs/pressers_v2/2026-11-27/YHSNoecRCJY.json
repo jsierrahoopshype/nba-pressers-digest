@@ -1,0 +1,265 @@
+{
+  "video_title": "Miles Bridges Shootaround Media Availability | 11-27-26",
+  "speakers_seen": [
+    "Miles Bridges"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Miles Bridges",
+      "timestamp": "00:09",
+      "summary_phrase": "Miles Bridges on the Suns' recent road trip performance",
+      "names_mentioned": [],
+      "excerpt": "We handled business, tough on the last one, but five-point game, we weren't even supposed to be in the game.",
+      "quote": "It was good. We handled business, tough on the last one, but five-point game, we weren't even supposed to be in the game. We had a chance, just had a defensive miscue. Plus, I had hurt my ankle so I couldn't move like I wanted to, but we move on. Today is an important game and we want to get back to streaking.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 33,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Miles Bridges says he is good to go after tweaking his ankle during the last game against the Rockets.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges discusses the Suns' recent road trip performance and his own physical condition.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Miles Bridges",
+      "timestamp": "00:39",
+      "summary_phrase": "Miles Bridges explains his ankle injury during the second quarter",
+      "names_mentioned": [
+        "Sengun"
+      ],
+      "excerpt": "It was the second quarter when Sengun tried to post up on me and I pushed him.",
+      "quote": "It was the second quarter when Sengun tried to post up on me and I pushed him. He kind of flopped and I fell over him. That's when I kind of tweaked it. I just couldn't move the same the whole game, but I'm good now.",
+      "text_blocks": [],
+      "start_seconds": 39,
+      "end_seconds": 57,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Miles Bridges explains the sequence where he tweaked his ankle: I pushed Sengun, he kind of flopped, and I fell over him.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Alperen Sengun"
+        ],
+        "teams": [
+          "PHX",
+          "HOU"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Miles Bridges explains how he injured his ankle during a game against Alperen Sengun.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Miles Bridges",
+      "timestamp": "01:06",
+      "summary_phrase": "Miles Bridges on the need for physical play against Dallas",
+      "names_mentioned": [
+        "Mavericks"
+      ],
+      "excerpt": "You got to hit first. You got to be the more physical team.",
+      "quote": "You got to hit first. You got to be the more physical team. We are playing another physical team today in the Mavericks. They got a lot of bigs, a lot of big wings that are crashing. So we just got to bring the physicality to them first, hit first, and then we will be good.",
+      "text_blocks": [],
+      "start_seconds": 66,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Miles Bridges on tonight's matchup against the Mavericks: You have to hit first and be the more physical team.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Miles Bridges discusses the need for the Suns to play physically against the Mavericks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Miles Bridges",
+      "timestamp": "01:27",
+      "summary_phrase": "Miles Bridges on the team's resilience during the road trip",
+      "names_mentioned": [],
+      "excerpt": "It just showed our resiliency to come up with those games.",
+      "quote": "There's a couple times the teams came back. Like Utah, they came back, got the crowd into it. New Orleans was a back-and-forth game, their crowd was into it. It just showed our resiliency to come up with those games. And good teams, they beat teams that they're supposed to beat. So I think that's what we did. I wish we had that last game, but I'm still happy with the road trip.",
+      "text_blocks": [],
+      "start_seconds": 87,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Miles Bridges reflects on the recent road trip: Good teams beat the teams they are supposed to beat.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "UTA",
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Miles Bridges reflects on the team's resilience during their recent road trip against Utah and New Orleans.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Miles Bridges",
+      "timestamp": "02:02",
+      "summary_phrase": "Miles Bridges on the Suns' player-led approach to coaching",
+      "names_mentioned": [],
+      "excerpt": "It's a player-led shootaround, which you don't normally have.",
+      "quote": "Just how engaged we are. If we as players say that we think this should work instead of what the coaches have planned, the coaches will go along with it. So it's a player-led shootaround, which you don't normally have. They let us get our input in and they respected it as well.",
+      "text_blocks": [],
+      "start_seconds": 122,
+      "end_seconds": 142,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Miles Bridges says the Suns are running a player led shootaround where coaches listen to player input: It is something you do not normally have.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Miles Bridges describes the player-led nature of the team's shootaround and the coaching staff's receptiveness to player input.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Miles Bridges",
+      "timestamp": "02:35",
+      "summary_phrase": "Miles Bridges on focusing on rebounding and defense",
+      "names_mentioned": [],
+      "excerpt": "Playing hard is a skill too. So that's all they want from me really.",
+      "quote": "Because the stuff they ask me to do, I'm really good at. Like rebounding, guarding the best player, and just playing hard. Playing hard is a skill too. So that's all they want from me really. We have enough scorers. I can score the ball when I want to, I still have that freedom, but the main thing I want to focus on is rebounding and defense.",
+      "text_blocks": [],
+      "start_seconds": 155,
+      "end_seconds": 181,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Miles Bridges on his role with the Suns: Playing hard is a skill too. I am focusing on rebounding and defense.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges discusses his focus on rebounding and defense within the team's system.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Miles Bridges",
+      "timestamp": "03:05",
+      "summary_phrase": "Miles Bridges on Jalen Johnson's growth and playmaking",
+      "names_mentioned": [
+        "Jalen"
+      ],
+      "excerpt": "Just his patience and his playmaking. He was sped up to start the season.",
+      "quote": "Just his patience and his playmaking. He was sped up to start the season, but I feel like as the season is going on, he's watched a lot of film. He's slowed down, making the right decisions, knowing when to attack, knowing when to pass, and his defense has gotten way better from last year.",
+      "text_blocks": [],
+      "start_seconds": 185,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Miles Bridges praises Jalen Johnson for his growth this season: He was sped up to start the year, but he has slowed down and is making the right decisions.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Miles Bridges evaluates the growth and improved decision-making of his teammate Jalen Johnson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Miles Bridges",
+      "timestamp": "03:37",
+      "summary_phrase": "Miles Bridges on his role in the offense",
+      "names_mentioned": [],
+      "excerpt": "Just more catching goes. When the ball gets swung to me, just going through the catch.",
+      "quote": "Just more catching goes. When the ball gets swung to me, just going through the catch, trying to get there because if I get down there, I'm either going to score or I'm going to make the right play. So that's why they want more out of me. And then just crashing on the offensive end, tagging, getting offensive rebounds, that's a pain touch too.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 242,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Miles Bridges on his offensive role: When the ball gets swung to me, I am just trying to get to the rim to score or make the right play.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Miles Bridges explains his specific role in the offense and his responsibilities on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "YHSNoecRCJY",
+  "url": "https://www.youtube.com/watch?v=YHSNoecRCJY",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-27T18:36:24Z",
+  "duration_seconds": 258,
+  "processed_at": "2026-11-27T19:31:15Z",
+  "run_id": "2026-11-27-overnight",
+  "is_one_off": false
+}
