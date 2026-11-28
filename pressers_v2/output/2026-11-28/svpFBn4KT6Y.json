@@ -1,0 +1,137 @@
+{
+  "video_title": "“It Took Us Too Long To Get Into The Game.” | Rudy Gobert Postgame Sound | 11.27.26",
+  "speakers_seen": [
+    "Rudy Gobert"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rudy Gobert",
+      "timestamp": "00:06",
+      "summary_phrase": "Rudy Gobert on the Timberwolves' slow start and lack of readiness",
+      "names_mentioned": [],
+      "excerpt": "I think that gave them a lot of confidence when you miss and you get the ball back",
+      "quote": "I think just our readiness. I thought we were better in the second half. Just got to be ready from the tip. I think that gave them a lot of confidence when you miss and you get the ball back and get extra shots, then you feel like it takes away some of the pressure and they start feeling good. They started making shots. One guy got 19 points in the first half, so give those guys confidence, they are going to take it.",
+      "text_blocks": [],
+      "start_seconds": 6,
+      "end_seconds": 38,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Rudy Gobert says the Timberwolves lacked readiness from the tip tonight. He noted that giving the opponent early confidence by allowing extra shots and momentum was the difference in the game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert discusses the Timberwolves slow start and lack of readiness in the first half of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rudy Gobert",
+      "timestamp": "00:52",
+      "summary_phrase": "Rudy Gobert on the impact of Jimmy Butler's absence on team offense",
+      "names_mentioned": [
+        "Jimmy Butler"
+      ],
+      "excerpt": "He makes the game easy for everyone. He sees the floor and he's able to create.",
+      "quote": "He makes the game easy for everyone. He sees the floor and he's able to create. So when he's not out there, we have to work harder. I felt like the ball was sticky tonight and we got to create some movement. We got to find ways to, whether it's playing through the bigs more, whether it's just swinging the ball, having a little more flow. Every time we've done that tonight, we got some easy shots at the rim or we drew fouls or we got threes.",
+      "text_blocks": [],
+      "start_seconds": 52,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Rudy Gobert on the offense without Jimmy Butler. He says the ball was sticky tonight and the team needs to find more movement and flow to generate easier looks at the rim.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jimmy Butler"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert explains how the absence of Jimmy Butler affected the team's offensive flow and ball movement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rudy Gobert",
+      "timestamp": "01:54",
+      "summary_phrase": "Rudy Gobert on the team's need for better spacing and awareness",
+      "names_mentioned": [],
+      "excerpt": "It requires a little more awareness from everyone and our spacing got to be right.",
+      "quote": "I think just being connected. For some guys it's more natural. A lot of guys are more naturally scorers, right? So it requires a little more awareness from everyone and our spacing got to be right and then just trust our actions. We work on it every day, so just trusting that will make everybody's life easier. And I think obviously getting rebounds helps, you can run in transition and this group should be dominating in transition.",
+      "text_blocks": [],
+      "start_seconds": 114,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Rudy Gobert emphasizes the need for better spacing and team connection. He believes this group should be dominating in transition if they can improve their awareness and trust their actions.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert talks about the need for better team spacing and trust in their offensive actions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Rudy Gobert",
+      "timestamp": "02:43",
+      "summary_phrase": "Rudy Gobert on his focus on improving free throw shooting",
+      "names_mentioned": [],
+      "excerpt": "We put the work for myself. Obviously it's going to get higher than what it is now.",
+      "quote": "We put the work for myself. Obviously it's going to get higher than what it is now. It's hard how to get lower. But yeah, putting the work. I shot a lot of free throws yesterday. Shooting 92% on 200 shots, so just got to keep putting the work and it's going to be good at the right time.",
+      "text_blocks": [],
+      "start_seconds": 163,
+      "end_seconds": 186,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Rudy Gobert on his free throw shooting struggles. He says he is putting in the work and shooting 92 percent on 200 shots in practice, adding that it is hard for his percentage to get any lower than it is right now.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Rudy Gobert addresses his personal focus on improving his free throw shooting percentage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "svpFBn4KT6Y",
+  "url": "https://www.youtube.com/watch?v=svpFBn4KT6Y",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-28T06:07:04Z",
+  "duration_seconds": 198,
+  "processed_at": "2026-11-28T06:59:19Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

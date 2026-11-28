@@ -1,7 +1,6 @@
 {
   "video_title": "LIVE: Pelicans vs. Clippers Postgame Interviews 11/27/2026",
   "speakers_seen": [
-    "Unidentified speaker",
     "Jamahl Mosley"
   ],
   "quotes": [
@@ -53,6 +52,10 @@
         "context": "Head coach Jamahl Mosley discusses the team's performance in a close win against the Cavaliers following a practice session focused on late-game execution.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "aPQCLY8AYto",
+        "rank": 1
       }
     },
     {
@@ -98,6 +101,10 @@
         "context": "Jamahl Mosley praises his team's resilience and defensive effort in limiting the Clippers' paint scoring during a comeback victory.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "aPQCLY8AYto",
+        "rank": 2
       }
     },
     {
@@ -146,6 +153,10 @@
         "context": "Jamahl Mosley evaluates the offensive contributions of Zion Williamson and Trey Murphy after both players scored 25 points in the win.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "aPQCLY8AYto",
+        "rank": 3
       }
     },
     {
@@ -186,6 +197,10 @@
         "context": "Jamahl Mosley explains the importance of applying lessons learned from previous close games to current late-game execution.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "aPQCLY8AYto",
+        "rank": 4
       }
     },
     {
@@ -228,6 +243,10 @@
         "context": "Jamahl Mosley discusses carrying momentum from a road win over the Clippers into an upcoming game against the Trail Blazers.",
         "best": false,
         "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "aPQCLY8AYto",
+        "rank": 5
       }
     }
   ],

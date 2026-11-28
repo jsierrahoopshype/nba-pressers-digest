@@ -1,0 +1,111 @@
+{
+  "video_title": "Jusuf Nurkic talks about coming back, recovery, trusting more down the stretch vs. Denver",
+  "speakers_seen": [
+    "Jusuf Nurkic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jusuf Nurkic",
+      "timestamp": "00:18",
+      "summary_phrase": "Jusuf Nurkic on the mental and physical grind of injury recovery",
+      "names_mentioned": [],
+      "excerpt": "You can compete against yourself, but it's not about recovery for me, it's about winning the game.",
+      "quote": "Like you said, it's long and everyday battle. You can compete against yourself, but it's not about recovery for me, it's about winning the game. I thought we played pretty good play the whole game and then we did some focused thing I think we have to be better. We just can't play certain minutes good basketball and then just throw away. And that's something that happened before for us this season and we have to clean up. I think that's our main focus should be right now.",
+      "text_blocks": [],
+      "start_seconds": 18,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jusuf Nurkic on the team struggles late in games: We cannot play good basketball for certain minutes and then just throw it away. That is something that has happened before for us this season and we have to clean it up.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX",
+          "DEN"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Jusuf Nurkic discusses the challenges of his injury recovery and the team's need to maintain focus throughout the entire game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jusuf Nurkic",
+      "timestamp": "01:10",
+      "summary_phrase": "Jusuf Nurkic on the need for team trust during late-game situations",
+      "names_mentioned": [],
+      "excerpt": "I think we have to trust more down the stretch. Like what takes us to the game.",
+      "quote": "Obviously we not healthy as a group and no make excuse. We not doing that. We trying to man up and play basketball, but I think we have to trust more down the stretch. Like what takes us to the game or long period of time, we have to keep doing. We can't get bored. Keep doing what we doing and trusting what coach and game plan that is. And I think when we doing that, we put ourselves in position to win the game and we just got to trust it.",
+      "text_blocks": [],
+      "start_seconds": 70,
+      "end_seconds": 105,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jusuf Nurkic says the team needs to trust the game plan more down the stretch: We cannot get bored. Keep doing what we are doing and trusting what the coach and game plan is.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "injuries",
+          "coaching decisions"
+        ],
+        "context": "Jusuf Nurkic explains the importance of trusting the coaching staff and the game plan during late-game situations despite the team's health issues.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jusuf Nurkic",
+      "timestamp": "02:25",
+      "summary_phrase": "Jusuf Nurkic on the team's defensive progress and need for focus",
+      "names_mentioned": [],
+      "excerpt": "I think defense is side for us was pretty much whole season good, just improvement from last year.",
+      "quote": "I think we were solid. I think defense is side for us was pretty much whole season good, just improvement from last year. We want to be better. We not satisfied with that. But I think right now for us as a group, got to be just more focus and that would be my message and that was my message. And I think we got to build on that, keep trusting what we doing and no fade away of the pressure.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 176,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jusuf Nurkic on the team defensive identity: We are not satisfied with being solid. Right now for us as a group we have to be more focused and we have to build on that.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jusuf Nurkic reflects on the team's defensive progress this season and emphasizes the need for continued focus under pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "vovduguoI0Q",
+  "url": "https://www.youtube.com/watch?v=vovduguoI0Q",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-28T06:52:47Z",
+  "duration_seconds": 183,
+  "processed_at": "2026-11-28T06:58:26Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

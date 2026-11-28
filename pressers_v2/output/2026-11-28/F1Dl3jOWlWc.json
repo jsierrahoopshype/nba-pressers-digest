@@ -1,0 +1,160 @@
+{
+  "video_title": "Naji Marshall Postgame Interview | Mavericks at Suns | Nov. 27, 2026",
+  "speakers_seen": [
+    "Naji Marshall"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Naji Marshall",
+      "timestamp": "00:08",
+      "summary_phrase": "Naji Marshall on Dallas Mavericks' team resilience and culture",
+      "names_mentioned": [],
+      "excerpt": "We just stuck together, stuck to the game plan and, like I said, went on a run.",
+      "quote": "Just sticking together. We went on a run of our own. It felt like it was going on runs the whole game and it was only a matter of time before we went on our own. Most of the part, we just stuck together, stuck to the team principles. A lot of the time when games get like that, people start to just do their own thing and we just stuck together, stuck to the game plan and, like I said, went on a run and came back.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Naji Marshall on the Mavericks staying composed during back and forth runs against the Suns: We just stuck together and stuck to the team principles.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Naji Marshall discusses the team's ability to maintain composure and execute the game plan during a back-and-forth game against the Suns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Naji Marshall",
+      "speakers": [
+        "Unidentified reporter",
+        "Naji Marshall"
+      ],
+      "timestamp": "00:30",
+      "summary_phrase": "Naji Marshall on playing without Kyrie Irving and Luka Doncic",
+      "names_mentioned": [
+        "Kyrie Irving",
+        "Luka Doncic"
+      ],
+      "excerpt": "We're building a culture over here and the standard is the standard.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Dusty May said before the game that you guys needed to show the inability to play without Kyrie or Luka on court. What do you think you guys showed tonight?"
+        },
+        {
+          "speaker": "Naji Marshall",
+          "text": "Just that we're just a good team, no matter who's playing. We're building a culture over here and the standard is the standard. Shout out to Dusty May for just trusting us and shout out to Kai for trusting us. Rest him up, you know he's an old head now, so just to be able to get him back next game fresh after the two-day, well really three or four-day days off is a beautiful thing to see and we just look forward to winning the next game."
+        }
+      ],
+      "start_seconds": 30,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 7,
+      "social_post": "Naji Marshall on playing without Luka and Kyrie: We are building a culture here and the standard is the standard. Shout out to Kai for trusting us. Rest him up, you know he is an old head now.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Kyrie Irving",
+          "Luka Doncic",
+          "Dusty May"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Naji Marshall reacts to playing without Kyrie Irving and Luka Doncic while praising the team culture and trust from head coach Dusty May.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Naji Marshall",
+      "timestamp": "01:20",
+      "summary_phrase": "Naji Marshall on Max Christie's impact in clutch time",
+      "names_mentioned": [
+        "Max Christie"
+      ],
+      "excerpt": "Max just chooses to stay locked in every day, continues to work upon his game.",
+      "quote": "Stay locked in. You know, life, period, is just up and down and Max just chooses to stay locked in every day, continues to work upon his game and show up for his teammates, no matter he playing, not playing, the game's going good for him or not. And they just as a testimony just to stay down, continue to work.",
+      "text_blocks": [],
+      "start_seconds": 80,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Naji Marshall on Max Christie: Life is just up and down and Max just chooses to stay locked in every day, continues to work upon his game and show up for his teammates.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Max Christie"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Naji Marshall praises Max Christie for his work ethic and ability to remain focused regardless of his playing status.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Naji Marshall",
+      "timestamp": "01:43",
+      "summary_phrase": "Naji Marshall on the Mavericks' recent road trip success",
+      "names_mentioned": [],
+      "excerpt": "I think it's just a testimony to the culture we're building.",
+      "quote": "I think it's just a testimony to the culture we're building. Guys are locked in. That three-game losing streak didn't sit too well with us and we know we're better than that and we just came on this road trip and a couple other games to prove it.",
+      "text_blocks": [],
+      "start_seconds": 103,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Naji Marshall says the Mavericks three game losing streak did not sit well with the team and they used this road trip to prove they are better than that.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Naji Marshall reflects on the team's recent road trip success as a sign of the culture being built following a three-game losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "F1Dl3jOWlWc",
+  "url": "https://www.youtube.com/watch?v=F1Dl3jOWlWc",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-28T06:08:08Z",
+  "duration_seconds": 132,
+  "processed_at": "2026-11-28T06:59:18Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

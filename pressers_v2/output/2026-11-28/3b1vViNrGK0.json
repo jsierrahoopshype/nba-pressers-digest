@@ -1,0 +1,165 @@
+{
+  "video_title": "“Tonight Was Not Our Brand Of Basketball.” | Jonathan Kuminga Postgame Sound | 11.27.26",
+  "speakers_seen": [
+    "Jonathan Kuminga"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "00:09",
+      "summary_phrase": "Jonathan Kuminga on the impact of Damian Lillard's absence",
+      "names_mentioned": [
+        "Damian Lillard"
+      ],
+      "excerpt": "I just think somebody could kind of calm the game. It's very high intensity and minds moving fast.",
+      "quote": "I just think somebody could kind of calm the game. It's very high intensity and minds moving fast, and I think we just need somebody that could just kind of fit that position, that's going to calm the ball down and distribute and put everybody in the right place.",
+      "text_blocks": [],
+      "start_seconds": 9,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jonathan Kuminga says the team is missing a calming presence on the floor to help distribute the ball and put players in the right positions during high intensity moments.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Damian Lillard"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga discusses the impact of Damian Lillard's absence on the team's ability to control the game pace.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "01:12",
+      "summary_phrase": "Jonathan Kuminga on the team's poor offensive rebounding performance",
+      "names_mentioned": [],
+      "excerpt": "We got tortured. And it's not like they were playing harder than us, we just wasn't going for it.",
+      "quote": "We got tortured. And it's not like they were playing harder than us, we just wasn't going for it, including me. Mostly, I got to be the one guy that does all the type of jobs. I'm not going to be the best out of there, but I feel like I got to be the motivation to the rest of the guys. I got to find it. I got to be there for everybody.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Jonathan Kuminga on the team getting dominated on the glass: We got tortured. It is not like they were playing harder than us, we just were not going for it.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga reflects on the team's poor performance in offensive rebounding during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "02:21",
+      "summary_phrase": "Jonathan Kuminga on taking responsibility for team leadership",
+      "names_mentioned": [],
+      "excerpt": "I don't have to wait. I got to be the guy that get us going.",
+      "quote": "I don't have to wait. I got to be the guy that get us going, not just by scoring, not just by talking. I ain't going to say I'm the leader, but I got to be the voice. And being the voice, I got to do it by showing example. I got to do those stuff and the rest of the guys will follow up.",
+      "text_blocks": [],
+      "start_seconds": 141,
+      "end_seconds": 166,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jonathan Kuminga is stepping up as a leader for his team: I do not have to wait. I have to be the guy that gets us going, not just by scoring, not just by talking.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga speaks about his personal responsibility to provide leadership and set an example for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "03:15",
+      "summary_phrase": "Jonathan Kuminga on the team's need for simpler offensive execution",
+      "names_mentioned": [],
+      "excerpt": "We all just driving in there with our heads down. Heads down, heads down.",
+      "quote": "I don't think they did anything better. I think it's just all of us, including me. We all just driving in there with our heads down. Heads down, heads down. We get all just see and blame each other, this that and that, but it started with me and the rest of the guys follow up. We all just driving in there. You know, moments like this, we all want to do the impossible that will help us win, but it shouldn't be that way. So, I think we all got to play with our eyes open.",
+      "text_blocks": [],
+      "start_seconds": 195,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga on the team offensive struggles: We all just driving in there with our heads down. We all want to do the impossible that will help us win, but it should not be that way.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga explains the team's struggles with poor decision-making and tunnel vision during offensive possessions.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jonathan Kuminga",
+      "timestamp": "05:05",
+      "summary_phrase": "Jonathan Kuminga on reducing turnovers through simpler play",
+      "names_mentioned": [],
+      "excerpt": "Most of our turnovers is coming from inside to outside because we're trying to drive first.",
+      "quote": "I think we're going to watch film. I think we're going to see all those turnovers, because most of our turnovers is coming from inside to outside because we're trying to drive first and then figure out where the next man is. So, I think we just got to be as simple as we can, because we already doing what we got to do on defense. I think the more simple we are on offense, I think the better this team going to be.",
+      "text_blocks": [],
+      "start_seconds": 305,
+      "end_seconds": 337,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jonathan Kuminga believes the team needs to simplify their offense to cut down on turnovers: We are trying to drive first and then figure out where the next man is. We just have to be as simple as we can.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Jonathan Kuminga suggests that the team needs to simplify their offensive execution to reduce turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "3b1vViNrGK0",
+  "url": "https://www.youtube.com/watch?v=3b1vViNrGK0",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-28T06:12:49Z",
+  "duration_seconds": 339,
+  "processed_at": "2026-11-28T06:59:07Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

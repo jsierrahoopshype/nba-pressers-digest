@@ -1,0 +1,294 @@
+{
+  "video_title": "Carter Bryant on His Impressive Performance On Defense and Offense Against the Lakers",
+  "speakers_seen": [
+    "Carter Bryant",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Carter Bryant",
+      "timestamp": "00:13",
+      "summary_phrase": "Carter Bryant on his teammates' advice to embrace his identity",
+      "names_mentioned": [
+        "Julian",
+        "KJ",
+        "Dev"
+      ],
+      "excerpt": "They were just telling me to embrace being me, who am I, figure that out.",
+      "quote": "I had a few conversations with Julian, KJ, and Dev, and they were just telling me to embrace being me, who am I, figure that out, and just do that to the best of my abilities, rebounding, affecting the game defensively, being active, and I feel like I did that and I did it with a positive attitude tonight.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 36,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Carter Bryant says teammates Julian, KJ, and Dev encouraged him to embrace his identity on the court, focusing on rebounding and defensive activity to help the team.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Julian Champagnie",
+          "Keldon Johnson",
+          "Devin Vassell"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Carter Bryant discusses advice he received from his teammates regarding his role and identity on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Carter Bryant",
+      "timestamp": "00:43",
+      "summary_phrase": "Carter Bryant on reading 'The Inner Game of Tennis' for mental focus",
+      "names_mentioned": [
+        "Brian Wright",
+        "Josh Giddens",
+        "Kelton"
+      ],
+      "excerpt": "Brian Wright told me to go back and read a book that I got in high school.",
+      "quote": "It's funny, Brian Wright told me to go back and read a book that I got in high school from one of my coaches, Josh Giddens at Corona Centennial, The Inner Game of Tennis. He told me to go read the first and the second chapter again, so I was listening to the audiobook today, because I've read it too many times. It was just talking about self-one and self-two, just not allowing yourself to speak negative things because you start believing those things. Kelton happened to tell me the same exact thing before the game, and just speaking positive life into myself and trusting my teammates and trusting my journey.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 5,
+      "social_post": "Carter Bryant credits Brian Wright for recommending The Inner Game of Tennis to help his mental focus, noting he uses the book to avoid negative self-talk.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Brian Wright",
+          "Josh Giddens",
+          "Kelton"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Carter Bryant explains how Brian Wright and others encouraged him to read a specific book to improve his mental focus.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Carter Bryant",
+      "timestamp": "01:56",
+      "summary_phrase": "Carter Bryant on the trust shown by his coaches and teammates",
+      "names_mentioned": [
+        "Mitch"
+      ],
+      "excerpt": "Not too many people that aren't the star of the show can shine.",
+      "quote": "I'm super grateful to hear that, you know. Not too many people that aren't the star of the show can shine when they don't have a big stat line and can't really change the game. So for myself to be in that conversation and Mitch to have enough trust and the rest of the coaching staff to believe in me enough to do that, I'm super grateful, but just like he said, understanding what it means and just going by day by day and just affecting it when I do get the opportunity to.",
+      "text_blocks": [],
+      "start_seconds": 116,
+      "end_seconds": 152,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Carter Bryant expresses gratitude for the trust shown by the Spurs coaching staff, emphasizing the importance of staying ready to contribute even without a big stat line.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mitch Johnson"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Carter Bryant expresses gratitude for the trust shown by his coaching staff despite limited playing time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Carter Bryant",
+      "timestamp": "02:44",
+      "summary_phrase": "Carter Bryant on maintaining stillness and positive mindset during games",
+      "names_mentioned": [],
+      "excerpt": "There's a lot of words you could say, breathe, have fun.",
+      "quote": "There's a lot of words you could say, breathe, have fun. They talk about stillness in the book, just allowing yourself to be where your feet are, not allowing the good, the bad, whatever you do in the game, just the outcome of something to affect what you're doing. Just kind of stay in the moment and acknowledge what you did wrong or acknowledge what you're doing currently and just keep doing that. The biggest thing was just have fun. I wasn't having fun because I was so much in my head and worrying about what everybody else thought instead of playing my game and playing for my teammates.",
+      "text_blocks": [],
+      "start_seconds": 164,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Carter Bryant admits he struggled early on by being in his own head, but says he is now focused on having fun and staying in the moment.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Carter Bryant reflects on learning to maintain a positive mindset and stay in the moment during games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Carter Bryant",
+      "timestamp": "03:38",
+      "summary_phrase": "Carter Bryant on the confidence gained from his performance",
+      "names_mentioned": [
+        "Luka",
+        "Austin Reaves"
+      ],
+      "excerpt": "It just gives me the most confidence in the world to be a really elite defender.",
+      "quote": "It just gives me the most confidence in the world to be a really elite defender and impact the game in the way that I know I can impact the game, not doing too much, not getting out of my character, you know, just going out and impacting the game defensively, being active, rebounding the basketball, just giving really good players a hard time at scoring the basketball. Like, Luka is going to score the basketball, he's one of the greatest we've ever seen at scoring the basketball, and he's going to, no matter how many shots, no matter how he gets it, he's very skilled and a very good player. So understanding that and Austin Reaves as well, he's a good player, and understanding they're going to score, it's just the way they go about it. Am I making the shots tough on them?",
+      "text_blocks": [],
+      "start_seconds": 218,
+      "end_seconds": 274,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Carter Bryant on defending stars like Luka Doncic: You have to accept they will score, so the focus is on making every shot as tough as possible.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic",
+          "Austin Reaves"
+        ],
+        "teams": [
+          "SAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Carter Bryant discusses his defensive approach and confidence when guarding high-level players like Luka Doncic and Austin Reaves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Carter Bryant",
+      "timestamp": "04:37",
+      "summary_phrase": "Carter Bryant on the support system within the Spurs organization",
+      "names_mentioned": [
+        "Mike Noisy"
+      ],
+      "excerpt": "They always check up on me and I'm super grateful.",
+      "quote": "Life is one of those things that never gets any easier, so just understanding that, just taking everything day by day, but I'm super grateful for all the guys on our team. They always check up on me and I'm super grateful. They care about me as a person, whether it's after the game, whether it's in the morning when they see me, whether it's just a text or a call. So I'm super grateful for those guys. One thing I started doing, I was talking to Mike Noisy, he talks about just recognizing and writing down what you're going through, and then when you look at it on paper, when I write down that I'm upset because I didn't play well or I didn't play too many minutes in an NBA game, you kind of look at it, you're like, this is a pretty good problem to have.",
+      "text_blocks": [],
+      "start_seconds": 277,
+      "end_seconds": 334,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "Carter Bryant shares his method for handling frustration: writing down his feelings about playing time to gain perspective, realizing that being in the NBA is a pretty good problem to have.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Mike Noisy"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Carter Bryant talks about the support system within the Spurs organization and his process for managing frustration.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Carter Bryant",
+      "timestamp": "05:51",
+      "summary_phrase": "Carter Bryant on Steph Curry's positive influence and next-play mentality",
+      "names_mentioned": [
+        "Steph"
+      ],
+      "excerpt": "Steph is one of those people that you can, he always has a good day.",
+      "quote": "Steph is one of those people that you can, he always has a good day. Like if you talk to Steph, if you're around Steph, he always has a positive impact on the day, no matter how his day is going. So he's one of the best I've ever seen at next-play mentality and just moving on to the next thing in life. So he's really good at that, but I think for myself just being positive and moving on to the next thing, you can't control everything and anything out of your control you can't dwell on.",
+      "text_blocks": [],
+      "start_seconds": 351,
+      "end_seconds": 389,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 4,
+      "social_post": "Carter Bryant cites Steph Curry as a major influence for his next-play mentality, noting that Curry is the best he has seen at maintaining a positive impact regardless of how his day is going.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "SAS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Carter Bryant discusses the positive influence of Stephen Curry and his ability to maintain a next-play mentality.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Carter Bryant",
+      "timestamp": "06:36",
+      "summary_phrase": "Carter Bryant on the team's physical response to being down",
+      "names_mentioned": [
+        "Vic",
+        "Steph",
+        "Luka"
+      ],
+      "excerpt": "We weren't physical enough defensively, we got punked in the first half.",
+      "quote": "I think just understanding what it is and just taking it for the truth, realizing what it is at face value. We didn't do what we needed to do in the first half, we weren't physical enough defensively, we got punked in the first half. We didn't do a good job of redding up or doing anything that we kind of talk about defensively. But also, you got to make some shots and I don't think we made one three in the first half, or zero? It was Vic and Steph, yeah, so we got those two threes and we shot two for 12 in the first half and we're a pretty good shooting team. We have a lot of elite shooters on our team, so we knew that that has to even out eventually. But just understanding who we are defensively and what's our identity, and we got back to that in the second half. We were physical, we did a great job of switching, rebounding, forcing guys to make tough shots.",
+      "text_blocks": [],
+      "start_seconds": 396,
+      "end_seconds": 463,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Carter Bryant on the Spurs first-half struggles against the Lakers: We got punked in the first half and were not physical enough defensively, but we got back to our identity in the second half.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama",
+          "Stephen Curry"
+        ],
+        "teams": [
+          "SAS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Carter Bryant analyzes the team's defensive struggles in the first half and their adjustment to regain their identity in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "hqyPmwO79Y4",
+  "url": "https://www.youtube.com/watch?v=hqyPmwO79Y4",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-28T06:33:43Z",
+  "duration_seconds": 492,
+  "processed_at": "2026-11-28T06:58:55Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

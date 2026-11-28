@@ -1,0 +1,274 @@
+{
+  "video_title": "Mitch Johnson on Spurs Second Half Adjustments in Win Over Lakers",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:13",
+      "summary_phrase": "Mitch Johnson on Spurs' second half adjustments against Lakers",
+      "names_mentioned": [],
+      "excerpt": "we were much sharper. Not a drastic adjustment or something that we changed drastically.",
+      "quote": "We were much sharper. Not a drastic adjustment or something that we changed drastically. I think just some better execution in some ways and more discipline with some stuff.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 24,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson on the Spurs second half adjustments against the Lakers: We were much sharper. Not a drastic adjustment or something that we changed drastically. I think just some better execution in some ways and more discipline with some stuff.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the team's improved execution and discipline in the second half of their victory over the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:42",
+      "summary_phrase": "Mitch Johnson on Stephen Curry's clutch performance",
+      "names_mentioned": [
+        "Stephen Curry"
+      ],
+      "excerpt": "He's built for the moment. He wants the moment and he attacks the moment.",
+      "quote": "He's built for the moment. He wants the moment and he attacks the moment.",
+      "text_blocks": [],
+      "start_seconds": 42,
+      "end_seconds": 47,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Mitch Johnson on Stephen Curry: He is built for the moment. He wants the moment and he attacks the moment.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "SAS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson praises Stephen Curry for his ability to perform in high-pressure situations.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:05",
+      "summary_phrase": "Mitch Johnson on Stephen Curry's competitive nature",
+      "names_mentioned": [
+        "Stephen Curry",
+        "Luka Doncic"
+      ],
+      "excerpt": "His everyday competitiveness forces you to match or it really stands out and you can get exposed.",
+      "quote": "His everyday competitiveness forces you to match or it really stands out and you can get exposed pretty quickly and he brings it everyday.",
+      "text_blocks": [],
+      "start_seconds": 65,
+      "end_seconds": 74,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Mitch Johnson on the competitive nature of Stephen Curry: His everyday competitiveness forces you to match or it really stands out and you can get exposed pretty quickly and he brings it everyday.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "SAS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson comments on the competitive nature of Stephen Curry and the impact it has on opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:24",
+      "summary_phrase": "Mitch Johnson on Dylan Windler's return from injury",
+      "names_mentioned": [
+        "Dylan Windler"
+      ],
+      "excerpt": "I thought he balanced well trying to be aggressive and in attack mode while still allowing the game.",
+      "quote": "I thought he did a really good job. I thought he balanced well trying to be aggressive and in attack mode while still allowing the game to unfold, which can be hard when you're playing less than your normal minutes or you haven't been out.",
+      "text_blocks": [],
+      "start_seconds": 84,
+      "end_seconds": 101,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson on Dylan Windler returning from injury: I thought he did a really good job. I thought he balanced well trying to be aggressive and in attack mode while still allowing the game to unfold.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan Windler"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Mitch Johnson evaluates Dylan Windler's performance in his return to the court after an injury.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:57",
+      "summary_phrase": "Mitch Johnson on Carter Bryant's impact",
+      "names_mentioned": [
+        "Carter Bryant"
+      ],
+      "excerpt": "A very underwhelming stat line that won't get discussed in any highlights and that young man dominated.",
+      "quote": "A very underwhelming stat line that won't get discussed in any highlights and that young man dominated the game for a portion of the game. I hope he feels that. I hope he understands how different he can make us and he jumps off the page or the screen if you're watching the game just with his defensive capacity and capabilities and his athleticism and combination of size.",
+      "text_blocks": [],
+      "start_seconds": 117,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Mitch Johnson praises Carter Bryant despite his stat line: A very underwhelming stat line that won't get discussed in any highlights and that young man dominated the game for a portion of the game.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Carter Bryant"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson highlights the defensive impact and athleticism of Carter Bryant despite his limited statistics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mitch Johnson",
+      "timestamp": "02:56",
+      "summary_phrase": "Mitch Johnson on Stephen Curry's clutch shot and team defense",
+      "names_mentioned": [
+        "Stephen Curry",
+        "Victor Wembanyama"
+      ],
+      "excerpt": "Our guards that handle the ball a lot are devastating when they get to the paint.",
+      "quote": "Our guards that handle the ball a lot are devastating when they get to the paint and so is Victor putting pressure on the rim. So that action, we know at times teams will do exactly that, try to keep us in front, try to make Victor run through bodies and make us shoot shots over the top and I think Steph feels exactly how he looked after he made the shot.",
+      "text_blocks": [],
+      "start_seconds": 176,
+      "end_seconds": 204,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Mitch Johnson on the Spurs offensive philosophy: Our guards that handle the ball a lot are devastating when they get to the paint and so is Victor putting pressure on the rim.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry",
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson analyzes the team's offensive strategy involving paint pressure and Stephen Curry's late-game shot.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Mitch Johnson",
+      "timestamp": "03:41",
+      "summary_phrase": "Mitch Johnson on team maturity during tough games",
+      "names_mentioned": [],
+      "excerpt": "There was some maturity tonight that was good to see.",
+      "quote": "There was some maturity tonight that was good to see. When things aren't going well, sometimes there are things you can't control. There's a lot of things we could control that weren't going well, but I thought we did a pretty good job of working the game, staying in the game. I didn't feel like our emotions got too high or too low even when things weren't going well.",
+      "text_blocks": [],
+      "start_seconds": 221,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson on team maturity: There was some maturity tonight that was good to see. I did not feel like our emotions got too high or too low even when things were not going well.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson reflects on the team's emotional maturity and composure during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Mitch Johnson",
+      "timestamp": "04:44",
+      "summary_phrase": "Mitch Johnson on team shooting philosophy",
+      "names_mentioned": [],
+      "excerpt": "Got to shoot. It's all you got. I mean you got to go shoot it.",
+      "quote": "Got to shoot. It's all you got. I mean you got to go shoot it and then if we miss it, go crash and go get it again. We can't ride the percentage wave or the emotional rollercoaster of results. We got good shooters, we got good offense, our shots that we're going to produce is going to be a lot of catch and shoot threes because the way that we can attack the paint, put pressure on the rim and everybody's going to shoot them.",
+      "text_blocks": [],
+      "start_seconds": 284,
+      "end_seconds": 317,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson on the Spurs shooting philosophy: Got to shoot. It is all you got. We cannot ride the percentage wave or the emotional rollercoaster of results.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson explains the team's philosophy regarding shot selection and offensive aggression.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "Z3Ron1Wp02U",
+  "url": "https://www.youtube.com/watch?v=Z3Ron1Wp02U",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-28T06:30:35Z",
+  "duration_seconds": 347,
+  "processed_at": "2026-11-28T06:58:53Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

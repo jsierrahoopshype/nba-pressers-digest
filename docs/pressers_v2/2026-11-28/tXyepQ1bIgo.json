@@ -1,0 +1,232 @@
+{
+  "video_title": "Cooper Flagg & Max Christie Postgame | Mavericks at Suns | Nov. 27, 2026",
+  "speakers_seen": [
+    "Max Christie",
+    "Cooper Flagg"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Cooper Flagg",
+      "speakers": [
+        "Cooper Flagg",
+        "Max Christie"
+      ],
+      "timestamp": "00:27",
+      "summary_phrase": "Cooper Flagg and Max Christie on team resilience and chemistry",
+      "names_mentioned": [],
+      "excerpt": "just staying together and trusting the game plan, trusting each other",
+      "text_blocks": [
+        {
+          "speaker": "Cooper Flagg",
+          "text": "I think just staying together. It's something we talked about all year long, but just staying together and trusting the game plan, trusting each other. Dallas just making big-time winning plays."
+        },
+        {
+          "speaker": "Max Christie",
+          "text": "I think just being able to battle through and win a tough game down the stretch without arguably one of the best closers in this game has ever seen. So I think just showing that resilience, the togetherness, just fighting through some adversity."
+        }
+      ],
+      "start_seconds": 27,
+      "end_seconds": 55,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Cooper Flagg on the team win against the Suns: staying together and trusting the game plan was key to battling through adversity down the stretch.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg discusses the team's resilience and ability to win a close game despite missing a key player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Max Christie",
+      "timestamp": "01:11",
+      "summary_phrase": "Max Christie on his high-level impact in the fourth quarter",
+      "names_mentioned": [],
+      "excerpt": "for him just to come in there and impact the game at such a high level",
+      "quote": "Max just stayed ready all year long and for him just to come in there and impact the game at such a high level, obviously iced the game with the free throws down the stretch, knocked down three, the mid-range he hit. Just to come in and affect the game at such a high level, obviously showing that he's just going to stay ready and he was a really big part of that.",
+      "verbatim_original_language": "",
+      "start_seconds": 71,
+      "end_seconds": 99,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Cooper Flagg praises Max Christie for staying ready all year and making high level plays to help ice the game in the fourth quarter.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg praises Max Christie for his high-level performance and impact during the fourth quarter of the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cooper Flagg",
+      "timestamp": "01:39",
+      "summary_phrase": "Cooper Flagg on defensive identity and disrupting offensive rhythm",
+      "names_mentioned": [],
+      "excerpt": "just continuing to get steals and deflections, that's one of our biggest identities as a team",
+      "quote": "Just continuing to get steals and deflections, that's one of our biggest identities as a team, something we've continued to harp on. The coaching staff has and us as players, we just want to just disrupt team's offensive rhythm. They got a lot of great players, a lot of tough shot-makers, but I think our length, our ability to be in passing lanes, get deflections, get steals, run out for easy baskets helped us to kind of win the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 99,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cooper Flagg says the defensive identity of the team is built on getting steals and deflections to disrupt the offensive rhythm of opponents.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg explains how the team's defensive focus on deflections and steals helped them disrupt the opponent's rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Cooper Flagg",
+      "timestamp": "02:07",
+      "summary_phrase": "Cooper Flagg on maintaining confidence and a positive team culture",
+      "names_mentioned": [],
+      "excerpt": "I'm not searching for anything, I'm just going to continue to stay ready behind the scenes",
+      "quote": "I'm always just confident in my game. I'm not searching for anything, I'm just going to continue to stay ready behind the scenes. It felt pretty cool to see a game like this kind of come to fruition, just really staying at it every single day, trying to keep a positive attitude. At the end of the day, we were winning games, so I really had no reason to be upset. I'm living my dream every day and we got a great team, a great group of guys that get along really well.",
+      "verbatim_original_language": "",
+      "start_seconds": 127,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Cooper Flagg on his mindset: I am always confident in my game and just trying to keep a positive attitude because I am living my dream every day.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg reflects on maintaining a positive attitude and confidence while working behind the scenes for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Cooper Flagg",
+      "timestamp": "02:56",
+      "summary_phrase": "Cooper Flagg on the competitive atmosphere of the Cup games",
+      "names_mentioned": [],
+      "excerpt": "the Cup is really interesting for the season where it just adds another level of competition",
+      "quote": "The Cup is really interesting for the season where it just adds another level of competition and guys really want to win it. So I think just adding that pressure on some of these early-season games is a true test to kind of what some of these games could feel like towards the end of the season. I'm looking forward to just being able to compete at such a high level and continue to win some of these close games.",
+      "verbatim_original_language": "",
+      "start_seconds": 176,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cooper Flagg says the NBA Cup adds another level of competition and pressure to early season games that serves as a test for the end of the season.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg shares his thoughts on how the NBA Cup adds a higher level of competition and pressure to early-season games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Max Christie",
+      "timestamp": "03:24",
+      "summary_phrase": "Max Christie on the playoff-like atmosphere of the Cup",
+      "names_mentioned": [],
+      "excerpt": "the overall intensity and vibe of the game feels playoff-esque",
+      "quote": "It just kind of raises the atmosphere, the overall intensity and vibe of the game feels playoff-esque. We're coming into each game as well as a team and as a staff with a little bit of an extra edge, knowing that something kind of bigger is on the line. It's another way to compete at a higher level, being able to be in situations where stakes are a little bit higher than a typical regular-season game.",
+      "verbatim_original_language": "",
+      "start_seconds": 204,
+      "end_seconds": 233,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Max Christie says the NBA Cup games feel playoff esque because the team and staff approach them with an extra edge knowing something bigger is on the line.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Max Christie describes how the NBA Cup games create a more intense, playoff-like atmosphere for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Cooper Flagg",
+      "timestamp": "04:36",
+      "summary_phrase": "Cooper Flagg on the impact of team leadership and management",
+      "names_mentioned": [],
+      "excerpt": "being able to have new leadership like that and they're very present in every single game",
+      "quote": "It's pretty special, being able to have new leadership like that and they're very present in every single game for us, good or bad. That's something I think as players we appreciate for sure, being able to know that our leadership has our backs regardless. It shows that they came in and they wanted to create a new culture and them just being there and supporting us and showing the level of excitement, it really does mean something.",
+      "verbatim_original_language": "",
+      "start_seconds": 276,
+      "end_seconds": 306,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Cooper Flagg says the players appreciate having leadership that is present at every game and shows they have the team's back regardless of the outcome.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Cooper Flagg discusses how the team appreciates the presence and support of the new leadership group.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "tXyepQ1bIgo",
+  "url": "https://www.youtube.com/watch?v=tXyepQ1bIgo",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-28T06:00:29Z",
+  "duration_seconds": 320,
+  "processed_at": "2026-11-28T06:59:31Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

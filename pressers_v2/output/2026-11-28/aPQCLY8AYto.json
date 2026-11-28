@@ -1,0 +1,195 @@
+{
+  "video_title": "Jamahl Mosley recaps win | Pelicans vs. Clippers Postgame Interview 11/27/26",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "00:20",
+      "summary_phrase": "Jamahl Mosley praises team execution and rebounding in closing stretch",
+      "names_mentioned": [
+        "Trey Murphy",
+        "Garland",
+        "Eaves"
+      ],
+      "excerpt": "I thought those guys were great down the stretch finding ways to execute and get stops.",
+      "quote": "I thought those guys were great down the stretch finding ways to execute and get stops. Once we cleaned up the glass, I thought that was a big key. I thought Eaves came in there and did a heck of a job helping us finish possessions off. He had 12 rebounds and he did all the small things within the game. I think that was just so big for us, but everybody contributed, and that's what we're going to need. We talk about by committee and everybody had a hand in on it.",
+      "verbatim_original_language": "",
+      "start_seconds": 20,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley credited the team for their rebounding effort in the closing stretch of tonight win saying Eaves did a heck of a job helping us finish possessions off",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Eaves"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Jamahl Mosley discusses the team's rebounding performance and the contribution of Eaves following a win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:00",
+      "summary_phrase": "Jamahl Mosley on team resilience and defensive effort",
+      "names_mentioned": [
+        "Herb"
+      ],
+      "excerpt": "No matter what the score, no matter the time, just being able to fight through the final horn.",
+      "quote": "We've got to continue to fight, and I think that's what these guys showed tonight. No matter what the score, no matter the time, just being able to fight through the final horn. And these guys did that. I thought Herb was unbelievable down the stretch, came up with a big play. Again, small pieces from each guy was something big. Guys coming off the bench stepping up, stepping in. They had 66 points in the paint last time; tonight they only have 34. So I think that's big and that's key for us to keep teams out of the paint, but be able to also get out to three-point shooters.",
+      "verbatim_original_language": "",
+      "start_seconds": 60,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley highlighted the defensive improvement tonight noting the team held the opponent to 34 points in the paint after allowing 66 in their previous matchup",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Herbert Jones"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley praises the team's defensive effort and specifically highlights a key play made by Herbert Jones.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "01:30",
+      "summary_phrase": "Jamahl Mosley on Zion Williamson and Trey Murphy's offensive roles",
+      "names_mentioned": [
+        "Zion",
+        "Trey"
+      ],
+      "excerpt": "Trey did a great job of not hunting but just trying to find the right play.",
+      "quote": "I thought Trey did a great job of not hunting but just trying to find the right play. Took what the defense gave him, got downhill a couple times, finished around the rim. Zion, same thing, wasn't afraid to step into his shot as they were going under on screens. But again, finding what the game is giving you and they took that, and just being able to put the ball in their hands in big moments was good for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 90,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley praised the offensive patience of Trey Murphy and Zion Williamson tonight saying they did a great job of not hunting but just trying to find the right play",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trey Murphy III",
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley evaluates the offensive decision-making of Trey Murphy III and Zion Williamson during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:09",
+      "summary_phrase": "Jamahl Mosley on validating team lessons through close game execution",
+      "names_mentioned": [],
+      "excerpt": "It talks about coming up with the big stops, being able to come across the lane on the weak side,",
+      "quote": "",
+      "verbatim_original_language": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "These are the things that the previous games they teach you lessons. And so you've got to continue to learn from those lessons. You're in a close game the other night, you're in a close game tonight. What are you doing in those moments?"
+        },
+        {
+          "speaker": "Jamahl Mosley",
+          "text": "It talks about coming up with the big stops, being able to come across the lane on the weak side, coming up with a big defensive rebound to not allow them to get another possession, communicating our switches out. All those things are key."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Jamahl Mosley"
+      ],
+      "reporter_split": true,
+      "start_seconds": 129,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jamahl Mosley on the team ability to close out tight games saying these are the things that the previous games they teach you lessons",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley reflects on how the team is applying lessons learned from previous close games to their current performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "02:54",
+      "summary_phrase": "Jamahl Mosley on preparing for the upcoming game against Portland",
+      "names_mentioned": [],
+      "excerpt": "They're playing great basketball and our guys know that.",
+      "quote": "They're playing great basketball and our guys know that. They've watched them play, they're physical, they're long, they're big, they get after you defensively. They have obviously a big-time scoring that they're capable of doing. But our guys are knowing walking into that building how we've got to sit down and guard, how we've got to communicate, and just continue to take this momentum into Portland.",
+      "verbatim_original_language": "",
+      "start_seconds": 174,
+      "end_seconds": 196,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Looking ahead to the matchup against Portland Jamahl Mosley says the team knows they have to sit down and guard and continue to take this momentum into Portland",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "POR"
+        ],
+        "topics": [],
+        "context": "Jamahl Mosley discusses the team's preparation and mindset heading into their upcoming game against the Portland Trail Blazers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "aPQCLY8AYto",
+  "url": "https://www.youtube.com/watch?v=aPQCLY8AYto",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-28T06:25:50Z",
+  "duration_seconds": 196,
+  "processed_at": "2026-11-28T06:58:54Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

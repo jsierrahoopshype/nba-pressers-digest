@@ -1,0 +1,240 @@
+{
+  "video_title": "Victor Wembanyama on Spurs Dominating in the Second Half",
+  "speakers_seen": [
+    "Victor Wembanyama"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "00:16",
+      "summary_phrase": "Victor Wembanyama on the Spurs' defensive struggles against the Lakers",
+      "names_mentioned": [],
+      "excerpt": "We were turning the ball over a lot. We were letting them get offensive boards.",
+      "quote": "We got to see this as a whole. We were turning the ball over a lot. We were letting them get offensive boards, not as much pressure, not as much aggressiveness. I feel like we still approach the game with a good mentality, but maybe a little off. We should have been more on the front foot and more with a meaner behavior, just like we had in the second half.",
+      "verbatim_original_language": "",
+      "start_seconds": 16,
+      "end_seconds": 43,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Victor Wembanyama says the Spurs lacked aggressiveness in the first half against the Lakers and needed to play with a meaner behavior to turn things around in the second half.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama discusses the Spurs' defensive struggles and turnover issues during the first half of their game against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "01:01",
+      "summary_phrase": "Victor Wembanyama on the Spurs' character and growth after beating the Lakers",
+      "names_mentioned": [],
+      "excerpt": "It just showed character and it's just getting us ready for the next step of the season.",
+      "quote": "It's a different scenario that we faced before, but I like how my guys reacted. It just showed character and it's just getting us ready for the next step of the season. Even if we had lost this game somehow, we would have learned a lot from it. These games are going to be more and more common, and we are getting ready.",
+      "verbatim_original_language": "",
+      "start_seconds": 61,
+      "end_seconds": 85,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Victor Wembanyama on the Spurs comeback win against the Lakers: It showed character and it is getting us ready for the next step of the season.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama reflects on the character shown by his teammates following their victory over the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "02:10",
+      "summary_phrase": "Victor Wembanyama on the impact of Steph Curry and Kawhi Leonard",
+      "names_mentioned": [
+        "Steph Curry",
+        "Kawhi Leonard"
+      ],
+      "excerpt": "They played a major role in that and it started at halftime.",
+      "quote": "They played a major role in that and it started at halftime. Everybody was on the same page. I feel like maybe we should have talked more or showed more a different energy before the game, but we reacted the right way. We might have been dominated in the first half, we dominated more than they did in the second half.",
+      "verbatim_original_language": "",
+      "start_seconds": 130,
+      "end_seconds": 153,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Victor Wembanyama says the Spurs needed to show different energy before the game but credits the team for reacting the right way in the second half.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry",
+          "Kawhi Leonard"
+        ],
+        "teams": [
+          "SAS",
+          "GSW",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama credits Stephen Curry and Kawhi Leonard for their influence on the team's halftime adjustments.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "02:50",
+      "summary_phrase": "Victor Wembanyama on the quality of the Lakers and Luka Doncic",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "I was surprised of the quality of the game that they offered and that he offered collectively.",
+      "quote": "He is the same that I have seen all season. I was surprised of the quality of the game that they offered and that he offered collectively, I mean. I knew what to expect with Luka, but as a team, I wasn't sure what they were built off, just from the start of the season, but it's real. They are good.",
+      "verbatim_original_language": "",
+      "start_seconds": 170,
+      "end_seconds": 193,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Victor Wembanyama admits he was impressed by the quality of the Lakers team play: I knew what to expect with Luka but as a team I was not sure what they were built off but it is real. They are good.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAS",
+          "LAL",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama shares his impressions of the Lakers' team quality and Luka Doncic's performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "05:43",
+      "summary_phrase": "Victor Wembanyama on the trustworthiness and defensive impact of Steph Curry",
+      "names_mentioned": [
+        "Steph Curry"
+      ],
+      "excerpt": "He's just a mad dog, you know, defensively. He's kind of horrible for opponents.",
+      "quote": "They won. We have known that about Steph being one, I have known that about him day one. He's just a mad dog, you know, defensively. He's kind of horrible for opponents, you know. I know they have a terrible time playing against him. It's great to have him. We can, he is so trustworthy, you know. It's great to have somebody like this and he's so young too, we are the same age.",
+      "verbatim_original_language": "",
+      "start_seconds": 343,
+      "end_seconds": 371,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Victor Wembanyama calls his teammate a mad dog on defense: He is kind of horrible for opponents. I know they have a terrible time playing against him.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Stephen Curry"
+        ],
+        "teams": [
+          "SAS",
+          "GSW"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Victor Wembanyama praises the defensive intensity and trustworthiness of his teammate Stephen Curry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "06:43",
+      "summary_phrase": "Victor Wembanyama on his ambitions with the French national team",
+      "names_mentioned": [],
+      "excerpt": "The goal is to win all the competitions with the French team.",
+      "quote": "The goal is to win all the competitions with the French team. And we know that it is qualifying for the Olympics, so we keep that in mind. We keep that well in mind.",
+      "verbatim_original_language": "Bah déjà le but c'est de gagner toutes les compétitions avec l'équipe de France. Et on sait que c'est qualificatif pour les JO donc on garde ça en tête, on garde ça bien en tête.",
+      "start_seconds": 403,
+      "end_seconds": 416,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Victor Wembanyama reiterates his goal with the French national team: The goal is to win all the competitions with the French team.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama discusses his goals and the importance of Olympic qualification for the French national team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Victor Wembanyama",
+      "timestamp": "07:08",
+      "summary_phrase": "Victor Wembanyama on the French national team's potential to beat Team USA",
+      "names_mentioned": [],
+      "excerpt": "I think we have what it takes to beat them all the years.",
+      "quote": "I think we have what it takes to beat them all the years. And the seniors have already beaten them in a pool. But yeah, today the French team, there is no ambition that is not theirs in entering in a competition.",
+      "verbatim_original_language": "Je pense qu'on a ce qu'il faut pour les battre tous les ans. Et les anciens les ont déjà battus en poule. Mais ouais, bien sûr bah aujourd'hui l'équipe de France, il n'y a pas d'ambition qui n'est pas la leur en entrant dans une compétition.",
+      "start_seconds": 428,
+      "end_seconds": 444,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 8,
+      "social_post": "Victor Wembanyama believes the French national team has what it takes to beat Team USA: I think we have what it takes to beat them all the years.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Victor Wembanyama expresses his belief in the French national team's ability to compete with and defeat Team USA.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "SCEjeXxqMaY",
+  "url": "https://www.youtube.com/watch?v=SCEjeXxqMaY",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-28T06:41:21Z",
+  "duration_seconds": 451,
+  "processed_at": "2026-11-28T06:58:40Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

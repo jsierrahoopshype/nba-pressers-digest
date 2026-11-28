@@ -1,0 +1,179 @@
+{
+  "video_title": "“We Went On A Run, But Couldn't Keep The Pressure Up.” | Ayo Dosunmu Postgame Sound | 11.27.26",
+  "speakers_seen": [
+    "Ayo Dosunmu"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "00:13",
+      "summary_phrase": "Ayo Dosunmu on the impact of LaMelo Ball's absence",
+      "names_mentioned": [
+        "LaMelo"
+      ],
+      "excerpt": "If you ask me did we miss him tonight, I would say yes.",
+      "quote": "I would not say it takes a toll, but of course, if you ask me did we miss him tonight, I would say yes. Just his ability for playmaking, another ball-handler, six, seven assists a night, just his presence out there definitely helps. But at the same time, we had a better job of just doing the simple things better. I do not necessarily think that Memphis made it hard on us; I think we actually made it hard on ourselves.",
+      "text_blocks": [],
+      "start_seconds": 13,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Ayo Dosunmu admits the team missed LaMelo Ball tonight but says they made the game hard on themselves rather than Memphis forcing the issue.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "LaMelo Ball"
+        ],
+        "teams": [
+          "MIN",
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu discusses the impact of LaMelo Ball's absence on the team's performance following a game against Memphis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "01:17",
+      "summary_phrase": "Ayo Dosunmu on the team's failure to move the ball",
+      "names_mentioned": [],
+      "excerpt": "Not moving the ball, not making quick decisions. I think that was the biggest thing.",
+      "quote": "Not moving the ball, not making quick decisions. I think that was the biggest thing. In the NBA, like I always say, the margin of error is very small. So one hesitation, too long, that is the difference between a corner three or the defender being able to close out. We have to do a better job of that. I know we will adjust.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu on the team struggles tonight: The margin of error is very small and we were not making quick decisions or moving the ball well enough.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu explains the team's struggles with ball movement and decision-making during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "01:54",
+      "summary_phrase": "Ayo Dosunmu on team chemistry and missing open teammates",
+      "names_mentioned": [],
+      "excerpt": "It is basketball, so no one is perfect. You always can watch film and say pinpoint here.",
+      "quote": "It is basketball, so no one is perfect. You always can watch film and say pinpoint here and there where it is an opportunity where you could have passed the ball. But you do not want to take away no one's aggressive because I think we have a lot of good basketball players. It is all about just continuing to learn in areas where we could elevate and become a better team at and generate better shots.",
+      "text_blocks": [],
+      "start_seconds": 114,
+      "end_seconds": 144,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu says the team needs to watch film to find better opportunities to pass but emphasizes they do not want to take away anyone's aggression.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Ayo Dosunmu addresses the team's chemistry and the importance of balancing individual aggression with passing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "02:47",
+      "summary_phrase": "Ayo Dosunmu on the team's lack of a clear hierarchy",
+      "names_mentioned": [
+        "Jaylen Clark",
+        "LaMelo",
+        "Julius",
+        "Jaden",
+        "Camingo",
+        "Rudy",
+        "TJ"
+      ],
+      "excerpt": "No, I would not say no. I would not say that.",
+      "quote": "No, I would not say no. I would not say that. Like I said, we have opportunities to score, we have opportunities to put ourselves in positions to be special, and we generated some good shots. There were just some times where we turned the ball over too much and also we gave them too many offensive rebounds.",
+      "text_blocks": [],
+      "start_seconds": 167,
+      "end_seconds": 189,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Ayo Dosunmu denies the team lacks a clear hierarchy and points to turnovers and offensive rebounds as the primary reasons for the loss.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu denies that the team lacks a clear hierarchy while discussing turnovers and rebounding issues.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Ayo Dosunmu",
+      "timestamp": "04:27",
+      "summary_phrase": "Ayo Dosunmu on turnovers and defensive adjustments",
+      "names_mentioned": [],
+      "excerpt": "They take away your first read and I do not think that we were necessarily prepared for that.",
+      "quote": "They pretty much denied the wings, so the initial pass is like a quarterback, like the Vikings, you know, they like to blitz, so they take away your first read and I do not think that we were necessarily prepared for that. So I think that that just gave us some turnovers, and also we had some silly self-turnovers that are unacceptable for sure. But we will be better.",
+      "text_blocks": [],
+      "start_seconds": 267,
+      "end_seconds": 294,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Ayo Dosunmu compares the Memphis defensive pressure to a Vikings blitz and admits the team was not prepared for the way they denied the wings.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Ayo Dosunmu analyzes the defensive pressure applied by Memphis and the resulting turnovers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "mNTT1PShusA",
+  "url": "https://www.youtube.com/watch?v=mNTT1PShusA",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-28T06:08:54Z",
+  "duration_seconds": 334,
+  "processed_at": "2026-11-28T06:59:07Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

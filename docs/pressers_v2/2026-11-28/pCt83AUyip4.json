@@ -1,0 +1,165 @@
+{
+  "video_title": "Scoot Henderson Postgame Interview | Portland Trail Blazers 116, GS Warriors 94 | Nov. 27, 2026",
+  "speakers_seen": [
+    "Scoot Henderson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scoot Henderson",
+      "timestamp": "00:15",
+      "summary_phrase": "Scoot Henderson on Portland's goal to win the NBA Cup",
+      "names_mentioned": [],
+      "excerpt": "Now the mission is to win it. To win it all, continue to go on and continue to win games.",
+      "quote": "Feels great. Feels great. Now the mission is to win it. To win it all, continue to go on and continue to win games, but most importantly, just continue to find our identity.",
+      "verbatim_original_language": "",
+      "start_seconds": 15,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Scoot Henderson says the Blazers are focused on the mission to win the NBA Cup and continue to find their identity as a team.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson discusses the team's objective to win the NBA Cup following a victory against the Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scoot Henderson",
+      "timestamp": "01:24",
+      "summary_phrase": "Scoot Henderson on the team's growth and playoff expectations",
+      "names_mentioned": [],
+      "excerpt": "Expectation of going to the playoffs and winning it, and winning everything.",
+      "quote": "The best team I've been on, I'd say that, just with record-wise at least, early on the season. And honestly, just expectation. Expectation of going to the playoffs and winning it, and winning everything. We don't want to speak too soon, but it's game by game as we know, but I think all of us in the group know that we're very capable of doing and achieving whatever we put our minds to.",
+      "verbatim_original_language": "",
+      "start_seconds": 84,
+      "end_seconds": 112,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Scoot Henderson believes this is the best Blazers team he has been on and says the group is capable of achieving whatever they put their minds to.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson reflects on the team's early season record and their collective expectations to reach the playoffs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scoot Henderson",
+      "timestamp": "02:40",
+      "summary_phrase": "Scoot Henderson on the importance of team chemistry",
+      "names_mentioned": [],
+      "excerpt": "If we don't like each other then we're not passing to each other on the court.",
+      "quote": "If we don't like each other then we're not passing to each other on the court. Off the court, we gel pretty easily, and I feel like that's huge on any team I've been on. Any team I've been on where you gel off the court, on the court it's kind of seamless. We're still figuring that out, and it could be even better, and we all know that.",
+      "verbatim_original_language": "",
+      "start_seconds": 160,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Scoot Henderson on team chemistry: If we do not like each other then we are not passing to each other on the court. He says the team is still figuring that out.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scoot Henderson explains how off-court chemistry impacts the team's performance and passing on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Scoot Henderson",
+      "timestamp": "03:46",
+      "summary_phrase": "Scoot Henderson describes the Trail Blazers as a group of dogs",
+      "names_mentioned": [],
+      "excerpt": "Group of dogs from the top to bottom. Every night there's going to be a dog fight.",
+      "quote": "Group of dogs from the top to bottom. Every night there's going to be a dog fight. You hear a lot of people around the league say that, but I feel like with us, it's just we have a lot of depth, and it's fun to play alongside with, and it's probably scary to play against.",
+      "verbatim_original_language": "",
+      "start_seconds": 226,
+      "end_seconds": 248,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 6,
+      "social_post": "Scoot Henderson describes the Blazers as a group of dogs from top to bottom and says they are probably scary to play against.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson describes the Trail Blazers roster as a group of dogs due to their depth and competitive nature.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scoot Henderson",
+      "timestamp": "04:16",
+      "summary_phrase": "Scoot Henderson on the intensity of the NBA Cup knockout rounds",
+      "names_mentioned": [
+        "Michael Nori"
+      ],
+      "excerpt": "Games mean a lot more than the first game of a playoff run or whatever.",
+      "quote": "Really excited. I feel like it could be something towards like the playoffs a little bit, but in a different format since it's one and done situation. So games mean a lot more than the first game of a playoff run or whatever, but it's going to be fun. It's going to be fun to play in an atmosphere, and you already know, Rip City going to be turnt, so it's going to be fun.",
+      "verbatim_original_language": "",
+      "start_seconds": 256,
+      "end_seconds": 283,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Scoot Henderson is looking forward to the NBA Cup knockout rounds and expects the atmosphere in Rip City to be turnt.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson shares his excitement for the intensity of the upcoming NBA Cup knockout rounds.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "pCt83AUyip4",
+  "url": "https://www.youtube.com/watch?v=pCt83AUyip4",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-28T06:48:11Z",
+  "duration_seconds": 283,
+  "processed_at": "2026-11-28T06:58:29Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

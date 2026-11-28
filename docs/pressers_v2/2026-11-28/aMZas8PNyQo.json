@@ -1,0 +1,271 @@
+{
+  "video_title": "Head Coach Jordan Ott Postgame Media Availability  | 11-27-26",
+  "speakers_seen": [
+    "Jordan Ott"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:11",
+      "summary_phrase": "Jordan Ott on fourth-quarter turnovers and defensive struggles",
+      "names_mentioned": [],
+      "excerpt": "I felt like every turnover in that fourth quarter was a steal, wasn't a dead ball.",
+      "quote": "Obviously we know there's going to be runs end of third into the fourth. We went zone, got a couple good looks, I think four or five of them right off the bat, up 17, then they were able to run out and then all of a sudden now you got a ball game, you got 12 or 13 point lead. And then the turnovers, I felt like every turnover in that fourth quarter was a steal, wasn't a dead ball. Felt like they were just able to take it right to the rim on the other side and got them going and then all of a sudden it's a single digit game and credit to them they never stopped playing. This league you got to play for 48.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 61,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Jordan Ott on the Suns fourth quarter struggles: Every turnover in that fourth quarter was a steal, not a dead ball. They were able to take it right to the rim and got them going.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Head coach Jordan Ott discusses the team's fourth-quarter struggles and turnovers in a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordan Ott",
+      "timestamp": "00:48",
+      "summary_phrase": "Impact of bench players on team energy and momentum",
+      "names_mentioned": [
+        "Colin"
+      ],
+      "excerpt": "It was like a light switch in that first quarter as soon as they came in.",
+      "quote": "It was like a light switch in that first quarter as soon as they came in the game, changed the juice, changed the energy, got us right back in. That first quarter we ended up finishing that thing in a pretty good place. A lot of times that just comes down to energy, just the ability. I thought Colin even had some tough shots in that first quarter but just his juice, his momentum, just kind of got us over the hump, got us started and helped us in that first quarter.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 83,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jordan Ott on the bench impact: It was like a light switch in that first quarter as soon as they came in the game, changed the juice, changed the energy, got us right back in.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Colin"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott praises the impact of the bench unit and Colin's energy during the first quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordan Ott",
+      "timestamp": "01:21",
+      "summary_phrase": "Late-game execution failures and defensive challenges",
+      "names_mentioned": [
+        "Dwayne"
+      ],
+      "excerpt": "When you're up 21 and you let a good team start to get momentum, a team that plays hard.",
+      "quote": "I think part of it was Dwayne, but it was a six point game with six or seven minutes left to go. When you're up 21 and you let a good team start to get momentum, a team that plays hard and really good defensively. They are really big, they're really hard to find the gap on and if you can't get to the offensive glass to give you a second chance, you got to shoot over the top. We did early in that fourth quarter and just weren't able to make a couple of those.",
+      "text_blocks": [],
+      "start_seconds": 81,
+      "end_seconds": 118,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 1,
+      "social_post": "Jordan Ott on the late game collapse: When you are up 21 and you let a good team start to get momentum, a team that plays hard and really good defensively, they are really big and hard to find the gap on.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dwayne"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains the team's late-game offensive difficulties and the opponent's defensive pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordan Ott",
+      "timestamp": "02:29",
+      "summary_phrase": "Managing rotation decisions between Jaylen and Colin",
+      "names_mentioned": [
+        "Jaylen",
+        "Colin"
+      ],
+      "excerpt": "We made the decision to go Colin just because Colin had more of a rhythm over the course of the game.",
+      "quote": "They're so big, it's hard to go three smaller guys there. We made the decision to go Colin just because Colin had more of a rhythm over the course of the game, especially obviously in that first half but even in the second half. Thought he had a little bit more rhythm, but you know we'll definitely look back, see what we got, but it is harder at times to play multiple smaller against a bigger team when you're trying to keep them out of the paint, trying to keep them in front, size matters.",
+      "text_blocks": [],
+      "start_seconds": 149,
+      "end_seconds": 186,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the rotation decision to play Colin over Jaylen: It is harder at times to play multiple smaller against a bigger team when you are trying to keep them out of the paint, trying to keep them in front, size matters.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jaylen",
+          "Colin"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Jordan Ott explains his rotation decision to play Colin over Jaylen due to the opponent's size.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordan Ott",
+      "timestamp": "03:27",
+      "summary_phrase": "Cooper Flagg's growth and impact on the game",
+      "names_mentioned": [
+        "Cooper Flagg",
+        "Kyrie",
+        "Max Christie",
+        "Marshall"
+      ],
+      "excerpt": "He's able to get to a spot that's really hard to guard.",
+      "quote": "Number one it's always size with him. He's able to get to a spot that's really hard to guard. He gets there that eight to 10 foot spot and just kind of able to jump over you. I thought at times we were able to keep him in front of us, especially early in that third quarter we were able to kind of keep him out to 10 or 12 feet, which is better than at the rim or in. So yeah, good player, he played a lot of minutes, obviously has a lot of workload with Kyrie out. And then at the end of the day I thought it was him and Marshall and I thought Max Christie came in and gave him great minutes.",
+      "text_blocks": [],
+      "start_seconds": 207,
+      "end_seconds": 255,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jordan Ott on defending Cooper Flagg: He is able to get to a spot that is really hard to guard. He gets there that eight to 10 foot spot and just kind of able to jump over you.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Cooper Flagg",
+          "Kyrie",
+          "Marshall",
+          "Max Christie"
+        ],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott discusses the challenges of defending Cooper Flagg and acknowledges contributions from other players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordan Ott",
+      "timestamp": "04:12",
+      "summary_phrase": "Defensive strategy against set defenses and transition",
+      "names_mentioned": [],
+      "excerpt": "I don't think it was out of, hey we're not trying to do the right thing.",
+      "quote": "Some of those are unforced, self-inflicted. They have great size, they're in those gaps. When you think you have a gap they're able to close it with their great wingspan. We'll definitely take a look. I don't think it was out of, hey we're not trying to do the right thing. Some of them were trying to make the right pass but they're able to cover so much ground. We'll keep looking at it, obviously 14 points in the fourth quarter is not good enough.",
+      "text_blocks": [],
+      "start_seconds": 252,
+      "end_seconds": 285,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Jordan Ott on the team's 14 point fourth quarter: Some of those are unforced, self-inflicted. They have great size, they are in those gaps. When you think you have a gap they are able to close it with their great wingspan.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott addresses the team's high turnover rate and the opponent's defensive length.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:01",
+      "summary_phrase": "Defensive transition and half-court execution",
+      "names_mentioned": [],
+      "excerpt": "We talked a lot about just getting them to neutral.",
+      "quote": "We talked a lot about just getting them to neutral. So they have an advantage obviously off a steal but even off a defensive rebound and getting back into transition. Can we get them into the half court? In the first half you could feel it when we got them set against our half court defense and then able to control the glass a little bit. Our first shot defense was good but if you get them out, get athletes in transition in the space, after live ball turnovers are always always tough.",
+      "text_blocks": [],
+      "start_seconds": 301,
+      "end_seconds": 337,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Jordan Ott on defensive transition: We talked a lot about just getting them to neutral. Can we get them into the half court? After live ball turnovers are always always tough.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott explains the importance of defensive transition and forcing the opponent into half-court sets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jordan Ott",
+      "timestamp": "05:50",
+      "summary_phrase": "Preventing early game deficits and maintaining intensity",
+      "names_mentioned": [],
+      "excerpt": "There's no easing in the games anymore. You have to go all out all the time.",
+      "quote": "There's no easing in the games anymore. You have to go all out all the time for 48 minutes. Teams play super hard in this league and they play both sides. So offensively you have to attack, being in attack mode when you have gaps you got to go. And then defensively they do a great job of moving it, moving bodies. We talked about them back cutting, first play back cut, talk about our defensive rebound, back cut, defensive rebound. Pretty simple stuff. Get them out in transition, it's pretty easy to see the analytics of them in transition, try to get them in the half court. So some of the same stuff that we we keep beating on, we'll continue and you have to come out ready to go, no excuses.",
+      "text_blocks": [],
+      "start_seconds": 350,
+      "end_seconds": 401,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordan Ott on the team's intensity: There is no easing in the games anymore. You have to go all out all the time for 48 minutes. Teams play super hard in this league and they play both sides.",
+      "team": "Phoenix Suns",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "PHX"
+        ],
+        "topics": [],
+        "context": "Jordan Ott emphasizes the need for consistent intensity and execution throughout the entire 48-minute game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "aMZas8PNyQo",
+  "url": "https://www.youtube.com/watch?v=aMZas8PNyQo",
+  "channel_team": "Phoenix Suns",
+  "published": "2026-11-28T06:50:15Z",
+  "duration_seconds": 411,
+  "processed_at": "2026-11-28T06:58:37Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,427 @@
+{
+  "video_title": "Full Denver Nuggets Postgame Media Availability vs. UTA 🎙",
+  "speakers_seen": [
+    "Coach Adelman",
+    "Christian Braun",
+    "Julian Strawther"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:07",
+      "summary_phrase": "Coach Adelman on the benefits of using timeouts to control game pace",
+      "names_mentioned": [],
+      "excerpt": "one of the advantages of having your timeouts, you can kind of control the pace of the game",
+      "quote": "one of the advantages of having your timeouts, you can kind of control the pace of the game and the runs. There have been games this year where I only had a couple left. The guys were measured and balanced in the huddle. We did not turn the ball over. We had one turnover in that stanza that led to a run-out and a three. Every time I sat down with them, I thought they looked measured. They understood there is a lot of game to play.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 40,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Coach Adelman on the importance of timeouts for controlling game pace and keeping the team measured during high-stakes runs",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman explains how timeouts are used to manage game pace and maintain team composure during runs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Adelman",
+      "timestamp": "00:45",
+      "summary_phrase": "Coach Adelman on Jamal Murray's role in fourth quarter execution",
+      "names_mentioned": [
+        "Jamal Murray",
+        "Christian Braun",
+        "Aaron Gordon",
+        "Nikola Jokic"
+      ],
+      "excerpt": "it was a lot of Jamal, but it was just combinations, trying to get him in space",
+      "quote": "it was a lot of Jamal, but it was just combinations, trying to get him in space. They started bringing the third defender over like a lot of teams do. But Christian Braun got a layup behind that, Aaron Gordon found a basket, and then Jamal got into space. Christian Braun did a really good job screening, getting other people in the situations so Nikola Jokic and Jamal could find the matchups they wanted. Everyone in the fourth quarter was really professional with how they played.",
+      "text_blocks": [],
+      "start_seconds": 45,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Coach Adelman credits Christian Braun for his screening and playmaking in the fourth quarter to help Jamal Murray and Nikola Jokic find their spots",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jamal Murray",
+          "Christian Braun",
+          "Aaron Gordon",
+          "Nikola Jokic"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman discusses the fourth-quarter execution and the roles of specific players in creating offensive opportunities.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Coach Adelman",
+      "timestamp": "01:43",
+      "summary_phrase": "Coach Adelman on Jamal Murray's understanding of game demands",
+      "names_mentioned": [
+        "Jamal Murray",
+        "Nikola Jokic"
+      ],
+      "excerpt": "the urgency of great players, Nikola Jokic in the fourth quarter as well, understanding what the moment needs",
+      "quote": "the urgency of great players, Nikola Jokic in the fourth quarter as well, understanding what the moment needs. Sometimes it is ball movement, sometimes it is not. Sometimes it is a star player stepping up, looking for their own shot, which actually leads to better ball movement behind it when they react to him and the excellence of who he is. We have talked about Jamal, the efficiency again, 12 for 23, 6 for 10. He is just a machine throughout the year.",
+      "text_blocks": [],
+      "start_seconds": 103,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 4,
+      "social_post": "Coach Adelman calls Jamal Murray a machine after his efficient 12 for 23 shooting performance against Utah",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nikola Jokic",
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Coach Adelman praises the offensive efficiency and decision-making of his star players during the fourth quarter.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Coach Adelman",
+      "timestamp": "02:29",
+      "summary_phrase": "Coach Adelman on integrating Christian Braun and Julian Strawther",
+      "names_mentioned": [
+        "Christian Braun",
+        "Julian Strawther",
+        "DeAndre Jordan"
+      ],
+      "excerpt": "it is a nice thing to have a guy you can run plays for",
+      "quote": "it is a nice thing to have a guy you can run plays for. I thought Christian Braun looked good. I actually thought he played well defensively too, had good activity. I tried Julian Strawther tonight just for more pace of play. The guys have to go out there and play with him. They have not played with him, he has been in the G League, we have not practiced. Today felt like a scrimmage for those guys even though the game counts, because you can script and walk through stuff at shootaround, but it is not the real thing.",
+      "text_blocks": [],
+      "start_seconds": 149,
+      "end_seconds": 187,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Adelman notes the challenge of integrating Julian Strawther into the rotation after his time in the G League without much practice time",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Christian Braun",
+          "Julian Strawther"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Coach Adelman discusses the integration of Christian Braun and Julian Strawther into the rotation and the challenges of limited practice time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speakers": [
+        "Unidentified reporter",
+        "Christian Braun"
+      ],
+      "timestamp": "03:20",
+      "summary_phrase": "Christian Braun on the team's response to Utah's fourth quarter run",
+      "names_mentioned": [],
+      "excerpt": "we played good in the last five minutes, but we were not good enough again throughout the whole game",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Christian, they go on a seven-nothing run to start the fourth quarter. How would you describe the way you guys responded?"
+        },
+        {
+          "speaker": "Christian Braun",
+          "text": "I think we played good in the last five minutes, but we were not good enough again throughout the whole game. We had spurts and we have always had spurts all year, but we were good in spurts and then at the end we played well. I think all together on both ends and got lucky with a couple missed shots, but we have to be better consistently, but we were good when it mattered."
+        }
+      ],
+      "start_seconds": 200,
+      "end_seconds": 237,
+      "speaker_confidence": "inferred",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Christian Braun admits the Nuggets are still struggling with consistency despite a strong finish against Utah",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN",
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Christian Braun reflects on the team's inconsistent performance and their response to Utah's fourth-quarter run.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Christian Braun",
+      "timestamp": "03:45",
+      "summary_phrase": "Christian Braun on improving defensive intensity and communication",
+      "names_mentioned": [],
+      "excerpt": "we turned up our effort a lot. I think our intensity on the ball",
+      "quote": "we turned up our effort a lot. I think our intensity on the ball and some of that was we have to pick up the ball higher and we changed up a couple things, mixed up our looks a little bit. But I think our intensity jumped up a little bit. My intensity on the ball was not high enough throughout the game, and then in the fourth quarter, those last five minutes, it was better and we were touching guys and being more physical and communicating those switches better than we were throughout the game.",
+      "text_blocks": [],
+      "start_seconds": 225,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Christian Braun says the team turned up their defensive intensity in the final five minutes to secure the win",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Christian Braun discusses the need for increased defensive intensity and better communication on switches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Christian Braun",
+      "timestamp": "04:27",
+      "summary_phrase": "Christian Braun on his role as an active defender",
+      "names_mentioned": [],
+      "excerpt": "I think it is probably my biggest job on this team. I know we have a lot of talent",
+      "quote": "I think it is probably my biggest job on this team. I know we have a lot of talent, guys that can score and put the ball in the basket, but I think defense is the most important part. Not necessarily just steals, but I know that getting easy buckets for our team and getting steals and running out. I have not been as good yet in transition, but that will come with the rhythm and those things, but I think this year my steals are up and I think that is a product of different schemes.",
+      "text_blocks": [],
+      "start_seconds": 267,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Christian Braun discusses his defensive focus this season and how he is looking to improve his transition play",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Christian Braun describes his defensive role and the importance of transition play for the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Christian Braun",
+      "timestamp": "05:14",
+      "summary_phrase": "Christian Braun on Jamal Murray's leadership and defensive intensity",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "he rises to every occasion. It does not matter what it is",
+      "quote": "he rises to every occasion. It does not matter what it is. You kind of know what he does on the offensive end, but I think on the defensive end this year, he is kind of pushing guys out of the way and wanting to guard. Maybe not the guy with the ball in his hand, but he wants to be involved in the defense. He is pushing guys, he is competing. Me and him are constantly talking, he is constantly challenging me to do something new, do more. He is playing at an All-Star level or even higher than that.",
+      "text_blocks": [],
+      "start_seconds": 314,
+      "end_seconds": 353,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 7,
+      "social_post": "Christian Braun says Jamal Murray is playing at an All-Star level and has been pushing teammates to be more physical on the defensive end",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Christian Braun praises Jamal Murray's leadership and increased defensive effort this season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Christian Braun",
+      "timestamp": "06:07",
+      "summary_phrase": "Christian Braun on Julian Strawther's impact and microwave scoring",
+      "names_mentioned": [
+        "Julian Strawther"
+      ],
+      "excerpt": "he brings like a different element that we do not have, you know, he is like a microwave scorer",
+      "quote": "it was awesome to see Julian Strawther, his first shot go in. He is still skilled on that end, and he brings like a different element that we do not have, you know, he is like a microwave scorer. He can get hot fast, he can hit tough shots, he can get a shot off at any time. His floater is really good, he can get in the lane, and you can see his defensive intensity tonight was up. He was in a stance all night, and he was having fun.",
+      "text_blocks": [],
+      "start_seconds": 367,
+      "end_seconds": 402,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Christian Braun praises Julian Strawther as a microwave scorer who brings a different element to the Nuggets second unit",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Julian Strawther"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Christian Braun evaluates Julian Strawther's offensive impact and defensive energy in his return to the rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Christian Braun",
+      "timestamp": "06:47",
+      "summary_phrase": "Christian Braun on the team's defensive execution and forced turnovers",
+      "names_mentioned": [],
+      "excerpt": "we were creating turnovers and at halftime I think they had 50 points. We just were not scoring",
+      "quote": "we were creating turnovers and at halftime I think they had 50 points. We just were not scoring. We always know our offense is going to come, and Coach always talks about that. If we can hold teams to 100 points, we are going to win a lot of games this year. So we were on the right track at halftime. I think we are flying around, and a couple of them they kind of gave to us, but a couple of them we forced, and I think it was a good night on that end.",
+      "text_blocks": [],
+      "start_seconds": 407,
+      "end_seconds": 444,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Christian Braun emphasizes the team defensive goal of holding opponents to 100 points to ensure wins",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Christian Braun discusses the team's defensive execution and their ability to force turnovers against Utah.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speakers": [
+        "Unidentified reporter",
+        "Julian Strawther"
+      ],
+      "timestamp": "07:27",
+      "summary_phrase": "Julian Strawther on the energy of the second unit",
+      "names_mentioned": [],
+      "excerpt": "just with that second unit, just going out there and playing with a bunch of energy",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "David was talking about how that second unit in particular that was out there tonight, those were some of the first minutes that you guys were getting together. How do you have patience and kind of play through some of the clunkiness that it is playing with guys for the first time?"
+        },
+        {
+          "speaker": "Julian Strawther",
+          "text": "just with that second unit, just going out there and playing with a bunch of energy. Understanding that we are going to make mistakes and things like that, but using energy to kind of mask those things. Obviously with the starting five we got, the way they play, just coming in the game and trying to, you know, just mess things up and just try to push them leads up."
+        }
+      ],
+      "start_seconds": 447,
+      "end_seconds": 494,
+      "speaker_confidence": "inferred",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Julian Strawther on the second unit energy: We are going to make mistakes but we use our energy to mask those things",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Julian Strawther explains how the second unit uses high energy to overcome the challenges of playing together for the first time.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Julian Strawther",
+      "timestamp": "08:10",
+      "summary_phrase": "Julian Strawther on reading the game and Jamal Murray's return",
+      "names_mentioned": [
+        "Jamal Murray"
+      ],
+      "excerpt": "that is just always a read between, you know, how the game is going and where we at",
+      "quote": "that is just always a read between, you know, how the game is going and where we at, and getting a guy like him back on the floor, Jamal Murray, when he gets it going. So, understanding that we have some of the most talented scorers in the world, and when it is time for them to get back in the game, it is time.",
+      "text_blocks": [],
+      "start_seconds": 490,
+      "end_seconds": 515,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Julian Strawther on playing alongside Jamal Murray: Understanding that we have some of the most talented scorers in the world",
+      "team": "Denver Nuggets",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jamal Murray"
+        ],
+        "teams": [
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Julian Strawther discusses the importance of reading the game flow and knowing when to defer to star players like Jamal Murray.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "3kEkEk23oEs",
+  "url": "https://www.youtube.com/watch?v=3kEkEk23oEs",
+  "channel_team": "Denver Nuggets",
+  "published": "2026-11-28T06:20:03Z",
+  "duration_seconds": 524,
+  "processed_at": "2026-11-28T06:59:15Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

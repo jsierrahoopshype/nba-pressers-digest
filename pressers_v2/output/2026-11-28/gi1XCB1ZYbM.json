@@ -1,0 +1,297 @@
+{
+  "video_title": "Stephon Castle on Not Accepting Defeat In Comeback Win over Lakers",
+  "speakers_seen": [
+    "Stephon Castle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Stephon Castle",
+      "timestamp": "00:13",
+      "summary_phrase": "Stephon Castle on the team's resilience and chemistry in comeback win",
+      "names_mentioned": [],
+      "excerpt": "I think when we're connected like that on both ends, including our bench, I think we're pretty hard to beat.",
+      "quote": "I mean it's definitely satisfying knowing our guys didn't lay down or accept any kind of defeat. We kept pushing and stuck with our game plan and eventually we figured it out. I mean you saw the result. When we're connected like that on both ends, including our bench, I think we're pretty hard to beat.",
+      "verbatim_original_language": "",
+      "start_seconds": 13,
+      "end_seconds": 35,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Stephon Castle on the Spurs comeback win against the Lakers: It is definitely satisfying knowing our guys did not lay down or accept any kind of defeat. We kept pushing and stuck with our game plan.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Stephon Castle discusses the team's resilience and chemistry during a comeback win against the Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Stephon Castle",
+      "timestamp": "00:52",
+      "summary_phrase": "Stephon Castle on learning from adversity against high-level opponents",
+      "names_mentioned": [],
+      "excerpt": "Being able to look back on a game like this with a high-level opponent, we can give ourselves a chance.",
+      "quote": "It's not the last time we're going to face adversity this season. It's not the last time we're going to face it within the next week and a half. Being able to look back on a game like this with a high-level opponent, and understanding that if we do the things that we preach and that we're supposed to do, we can give ourselves a chance to win any basketball game.",
+      "verbatim_original_language": "",
+      "start_seconds": 52,
+      "end_seconds": 79,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Stephon Castle on facing high level opponents: It is not the last time we are going to face adversity this season. Understanding that if we do the things that we preach, we can give ourselves a chance to win any basketball game.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle reflects on the importance of learning from adversity when facing high-level opponents throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Stephon Castle",
+      "timestamp": "01:25",
+      "summary_phrase": "Stephon Castle on maintaining a positive mindset during deficits",
+      "names_mentioned": [],
+      "excerpt": "Just rally the guys. Having a positive mindset when it's hard to do that is definitely helpful.",
+      "quote": "Just rally the guys. I think coach said it, just having a positive mindset when it's hard to do that is definitely helpful. Just talking to the guys, making sure we're huddling, making sure we're all on the same page. Coming out of one of the timeouts in the first half, the biggest thing was ending the half the right way, and I feel like we did that and gave ourselves some momentum coming into the third.",
+      "verbatim_original_language": "",
+      "start_seconds": 85,
+      "end_seconds": 115,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Stephon Castle on maintaining focus during deficits: Just rally the guys. Having a positive mindset when it is hard to do that is definitely helpful. Just talking to the guys, making sure we are huddling and on the same page.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle explains how he and the coaching staff focus on maintaining a positive mindset and communication during game deficits.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Stephon Castle",
+      "timestamp": "02:05",
+      "summary_phrase": "Stephon Castle on his three-point shooting and team rhythm",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "I think it's just a product of the work and the passing, getting guys shots on time on target.",
+      "quote": "I won't say I'm surprised. He takes a lot tougher ones than I do. But yeah, I think it's just a product of the work and the passing, getting guys shots on time on target and in rhythm. It definitely does a lot to whoever is shooting it. He takes a lot tougher ones than I do, but Luka Doncic is obviously a great player.",
+      "verbatim_original_language": "",
+      "start_seconds": 125,
+      "end_seconds": 150,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Stephon Castle on Luka Doncic: He takes a lot tougher ones than I do. But yeah, I think it is just a product of the work and the passing, getting guys shots on time on target and in rhythm. Luka Doncic is obviously a great player.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAS",
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Stephon Castle comments on the difficulty of shots taken by Luka Doncic and the importance of team rhythm.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Stephon Castle",
+      "timestamp": "02:39",
+      "summary_phrase": "Stephon Castle on Victor Wembanyama's physical play and team impact",
+      "names_mentioned": [],
+      "excerpt": "Vic just finds a counter for everything that teams send to him.",
+      "quote": "Vic just finds a counter for everything that teams send to him. Teams guard him differently every night. I could say every quarter teams are switching up the schemes on him. And obviously one of those things is to be physical with him and try and take him off his spot, not let him roll. But for us, we need him to do that. So being able to fight through that and not get in his head, still play the right way, with how good he is, it means a lot to our team.",
+      "verbatim_original_language": "",
+      "start_seconds": 159,
+      "end_seconds": 195,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Stephon Castle on how teams defend Victor Wembanyama: Vic just finds a counter for everything that teams send to him. Teams guard him differently every night. I could say every quarter teams are switching up the schemes on him.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Stephon Castle discusses how Victor Wembanyama handles physical defensive schemes from opposing teams.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Stephon Castle",
+      "timestamp": "03:26",
+      "summary_phrase": "Stephon Castle on Zach Collins' energy and defensive contribution",
+      "names_mentioned": [
+        "Zach Collins"
+      ],
+      "excerpt": "I think Zach Collins was big. I think just his energy and having his mindset in the right place.",
+      "quote": "I think Zach Collins was big. I think just his energy and having his mindset in the right place and putting his energy into the right things just opens up the game for him. His ability to space the floor and rebound and crash offensively, especially in those spot minutes where we're going on a run and other guys on the other side are really tired, being able to do that and have that kind of impact, it definitely changes the momentum of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 206,
+      "end_seconds": 239,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Stephon Castle on Zach Collins: I think Zach Collins was big. Just his energy and having his mindset in the right place and putting his energy into the right things just opens up the game for him.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zach Collins"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Stephon Castle praises the energy and impact Zach Collins provided during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Stephon Castle",
+      "timestamp": "04:11",
+      "summary_phrase": "Stephon Castle on helping teammates maintain mental focus",
+      "names_mentioned": [
+        "Zach Collins"
+      ],
+      "excerpt": "Me and Zach Collins talk a lot about stuff on the court, off the court.",
+      "quote": "Me and Zach Collins talk a lot about stuff on the court, off the court. And one of the things that we talk about is just the mental part of it. It's a big part of basketball. We know how good he is, how talented he is, but I think when his mental is in the right place, that's when everybody else gets to see him shine. So just continue to tell him play free and play his game, and even on a night where he doesn't score a lot, he can affect the game like he did tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 251,
+      "end_seconds": 289,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 4,
+      "social_post": "Stephon Castle on his relationship with Zach Collins: We know how good he is, how talented he is, but I think when his mental is in the right place, that is when everybody else gets to see him shine.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zach Collins"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Stephon Castle discusses his relationship with Zach Collins and the importance of maintaining a positive mental state.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Stephon Castle",
+      "timestamp": "04:58",
+      "summary_phrase": "Stephon Castle on staying even-keeled regardless of game outcomes",
+      "names_mentioned": [],
+      "excerpt": "I think I just try and stay even-keeled. Whether I'm having a good day or a bad day.",
+      "quote": "I think I just try and stay even-keeled. Whether I'm having a good day or a bad day, I think I try and stick with that. And I think finding that middle ground has helped me find a certain type of balance, especially when those bad days come. And I think just not trying to do it by myself, kind of leaning on my teammates, asking the right questions, leaning on my coaches, and eventually I think we're smart enough to figure it out.",
+      "verbatim_original_language": "",
+      "start_seconds": 298,
+      "end_seconds": 330,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Stephon Castle on his rookie mindset: I think I just try and stay even keeled. Whether I am having a good day or a bad day, I think I try and stick with that. Finding that middle ground has helped me find a certain type of balance.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle explains his approach to staying even-keeled and leaning on teammates and coaches during difficult stretches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Stephon Castle",
+      "timestamp": "05:46",
+      "summary_phrase": "Stephon Castle on his final shot decision in the clutch",
+      "names_mentioned": [],
+      "excerpt": "In the moment I'm just trying to get the best shot.",
+      "quote": "In the moment I'm just trying to get the best shot. I think that was right after offensive rebound. It's a one-possession game. I think we're going against the shot clock, so just trying to get the right shot, and I had the shot, so I took it.",
+      "verbatim_original_language": "",
+      "start_seconds": 346,
+      "end_seconds": 364,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Stephon Castle on his clutch shot decision: In the moment I am just trying to get the best shot. It is a one possession game. I think we are going against the shot clock, so just trying to get the right shot, and I had the shot, so I took it.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Stephon Castle describes his decision-making process during a final shot attempt in a close game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "gi1XCB1ZYbM",
+  "url": "https://www.youtube.com/watch?v=gi1XCB1ZYbM",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-28T06:37:04Z",
+  "duration_seconds": 380,
+  "processed_at": "2026-11-28T06:58:44Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}
