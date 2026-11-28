@@ -1,0 +1,190 @@
+{
+  "video_title": "🏆Lakers vs Spurs | Postgame Interviews x Highlights: November 27, 2026",
+  "speakers_seen": [
+    "JJ Redick",
+    "Walker Kessler",
+    "Austin Reaves"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "JJ Redick",
+      "timestamp": "00:12",
+      "summary_phrase": "JJ Redick on the Lakers' defensive lapses against the Spurs",
+      "names_mentioned": [
+        "Kelton Johnson",
+        "Carter Bryan"
+      ],
+      "excerpt": "to beat these teams, you can't have those momentary mental lapses",
+      "quote": "The difference in the third, to me, because part of the thing with them was we want to try to limit them in the paint. The paint is priority and getting back and getting our defense set. They had 10 transition points in the first half and 30 paint points in the first half, which is not great. They were two for 12 from three. Kelton Johnson hits a three, Carter Bryan hits an off the dribble. They made threes in that third quarter, we did not. And you can certainly point to certain plays. I told the guys after, I think of five or six dumb things that I did tonight. But to beat these teams, you can't have those momentary mental lapses. We had a few of those and then it turned into a one possession game.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "JJ Redick says the Lakers cannot afford momentary mental lapses against teams like the Spurs after a loss where defensive breakdowns and transition points proved costly",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "LAL",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "JJ Redick discusses the Lakers defensive lapses and mental errors during their loss to the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "JJ Redick",
+      "timestamp": "01:59",
+      "summary_phrase": "JJ Redick on Austin Reaves' performance and team turnover issues",
+      "names_mentioned": [
+        "Austin Reaves"
+      ],
+      "excerpt": "I think it's a little bit of rust and a lot of Wembanyama.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Austin Reaves returned tonight, he got those shots going, especially late on the three-pointers. He also had seven turnovers. How did you gauge those turnovers in terms of some of them maybe rust and also just maybe not having the best read of the defense?"
+        },
+        {
+          "speaker": "JJ Redick",
+          "text": "I think it's a little bit of rust and a lot of Wembanyama."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "JJ Redick"
+      ],
+      "reporter_split": true,
+      "start_seconds": 119,
+      "end_seconds": 141,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "JJ Redick attributes Austin Reaves seven turnovers tonight to a mix of rust and the defensive impact of Victor Wembanyama",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Austin Reaves",
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "LAL",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "JJ Redick addresses Austin Reaves' turnover issues in his return to the lineup against Victor Wembanyama.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Walker Kessler",
+      "timestamp": "05:02",
+      "summary_phrase": "Walker Kessler on the Lakers' wasted possessions and the Spurs' resilience",
+      "names_mentioned": [],
+      "excerpt": "we can't waste possessions, and I think we wasted a couple offensive possessions",
+      "quote": "Coach was saying in the postgame, we can't waste possessions, and I think we wasted a couple offensive possessions and that got them going. And then they're a good team, so regardless of how many points they're down, they're never down and out. So they came out with some energy and fire and we wasted some possessions, but we fought back to put ourselves in a last shot opportunity.",
+      "text_blocks": [],
+      "start_seconds": 302,
+      "end_seconds": 329,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Walker Kessler says the Lakers wasted offensive possessions against the Spurs which allowed the opponent to build momentum and get back into the game",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL",
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Walker Kessler reflects on the Lakers wasted offensive possessions and the resilience of the Spurs.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Austin Reaves",
+      "timestamp": "11:47",
+      "summary_phrase": "Austin Reaves on the Lakers' need for better execution in close games",
+      "names_mentioned": [],
+      "excerpt": "we got to execute a little better in certain situations, especially that group to start the fourth",
+      "quote": "We played a really good first half. I struggled to start the third. They took an eight point lead, we battled back, so it showed some resiliency from our group. But we got to execute a little better in certain situations, especially that group to start the fourth. I think they went on like a six-0 run, eight-0 run to start the fourth, but we'll learn, we'll grow, and get better.",
+      "text_blocks": [],
+      "start_seconds": 707,
+      "end_seconds": 734,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Austin Reaves says the Lakers showed resiliency in their comeback attempt but must execute better in high pressure situations to close out games",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Austin Reaves discusses the need for better execution and resiliency following the Lakers loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Austin Reaves",
+      "timestamp": "12:14",
+      "summary_phrase": "Austin Reaves on the Lakers' lack of organization in the second half",
+      "names_mentioned": [],
+      "excerpt": "I think our lack of organization in that second half kind of hurt us",
+      "quote": "When you play against that, you have to be organized every single possession and I think our lack of organization in that second half kind of hurt us. We're capable of making a lot of tough shots, but I think we can make it a little easier on ourselves though. That's like I said, start of the fourth, that's my job is to help that group be more successful and more organized and I didn't do that tonight, so like I said, we'll get better.",
+      "text_blocks": [],
+      "start_seconds": 734,
+      "end_seconds": 767,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Austin Reaves takes responsibility for the Lakers lack of organization in the second half saying it is his job to help the group be more successful",
+      "team": "Los Angeles Lakers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Austin Reaves takes responsibility for the lack of organization in the Lakers second half performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "uKNqnsBTKuM",
+  "url": "https://www.youtube.com/watch?v=uKNqnsBTKuM",
+  "channel_team": "Los Angeles Lakers",
+  "published": "2026-11-28T07:45:07Z",
+  "duration_seconds": 856,
+  "processed_at": "2026-11-28T08:42:36Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}
