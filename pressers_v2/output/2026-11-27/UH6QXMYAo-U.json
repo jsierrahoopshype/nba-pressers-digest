@@ -1,0 +1,205 @@
+{
+  "video_title": "Mitch Johnson on Spurs NBA Cup Matchup Against the Los Angeles Lakers",
+  "speakers_seen": [
+    "Mitch Johnson"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Mitch Johnson",
+      "timestamp": "00:21",
+      "summary_phrase": "Dylan Windler's recovery and professional development",
+      "names_mentioned": [
+        "Dylan Windler"
+      ],
+      "excerpt": "he's really matured in his preparation, recovery, just understanding all the stuff that you have to do",
+      "quote": "I know he's done everything that's been asked of him and more and he's really matured in his preparation, recovery, just understanding all the stuff that you have to do to be professional in this league. I think our medical team is as good as it gets, so that's a good recipe. But in terms of why or when he is back, no clue. Just again very thankful that it wasn't as serious as it may have looked to some of our eyes, so happy that he's trending into a good place.",
+      "text_blocks": [],
+      "start_seconds": 21,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Mitch Johnson says Dylan Windler is trending in a good place after his injury but there is no clear timeline for his return to the Spurs lineup.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dylan Windler"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Spurs coach Mitch Johnson provides an update on Dylan Windler's recovery process and his professional development.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Mitch Johnson",
+      "timestamp": "01:25",
+      "summary_phrase": "Spurs' approach to the NBA Cup and tiebreakers",
+      "names_mentioned": [],
+      "excerpt": "we're playing the hottest team in the league or the team with the best record playing as good",
+      "quote": "I haven't got into all the scenarios and tiebreakers and what not. We're playing the hottest team in the league or the team with the best record playing as good as anybody. So, up for a tough test tonight. And then whatever the results after tonight, I guess we should know whatever is going on in or out the cup and where we go and what not.",
+      "text_blocks": [],
+      "start_seconds": 85,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson says the Spurs are not focused on NBA Cup tiebreaker scenarios yet as they prepare for a tough test against the Lakers.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the team's approach to the NBA Cup and the upcoming game against the Los Angeles Lakers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Mitch Johnson",
+      "timestamp": "02:00",
+      "summary_phrase": "Victor Wembanyama's growth and evolution as a player",
+      "names_mentioned": [
+        "Victor Wembanyama"
+      ],
+      "excerpt": "he's a long way away from being a finished product",
+      "quote": "I don't think there's a concerted effort that's changed. There's a concerted effort when he first got here. He's much stronger. He understands his spots. We understand how and where to pass him the ball. I think we've all improved, he at the top of that list along with his teammates and us as a staff. But you see this again, these best players in the world, he's 22. He's a long way away from being a finished product. And so there's going to be natural evolution, there's going to be just things that he and we learn on this journey that will continue to help him or things that he will continue to improve upon and then that will at times maybe look differently.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 168,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Mitch Johnson on Victor Wembanyama: He is a long way away from being a finished product. There is going to be natural evolution as he continues to grow.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Victor Wembanyama"
+        ],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson reflects on the ongoing growth and development of Victor Wembanyama as a player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Mitch Johnson",
+      "timestamp": "03:10",
+      "summary_phrase": "Luka Doncic's elite performance and decision-making",
+      "names_mentioned": [
+        "Luka Doncic"
+      ],
+      "excerpt": "he has the ball for a lot of the game. He terminates a lot of possessions",
+      "quote": "He looks just very sharp, which is a scary word when you have a guy like him. He has the ball for a lot of the game. He terminates a lot of possessions. He's going to make multiple decisions almost every possession, specifically offensively with the basketball in his hands, and he's a wizard. So there's a lot of discipline, a lot of focus that he will stress test you consistently throughout a game because you can feel good about a couple possessions or a quarter or a half and next thing you know that thing can flip probably as quick as any player in the league in my opinion.",
+      "text_blocks": [],
+      "start_seconds": 190,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 5,
+      "social_post": "Mitch Johnson calls Luka Doncic a wizard and warns that his ability to flip a game is as quick as any player in the league.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Luka Doncic"
+        ],
+        "teams": [
+          "SAS",
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson describes the offensive threat posed by Luka Doncic and his ability to stress test a defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Mitch Johnson",
+      "timestamp": "04:15",
+      "summary_phrase": "Spurs' shooting struggles and offensive process",
+      "names_mentioned": [],
+      "excerpt": "we try to be optimistic. I believe the process of us in terms of generating good three-point shots",
+      "quote": "We try to be optimistic. I believe the process of us in terms of generating good three-point shots, which every single team does, I think we are doing a decent job of that. I think we are taking for the most part the right ones. I think we have very good shooters on our team and so there is a conflicting emotion at times in terms of stay with the process and we are going to make shots and there's a lot of guys who you could insert name here that are better than the percentage next to their three-point percentage in my opinion right now on our team. And they will. They'll make more shots, we'll make more shots and we'll continue to challenge ourselves to improve the actions and the spacing and the fundamentals that are going into that.",
+      "text_blocks": [],
+      "start_seconds": 255,
+      "end_seconds": 309,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson remains optimistic about the Spurs shooting struggles saying he believes the team has very good shooters who are better than their current percentages.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson addresses the team's current shooting struggles and his belief in their offensive process.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Mitch Johnson",
+      "timestamp": "05:41",
+      "summary_phrase": "Spurs' defensive improvement and ball security",
+      "names_mentioned": [],
+      "excerpt": "we haven't turned the ball over as much and we have a little bit more recently",
+      "quote": "It obviously means we're doing some other things well and that's kind of always that never-ending strive for perfection of you want always what you don't have a little bit of. So we need to continue to focus on things we're doing well. You know we haven't turned the ball over as much and we have a little bit more recently, so that's something that's helped us with the opportunity battle obviously. Our defense has improved since the start of the season and so yeah we just have to continue to move the needle and have incremental gains where appropriate.",
+      "text_blocks": [],
+      "start_seconds": 341,
+      "end_seconds": 377,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Mitch Johnson notes that the Spurs defense has improved since the start of the season and the team is focusing on maintaining better ball security.",
+      "team": "San Antonio Spurs",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "SAS"
+        ],
+        "topics": [],
+        "context": "Mitch Johnson discusses the team's recent improvements in defense and ball security.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "channel",
+  "format": "ytq-1",
+  "video_id": "UH6QXMYAo-U",
+  "url": "https://www.youtube.com/watch?v=UH6QXMYAo-U",
+  "channel_team": "San Antonio Spurs",
+  "published": "2026-11-28T01:22:24Z",
+  "duration_seconds": 377,
+  "processed_at": "2026-11-28T02:40:54Z",
+  "run_id": "2026-11-28T0240Z-20utc",
+  "is_one_off": false
+}

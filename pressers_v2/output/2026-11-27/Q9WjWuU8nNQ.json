@@ -1,0 +1,120 @@
+{
+  "video_title": "Joe Mazzulla Reveals Mitchell Robinson is Dealing with COVID | Celtics vs Hawks Pregame",
+  "speakers_seen": [
+    "Joe Mazzulla"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:04",
+      "summary_phrase": "Mitchell Robinson's status following COVID-19 diagnosis",
+      "names_mentioned": [
+        "Mitchell Robinson"
+      ],
+      "excerpt": "He had COVID, so he's reintegrating with the team. Hopefully he's back soon.",
+      "quote": "He had COVID, so he's reintegrating with the team. Hopefully he's back soon. He's in that process now of coming back and we'll just see how he progresses as he gets better.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 16,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla confirms Mitchell Robinson is currently reintegrating with the team after dealing with COVID. The Celtics are monitoring his progress as he works his way back.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Mitchell Robinson"
+        ],
+        "teams": [
+          "BOS",
+          "ATL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Joe Mazzulla provides an update on Mitchell Robinson returning to the team after a COVID-19 diagnosis.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:47",
+      "summary_phrase": "Assessing the current team chemistry and resilience",
+      "names_mentioned": [],
+      "excerpt": "To me, just as much as it's about being able to win together, you have to be able to lose together.",
+      "quote": "Even better than it was back then. I think that's the testament of a team that has a chance. Anybody can say those things under no duress, but to me, just as much as it's about being able to win together, you have to be able to lose together. It's great. Couldn't be better, having an understanding of where we are, where we're trying to get to, and just keep getting better.",
+      "text_blocks": [],
+      "start_seconds": 47,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla on Celtics team chemistry: Just as much as it is about being able to win together you have to be able to lose together. He says the group is in a great place.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla discusses the current team chemistry and the importance of handling both wins and losses together.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "02:06",
+      "summary_phrase": "Developing roster depth and player opportunities",
+      "names_mentioned": [
+        "Chris",
+        "Ron"
+      ],
+      "excerpt": "The goal is to try to develop as many as you can because you don't know what you're going to be up against.",
+      "quote": "I think it's productive. I don't know if we've gotten to 15 yet, I think we've gotten to 12, but I do think again, one of the things we've tried to do is create a locker room where anybody can impact winning at any time. Regardless of who we put out there, I truly believe they give us a chance to impact winning, whether it's offensive rebounds, forcing turnovers, screening, executing. And so I think that's part of the regular season is developing those opportunities. You've seen some great moments from Chris and then he reminds you real fast that he's a rookie, 19-year-old. And then you've seen some, I think Ron's play has been really good, the two first half that he's played in the last two games. You've seen what he's able to do there, and so that just adds more guys that just continue to get more comfortable and be able to impact winning. So I think the goal is to try to develop as many as you can because you don't know what you're going to be up against and what matchups are going to look like and what calls for offense and defense. So I hope it doesn't get down to nine, but the goal is to try to develop as many guys as we can.",
+      "text_blocks": [],
+      "start_seconds": 126,
+      "end_seconds": 194,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says the goal for the Celtics is to develop as many players as possible to impact winning. He notes the challenge of balancing rookie growth with the need for consistent execution.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Chris",
+          "Ron"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla explains the team strategy of developing roster depth to ensure multiple players can contribute to winning.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "Q9WjWuU8nNQ",
+  "url": "https://www.youtube.com/watch?v=Q9WjWuU8nNQ",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-27T23:30:50Z",
+  "duration_seconds": 194,
+  "processed_at": "2026-11-28T02:41:03Z",
+  "run_id": "2026-11-28T0240Z-20utc",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

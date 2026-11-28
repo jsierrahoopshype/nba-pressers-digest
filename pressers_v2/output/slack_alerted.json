@@ -1278,12 +1278,6 @@
    "run_id": "2026-11-24-overnight",
    "slot_date": "2026-11-24"
   },
-  "RfaqD9CLzf0": {
-   "at": "2026-11-14T00:53:50Z",
-   "quote": "there s no more light than the statements that have both been put out by both parties and i think that s for when it comes to that matter we re leaving it at that when it comes to both the statements ",
-   "run_id": "2026-11-14T0052Z-20utc",
-   "slot_date": "2026-11-13"
-  },
   "Ri6JIccAvkk": {
    "at": "2026-11-17T22:20:17Z",
    "quote": "today was maybe our best practice of the year very encouraging sign that our guys came in with what the things we need to improve on we can t let a bad road trip deter us from what our objective is an",
@@ -2370,12 +2364,6 @@
    "run_id": "2026-11-26-overnight",
    "slot_date": "2026-11-26"
   },
-  "nHH2zQONk9Y": {
-   "at": "2026-11-14T00:53:50Z",
-   "quote": "we don t want to be in that same position we want to stack up some wins here but it also gives us good perspective all of us that have been in the league for long we understand how extremely long this",
-   "run_id": "2026-11-14T0052Z-20utc",
-   "slot_date": "2026-11-13"
-  },
   "nM8DdLHKyIo": {
    "at": "2026-11-21T20:31:12Z",
    "dup_of": "oOB1cuPdCjI",
@@ -2931,6 +2919,22 @@
   }
  },
  "pending": {
+  "3i1Oxq29LP8": {
+   "channel": "Golden State Warriors",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-27",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T02:41:13Z",
+   "run_id": "2026-11-28T0240Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-27",
+   "speaker": "Steve Kerr",
+   "title": "Steve Kerr provides update on Steph Curry’s oblique injury | NBC Sports Bay Area",
+   "top_quote": "He's showing great. He's in the gym every day and he's been with us and Rick's in there with him and making really good strides. So everything's on schedule.",
+   "video_id": "3i1Oxq29LP8"
+  },
   "7SUOs8HLfUo": {
    "channel": "Minnesota Timberwolves",
    "clip_count": 7,
@@ -3011,6 +3015,38 @@
    "top_quote": "We got to be better. We gave up 70 points in the first half and especially against teams like these where they play fast in transition and fast in the half court. We got to be better at guarding the ball and keeping them out of transition. Second half we were a lot better defensively, but offensively we were pretty bad, pretty slow, stagnant the whole game. Just not how we want to play.",
    "video_id": "Lh02MmMunbk"
   },
+  "Q9WjWuU8nNQ": {
+   "channel": "Boston Celtics",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-27",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T02:41:13Z",
+   "run_id": "2026-11-28T0240Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-27",
+   "speaker": "Joe Mazzulla",
+   "title": "Joe Mazzulla Reveals Mitchell Robinson is Dealing with COVID | Celtics vs Hawks Pregame",
+   "top_quote": "He had COVID, so he's reintegrating with the team. Hopefully he's back soon. He's in that process now of coming back and we'll just see how he progresses as he gets better.",
+   "video_id": "Q9WjWuU8nNQ"
+  },
+  "UH6QXMYAo-U": {
+   "channel": "San Antonio Spurs",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-27",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T02:41:13Z",
+   "run_id": "2026-11-28T0240Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-27",
+   "speaker": "Mitch Johnson",
+   "title": "Mitch Johnson on Spurs NBA Cup Matchup Against the Los Angeles Lakers",
+   "top_quote": "I know he's done everything that's been asked of him and more and he's really matured in his preparation, recovery, just understanding all the stuff that you have to do to be professional in this league. I think our medical team is as good as it gets, so that's a good recipe. But in terms of why or when he is back, no clue. Just again very thankful that it wasn't as serious as it may have looked to some of our eyes, so happy that he's trending into a good place.",
+   "video_id": "UH6QXMYAo-U"
+  },
   "UQChnqoeqn8": {
    "channel": "Phoenix Suns",
    "clip_count": 2,
@@ -3059,6 +3095,22 @@
    "top_quote": "He's become much more consistent as a player, not nearly the number of highs and lows. Just a lot of highs. And when something does happen that isn't the greatest thing, he recovers very quickly. It's a maturity thing. He's a great kid. I know his family, I know his dad, and he really wants it bad. By wanting it, he wants to be as good a player as he can be to help his team. He's gained the trust of our veteran players because of how hard he goes, he plays to his strengths, they know what they can expect from him, and they know that he will be there for them.",
    "video_id": "ecLl-7vJcjY"
   },
+  "orcSwrQXgB4": {
+   "channel": "New Orleans Pelicans",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-27",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T02:41:13Z",
+   "run_id": "2026-11-28T0240Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": true,
+   "slot_date": "2026-11-27",
+   "speaker": "Jamahl Mosley",
+   "title": "LIVE: Pelicans vs. Clippers Pregame w/ Jamahl Mosley 11/27/2026",
+   "top_quote": "It's been great. The ability to get back on the floor together, actually have a real practice where guys can go against each other, compete a little bit. Then the recovery side of it, being able to not have five in seven nights where you're traveling a little bit. So the ability to get these guys on the court has been great.",
+   "video_id": "orcSwrQXgB4"
+  },
   "rbN1OSgh3vo": {
    "channel": "Milwaukee Bucks",
    "clip_count": 5,
@@ -3074,6 +3126,22 @@
    "title": "Myles Turner Postgame Media Availability | 11.23.26",
    "top_quote": "There's really no words for it. It's a testament to a lot of hard work and just a lot of patience and just me being myself. There's no question I've been struggling a bit to start the season, but to have a breakthrough like tonight was really big for my confidence and just a reminder of who I am in this league and what my strengths are.",
    "video_id": "rbN1OSgh3vo"
+  },
+  "tBmWoMR-R0Q": {
+   "channel": "Orlando Magic",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-27",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T02:41:13Z",
+   "run_id": "2026-11-28T0240Z-20utc",
+   "run_slot": "20utc",
+   "single_speaker": false,
+   "slot_date": "2026-11-27",
+   "speaker": "Coach Sweeney",
+   "title": "PRACTICE SOUND: COACH SWEENEY & KEVIN PORTER JR.  BY SAS",
+   "top_quote": "I think he's a guy who can create advantages on both sides of the ball. Offensively, he can get in the paint and make decisions. He's shown some playmaking ability throughout the course of his career and then defensively, he has been a very good on-ball defender and a guy who can give us some impact off the basketball as well. He's got good instincts, so offensively and defensively, he can help us create some advantages.",
+   "video_id": "tBmWoMR-R0Q"
   },
   "tEWB4xc9VeQ": {
    "channel": "Houston Rockets",

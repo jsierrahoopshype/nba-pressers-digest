@@ -1,0 +1,210 @@
+{
+  "video_title": "PRACTICE SOUND: COACH SWEENEY & KEVIN PORTER JR.  BY SAS",
+  "speakers_seen": [
+    "Coach Sweeney",
+    "Kevin Porter Jr."
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:10",
+      "summary_phrase": "Coach Sweeney on Kevin Porter Jr.'s two-way impact",
+      "names_mentioned": [
+        "Kevin Porter Jr."
+      ],
+      "excerpt": "I think he's a guy who can create advantages on both sides of the ball.",
+      "quote": "I think he's a guy who can create advantages on both sides of the ball. Offensively, he can get in the paint and make decisions. He's shown some playmaking ability throughout the course of his career and then defensively, he has been a very good on-ball defender and a guy who can give us some impact off the basketball as well. He's got good instincts, so offensively and defensively, he can help us create some advantages.",
+      "text_blocks": [],
+      "start_seconds": 10,
+      "end_seconds": 39,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Coach Sweeney on Kevin Porter Jr. joining the Magic: I think he is a guy who can create advantages on both sides of the ball. He has shown some playmaking ability and he has been a very good on ball defender.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Porter Jr."
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Coach Sweeney discusses the offensive and defensive skills Kevin Porter Jr. brings to the team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Coach Sweeney",
+      "timestamp": "00:43",
+      "summary_phrase": "Coach Sweeney on Kevin Porter Jr.'s return to play",
+      "names_mentioned": [
+        "Kevin Porter Jr."
+      ],
+      "excerpt": "We want to make sure that he's healthy, which he is, and practice today did a good job.",
+      "quote": "We're working with Arnie and the medical guys on that, but with him, we want to make sure that he's healthy, which he is, and practice today did a good job and then from there, we'll just ramp up.",
+      "text_blocks": [],
+      "start_seconds": 43,
+      "end_seconds": 58,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Coach Sweeney says the team is working with the medical staff to ramp up Kevin Porter Jr. now that he is healthy and back in practice.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevin Porter Jr."
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Coach Sweeney provides an update on Kevin Porter Jr.'s health and the plan to ramp up his activity.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Kevin Porter Jr.",
+      "timestamp": "04:05",
+      "summary_phrase": "Kevin Porter Jr. on choosing to sign with Orlando",
+      "names_mentioned": [
+        "Paolo Banchero"
+      ],
+      "excerpt": "I've always watched Orlando just off of him and I love the culture.",
+      "quote": "Number one, Paolo. You guys know already, I'm from Seattle, that's my little brother. When he got drafted here, I've always watched Orlando just off of him and I love the culture. I love the swag and the guys are all young, I'm young still, so it just seemed right and it seemed like the most suitable.",
+      "text_blocks": [],
+      "start_seconds": 245,
+      "end_seconds": 267,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Kevin Porter Jr. says his decision to sign with the Magic was largely driven by his relationship with Paolo Banchero: I am from Seattle, that is my little brother. When he got drafted here, I have always watched Orlando.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Paolo Banchero"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Kevin Porter Jr. explains his decision to sign with the Magic, citing his relationship with Paolo Banchero.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Kevin Porter Jr.",
+      "timestamp": "04:56",
+      "summary_phrase": "Kevin Porter Jr. on the energy he brings to Orlando",
+      "names_mentioned": [],
+      "excerpt": "The main thing is this energy. I'm a talented guy, but I think I just bring a lot of energy.",
+      "quote": "The main thing is this energy. I'm a talented guy, but I think I just bring a lot of energy, some swag, some culture. I'm trying to bring some gritty. These guys, they're young and they play fast already, they're defensive identity, so I think I'll just gel right in.",
+      "text_blocks": [],
+      "start_seconds": 296,
+      "end_seconds": 315,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Kevin Porter Jr. on what he brings to the Magic: I am a talented guy, but I think I just bring a lot of energy, some swag, some culture. I am trying to bring some gritty.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Kevin Porter Jr. describes the energy and identity he hopes to bring to the young Orlando roster.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Kevin Porter Jr.",
+      "timestamp": "07:34",
+      "summary_phrase": "Kevin Porter Jr. on Orlando's potential to win",
+      "names_mentioned": [],
+      "excerpt": "You can see that they're building the foundation, they're ready to turn the page as when it comes to winning.",
+      "quote": "These guys are fun. Every game I've watched it was fun to watch, exciting. You can see that they're building the foundation, they're ready to turn the page as when it comes to winning. In my career, I want to win. I've been on fun teams too, but they were losing and I'm ready to come here and contribute to winning and I think that's the next step for us in this organization.",
+      "text_blocks": [],
+      "start_seconds": 454,
+      "end_seconds": 482,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Kevin Porter Jr. is ready to win in Orlando: I have been on fun teams too, but they were losing and I am ready to come here and contribute to winning and I think that is the next step for us in this organization.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [],
+        "context": "Kevin Porter Jr. shares his desire to contribute to winning basketball with the Orlando organization.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Kevin Porter Jr.",
+      "timestamp": "08:05",
+      "summary_phrase": "Kevin Porter Jr. on his direct relationship with Coach Sweeney",
+      "names_mentioned": [
+        "Coach Sweeney"
+      ],
+      "excerpt": "He's a straight shooter, man. I love him already. He's direct.",
+      "quote": "He's a straight shooter, man. I love him already. He's direct. He just told me to be me, come in and be me and just have zero expectations really but to buy in to what the team is and that was easy. I'm glad that he welcomed me with open arms and I'm ready to be me in the building.",
+      "text_blocks": [],
+      "start_seconds": 485,
+      "end_seconds": 508,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 5,
+      "social_post": "Kevin Porter Jr. on his early impressions of Coach Sweeney: He is a straight shooter, man. I love him already. He is direct. He just told me to be me.",
+      "team": "Orlando Magic",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Coach Sweeney"
+        ],
+        "teams": [
+          "ORL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Kevin Porter Jr. reflects on his initial interactions with Coach Sweeney and the coach's expectations for him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: practice",
+  "format": "ytq-1",
+  "video_id": "tBmWoMR-R0Q",
+  "url": "https://www.youtube.com/watch?v=tBmWoMR-R0Q",
+  "channel_team": "Orlando Magic",
+  "published": "2026-11-27T23:00:22Z",
+  "duration_seconds": 595,
+  "processed_at": "2026-11-28T02:41:13Z",
+  "run_id": "2026-11-28T0240Z-20utc",
+  "is_one_off": false
+}

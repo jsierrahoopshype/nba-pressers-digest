@@ -1,0 +1,180 @@
+{
+  "video_title": "LIVE: Pelicans vs. Clippers Pregame w/ Jamahl Mosley 11/27/2026",
+  "speakers_seen": [
+    "Jamahl Mosley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "03:31",
+      "summary_phrase": "Jamahl Mosley on the benefits of recent practice time",
+      "names_mentioned": [],
+      "excerpt": "the ability to get back on the floor together, actually have a real practice",
+      "quote": "It's been great. The ability to get back on the floor together, actually have a real practice where guys can go against each other, compete a little bit. Then the recovery side of it, being able to not have five in seven nights where you're traveling a little bit. So the ability to get these guys on the court has been great.",
+      "text_blocks": [],
+      "start_seconds": 211,
+      "end_seconds": 235,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the Pelicans have benefited from recent practice time, noting the ability to get back on the floor and compete has been great for the group.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the benefits of having recent practice time and recovery for his team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:06",
+      "summary_phrase": "Jamahl Mosley on Zion Williamson's aggressive scoring mindset",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "I love that aggression and assertiveness.",
+      "quote": "I love that aggression and assertiveness. Obviously, it's our job to put him in positions to be successful, then also realizing and taking what the game gives him. I think those are the key pieces because there's a lot of times teams switch on him. We've got to do a good job of finding him down in those positions and those situations. Teams are going to go under on him. Reading the defense and being able to step in and take the shot. I think those are times and opportunities to be aggressive, so it's a two-part deal. Being able to find the switch and then we've got to see the switch. Then the other side of it is when the game gives you something, take it.",
+      "text_blocks": [],
+      "start_seconds": 246,
+      "end_seconds": 295,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley on Zion Williamson's scoring: It is a two-part deal. We have to put him in positions to be successful, and he has to read the defense and take what the game gives him.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses Zion Williamson's aggressive scoring mindset and how the team needs to support him against defensive switches.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "04:51",
+      "summary_phrase": "Jamahl Mosley on Trent Wallace's impact on team chemistry",
+      "names_mentioned": [
+        "Trent Wallace"
+      ],
+      "excerpt": "He's a guy that brings this group together, his voice, his care factor is at a high level.",
+      "quote": "Energy, toughness. He's a guy that brings this group together, his voice, his care factor is at a high level. And he's a young man on this roster that does that for this entire group.",
+      "text_blocks": [],
+      "start_seconds": 291,
+      "end_seconds": 304,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Jamahl Mosley praises Trent Wallace for his impact on team chemistry, highlighting his energy, toughness, and high care factor as a young leader on the roster.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trent Wallace"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach Jamahl Mosley praises Trent Wallace for his energy, toughness, and positive impact on team chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:16",
+      "summary_phrase": "Jamahl Mosley on improving defensive intensity against the Clippers",
+      "names_mentioned": [
+        "Brandon Ingram"
+      ],
+      "excerpt": "Our level of aggression and physical pressure needs to be better.",
+      "quote": "Our level of aggression and physical pressure needs to be better. I think they got where they wanted to on the floor too easily, and so we've got to make sure that we're setting the tone from the beginning of the game. And I think that's the thing, reading the defense but also knowing exactly how we're covering things and making sure we're communicating at a high level, that we follow the game plan fully.",
+      "text_blocks": [],
+      "start_seconds": 316,
+      "end_seconds": 345,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley says the Pelicans need to improve their defensive intensity against the Clippers, noting they must set the tone from the beginning of the game.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "NOP",
+          "LAC"
+        ],
+        "topics": [],
+        "context": "Head coach Jamahl Mosley discusses the need for improved defensive intensity and communication ahead of the game against the Clippers.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jamahl Mosley",
+      "timestamp": "05:48",
+      "summary_phrase": "Jamahl Mosley on Eve's defensive impact and rim protection",
+      "names_mentioned": [
+        "Eve"
+      ],
+      "excerpt": "his size, his length, his defensive focus has been great for us.",
+      "quote": "Well, you know, since he's been back, our ability to protect the rim, the rotations, being able to see things on the floor, it's so his size, his length, his defensive focus has been great for us. So I think being able to match there is going to be good.",
+      "text_blocks": [],
+      "start_seconds": 348,
+      "end_seconds": 367,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jamahl Mosley credits Eve for his defensive impact and rim protection, noting his size, length, and focus have been great for the team since his return.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Eve"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Head coach Jamahl Mosley discusses the defensive impact and rim protection provided by Eve since his return to the lineup.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: pregame",
+  "format": "ytq-1",
+  "video_id": "orcSwrQXgB4",
+  "url": "https://www.youtube.com/watch?v=orcSwrQXgB4",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-28T01:07:19Z",
+  "duration_seconds": 394,
+  "processed_at": "2026-11-28T02:40:53Z",
+  "run_id": "2026-11-28T0240Z-20utc",
+  "is_one_off": false
+}
