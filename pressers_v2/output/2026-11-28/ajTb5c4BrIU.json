@@ -1,0 +1,149 @@
+{
+  "video_title": "Will Hardy talks about having Jusuf Nurkic back, Kyle Filipowski vs. Denver",
+  "speakers_seen": [
+    "Will Hardy"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Will Hardy",
+      "timestamp": "00:00",
+      "summary_phrase": "Will Hardy on the team's late-game execution and physicality",
+      "names_mentioned": [],
+      "excerpt": "late game execution was poor and we gave into physicality",
+      "quote": "So many positives tonight. Obviously, having Nurk back was nice and I thought the guys competed. Late game execution was poor and we gave into physicality. We didn't change ends, gave up too many layups, too many lapses. Got to stay in the moment and compete. The game's 48 minutes long, takes a lot of mental conditioning to get to the end, and we have to step it up. Playing a lot of good basketball and the end of the game is certainly not up to our standard.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 34,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Will Hardy says the Jazz late game execution was poor and the team gave into physicality. He noted that playing 48 minutes takes mental conditioning and the current finish is not up to their standard.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy discusses the team's late-game execution and lack of physicality following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Will Hardy",
+      "timestamp": "00:48",
+      "summary_phrase": "Will Hardy on Jusuf Nurkic's impact on off-ball movement",
+      "names_mentioned": [
+        "Jusuf Nurkic"
+      ],
+      "excerpt": "he does such a good job of holding people off, fighting for his spot",
+      "quote": "Everybody knows that if they're open, they get it. He does such a good job of holding people off, fighting for his spot. Sets a lot of great screens when guys come off handoffs, thought he made a lot of great reads to cutters. It's a different style, so we got to keep refining it.",
+      "text_blocks": [],
+      "start_seconds": 48,
+      "end_seconds": 69,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Will Hardy on Jusuf Nurkic returning to the lineup. He praised his ability to hold off defenders and set screens for cutters, noting the team is still refining their style around him.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jusuf Nurkic"
+        ],
+        "teams": [
+          "UTA",
+          "PHX"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Will Hardy explains how Jusuf Nurkic impacts the team's offensive flow and screen setting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Will Hardy",
+      "timestamp": "01:16",
+      "summary_phrase": "Will Hardy on the performance of Svi Mykhailiuk and Kyle Filipowski",
+      "names_mentioned": [
+        "Svi Mykhailiuk",
+        "Kyle Filipowski",
+        "Aaron Gordon"
+      ],
+      "excerpt": "his size and rebounding was helping us against Aaron Gordon",
+      "quote": "I thought they both had good games. Svi was giving us a good amount on both sides, his activity was great. I thought that Flip, his size and rebounding was helping us against Aaron Gordon. He also made a couple of nice plays in the pocket. I thought they both deserved to finish.",
+      "text_blocks": [],
+      "start_seconds": 76,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Will Hardy liked what he saw from Svi Mykhailiuk and Kyle Filipowski tonight. He specifically pointed to Flip using his size and rebounding to help against Aaron Gordon.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Svi Mykhailiuk",
+          "Kyle Filipowski",
+          "Aaron Gordon"
+        ],
+        "teams": [
+          "UTA",
+          "DEN"
+        ],
+        "topics": [],
+        "context": "Will Hardy evaluates the performance of Svi Mykhailiuk and Kyle Filipowski against the Denver Nuggets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Will Hardy",
+      "timestamp": "01:42",
+      "summary_phrase": "Will Hardy on the need for increased team toughness",
+      "names_mentioned": [],
+      "excerpt": "we need to toughen up. We give into physicality at the end",
+      "quote": "We need to toughen up. We give into physicality at the end. I think our ball handling and passing gets sloppy, not fighting for our space, not changing ends with urgency. Not all mistakes are equal. Giving up a layup with 90 seconds left, there's not as much time to make up for it. We need to dig in and fight for our focus at the end.",
+      "text_blocks": [],
+      "start_seconds": 102,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Will Hardy says the Jazz need to toughen up. He noted that the team gives into physicality late in games and that their ball handling and passing gets sloppy when it matters most.",
+      "team": "Utah Jazz",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "UTA"
+        ],
+        "topics": [],
+        "context": "Will Hardy emphasizes the need for his team to improve their physical toughness and focus during the final minutes of games.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: talks",
+  "format": "ytq-1",
+  "video_id": "ajTb5c4BrIU",
+  "url": "https://www.youtube.com/watch?v=ajTb5c4BrIU",
+  "channel_team": "Utah Jazz",
+  "published": "2026-11-28T05:29:23Z",
+  "duration_seconds": 149,
+  "processed_at": "2026-11-28T06:07:08Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

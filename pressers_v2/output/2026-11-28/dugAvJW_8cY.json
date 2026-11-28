@@ -1,0 +1,190 @@
+{
+  "video_title": "Robert Williams III Postgame Interview | Portland Trail Blazers 116, GS Warriors 94 | Nov. 27, 2026",
+  "speakers_seen": [
+    "Robert Williams III"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Robert Williams III",
+      "timestamp": "00:08",
+      "summary_phrase": "Robert Williams III on the Blazers' motivation for the In-Season Tournament",
+      "names_mentioned": [],
+      "excerpt": "obviously making it to the in-season tournament means a lot, but more so just winning for us",
+      "quote": "Obviously we are trying to get to that chicken, that money for sure. But we are just trying to keep winning. All jokes aside, winning the right way. Obviously making it to the in-season tournament means a lot, but more so just winning for us.",
+      "verbatim_original_language": "",
+      "start_seconds": 8,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 8,
+      "social_post": "Robert Williams III on the Blazers motivation for the In Season Tournament: Obviously we are trying to get to that chicken, that money for sure. But we are just trying to keep winning.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Robert Williams III discusses the team's motivation regarding the NBA In-Season Tournament.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Robert Williams III",
+      "timestamp": "00:40",
+      "summary_phrase": "Robert Williams III on the bitter taste of the previous loss to Memphis",
+      "names_mentioned": [],
+      "excerpt": "still got a bitter taste in our mouth about how that game ended",
+      "quote": "Obviously it added a little fire to it. Still got a bitter taste in our mouth about how that game ended. But like I said, we are just playing to win, put ourselves in a great position. I don't know how it goes, the stuff is tricky, but I think we get home advantage. So those are the type of things we play for, those are the type of things we push for, and just ready to play, ready to have a good game.",
+      "verbatim_original_language": "",
+      "start_seconds": 40,
+      "end_seconds": 72,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Robert Williams III says the loss to Memphis added fire to the team and they are pushing to secure home court advantage for the tournament.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Robert Williams III reflects on the team's previous loss to the Memphis Grizzlies and their focus on securing home-court advantage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Robert Williams III",
+      "timestamp": "01:18",
+      "summary_phrase": "Robert Williams III on the team's reaction to the Grizzlies' comeback attempt",
+      "names_mentioned": [],
+      "excerpt": "we knew they would make a run. Obviously we didn't want them to make that big of a run",
+      "quote": "It was a natural human reaction and just relax. You know what I am saying? We knew they would make a run. Obviously we didn't want them to make that big of a run. But just relaxing, man, it is something we are trying to get out of. Like I said, obviously we are looking to be in the mid-season tournament, but it was more about winning to our standards. So we kind of had to buckle the seatbelt back up and just lock in.",
+      "verbatim_original_language": "",
+      "start_seconds": 78,
+      "end_seconds": 111,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Robert Williams III on the team needing to stop relaxing during runs: We kind of had to buckle the seatbelt back up and just lock in.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Robert Williams III explains how the team handled a comeback attempt by the opponent during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Robert Williams III",
+      "timestamp": "01:46",
+      "summary_phrase": "Robert Williams III on the team's resilience and fighting spirit",
+      "names_mentioned": [],
+      "excerpt": "the way we respond to being down, to adversity, the way we respond to our coaches",
+      "quote": "Honestly, the way we respond. Obviously you don't want to always have to be a responsive team in this league. You don't want to get hit in the mouth first. But the way we respond, man, to being down, to adversity, the way we respond to our coaches and the way they respond to us is everything all around. It is a fighting team.",
+      "verbatim_original_language": "",
+      "start_seconds": 106,
+      "end_seconds": 131,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Robert Williams III on the Blazers resilience: You do not want to get hit in the mouth first, but the way we respond to adversity is everything. It is a fighting team.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Robert Williams III praises the team's resilience and their ability to respond to adversity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Robert Williams III",
+      "timestamp": "02:14",
+      "summary_phrase": "Robert Williams III on the team's collective defensive identity",
+      "names_mentioned": [],
+      "excerpt": "I feel like we got great defensive players all around. I feel like we ensure each other",
+      "quote": "I feel like we got great defensive players all around. I feel like we ensure each other that we have each other's back. Like I said, I feel like we play great individual defense, but it is a different level of confidence when you know everybody around you is ready to rotate and ready to be on the same page.",
+      "verbatim_original_language": "",
+      "start_seconds": 134,
+      "end_seconds": 157,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Robert Williams III on the Blazers defensive identity: It is a different level of confidence when you know everybody around you is ready to rotate and ready to be on the same page.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Robert Williams III describes the team's defensive identity and the importance of collective rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Robert Williams III",
+      "timestamp": "02:39",
+      "summary_phrase": "Robert Williams III on his decision to return to the Trail Blazers",
+      "names_mentioned": [],
+      "excerpt": "I seen the plan getting put together. When all of us are healthy, on the court",
+      "quote": "Yeah, we are 100%. You know, I seen the plan getting put together. When all of us are healthy, on the court, I want to say I seen it in the summer, but I can't see into the future. But you know, this is the track that I seen us going on. We let a couple games slip away, but like I said, we focus on winning.",
+      "verbatim_original_language": "",
+      "start_seconds": 159,
+      "end_seconds": 185,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Robert Williams III on the Blazers potential: I seen the plan getting put together. When all of us are healthy, on the court, this is the track that I seen us going on.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Robert Williams III discusses his belief in the team's trajectory and the plan he saw during the summer.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "dugAvJW_8cY",
+  "url": "https://www.youtube.com/watch?v=dugAvJW_8cY",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-28T05:48:13Z",
+  "duration_seconds": 220,
+  "processed_at": "2026-11-28T06:06:43Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

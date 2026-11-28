@@ -1,0 +1,209 @@
+{
+  "video_title": "“We Lost The Battle Of The Boards Which Lost Us The Game.” | Chris Finch Postgame Sound | 11.27.26",
+  "speakers_seen": [
+    "Chris Finch"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Chris Finch",
+      "timestamp": "00:11",
+      "summary_phrase": "Chris Finch on Timberwolves' offensive struggles without Karl-Anthony Towns",
+      "names_mentioned": [
+        "Karl-Anthony Towns"
+      ],
+      "excerpt": "everyone tried to do too much offensively. We put our head down, went to the crowd",
+      "quote": "I think it was a case where everyone tried to do too much offensively. We put our head down, went to the crowd and we missed a lot of easy baskets. We are not going to have a centralized playmaker with Karl-Anthony Towns on the floor, so we have to make plays that are there. There were a lot of them at halftime I thought that we should have made, and we didn't. We paid for that. It led to turnovers and offensive rebounds that killed us. They had 18 more shots than us. Regardless of whether we were dealing with an injury or a mindset reset, you cannot have a team take 18 more shots than you.",
+      "text_blocks": [],
+      "start_seconds": 11,
+      "end_seconds": 56,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Chris Finch says the Timberwolves struggled offensively because players tried to do too much without Karl Anthony Towns. He noted the team gave up 18 more shots than Memphis due to turnovers and offensive rebounds.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Karl-Anthony Towns"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch discusses the team's offensive struggles and ball movement in the absence of Karl-Anthony Towns.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Chris Finch",
+      "timestamp": "01:02",
+      "summary_phrase": "Chris Finch on Rudy Gobert's performance and team rotation",
+      "names_mentioned": [
+        "Rudy Gobert",
+        "Johan"
+      ],
+      "excerpt": "I don't think so. Maybe we missed a few layups, but I don't know if that was fatigue or not.",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Rudy played 35 minutes, 34 minutes, so that's kind of... he was the only guy who was in the negative side of the plus-minus column. I don't think it was an expense of Johan. It just seemed like you guys were laboring, you seemed exhausted the way you were trying to score to some extent. And with Memphis running 11 guys out there, it seemed like a pretty consistent almost like hockey line changes. Did they wear you down, do you think in that respect?"
+        },
+        {
+          "speaker": "Chris Finch",
+          "text": "I don't think so. Maybe we missed a few layups, but I don't know if that was fatigue or not."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Chris Finch"
+      ],
+      "reporter_split": true,
+      "start_seconds": 62,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch dismissed the idea that fatigue from Memphis playing 11 guys caused the Timberwolves to struggle offensively, noting that missed layups were the bigger issue.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Rudy Gobert"
+        ],
+        "teams": [
+          "MIN",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Chris Finch responds to a question regarding Rudy Gobert's performance and whether the opponent's rotation depth caused fatigue.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Chris Finch",
+      "timestamp": "02:00",
+      "summary_phrase": "Chris Finch on Memphis Grizzlies' offensive rebounding dominance",
+      "names_mentioned": [],
+      "excerpt": "they just get us every ball, even when we were able to get stops",
+      "quote": "They just get us every ball, even when we were able to get stops, they beat us to the ball.",
+      "text_blocks": [],
+      "start_seconds": 120,
+      "end_seconds": 128,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Chris Finch on the rebounding battle against Memphis: They just get us every ball, even when we were able to get stops, they beat us to the ball.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN",
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Chris Finch comments on the Memphis Grizzlies' dominance in rebounding during the postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Chris Finch",
+      "timestamp": "02:16",
+      "summary_phrase": "Chris Finch on Timberwolves' need for better passing and ball movement",
+      "names_mentioned": [
+        "Karl-Anthony Towns"
+      ],
+      "excerpt": "we need to make the right play. There were guys open I thought when we go",
+      "quote": "We need to make the right play. There were guys open I thought when we go to the paint, guys were open. What led to not generating as many shots is we didn't make the right pass. If you go back and watch this game, there were players open all over the floor, I promise you that.",
+      "text_blocks": [],
+      "start_seconds": 136,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Chris Finch says the Timberwolves failed to generate enough shots because they did not make the right pass. He insists there were open players all over the floor throughout the game.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains that the team failed to generate enough shots because they did not make the correct passes to open teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Chris Finch",
+      "timestamp": "03:24",
+      "summary_phrase": "Chris Finch on impact of foul trouble on team depth",
+      "names_mentioned": [
+        "TJ",
+        "Jaden"
+      ],
+      "excerpt": "When guys are racking up fouls like that, how kind of devastating is that when you're already short-handed?",
+      "quote": "",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "TJ plays 11 minutes in the first half, three fouls. Jaden plays 14, three fouls."
+        },
+        {
+          "speaker": "Chris Finch",
+          "text": "When guys are racking up fouls like that, how kind of devastating is that when you're already short-handed? It's definitely a killer because we need the depth. We need to be able to get to the rotations at this stage. And we need Zion and we need our deep bench guys to play like their hair's on fire."
+        }
+      ],
+      "speakers": [
+        "Unidentified reporter",
+        "Chris Finch"
+      ],
+      "reporter_split": true,
+      "start_seconds": 204,
+      "end_seconds": 232,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Chris Finch calls the early foul trouble for TJ and Jaden a killer for a short handed Timberwolves rotation. He says the bench needs to play like their hair is on fire.",
+      "team": "Minnesota Timberwolves",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "TJ",
+          "Jaden",
+          "Zion"
+        ],
+        "teams": [
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Chris Finch explains how foul trouble for key players impacts the team's depth and rotation strategy.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "25PwnxMIZRA",
+  "url": "https://www.youtube.com/watch?v=25PwnxMIZRA",
+  "channel_team": "Minnesota Timberwolves",
+  "published": "2026-11-28T06:05:44Z",
+  "duration_seconds": 245,
+  "processed_at": "2026-11-28T06:06:27Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

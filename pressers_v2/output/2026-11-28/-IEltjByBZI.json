@@ -1,0 +1,266 @@
+{
+  "video_title": "Post Game Press Conference l J.B. Bickerstaff l Pistons vs Bucks  l 11.27.26 #NBA",
+  "speakers_seen": [
+    "J.B. Bickerstaff"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:06",
+      "summary_phrase": "J.B. Bickerstaff credits the second unit for changing the game's momentum",
+      "names_mentioned": [],
+      "excerpt": "I thought those guys came in and did a phenomenal job of just changing the tide for us.",
+      "quote": "The second unit. I thought those guys came in and did a phenomenal job of just changing the tide for us. Their effort defensively, the way they were moving the ball, sharing the ball, but I thought they were the difference tonight.",
+      "verbatim_original_language": "",
+      "start_seconds": 6,
+      "end_seconds": 22,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff credited the Pistons second unit for changing the momentum in tonight win saying they were the difference makers on both ends of the floor",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Head coach J.B. Bickerstaff discusses the impact of the second unit on the game's momentum.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "00:23",
+      "summary_phrase": "J.B. Bickerstaff praises Elijah's competitiveness and fit with the Pistons",
+      "names_mentioned": [
+        "Elijah"
+      ],
+      "excerpt": "He's a competitor. He fits right in with who we are.",
+      "quote": "He's a competitor. He fits right in with who we are. The dogginess to him, the grit to him, the way he just gets after you defensively and then obviously the ability to create on the offensive end of the floor, but to me it's more about his character and his spirit, and he fits Detroit Pistons basketball.",
+      "verbatim_original_language": "",
+      "start_seconds": 23,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "JB Bickerstaff on Elijah: He fits right in with who we are. The dogginess to him, the grit to him, the way he just gets after you defensively, he fits Detroit Pistons basketball",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Elijah"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff praises the character and playing style of Elijah.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:00",
+      "summary_phrase": "J.B. Bickerstaff explains how Elijah stays engaged while not playing",
+      "names_mentioned": [
+        "Elijah"
+      ],
+      "excerpt": "He stays engaged. I can't tell you the amount of conversations that he and I have had.",
+      "quote": "He stays engaged. I can't tell you the amount of conversations that he and I have had even when he hasn't been playing. He'll text me, he comes to my office, so he's engaged in what's going on, and that's how you give yourself a chance. The work speaks for itself, but being in the moment, being engaged so that when your opportunity does come, you don't have to be reined in and focused in, and he's done that since he's been here.",
+      "verbatim_original_language": "",
+      "start_seconds": 60,
+      "end_seconds": 92,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff on Elijah staying ready: I cannot tell you the amount of conversations that he and I have had even when he has not been playing. He will text me, he comes to my office, so he is engaged in what is going on",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Elijah"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains how Elijah maintains his engagement with the team even when he is not in the rotation.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "01:33",
+      "summary_phrase": "J.B. Bickerstaff on the value of the in-season tournament experience",
+      "names_mentioned": [],
+      "excerpt": "To be able to get an opportunity with this group to continue to do things we haven't done.",
+      "quote": "It's great for us. We talked about it beforehand as a group, it's something that we hadn't done before. So to be able to get an opportunity with this group to continue to do things that we haven't done in the past is great for us to give us different experiences, which is really good for us to help us build to where we ultimately want to go.",
+      "verbatim_original_language": "",
+      "start_seconds": 93,
+      "end_seconds": 119,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff says the in season tournament experience is great for the Pistons group to help them build toward their ultimate goals",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff reflects on the value of the in-season tournament experience for his team.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "02:04",
+      "summary_phrase": "J.B. Bickerstaff on the team's collective leadership approach",
+      "names_mentioned": [],
+      "excerpt": "Our guys are all leaders. We don't just call on one person or two people to lead.",
+      "quote": "Our guys are all leaders. We don't just call on one person or two people to lead this team. Everyone on our team has a voice, and when you're in that situation, because guys are out, it doesn't feel like there's a void that has to be filled. It's something that's already natural. So giving guys the power to speak, to use their voice, the guys are understanding who we are and what we're made of and how they hold each other accountable to the standard that we have, it's just not a one-person job.",
+      "verbatim_original_language": "",
+      "start_seconds": 124,
+      "end_seconds": 161,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "JB Bickerstaff on team leadership: Our guys are all leaders. We do not just call on one person or two people to lead this team. Everyone on our team has a voice",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff describes the team's collective approach to leadership.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:01",
+      "summary_phrase": "J.B. Bickerstaff on the importance of finding consistent five-man lineups",
+      "names_mentioned": [
+        "Paul Reed"
+      ],
+      "excerpt": "It comes down to the five-man lineups for us and making sure we're trying to figure out.",
+      "quote": "It comes down to the five-man lineups for us and making sure we're trying to figure out who those lineups are consistently. And then on any given night, you got to play the 48 minutes. And to be able to have a guy that you know you can depend on, that can spark the game or change the game the way Paul Reed does, it just gives us the flexibility to be able to do that and use him as a weapon in that way.",
+      "verbatim_original_language": "",
+      "start_seconds": 181,
+      "end_seconds": 214,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff on Paul Reed: To be able to have a guy that you know you can depend on, that can spark the game or change the game the way Paul Reed does, it just gives us the flexibility to be able to do that",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Paul Reed"
+        ],
+        "teams": [
+          "DET"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "J.B. Bickerstaff discusses the importance of finding consistent lineups and utilizing Paul Reed as a spark off the bench.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "03:50",
+      "summary_phrase": "J.B. Bickerstaff on tracking in-game scenarios and team performance",
+      "names_mentioned": [],
+      "excerpt": "We've got guys on the bench that have the capabilities of understanding what the scores are.",
+      "quote": "We do. And we've got guys on the bench that have the capabilities of understanding what the scores are. Going into it, we knew where we were as far as Toronto was concerned. We knew the number that we had to be at, but we had people tracking it to see who was where and what and what we needed to do at any given moment.",
+      "verbatim_original_language": "",
+      "start_seconds": 230,
+      "end_seconds": 255,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "JB Bickerstaff explains that the coaching staff actively tracks in game scenarios and score differentials to know exactly what the team needs to do at any given moment",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET",
+          "TOR"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff explains how the coaching staff tracks in-game scenarios and point differentials against Toronto.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "J.B. Bickerstaff",
+      "timestamp": "04:38",
+      "summary_phrase": "J.B. Bickerstaff on the benefits of trusting the entire roster",
+      "names_mentioned": [
+        "Elijah",
+        "Chaz Lanier",
+        "Isaiah Joe"
+      ],
+      "excerpt": "The biggest thing is we have guys here that we trust, and that's the most important thing.",
+      "quote": "The biggest thing is we have guys here that we trust, and that's the most important thing is everyone on that roster and in that locker room, we know they can help us be successful. So you're not looking and doubting who you're going to put on the floor. But the only thing that helps you get better is game minutes. It gives individuals an opportunity to get better, which ultimately is going to help your team. But our goal is to be whole at some point. We want to see how good this team can be when we put all our pieces together, and we can still use that depth as a weapon.",
+      "verbatim_original_language": "",
+      "start_seconds": 278,
+      "end_seconds": 320,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "JB Bickerstaff on the Pistons roster: The biggest thing is we have guys here that we trust. Our goal is to be whole at some point. We want to see how good this team can be when we put all our pieces together",
+      "team": "Detroit Pistons",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "DET"
+        ],
+        "topics": [],
+        "context": "J.B. Bickerstaff discusses the benefits of trusting the entire roster and the importance of game minutes for development.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "-IEltjByBZI",
+  "url": "https://www.youtube.com/watch?v=-IEltjByBZI",
+  "channel_team": "Detroit Pistons",
+  "published": "2026-11-28T05:41:46Z",
+  "duration_seconds": 320,
+  "processed_at": "2026-11-28T06:07:00Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

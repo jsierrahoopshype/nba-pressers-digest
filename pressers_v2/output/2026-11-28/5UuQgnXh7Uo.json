@@ -1,0 +1,150 @@
+{
+  "video_title": "Naji Marshall Postgame Interview | Mavericks at Suns | Nov. 27, 2026",
+  "speakers_seen": [
+    "Naji Marshall"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Naji Marshall",
+      "timestamp": "00:00",
+      "summary_phrase": "Naji Marshall on Mavericks' fourth-quarter comeback and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "Most of the part we just stick together. Stuck to the team principles.",
+      "quote": "Most of the part we just stick together. Stuck to the team principles. A lot of time when games get like that, people start to just do their own thing and we just stuck together, stuck to the game plan and like I said, went on a run and came back.",
+      "verbatim_original_language": "",
+      "start_seconds": 0,
+      "end_seconds": 20,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Naji Marshall on the Mavericks comeback win: We just stuck together and stuck to the game plan when the game got tight.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Naji Marshall discusses the Mavericks' ability to stick to the game plan during a fourth-quarter comeback.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Naji Marshall",
+      "timestamp": "00:31",
+      "summary_phrase": "Naji Marshall on team resilience without Kyrie Irving and Luka Doncic",
+      "names_mentioned": [
+        "Kyrie Irving",
+        "Luka Doncic",
+        "Jason Kidd"
+      ],
+      "excerpt": "We're building a culture over here and the standard is the standard.",
+      "quote": "We're just a good team, no matter who's playing. We're building a culture over here and the standard is the standard. Shout out to Jason Kidd for just trusting us and shout out to Kyrie Irving for trusting us. Rest him up, he's an old head now, so just to be able to get him back next game fresh after the three or four days off is a beautiful thing to see and we just look forward to winning the next game.",
+      "verbatim_original_language": "",
+      "start_seconds": 31,
+      "end_seconds": 63,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 7,
+      "social_post": "Naji Marshall on Kyrie Irving sitting out: Rest him up, he is an old head now, so to be able to get him back next game fresh after the time off is a beautiful thing to see.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jason Kidd",
+          "Kyrie Irving"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Naji Marshall comments on the team culture and the importance of resting Kyrie Irving.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Naji Marshall",
+      "timestamp": "01:20",
+      "summary_phrase": "Naji Marshall on Max Christie's consistent focus in clutch time",
+      "names_mentioned": [
+        "Max Christie"
+      ],
+      "excerpt": "Max just chooses to stay locked in every day, continues to work upon his game.",
+      "quote": "Max just chooses to stay locked in every day, continues to work upon his game and show up for his teammates no matter if he's playing, not playing, the game's going good for him or not. And it's just a testimony to just staying down, continuing to work.",
+      "verbatim_original_language": "",
+      "start_seconds": 80,
+      "end_seconds": 98,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Naji Marshall praises Max Christie for his consistency: He just chooses to stay locked in every day and continues to work upon his game no matter what.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Max Christie"
+        ],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Naji Marshall praises Max Christie for his consistent work ethic and focus.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Naji Marshall",
+      "timestamp": "01:43",
+      "summary_phrase": "Naji Marshall on Mavericks' successful three-game road trip",
+      "names_mentioned": [],
+      "excerpt": "That three-game losing streak didn't sit too well with us and we know we're better than that.",
+      "quote": "I think it's just a testimony to the culture we're building. Guys are locked in. That three-game losing streak didn't sit too well with us and we know we're better than that and we just came on this road trip and a couple other games to prove it.",
+      "verbatim_original_language": "",
+      "start_seconds": 103,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Naji Marshall on the Mavericks road trip: That three game losing streak did not sit too well with us and we came on this road trip to prove we are better than that.",
+      "team": "Dallas Mavericks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "DAL"
+        ],
+        "topics": [],
+        "context": "Naji Marshall reflects on the team's successful road trip following a recent losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "5UuQgnXh7Uo",
+  "url": "https://www.youtube.com/watch?v=5UuQgnXh7Uo",
+  "channel_team": "Dallas Mavericks",
+  "published": "2026-11-28T05:51:58Z",
+  "duration_seconds": 132,
+  "processed_at": "2026-11-28T06:06:34Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

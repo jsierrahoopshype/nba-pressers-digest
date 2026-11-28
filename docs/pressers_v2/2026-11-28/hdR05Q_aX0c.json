@@ -1,0 +1,150 @@
+{
+  "video_title": "Steve Kerr addresses Warriors’ continued first-quarter struggles | NBC Sports Bay Area",
+  "speakers_seen": [
+    "Steve Kerr"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Steve Kerr",
+      "timestamp": "00:08",
+      "summary_phrase": "Steve Kerr on Warriors' recurring first-quarter struggles",
+      "names_mentioned": [],
+      "excerpt": "we're not bringing the necessary force and focus to start games",
+      "quote": "We're just, this has been a theme in the early part of the season here. We're not bringing the necessary force and focus to start games. We're getting killed in the first quarter over and over again. And so we've got to find the execution to deal with the pressure. So everything matters, especially when you're down the way we are with Steph and Jimmy. We have to execute, otherwise it's going to look like that at times. And so I don't think the execution is there yet.",
+      "text_blocks": [],
+      "start_seconds": 8,
+      "end_seconds": 42,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Steve Kerr says the Warriors are not bringing the necessary force and focus to start games. He notes the team is getting killed in the first quarter and must improve their execution to deal with defensive pressure.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Stephen Curry",
+          "Jimmy Butler"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr discusses the team's recurring first-quarter struggles and the impact of missing Stephen Curry and Jimmy Butler.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Steve Kerr",
+      "timestamp": "01:17",
+      "summary_phrase": "Steve Kerr on collective responsibility for Warriors' performance",
+      "names_mentioned": [],
+      "excerpt": "it's 100% on the Golden State Warriors. We're a team, so we figure things out together",
+      "quote": "It's us. It's 100% on the Golden State Warriors. We're a team, so we figure things out together. We collaborate. So it's on all of us. And that's what practice is for, that's what game film is for. And so I've got to do better, they've got to do better, and we're going to get there. I'm very confident that we will, but we're not there yet, clearly.",
+      "text_blocks": [],
+      "start_seconds": 77,
+      "end_seconds": 103,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Steve Kerr on the Warriors early season struggles: It is 100 percent on us. We are a team so we figure things out together. I have got to do better and they have got to do better.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Steve Kerr takes responsibility for the team's poor performance and emphasizes the need for collective improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Steve Kerr",
+      "timestamp": "01:44",
+      "summary_phrase": "Steve Kerr provides update on Kevon Looney's knee injury",
+      "names_mentioned": [
+        "Kevon Looney"
+      ],
+      "excerpt": "he injured his right knee",
+      "quote": "He injured his right knee.",
+      "text_blocks": [],
+      "start_seconds": 104,
+      "end_seconds": 109,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Steve Kerr confirms Kevon Looney is dealing with a right knee injury.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Kevon Looney"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Steve Kerr provides a brief injury update regarding Kevon Looney's right knee.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Steve Kerr",
+      "timestamp": "02:02",
+      "summary_phrase": "Steve Kerr on team's increased reliance on Trayce Jackson-Davis",
+      "names_mentioned": [
+        "Trayce Jackson-Davis"
+      ],
+      "excerpt": "the ball's going to find Trayce, it's going to find the guy who can attack",
+      "quote": "That's how we were cutting harder and playing faster and more efficiently after the first quarter. And so when that happens, then the ball's going to find Trayce, it's going to find the guy who can attack. But in the first quarter, we were standing still, lazy cuts, poor screens, and then they're a really athletic defensive-minded team that can get after you, and they forced a bunch of turnovers. I think we must have had nine or 10 in the first quarter, and then only six or seven the rest of the game. So we've got to be ready, got to be more prepared to start the game.",
+      "text_blocks": [],
+      "start_seconds": 122,
+      "end_seconds": 164,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Steve Kerr says the Warriors were standing still and making lazy cuts in the first quarter. He emphasizes the team must be more prepared to start games to avoid the high turnover numbers they saw early on.",
+      "team": "Golden State Warriors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Trayce Jackson-Davis"
+        ],
+        "teams": [
+          "GSW"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Steve Kerr explains how the team's offensive efficiency improved and how it created more opportunities for Trayce Jackson-Davis.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "gemini",
+  "format": "ytq-1",
+  "video_id": "hdR05Q_aX0c",
+  "url": "https://www.youtube.com/watch?v=hdR05Q_aX0c",
+  "channel_team": "Golden State Warriors",
+  "published": "2026-11-28T05:56:32Z",
+  "duration_seconds": 179,
+  "processed_at": "2026-11-28T06:06:24Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

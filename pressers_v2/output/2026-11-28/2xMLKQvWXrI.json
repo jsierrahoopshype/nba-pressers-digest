@@ -1,0 +1,185 @@
+{
+  "video_title": "Scoot Henderson Postgame Interview | Portland Trail Blazers 116, GS Warriors 94 | Nov. 27, 2026",
+  "speakers_seen": [
+    "Scoot Henderson",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scoot Henderson",
+      "speakers": [
+        "Unidentified reporter",
+        "Scoot Henderson"
+      ],
+      "timestamp": "00:03",
+      "summary_phrase": "Scoot Henderson on Portland's defensive focus and team chemistry",
+      "names_mentioned": [
+        "Scoot Henderson"
+      ],
+      "excerpt": "Just trying to stay defensively sound, getting stops down the way, and just sticking together.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Scoot, you guys were up by 36 at one point. How were you guys able to hold on down the stretch for this win tonight?"
+        },
+        {
+          "speaker": "Scoot Henderson",
+          "text": "Just trying to stay defensively sound, getting stops down the way, and just sticking together."
+        }
+      ],
+      "start_seconds": 3,
+      "end_seconds": 18,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Scoot Henderson on the Blazers defensive mindset during their win over the Warriors: Just trying to stay defensively sound, getting stops down the way, and just sticking together.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson discusses Portland's defensive effort and team chemistry during their win against the Golden State Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scoot Henderson",
+      "speakers": [
+        "Unidentified reporter",
+        "Scoot Henderson"
+      ],
+      "timestamp": "00:22",
+      "summary_phrase": "Scoot Henderson on defensive strategy against Warriors' three-point shooting",
+      "names_mentioned": [],
+      "excerpt": "Knowing that they want to shoot threes, especially just down 20, down whatever much, want to get them up.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You were looking for your shot early and often. What were you seeing from the defense?"
+        },
+        {
+          "speaker": "Scoot Henderson",
+          "text": "I feel like just hacking the paint and knowing that they want to shoot threes, especially just down 20, down whatever much, want to get them up and try to close the lead."
+        }
+      ],
+      "start_seconds": 22,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Scoot Henderson on the defensive game plan against the Warriors: I feel like just hacking the paint and knowing that they want to shoot threes, especially down 20, want to get them up and try to close the lead.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR",
+          "GSW"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson explains his approach to attacking the paint against the Golden State Warriors' defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scoot Henderson",
+      "speakers": [
+        "Unidentified speaker",
+        "Scoot Henderson"
+      ],
+      "timestamp": "00:38",
+      "summary_phrase": "Scoot Henderson explains his fourth-quarter dunk against the Warriors",
+      "names_mentioned": [],
+      "excerpt": "I missed the last shot I took, so I said, 'Nah, this got to, I got to.'",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified speaker",
+          "text": "The beginning of that fourth, one of my favorite dunks of yours I can remember. Can you take us through that one?"
+        },
+        {
+          "speaker": "Scoot Henderson",
+          "text": "I missed the last shot I took, so I said, 'Nah, this got to, I got to.' You feel me? I got to get in that paint, so I pump-faked, he went for it, and then I was able to get down the lane and get one."
+        }
+      ],
+      "start_seconds": 38,
+      "end_seconds": 65,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "Scoot Henderson on his fourth quarter dunk: I missed the last shot I took, so I said, Nah, this got to, I got to. I got to get in that paint, so I pump-faked, he went for it, and then I was able to get down the lane and get one.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson describes his mindset and execution during a fourth-quarter dunk against the Golden State Warriors.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Scoot Henderson",
+      "speakers": [
+        "Unidentified reporter",
+        "Scoot Henderson"
+      ],
+      "timestamp": "00:58",
+      "summary_phrase": "Scoot Henderson on Portland clinching Emirates Cup group stage",
+      "names_mentioned": [],
+      "excerpt": "Let's do it. Let's win everything. Let's win what we came to do in this Emirates Cup.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "If they are able to hold on and win, that is the Spurs. You guys will clinch Group C. What will that mean to you?"
+        },
+        {
+          "speaker": "Scoot Henderson",
+          "text": "Let's do it. Let's win everything. Let's win what we came to do in this Emirates Cup, and yeah, let's get to it."
+        }
+      ],
+      "start_seconds": 58,
+      "end_seconds": 76,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Scoot Henderson on the Blazers potential to clinch their Emirates Cup group: Let's do it. Let's win everything. Let's win what we came to do in this Emirates Cup, and yeah, let's get to it.",
+      "team": "Portland Trail Blazers",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "POR"
+        ],
+        "topics": [],
+        "context": "Scoot Henderson shares his motivation regarding the team's potential to clinch the Emirates Cup group stage.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "2xMLKQvWXrI",
+  "url": "https://www.youtube.com/watch?v=2xMLKQvWXrI",
+  "channel_team": "Portland Trail Blazers",
+  "published": "2026-11-28T05:34:53Z",
+  "duration_seconds": 82,
+  "processed_at": "2026-11-28T06:06:58Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

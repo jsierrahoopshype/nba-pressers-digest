@@ -1,0 +1,707 @@
+{
+  "video_title": "Toronto Raptors Full Media Availability | Post Game vs Brooklyn Nets | November 27, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic",
+    "Immanuel Quickley",
+    "Scottie Barnes"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "00:12",
+      "summary_phrase": "Darko Rajakovic on team's resilience and growth",
+      "names_mentioned": [],
+      "excerpt": "seeing how guys were exhausted at the end of the game gives me a lot of confidence",
+      "quote": "I am really proud of how hard our guys are playing every single night. It is not just connected with the outcome when we win, but we really play very hard every single night and seeing how guys were exhausted at the end of the game, how guys were exhausted in the locker room, gives me a lot of confidence that this group is just going to continue getting better and improving. I really like the maturity of the team on the court and how we were attacking on offensive end, how we were finding solutions against switches, against some hedges, against some blitzes.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the Raptors' recent growth: I am really proud of how hard our guys are playing every single night. Seeing how exhausted they were in the locker room gives me confidence that this group is going to continue getting better.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the team's performance and resilience following the game against the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:12",
+      "summary_phrase": "Darko Rajakovic on the team's push for a play-in spot",
+      "names_mentioned": [],
+      "excerpt": "we knew that we needed to try to be above 20 at least, so we can get",
+      "quote": "We were trying to fight the margin. We knew that we needed to try to be above 20 at least, so we can get a wild card. Obviously waiting on other teams as well what they do, but just like guys had a lot of grit to to play all the way through and to to find those plus extra four points.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the team's late game push: We knew that we needed to try to be above 20 at least so we can get a wild card. The guys had a lot of grit to play all the way through and find those plus extra four points.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic explains the team's tactical approach to managing point differentials during the game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vNlsa9zuBRQ",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:45",
+      "summary_phrase": "Darko Rajakovic on Immanuel Quickley and Scottie Barnes' offensive chemistry",
+      "names_mentioned": [
+        "Immanuel Quickley",
+        "Scottie Barnes"
+      ],
+      "excerpt": "our two main offensive engines at this point are Immanuel Quickley and Scottie Barnes",
+      "quote": "Our two main offensive engines at this point are Immanuel Quickley and Scottie Barnes and we are really trying to develop package offensively what those guys can accomplish. I thought that Immanuel Quickley was to the point, the way how he was finding solutions, the way he was touching the paint, the way he was finding assists. I thought that force that Scottie Barnes played with and attacking downhill was really good.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 133,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Darko Rajakovic on the Raptors' offensive identity: Our two main offensive engines at this point are Immanuel Quickley and Scottie Barnes and we are really trying to develop a package offensively what those guys can accomplish.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Immanuel Quickley",
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darko Rajakovic discusses the offensive chemistry and development of Immanuel Quickley and Scottie Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vNlsa9zuBRQ",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:32",
+      "summary_phrase": "Darko Rajakovic on developing chemistry between Immanuel Quickley and Scottie Barnes",
+      "names_mentioned": [
+        "Immanuel Quickley",
+        "Scottie Barnes"
+      ],
+      "excerpt": "they spend quite a bit of time talking basketball and trying to learn each other",
+      "quote": "They spend quite a bit of time talking basketball and trying to learn each other and we watch a lot of film and we are trying to put them in situations that they can work out to create those habits. Doesn't matter what defense is doing for them, still to be effective in in those pick and rolls or DHO actions and I think they are complementing each other really well right now.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 180,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic on the chemistry between Quickley and Barnes: They spend quite a bit of time talking basketball and trying to learn each other and we watch a lot of film and we are trying to put them in situations that they can work out.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Immanuel Quickley",
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darko Rajakovic describes how Immanuel Quickley and Scottie Barnes work together to build chemistry through film study and practice.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vNlsa9zuBRQ",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:06",
+      "summary_phrase": "Darko Rajakovic on injury updates for Jakob Poeltl and Immanuel Quickley",
+      "names_mentioned": [
+        "Jakob Poeltl",
+        "Immanuel Quickley"
+      ],
+      "excerpt": "Jakob Poeltl he got the Charlie Horse when he was going over screen he got hit",
+      "quote": "Jakob Poeltl he got the Charlie Horse when he was going over screen he got hit in his quad, quad contusion. We will see how he feels in the morning. Immanuel Quickley he was able to finish the game, he had a little bit of sore neck but he was able to finish the game. We will see tomorrow how they feel and where they are.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 211,
+      "speaker_confidence": "named",
+      "news_score": 9,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic provides injury updates: Jakob Poeltl has a quad contusion after getting hit in a screen. Immanuel Quickley finished the game with a sore neck. We will see how they feel tomorrow.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl",
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic provides injury updates on Jakob Poeltl and Immanuel Quickley following the game.",
+        "best": true,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "vNlsa9zuBRQ",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Immanuel Quickley",
+      "speakers": [
+        "Immanuel Quickley",
+        "Darko Rajakovic"
+      ],
+      "timestamp": "03:36",
+      "summary_phrase": "Immanuel Quickley and Darko Rajakovic on their pick-and-roll chemistry",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "he just an elite player, it is really easy to play with great players",
+      "text_blocks": [
+        {
+          "speaker": "Immanuel Quickley",
+          "text": "Yesterday we spent like probably like 15 minutes just talking through different pick and roll situations with defenders and teams are doing. I try to talk to him throughout the game, but honestly, he is just an elite player. It is really easy to play with great players. I say it all the time. He makes the game really easy for me."
+        },
+        {
+          "speaker": "Darko Rajakovic",
+          "text": "We do."
+        }
+      ],
+      "start_seconds": 216,
+      "end_seconds": 241,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 6,
+      "social_post": "Immanuel Quickley on playing with Scottie Barnes: He is just an elite player. It is really easy to play with great players. I say it all the time. He makes the game really easy for me.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley discusses his pick-and-roll chemistry and communication with Scottie Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VrG9WkIZAxM",
+        "rank": 1
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "04:15",
+      "summary_phrase": "Immanuel Quickley on his growing chemistry with Scottie Barnes",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "I feel like he can just be honest with me, I can be honest with him",
+      "quote": "I feel like he can just be honest with me, I can be honest with him either way. If he needs me to do something, if he needs me to be better, if he needs me to pick it up, he gets on me a lot and I appreciate that. So just the honesty, the honest communication, his leadership, what he is willing to do night in night out, I think it makes our team really elite.",
+      "text_blocks": [],
+      "start_seconds": 255,
+      "end_seconds": 285,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 7,
+      "social_post": "Immanuel Quickley on the accountability with Scottie Barnes: I feel like he can just be honest with me, I can be honest with him. If he needs me to be better, if he needs me to pick it up, he gets on me a lot and I appreciate that.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley praises the honest communication and leadership style of Scottie Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VrG9WkIZAxM",
+        "rank": 2
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "04:48",
+      "summary_phrase": "Immanuel Quickley on the importance of winning at home",
+      "names_mentioned": [],
+      "excerpt": "the mindset really from soon as I stepped in the arena was just to come in",
+      "quote": "It is big. I think it is even bigger that we got the win with it. I know we had been struggling at home, so just the mindset really from soon as I stepped in the arena was just to come in and effect winning whatever it might be, defense, taking care of the ball, getting us in some actions that lead to to good offense, and then defensively trying to get some steals, active hands and stuff like that. So just trying to get a win.",
+      "text_blocks": [],
+      "start_seconds": 288,
+      "end_seconds": 321,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the home win: I know we had been struggling at home, so just the mindset really from soon as I stepped in the arena was just to come in and effect winning whatever it might be.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley reflects on the importance of securing a win at home after a period of struggling.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VrG9WkIZAxM",
+        "rank": 3
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "05:12",
+      "summary_phrase": "Immanuel Quickley on Jakob Poeltl's defensive impact",
+      "names_mentioned": [
+        "Jakob Poeltl"
+      ],
+      "excerpt": "he can do so many things, shoot the ball, athletic, can get to the rim",
+      "quote": "I mean that is just one of his elite strengths. He can do so many things, shoot the ball, athletic, can get to the rim, dunk on people. So on the ball it is just another one of his strengths that he is able to affect the game with and we try to just let him go be who he is.",
+      "text_blocks": [],
+      "start_seconds": 312,
+      "end_seconds": 335,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on Jakob Poeltl: He can do so many things, shoot the ball, athletic, can get to the rim, dunk on people. It is just another one of his strengths that he is able to affect the game with.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley discusses the various strengths and impact of teammate Jakob Poeltl.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VrG9WkIZAxM",
+        "rank": 4
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "05:42",
+      "summary_phrase": "Immanuel Quickley on his role as a floor general",
+      "names_mentioned": [
+        "Jakob Poeltl"
+      ],
+      "excerpt": "it allows me to be able to talk on the back line, use my basketball IQ",
+      "quote": "It allows me to be able to talk on the back line, it allows me to be able to use my basketball IQ in safety, talking, putting people in the right spots, kind of behind the defense a little bit sometimes. But also just when Jakob Poeltl is doing that it kind of inspires people like me and our whole team to be better on the ball.",
+      "text_blocks": [],
+      "start_seconds": 342,
+      "end_seconds": 368,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on his defensive role: It allows me to be able to talk on the back line, it allows me to be able to use my basketball IQ in safety, talking, putting people in the right spots.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley explains how Jakob Poeltl's defensive presence helps him and the rest of the team.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VrG9WkIZAxM",
+        "rank": 5
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "06:22",
+      "summary_phrase": "Immanuel Quickley on his approach to the season",
+      "names_mentioned": [],
+      "excerpt": "I play every single game to win, I play every single possession to be better",
+      "quote": "I am not going to lie, I play every single game to win. I play every single possession to be better and I play every single day to be better than the day before. So knockout, in-season cup, preseason, playoffs, I play it all the same. I try to come out here and give 100% every single time that I am on the floor.",
+      "text_blocks": [],
+      "start_seconds": 382,
+      "end_seconds": 407,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 5,
+      "social_post": "Immanuel Quickley on his approach: I am not going to lie, I play every single game to win. I play every single possession to be better and I play every single day to be better than the day before.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley describes his competitive mindset and approach to playing every game.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VrG9WkIZAxM",
+        "rank": 6
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "06:52",
+      "summary_phrase": "Immanuel Quickley on Gradey Dick's development",
+      "names_mentioned": [
+        "Gradey Dick"
+      ],
+      "excerpt": "he brings so many different things to the table, his offensive rebounding, he is very mature",
+      "quote": "He brings so many different things to the table, his offensive rebounding, he is very mature for his age, willing to do all the little stuff to help us win, shot making, even better person off the floor. I love who he is off the floor. He has been a great addition to our team.",
+      "text_blocks": [],
+      "start_seconds": 412,
+      "end_seconds": 433,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 4,
+      "social_post": "Immanuel Quickley on Gradey Dick: He brings so many different things to the table, his offensive rebounding, he is very mature for his age, willing to do all the little stuff to help us win.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley praises the maturity and contributions of teammate Gradey Dick.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "VrG9WkIZAxM",
+        "rank": 7
+      }
+    },
+    {
+      "rank": 13,
+      "speaker": "Scottie Barnes",
+      "timestamp": "07:16",
+      "summary_phrase": "Scottie Barnes on the team's response to recent struggles",
+      "names_mentioned": [],
+      "excerpt": "we haven't got a home win in a month, so you know we just want to go",
+      "quote": "We were talking about we haven't got a home win in a month, so you know we just want to go out there, play hard. I think later in the game we have kind of figured out the differential of what we needed to do to enable to be able to make it, so we just kept trying to push that pace.",
+      "text_blocks": [],
+      "start_seconds": 436,
+      "end_seconds": 460,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on the win: We were talking about we haven't got a home win in a month, so you know we just want to go out there, play hard. We just kept trying to push that pace.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses the team's motivation to end their home losing streak.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "ozgo6s71O2s",
+        "rank": 1
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 14,
+      "speaker": "Scottie Barnes",
+      "timestamp": "08:10",
+      "summary_phrase": "Scottie Barnes on his pick-and-roll chemistry with Scottie Barnes",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "I think we have been doing a good job of just calling plays with me and him",
+      "quote": "For the past four, five games, I think we have been doing a good job of just calling plays with me and him in the ball screen. And I think we have been taking advantage of it. I think we have been doing a good job of him coming downhill, some teams like to hedge, some teams like to stay on me, so just him being able to just take the ball down and coming off and being able to be aggressive off of it, I think it opens up so much for me.",
+      "text_blocks": [],
+      "start_seconds": 490,
+      "end_seconds": 526,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on the pick and roll: For the past four, five games, I think we have been doing a good job of just calling plays with me and him in the ball screen. I think we have been taking advantage of it.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley explains how he and Scottie Barnes have been executing ball screens recently.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "ozgo6s71O2s",
+        "rank": 2
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 15,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "09:15",
+      "summary_phrase": "Immanuel Quickley on his mid-range shooting",
+      "names_mentioned": [],
+      "excerpt": "most of the time I am just open, people don't really contest it",
+      "quote": "Most of the time I am just open, people don't really contest it, so it is just an open shot.",
+      "text_blocks": [],
+      "start_seconds": 555,
+      "end_seconds": 563,
+      "speaker_confidence": "named",
+      "news_score": 2,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on his mid-range shooting: Most of the time I am just open, people don't really contest it, so it is just an open shot.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley comments on his ability to find open mid-range shots.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 16,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "09:39",
+      "summary_phrase": "Immanuel Quickley on the Celtics-Hawks game",
+      "names_mentioned": [],
+      "excerpt": "might have been a foul, I don't know, but it was pretty interesting",
+      "quote": "I don't know, might have been a foul, I don't know, but it was pretty interesting.",
+      "text_blocks": [],
+      "start_seconds": 579,
+      "end_seconds": 585,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 6,
+      "social_post": "Immanuel Quickley on the Celtics-Hawks game: I don't know, might have been a foul, I don't know, but it was pretty interesting.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley briefly comments on a play he observed in the Celtics versus Hawks game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 17,
+      "speaker": "Scottie Barnes",
+      "timestamp": "10:08",
+      "summary_phrase": "Scottie Barnes on his ability to create for teammates",
+      "names_mentioned": [],
+      "excerpt": "him just being able to use that screen and going downhill right off of it",
+      "quote": "Him just being able to use that screen and going downhill right off of it, I think that just makes it so much of a threat. I think guys they switch a lot, so we had to slip out more often than usual versus this team and then sometimes you know they like to soft hedge or blitz with their five man, so just being able to make that read out of it for him I think was great.",
+      "text_blocks": [],
+      "start_seconds": 608,
+      "end_seconds": 638,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley on reading defenses: Guys switch a lot, so we had to slip out more often than usual versus this team and then sometimes they like to soft hedge or blitz with their five man.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley explains the reads he makes when running pick-and-roll actions with Scottie Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "ozgo6s71O2s",
+        "rank": 3
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 18,
+      "speaker": "Scottie Barnes",
+      "timestamp": "10:59",
+      "summary_phrase": "Scottie Barnes on his leadership role",
+      "names_mentioned": [],
+      "excerpt": "I know I can't do it by myself and I know I am going to need this group",
+      "quote": "I am just trying to do my best to win basketball games. You know, I know I can't do it by myself and I know I am going to need this group to help me out as much as possible. So every day we are just trying to build something. Every single day, every single practice we are just trying to build something. So however I can to talk to these guys each and every single day and I think these guys make it easy for me to be able to talk to them.",
+      "text_blocks": [],
+      "start_seconds": 659,
+      "end_seconds": 695,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on leadership: I am just trying to do my best to win basketball games. I know I can't do it by myself and I know I am going to need this group to help me out as much as possible.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley discusses his efforts to lead the team and build chemistry with his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "ozgo6s71O2s",
+        "rank": 4
+      },
+      "speaker_source": "single-speaker video"
+    },
+    {
+      "rank": 19,
+      "speaker": "Scottie Barnes",
+      "timestamp": "11:43",
+      "summary_phrase": "Scottie Barnes on Gradey Dick's performance",
+      "names_mentioned": [
+        "Gradey Dick"
+      ],
+      "excerpt": "he has been great, rebounding the ball at a higher rate, getting there with those offensive rebounds",
+      "quote": "He has been great, rebounding the ball at a higher rate, getting there with those offensive rebounds. He has been defensive rebounding as well, has great hands, been guarding the ball, staying in front of the ball. I think that is what he has been working on, staying in front of the ball and I think he has been taking up that challenge.",
+      "text_blocks": [],
+      "start_seconds": 703,
+      "end_seconds": 727,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on Gradey Dick's defense: He has been great, rebounding the ball at a higher rate, getting there with those offensive rebounds. He has been defensive rebounding as well, has great hands.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley highlights the defensive improvements and rebounding efforts of Gradey Dick.",
+        "best": false,
+        "prompt": "47544341"
+      },
+      "duplicate_of": {
+        "video_id": "ozgo6s71O2s",
+        "rank": 5
+      },
+      "speaker_source": "single-speaker video"
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "QsGqZqZwXsk",
+  "url": "https://www.youtube.com/watch?v=QsGqZqZwXsk",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-28T05:29:51Z",
+  "duration_seconds": 741,
+  "processed_at": "2026-11-28T06:07:19Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}
