@@ -1,0 +1,243 @@
+{
+  "video_title": "Trey Murphy III | Pelicans vs. Clippers Postgame Interview 11/27/26",
+  "speakers_seen": [
+    "Trey Murphy III",
+    "Unidentified speaker"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Trey Murphy III",
+      "speakers": [
+        "Unidentified reporter",
+        "Trey Murphy III"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Trey Murphy III on the Pelicans' offensive decisiveness against the Clippers",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "We're just decisive on offense and weren't just standing there trying to figure out what we're doing.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Just walk me through the fourth and just it seemed like every time that Clippers punch you guys, tied it, had an answer tonight. And I know that's something you guys have talked about before. Just what was it like to kind of see the response from you guys?"
+        },
+        {
+          "speaker": "Trey Murphy III",
+          "text": "The biggest thing is like we're just decisive on offense and weren't just standing there trying to figure out what we're doing. A lot of that is on me and Zion being able to get to our spots as well as just like play with force. I'm sorry, I just I'm just lifted. So, trying to catch my breath here, but yeah, that's the biggest thing is just being in our spots, getting to getting the place where we make plays."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 50,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Trey Murphy III says the Pelicans were more decisive on offense tonight and stopped standing around. He credited playing with force and getting to their spots for the response against the Clippers.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP",
+          "LAC"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trey Murphy III explains how the team maintained offensive momentum against the Clippers by being decisive.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Trey Murphy III",
+      "speakers": [
+        "Unidentified reporter",
+        "Trey Murphy III"
+      ],
+      "timestamp": "00:39",
+      "summary_phrase": "Trey Murphy III on Zion Williamson's aggressive first half impact",
+      "names_mentioned": [
+        "Zion Williamson"
+      ],
+      "excerpt": "Every team in the league knows he's a force getting downhill.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "When Zion is as aggressive as he was in the first half, how much did that open up things for everybody in the second?"
+        },
+        {
+          "speaker": "Trey Murphy III",
+          "text": "I mean, every team in the league knows he's a force getting downhill. And so, they're going to send the paint, try to take away his driving lanes, but it's on us to knock down shots as well as, you know, attack off of those advantages he creates."
+        }
+      ],
+      "start_seconds": 39,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Trey Murphy III on Zion Williamson: Every team in the league knows he is a force getting downhill. It is on the rest of the team to knock down shots and attack off the advantages he creates.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Zion Williamson"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trey Murphy III discusses how Zion Williamson's aggressive play creates scoring opportunities for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Trey Murphy III",
+      "speakers": [
+        "Unidentified reporter",
+        "Trey Murphy III"
+      ],
+      "timestamp": "01:13",
+      "summary_phrase": "Trey Murphy III credits defensive activity and rest for Pelicans' performance",
+      "names_mentioned": [],
+      "excerpt": "I think the biggest thing was our activity, playing physical.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "What was working defensively tonight?"
+        },
+        {
+          "speaker": "Trey Murphy III",
+          "text": "I think the biggest thing was our activity, playing physical. Also helps when you got three days of rest. It's the first time we've had multiple days of rest since probably the start of the season. So, I think that helps. Obviously, the schedule doesn't do us any favors, but I think using that time to recover and get back helps us, you know, restart a little bit and rejuvenate."
+        }
+      ],
+      "start_seconds": 73,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trey Murphy III says having three days of rest was a major factor in the Pelicans defensive activity tonight. He noted it is the first time they have had multiple days off since the start of the season.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Trey Murphy III credits the team's defensive performance to increased physical activity and recent rest.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Trey Murphy III",
+      "speakers": [
+        "Unidentified reporter",
+        "Trey Murphy III"
+      ],
+      "timestamp": "01:39",
+      "summary_phrase": "Trey Murphy III on improved fourth-quarter execution and rebounding",
+      "names_mentioned": [
+        "Trey Murphy III"
+      ],
+      "excerpt": "Our fourth quarter execution was a lot better than we have in the past.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "In terms of late-game execution, what are some things that you've seen with the team that you feel like you guys are improving on?"
+        },
+        {
+          "speaker": "Trey Murphy III",
+          "text": "I mean, if we're just going based off of this game, like our fourth quarter execution was a lot better than we have in the past. And, you know, I think the biggest thing right now for us is just getting those rebounds. Like we give them offensive rebounds and, you know, once we do that, then our defense gets to another level."
+        }
+      ],
+      "start_seconds": 99,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trey Murphy III says the Pelicans fourth quarter execution was better than in the past and emphasized that rebounding is the key to taking their defense to another level.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [],
+        "context": "Trey Murphy III reflects on the team's improved fourth-quarter execution and the importance of rebounding.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Trey Murphy III",
+      "speakers": [
+        "Unidentified reporter",
+        "Trey Murphy III"
+      ],
+      "timestamp": "02:03",
+      "summary_phrase": "Trey Murphy III on Jeremy Fears' continued development and reading defenses",
+      "names_mentioned": [
+        "Jeremy Fears"
+      ],
+      "excerpt": "The biggest thing for him is just, you know, continue to read the difference and still being aggressive.",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "In terms of with Jeremy Fears, like last year and this year, what's the biggest improvement you've seen with his game?"
+        },
+        {
+          "speaker": "Trey Murphy III",
+          "text": "The biggest thing for him is just, you know, continue to read the difference and still being aggressive. And basically, it's easier to pass when people think you're going to score the ball. So, you know, continue to read those defenses. I mean with time you're always going to read the game better when you have more time and more reps and game reps. So, I mean he's continuing to learn."
+        }
+      ],
+      "start_seconds": 123,
+      "end_seconds": 158,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Trey Murphy III on Jeremy Fears development: It is easier to pass when people think you are going to score the ball. He says Fears is continuing to learn and read defenses better with more game reps.",
+      "team": "New Orleans Pelicans",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jeremy Fears"
+        ],
+        "teams": [
+          "NOP"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Trey Murphy III evaluates the growth and development of teammate Jeremy Fears.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "w4rBl-VCguc",
+  "url": "https://www.youtube.com/watch?v=w4rBl-VCguc",
+  "channel_team": "New Orleans Pelicans",
+  "published": "2026-11-28T07:21:27Z",
+  "duration_seconds": 160,
+  "processed_at": "2026-11-28T07:51:06Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}
