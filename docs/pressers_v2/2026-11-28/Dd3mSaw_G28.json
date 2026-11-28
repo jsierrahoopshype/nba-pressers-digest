@@ -1,0 +1,257 @@
+{
+  "video_title": "Neemias Queta on Advancing in NBA Cup | Celtics vs Hawks Postgame",
+  "speakers_seen": [
+    "Neemias Queta"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Neemias Queta",
+      "timestamp": "00:04",
+      "summary_phrase": "Neemias Queta on the Celtics' offensive struggles in the second half",
+      "names_mentioned": [],
+      "excerpt": "we got to figure out how to get our offense going",
+      "quote": "I am not really sure. I think we got to figure out what we can do better. I think our defense has been fine. I think more than anything we just got to figure out how to get our offense going and from that point on we can keep on trusting our defense because defensively I think we are doing a good job.",
+      "text_blocks": [],
+      "start_seconds": 4,
+      "end_seconds": 28,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Neemias Queta says the Celtics need to figure out their offensive struggles after the loss to the Hawks. He notes that while the defense has been fine, the team needs to find a way to get the offense going consistently.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Neemias Queta discusses the Boston Celtics offensive struggles during the second half of their game against the Atlanta Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Neemias Queta",
+      "timestamp": "00:27",
+      "summary_phrase": "Neemias Queta on the Celtics' turnover issues against the Hawks",
+      "names_mentioned": [],
+      "excerpt": "can't recall the last time I had this many turnovers in the game",
+      "quote": "Not sure. Whether it is them speeding me up, whether it is me not being, not reading the game, not being patient. Not sure. I can't recall the last time I had this many turnovers in the game. Not worried, but definitely something to be concerned about and fix.",
+      "text_blocks": [],
+      "start_seconds": 27,
+      "end_seconds": 46,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Neemias Queta admits he is concerned about his turnover issues against the Hawks. He says he cannot recall the last time he had that many turnovers in a game and that it is definitely something he needs to fix.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Neemias Queta addresses his high number of turnovers during the game against the Atlanta Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Neemias Queta",
+      "timestamp": "00:54",
+      "summary_phrase": "Neemias Queta on the Celtics' offensive chemistry and spacing",
+      "names_mentioned": [],
+      "excerpt": "maybe timings, maybe connections, too many connections, three-man connections",
+      "quote": "Not sure. Maybe timings, maybe connections, too many connections, three-man connections, being able to maximize each other at the same time. Not really sure, but this is not exactly where we want to be, but I think we got the trust in each other that we will be able to figure this out together.",
+      "text_blocks": [],
+      "start_seconds": 54,
+      "end_seconds": 75,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Neemias Queta on the Celtics offensive chemistry: It is not exactly where we want to be, but I think we got the trust in each other that we will be able to figure this out together.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Neemias Queta reflects on the current state of the Boston Celtics offensive chemistry and spacing.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Neemias Queta",
+      "timestamp": "01:20",
+      "summary_phrase": "Neemias Queta on how opponents are defending him in the second half",
+      "names_mentioned": [],
+      "excerpt": "they are being more active, we tied, being able to on the ball too",
+      "quote": "I think just in general they are being more active, we tied, being able to on the ball too, picking up full. They are just upping the the the physicality and how many times they are able to impact the ball. I think we can we can be better and just watch film and figure it out.",
+      "text_blocks": [],
+      "start_seconds": 80,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Neemias Queta says opponents are upping their physicality and activity level against the Celtics in the second half, forcing the team to watch film and figure out how to respond.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Neemias Queta explains how the Atlanta Hawks increased their defensive intensity and physicality in the second half.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Neemias Queta",
+      "timestamp": "02:01",
+      "summary_phrase": "Neemias Queta on improving Celtics' second-half execution",
+      "names_mentioned": [],
+      "excerpt": "first of all get stops, so we don't have to get it out the net",
+      "quote": "First of all get stops, so we don't have to get it out the net and their defense is set. Then push the pace. I think once we are playing freely and just running off each other, playing in transition, I think that's when we are our best and being able to do that consistently over the game. Not sure if that's realistic, but that's something that we want to aim for.",
+      "text_blocks": [],
+      "start_seconds": 121,
+      "end_seconds": 149,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Neemias Queta on how the Celtics can improve their second half execution: Get stops so we do not have to take it out of the net, then push the pace. We are at our best when we are playing freely in transition.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Neemias Queta outlines the adjustments needed for the Boston Celtics to improve their second-half execution.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Neemias Queta",
+      "timestamp": "02:24",
+      "summary_phrase": "Neemias Queta on how opponents are defending Jayson Tatum",
+      "names_mentioned": [
+        "Jayson Tatum"
+      ],
+      "excerpt": "up their pressure, load up, load up with their shifts more",
+      "quote": "I think just they are being able to up their pressure, load up, load up with their shifts more. At that point I think it's up to us to make the job easier. Whether it is just being able to knock down the open shots, make the right reads, hockey assists, and just being able to make the right reads off of that and capitalize, make the defense pay for being so aggressive.",
+      "text_blocks": [],
+      "start_seconds": 144,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Neemias Queta says opponents are loading up on Jayson Tatum and it is up to the rest of the team to make the defense pay by knocking down open shots and making the right reads.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "BOS",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Neemias Queta discusses how the Atlanta Hawks are defending Jayson Tatum and how the team can support him.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Neemias Queta",
+      "timestamp": "03:04",
+      "summary_phrase": "Neemias Queta on moving forward after the loss",
+      "names_mentioned": [
+        "Wembanyama"
+      ],
+      "excerpt": "being able to move on from this this tough loss",
+      "quote": "Yeah, another day. Being able to move on from this this tough loss, being able to go on the road and be able to move on from from this and be ready to go because it's a big challenge that we got facing up back-to-back again on the road. Should be a should be a challenge we are up for.",
+      "text_blocks": [],
+      "start_seconds": 184,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Neemias Queta says the Celtics are ready to move on from the tough loss to the Hawks and focus on the upcoming road challenge.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Neemias Queta talks about the team mindset following a tough loss and preparing for the next road game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Neemias Queta",
+      "timestamp": "03:33",
+      "summary_phrase": "Neemias Queta on the significance of the NBA Cup",
+      "names_mentioned": [],
+      "excerpt": "gives us an opportunity to fight for a championship",
+      "quote": "Means a lot. Gives us an opportunity to fight for a championship and being able to be competitive early on in the season is what we are made about. Obviously the monetary prize is good, but at the end of the day we are there fighting for the the title. That's that's what it's all about.",
+      "text_blocks": [],
+      "start_seconds": 213,
+      "end_seconds": 234,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Neemias Queta on the NBA Cup: It means a lot. It gives us an opportunity to fight for a championship and being able to be competitive early on in the season is what we are made about.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Neemias Queta explains the importance of the NBA Cup to the Boston Celtics players.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "Dd3mSaw_G28",
+  "url": "https://www.youtube.com/watch?v=Dd3mSaw_G28",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-28T04:26:22Z",
+  "duration_seconds": 234,
+  "processed_at": "2026-11-28T05:15:25Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

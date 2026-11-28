@@ -1,0 +1,179 @@
+{
+  "video_title": "Scottie Barnes | Post Game vs Brooklyn Nets | November 27, 2026",
+  "speakers_seen": [
+    "Scottie Barnes"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Scottie Barnes",
+      "timestamp": "00:07",
+      "summary_phrase": "Scottie Barnes on the team's home win drought",
+      "names_mentioned": [],
+      "excerpt": "We haven't got a home win in a month, so we just want to go out there.",
+      "quote": "We were talking about we haven't got a home win in a month, so we just want to go out there, play hard. I think later in the game we figured out the differential of what we needed to do to be able to make it, so we just kept trying to push that pace. But for the most part of the game, I think we played really hard. I think we tried to do our best to execute our game plan and trying to be able to get through screens and DHOs, because they run a lot of DHOs with Michael Porter, Julius Randle, trying to maintain those guys.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Scottie Barnes on ending the Raptors home win drought: We were talking about how we haven't got a home win in a month so we just wanted to go out there and play hard.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Michael Porter",
+          "Julius Randle"
+        ],
+        "teams": [
+          "TOR",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes discusses the team's effort to secure a home win and their defensive strategy against specific opponents.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Scottie Barnes",
+      "timestamp": "01:01",
+      "summary_phrase": "Scottie Barnes on his chemistry with Immanuel Quickley",
+      "names_mentioned": [
+        "Immanuel Quickley"
+      ],
+      "excerpt": "I think we've been doing a good job of just calling plays with me and him.",
+      "quote": "For the past four or five games, I think we've been doing a good job of just calling plays with me and him in the ball screen, and I think we've been taking advantage of it. I think we've been doing a good job of him coming downhill. Some teams like to hedge, some teams like to stay on me, so him being able to take the ball down and being able to be aggressive off of it, I think it opens up so much for me being able to get that short pocket or that roll, no matter what they do.",
+      "text_blocks": [],
+      "start_seconds": 61,
+      "end_seconds": 100,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Scottie Barnes on his chemistry with Immanuel Quickley: We have been doing a good job of calling plays with me and him in the ball screen and taking advantage of it.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Immanuel Quickley"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes explains the offensive chemistry and pick-and-roll execution he has developed with Immanuel Quickley.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Scottie Barnes",
+      "timestamp": "02:36",
+      "summary_phrase": "Scottie Barnes on the team's offensive execution and playmaking",
+      "names_mentioned": [],
+      "excerpt": "Him just being able to use that screen and going downhill right off of it.",
+      "quote": "Him just being able to use that screen and going downhill right off of it, I think that just makes it so much of a threat. I think guys, they switch a lot, so we had to slip out more often than usual versus this team, and then sometimes they like to soft hedge or blitz with their five man. So just being able to make that read out of it for him, I think was great. I think we did a lot of great things in pick and roll. He hit Jakob a few times, and once we actually screen our man and he's able to get downhill, I think he's been doing a great job of making that read.",
+      "text_blocks": [],
+      "start_seconds": 156,
+      "end_seconds": 203,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 1,
+      "social_post": "Scottie Barnes breaks down the offensive execution against the Nets: We had to slip out more often than usual because they switch a lot.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes breaks down the team's offensive reads and playmaking success in pick-and-roll situations against the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Scottie Barnes",
+      "timestamp": "03:37",
+      "summary_phrase": "Scottie Barnes on his leadership role and team culture",
+      "names_mentioned": [],
+      "excerpt": "I know I can't do it by myself and I know I'm going to need this group.",
+      "quote": "I'm just trying to do my best to win basketball games. I know I can't do it by myself and I know I'm going to need this group to help me out as much as possible. So every day we're just trying to build something. Every single day, every single practice, we're just trying to build something. So however I can to talk to these guys each and every single day, and I think these guys make it easier for me to be able to talk to them, and how they respond, and then how we we build a brothership here. I think it just makes it easier and that's going to translate to leading to something bigger.",
+      "text_blocks": [],
+      "start_seconds": 217,
+      "end_seconds": 262,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Scottie Barnes on his leadership role: I know I cannot do it by myself and I know I am going to need this group to help me out as much as possible. Every day we are just trying to build something.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Scottie Barnes reflects on his role as a leader and the importance of building team culture and chemistry.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Scottie Barnes",
+      "timestamp": "04:26",
+      "summary_phrase": "Scottie Barnes on the development of the team's center",
+      "names_mentioned": [],
+      "excerpt": "He's been great, rebounding the ball at a higher rate, getting there with those offensive rebounds.",
+      "quote": "He's been great, rebounding the ball at a higher rate, getting there with those offensive rebounds. He's been defensively rebounding as well, has great hands, been guarding the ball, staying in front of the ball. I think that's what he's been working on, staying in front of the ball, and I think he's been taking up that challenge. Hitting shots, of course, that's what we're going to do on this team, and we try to drive and he's open, that one more, just being able to make those shots and knock it down, it just opens up and creates so much space for everybody out there on the floor.",
+      "text_blocks": [],
+      "start_seconds": 266,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Scottie Barnes praises his center: He has been great rebounding the ball at a higher rate and has been taking up the challenge of guarding the ball.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Jakob Poeltl"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Scottie Barnes praises the recent performance and development of his teammate Jakob Poeltl.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "ozgo6s71O2s",
+  "url": "https://www.youtube.com/watch?v=ozgo6s71O2s",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-28T04:58:59Z",
+  "duration_seconds": 312,
+  "processed_at": "2026-11-28T05:15:14Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

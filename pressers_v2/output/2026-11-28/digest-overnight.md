@@ -22,7 +22,15 @@ From: [Immanuel Quickley \| Post Game vs Brooklyn Nets \| November 27, 2026](htt
 
 <small>[Clip it](presserclips://clip?v=VrG9WkIZAxM&t=38&q=2) · [Send to Slack](presserclips://clip?v=VrG9WkIZAxM&t=38&q=2&slack=1)</small>
 
-**3. Javon Small — "We trying to take it back to that old Memphis time" — Javon Small on the Grizzlies' grit and grind identity** [01:36](https://www.youtube.com/watch?v=LZkZLiz-XJg&t=96s)
+**3. Neemias Queta — "can't recall the last time I had this many turnovers in the game" — Neemias Queta on the Celtics' turnover issues against the Hawks** [00:27](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=27s)
+
+Neemias Queta: "Not sure. Whether it is them speeding me up, whether it is me not being, not reading the game, not being patient. Not sure. I can't recall the last time I had this many turnovers in the game. Not worried, but definitely something to be concerned about and fix."
+
+[https://www.youtube.com/watch?v=Dd3mSaw_G28&t=27s](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=27s)
+
+From: [Neemias Queta on Advancing in NBA Cup \| Celtics vs Hawks Postgame](https://www.youtube.com/watch?v=Dd3mSaw_G28) · *Boston Celtics*
+
+**4. Javon Small — "We trying to take it back to that old Memphis time" — Javon Small on the Grizzlies' grit and grind identity** [01:36](https://www.youtube.com/watch?v=LZkZLiz-XJg&t=96s)
 
 **Unidentified reporter:** "What is it about this team? I know **Tuomas Iisalo** always talks about finding a way. What is it about this team that you do manage to find a way?"
 
@@ -34,7 +42,7 @@ From: [Javon Small Court Side Interview \| Grizzlies vs. Timberwolves](https://w
 
 <small>[Clip it](presserclips://clip?v=LZkZLiz-XJg&t=96&q=5) · [Send to Slack](presserclips://clip?v=LZkZLiz-XJg&t=96&q=5&slack=1)</small>
 
-**4. Jayson Tatum — "I thought I got fouled. Didn't call it, turned the ball over." — Jayson Tatum on the controversial non-call during his late turnover** [00:07](https://www.youtube.com/watch?v=RvSUzo9xjI8&t=7s)
+**5. Jayson Tatum — "I thought I got fouled. Didn't call it, turned the ball over." — Jayson Tatum on the controversial non-call during his late turnover** [00:07](https://www.youtube.com/watch?v=RvSUzo9xjI8&t=7s)
 
 Jayson Tatum: "I thought I got fouled. Didn't call it, turned the ball over. It was a tough bang-bang play at the end."
 
@@ -42,7 +50,7 @@ Jayson Tatum: "I thought I got fouled. Didn't call it, turned the ball over. It 
 
 From: [Jayson Tatum EXPLAINS What Happened on Late Turnover vs Hawks \| Celtics vs Hawks Postgame](https://www.youtube.com/watch?v=RvSUzo9xjI8) · *Boston Celtics*
 
-**5. Cedric Coward — "he is a killer. It is funny because when he was doing it, I know everybody at home" — Cedric Coward praises Javon Small's performance off the bench** [00:56](https://www.youtube.com/watch?v=l2dxyVcxPQc&t=56s)
+**6. Cedric Coward — "he is a killer. It is funny because when he was doing it, I know everybody at home" — Cedric Coward praises Javon Small's performance off the bench** [00:56](https://www.youtube.com/watch?v=l2dxyVcxPQc&t=56s)
 
 **Unidentified reporter:** "The bench was great again tonight. How about the night **Javon Small**, especially that first half putting you guys in the position you were in?"
 
@@ -54,7 +62,7 @@ From: [Cedric Coward Walk-Off Interview \| Grizzlies vs. Timberwolves](https://w
 
 <small>[Clip it](presserclips://clip?v=l2dxyVcxPQc&t=56&q=3) · [Send to Slack](presserclips://clip?v=l2dxyVcxPQc&t=56&q=3&slack=1)</small>
 
-**6. Karl-Anthony Towns — "what got us in the deficit is what lost us the game which was execution" — Karl-Anthony Towns on the team's execution and deficit issues** [00:14](https://www.youtube.com/watch?v=KWoJuIpycnE&t=14s)
+**7. Karl-Anthony Towns — "what got us in the deficit is what lost us the game which was execution" — Karl-Anthony Towns on the team's execution and deficit issues** [00:14](https://www.youtube.com/watch?v=KWoJuIpycnE&t=14s)
 
 Karl-Anthony Towns: "We put ourselves in those positions that we shouldn't, and we didn't execute at a high level today. Again, we found ourselves fighting, fighting, fighting our way back into the game, but at the end of the day, what got us in the deficit is what lost us the game which was execution. It had nothing to do with the last two or three minutes of the game; it was a game-long lack of execution that hurt us."
 
@@ -63,6 +71,26 @@ Karl-Anthony Towns: "We put ourselves in those positions that we shouldn't, and 
 From: [Karl-Anthony Towns, Landry Shamet, Jalen Brunson, James Wiseman Postgame Media \| November 27, 2026](https://www.youtube.com/watch?v=KWoJuIpycnE) · *New York Knicks*
 
 <small>[Clip it](presserclips://clip?v=KWoJuIpycnE&t=14&q=1) · [Send to Slack](presserclips://clip?v=KWoJuIpycnE&t=14&q=1&slack=1)</small>
+
+**8. Jalen Brunson — "it's frustrating obviously just the way we fought back and the poor decision making ahead" — Jalen Brunson on the frustration of losing the NBA Cup** [03:47](https://www.youtube.com/watch?v=KWoJuIpycnE&t=227s)
+
+Jalen Brunson: "It's frustrating obviously just the way we fought back and the poor decision making ahead in the fourth quarter and honestly throughout the game. But I think that's the most frustrating part, just we get a chance to do so."
+
+[https://www.youtube.com/watch?v=KWoJuIpycnE&t=227s](https://www.youtube.com/watch?v=KWoJuIpycnE&t=227s)
+
+From: [Karl-Anthony Towns, Landry Shamet, Jalen Brunson, James Wiseman Postgame Media \| November 27, 2026](https://www.youtube.com/watch?v=KWoJuIpycnE) · *New York Knicks*
+
+<small>[Clip it](presserclips://clip?v=KWoJuIpycnE&t=227&q=7) · [Send to Slack](presserclips://clip?v=KWoJuIpycnE&t=227&q=7&slack=1)</small>
+
+**9. Scottie Barnes — "I think we've been doing a good job of just calling plays with me and him." — Scottie Barnes on his chemistry with Immanuel Quickley** [01:01](https://www.youtube.com/watch?v=ozgo6s71O2s&t=61s)
+
+Scottie Barnes: "For the past four or five games, I think we've been doing a good job of just calling plays with me and him in the ball screen, and I think we've been taking advantage of it. I think we've been doing a good job of him coming downhill. Some teams like to hedge, some teams like to stay on me, so him being able to take the ball down and being able to be aggressive off of it, I think it opens up so much for me being able to get that short pocket or that roll, no matter what they do."
+
+[https://www.youtube.com/watch?v=ozgo6s71O2s&t=61s](https://www.youtube.com/watch?v=ozgo6s71O2s&t=61s)
+
+From: [Scottie Barnes \| Post Game vs Brooklyn Nets \| November 27, 2026](https://www.youtube.com/watch?v=ozgo6s71O2s) · *Toronto Raptors*
+
+<small>[Clip it](presserclips://clip?v=ozgo6s71O2s&t=61&q=2) · [Send to Slack](presserclips://clip?v=ozgo6s71O2s&t=61&q=2&slack=1)</small>
 
 ---
 
@@ -183,6 +211,62 @@ Taylor Jenkins: "We were executing our game plan. I thought we had really good b
 [https://www.youtube.com/watch?v=Cj7NgYK6_Xs&t=71s](https://www.youtube.com/watch?v=Cj7NgYK6_Xs&t=71s)
 
 <small>[Clip it](presserclips://clip?v=Cj7NgYK6_Xs&t=71&q=5) · [Send to Slack](presserclips://clip?v=Cj7NgYK6_Xs&t=71&q=5&slack=1)</small>
+
+---
+
+## Neemias Queta on Advancing in NBA Cup | Celtics vs Hawks Postgame — *Boston Celtics*
+
+Source: [https://www.youtube.com/watch?v=Dd3mSaw_G28](https://www.youtube.com/watch?v=Dd3mSaw_G28)
+
+_Speakers identified: Neemias Queta_
+
+**1. Neemias Queta — "we got to figure out how to get our offense going" — Neemias Queta on the Celtics' offensive struggles in the second half** [00:04](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=4s)
+
+Neemias Queta: "I am not really sure. I think we got to figure out what we can do better. I think our defense has been fine. I think more than anything we just got to figure out how to get our offense going and from that point on we can keep on trusting our defense because defensively I think we are doing a good job."
+
+[https://www.youtube.com/watch?v=Dd3mSaw_G28&t=4s](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=4s)
+
+**2. Neemias Queta — "can't recall the last time I had this many turnovers in the game" — Neemias Queta on the Celtics' turnover issues against the Hawks** [00:27](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=27s)
+
+Neemias Queta: "Not sure. Whether it is them speeding me up, whether it is me not being, not reading the game, not being patient. Not sure. I can't recall the last time I had this many turnovers in the game. Not worried, but definitely something to be concerned about and fix."
+
+[https://www.youtube.com/watch?v=Dd3mSaw_G28&t=27s](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=27s)
+
+**3. Neemias Queta — "maybe timings, maybe connections, too many connections, three-man connections" — Neemias Queta on the Celtics' offensive chemistry and spacing** [00:54](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=54s)
+
+Neemias Queta: "Not sure. Maybe timings, maybe connections, too many connections, three-man connections, being able to maximize each other at the same time. Not really sure, but this is not exactly where we want to be, but I think we got the trust in each other that we will be able to figure this out together."
+
+[https://www.youtube.com/watch?v=Dd3mSaw_G28&t=54s](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=54s)
+
+**4. Neemias Queta — "they are being more active, we tied, being able to on the ball too" — Neemias Queta on how opponents are defending him in the second half** [01:20](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=80s)
+
+Neemias Queta: "I think just in general they are being more active, we tied, being able to on the ball too, picking up full. They are just upping the the the physicality and how many times they are able to impact the ball. I think we can we can be better and just watch film and figure it out."
+
+[https://www.youtube.com/watch?v=Dd3mSaw_G28&t=80s](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=80s)
+
+**5. Neemias Queta — "first of all get stops, so we don't have to get it out the net" — Neemias Queta on improving Celtics' second-half execution** [02:01](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=121s)
+
+Neemias Queta: "First of all get stops, so we don't have to get it out the net and their defense is set. Then push the pace. I think once we are playing freely and just running off each other, playing in transition, I think that's when we are our best and being able to do that consistently over the game. Not sure if that's realistic, but that's something that we want to aim for."
+
+[https://www.youtube.com/watch?v=Dd3mSaw_G28&t=121s](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=121s)
+
+**6. Neemias Queta — "up their pressure, load up, load up with their shifts more" — Neemias Queta on how opponents are defending Jayson Tatum** [02:24](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=144s)
+
+Neemias Queta: "I think just they are being able to up their pressure, load up, load up with their shifts more. At that point I think it's up to us to make the job easier. Whether it is just being able to knock down the open shots, make the right reads, hockey assists, and just being able to make the right reads off of that and capitalize, make the defense pay for being so aggressive."
+
+[https://www.youtube.com/watch?v=Dd3mSaw_G28&t=144s](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=144s)
+
+**7. Neemias Queta — "being able to move on from this this tough loss" — Neemias Queta on moving forward after the loss** [03:04](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=184s)
+
+Neemias Queta: "Yeah, another day. Being able to move on from this this tough loss, being able to go on the road and be able to move on from from this and be ready to go because it's a big challenge that we got facing up back-to-back again on the road. Should be a should be a challenge we are up for."
+
+[https://www.youtube.com/watch?v=Dd3mSaw_G28&t=184s](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=184s)
+
+**8. Neemias Queta — "gives us an opportunity to fight for a championship" — Neemias Queta on the significance of the NBA Cup** [03:33](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=213s)
+
+Neemias Queta: "Means a lot. Gives us an opportunity to fight for a championship and being able to be competitive early on in the season is what we are made about. Obviously the monetary prize is good, but at the end of the day we are there fighting for the the title. That's that's what it's all about."
+
+[https://www.youtube.com/watch?v=Dd3mSaw_G28&t=213s](https://www.youtube.com/watch?v=Dd3mSaw_G28&t=213s)
 
 ---
 
@@ -500,6 +584,96 @@ Immanuel Quickley: "Super impressed. He brings so many different things to the t
 
 ---
 
+## Tuomas Iisalo Press Conference | Grizzlies vs. Timberwolves — *Memphis Grizzlies*
+
+Source: [https://www.youtube.com/watch?v=XG0q1Z_I6ic](https://www.youtube.com/watch?v=XG0q1Z_I6ic)
+
+_Speakers identified: Tuomas Iisalo_
+
+**1. Tuomas Iisalo — "This was one of the first games that this group has played with real stakes." — Tuomas Iisalo on Grizzlies' growth in high-stakes game environment** [00:00](https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=0s)
+
+Tuomas Iisalo: "It was a good step forward for us. It is one game, but the reason that I think there was excitement was this was one of the first games that this group has played with real stakes. To be in that position, it is a big privilege to get to play these games. No matter the outcome, these are the type of environments you have to be in. In the third quarter, when we got really punched in the mouth after a great beginning to the game, we were able to step up to the challenge. Those are the moments that drive the whole team and drive those individuals forward when you can come through in that situation."
+
+[https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=0s](https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=0s)
+
+<small>[Clip it](presserclips://clip?v=XG0q1Z_I6ic&t=0&q=1) · [Send to Slack](presserclips://clip?v=XG0q1Z_I6ic&t=0&q=1&slack=1)</small>
+
+**2. Tuomas Iisalo — "We have very clear expectations and standards, and this group is really meeting them on a daily basis." — Tuomas Iisalo on team standards and integrating new players** [01:20](https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=80s)
+
+Tuomas Iisalo: "We have very clear expectations and standards, and this group is really meeting them on a daily basis. Because of this, it is at the same time simple but not easy for new guys to step into the lineup because they know what is expected of them from a focus, effort, and attention to detail standpoint. Those guys that you mentioned, for example, Javon today, **Lawson Lovering**, they came in and they did exactly their job. That is all we are asking for, nothing more, nothing less."
+
+[https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=80s](https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=80s)
+
+<small>[Clip it](presserclips://clip?v=XG0q1Z_I6ic&t=80&q=2) · [Send to Slack](presserclips://clip?v=XG0q1Z_I6ic&t=80&q=2&slack=1)</small>
+
+**3. Tuomas Iisalo — "I just believe that there are good choices in these situations, there are better choices, and worse choices." — Tuomas Iisalo on decision-making and team philosophy** [02:40](https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=160s)
+
+Tuomas Iisalo: "We have never really phrased it as selflessness. We are just making the logical decision based on the problem that we have in that situation. We talk a lot about the mental side or being selfish or unselfish. I do not really believe in those concepts. I just believe that there are good choices in these situations, there are better choices, and worse choices. Try to make the better choices, and that depends on your skill set, who you are playing with, but also the other players. We talk a lot less about the mental side. For us, it is more like a decision tree that we follow, which also takes a lot of the pressure out of that because then you can have runs in either direction and you still stay with it."
+
+[https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=160s](https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=160s)
+
+<small>[Clip it](presserclips://clip?v=XG0q1Z_I6ic&t=160&q=3) · [Send to Slack](presserclips://clip?v=XG0q1Z_I6ic&t=160&q=3&slack=1)</small>
+
+**4. Tuomas Iisalo — "We are in a one-and-done situation for the cup." — Tuomas Iisalo on responding to third-quarter pressure** [03:50](https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=230s)
+
+Tuomas Iisalo: "One of the things that we talked about during our timeout is that this is a one-and-done situation for the cup. Do we want to give these guys the chance to take us out by basically bullying us out of our spots, or are we going to push back? Because this is it. There is no second opportunity. The response to that was great. We saw multiple efforts defensively, big shots offensively, better organization, and I thought one of the things we did great at that point, we did not take any steps back. When they pressured, we started attacking that pressure. We got a couple of times to the foul line, got a couple of paint touches, and then we were able to create from there."
+
+[https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=230s](https://www.youtube.com/watch?v=XG0q1Z_I6ic&t=230s)
+
+<small>[Clip it](presserclips://clip?v=XG0q1Z_I6ic&t=230&q=4) · [Send to Slack](presserclips://clip?v=XG0q1Z_I6ic&t=230&q=4&slack=1)</small>
+
+---
+
+## Jordi Fernández Postgame Press Conference at Toronto — *Brooklyn Nets*
+
+Source: [https://www.youtube.com/watch?v=avuEQdtfmLY](https://www.youtube.com/watch?v=avuEQdtfmLY)
+
+_Speakers identified: Jordi Fernández_
+
+**1. Jordi Fernández — "the most physical team won. That's plain simple. They were the aggressors" — Jordi Fernández on the team's lack of physical intensity** [00:12](https://www.youtube.com/watch?v=avuEQdtfmLY&t=12s)
+
+Jordi Fernández: "The most physical team won. That's plain simple. They were the aggressors and after a good performance in Milwaukee then we respond with this. Obviously it's not about the result, it's how you fight and if the other team has a level, just to match that level and keep fighting and responding and we just didn't. I thought that the first half we could have done better things defensively as far as our urgency to contest and rebound, we were not there, we were not winning 50-50 balls. Addressed it at halftime and then we respond with the worst quarter of the game."
+
+[https://www.youtube.com/watch?v=avuEQdtfmLY&t=12s](https://www.youtube.com/watch?v=avuEQdtfmLY&t=12s)
+
+**2. Jordi Fernández — "when you're the aggressor, you get called less fouls. When you're always second late" — Jordi Fernández on the team's defensive foul trouble** [01:11](https://www.youtube.com/watch?v=avuEQdtfmLY&t=71s)
+
+Jordi Fernández: "When you're the aggressor, you get called less fouls. When you're always second late and you're the softer team, then usually they call the fouls. I just think they got away with too much, but obviously that's not their fault."
+
+[https://www.youtube.com/watch?v=avuEQdtfmLY&t=71s](https://www.youtube.com/watch?v=avuEQdtfmLY&t=71s)
+
+**3. Jordi Fernández — "if I'm trying to find reasons, it's almost like finding an excuse. Just go ahead and do it" — Jordi Fernández on the need for consistent team effort** [01:41](https://www.youtube.com/watch?v=avuEQdtfmLY&t=101s)
+
+Jordi Fernández: "I don't want to find excuses. We just got to be better and do it. If I'm trying to find reasons, it's almost like finding an excuse. Just go ahead and do it. Just do it. If you don't want to do it, sometimes it's like, are you afraid of the result? I'm okay if either way, we win or lose, if we play extremely hard and a good brand of basketball. And tonight didn't happen. We just had a much more physical team in front of us."
+
+[https://www.youtube.com/watch?v=avuEQdtfmLY&t=101s](https://www.youtube.com/watch?v=avuEQdtfmLY&t=101s)
+
+**4. Jordi Fernández — "no, there are no excuses. Not having young players or the youngest team in the league" — Jordi Fernández rejects youth as an excuse for inconsistency** [02:26](https://www.youtube.com/watch?v=avuEQdtfmLY&t=146s)
+
+Jordi Fernández: "No, there are no excuses. Not having young players or the youngest team in the league, it's not an excuse. We have to continue to demand to play a certain level physical and then play with purpose and do the things that we work on day to day and when we've done it, we've had success and today obviously it hasn't been the night that we expected."
+
+[https://www.youtube.com/watch?v=avuEQdtfmLY&t=146s](https://www.youtube.com/watch?v=avuEQdtfmLY&t=146s)
+
+**5. Jordi Fernández — "it cannot be just me demanding it, it's got to be them demanding it from each other" — Jordi Fernández on the importance of team accountability** [03:11](https://www.youtube.com/watch?v=avuEQdtfmLY&t=191s)
+
+Jordi Fernández: "It doesn't matter about the other team that we have in front. Obviously preparing for teams is important and we do all this job, but if you don't start with the basics, it doesn't really matter. It cannot be just me demanding it, it's got to be them demanding it from each other. We have another opportunity. I want the team to play extremely hard and be proud of them and that's my goal. My goal is to demand that playing hard and playing with purpose."
+
+[https://www.youtube.com/watch?v=avuEQdtfmLY&t=191s](https://www.youtube.com/watch?v=avuEQdtfmLY&t=191s)
+
+**6. Jordi Fernández — "this game is about taking punches and throwing punches and you cannot just quit" — Jordi Fernández on responding to opponent runs** [03:58](https://www.youtube.com/watch?v=avuEQdtfmLY&t=238s)
+
+Jordi Fernández: "It's just a matter of responding. They started the first quarter with a 5-0 run and called a timeout and we responded with another 5-0 run, they called a timeout, but then they kept punching and this game is about taking punches and throwing punches and you cannot just quit. That's pretty much it. We cannot find excuses, we just got to keep doing it and keep demanding it."
+
+[https://www.youtube.com/watch?v=avuEQdtfmLY&t=238s](https://www.youtube.com/watch?v=avuEQdtfmLY&t=238s)
+
+**7. Jordi Fernández — "I'm not pointing at one player. It's just like the team was very involved all together" — Jordi Fernández on rotation and player evaluation** [04:31](https://www.youtube.com/watch?v=avuEQdtfmLY&t=271s)
+
+Jordi Fernández: "No, I think we're going to keep playing guys, we're going to keep giving opportunities. I'm going to demand for everybody to play as hard as they can and to compete. Right now I'm not pointing at one player. It's just like the team was very involved all together and had great chemistry and tonight it didn't, so I'm not going to point on one person. We're going to evaluate **Nic Claxton**. Our priority is his health, keeping him healthy, keeping him ready to play as hard as he can and just keep building from here."
+
+[https://www.youtube.com/watch?v=avuEQdtfmLY&t=271s](https://www.youtube.com/watch?v=avuEQdtfmLY&t=271s)
+
+---
+
 ## Joe Mazzulla TAKES BLAME For Loss vs Hawks | Celtics vs Hawks Postgame — *Boston Celtics*
 
 Source: [https://www.youtube.com/watch?v=gejItFJTdEY](https://www.youtube.com/watch?v=gejItFJTdEY)
@@ -579,6 +753,54 @@ _Speakers identified: Rob Fischer, Cedric Coward_
 [https://www.youtube.com/watch?v=l2dxyVcxPQc&t=56s](https://www.youtube.com/watch?v=l2dxyVcxPQc&t=56s)
 
 <small>[Clip it](presserclips://clip?v=l2dxyVcxPQc&t=56&q=3) · [Send to Slack](presserclips://clip?v=l2dxyVcxPQc&t=56&q=3&slack=1)</small>
+
+---
+
+## Scottie Barnes | Post Game vs Brooklyn Nets | November 27, 2026 — *Toronto Raptors*
+
+Source: [https://www.youtube.com/watch?v=ozgo6s71O2s](https://www.youtube.com/watch?v=ozgo6s71O2s)
+
+_Speakers identified: Scottie Barnes_
+
+**1. Scottie Barnes — "We haven't got a home win in a month, so we just want to go out there." — Scottie Barnes on the team's home win drought** [00:07](https://www.youtube.com/watch?v=ozgo6s71O2s&t=7s)
+
+Scottie Barnes: "We were talking about we haven't got a home win in a month, so we just want to go out there, play hard. I think later in the game we figured out the differential of what we needed to do to be able to make it, so we just kept trying to push that pace. But for the most part of the game, I think we played really hard. I think we tried to do our best to execute our game plan and trying to be able to get through screens and DHOs, because they run a lot of DHOs with Michael Porter, Julius Randle, trying to maintain those guys."
+
+[https://www.youtube.com/watch?v=ozgo6s71O2s&t=7s](https://www.youtube.com/watch?v=ozgo6s71O2s&t=7s)
+
+<small>[Clip it](presserclips://clip?v=ozgo6s71O2s&t=7&q=1) · [Send to Slack](presserclips://clip?v=ozgo6s71O2s&t=7&q=1&slack=1)</small>
+
+**2. Scottie Barnes — "I think we've been doing a good job of just calling plays with me and him." — Scottie Barnes on his chemistry with Immanuel Quickley** [01:01](https://www.youtube.com/watch?v=ozgo6s71O2s&t=61s)
+
+Scottie Barnes: "For the past four or five games, I think we've been doing a good job of just calling plays with me and him in the ball screen, and I think we've been taking advantage of it. I think we've been doing a good job of him coming downhill. Some teams like to hedge, some teams like to stay on me, so him being able to take the ball down and being able to be aggressive off of it, I think it opens up so much for me being able to get that short pocket or that roll, no matter what they do."
+
+[https://www.youtube.com/watch?v=ozgo6s71O2s&t=61s](https://www.youtube.com/watch?v=ozgo6s71O2s&t=61s)
+
+<small>[Clip it](presserclips://clip?v=ozgo6s71O2s&t=61&q=2) · [Send to Slack](presserclips://clip?v=ozgo6s71O2s&t=61&q=2&slack=1)</small>
+
+**3. Scottie Barnes — "Him just being able to use that screen and going downhill right off of it." — Scottie Barnes on the team's offensive execution and playmaking** [02:36](https://www.youtube.com/watch?v=ozgo6s71O2s&t=156s)
+
+Scottie Barnes: "Him just being able to use that screen and going downhill right off of it, I think that just makes it so much of a threat. I think guys, they switch a lot, so we had to slip out more often than usual versus this team, and then sometimes they like to soft hedge or blitz with their five man. So just being able to make that read out of it for him, I think was great. I think we did a lot of great things in pick and roll. He hit Jakob a few times, and once we actually screen our man and he's able to get downhill, I think he's been doing a great job of making that read."
+
+[https://www.youtube.com/watch?v=ozgo6s71O2s&t=156s](https://www.youtube.com/watch?v=ozgo6s71O2s&t=156s)
+
+<small>[Clip it](presserclips://clip?v=ozgo6s71O2s&t=156&q=3) · [Send to Slack](presserclips://clip?v=ozgo6s71O2s&t=156&q=3&slack=1)</small>
+
+**4. Scottie Barnes — "I know I can't do it by myself and I know I'm going to need this group." — Scottie Barnes on his leadership role and team culture** [03:37](https://www.youtube.com/watch?v=ozgo6s71O2s&t=217s)
+
+Scottie Barnes: "I'm just trying to do my best to win basketball games. I know I can't do it by myself and I know I'm going to need this group to help me out as much as possible. So every day we're just trying to build something. Every single day, every single practice, we're just trying to build something. So however I can to talk to these guys each and every single day, and I think these guys make it easier for me to be able to talk to them, and how they respond, and then how we we build a brothership here. I think it just makes it easier and that's going to translate to leading to something bigger."
+
+[https://www.youtube.com/watch?v=ozgo6s71O2s&t=217s](https://www.youtube.com/watch?v=ozgo6s71O2s&t=217s)
+
+<small>[Clip it](presserclips://clip?v=ozgo6s71O2s&t=217&q=4) · [Send to Slack](presserclips://clip?v=ozgo6s71O2s&t=217&q=4&slack=1)</small>
+
+**5. Scottie Barnes — "He's been great, rebounding the ball at a higher rate, getting there with those offensive rebounds." — Scottie Barnes on the development of the team's center** [04:26](https://www.youtube.com/watch?v=ozgo6s71O2s&t=266s)
+
+Scottie Barnes: "He's been great, rebounding the ball at a higher rate, getting there with those offensive rebounds. He's been defensively rebounding as well, has great hands, been guarding the ball, staying in front of the ball. I think that's what he's been working on, staying in front of the ball, and I think he's been taking up that challenge. Hitting shots, of course, that's what we're going to do on this team, and we try to drive and he's open, that one more, just being able to make those shots and knock it down, it just opens up and creates so much space for everybody out there on the floor."
+
+[https://www.youtube.com/watch?v=ozgo6s71O2s&t=266s](https://www.youtube.com/watch?v=ozgo6s71O2s&t=266s)
+
+<small>[Clip it](presserclips://clip?v=ozgo6s71O2s&t=266&q=5) · [Send to Slack](presserclips://clip?v=ozgo6s71O2s&t=266&q=5&slack=1)</small>
 
 ---
 

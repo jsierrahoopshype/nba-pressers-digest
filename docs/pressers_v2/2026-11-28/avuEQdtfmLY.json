@@ -1,0 +1,227 @@
+{
+  "video_title": "Jordi Fernández Postgame Press Conference at Toronto",
+  "speakers_seen": [
+    "Jordi Fernández"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jordi Fernández",
+      "timestamp": "00:12",
+      "summary_phrase": "Jordi Fernández on the team's lack of physical intensity",
+      "names_mentioned": [],
+      "excerpt": "the most physical team won. That's plain simple. They were the aggressors",
+      "quote": "The most physical team won. That's plain simple. They were the aggressors and after a good performance in Milwaukee then we respond with this. Obviously it's not about the result, it's how you fight and if the other team has a level, just to match that level and keep fighting and responding and we just didn't. I thought that the first half we could have done better things defensively as far as our urgency to contest and rebound, we were not there, we were not winning 50-50 balls. Addressed it at halftime and then we respond with the worst quarter of the game.",
+      "verbatim_original_language": "",
+      "start_seconds": 12,
+      "end_seconds": 52,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Jordi Fernandez was blunt after the Nets loss to Toronto: The most physical team won. That is plain simple. He added that the team failed to match the level of their opponent and called the third quarter the worst of the game.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BKN",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez discusses his team's lack of physical intensity and defensive effort during their loss to Toronto.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jordi Fernández",
+      "timestamp": "01:11",
+      "summary_phrase": "Jordi Fernández on the team's defensive foul trouble",
+      "names_mentioned": [],
+      "excerpt": "when you're the aggressor, you get called less fouls. When you're always second late",
+      "quote": "When you're the aggressor, you get called less fouls. When you're always second late and you're the softer team, then usually they call the fouls. I just think they got away with too much, but obviously that's not their fault.",
+      "verbatim_original_language": "",
+      "start_seconds": 71,
+      "end_seconds": 86,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jordi Fernandez on the Nets foul trouble tonight: When you are the aggressor you get called less fouls. When you are always second late and you are the softer team then usually they call the fouls.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez comments on how the team's lack of aggression contributed to their foul trouble.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jordi Fernández",
+      "timestamp": "01:41",
+      "summary_phrase": "Jordi Fernández on the need for consistent team effort",
+      "names_mentioned": [],
+      "excerpt": "if I'm trying to find reasons, it's almost like finding an excuse. Just go ahead and do it",
+      "quote": "I don't want to find excuses. We just got to be better and do it. If I'm trying to find reasons, it's almost like finding an excuse. Just go ahead and do it. Just do it. If you don't want to do it, sometimes it's like, are you afraid of the result? I'm okay if either way, we win or lose, if we play extremely hard and a good brand of basketball. And tonight didn't happen. We just had a much more physical team in front of us.",
+      "verbatim_original_language": "",
+      "start_seconds": 101,
+      "end_seconds": 135,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jordi Fernandez says he is not looking for excuses for the Nets performance: I am okay if either way we win or lose if we play extremely hard and a good brand of basketball. And tonight it did not happen.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez emphasizes the need for consistent effort regardless of the game outcome.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jordi Fernández",
+      "timestamp": "02:26",
+      "summary_phrase": "Jordi Fernández rejects youth as an excuse for inconsistency",
+      "names_mentioned": [],
+      "excerpt": "no, there are no excuses. Not having young players or the youngest team in the league",
+      "quote": "No, there are no excuses. Not having young players or the youngest team in the league, it's not an excuse. We have to continue to demand to play a certain level physical and then play with purpose and do the things that we work on day to day and when we've done it, we've had success and today obviously it hasn't been the night that we expected.",
+      "verbatim_original_language": "No, no hi han excuses. No, tenir nens joves o l'equip més jove de la lliga, no és una excusa. I hem de seguir exigint a jugar un cert nivell físic, i després jugar amb propòsit i fer les coses que treballem al dia a dia i que quan ho fem, evidentment hem tingut èxit i avui evidentment no ha sigut la nit que esperàvem.",
+      "start_seconds": 146,
+      "end_seconds": 172,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez rejects the idea that youth is an excuse for the Nets inconsistency: Not having young players or the youngest team in the league it is not an excuse. We have to continue to demand to play a certain level physical.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez rejects the team's youth as an excuse for their inconsistent performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jordi Fernández",
+      "timestamp": "03:11",
+      "summary_phrase": "Jordi Fernández on the importance of team accountability",
+      "names_mentioned": [],
+      "excerpt": "it cannot be just me demanding it, it's got to be them demanding it from each other",
+      "quote": "It doesn't matter about the other team that we have in front. Obviously preparing for teams is important and we do all this job, but if you don't start with the basics, it doesn't really matter. It cannot be just me demanding it, it's got to be them demanding it from each other. We have another opportunity. I want the team to play extremely hard and be proud of them and that's my goal. My goal is to demand that playing hard and playing with purpose.",
+      "verbatim_original_language": "",
+      "start_seconds": 191,
+      "end_seconds": 224,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Jordi Fernandez on the Nets needing more internal accountability: It cannot be just me demanding it, it has to be them demanding it from each other. My goal is to demand that playing hard and playing with purpose.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez stresses the importance of players holding each other accountable for their effort.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jordi Fernández",
+      "timestamp": "03:58",
+      "summary_phrase": "Jordi Fernández on responding to opponent runs",
+      "names_mentioned": [],
+      "excerpt": "this game is about taking punches and throwing punches and you cannot just quit",
+      "quote": "It's just a matter of responding. They started the first quarter with a 5-0 run and called a timeout and we responded with another 5-0 run, they called a timeout, but then they kept punching and this game is about taking punches and throwing punches and you cannot just quit. That's pretty much it. We cannot find excuses, we just got to keep doing it and keep demanding it.",
+      "verbatim_original_language": "",
+      "start_seconds": 238,
+      "end_seconds": 265,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jordi Fernandez on the Nets inability to handle runs: This game is about taking punches and throwing punches and you cannot just quit. We cannot find excuses, we just have to keep doing it and keep demanding it.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Jordi Fernandez discusses the team's failure to respond to the opponent's momentum throughout the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jordi Fernández",
+      "timestamp": "04:31",
+      "summary_phrase": "Jordi Fernández on rotation and player evaluation",
+      "names_mentioned": [
+        "Nic Claxton"
+      ],
+      "excerpt": "I'm not pointing at one player. It's just like the team was very involved all together",
+      "quote": "No, I think we're going to keep playing guys, we're going to keep giving opportunities. I'm going to demand for everybody to play as hard as they can and to compete. Right now I'm not pointing at one player. It's just like the team was very involved all together and had great chemistry and tonight it didn't, so I'm not going to point on one person. We're going to evaluate Nic Claxton. Our priority is his health, keeping him healthy, keeping him ready to play as hard as he can and just keep building from here.",
+      "verbatim_original_language": "",
+      "start_seconds": 271,
+      "end_seconds": 308,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Jordi Fernandez says the Nets are evaluating Nic Claxton and that his health remains the priority: Our priority is his health, keeping him healthy, keeping him ready to play as hard as he can and just keep building from here.",
+      "team": "Brooklyn Nets",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Nic Claxton"
+        ],
+        "teams": [
+          "BKN"
+        ],
+        "topics": [
+          "injuries",
+          "coaching decisions"
+        ],
+        "context": "Jordi Fernandez discusses rotation plans and provides an update on Nic Claxton's health status.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "avuEQdtfmLY",
+  "url": "https://www.youtube.com/watch?v=avuEQdtfmLY",
+  "channel_team": "Brooklyn Nets",
+  "published": "2026-11-28T05:00:00Z",
+  "duration_seconds": 343,
+  "processed_at": "2026-11-28T05:15:18Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

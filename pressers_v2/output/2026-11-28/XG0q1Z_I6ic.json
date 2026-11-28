@@ -1,0 +1,143 @@
+{
+  "video_title": "Tuomas Iisalo Press Conference | Grizzlies vs. Timberwolves",
+  "speakers_seen": [
+    "Tuomas Iisalo"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "00:00",
+      "summary_phrase": "Tuomas Iisalo on Grizzlies' growth in high-stakes game environment",
+      "names_mentioned": [],
+      "excerpt": "This was one of the first games that this group has played with real stakes.",
+      "quote": "It was a good step forward for us. It is one game, but the reason that I think there was excitement was this was one of the first games that this group has played with real stakes. To be in that position, it is a big privilege to get to play these games. No matter the outcome, these are the type of environments you have to be in. In the third quarter, when we got really punched in the mouth after a great beginning to the game, we were able to step up to the challenge. Those are the moments that drive the whole team and drive those individuals forward when you can come through in that situation.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 45,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo says playing in high stakes environments is a big privilege for the Grizzlies group and believes the team showed growth by responding to pressure in the third quarter.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo discusses the team's performance and growth during a high-stakes game environment against the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "01:20",
+      "summary_phrase": "Tuomas Iisalo on team standards and integrating new players",
+      "names_mentioned": [
+        "Javon Small",
+        "Lawson Lovering"
+      ],
+      "excerpt": "We have very clear expectations and standards, and this group is really meeting them on a daily basis.",
+      "quote": "We have very clear expectations and standards, and this group is really meeting them on a daily basis. Because of this, it is at the same time simple but not easy for new guys to step into the lineup because they know what is expected of them from a focus, effort, and attention to detail standpoint. Those guys that you mentioned, for example, Javon today, Lawson Lovering, they came in and they did exactly their job. That is all we are asking for, nothing more, nothing less.",
+      "text_blocks": [],
+      "start_seconds": 80,
+      "end_seconds": 113,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo credits the team standards for helping new players like Javon and Lawson Lovering integrate into the lineup quickly by keeping expectations simple and clear.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Javon Freeman-Liberty",
+          "Lawson Lovering"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Tuomas Iisalo explains the team's standards and praises the contributions of Javon Freeman-Liberty and Lawson Lovering.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "02:40",
+      "summary_phrase": "Tuomas Iisalo on decision-making and team philosophy",
+      "names_mentioned": [],
+      "excerpt": "I just believe that there are good choices in these situations, there are better choices, and worse choices.",
+      "quote": "We have never really phrased it as selflessness. We are just making the logical decision based on the problem that we have in that situation. We talk a lot about the mental side or being selfish or unselfish. I do not really believe in those concepts. I just believe that there are good choices in these situations, there are better choices, and worse choices. Try to make the better choices, and that depends on your skill set, who you are playing with, but also the other players. We talk a lot less about the mental side. For us, it is more like a decision tree that we follow, which also takes a lot of the pressure out of that because then you can have runs in either direction and you still stay with it.",
+      "text_blocks": [],
+      "start_seconds": 160,
+      "end_seconds": 212,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Tuomas Iisalo says he does not believe in the concept of selflessness in basketball. Instead he views the game as a decision tree where players simply try to make the better choice based on the situation.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo explains the team's offensive philosophy regarding decision-making rather than focusing on the mental concept of selflessness.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Tuomas Iisalo",
+      "timestamp": "03:50",
+      "summary_phrase": "Tuomas Iisalo on responding to third-quarter pressure",
+      "names_mentioned": [],
+      "excerpt": "We are in a one-and-done situation for the cup.",
+      "quote": "One of the things that we talked about during our timeout is that this is a one-and-done situation for the cup. Do we want to give these guys the chance to take us out by basically bullying us out of our spots, or are we going to push back? Because this is it. There is no second opportunity. The response to that was great. We saw multiple efforts defensively, big shots offensively, better organization, and I thought one of the things we did great at that point, we did not take any steps back. When they pressured, we started attacking that pressure. We got a couple of times to the foul line, got a couple of paint touches, and then we were able to create from there.",
+      "text_blocks": [],
+      "start_seconds": 230,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Tuomas Iisalo on the team response to third quarter pressure: We talked about whether we wanted to let them bully us out of our spots or if we were going to push back. The response was great.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Tuomas Iisalo describes how the team responded to pressure during a timeout in their cup game against the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "XG0q1Z_I6ic",
+  "url": "https://www.youtube.com/watch?v=XG0q1Z_I6ic",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-28T04:56:28Z",
+  "duration_seconds": 282,
+  "processed_at": "2026-11-28T05:15:11Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}
