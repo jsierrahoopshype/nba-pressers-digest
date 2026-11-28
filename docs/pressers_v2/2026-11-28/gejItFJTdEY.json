@@ -1,0 +1,199 @@
+{
+  "video_title": "Joe Mazzulla TAKES BLAME For Loss vs Hawks | Celtics vs Hawks Postgame",
+  "speakers_seen": [
+    "Joe Mazzulla"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "00:06",
+      "summary_phrase": "Joe Mazzulla takes responsibility for late-game play calling and spacing",
+      "names_mentioned": [],
+      "excerpt": "our play calling wasn't right. We didn't put them in position and spacing to make the right reads.",
+      "quote": "It was a bang-bang play. I thought we had come out of the timeout and I was like if we have a breakaway we're going to go for it. It was one of those things where you don't know exactly what was going to happen. I thought there was going to be a foul there or there was going to be a breakaway and obviously it wasn't. So, it was just one of those bang-bang moments. Those guys, they do that, that's something Atlanta does very well. Our play calling wasn't right. We didn't put them in position and spacing to make the right reads, so I think that one's on me.",
+      "start_seconds": 6,
+      "end_seconds": 49,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla takes the blame for the Celtics loss to the Hawks, saying his play calling and spacing were not right in the final moments.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ATL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Joe Mazzulla discusses the late-game play calling and spacing during the loss against the Atlanta Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "01:01",
+      "summary_phrase": "Mazzulla attributes turnovers to stylistic changes and lack of offensive efficiency",
+      "names_mentioned": [],
+      "excerpt": "we can't have a 35 point second half. I have to call better plays, put us in better spacing.",
+      "quote": "Against Atlanta it's been an issue for us. I remember a game last year we had 20. It's something that they're really good at. A little bit of it is a stylistic change to the way that we're playing, just with some off-ball and moving a lot more and a little bit of unpredictability. But tonight, and especially in the second half, we can't have a 35 point second half. I have to call better plays, put us in better spacing, get better opportunities for us to get clean catches, clean advantages and just didn't do that tonight and they were able to take advantage of that.",
+      "start_seconds": 61,
+      "end_seconds": 102,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says the Celtics offensive struggles against Atlanta are partly due to a stylistic change in how they are playing with more off ball movement.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ATL"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Joe Mazzulla explains how offensive stylistic changes and poor play calling contributed to turnovers against the Atlanta Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "01:35",
+      "summary_phrase": "Mazzulla emphasizes the need for consistent offensive efficiency across all four quarters",
+      "names_mentioned": [],
+      "excerpt": "we just can't have two quarters where we have 18 points and 17 points.",
+      "quote": "31 seems like a lot, but it's really the 18. We just can't have two quarters where we have 18 points and 17 points. Obviously in Washington the 40 point quarter is our defense, but tonight I thought it was our offense. Our defense is putting us in position to win. 87 points, 17 point fourth quarter, it's just our lack of offensive efficiency at times is putting too much pressure on our defense and it's something I have to figure out how I could just put us in better positions in the second half.",
+      "start_seconds": 95,
+      "end_seconds": 132,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says the Celtics defense is putting them in position to win, but the team's lack of offensive efficiency is putting too much pressure on that unit.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "WAS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla addresses the team's offensive inefficiency and the pressure it places on the defense.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "02:47",
+      "summary_phrase": "Mazzulla discusses Jayson Tatum's struggles and the need for better positioning",
+      "names_mentioned": [
+        "Jayson Tatum"
+      ],
+      "excerpt": "I have to find better opportunities to either get him in different spots on the floor.",
+      "quote": "It starts with me finding better opportunities to either get him in different spots on the floor where it's easier that he can make plays for us. Obviously teams are adjusting to him in the second half because of what he's having to do. So yeah, I have to, whether it's different locations, different play calling, I have to put him in better positions for sure to be able to take advantage of stuff like that, especially in the fourth quarter.",
+      "start_seconds": 167,
+      "end_seconds": 198,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 3,
+      "social_post": "Joe Mazzulla admits he needs to find better spots on the floor for Jayson Tatum as teams adjust to him in the second half of games.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jayson Tatum"
+        ],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Joe Mazzulla discusses the need to adjust his play calling to help Jayson Tatum perform better in the fourth quarter.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "03:47",
+      "summary_phrase": "Mazzulla identifies turnovers, free throws, and rebounding as key areas for improvement",
+      "names_mentioned": [],
+      "excerpt": "it comes down to three things: free throws, turnovers and rebounds.",
+      "quote": "I still think it comes down to three things: free throws, turnovers and rebounds. You take a look at the Sacramento game, it was rebounding. You take a look at tonight, it was turnovers. So I just think in those moments, your turnovers, your free throws, your rebounding, those things are just increased a lot more and you just have to be better at those.",
+      "start_seconds": 227,
+      "end_seconds": 252,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla says the Celtics focus remains on three key areas for improvement: free throws, turnovers, and rebounding.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "SAC"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla identifies turnovers, free throws, and rebounding as the primary areas for improvement after the loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Joe Mazzulla",
+      "timestamp": "05:30",
+      "summary_phrase": "Mazzulla explains defensive struggles as a byproduct of offensive inefficiency",
+      "names_mentioned": [],
+      "excerpt": "it's really just a byproduct of our offense. It's five to ten points here and there.",
+      "quote": "Three out of the four quarters we've had elite defensive games and I think it just weighs on you. You can't have an 18 point quarter and a 17 point quarter and that just puts too much pressure on your defense. So I think it's really just a byproduct of our offense. It's five to ten points here and there that we have to get better at, which will take a lot of pressure off our defense if we can just play more efficient offense.",
+      "start_seconds": 330,
+      "end_seconds": 363,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Joe Mazzulla believes the Celtics defensive struggles are a byproduct of their offensive inefficiency, noting that low scoring quarters put too much pressure on the defense.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Joe Mazzulla explains that the team's defensive pressure is a result of inconsistent offensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "gejItFJTdEY",
+  "url": "https://www.youtube.com/watch?v=gejItFJTdEY",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-28T04:08:14Z",
+  "duration_seconds": 363,
+  "processed_at": "2026-11-28T04:24:02Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

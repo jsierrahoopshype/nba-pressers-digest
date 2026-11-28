@@ -1,0 +1,250 @@
+{
+  "video_title": "Jayson Tatum EXPLAINS What Happened on Late Turnover vs Hawks | Celtics vs Hawks Postgame",
+  "speakers_seen": [
+    "Jayson Tatum"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Jayson Tatum",
+      "timestamp": "00:07",
+      "summary_phrase": "Jayson Tatum on the controversial non-call during his late turnover",
+      "names_mentioned": [],
+      "excerpt": "I thought I got fouled. Didn't call it, turned the ball over.",
+      "quote": "I thought I got fouled. Didn't call it, turned the ball over. It was a tough bang-bang play at the end.",
+      "text_blocks": [],
+      "start_seconds": 7,
+      "end_seconds": 15,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Jayson Tatum on his late turnover against the Hawks: I thought I got fouled. Didn't call it, turned the ball over. It was a tough bang-bang play at the end.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS",
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum discusses his late-game turnover and the lack of a foul call against the Hawks.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Jayson Tatum",
+      "timestamp": "00:25",
+      "summary_phrase": "Jayson Tatum on the disadvantage of assuming a foul call",
+      "names_mentioned": [],
+      "excerpt": "You should never assume, especially in those moments.",
+      "quote": "Thought I had the advantage when I got the steal. Thought when he chucked me, I just assumed, and that's on my part. You should never assume, especially in those moments.",
+      "text_blocks": [],
+      "start_seconds": 25,
+      "end_seconds": 37,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Jayson Tatum on his late turnover: I thought when he chucked me, I just assumed, and that is on my part. You should never assume, especially in those moments.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum reflects on his mistake of assuming a foul would be called during a critical play.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Jayson Tatum",
+      "timestamp": "01:12",
+      "summary_phrase": "Jayson Tatum on maintaining an aggressive mindset throughout the game",
+      "names_mentioned": [],
+      "excerpt": "Always be in attack mode, always be aggressive. Never predetermine what you want to do.",
+      "quote": "Always be in attack mode, always be aggressive. Never predetermine what you want to do. It's all about reading the defense and trying to find the advantage and make the right play.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 84,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on his approach: Always be in attack mode, always be aggressive. Never predetermine what you want to do. It is all about reading the defense and trying to find the advantage and make the right play.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum explains his offensive philosophy of reading the defense rather than predetermining his moves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Jayson Tatum",
+      "timestamp": "01:40",
+      "summary_phrase": "Jayson Tatum on his commitment to facilitating for teammates",
+      "names_mentioned": [],
+      "excerpt": "I'm not going to not pass somebody the ball because they're in a little slump.",
+      "quote": "It's a long season. I'm not going to not pass somebody the ball because they're in a little slump, because then how they going to get out of the slump? It's all about making the right play, making the right read. I got the utmost confidence in the guys on our team knocking down shots.",
+      "text_blocks": [],
+      "start_seconds": 100,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Tatum on trusting teammates in slumps: I am not going to not pass somebody the ball because they are in a little slump, because then how they going to get out of the slump? I got the utmost confidence in the guys on our team.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Jayson Tatum discusses his commitment to passing to teammates even when they are struggling with their shooting.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Jayson Tatum",
+      "timestamp": "02:25",
+      "summary_phrase": "Jayson Tatum on the need for increased focus on defense",
+      "names_mentioned": [],
+      "excerpt": "I think we just got to be more focused.",
+      "quote": "I think we just got to be more focused. Our defense is keeping us in games. All these games that we've lost recently have been one-score games in the 80s. We're doing a great job on that end, our offense just has to meet our defensive side.",
+      "text_blocks": [],
+      "start_seconds": 145,
+      "end_seconds": 163,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on the Celtics offense: We just got to be more focused. Our defense is keeping us in games. We are doing a great job on that end, our offense just has to meet our defensive side.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum addresses the need for the Celtics offense to improve to match their defensive performance.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jayson Tatum",
+      "timestamp": "03:46",
+      "summary_phrase": "Jayson Tatum on his responsibility to make shots",
+      "names_mentioned": [],
+      "excerpt": "It's just about me making shots, and that's part of my job, and I got to be better.",
+      "quote": "It's not about subs or anything like that. It's just about me making shots, and that's part of my job, and I got to be better at that.",
+      "text_blocks": [],
+      "start_seconds": 226,
+      "end_seconds": 237,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on his recent struggles: It is not about subs or anything like that. It is just about me making shots, and that is part of my job, and I got to be better at that.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum takes personal responsibility for his shooting performance following a loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jayson Tatum",
+      "timestamp": "04:19",
+      "summary_phrase": "Jayson Tatum on the combination of turnovers and defensive rebounding",
+      "names_mentioned": [],
+      "excerpt": "It's a combination of turnovers, defensive rebounding, those things really can really kind of get you off to a rocky start.",
+      "quote": "It's a combination of turnovers, defensive rebounding, those things really can really kind of get you off to a rocky start. We can't be surprised. We're going to be winning a lot of the times, especially coming out of halftime, so I think it's on the starters to have a little more pop.",
+      "text_blocks": [],
+      "start_seconds": 259,
+      "end_seconds": 279,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jayson Tatum says the Celtics starters need to have more pop coming out of halftime to avoid rocky starts caused by turnovers and defensive rebounding issues.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum identifies turnovers and defensive rebounding as key areas for the starters to improve.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jayson Tatum",
+      "timestamp": "04:54",
+      "summary_phrase": "Jayson Tatum on the motivation of opposing teams",
+      "names_mentioned": [],
+      "excerpt": "Just can't be surprised that, you know, when other teams are down, and how motivated they might be.",
+      "quote": "Just can't be surprised that, you know, when other teams are down, and how motivated they might be coming out the half. They're going to halftime, they want to make adjustments just like we do. So we just got to, we're not far off. We're close, we're right there. Some little things that we just got to make some adjustments.",
+      "text_blocks": [],
+      "start_seconds": 294,
+      "end_seconds": 317,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jayson Tatum on opposing teams: Just can not be surprised that when other teams are down, and how motivated they might be coming out the half. We are not far off. We are close, we are right there.",
+      "team": "Boston Celtics",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "BOS"
+        ],
+        "topics": [],
+        "context": "Jayson Tatum discusses the need for the team to be better prepared for the adjustments opposing teams make after halftime.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "RvSUzo9xjI8",
+  "url": "https://www.youtube.com/watch?v=RvSUzo9xjI8",
+  "channel_team": "Boston Celtics",
+  "published": "2026-11-28T04:20:20Z",
+  "duration_seconds": 338,
+  "processed_at": "2026-11-28T04:23:40Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false,
+  "no_clips": true,
+  "third_party": true
+}

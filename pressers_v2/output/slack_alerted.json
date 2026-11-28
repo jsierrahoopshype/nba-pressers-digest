@@ -2949,6 +2949,38 @@
   }
  },
  "pending": {
+  "4a1Rx3ut5Ds": {
+   "channel": "Milwaukee Bucks",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-28",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T04:24:10Z",
+   "run_id": "2026-11-28-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-28",
+   "speaker": "Brayden Burries",
+   "title": "Brayden Burries Postgame Media Availability | 11.27.26",
+   "top_quote": "I think just the big leads they had, big runs they had. It was a lot of momentum plays they had with the end of the quarter three-pointer, almost had a steal, then they get an and-one, a long rebound, get a stop, but we don't get the rebound and they hit a three. Just plays like that, plays like that just takes your adrenaline out of it and it's like, dang. But the thing we got to get better at is just moving on to the next play. And when we get down, just continue to stay with each other and know that basketball is a game of runs.",
+   "video_id": "4a1Rx3ut5Ds"
+  },
+  "5j7HQIIzfFQ": {
+   "channel": "Indiana Pacers",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-28",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T04:24:10Z",
+   "run_id": "2026-11-28-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-28",
+   "speaker": "Rick Carlisle",
+   "title": "Rick Carlisle Postgame Media Availability | November 27, 2026",
+   "top_quote": "The whole thing started off with LeBron James hitting two holacious shots out of the corner, right up in our guys' grill when we were playing good defense. So some nights it's like that, and I don't like the way this game went. I know we can play a lot better, I know we can compete a lot better, but it happened and it's over and now we got to turn toward tomorrow.",
+   "video_id": "5j7HQIIzfFQ"
+  },
   "7SUOs8HLfUo": {
    "channel": "Minnesota Timberwolves",
    "clip_count": 7,
@@ -2997,6 +3029,38 @@
    "top_quote": "It was great to see our guys put 48 minutes together. I mean, you think you look at the start of the first quarter and the start of the third quarter, we didn't get off to the right starts both quarters there, but our guys just were resilient all night. Obviously, we had a tough one against them in our first game back in Milwaukee, and this was going to be a tough one again. The physicality, obviously, Barnes, heck of a player. I thought we did a great job throughout the game just trying to make him take tough shots, but he's hard to shut down. I thought our rotations, for the most part, were really good, and then just trying to keep them off the boards. I mean, they had 31 second-chance points in the first game. We talked about it at halftime, 14 for the game, that's a big deciding factor.",
    "video_id": "HPcUSVAXQS8"
   },
+  "IyIwrUlL0b4": {
+   "channel": "Atlanta Hawks",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-28",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T04:24:10Z",
+   "run_id": "2026-11-28-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-28",
+   "speaker": "Quin Snyder",
+   "title": "Hawks vs. Celtics Press Conference: Head Coach Quin Snyder",
+   "top_quote": "Sometimes if you're not making shots, it deflates you a little bit. That's the right word. I think it's energy and we had a lot more urgency getting the ball in, more urgency running. But again, if you're sometimes when you're missing, it's hard to get back to the present. Even when we got stops, I didn't think we were quite as urgent to run.",
+   "video_id": "IyIwrUlL0b4"
+  },
+  "KWoJuIpycnE": {
+   "channel": "New York Knicks",
+   "clip_count": 12,
+   "content_type": "presser",
+   "date": "2026-11-28",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T04:24:10Z",
+   "run_id": "2026-11-28-overnight",
+   "run_slot": "overnight",
+   "single_speaker": false,
+   "slot_date": "2026-11-28",
+   "speaker": "Karl-Anthony Towns",
+   "title": "Karl-Anthony Towns, Landry Shamet, Jalen Brunson, James Wiseman Postgame Media | November 27, 2026",
+   "top_quote": "We put ourselves in those positions that we shouldn't, and we didn't execute at a high level today. Again, we found ourselves fighting, fighting, fighting our way back into the game, but at the end of the day, what got us in the deficit is what lost us the game which was execution. It had nothing to do with the last two or three minutes of the game; it was a game-long lack of execution that hurt us.",
+   "video_id": "KWoJuIpycnE"
+  },
   "KyaBRQEOrY4": {
    "channel": "Cleveland Cavaliers",
    "clip_count": 6,
@@ -3029,6 +3093,22 @@
    "top_quote": "I think we came out and competed. That's the main battle, is competing, not laying down. It's easy to make excuses in this league, but as long as you compete, you give yourself a chance every night. I'm proud of the guys, the effort that we showed. We came up short, but there's things to build off of.",
    "video_id": "LGw8NJ2bfNE"
   },
+  "LZkZLiz-XJg": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 5,
+   "content_type": "presser",
+   "date": "2026-11-28",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T04:24:10Z",
+   "run_id": "2026-11-28-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-28",
+   "speaker": "Javon Small",
+   "title": "Javon Small Court Side Interview | Grizzlies vs. Timberwolves",
+   "top_quote": "Javon, congratulations on the win first of all and boy you had yourself a nice little run in that first half. How were you feeling with the ball in your hands at that point? I was feeling confident. The past few games I really haven't been feeling it as much, but the only thing I can really control is my attitude and my effort. So, I just went out there and played my game today.",
+   "video_id": "LZkZLiz-XJg"
+  },
   "Lh02MmMunbk": {
    "channel": "Cleveland Cavaliers",
    "clip_count": 8,
@@ -3045,6 +3125,22 @@
    "top_quote": "We got to be better. We gave up 70 points in the first half and especially against teams like these where they play fast in transition and fast in the half court. We got to be better at guarding the ball and keeping them out of transition. Second half we were a lot better defensively, but offensively we were pretty bad, pretty slow, stagnant the whole game. Just not how we want to play.",
    "video_id": "Lh02MmMunbk"
   },
+  "RvSUzo9xjI8": {
+   "channel": "Boston Celtics",
+   "clip_count": 8,
+   "content_type": "presser",
+   "date": "2026-11-28",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T04:24:10Z",
+   "run_id": "2026-11-28-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-28",
+   "speaker": "Jayson Tatum",
+   "title": "Jayson Tatum EXPLAINS What Happened on Late Turnover vs Hawks | Celtics vs Hawks Postgame",
+   "top_quote": "I thought I got fouled. Didn't call it, turned the ball over. It was a tough bang-bang play at the end.",
+   "video_id": "RvSUzo9xjI8"
+  },
   "UQChnqoeqn8": {
    "channel": "Phoenix Suns",
    "clip_count": 2,
@@ -3060,6 +3156,22 @@
    "title": "Jalen Green Postgame On-Court Interview after Suns win against New Orleans Pelicans 123-119",
    "top_quote": "Jalen, you look, this Pelicans team wouldn't go away. They had a season-high 67 bench points. How were you guys able to lock in and get this one done in overtime? We just had to stay locked in defensively. That's where a lot of our lapses was. It's tough, it's a road game, they're at home. A lot of teams play better when they're at home, and they came out and put out a fight. You can't come out here and just relax. You got to come out and play hard, so that's what we did.",
    "video_id": "UQChnqoeqn8"
+  },
+  "VrG9WkIZAxM": {
+   "channel": "Toronto Raptors",
+   "clip_count": 7,
+   "content_type": "presser",
+   "date": "2026-11-28",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T04:24:10Z",
+   "run_id": "2026-11-28-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-28",
+   "speaker": "Immanuel Quickley",
+   "title": "Immanuel Quickley | Post Game vs Brooklyn Nets | November 27, 2026",
+   "top_quote": "Yesterday we spent probably 15 minutes just talking through different pick and roll situations, what defenders and teams are doing. I try to talk to him throughout the game, but honestly, he just an elite player is really easy to play with great players. I say it all the time, he makes the game really easy for me.",
+   "video_id": "VrG9WkIZAxM"
   },
   "cTpWrWnx7to": {
    "channel": "Minnesota Timberwolves",
@@ -3093,6 +3205,38 @@
    "top_quote": "He's become much more consistent as a player, not nearly the number of highs and lows. Just a lot of highs. And when something does happen that isn't the greatest thing, he recovers very quickly. It's a maturity thing. He's a great kid. I know his family, I know his dad, and he really wants it bad. By wanting it, he wants to be as good a player as he can be to help his team. He's gained the trust of our veteran players because of how hard he goes, he plays to his strengths, they know what they can expect from him, and they know that he will be there for them.",
    "video_id": "ecLl-7vJcjY"
   },
+  "gejItFJTdEY": {
+   "channel": "Boston Celtics",
+   "clip_count": 6,
+   "content_type": "presser",
+   "date": "2026-11-28",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T04:24:10Z",
+   "run_id": "2026-11-28-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-28",
+   "speaker": "Joe Mazzulla",
+   "title": "Joe Mazzulla TAKES BLAME For Loss vs Hawks | Celtics vs Hawks Postgame",
+   "top_quote": "It was a bang-bang play. I thought we had come out of the timeout and I was like if we have a breakaway we're going to go for it. It was one of those things where you don't know exactly what was going to happen. I thought there was going to be a foul there or there was going to be a breakaway and obviously it wasn't. So, it was just one of those bang-bang moments. Those guys, they do that, that's something Atlanta does very well. Our play calling wasn't right. We didn't put them in position and spacing to make the right reads, so I think that one's on me.",
+   "video_id": "gejItFJTdEY"
+  },
+  "l2dxyVcxPQc": {
+   "channel": "Memphis Grizzlies",
+   "clip_count": 3,
+   "content_type": "presser",
+   "date": "2026-11-28",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T04:24:10Z",
+   "run_id": "2026-11-28-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-28",
+   "speaker": "Cedric Coward",
+   "title": "Cedric Coward Walk-Off Interview | Grizzlies vs. Timberwolves",
+   "top_quote": "You guys weathered the storm in that third quarter, come out of it with the lead. In the fourth quarter you take over the game again. What changed in that fourth quarter for you guys? We have been here before. It happened last game, last time we played these guys and we didn't respond the correct way. Just making sure we respond the correct way this time, stick to our game, and never get worried. For us, we have been through it. Like coach was saying, we have been through it all training camp, all last season, and now this season we are built for it.",
+   "video_id": "l2dxyVcxPQc"
+  },
   "rbN1OSgh3vo": {
    "channel": "Milwaukee Bucks",
    "clip_count": 5,
@@ -3124,6 +3268,22 @@
    "title": "Houston Rockets Postgame: Kevin Durant talks big fourth quarter and win",
    "top_quote": "No, I mean you look at our team. That was our 18th game of the year. They looking at our stats and seeing guys stepping up knocking down shots. You see other teams give up easy shots to try to stop guys in the paint or stop me on a pick and roll. So I felt like they just tried to play solid defense tonight and they did a good job of switching up coverages throughout the possession which threw us off a bit. But I think we got our rhythm.",
    "video_id": "tEWB4xc9VeQ"
+  },
+  "vNlsa9zuBRQ": {
+   "channel": "Toronto Raptors",
+   "clip_count": 4,
+   "content_type": "presser",
+   "date": "2026-11-28",
+   "is_one_off": false,
+   "queued_at": "2026-11-28T04:24:10Z",
+   "run_id": "2026-11-28-overnight",
+   "run_slot": "overnight",
+   "single_speaker": true,
+   "slot_date": "2026-11-28",
+   "speaker": "Darko Rajakovic",
+   "title": "Darko Rajakovic | Post Game vs Brooklyn Nets | November 27, 2026",
+   "top_quote": "We were trying to fight the margin. We knew that we needed to try to be above 20 at least so we can get a wild card. Obviously waiting on other teams as well what they do. But guys had a lot of grit to play all the way through and to find those extra four points.",
+   "video_id": "vNlsa9zuBRQ"
   },
   "vmYnUII1ti4": {
    "channel": "Houston Rockets",

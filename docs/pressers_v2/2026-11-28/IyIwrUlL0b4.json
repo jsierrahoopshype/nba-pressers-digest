@@ -1,0 +1,115 @@
+{
+  "video_title": "Hawks vs. Celtics Press Conference: Head Coach Quin Snyder",
+  "speakers_seen": [
+    "Quin Snyder"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Quin Snyder",
+      "timestamp": "00:00",
+      "summary_phrase": "Quin Snyder on the Hawks' energy and urgency in transition",
+      "names_mentioned": [],
+      "excerpt": "we had a lot more urgency getting the ball in, more urgency running",
+      "quote": "Sometimes if you're not making shots, it deflates you a little bit. That's the right word. I think it's energy and we had a lot more urgency getting the ball in, more urgency running. But again, if you're sometimes when you're missing, it's hard to get back to the present. Even when we got stops, I didn't think we were quite as urgent to run.",
+      "text_blocks": [],
+      "start_seconds": 0,
+      "end_seconds": 25,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Quin Snyder on the Hawks transition struggles: Sometimes if you are not making shots it deflates you a little bit. I think it is energy and we had a lot more urgency getting the ball in but even when we got stops we were not urgent enough to run.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder discusses the team's transition energy and urgency during the game against the Celtics.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Quin Snyder",
+      "timestamp": "01:07",
+      "summary_phrase": "Quin Snyder on the defensive impact of Dyson Daniels and Lou Williams",
+      "names_mentioned": [
+        "Dyson",
+        "Lou",
+        "Jalen"
+      ],
+      "excerpt": "Dyson and Lou kind of working in tandem, it really seemed to close the basket",
+      "quote": "They're both obviously in different ways, but they're both really impactful. You don't want to take it for granted. But at the same time, I thought Jalen had some plays defensively that were some big-time plays. Everybody was competing, and that's if the other three guys on the court aren't doing their job, Lou and Dyson can't guard everybody. But their determination, you can see a feel starting to develop between those two guys.",
+      "text_blocks": [],
+      "start_seconds": 67,
+      "end_seconds": 95,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Quin Snyder on the defensive impact of Dyson Daniels and Jalen Johnson: You do not want to take it for granted. Everybody was competing and you can see a feel starting to develop between those two guys.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Dyson Daniels",
+          "Lou Williams",
+          "Jalen Johnson"
+        ],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Quin Snyder evaluates the defensive impact and chemistry of Dyson Daniels, Lou Williams, and Jalen Johnson.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Quin Snyder",
+      "timestamp": "02:03",
+      "summary_phrase": "Quin Snyder on the Hawks advancing to the NBA Cup knockout rounds",
+      "names_mentioned": [],
+      "excerpt": "this was a gritty win, so for us to be rewarded for playing that way",
+      "quote": "This was a gritty win, so for us to be rewarded for playing that way is something I think we can hang on to. We've said this is a unique format, this tournament, and we've got our work cut out for us. But if we compete like that, we always have a chance.",
+      "text_blocks": [],
+      "start_seconds": 123,
+      "end_seconds": 143,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Quin Snyder on the Hawks advancing to the NBA Cup knockout rounds: This was a gritty win so for us to be rewarded for playing that way is something I think we can hang on to. If we compete like that we always have a chance.",
+      "team": "Atlanta Hawks",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "ATL"
+        ],
+        "topics": [],
+        "context": "Quin Snyder reflects on the Hawks advancing to the NBA Cup knockout rounds following a gritty win.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: press conference",
+  "format": "ytq-1",
+  "video_id": "IyIwrUlL0b4",
+  "url": "https://www.youtube.com/watch?v=IyIwrUlL0b4",
+  "channel_team": "Atlanta Hawks",
+  "published": "2026-11-28T03:49:17Z",
+  "duration_seconds": 163,
+  "processed_at": "2026-11-28T04:24:10Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

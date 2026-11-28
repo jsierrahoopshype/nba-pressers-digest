@@ -1,0 +1,158 @@
+{
+  "video_title": "Darko Rajakovic | Post Game vs Brooklyn Nets | November 27, 2026",
+  "speakers_seen": [
+    "Darko Rajakovic"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:12",
+      "summary_phrase": "Raptors focused on fighting for a play-in tournament spot",
+      "names_mentioned": [],
+      "excerpt": "we needed to try to be above 20 at least so we can get a wild card",
+      "quote": "We were trying to fight the margin. We knew that we needed to try to be above 20 at least so we can get a wild card. Obviously waiting on other teams as well what they do. But guys had a lot of grit to play all the way through and to find those extra four points.",
+      "text_blocks": [],
+      "start_seconds": 72,
+      "end_seconds": 94,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says the Raptors are focused on fighting for a play in tournament spot and are watching other teams results closely to see if they can climb the standings",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Darko Rajakovic discusses the team's effort to secure a play-in tournament spot following the game against the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "01:45",
+      "summary_phrase": "Developing offensive packages for Immanuel Quickley and Scottie Barnes",
+      "names_mentioned": [
+        "Immanuel Quickley",
+        "Scottie Barnes"
+      ],
+      "excerpt": "our two main offensive engines at this point are Immanuel Quickley and Scottie Barnes",
+      "quote": "Our two main offensive engines at this point are Immanuel Quickley and Scottie Barnes, and we are really trying to develop a package offensively what those guys can accomplish. I thought that Immanuel Quickley was to the point, the way how he was finding solutions, the way he was touching the paint, the way he was finding assists. I thought that force that Scottie Barnes played with and attacking downhill was really good. We were also able to attack certain matchups that we liked and that gave us results tonight.",
+      "text_blocks": [],
+      "start_seconds": 105,
+      "end_seconds": 140,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic says the Raptors are building their offense around Immanuel Quickley and Scottie Barnes as the two main engines",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Immanuel Quickley",
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "coaching decisions"
+        ],
+        "context": "Darko Rajakovic explains the offensive strategy centered around Immanuel Quickley and Scottie Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "02:32",
+      "summary_phrase": "Chemistry growth between Immanuel Quickley and Scottie Barnes",
+      "names_mentioned": [
+        "Immanuel Quickley",
+        "Scottie Barnes"
+      ],
+      "excerpt": "they spend quite a bit of time talking basketball and trying to learn each other",
+      "quote": "They spend quite a bit of time talking basketball and trying to learn each other. We watch a lot of film and we are trying to put them in situations that they can work out, to create those habits. Doesn't matter what defense is doing for them, still to be effective in those pick-and-rolls or DHO actions, and I think they are complementing each other really well right now.",
+      "text_blocks": [],
+      "start_seconds": 152,
+      "end_seconds": 179,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Darko Rajakovic notes that Immanuel Quickley and Scottie Barnes are spending significant time watching film together to build chemistry in pick and roll and DHO actions",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Immanuel Quickley",
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Darko Rajakovic comments on the developing chemistry and communication between Immanuel Quickley and Scottie Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Darko Rajakovic",
+      "timestamp": "03:06",
+      "summary_phrase": "Injury updates for Jakob Poeltl and Scottie Barnes",
+      "names_mentioned": [
+        "Jakob Poeltl",
+        "Scottie Barnes"
+      ],
+      "excerpt": "Jakob Poeltl got hit in his quad, quad contusion, we will see how he feels in the morning",
+      "quote": "Jakob Poeltl got hit in his quad, quad contusion, we will see how he feels in the morning. Scottie Barnes, he was able to finish the game, he had a little bit of a sore neck, but he was able to finish the game. We will see tomorrow how they feel and they are there.",
+      "text_blocks": [],
+      "start_seconds": 186,
+      "end_seconds": 207,
+      "speaker_confidence": "named",
+      "news_score": 8,
+      "social_score": 3,
+      "social_post": "Darko Rajakovic provides injury updates on Jakob Poeltl who has a quad contusion and Scottie Barnes who is dealing with a sore neck",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jakob Poeltl",
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "injuries"
+        ],
+        "context": "Darko Rajakovic provides injury updates on Jakob Poeltl and Scottie Barnes after the game.",
+        "best": true,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "vNlsa9zuBRQ",
+  "url": "https://www.youtube.com/watch?v=vNlsa9zuBRQ",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-28T04:03:17Z",
+  "duration_seconds": 219,
+  "processed_at": "2026-11-28T04:24:03Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

@@ -1,0 +1,370 @@
+{
+  "video_title": "Karl-Anthony Towns, Landry Shamet, Jalen Brunson, James Wiseman Postgame Media | November 27, 2026",
+  "speakers_seen": [
+    "Karl-Anthony Towns",
+    "Landry Shamet",
+    "Jalen Brunson",
+    "James Wiseman"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Karl-Anthony Towns",
+      "timestamp": "00:14",
+      "summary_phrase": "Karl-Anthony Towns on the team's execution and deficit issues",
+      "names_mentioned": [],
+      "excerpt": "what got us in the deficit is what lost us the game which was execution",
+      "quote": "We put ourselves in those positions that we shouldn't, and we didn't execute at a high level today. Again, we found ourselves fighting, fighting, fighting our way back into the game, but at the end of the day, what got us in the deficit is what lost us the game which was execution. It had nothing to do with the last two or three minutes of the game; it was a game-long lack of execution that hurt us.",
+      "verbatim_original_language": "",
+      "start_seconds": 14,
+      "end_seconds": 44,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Karl-Anthony Towns says the Knicks loss to the Bucks came down to a game-long lack of execution. He noted that the deficit they dug themselves into was ultimately what cost them the game.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Karl-Anthony Towns discusses the team's lack of execution during a postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Karl-Anthony Towns",
+      "timestamp": "00:57",
+      "summary_phrase": "Karl-Anthony Towns on maintaining conditioning for the long season",
+      "names_mentioned": [],
+      "excerpt": "you condition your body to be ready for whatever the season or this team needs",
+      "quote": "I feel like I played a New York Knicks game. You condition your body to be ready for whatever the season or this team needs.",
+      "verbatim_original_language": "",
+      "start_seconds": 57,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Karl-Anthony Towns on his conditioning: I feel like I played a New York Knicks game. You condition your body to be ready for whatever the season or this team needs.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Karl-Anthony Towns explains how he conditions his body to meet the demands of the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Karl-Anthony Towns",
+      "timestamp": "01:12",
+      "summary_phrase": "Karl-Anthony Towns on the challenge of playing with Giannis and Damian",
+      "names_mentioned": [
+        "Giannis",
+        "Damian"
+      ],
+      "excerpt": "one guy has the second most points in a game ever and another guy is a former MVP",
+      "quote": "It's a challenge to that as you just said. One guy has the second most points in a game ever and another guy is a former MVP. Again, it goes back to execution. Just execute what we planned coming into the game and doing it for 48 minutes is what is going to get you a win against a great team like them.",
+      "verbatim_original_language": "",
+      "start_seconds": 72,
+      "end_seconds": 96,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Karl-Anthony Towns on facing Giannis and Dame: It is a challenge. One guy has the second most points in a game ever and another guy is a former MVP. It goes back to execution.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Giannis Antetokounmpo",
+          "Damian Lillard"
+        ],
+        "teams": [
+          "NYK",
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Karl-Anthony Towns discusses the challenge of playing against Giannis Antetokounmpo and Damian Lillard.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Karl-Anthony Towns",
+      "timestamp": "01:40",
+      "summary_phrase": "Karl-Anthony Towns on the disappointment of not defending the cup",
+      "names_mentioned": [],
+      "excerpt": "obviously disappointed we can't defend the cup championship but we still have a lot more games",
+      "quote": "Obviously disappointed we can't defend the cup championship, but we still have a lot more games to get ourselves ready to defend the world championship. We will continue to get 1% better every single night, continue to lean on each other, sacrifice for each other, and see where we end up at game 83.",
+      "verbatim_original_language": "",
+      "start_seconds": 100,
+      "end_seconds": 121,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Karl-Anthony Towns says he is disappointed the Knicks cannot defend their NBA Cup title, but the focus remains on the world championship. We will continue to get 1 percent better every single night.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Karl-Anthony Towns reflects on the team's disappointment after failing to defend their NBA Cup championship.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Landry Shamet",
+      "timestamp": "02:28",
+      "summary_phrase": "Landry Shamet on the team's need to minimize poor starts",
+      "names_mentioned": [],
+      "excerpt": "it was a tough start but you still got to find ways to try to dig yourself out",
+      "quote": "There's 82 games and you're going to have nights where it's flowing and clicking and maybe you blow a team out. You're going to have nights on the other end. The job remains the same. It was a tough start, but you still got to find ways to try to dig yourself out of it. I don't look at it as any sort of trend. You want to try to minimize nights like tonight as best you can.",
+      "verbatim_original_language": "",
+      "start_seconds": 148,
+      "end_seconds": 178,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Landry Shamet says the Knicks need to minimize poor starts after tonight's loss. He added that he does not look at the slow start as any sort of trend.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Landry Shamet discusses the team's need to avoid poor starts during the regular season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Jalen Brunson",
+      "timestamp": "03:25",
+      "summary_phrase": "Jalen Brunson on the team's ability to fight back from deficits",
+      "names_mentioned": [],
+      "excerpt": "we're comfortable with being able to fight back but obviously a position we don't want to be in",
+      "quote": "Maybe a little bit mentally, but physically not that much. I mean we should have been playing that way from the start. So it's something that I think we're comfortable with being able to fight back, but obviously a position we don't want to be in.",
+      "verbatim_original_language": "",
+      "start_seconds": 205,
+      "end_seconds": 223,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Jalen Brunson on the Knicks fighting back from deficits: We should have been playing that way from the start. It is something I think we are comfortable with being able to fight back, but obviously a position we do not want to be in.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jalen Brunson addresses the team's tendency to fall into deficits and their ability to fight back.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Jalen Brunson",
+      "timestamp": "03:47",
+      "summary_phrase": "Jalen Brunson on the frustration of losing the NBA Cup",
+      "names_mentioned": [],
+      "excerpt": "it's frustrating obviously just the way we fought back and the poor decision making ahead",
+      "quote": "It's frustrating obviously just the way we fought back and the poor decision making ahead in the fourth quarter and honestly throughout the game. But I think that's the most frustrating part, just we get a chance to do so.",
+      "verbatim_original_language": "",
+      "start_seconds": 227,
+      "end_seconds": 242,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Jalen Brunson calls the NBA Cup loss frustrating due to the poor decision making in the fourth quarter and throughout the game.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jalen Brunson expresses frustration regarding the team's decision-making in their loss.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 8,
+      "speaker": "Jalen Brunson",
+      "timestamp": "04:23",
+      "summary_phrase": "Jalen Brunson on the team's resilience regardless of the situation",
+      "names_mentioned": [],
+      "excerpt": "regardless of if there's a roller coaster ride or up or down I think we're a team",
+      "quote": "Whenever there's a chance to win something you want to go out there and win it. So regardless of if there's a roller coaster ride or up or down I think we're a team that we're going to figure out whatever is thrown at us and whatever obstacle or hurdle we have. So no matter what it is we're going to figure it out.",
+      "verbatim_original_language": "",
+      "start_seconds": 263,
+      "end_seconds": 288,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Jalen Brunson on the team's resilience: Whenever there is a chance to win something you want to go out there and win it. We are a team that is going to figure out whatever is thrown at us.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "Jalen Brunson discusses the team's resilience in overcoming obstacles throughout the season.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 9,
+      "speaker": "James Wiseman",
+      "timestamp": "04:58",
+      "summary_phrase": "James Wiseman on his role and keeping things simple",
+      "names_mentioned": [],
+      "excerpt": "just really just go out there and just you know keeping it simple trying to play my role",
+      "quote": "I feel good. Just really just go out there and just you know keeping it simple trying to play my role and just be ready when my name is called.",
+      "verbatim_original_language": "",
+      "start_seconds": 298,
+      "end_seconds": 310,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "James Wiseman on his current role with the Knicks: Just really just go out there and just you know keeping it simple trying to play my role and just be ready when my name is called.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "James Wiseman describes his approach to playing his role and staying ready when called upon.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 10,
+      "speaker": "James Wiseman",
+      "timestamp": "05:10",
+      "summary_phrase": "James Wiseman on maintaining efficiency during extended minutes",
+      "names_mentioned": [],
+      "excerpt": "just really just trying to be efficient just in my minutes and just playing it simple",
+      "quote": "It feels good. Like I said, just really just trying to be efficient just in my minutes and just playing it simple, keeping it simple and really just just being ready. That's it.",
+      "verbatim_original_language": "",
+      "start_seconds": 310,
+      "end_seconds": 323,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "James Wiseman on his approach to extended minutes: Just really just trying to be efficient just in my minutes and just playing it simple, keeping it simple and really just just being ready.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "James Wiseman discusses his focus on maintaining efficiency during his minutes on the court.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 11,
+      "speaker": "James Wiseman",
+      "timestamp": "05:43",
+      "summary_phrase": "James Wiseman on learning to stay composed under pressure",
+      "names_mentioned": [],
+      "excerpt": "just relax keep my composure and just and just being willing to just be mature like under pressure",
+      "quote": "For sure, just relax keep my composure and just and just being willing to just be mature like under pressure and really just just being just relaxing really.",
+      "verbatim_original_language": "",
+      "start_seconds": 343,
+      "end_seconds": 354,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "James Wiseman on staying composed: Just relax keep my composure and just and just being willing to just be mature like under pressure and really just just being just relaxing really.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "James Wiseman reflects on the importance of maintaining composure and maturity under pressure.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 12,
+      "speaker": "James Wiseman",
+      "timestamp": "05:58",
+      "summary_phrase": "James Wiseman on his physical development and continued growth",
+      "names_mentioned": [
+        "Giannis",
+        "Bam"
+      ],
+      "excerpt": "just make sure I work on my body continue to get stronger and just keep on learning and growing",
+      "quote": "Yeah, just make sure I work on my body continue to get stronger and just keep on learning and growing.",
+      "verbatim_original_language": "",
+      "start_seconds": 358,
+      "end_seconds": 366,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "James Wiseman on his development: Just make sure I work on my body continue to get stronger and just keep on learning and growing.",
+      "team": "New York Knicks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "NYK"
+        ],
+        "topics": [],
+        "context": "James Wiseman discusses his ongoing physical development and commitment to learning.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: postgame",
+  "format": "ytq-1",
+  "video_id": "KWoJuIpycnE",
+  "url": "https://www.youtube.com/watch?v=KWoJuIpycnE",
+  "channel_team": "New York Knicks",
+  "published": "2026-11-28T04:17:44Z",
+  "duration_seconds": 366,
+  "processed_at": "2026-11-28T04:23:41Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

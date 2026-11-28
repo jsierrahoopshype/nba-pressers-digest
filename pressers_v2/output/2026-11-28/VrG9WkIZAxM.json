@@ -1,0 +1,241 @@
+{
+  "video_title": "Immanuel Quickley | Post Game vs Brooklyn Nets | November 27, 2026",
+  "speakers_seen": [
+    "Immanuel Quickley"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:09",
+      "summary_phrase": "Immanuel Quickley on developing chemistry with Scottie Barnes",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "he just an elite player is really easy to play with great players",
+      "quote": "Yesterday we spent probably 15 minutes just talking through different pick and roll situations, what defenders and teams are doing. I try to talk to him throughout the game, but honestly, he just an elite player is really easy to play with great players. I say it all the time, he makes the game really easy for me.",
+      "start_seconds": 9,
+      "end_seconds": 31,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Immanuel Quickley says he and Scottie Barnes are spending extra time breaking down pick and roll film together. Quickley notes that playing with an elite player like Barnes makes the game really easy for him.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley discusses his chemistry and communication with teammate Scottie Barnes following a win against the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "00:38",
+      "summary_phrase": "Immanuel Quickley on the honest communication with Scottie Barnes",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "I feel like he can just be honest with me and I can be honest with him",
+      "quote": "I feel like he can just be honest with me and I can be honest with him either way. If he needs me to do something, if he needs me to be better, if he needs me to pick it up, he gets on me a lot, and I appreciate that. So just the honesty, the honest communication, his leadership, what he is willing to do night in night out, I think it makes our team really elite.",
+      "start_seconds": 38,
+      "end_seconds": 68,
+      "speaker_confidence": "named",
+      "news_score": 7,
+      "social_score": 6,
+      "social_post": "Immanuel Quickley appreciates the accountability from Scottie Barnes. Quickley says he and Barnes have an open line of communication where they can be honest with each other when one needs to pick it up.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley describes the honest communication and leadership style of Scottie Barnes.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "01:12",
+      "summary_phrase": "Immanuel Quickley on the importance of the win against Brooklyn",
+      "names_mentioned": [],
+      "excerpt": "the mindset really from soon as I step in the arena was just to come in and effect winning",
+      "quote": "It is big. I think it is even bigger that we got the W with it. I know we had been struggling at home, so the mindset really from soon as I step in the arena was just to come in and effect winning, whatever it might be, defense, taking care of the ball, getting us in some actions that lead to good offense, and then defensively trying to get some steals, active hands and stuff like that. Just trying to get a win.",
+      "start_seconds": 72,
+      "end_seconds": 104,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "After struggling at home, Immanuel Quickley says the mindset for the Raptors against Brooklyn was focused entirely on affecting winning through defense and taking care of the ball.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR",
+          "BKN"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley reflects on the importance of securing a home win against the Brooklyn Nets.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "01:48",
+      "summary_phrase": "Immanuel Quickley on Scottie Barnes's elite playmaking abilities",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "he can do so many things, shoot the ball, athletic, can get to the rim",
+      "quote": "That is one of his elite strengths. He can do so many things, shoot the ball, athletic, can get to the rim, dunk on people. So on the ball is just another one of his strengths that he is able to affect the game with, and we try to just let him go be who he is.",
+      "start_seconds": 108,
+      "end_seconds": 130,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley highlights Scottie Barnes's playmaking as one of his elite strengths, noting that the team's philosophy is to just let Barnes go be who he is.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley highlights the various elite strengths of Scottie Barnes as a player.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 5,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "02:06",
+      "summary_phrase": "Immanuel Quickley on how Scottie Barnes's playmaking helps his own game",
+      "names_mentioned": [
+        "Scottie Barnes"
+      ],
+      "excerpt": "it allows me to be able to talk on the back line",
+      "quote": "It allows me to be able to talk on the back line. It allows me to be able to use my basketball IQ and safety talking, putting people in the right spots, kind of behind the defense a little bit sometimes. But also just when Scottie is doing that, it inspires people like me and our whole team to be better on the ball.",
+      "start_seconds": 126,
+      "end_seconds": 151,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Immanuel Quickley explains how Scottie Barnes's playmaking allows him to focus on his own role as a communicator on the back line, helping put teammates in the right spots.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Scottie Barnes"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley explains how Scottie Barnes's playmaking abilities influence his own defensive role and team morale.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 6,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "02:46",
+      "summary_phrase": "Immanuel Quickley on maintaining a consistent approach regardless of season stage",
+      "names_mentioned": [],
+      "excerpt": "I try to come out here and give 100% every single time that I'm on the floor",
+      "quote": "I play every single game to win. I play every single possession to be better, and I play every single day to be better than the day before. So knockout, in-season cup, preseason, playoffs, I play all the same. I try to come out here and give 100% every single time that I'm on the floor, so I try to be process-oriented as much as I can be.",
+      "start_seconds": 166,
+      "end_seconds": 192,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 3,
+      "social_post": "Immanuel Quickley on his approach to every game regardless of the stakes: I play every single day to be better than the day before and try to be process oriented as much as I can.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [],
+        "context": "Immanuel Quickley explains his process-oriented mindset and consistent approach to every game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 7,
+      "speaker": "Immanuel Quickley",
+      "timestamp": "03:16",
+      "summary_phrase": "Immanuel Quickley on the impact of rookie Gradey Dick",
+      "names_mentioned": [
+        "Gradey Dick"
+      ],
+      "excerpt": "he brings so many different things to the table",
+      "quote": "Super impressed. He brings so many different things to the table, his offensive rebounding, he is very mature for his age, willing to do all the little stuff to help us win, shot making. Even better person off the floor, I love who he is off the floor. He has been a great addition to our team.",
+      "start_seconds": 196,
+      "end_seconds": 216,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 4,
+      "social_post": "Immanuel Quickley is impressed by Gradey Dick, calling the rookie very mature for his age and praising his willingness to do the little things to help the team win.",
+      "team": "Toronto Raptors",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Gradey Dick"
+        ],
+        "teams": [
+          "TOR"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Immanuel Quickley shares his positive impressions of rookie teammate Gradey Dick.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: post game",
+  "format": "ytq-1",
+  "video_id": "VrG9WkIZAxM",
+  "url": "https://www.youtube.com/watch?v=VrG9WkIZAxM",
+  "channel_team": "Toronto Raptors",
+  "published": "2026-11-28T04:12:13Z",
+  "duration_seconds": 216,
+  "processed_at": "2026-11-28T04:23:38Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

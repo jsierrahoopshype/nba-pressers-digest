@@ -1,0 +1,150 @@
+{
+  "video_title": "Cedric Coward Walk-Off Interview | Grizzlies vs. Timberwolves",
+  "speakers_seen": [
+    "Rob Fischer",
+    "Cedric Coward"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Cedric Coward",
+      "speakers": [
+        "Unidentified reporter",
+        "Cedric Coward"
+      ],
+      "timestamp": "00:00",
+      "summary_phrase": "Cedric Coward on Memphis's fourth quarter comeback against Minnesota",
+      "names_mentioned": [],
+      "excerpt": "we didn't respond the correct way last time we played these guys. Just making sure we respond",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "You guys weathered the storm in that third quarter, come out of it with the lead. In the fourth quarter you take over the game again. What changed in that fourth quarter for you guys?"
+        },
+        {
+          "speaker": "Cedric Coward",
+          "text": "We have been here before. It happened last game, last time we played these guys and we didn't respond the correct way. Just making sure we respond the correct way this time, stick to our game, and never get worried. For us, we have been through it. Like coach was saying, we have been through it all training camp, all last season, and now this season we are built for it."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 41,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Cedric Coward on the Grizzlies fourth quarter comeback against Minnesota: We have been through it all training camp, all last season, and now this season we are built for it.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Cedric Coward discusses the Grizzlies' fourth quarter comeback against the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Cedric Coward",
+      "speakers": [
+        "Unidentified reporter",
+        "Cedric Coward"
+      ],
+      "timestamp": "00:28",
+      "summary_phrase": "Cedric Coward on attacking Minnesota's aggressive defensive pressure",
+      "names_mentioned": [],
+      "excerpt": "attacking their pressure. They have really good point of attack defenders, really good guys that get in",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "Offense moved a lot better too in that fourth quarter, more actions, more assists. How were you able to penetrate that defense that is so good on the other side?"
+        },
+        {
+          "speaker": "Cedric Coward",
+          "text": "They are, if not the best defense in the league, they are one of the top. It is just attacking their pressure. They have really good point of attack defenders, really good guys that get in to your body. But it is just attacking that, having no fear, going in, and then aggressive defense, there is positive but there is also negatives and that is where you get the assists from."
+        }
+      ],
+      "start_seconds": 28,
+      "end_seconds": 67,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 2,
+      "social_post": "Cedric Coward on attacking the Timberwolves defense: They have really good point of attack defenders, really good guys that get in to your body. But it is just attacking that, having no fear.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MEM",
+          "MIN"
+        ],
+        "topics": [],
+        "context": "Cedric Coward explains how the team handled the defensive pressure applied by the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Cedric Coward",
+      "speakers": [
+        "Unidentified reporter",
+        "Cedric Coward"
+      ],
+      "timestamp": "00:56",
+      "summary_phrase": "Cedric Coward praises Javon Small's performance off the bench",
+      "names_mentioned": [
+        "Javon Small"
+      ],
+      "excerpt": "he is a killer. It is funny because when he was doing it, I know everybody at home",
+      "text_blocks": [
+        {
+          "speaker": "Unidentified reporter",
+          "text": "The bench was great again tonight. How about the night Javon Small, especially that first half putting you guys in the position you were in?"
+        },
+        {
+          "speaker": "Cedric Coward",
+          "text": "He is a killer. It is funny because when he was doing it, I know everybody at home, I hope you weren't surprised, but if you were, don't be. That is who he is, that is what he is going to do. We missed him the first time we played these guys, but we got him back this time."
+        }
+      ],
+      "start_seconds": 56,
+      "end_seconds": 88,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 5,
+      "social_post": "Cedric Coward on Javon Small's performance off the bench: He is a killer. It is funny because when he was doing it, I know everybody at home, I hope you weren't surprised, but if you were, don't be.",
+      "team": "Memphis Grizzlies",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [
+          "Javon Small"
+        ],
+        "teams": [
+          "MEM"
+        ],
+        "topics": [
+          "teammates"
+        ],
+        "context": "Cedric Coward praises the performance of his teammate Javon Small during the game against the Timberwolves.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: interview",
+  "format": "ytq-1",
+  "video_id": "l2dxyVcxPQc",
+  "url": "https://www.youtube.com/watch?v=l2dxyVcxPQc",
+  "channel_team": "Memphis Grizzlies",
+  "published": "2026-11-28T04:10:07Z",
+  "duration_seconds": 91,
+  "processed_at": "2026-11-28T04:23:50Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

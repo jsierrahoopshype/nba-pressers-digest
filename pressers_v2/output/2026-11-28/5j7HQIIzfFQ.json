@@ -1,0 +1,119 @@
+{
+  "video_title": "Rick Carlisle Postgame Media Availability | November 27, 2026",
+  "speakers_seen": [
+    "Rick Carlisle"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Rick Carlisle",
+      "timestamp": "00:38",
+      "summary_phrase": "Rick Carlisle on LeBron James's impact in the game",
+      "names_mentioned": [
+        "LeBron James"
+      ],
+      "excerpt": "The whole thing started off with LeBron James hitting two holacious shots out of the corner",
+      "quote": "The whole thing started off with LeBron James hitting two holacious shots out of the corner, right up in our guys' grill when we were playing good defense. So some nights it's like that, and I don't like the way this game went. I know we can play a lot better, I know we can compete a lot better, but it happened and it's over and now we got to turn toward tomorrow.",
+      "text_blocks": [],
+      "start_seconds": 38,
+      "end_seconds": 66,
+      "speaker_confidence": "named",
+      "news_score": 5,
+      "social_score": 3,
+      "social_post": "Rick Carlisle on LeBron James hitting tough shots early: The whole thing started off with LeBron hitting two holacious shots out of the corner right in our guys grill when we were playing good defense. It happened and it is over.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "LeBron James"
+        ],
+        "teams": [
+          "IND",
+          "LAL"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle discusses the impact of LeBron James during the Pacers' postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Rick Carlisle",
+      "timestamp": "01:24",
+      "summary_phrase": "Rick Carlisle on Pacers' struggles against the zone defense",
+      "names_mentioned": [],
+      "excerpt": "They have a big, they have an Embiid standing in there, and we got to go better",
+      "quote": "They have a big, they have an Embiid standing in there, and we got to go better than one for 15. It's an easy answer. And we got to be able to, you know, knock in some shots. So I haven't looked at it yet. I can't give you great answers. I think you can probably answer all these questions yourself, you know, just by watching the game. It was ugly, ugly.",
+      "text_blocks": [],
+      "start_seconds": 84,
+      "end_seconds": 112,
+      "speaker_confidence": "named",
+      "news_score": 6,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the Pacers shooting struggles against the zone: We got to go better than one for 15. It is an easy answer. I think you can probably answer all these questions yourself just by watching the game. It was ugly.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Joel Embiid"
+        ],
+        "teams": [
+          "IND",
+          "PHI"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle comments on the Pacers' struggles against the opponent's zone defense during his postgame press conference.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Rick Carlisle",
+      "timestamp": "03:07",
+      "summary_phrase": "Rick Carlisle on upcoming game against the Chicago Bulls",
+      "names_mentioned": [
+        "Jalen Smith"
+      ],
+      "excerpt": "Chicago is playing well and they're off of a big win in Charlotte",
+      "quote": "Chicago is playing well and they're off of a big win in Charlotte and they didn't have Jalen Smith playing, who's one of their best players this year. So they'll be loaded up and they've been through rough stretches as well. So, you know, we're going to have to be ready to fight them.",
+      "text_blocks": [],
+      "start_seconds": 187,
+      "end_seconds": 206,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Rick Carlisle on the upcoming matchup with the Bulls: Chicago is playing well and they are off of a big win. They will be loaded up and they have been through rough stretches as well. We are going to have to be ready to fight them.",
+      "team": "Indiana Pacers",
+      "structured": {
+        "speaker_role": "coach",
+        "subjects": [
+          "Jalen Smith"
+        ],
+        "teams": [
+          "IND",
+          "CHI",
+          "CHA"
+        ],
+        "topics": [],
+        "context": "Rick Carlisle looks ahead to the upcoming matchup against the Chicago Bulls during his postgame media availability.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "5j7HQIIzfFQ",
+  "url": "https://www.youtube.com/watch?v=5j7HQIIzfFQ",
+  "channel_team": "Indiana Pacers",
+  "published": "2026-11-28T04:11:51Z",
+  "duration_seconds": 206,
+  "processed_at": "2026-11-28T04:23:48Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}

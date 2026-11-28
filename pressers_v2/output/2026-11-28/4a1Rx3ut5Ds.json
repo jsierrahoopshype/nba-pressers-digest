@@ -1,0 +1,133 @@
+{
+  "video_title": "Brayden Burries Postgame Media Availability | 11.27.26",
+  "speakers_seen": [
+    "Brayden Burries"
+  ],
+  "quotes": [
+    {
+      "rank": 1,
+      "speaker": "Brayden Burries",
+      "timestamp": "00:12",
+      "summary_phrase": "Brayden Burries on Milwaukee's defensive lapses and momentum shifts",
+      "names_mentioned": [],
+      "excerpt": "I think just the big leads they had, big runs they had. It was a lot of momentum plays.",
+      "quote": "I think just the big leads they had, big runs they had. It was a lot of momentum plays they had with the end of the quarter three-pointer, almost had a steal, then they get an and-one, a long rebound, get a stop, but we don't get the rebound and they hit a three. Just plays like that, plays like that just takes your adrenaline out of it and it's like, dang. But the thing we got to get better at is just moving on to the next play. And when we get down, just continue to stay with each other and know that basketball is a game of runs.",
+      "text_blocks": [],
+      "start_seconds": 12,
+      "end_seconds": 54,
+      "speaker_confidence": "named",
+      "news_score": 4,
+      "social_score": 2,
+      "social_post": "Brayden Burries on the Bucks defensive lapses and momentum shifts: The thing we have to get better at is just moving on to the next play. When we get down, just continue to stay with each other and know that basketball is a game of runs.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries discusses the team's defensive struggles and momentum shifts during the game.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 2,
+      "speaker": "Brayden Burries",
+      "timestamp": "00:51",
+      "summary_phrase": "Brayden Burries on learning to navigate NBA defensive schemes",
+      "names_mentioned": [],
+      "excerpt": "Usually most of the time, first action, you're not going to score.",
+      "quote": "Just the way they're guarding it. Usually most of the time, first action, you're not going to score. So just try to set up off the first action for other teammates, put them in positions to be successful and then just playing from there. Then rebounding, the main thing with me is I got to get rebound better today and then take care of the ball a little bit better.",
+      "text_blocks": [],
+      "start_seconds": 51,
+      "end_seconds": 78,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 1,
+      "social_post": "Brayden Burries on his personal focus for the Bucks: The main thing with me is I have to rebound better and take care of the ball a little bit better.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries explains his approach to navigating opposing defensive schemes and areas for his personal improvement.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 3,
+      "speaker": "Brayden Burries",
+      "timestamp": "01:39",
+      "summary_phrase": "Brayden Burries on offensive success and team chemistry",
+      "names_mentioned": [],
+      "excerpt": "Just getting in the paint. I've been blessed with a good frame.",
+      "quote": "Just getting in the paint. I've been blessed with a good frame, so just trying to get in the paint, knowing they're in bonus, trying to get to the free throw line. And then they're a big shift team and big help team, so when my teammates were passing it to me, just trying to make sure I knock down the three.",
+      "text_blocks": [],
+      "start_seconds": 99,
+      "end_seconds": 123,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 2,
+      "social_post": "Brayden Burries on his offensive approach: I have been blessed with a good frame, so just trying to get in the paint, knowing they are in bonus, trying to get to the free throw line.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries describes his offensive strategy of attacking the paint and spacing the floor for his teammates.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    },
+    {
+      "rank": 4,
+      "speaker": "Brayden Burries",
+      "timestamp": "02:23",
+      "summary_phrase": "Brayden Burries on balancing individual growth and team adversity",
+      "names_mentioned": [],
+      "excerpt": "You show your true character in the midst of adversity.",
+      "quote": "For myself, I would say just controlling what I can control, which is my attitude, my effort. That's controllable. And then just being a great teammate, trying to bring energy, especially off the bench right now. Just trying to bring energy, trying to bring joy. If I see a teammate down, trying to help them out. If I see them make a big play or make a shot or get a stop, trying to cheer for them. And then with the team, it's just the adversity part is just trying to be in the present, continue to lean on one another. I feel like I'm real big on like, you show your true character in the midst of adversity. So how you act when adversity hits you, that's who you really are.",
+      "text_blocks": [],
+      "start_seconds": 143,
+      "end_seconds": 194,
+      "speaker_confidence": "named",
+      "news_score": 3,
+      "social_score": 3,
+      "social_post": "Brayden Burries on team adversity: I feel like I am real big on the idea that you show your true character in the midst of adversity. How you act when adversity hits you, that is who you really are.",
+      "team": "Milwaukee Bucks",
+      "structured": {
+        "speaker_role": "player",
+        "subjects": [],
+        "teams": [
+          "MIL"
+        ],
+        "topics": [],
+        "context": "Brayden Burries reflects on maintaining a positive attitude and supporting his teammates during periods of adversity.",
+        "best": false,
+        "prompt": "47544341"
+      }
+    }
+  ],
+  "reporter_check": 2,
+  "reporter_check_source": "gemini",
+  "content_type": "presser",
+  "content_type_source": "keyword: media availability",
+  "format": "ytq-1",
+  "video_id": "4a1Rx3ut5Ds",
+  "url": "https://www.youtube.com/watch?v=4a1Rx3ut5Ds",
+  "channel_team": "Milwaukee Bucks",
+  "published": "2026-11-28T04:06:27Z",
+  "duration_seconds": 198,
+  "processed_at": "2026-11-28T04:24:01Z",
+  "run_id": "2026-11-28-overnight",
+  "is_one_off": false
+}
