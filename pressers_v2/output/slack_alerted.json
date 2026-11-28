@@ -216,6 +216,12 @@
    "run_id": "2026-11-26-overnight",
    "slot_date": "2026-11-26"
   },
+  "3i1Oxq29LP8": {
+   "at": "2026-11-28T02:41:13Z",
+   "quote": "he s showing great he s in the gym every day and he s been with us and rick s in there with him and making really good strides so everything s on schedule",
+   "run_id": "2026-11-28T0240Z-20utc",
+   "slot_date": "2026-11-27"
+  },
   "3sjlOqJD09Y": {
    "at": "2026-11-16T18:39:18Z",
    "quote": "honestly i m not sure there was a little frustration but coach talked about after the game he wants to be better and we all want to be better we had moments where we all got caught up on the wrong thi",
@@ -1224,6 +1230,12 @@
    "run_id": "2026-11-16T2322Z-14utc",
    "slot_date": "2026-11-16"
   },
+  "Q9WjWuU8nNQ": {
+   "at": "2026-11-28T02:41:13Z",
+   "quote": "he had covid so he s reintegrating with the team hopefully he s back soon he s in that process now of coming back and we ll just see how he progresses as he gets better",
+   "run_id": "2026-11-28T0240Z-20utc",
+   "slot_date": "2026-11-27"
+  },
   "QAcot0ShS1o": {
    "at": "2026-11-16T18:39:18Z",
    "quote": "that s obvious that s not a commitment to defense a commitment to the standards we re trying to instill with our team we have to look in the mirror and hold each other accountable and that was not the",
@@ -1403,6 +1415,12 @@
    "quote": "when you re playing in a drop you re susceptible to threes we re doing a great job protecting the paint and i would say this probably feels like the first game that we really got burned from deep like",
    "run_id": "2026-11-19-overnight",
    "slot_date": "2026-11-19"
+  },
+  "UH6QXMYAo-U": {
+   "at": "2026-11-28T02:41:13Z",
+   "quote": "i know he s done everything that s been asked of him and more and he s really matured in his preparation recovery just understanding all the stuff that you have to do to be professional in this league",
+   "run_id": "2026-11-28T0240Z-20utc",
+   "slot_date": "2026-11-27"
   },
   "UIeSa7XxFpg": {
    "at": "2026-11-17T18:39:34Z",
@@ -2455,6 +2473,12 @@
    "run_id": "2026-11-18-overnight",
    "slot_date": "2026-11-18"
   },
+  "orcSwrQXgB4": {
+   "at": "2026-11-28T02:41:13Z",
+   "quote": "it s been great the ability to get back on the floor together actually have a real practice where guys can go against each other compete a little bit then the recovery side of it being able to not hav",
+   "run_id": "2026-11-28T0240Z-20utc",
+   "slot_date": "2026-11-27"
+  },
   "orpep1VehGE": {
    "at": "2026-11-20T21:48:41Z",
    "quote": "there is obviously taylor who s stepping up in a major way who came to us from utah as an unknown we didn t know what he could do when we had him in some of our first games as a five because we didn t",
@@ -2622,6 +2646,12 @@
    "quote": "our defense teams got a game plan for us defensively victor wembanyama and luka are so dominant on that side of the ball especially with victor in the game teams are going to throw a lot of different ",
    "run_id": "2026-11-17T2218Z-14utc",
    "slot_date": "2026-11-17"
+  },
+  "tBmWoMR-R0Q": {
+   "at": "2026-11-28T02:41:13Z",
+   "quote": "i think he s a guy who can create advantages on both sides of the ball offensively he can get in the paint and make decisions he s shown some playmaking ability throughout the course of his career and",
+   "run_id": "2026-11-28T0240Z-20utc",
+   "slot_date": "2026-11-27"
   },
   "tEWB4xc9VeQ": {
    "at": "2026-11-24T04:47:35Z",
@@ -2919,22 +2949,6 @@
   }
  },
  "pending": {
-  "3i1Oxq29LP8": {
-   "channel": "Golden State Warriors",
-   "clip_count": 6,
-   "content_type": "presser",
-   "date": "2026-11-27",
-   "is_one_off": false,
-   "queued_at": "2026-11-28T02:41:13Z",
-   "run_id": "2026-11-28T0240Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-27",
-   "speaker": "Steve Kerr",
-   "title": "Steve Kerr provides update on Steph Curry’s oblique injury | NBC Sports Bay Area",
-   "top_quote": "He's showing great. He's in the gym every day and he's been with us and Rick's in there with him and making really good strides. So everything's on schedule.",
-   "video_id": "3i1Oxq29LP8"
-  },
   "7SUOs8HLfUo": {
    "channel": "Minnesota Timberwolves",
    "clip_count": 7,
@@ -3015,38 +3029,6 @@
    "top_quote": "We got to be better. We gave up 70 points in the first half and especially against teams like these where they play fast in transition and fast in the half court. We got to be better at guarding the ball and keeping them out of transition. Second half we were a lot better defensively, but offensively we were pretty bad, pretty slow, stagnant the whole game. Just not how we want to play.",
    "video_id": "Lh02MmMunbk"
   },
-  "Q9WjWuU8nNQ": {
-   "channel": "Boston Celtics",
-   "clip_count": 3,
-   "content_type": "presser",
-   "date": "2026-11-27",
-   "is_one_off": false,
-   "queued_at": "2026-11-28T02:41:13Z",
-   "run_id": "2026-11-28T0240Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-27",
-   "speaker": "Joe Mazzulla",
-   "title": "Joe Mazzulla Reveals Mitchell Robinson is Dealing with COVID | Celtics vs Hawks Pregame",
-   "top_quote": "He had COVID, so he's reintegrating with the team. Hopefully he's back soon. He's in that process now of coming back and we'll just see how he progresses as he gets better.",
-   "video_id": "Q9WjWuU8nNQ"
-  },
-  "UH6QXMYAo-U": {
-   "channel": "San Antonio Spurs",
-   "clip_count": 6,
-   "content_type": "presser",
-   "date": "2026-11-27",
-   "is_one_off": false,
-   "queued_at": "2026-11-28T02:41:13Z",
-   "run_id": "2026-11-28T0240Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-27",
-   "speaker": "Mitch Johnson",
-   "title": "Mitch Johnson on Spurs NBA Cup Matchup Against the Los Angeles Lakers",
-   "top_quote": "I know he's done everything that's been asked of him and more and he's really matured in his preparation, recovery, just understanding all the stuff that you have to do to be professional in this league. I think our medical team is as good as it gets, so that's a good recipe. But in terms of why or when he is back, no clue. Just again very thankful that it wasn't as serious as it may have looked to some of our eyes, so happy that he's trending into a good place.",
-   "video_id": "UH6QXMYAo-U"
-  },
   "UQChnqoeqn8": {
    "channel": "Phoenix Suns",
    "clip_count": 2,
@@ -3095,22 +3077,6 @@
    "top_quote": "He's become much more consistent as a player, not nearly the number of highs and lows. Just a lot of highs. And when something does happen that isn't the greatest thing, he recovers very quickly. It's a maturity thing. He's a great kid. I know his family, I know his dad, and he really wants it bad. By wanting it, he wants to be as good a player as he can be to help his team. He's gained the trust of our veteran players because of how hard he goes, he plays to his strengths, they know what they can expect from him, and they know that he will be there for them.",
    "video_id": "ecLl-7vJcjY"
   },
-  "orcSwrQXgB4": {
-   "channel": "New Orleans Pelicans",
-   "clip_count": 5,
-   "content_type": "presser",
-   "date": "2026-11-27",
-   "is_one_off": false,
-   "queued_at": "2026-11-28T02:41:13Z",
-   "run_id": "2026-11-28T0240Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": true,
-   "slot_date": "2026-11-27",
-   "speaker": "Jamahl Mosley",
-   "title": "LIVE: Pelicans vs. Clippers Pregame w/ Jamahl Mosley 11/27/2026",
-   "top_quote": "It's been great. The ability to get back on the floor together, actually have a real practice where guys can go against each other, compete a little bit. Then the recovery side of it, being able to not have five in seven nights where you're traveling a little bit. So the ability to get these guys on the court has been great.",
-   "video_id": "orcSwrQXgB4"
-  },
   "rbN1OSgh3vo": {
    "channel": "Milwaukee Bucks",
    "clip_count": 5,
@@ -3126,22 +3092,6 @@
    "title": "Myles Turner Postgame Media Availability | 11.23.26",
    "top_quote": "There's really no words for it. It's a testament to a lot of hard work and just a lot of patience and just me being myself. There's no question I've been struggling a bit to start the season, but to have a breakthrough like tonight was really big for my confidence and just a reminder of who I am in this league and what my strengths are.",
    "video_id": "rbN1OSgh3vo"
-  },
-  "tBmWoMR-R0Q": {
-   "channel": "Orlando Magic",
-   "clip_count": 6,
-   "content_type": "presser",
-   "date": "2026-11-27",
-   "is_one_off": false,
-   "queued_at": "2026-11-28T02:41:13Z",
-   "run_id": "2026-11-28T0240Z-20utc",
-   "run_slot": "20utc",
-   "single_speaker": false,
-   "slot_date": "2026-11-27",
-   "speaker": "Coach Sweeney",
-   "title": "PRACTICE SOUND: COACH SWEENEY & KEVIN PORTER JR.  BY SAS",
-   "top_quote": "I think he's a guy who can create advantages on both sides of the ball. Offensively, he can get in the paint and make decisions. He's shown some playmaking ability throughout the course of his career and then defensively, he has been a very good on-ball defender and a guy who can give us some impact off the basketball as well. He's got good instincts, so offensively and defensively, he can help us create some advantages.",
-   "video_id": "tBmWoMR-R0Q"
   },
   "tEWB4xc9VeQ": {
    "channel": "Houston Rockets",
